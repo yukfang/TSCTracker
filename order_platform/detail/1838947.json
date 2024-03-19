@@ -1,0 +1,530 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1706205448,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706208311,
+      "auto_close_hit": 0,
+      "id": 7328107297635434000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Liza,</p><p>Thanks for reaching out! I know you had reached out to Katerina regarding this but I can assist you in the meantime as she is a TSC for EUI and the client information for this ticket is for a US based client.</p><p>Regarding VSA App campaigns,  it currently looks like App VSA is currently in open beta and the client may require to be put on an allowlist  - commdoc for reference: <a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh\" target=\"_blank\">https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh</a></p><p>For clarification, what is the client attempting to do? Is it one of the scenarios below? </p><ol><li>Continue running the App Promotion campaigns in combination with VSA App within the same campaign. The Ad will display Apps like products and will still drive to download the app and deposit (this is likely not possible)</li><li>Continue running the App Promotion campaigns alongside separate VSA App campaigns. Both will be separate campaigns but will use the existing setup. The VSA App campaign will drive towards what can represent a purchase event (likely the deposit action)</li></ol><p>In the meantime, the client will still need to configure an AddToCart event for proper VSA App operation. It appears that they only have the ViewContent and Purchase (CompletePayment) events configured. Screenshot from the Hard Rock Bet Android app:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/556bef59b654479a85e9d067f483fda4.png\" height=\"175.116\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/556bef59b654479a85e9d067f483fda4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833481&amp;x-signature=NM8PRuzObQYBUp5T2g4fHTMKtc4%3D\" width=\"375\"><p><br /></p><p>Thanks!</p><p>Robbie</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706209462,
+      "auto_close_hit": 0,
+      "id": 7328112877502464000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "liza.grach@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user9750748980297",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7097953420447187969",
+      "name": "user9750748980297",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,</p><p>Thanks for your answer. I think it is the second option. Important to note -the app promotion campaigns are running in a different app account and are managed by a different agency. The agency managing this account - Genius, want to run VSA app campaigns that will eventually lead to app installs and then to deposits. The products will be different games but these are not actual products to buy.</p><p>Ideally I would really love one of the implementation engineers to meet with the client and help support them closely in the set up. Also the event set up you&#39;re seeing is actually different from the one that is used for the app promotion campaigns. It looks like they have their own integration with a unique tracking link. I&#39;d like to first understand if this is recommended and cannot somehow mess up the app promotion activity? If they are to use the same integration - how does it work? Do they just add the ATD event there and add the parameters to the existing Purchase event? Will this also not somehow hurt the current activity?</p><p><br></p><p><br></p><p>Please see below the additional open questions I have when trying to troubleshoot this:</p><p><br></p><li>What is the effect on IOS14/ SKAN campaigns and what do we need to take into account in terms of the mapping and SKAN schema? Will the schema they are currently using automatically apply here as well, given it is a different integration?</li><li>Since these are not actual products, they don&#39;t have a product deep link but just wish to redirect users to download the app. What do they need to place in the different settings to make sure the installs are tracked? Such as Product link, ANDR/ IOS URL, ad level, or anything else I missed? Should they use the App store link or something different?</li>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a7578745-78ee-4905-922e-80ae08d3fd8g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706560127,
+      "auto_close_hit": 0,
+      "id": 7329619194520470000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Liza,</p><p>Apologies for the delay here! I am working on getting more detailed answers and verification for the questions above. I&#39;d be more than happy to hop on a call with the advertiser in order to gather information to take back to our team for further guidance regarding this specific setup</p><p>In the meantime while I wait for answers/verification from our team, here are my responses from what I understand of our current capabilities.</p><ul><li><span style=\"color: #333333;\">If they are to use the same integration - how does it work? Do they just add the ATD event there and add the parameters to the existing Purchase event? Will this also not somehow hurt the current activity?</span></li><ul><li>If they are to use the same integration, we will still need them to add the AddToCart event and update the required parameters to the existing purchase event (required events for VSA are ViewContent, AddToCart, CompletePayment). I do not believe it will hurt the current activity but rather improve upon it over time as adding more shallower funnel events usually result in better performance. Adding parameters will not affect performance&nbsp;</li></ul><li><span style=\"color: #333333;\">What is the effect on IOS14/ SKAN campaigns and what do we need to take into account in terms of the mapping and SKAN schema? Will the schema they are currently using automatically apply here as well, given it is a different integration?</span></li><ul><li>Please let me know if I have the wrong account referenced, but it does not look like they have completed the setup for the iOS Hard Rock Bet app through Events Manager: https://ads.tiktok.com/i18n/events_manager/app/detail/1572525917?start_time=2023-05-01&amp;end_time=2024-01-29&amp;aadvid=7325173187950641154</li><li>The schema and setup they are currently using should automatically apply as well. Usually we will see the same event mapping between MMP/Android/Opt in user funnel events and the Conversion Values setup for the SKAN integration</li></ul><li><span style=\"color: #333333;\">Since these are not actual products, they don&#39;t have a product deep link but just wish to redirect users to download the app. What do they need to place in the different settings to make sure the installs are tracked? Such as Product link, ANDR/ IOS URL, ad level, or anything else I missed? Should they use the App store link or something different?</span></li><ul><li>This may be difficult to achieve or may not be supported due to the current restrictions.</li><li>Question for you! Do you know if VSA campaigns can optimize on a different event rather than CompletePayment?</li><ul><li>If Yes, we can optimize on a different event rather than CompletePayment/Purchase for a VSA campaign since they will likely want to keep the CompletePayment/Purchase event mapped to the Deposit event. An Install event should be setup for both MMP/Android/Opt-in/SKAN users and can be selected upon campaign creation.&nbsp;</li><li>If we cannot pick a different optimization event for a VSA campaign, it may be difficult to achieve this since the client will likely want to map the CompletePayment to the Deposit action after App Install. In order to measure installs in this scenario, we&#39;d likely have to have the App Install action mapped to the CompletePayment/Purchase event and map the Deposit action to another event&nbsp;</li></ul></ul></ul><p><br></p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706623854,
+      "auto_close_hit": 0,
+      "id": 7329892989419930000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "liza.grach@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user9750748980297",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7097953420447187969",
+      "name": "user9750748980297",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,&nbsp;</p><p>No worries! Thank you so much for your assistance with this and elaborate answers - it really helps a lot! Yes, I think a call with the client would be perfect. I will reach out to them for availability- Is your calendar up to date?</p><p>Here a few replies/ follow up questions from me regarding the rest of the things you mentioned here:</p><ol><li>Understood about the same integration. Looking forward for feedback regarding a double integration scenario.</li><li>You got the right account. I know they haven&#39;t completed the set up but looking in catalogue manager it looks like there are some events coming through this app too. How is that possible? (attached)</li><li>Regarding the schema, the original client has only the &#34;Order Complete&#34; event in the schema and it is also mapped to Purchase in the event mapping. So assuming the will use the same integration - will they need to update the schema to also include the ATC and View Content events? </li><li>I don&#39;t think I understood the last part. Their Purchase event is indeed mapped to a deposit. And they will also have the installs set up. So I was expecting that they will be able to open MAI/ AEO campaigns and track both installs and purchases like in normal app activity campaigns. Is that not possible? My question was more on what link they should place in the product URL, ANDR and IOS URL and ad level URL to make sure these are tracked.</li></ol><p><br></p><p>Again thank you so much!</p><p>Best,&nbsp;</p><p>Liza</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screenshot 2024-01-30 at 15.34.22.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=xXtBoh1PZaiZItJUe0bUxfRRvCA%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=xXtBoh1PZaiZItJUe0bUxfRRvCA%3D",
+              "biz_type": 2,
+              "size": 257662
+            },
+            {
+              "file_type": "csv",
+              "file_name": "Hard_Rock_Bet_SKAN4.csv",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv?lk3s=cbe26b3a&x-expires=4832833482&x-signature=C1n2unnlDOYeHHMSqB%2Bd1yBwYnQ%3D",
+              "file_key": "tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv?lk3s=cbe26b3a&x-expires=4832833482&x-signature=C1n2unnlDOYeHHMSqB%2Bd1yBwYnQ%3D",
+              "biz_type": 2,
+              "size": 5964
+            },
+            {
+              "file_type": "jpeg",
+              "file_name": "appsflyer mapping ad account 7159219170175991810.jpeg",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=9bM%2BbH2gTi8rtHP0aRtcDjjYpvc%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=9bM%2BbH2gTi8rtHP0aRtcDjjYpvc%3D",
+              "biz_type": 2,
+              "size": 318700
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a7578745-78ee-4905-922e-80ae08d3fd8g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706634436,
+      "auto_close_hit": 0,
+      "id": 7329938771112182000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Liza,</p><p>I think it would be a great idea if we could sync up internally first before proceeding! There is a lot of information here and I&#39;d like to make sure we&#39;re on the same page before we meet with the client and before I send out any questions to the greater team.</p><p>Here are my avails for the week!</p><p>Tomorrow, Wed 1/31: 7 AM - 8 AM / 10 AM - 11 AM / 1 PM - 2 PM PST</p><p>Thurs 2/1: 7 AM - 11 AM PST / 1 PM - 2 PM PST</p><p>Friday 2/2: 7 AM - 1 PM PST</p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706634935,
+      "auto_close_hit": 0,
+      "id": 7329940660373471000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "liza.grach@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user9750748980297",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7097953420447187969",
+      "name": "user9750748980297",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,</p><p>Yes of course. I think it&#39;s a good idea too and thank you for suggesting! I sent an invite for tomorrow at 7am. Talk soon!</p><p><br></p><p>Thanks,</p><p>Liza</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a7578745-78ee-4905-922e-80ae08d3fd8g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706635129,
+      "auto_close_hit": 0,
+      "id": 7329941340685386000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Liza, just accepted! Also if you&#39;d prefer, I can start as early as 6 AM PST! Just noticed you are on IST time. Feel free to change the time if you&#39;d like, otherwise will chat with you and Albert at 7 AM PST tomorrow.</p><p>Thanks again!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706635242,
+      "auto_close_hit": 0,
+      "id": 7329942086982140000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "liza.grach@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user9750748980297",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7097953420447187969",
+      "name": "user9750748980297",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie!</p><p>Thank you so much! I adjusted the time. Yes I&#39;m located in Israel but the client is American :)</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a7578745-78ee-4905-922e-80ae08d3fd8g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1838947,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Support with new VSA APP client",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_a7578745-78ee-4905-922e-80ae08d3fd8g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1706635242,
+  "owner_name": "Liza Grach",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7097953420447187969",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Liza Grach",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 4134353,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Support with new VSA APP client",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "https://ads.tiktok.com/i18n/dashboard/?aadvid=7325173187950641154",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Gaming",
+      "valid": true,
+      "key": "Gaming",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "7325173187950641154",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-25",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "New catalog integation",
+      "valid": true,
+      "key": "New catalog integation",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Hi Katerina, following our chat on Lark summarizing the issue here too:  I have a unique situation with a client who is running App Promotion campaigns with us. They are also working with an agency that wishes to run VSA APP campaigns with them - portraying different games as \"products\" in the catalogue, but ultimately still sending them to download the app and ideally deposit. I think the client and myself would benefit from closer implementation support here in terms of the mmp and catalogue set up. This is also a unique situation where they already have existing AppsFlyer mapping with their ongoing activity, but now it seems the agency is attempting to set up a double integration. Let me know if you are able to assist. Thank you",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/556bef59b654479a85e9d067f483fda4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833481&x-signature=NM8PRuzObQYBUp5T2g4fHTMKtc4%3D",
+          "file_name": "file_20240318_13_44_41_840330",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/556bef59b654479a85e9d067f483fda4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833481&x-signature=NM8PRuzObQYBUp5T2g4fHTMKtc4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/556bef59b654479a85e9d067f483fda4.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-01-30 at 15.34.22.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=xXtBoh1PZaiZItJUe0bUxfRRvCA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=xXtBoh1PZaiZItJUe0bUxfRRvCA%3D",
+          "biz_type": 2,
+          "size": 257662
+        },
+        {
+          "file_type": "csv",
+          "file_name": "Hard_Rock_Bet_SKAN4.csv",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv?lk3s=cbe26b3a&x-expires=4832833482&x-signature=C1n2unnlDOYeHHMSqB%2Bd1yBwYnQ%3D",
+          "file_key": "tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv?lk3s=cbe26b3a&x-expires=4832833482&x-signature=C1n2unnlDOYeHHMSqB%2Bd1yBwYnQ%3D",
+          "biz_type": 2,
+          "size": 5964
+        },
+        {
+          "file_type": "jpeg",
+          "file_name": "appsflyer mapping ad account 7159219170175991810.jpeg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=9bM%2BbH2gTi8rtHP0aRtcDjjYpvc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=9bM%2BbH2gTi8rtHP0aRtcDjjYpvc%3D",
+          "biz_type": 2,
+          "size": 318700
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

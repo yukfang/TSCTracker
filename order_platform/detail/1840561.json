@@ -1,0 +1,268 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Κατερίνα Σάκκουλα",
+  "create_time": 1706270727,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706282945,
+      "auto_close_hit": 0,
+      "id": 7328428599970021000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><strong>[Initial Status]</strong>&nbsp;Old products that do not exist on their website/feed still appear under their catalog. The match rate is 0% across all events<br><strong>[Proposed Solution]</strong> The client should change their Feed Upload Method from 'Upload your data feed' to 'Replace your data feed' and trigger a manual data refresh.</p><p>Regarding match rates, the client's Pixel events have been mapped to the wrong variable (not the right product's ID is sent + it does not match with the feed SKU IDs). The correct Data Layer item IDs start with a 0, but the catalog feed omits this 0. After making the changes in the Pixel 'content_id' mapping, to add a catalog Regex rule so that item_group_ids start with a 0 as well. (Item_group_ID - '^' replace with '0')</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1840561,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "katerina.sakkoula@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "TkMAX",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_03dcf7ef-d235-4604-a426-c318657826hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1706282992,
+  "owner_name": "Oyin Subair",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7143761194502358017",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Oyin Subair",
+  "follow_employee_id": 9295306,
+  "is_order_top": 0,
+  "urged": 1,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 4486542,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "TkMAX",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "tKmAX",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-GB",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "6932790054582550530",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P0",
+      "valid": true,
+      "key": "P0",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-26",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Hi team! \nTkMax product card link on their ad is opening up an error page. They have also sent us an email asking these questions in relation to the catalog, Coould we please have some support as they have paused the campaign until it can get sorted.\n\nQuestions:\n'Before I set it live again, may I please check:\nThe was an automated catalogue update set up on the platform but somehow did not update the feed. (We have set this up in line with the update happening on intelligent reach catalogue updates)\nCould you please confirm based on the VSA set up being similar to other platforms, there is a guarantee that Out of stock products will not be served? \nPlease check with the catalogue with your tech teams as well. '",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "mp4",
+          "file_name": "TKmax vsa.mp4",
+          "file_url": "https://v16-tiktokcdn-com.akamaized.net/939310d0994efda465485abce0a2fabf/661fd283/video/tos/alisg/tos-alisg-v-90231e-sg/osFlRPxzVLlXvTngIWIG8ee2INGsAfeJGAnDwW/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=3562&bt=1781&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&ds=6&mime_type=video_mp4&qs=13&rc=anJ3dnk5cnJzcDQzOGc0NEBpanJ3dnk5cnJzcDQzOGc0NEBxZGcyMmRjc21gLS1kMS1zYSNxZGcyMmRjc21gLS1kMS1zcw%3D%3D&vvpl=1&l=2024031813444601021520121942358&btag=e00048000",
+          "file_key": "v1014dg50001cmppvofog65v5sjtgotg",
+          "url": "https://v16-tiktokcdn-com.akamaized.net/939310d0994efda465485abce0a2fabf/661fd283/video/tos/alisg/tos-alisg-v-90231e-sg/osFlRPxzVLlXvTngIWIG8ee2INGsAfeJGAnDwW/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=3562&bt=1781&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&ds=6&mime_type=video_mp4&qs=13&rc=anJ3dnk5cnJzcDQzOGc0NEBpanJ3dnk5cnJzcDQzOGc0NEBxZGcyMmRjc21gLS1kMS1zYSNxZGcyMmRjc21gLS1kMS1zcw%3D%3D&vvpl=1&l=2024031813444601021520121942358&btag=e00048000",
+          "size": 12170187
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

@@ -1,0 +1,234 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1742593790901282",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0087_432d00eb-4bcb-4e78-b561-b90c17e9c9hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Keshav Priyadarshi",
+  "create_time": 1710499608,
+  "deadline": 0,
+  "archive_board_id": 1705151646989706,
+  "replies": [],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1944895,
+  "workflow_nodes": [],
+  "board_id": 1705151646989706,
+  "employee_email": "keshav.priyadarshi@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Shoop lead gen",
+  "category_1_name": "Lead / Campaign Management",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_007b_b49ddb07-18ff-4104-84d4-f24780cc3chu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 0,
+  "business_data": [],
+  "update_time": 1710784952,
+  "owner_name": "Remi Bernard",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 1,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Lead / Campaign Management",
+  "archive_category_1": "1742593790901282",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1742593790901250",
+      "cate_1_form_id": 1742593070290977,
+      "sub_cates": [],
+      "value": "CRM Integration"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1742593790901282",
+      "cate_1_form_id": 1742593529900050,
+      "sub_cates": [],
+      "value": "Lead / Campaign Management"
+    }
+  ],
+  "core_user_id": "7328422823969080321",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Remi Bernard",
+  "follow_employee_id": 7890770,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 26874,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Shoop lead gen",
+      "valid": true,
+      "item_id": 1742593529900066,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Shoop",
+      "valid": true,
+      "item_id": 1742593529900082,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Finance",
+      "valid": true,
+      "key": "Finance",
+      "item_id": 1742593529901058,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1742593529901074,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Country/Region",
+      "content": "EU-DE",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1742593689690114,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1742593689690130,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": "7158474151047528450",
+      "valid": true,
+      "item_id": 1742593689690146,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1742593689690162,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Business Center ID ",
+      "content": "7063452448517586946",
+      "valid": true,
+      "item_id": 1742593689691138,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Page_id / form_id ",
+      "content": "",
+      "valid": true,
+      "item_id": 1742593689691154,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-15",
+      "valid": true,
+      "item_id": 1742593689691170,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation? ",
+      "content": "YES",
+      "valid": true,
+      "key": "YES",
+      "item_id": 1742593689691186,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Detailed Description",
+      "content": "The problem my client is encountering is that TikTok is automatically changing the campaign name to \"tiktok_cpc_tt10-{{campaign.name}}\" despite our attempts to set specific campaign names. My client have conducted several tests using both static and dynamic campaign parameters, but the error persists consistently. In all the test, he consistently encountered the same error with the campaign parameter being displayed as \"tiktok_cpc_tt10-{{campaign.name}}\", which is wrong and he will not be able to track the campaign properly his backend. I attach a screenshot he sent me, of the lead data from Instapages(Landing Page builder) on which you can see the sporadic nature of lead data coming from TikTok. We tried open a classic ticket, but its not moving, we will need a call to solve the problem",
+      "valid": true,
+      "item_id": 1742593689692162,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "We need to a do a call with the client and the team on our side because it went back and forth without finding solution",
+      "valid": true,
+      "item_id": 1742593689692178,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot/Video/File",
+      "content": [
+        {
+          "file_type": "jpeg",
+          "file_name": "5c04eb9ef73a4ac28eeca4d29533a6ac.png~tplv-6g3pebcbys-image.jpeg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0500650fcdfd4963b0062712564b200d.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875815&x-signature=d%2B9fG6Iqf1K191XkIvCJxZ%2Bakjo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0500650fcdfd4963b0062712564b200d.jpeg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0500650fcdfd4963b0062712564b200d.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875815&x-signature=d%2B9fG6Iqf1K191XkIvCJxZ%2Bakjo%3D",
+          "size": 483364
+        }
+      ],
+      "valid": true,
+      "item_id": 1742593903737858,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Lead Generation (Native)-Lead / Campaign Management"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

@@ -1,0 +1,910 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Heidi Williams",
+  "create_time": 1707287147,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707336971,
+      "auto_close_hit": 0,
+      "id": 7332955444777861000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle,</p><p><br /></p><p>I see the same behavior you point out above, the AddToCart event is firing twice:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c7b2dcb438494cb0ac5094a087b4635f.png\" height=\"209.834\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c7b2dcb438494cb0ac5094a087b4635f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837779&amp;x-signature=HRNsWthn%2BZiTzLV5fs%2BWqNvG1q4%3D\" width=\"375\"><p>There may not be a complicated reason for this, they may have accidentally created a tag AddToCart twice in GTM, or created a trigger that fires on something that happens twice when the add to cart action is taken. Either way, they should to go their list of tags and double check they only have one TikTok pixel AddToCart and that the trigger is set to fire correctly.</p><p><br /></p><p>Other notes:</p><p>Initial PageView event looks good (fires on home page), and ViewContent includes necessary parameters and looks good:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ab564aef05054f039ca24bfde3326727.png\" height=\"238.217\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab564aef05054f039ca24bfde3326727.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837779&amp;x-signature=5QiAh6b8pENcCLWdisWgMLFaVJU%3D\" width=\"375\"><p>If the client has a test login or code I can use to check CompletePayment, I can look at that as well. As for PII I see with CompletePayment, this looks great (Email is reporting ~100% of the time):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5d2e1505fff04b69a36da84dbd298692.png\" height=\"82.133\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5d2e1505fff04b69a36da84dbd298692.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837779&amp;x-signature=PP4FndvgukrnQ9un1sA%2B5I%2F4irw%3D\" width=\"375\"><p>As well as External id, which is not required but improves ad performance when it is used.</p><p><br /></p><p>Please let me know if you have further questions!</p><p><br /></p><p>Heidi</p></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707338423,
+      "auto_close_hit": 0,
+      "id": 7332960339572589000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Great! Would you say it&#39;s necessary to have price and quantity in place as parameters? I didn&#39;t see that they were set up.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707344690,
+      "auto_close_hit": 0,
+      "id": 7332987341067354000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Yes, they should have price and quantity in place. For ViewContent I see it:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/62f49497e7c84145944fc7446f27f99d.png\" height=\"303.787\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62f49497e7c84145944fc7446f27f99d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837779&amp;x-signature=DMOvNa%2BiUEkkdJKdwjyhlGMJ9Ig%3D\" width=\"375\"><p>When I check CompletePayment, I see price and quantity showing up in the parameters. For example, when I check the data and pull 'properties' from one transaction:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5a6288a81a094c48b6c09fe25ca273ec.png\" height=\"59.635\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a6288a81a094c48b6c09fe25ca273ec.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837779&amp;x-signature=H2u336sQepsRbXhYDAUyA9UEDuA%3D\" width=\"375\"><p>I am seeing:</p><p>{\"extra_pii\":1081387,\"contents\":[{<span style=\"color: #F04142;\"><strong>\"price\":\"100\",\"quantity\":\"1\",\"</strong></span>content_category\":\"Shoes\",\"content_id\":\"A10558W080\",\"content_name\":\"Women's Tree Breezers\",\"content_type\":\"product\"}],\"currency\":\"USD\",\"value\":\"100.00\",\"gtm_version\":\"0_1_21:1014\",\"value_ori\":\"100.00\",\"}</p><p><br /></p><p>Attaching the data here as well in case you would like to take a look.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "xlsx",
+              "file_name": "Allbirds All Events.xlsx",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/okEApKBKiADDQUxcBYo7ZkAiEA2FymHJvkAAN.xlsx?lk3s=cbe26b3a&x-expires=4832837779&x-signature=gGARCO7Ola8s9TGBDq6CZEa%2F0os%3D",
+              "file_key": "tos-alisg-v-90231e-sg/okEApKBKiADDQUxcBYo7ZkAiEA2FymHJvkAAN.xlsx",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/okEApKBKiADDQUxcBYo7ZkAiEA2FymHJvkAAN.xlsx?lk3s=cbe26b3a&x-expires=4832837779&x-signature=gGARCO7Ola8s9TGBDq6CZEa%2F0os%3D",
+              "biz_type": 2,
+              "size": 3508104
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707361029,
+      "auto_close_hit": 0,
+      "id": 7333058206488429000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Oh good call out. Will having it in this format affect the catalog match rate? Most of my brands have them  broken out.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707409561,
+      "auto_close_hit": 0,
+      "id": 7333267562278896000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle, actually, I&#39;m not sure! I will find out and get back to you.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707411837,
+      "auto_close_hit": 0,
+      "id": 7333277495963222000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Great, thank you!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707417599,
+      "auto_close_hit": 0,
+      "id": 7333301686691267000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle,</p><p><br /></p><p>Once upon a time, the format for passing parameters within the event codes was one single object. Example from another client: </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7cefb590347444129ddac41464e24556.png\" height=\"472.705\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7cefb590347444129ddac41464e24556.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837779&amp;x-signature=W8smns6d5ktQnNl9nPxQZrFzr1c%3D\" width=\"375\"><p>This was updated in mid-2023 to the<a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-5\" target=\"_blank\"> format we know now</a>, with the contents object now used to hold each individual item, and value, currency and content_type outside of the contents object. As seen with Allbirds:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ae49d4dbcda14da6a59c7de8c3fb4e9b.png\" height=\"307.855\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae49d4dbcda14da6a59c7de8c3fb4e9b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837779&amp;x-signature=j4qcbiRIJyCtcdw37MIbDvO9Xa0%3D\" width=\"375\"><p>so one implementation is just more current than another. But both will work.</p><p><br /></p><p>Hope this wasn't too much detail but it's fun to really understand something!</p><p><br /></p><p>Heidi</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707427517,
+      "auto_close_hit": 0,
+      "id": 7333343772006203000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Got that is super helpful. thank you!!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707507751,
+      "auto_close_hit": 0,
+      "id": 7333689241295225000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey! They are saying if you place an order, they can get that canceled internally. Not sure if that is something you are comfortable with doing, though.</p><img alt=\"Screenshot 2024-02-09 at 1.42.18 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5146cd98e8524b9e90fc125b27664c4e.png\" height=\"114.038\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5146cd98e8524b9e90fc125b27664c4e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837779&amp;x-signature=Zrz5f97sphkNTjqlBiS2qKf%2Bu4o%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707769029,
+      "auto_close_hit": 0,
+      "id": 7334809762845950000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Are you seeing ATC still fire twice on your end. At one point last week I thought it was fixed but now it shows up twice for me. Their dev team is saying that it only shows up once for them. Can you confirm what you are seeing up to date?&nbsp;https://www.allbirds.com/</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707774547,
+      "auto_close_hit": 0,
+      "id": 7334834760428093000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle,</p><p><br /></p><p>I am seeing AddToCart firing twice today:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d229f9ef51824a5bb9b04cdbf7a8037a.png\" height=\"221.777\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d229f9ef51824a5bb9b04cdbf7a8037a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837779&amp;x-signature=FFiOLEDWLXIDLSwa5uKrW%2Bk%2FSDw%3D\" width=\"375\"><p><br /></p><p>Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709839895,
+      "auto_close_hit": 0,
+      "id": 7343699918214709000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle, today, I am only seeing the ATC event firing once as expected. Checked <a target=\"_blank\" href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C605T0O68TKST8M2ROJ0?start_time=2024-03-01&amp;end_time=2024-03-07&amp;aadvid=7016790102936453121\">their EM</a> and things are looking good! Let me know if you&#39;d like to close this ticket.</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709916533,
+      "auto_close_hit": 0,
+      "id": 7344032197092852000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you! We can close this&nbsp;<span style=\"color: #333333;\">ticket.&nbsp;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710430544,
+      "auto_close_hit": 0,
+      "id": 7346242168102584000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle, before I close this out, have you talked to Allbirds about implementing Event API? If so, do you know wher they are with moving forward? And if not, do you know what the objections are?</p><p><br></p><p>We have a new initiative from MPO leadership to proactively support setting up Event API, which I&#39;m sure you know about!</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1862802,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "heidi.williams@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Allbirds Pixel ",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710430544,
+  "owner_name": "Kyle Schonefeld",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7109396259878093825",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Kyle Schonefeld",
+  "follow_employee_id": 5710207,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 343235,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Allbirds Pixel ",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Allbirds",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Ecommerce",
+      "valid": true,
+      "key": "Ecommerce",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7016790102936453121"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Kyle Schonefeld CSM / Kelsey Ziomek BPM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "7016789512911060993",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C605T0O68TKST8M2ROJ0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.allbirds.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-07",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Looks like the pixel has multiple events triggering when going through the checkout process for Add to Cart. Could you confirm this and advise on how they should rectify it on their end? Also, please highlight any concerns you notice.\n\nIt seems they might need to add quantity and price as parameters. Once this is ready, the next step will be to implement Events API.",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab564aef05054f039ca24bfde3326727.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=5QiAh6b8pENcCLWdisWgMLFaVJU%3D",
+          "file_name": "file_20240318_14_56_19_427507",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab564aef05054f039ca24bfde3326727.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=5QiAh6b8pENcCLWdisWgMLFaVJU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ab564aef05054f039ca24bfde3326727.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c7b2dcb438494cb0ac5094a087b4635f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=HRNsWthn%2BZiTzLV5fs%2BWqNvG1q4%3D",
+          "file_name": "file_20240318_14_56_19_427580",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c7b2dcb438494cb0ac5094a087b4635f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=HRNsWthn%2BZiTzLV5fs%2BWqNvG1q4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c7b2dcb438494cb0ac5094a087b4635f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5d2e1505fff04b69a36da84dbd298692.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=PP4FndvgukrnQ9un1sA%2B5I%2F4irw%3D",
+          "file_name": "file_20240318_14_56_19_427616",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5d2e1505fff04b69a36da84dbd298692.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=PP4FndvgukrnQ9un1sA%2B5I%2F4irw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5d2e1505fff04b69a36da84dbd298692.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a6288a81a094c48b6c09fe25ca273ec.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=H2u336sQepsRbXhYDAUyA9UEDuA%3D",
+          "file_name": "file_20240318_14_56_19_506583",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a6288a81a094c48b6c09fe25ca273ec.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=H2u336sQepsRbXhYDAUyA9UEDuA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5a6288a81a094c48b6c09fe25ca273ec.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62f49497e7c84145944fc7446f27f99d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=DMOvNa%2BiUEkkdJKdwjyhlGMJ9Ig%3D",
+          "file_name": "file_20240318_14_56_19_506667",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62f49497e7c84145944fc7446f27f99d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=DMOvNa%2BiUEkkdJKdwjyhlGMJ9Ig%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/62f49497e7c84145944fc7446f27f99d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "xlsx",
+          "file_name": "Allbirds All Events.xlsx",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/okEApKBKiADDQUxcBYo7ZkAiEA2FymHJvkAAN.xlsx?lk3s=cbe26b3a&x-expires=4832837779&x-signature=gGARCO7Ola8s9TGBDq6CZEa%2F0os%3D",
+          "file_key": "tos-alisg-v-90231e-sg/okEApKBKiADDQUxcBYo7ZkAiEA2FymHJvkAAN.xlsx",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/okEApKBKiADDQUxcBYo7ZkAiEA2FymHJvkAAN.xlsx?lk3s=cbe26b3a&x-expires=4832837779&x-signature=gGARCO7Ola8s9TGBDq6CZEa%2F0os%3D",
+          "biz_type": 2,
+          "size": 3508104
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae49d4dbcda14da6a59c7de8c3fb4e9b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=j4qcbiRIJyCtcdw37MIbDvO9Xa0%3D",
+          "file_name": "file_20240318_14_56_19_619900",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae49d4dbcda14da6a59c7de8c3fb4e9b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=j4qcbiRIJyCtcdw37MIbDvO9Xa0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ae49d4dbcda14da6a59c7de8c3fb4e9b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7cefb590347444129ddac41464e24556.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=W8smns6d5ktQnNl9nPxQZrFzr1c%3D",
+          "file_name": "file_20240318_14_56_19_619958",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7cefb590347444129ddac41464e24556.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=W8smns6d5ktQnNl9nPxQZrFzr1c%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7cefb590347444129ddac41464e24556.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5146cd98e8524b9e90fc125b27664c4e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=Zrz5f97sphkNTjqlBiS2qKf%2Bu4o%3D",
+          "file_name": "file_20240318_14_56_19_673688",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5146cd98e8524b9e90fc125b27664c4e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=Zrz5f97sphkNTjqlBiS2qKf%2Bu4o%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5146cd98e8524b9e90fc125b27664c4e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d229f9ef51824a5bb9b04cdbf7a8037a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=FFiOLEDWLXIDLSwa5uKrW%2Bk%2FSDw%3D",
+          "file_name": "file_20240318_14_56_19_742356",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d229f9ef51824a5bb9b04cdbf7a8037a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837779&x-signature=FFiOLEDWLXIDLSwa5uKrW%2Bk%2FSDw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d229f9ef51824a5bb9b04cdbf7a8037a.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

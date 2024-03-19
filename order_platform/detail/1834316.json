@@ -1,0 +1,805 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Heidi Williams",
+  "create_time": 1706059740,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706127897,
+      "auto_close_hit": 0,
+      "id": 7327762054134137000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Maria,</p><p><br /></p><p>I pulled data for events for the last couple of days. It looks like they have an email hard-coded where a variable should be. If you check the 'Email' column here, you notice all the hashed values are the same (same user):</p><img alt=\"20240124-152322.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/12d228ffc5374f42954b6c06227519a0.jpeg\" height=\"114.399\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/12d228ffc5374f42954b6c06227519a0.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833031&amp;x-signature=rSIEBvpQWxQgzbZUIf54YGKKR1Q%3D\" width=\"375\"><p>it's easy enough to verify, if the person who maybe tested the changes on their side used their own email, they can check how it is hashed here:</p><p><a href=\"https://emn178.github.io/online-tools/sha256.html\" target=\"_blank\">https://emn178.github.io/online-tools/sha256.html</a></p><p>and see if it matches what we see in the data. I can't actually vouch for whether they had everything set up correctly before, but I can check. I.e. I don't want to tell them to revert changes if things weren't in a great place to begin with.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706644431,
+      "auto_close_hit": 0,
+      "id": 7329981178956530000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Maria,</p><p><br></p><p>Spanx is still experiencing the same issue, which means their attributions will be 0. Have you reached out to them to ask them to fix it? To reiterate, they have a hard-coded value in their Email field, which shouldn&#39;t be there. If they need extra help, I&#39;m available!&nbsp;</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706808922,
+      "auto_close_hit": 0,
+      "id": 7330688190237377000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Maria Velazquez Lugo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955896428476662785",
+      "name": "Maria Velazquez Lugo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi! It looks like we haven&#39;t received any signals in the past couple of hours. Can you please confirm if this is due to the same issue or if is something else? Thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706809756,
+      "auto_close_hit": 0,
+      "id": 7330691761653793000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Maria, sure I can check now!</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706913042,
+      "auto_close_hit": 0,
+      "id": 7331135277328564000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Maria Velazquez Lugo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955896428476662785",
+      "name": "Maria Velazquez Lugo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi! Happy Friday!</p><p><span style=\"color: #374151;\">I&#39;m wondering if you have any updates on this. Also, could you confirm what day we started to see a decline in events? It appears to be on 1/11, but I want to double-check. We have a Brand Lift Study readout scheduled for next week, so I&#39;m curious if this could have impacted the results. Thank you!</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706915016,
+      "auto_close_hit": 0,
+      "id": 7331143308074402000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Maria Velazquez Lugo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955896428476662785",
+      "name": "Maria Velazquez Lugo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #222222;\">Apologies for the double message, but I noticed that the client has &#39;Place an Order&#39; and &#39;Complete Payment&#39; as events. I&#39;m curious about the difference between these two events. Could it be that the &#39;Place an Order&#39; event uses the same trigger as &#39;Complete Payment,&#39; which is why we are seeing the same events registering? Is there a way to check that internally? Thank you!</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707244678,
+      "auto_close_hit": 0,
+      "id": 7332558957761806000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Maria,  PII is reporting just about perfect now! See 'shopping' event (CompletePayment) and Email, highlighted here:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/850fe373e4fa4326a415f504f870aec9.png\" height=\"79.031\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/850fe373e4fa4326a415f504f870aec9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833031&amp;x-signature=vVo4F2IZa3WJ9D7ETLAC0PiIfuo%3D\" width=\"375\"><p>Let me look at the other events and give feedback.</p><p><br /></p><p>Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707246301,
+      "auto_close_hit": 0,
+      "id": 7332566269213950000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Maria, </p><p><br /></p><p>While you request the test login or credit card number from the client, I took a look at ViewContent, AddToCart, and InitiateCheckout. For ViewContent, the <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en#:~:text=%27AddPaymentInfo%27-,Add%20to%20Cart,-When%20a%20visitor\" target=\"_blank\">recommended parameters</a> are missing:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c1af786ca379429587f1443119472610.png\" height=\"203.614\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1af786ca379429587f1443119472610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833031&amp;x-signature=pEzHey7dUe6m%2FQ%2FYY07kdqGJPxQ%3D\" width=\"375\"><p>They will want to go into the tag setup and add:</p><p>content_type, quantity, description, content_id, currency, value</p><p><br /></p><p>InitiateCheckout is firing for multiple events in the page:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png\" height=\"198.78\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833031&amp;x-signature=v0Y9OsWqxEneNykkZxWEFERYtN8%3D\" width=\"375\"><p>They should go into the tag setup and make sure the trigger is set to fire only once for this event.</p><p><br /></p><p>AddToCart is firing as expected and all parameters look good:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png\" height=\"203.657\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833031&amp;x-signature=yeUPm5eNF5%2FN42gXSXF2pSBHXQc%3D\" width=\"375\"><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707408806,
+      "auto_close_hit": 0,
+      "id": 7333264302771569000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Maria Velazquez Lugo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955896428476662785",
+      "name": "Maria Velazquez Lugo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi!</p><p><br></p><p>I shared the info with the client and I&#39;m just waiting on a reply. Thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707431797,
+      "auto_close_hit": 0,
+      "id": 7333362137181553000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Great, let me know if something new comes up that I can QA.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707752208,
+      "auto_close_hit": 0,
+      "id": 7334739174110527000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Maria,</p><p><br></p><p>If you don&#39;t hear back today, I can go ahead and close this ticket. Let me know.</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707846874,
+      "auto_close_hit": 0,
+      "id": 7335144786233541000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Maria Velazquez Lugo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955896428476662785",
+      "name": "Maria Velazquez Lugo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you! I will close this ticket for now</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1834316,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "heidi.williams@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "SPANX - 'Email Format' issue ",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 1,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1707846878,
+  "owner_name": "Maria Velazquez Lugo",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "6955896428476662785",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Maria Velazquez Lugo",
+  "follow_employee_id": 5710207,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2922153,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "SPANX - 'Email Format' issue ",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Shopify",
+      "valid": true,
+      "key": "Shopify",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "SPANX ",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7069804802099806210"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C8TJEAN1G3DM8EHQ5U50",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://spanx.com/?gad_source=1&acs_info=ZmluYWxfdXJsOiAiaHR0cHM6Ly93d3cuc3BhbnguY29tLyIK&gclid=CjwKCAiA5L2tBhBTEiwAdSxJX9-qn38Z03OjrhVzaz9pG_XzC-E_-m5q_tT4Jehq_R4EnyEprGft0hoCwlIQAvD_BwE&gclsrc=aw.ds"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Marketing API",
+      "valid": true,
+      "key": "Marketing API",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-23",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hi team! SPANX has an 'incorrect email format' issue. Can you please advise? See the screenshot below.",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "20240123-192828.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b900d2d9c8304f39b8a82621ccf67a18.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=1HwfIK1p6dIkJ9s%2BARRFXtswRfc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b900d2d9c8304f39b8a82621ccf67a18.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b900d2d9c8304f39b8a82621ccf67a18.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=1HwfIK1p6dIkJ9s%2BARRFXtswRfc%3D",
+          "size": 268133
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/12d228ffc5374f42954b6c06227519a0.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=rSIEBvpQWxQgzbZUIf54YGKKR1Q%3D",
+          "file_name": "file_20240318_13_37_11_738274",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/12d228ffc5374f42954b6c06227519a0.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=rSIEBvpQWxQgzbZUIf54YGKKR1Q%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/12d228ffc5374f42954b6c06227519a0.jpeg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/850fe373e4fa4326a415f504f870aec9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=vVo4F2IZa3WJ9D7ETLAC0PiIfuo%3D",
+          "file_name": "file_20240318_13_37_11_896525",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/850fe373e4fa4326a415f504f870aec9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=vVo4F2IZa3WJ9D7ETLAC0PiIfuo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/850fe373e4fa4326a415f504f870aec9.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=yeUPm5eNF5%2FN42gXSXF2pSBHXQc%3D",
+          "file_name": "file_20240318_13_37_11_970556",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=yeUPm5eNF5%2FN42gXSXF2pSBHXQc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1af786ca379429587f1443119472610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=pEzHey7dUe6m%2FQ%2FYY07kdqGJPxQ%3D",
+          "file_name": "file_20240318_13_37_11_970630",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1af786ca379429587f1443119472610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=pEzHey7dUe6m%2FQ%2FYY07kdqGJPxQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c1af786ca379429587f1443119472610.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=v0Y9OsWqxEneNykkZxWEFERYtN8%3D",
+          "file_name": "file_20240318_13_37_11_970649",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=v0Y9OsWqxEneNykkZxWEFERYtN8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

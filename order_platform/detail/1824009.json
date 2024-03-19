@@ -1,0 +1,1119 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Joey Choi",
+  "create_time": 1705612550,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1705958361,
+      "auto_close_hit": 0,
+      "id": 7327032814518551000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Frankie, can you ask the advertiser if they obtained their theme from the <a target=\"_blank\" href=\"https://themes.shopify.com/\">Shopify theme store</a>, or if it&#39;s a custom theme?</p><p><br></p><p>Shopify is able to identify actions taken on advertisers&#39; sites that use their themes with ease, but it may be difficult to capture events, such as Add to Cart, when a theme or certain components (like a button&#39;s text) is customized. After we hear back, that will help deduce where the issue is sourced from.</p><p><br></p><p>Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705963119,
+      "auto_close_hit": 0,
+      "id": 7327054183755022000,
+      "reply_role": null,
+      "staff_id": 2899329,
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "francis.drennan@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user6227569581394",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026761162772481026",
+      "name": "Frankie Drennan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Just asked!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_27080f69-11a1-4ad2-a17e-58094a0204eg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706012110,
+      "auto_close_hit": 0,
+      "id": 7327265783401529000,
+      "reply_role": null,
+      "staff_id": 2899329,
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "francis.drennan@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user6227569581394",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026761162772481026",
+      "name": "Frankie Drennan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Joey - they confirmed they use a custom theme</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_27080f69-11a1-4ad2-a17e-58094a0204eg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706037019,
+      "auto_close_hit": 0,
+      "id": 7327371668022739000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks for confirming that, Frankie!</p><p><br /></p><p>Our integration works flawlessly with templates provided by Shopify. It's not uncommon for custom or third-party themes to throw things off by not triggering the correct Shopify events, which is what eventually triggers TikTok events. For example, below is a screenshot of network calls from a Shopify test store, which uses a theme developed by Shopify that <a href=\"https://shopify.dev/docs/themes/tools/dawn\" target=\"_blank\">adheres to all their conventions</a>:</p><img alt=\"20240123-110432.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg\" height=\"181.902\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=i%2FF99yJcfxoY8nvrT3A7vcJMI%2FM%3D\" width=\"375\"><p>By contrast, Rhode's theme does not trigger any of the produce_batch objects that ultimately trigger the TikTok events, so they could possibly be using a plugin for AddToCart (or custom code), which is not following the above convention:</p><img alt=\"20240123-110717.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f4c693d0b9a8410ebe081d418807fa43.jpeg\" height=\"181.902\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c693d0b9a8410ebe081d418807fa43.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=yhVlhAXujfuJk3EEh%2FoJnnm3CiY%3D\" width=\"375\"><p><br /></p><p>I would have them find out the following:</p><ul><li>Are they using some sort of plugin, specifically, one that is used for adding items to cart? If it turns out they are using a plugin, then they should probably get in touch with the vendor about this to bring it to their attention.</li><li>Is there any custom work done on the add to cart button? If so, then they would probably want their developers to look at this and adjust the trigger/logic to adhere to  how it functions on standard themes. </li></ul><p><br /></p><p>Both of the above situations would require developers to do javascript work to get their button to work.</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707516657,
+      "auto_close_hit": 0,
+      "id": 7333726080653165000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Frankie Drennan",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7028910778548945921",
+      "name": "Frankie Drennan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>hi joey! just confirmed with the client - they push and update on the site today to try to solve this issue. Are you able to audit or do we need to wait a few days?&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_27080f69-11a1-4ad2-a17e-58094a0204eg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707760518,
+      "auto_close_hit": 0,
+      "id": 7334774942879318000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>I&#39;ll be able to take a look today, will follow up this afternoon!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707761820,
+      "auto_close_hit": 0,
+      "id": 7334780561929896000,
+      "reply_role": null,
+      "staff_id": 2899329,
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "francis.drennan@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user6227569581394",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026761162772481026",
+      "name": "Frankie Drennan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_27080f69-11a1-4ad2-a17e-58094a0204eg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707765553,
+      "auto_close_hit": 0,
+      "id": 7334796276338262000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>We're receiving ATC events and the data within them is looking good! The only thing to call out here is that ATC events are not being deduplicated (currently at a 1% rate):</p><img alt=\"Screenshot 2024-02-12 at 11.15.34 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3aedd09324b64c2bb79d3eb95fd6acc3.png\" height=\"237.736\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3aedd09324b64c2bb79d3eb95fd6acc3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=t3wgdDx7fAGJCKODBwWcVr%2BTDgM%3D\" width=\"375\"><p>If they can share more on how they implemented ATC events, I can provide more prescriptive guidance, but generally they need to ensure event_id matches across both browser and server events for successful deduplication. </p><p>I'm currently seeing browser events firing on a much more frequent cadence compared to server-side events; ideally, these would fire on a 1:1 ratio. I attached the most recent 2,000 ATC events for their reference to help with QA. LMK if they have any questions here!</p></img>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "csv",
+              "file_name": "281474987327691-Useful Queries-Event Audit-Query 192.csv",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv?lk3s=cbe26b3a&x-expires=4832832614&x-signature=5LgQv9j0hi6xqKeW2zBhKodkIgg%3D",
+              "file_key": "tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv?lk3s=cbe26b3a&x-expires=4832832614&x-signature=5LgQv9j0hi6xqKeW2zBhKodkIgg%3D",
+              "biz_type": 2,
+              "size": 3973526
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707765804,
+      "auto_close_hit": 0,
+      "id": 7334798042811400000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Frankie Drennan",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7028910778548945921",
+      "name": "Frankie Drennan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>thank you!!! just sent this over to the team and asked for more insights!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_27080f69-11a1-4ad2-a17e-58094a0204eg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708104813,
+      "auto_close_hit": 0,
+      "id": 7336253821850583000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Awesome, keep me posted!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709084805,
+      "auto_close_hit": 0,
+      "id": 7340450044518220000,
+      "reply_role": null,
+      "staff_id": 2899329,
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "francis.drennan@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user6227569581394",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026761162772481026",
+      "name": "Frankie Drennan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Joey! From Rhodes Dev Team -&nbsp;</p><p><br></p><p><br></p><p>“According to Tiktok documentation, we should use the same event_id value for both the server side and the browser side.</p><p>Can we confirm if they&#39;re using any API/server-side implementation?</p><p>The other option is using their cookie (which is already in place)</p><p><br></p><p><a href=\"https://t14328025.p.clickup-attachments.com/t14328025/e29ef858-a0e7-44c2-9f80-8c498e813bdc/Screenshot%202024-02-26%20at%201.26.35%E2%80%AFPM.png\" target=\"_blank noopener noreferrer\">Screenshot 2024-02-26 at 1.26.35 PM.png</a></p><p>Here&#39;s the documentation that mentions both options.</p><p><a href=\"https://business-api.tiktok.com/portal/docs?id=1771100965992450\" target=\"_blank noopener noreferrer\">https://business-api.tiktok.com/portal/docs?id=1771100965992450</a></p><p>We can also add an event_id to test if needed, let us know if you want us to try or better to check with tiktok team.”</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_27080f69-11a1-4ad2-a17e-58094a0204eg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709134871,
+      "auto_close_hit": 0,
+      "id": 7340677407239651000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Frankie, I do see server-side events coming through for ATC events, and it does look like some of them are being deduplicated:</p><img alt=\"Screenshot 2024-02-28 at 7.33.58 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/24dcef65311d4a7fa08befaaa238322f.png\" height=\"301.807\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24dcef65311d4a7fa08befaaa238322f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=YQlGMl4yvOf%2BWKDT4d0y0PbK3Fw%3D\" width=\"375\"><p>And they are correct in that event_id is one way events can be deduplicated, and requires that the event_id value match across browser and server events. While the ttp cookie is a viable option, I would recommend that event_id since that isn't dependent on a user's cookie consent. </p><p><br /></p><p>Here are some important callouts using the ttp cookie approach:</p><ul><li><span style=\"color: #333333;\">Cookie deduplication will only drop events sent from Events API, specifically, if there is a browser pixel event of the same [</span><span style=\"color: #E45649;\">pixelCode</span>, <span style=\"color: #E45649;\">event</span>, <span style=\"color: #E45649;\">_ttp</span>] received 5 minutes or less prior to the receiving of the server event. Cookie deduplication will never drop any event sent from the browser pixel.</li><li><span style=\"color: #333333;\">Cookie deduplication will only drop Events API event when </span><span style=\"color: #E45649;\">event_id</span> is not set in the Events API payload. Therefore, if you want to leverage cookie based deduplication, do not send <span style=\"color: #E45649;\">event_id</span> in the Events API payload for an event.</li></ul></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709229605,
+      "auto_close_hit": 0,
+      "id": 7341081778016256000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Frankie Drennan",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7028910778548945921",
+      "name": "Frankie Drennan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>thanks - passing this along!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_27080f69-11a1-4ad2-a17e-58094a0204eg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709578651,
+      "auto_close_hit": 0,
+      "id": 7342582799209202000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Frankie Drennan",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7028910778548945921",
+      "name": "Frankie Drennan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Joey!! From Rhode - <br><br><span style=\"color: #222222;\">My initial doubt was related to \"server side\" events since we're not doing any of them. Guessing that they're coming from the Shopify/TikTok app integration.<br>That being said, we're sending events using Javascript (client side).</br></span></br></br></p><img alt=\"unnamed.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png\" height=\"361.429\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=c%2BX97tncnN4%2BgHdHB7Vnzt0FVsI%3D\" width=\"375\"><p><span style=\"color: #222222;\">If we add the event_id param following the </span><span style=\"color: #1155CC;\"><a href=\"https://business-api.tiktok.com/portal/docs?id=1771100965992450\" target=\"_blank noopener noreferrer\">documentation instructions</a></span><span style=\"color: #222222;\">, should it work? </span><br><br /></br></p><img alt=\"unnamed-1.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/957b40a7264f4648a92f2ea30b3715a3.png\" height=\"343.575\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/957b40a7264f4648a92f2ea30b3715a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=9nnrv3PDKHZZx3yc3QdEhasOBbk%3D\" width=\"375\"><p><span style=\"color: #222222;\">Just curious to know if we might encounter any bigger issue since the <strong><em>event_id</em></strong> will be randomly generated on page load.</span><br><br><br /></br></br></p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_27080f69-11a1-4ad2-a17e-58094a0204eg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709684658,
+      "auto_close_hit": 0,
+      "id": 7343037858720055000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Frankie, yes event_id should work following the documentation, as long as the server-side event&#39;s event_id can be orchestrated and match up to its corresponding browser-side event&#39;s event_id value.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709927552,
+      "auto_close_hit": 0,
+      "id": 7344081723522613000,
+      "reply_role": null,
+      "staff_id": 2899329,
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "francis.drennan@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user6227569581394",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026761162772481026",
+      "name": "Frankie Drennan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>I wanted to share with you a preview theme were we implemented the direction provided above:</p><p>Preview theme for testing:&nbsp;<br><strong>Step 1:</strong></p><p><a href=\"https://rhodeskin.myshopify.com/?preview_theme_id=139403133166\" target=\"_blank noopener noreferrer\">https://rhodeskin.myshopify.com/?preview_theme_id=139403133166</a></p><p><strong>Step 2: </strong>We tested using the <a href=\"https://chromewebstore.google.com/detail/tiktok-pixel-helper/aelgobmabdmlfmiblddjfnjodalhidnn?pli=1\" target=\"_blank noopener noreferrer\">TikTok pixel helper</a><a href=\"https://chromewebstore.google.com/detail/tiktok-pixel-helper/aelgobmabdmlfmiblddjfnjodalhidnn?pli=1\" target=\"_blank noopener noreferrer\"> </a>and we see the data coming correctly but I would like your team to final approve it before pushing this work live.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_27080f69-11a1-4ad2-a17e-58094a0204eg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709932766,
+      "auto_close_hit": 0,
+      "id": 7344103019161698000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Frankie, I'm seeing event_id come through on their preview theme successfully:</p><img alt=\"Screenshot 2024-03-08 at 1.17.48 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d187ff40fe5b447bbdf95c3bccd1bc19.png\" height=\"168.031\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d187ff40fe5b447bbdf95c3bccd1bc19.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=bQFpKzJ210yvBE83rr3FrEL0pFw%3D\" width=\"375\"><p>Are they also sending server-side events for this preview theme as well? I'm unable to QA what the event_id is for those server-side events since the pixel helper only works for browser, but if they implemented the event_id 1:1 with the browser ATC events, then deduplication should work successfully. </p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710171355,
+      "auto_close_hit": 0,
+      "id": 7345129798936576000,
+      "reply_role": null,
+      "staff_id": 2899329,
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "francis.drennan@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user6227569581394",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026761162772481026",
+      "name": "Frankie Drennan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Joey! From Rhode&#39;s dev team - &#34;We only did it for browser events. Our understanding is that the Server side events should be sent by Tiktok integration which we do not have access to.</p><p>Can you please confirm? &#34;</p><p><br></p><p>Are they confused? do we need to set up a call?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_27080f69-11a1-4ad2-a17e-58094a0204eg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710201224,
+      "auto_close_hit": 0,
+      "id": 7345254511121908000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Something strikes me as a bit odd since there are server-side events coming through the Shopify integration, but are coming through very infrequently. Between 3/4-3/11, there are roughly 800 deduplicated browser- and server-side events that were created from the Shopify integration. This is less than 1% of the total ATC events, and I assume the remaining 99% of ATC events were triggered from the code that their dev team set up:</p><img alt=\"Screenshot 2024-03-11 at 4.40.19 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/40524fae6d7745b88b4563d775d01a1c.png\" height=\"91.392\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40524fae6d7745b88b4563d775d01a1c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=OzkRA1lSbNNCHV6zffju%2BU7Xqjg%3D\" width=\"375\"><p>When the Shopify integration works fine but is broken in one instance (in this case, it's ATC events), this usually is a sign of erratic behavior from older Pixels created through the Shopify integration, and/or older Pixels that were created via Shopify, but shared with another advertiser account (which is the case for this advertiser):</p><img alt=\"Screenshot 2024-03-11 at 4.47.25 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/86cc9ff69d4c4ecc9fb3e7f310650713.png\" height=\"31.987\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86cc9ff69d4c4ecc9fb3e7f310650713.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=ofYmTiegMm5getEOck%2BCqLr2SA4%3D\" width=\"375\"><p>I'm going to chat with my team and confirm the best next steps. In this case, it's usually disconnecting and setting up a new Pixel through the Rhode advertiser account instead of continuing use of the shared Pixel, but I will follow up with confirmation on how the client should proceed.</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710273700,
+      "auto_close_hit": 0,
+      "id": 7345566441715892000,
+      "reply_role": null,
+      "staff_id": 2899329,
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "francis.drennan@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user6227569581394",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026761162772481026",
+      "name": "Frankie Drennan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you!!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_27080f69-11a1-4ad2-a17e-58094a0204eg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710432598,
+      "auto_close_hit": 0,
+      "id": 7346250724885447000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Frankie, we&#39;d ideally first try what we can to have them implement ATC events through the integration, and troubleshoot the infrequent firing of ATC events from the integration. If all else fails, we can explore event deduplication setup which may be a bit trickier to sync up with server-side since those server-side events are firing very infrequently. Can you request that the client does the following?</p><ul><li>Remove whatever custom code they implemented to track add to cart </li><li>Disable rebuy (just temporarily) to see if it resolves the issue?</li></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1824009,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "joey.choi@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Rhode Beauty - Pixel not correctly catching ATC",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_27080f69-11a1-4ad2-a17e-58094a0204eg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710432598,
+  "owner_name": "Frankie Drennan",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7028910778548945921",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Frankie Drennan",
+  "follow_employee_id": 7055631,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 336017,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Rhode Beauty - Pixel not correctly catching ATC",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Shopify",
+      "valid": true,
+      "key": "Shopify",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Rhode",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Ecommerce",
+      "valid": true,
+      "key": "Ecommerce",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7107334618738688002"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Frankie Drennan - CSM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "7107335053515948033",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CAH57A3C77U6DCD5S76G",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.rhodeskin.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-18",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hello! My client , Rhode, is using Shopify integration to run a pixel + events API on their website. They are looking to launch ASAP and I noticed their ATC event might not be tracking properly. \n\nI flagged to the client and they said the below - \n\n\" I can step in for the add to cart tracking -- we are currently using the TikTok sales channel integration for pixels. Are there any additional custom tracking tags we need to add when using the sales channel integration?\n\nAlso wondering if there are any nuances for add to cart event tracking for tiktok - we've seen this issue with Google Analytics before where they are not able to properly track ATC events because our buy button did not say \"add to cart\" so we had to custom code that in. \n\nPlease send over any documentation for this and we will take a look. \"\n\n\nis there a solve for this as they are using the shopify connection? ",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "unnamed.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f5bb21f2dc58419f8c2c06e44123706e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=KV04UQ0vyhXENJ%2F6BQ49MO2%2BX%2FU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f5bb21f2dc58419f8c2c06e44123706e.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f5bb21f2dc58419f8c2c06e44123706e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=KV04UQ0vyhXENJ%2F6BQ49MO2%2BX%2FU%3D",
+          "size": 134842
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=i%2FF99yJcfxoY8nvrT3A7vcJMI%2FM%3D",
+          "file_name": "file_20240318_13_30_14_339114",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=i%2FF99yJcfxoY8nvrT3A7vcJMI%2FM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c693d0b9a8410ebe081d418807fa43.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=yhVlhAXujfuJk3EEh%2FoJnnm3CiY%3D",
+          "file_name": "file_20240318_13_30_14_339188",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c693d0b9a8410ebe081d418807fa43.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=yhVlhAXujfuJk3EEh%2FoJnnm3CiY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f4c693d0b9a8410ebe081d418807fa43.jpeg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3aedd09324b64c2bb79d3eb95fd6acc3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=t3wgdDx7fAGJCKODBwWcVr%2BTDgM%3D",
+          "file_name": "file_20240318_13_30_14_451431",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3aedd09324b64c2bb79d3eb95fd6acc3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=t3wgdDx7fAGJCKODBwWcVr%2BTDgM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/3aedd09324b64c2bb79d3eb95fd6acc3.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "csv",
+          "file_name": "281474987327691-Useful Queries-Event Audit-Query 192.csv",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv?lk3s=cbe26b3a&x-expires=4832832614&x-signature=5LgQv9j0hi6xqKeW2zBhKodkIgg%3D",
+          "file_key": "tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv?lk3s=cbe26b3a&x-expires=4832832614&x-signature=5LgQv9j0hi6xqKeW2zBhKodkIgg%3D",
+          "biz_type": 2,
+          "size": 3973526
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24dcef65311d4a7fa08befaaa238322f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=YQlGMl4yvOf%2BWKDT4d0y0PbK3Fw%3D",
+          "file_name": "file_20240318_13_30_14_619944",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24dcef65311d4a7fa08befaaa238322f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=YQlGMl4yvOf%2BWKDT4d0y0PbK3Fw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/24dcef65311d4a7fa08befaaa238322f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=c%2BX97tncnN4%2BgHdHB7Vnzt0FVsI%3D",
+          "file_name": "file_20240318_13_30_14_718298",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=c%2BX97tncnN4%2BgHdHB7Vnzt0FVsI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/957b40a7264f4648a92f2ea30b3715a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=9nnrv3PDKHZZx3yc3QdEhasOBbk%3D",
+          "file_name": "file_20240318_13_30_14_718372",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/957b40a7264f4648a92f2ea30b3715a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=9nnrv3PDKHZZx3yc3QdEhasOBbk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/957b40a7264f4648a92f2ea30b3715a3.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d187ff40fe5b447bbdf95c3bccd1bc19.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=bQFpKzJ210yvBE83rr3FrEL0pFw%3D",
+          "file_name": "file_20240318_13_30_14_818143",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d187ff40fe5b447bbdf95c3bccd1bc19.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=bQFpKzJ210yvBE83rr3FrEL0pFw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d187ff40fe5b447bbdf95c3bccd1bc19.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86cc9ff69d4c4ecc9fb3e7f310650713.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=ofYmTiegMm5getEOck%2BCqLr2SA4%3D",
+          "file_name": "file_20240318_13_30_14_889354",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86cc9ff69d4c4ecc9fb3e7f310650713.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=ofYmTiegMm5getEOck%2BCqLr2SA4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/86cc9ff69d4c4ecc9fb3e7f310650713.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40524fae6d7745b88b4563d775d01a1c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=OzkRA1lSbNNCHV6zffju%2BU7Xqjg%3D",
+          "file_name": "file_20240318_13_30_14_889418",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40524fae6d7745b88b4563d775d01a1c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=OzkRA1lSbNNCHV6zffju%2BU7Xqjg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/40524fae6d7745b88b4563d775d01a1c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

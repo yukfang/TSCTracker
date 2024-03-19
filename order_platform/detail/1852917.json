@@ -1,0 +1,548 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Armando Carmona Blanco",
+  "create_time": 1706807457,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706817510,
+      "auto_close_hit": 0,
+      "id": 7330723723852546000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Lauren Ponce",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7011422170112263000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lauren,</p><p>Confirming receipt of your ticket. I have a follow up question.</p><p>Before a catalog can be used, it must first be bound to a pixel/app as it needs an event source. Do you know which of the catalogs below is the one the advertiser intends to use for this campaign?</p><p><br /></p><img alt=\"Screenshot 2024-02-01 at 11.55.17 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1055665178ff49828e09aca3f133926d.png\" height=\"554\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1055665178ff49828e09aca3f133926d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837667&amp;x-signature=f3jr9DyiQSt5oXPQLe6woN5xl%2Fc%3D\" width=\"372\"><p>Best,<br>Armando</br></p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706817815,
+      "auto_close_hit": 0,
+      "id": 7330726033961927000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lauren.ponce@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lauren Ponce",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7011422170112263170",
+      "name": "Lauren Ponce",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Armando, thanks so much! Just asked the client and will be in touch shortly!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706822387,
+      "auto_close_hit": 0,
+      "id": 7330745320961278000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lauren.ponce@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lauren Ponce",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7011422170112263170",
+      "name": "Lauren Ponce",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Confirming they are using &#39;<span style=\"color: #222222;\">Kargo - Apartments Catalog&#39;!&nbsp;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706897413,
+      "auto_close_hit": 0,
+      "id": 7331068078660272000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lauren.ponce@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lauren Ponce",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7011422170112263170",
+      "name": "Lauren Ponce",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Armando,&nbsp;</p><p><br></p><p>Happy Friday! Do you have any updates here? Client is asking, thank you so much!&nbsp;</p><p><br></p><p>Best,</p><p>Lauren</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707151284,
+      "auto_close_hit": 0,
+      "id": 7332158478523335000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lauren.ponce@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lauren Ponce",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7011422170112263170",
+      "name": "Lauren Ponce",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Armando, can you please provide an update? Client is asking again for one again and it&#39;s been a few days, thanks!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707166476,
+      "auto_close_hit": 0,
+      "id": 7332223053448954000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Lauren Ponce",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7011422170112263000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lauren!</p><p>Thank you for following up on this.</p><p>This one is outside our event implementation scope, but I did some digging around and found this doc that guides you through the setup.</p><p>It sounds like they created a catalog for all the apartments they have, along with a video they would like to play for the entire duration, but the video keeps getting cut short by the product card below.</p><img alt=\"Screenshot 2024-02-05 at 10.48.39 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/97cece044b114c7ca3b9ba01c140b378.png\" height=\"536\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97cece044b114c7ca3b9ba01c140b378.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837667&amp;x-signature=mmz24aZrUIuCMECkoKBVDb3Ficc%3D\" width=\"344\"><p>It appears they would like to show the entire video while having the product cards shown at the bottom throughout the video. This behavior sounds like that of a TikTok Shop where products have been created and requires the creation of product cards before they can be shown (<a href=\"https://ads.tiktok.com/help/article/getting-started-video-shopping-ads#anchor-2\" target=\"_blank\">see steps 1-3 here</a>).</p><p>For VSA Catalog, please check the sections linked below for settings required to enable this:</p><ul><li><strong><a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-PjSQd8XaUoWnHhxoPUilDwFfgke\" target=\"_blank\">What are Product &amp; Display Cards?</a></strong><br /></li><li><strong><a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-Gt1bdYfy7oywLRx1emklBlXcgqf\" target=\"_blank\">How do Product &amp; Display Cards work?</a></strong><br /></li><li><strong><a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-EqMgdIneyoS2o7xXS5qlB7oigBg\" target=\"_blank\">When will Product &amp; Display Cards show up in the ad?</a></strong><br /></li><li><strong><a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-D1t6dBailoWy0HxrJ0zlGubmgSd\" target=\"_blank\">How do Product &amp; Display Cards appear in Ads Manager?</a></strong><br /></li></ul><p>Specifically, we need to ensure in their settings that <a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-TnwZdpeXPoFVyVxjvEBl7AyJg3g\" target=\"_blank\">Dynamic Format IS NOT switched on.</a></p><img alt=\"Screenshot 2024-02-05 at 12.46.48 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png\" height=\"283.578\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837667&amp;x-signature=xIgjEmiA6qXqTbJMOrQkWUzaiKU%3D\" width=\"375\"><p><br /></p><p><strong>Catalog</strong></p><p>There are some issues with the catalog itself that may prevent them from using the catalog itself in the ads. This is separate from the issues they are describing above. Please ask them to address all the issues <a href=\"https://ads.tiktok.com/catalogs/diagnostics?id=7287998504818001665&amp;bc_id=7148129409948549122\" target=\"_blank\">within the Diagnostics tab</a> before launching their campaign.</p><img alt=\"Screenshot 2024-02-05 at 10.49.41 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png\" height=\"138.212\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837667&amp;x-signature=VerjGGTayD3jA0vhiGwfSApSJgw%3D\" width=\"375\"><img alt=\"Screenshot 2024-02-05 at 10.47.01 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/466b4909688a446eba0b970ea6920d0f.png\" height=\"189.657\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/466b4909688a446eba0b970ea6920d0f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837667&amp;x-signature=5BonlM6s55GecgO13o3QPFMlPXo%3D\" width=\"375\"><p>Best,<br>Armando</br></p></img></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707170091,
+      "auto_close_hit": 0,
+      "id": 7332238544557113000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lauren.ponce@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lauren Ponce",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7011422170112263170",
+      "name": "Lauren Ponce",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>thank you, following up with them now!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707273467,
+      "auto_close_hit": 0,
+      "id": 7332681704743748000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Status Update] </strong>General question about settings required for showing product cards while running VSA catalog campaign. Not related to signals implementation.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709320968,
+      "auto_close_hit": 0,
+      "id": 7341476335828746000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #333333;\"><strong>[Status Update] </strong>General question about settings required for showing product cards while running VSA catalog campaign. Not related to signals implementation.</span><br><span style=\"color: #333333;\"><strong>&lt;CATALOG&gt;</strong></span></p><p><span style=\"color: #333333;\"><strong>&lt;VSA&gt;</strong></span></p><p><span style=\"color: #333333;\"><strong>&lt;PRODUCT CARDS&gt;</strong></span></p><p><span style=\"color: #333333;\"><strong>&lt;EDUCATION&gt;</strong></span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1852917,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "armando.carmona@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Apartments.com/Kargo Catalog Error ",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1709320998,
+  "owner_name": "Lauren Ponce",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7011422170112263170",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Lauren Ponce",
+  "follow_employee_id": 1807296,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1452669,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Apartments.com/Kargo Catalog Error ",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Apartments.com (CoStar)-- agency is Kargo ",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "7280277710545502209",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P0",
+      "valid": true,
+      "key": "P0",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "100k",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-01",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Kargo is launching a Dynamic Video ad unit for CoStar this week. We've already built the catalog video in the Catalog Manager (\"CoStar Single Image DSA\") and it is approved.\n\nHowever, when building out the Ad unit, the middle of the video is interrupted by an additional image card that is not in the video template. \n\nSee template: https://www.loom.com/share/097932fcb075489c9947b718b1ed0bf1?sid=5a98e4e2-f2cf-4750-b953-661148ec505b",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-02-01 at 11.03.15 AM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/697ac06872a14e419bf782a31a6ed036.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=7hSSH7sNSSpZtBqqZoh2q345UTk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/697ac06872a14e419bf782a31a6ed036.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/697ac06872a14e419bf782a31a6ed036.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=7hSSH7sNSSpZtBqqZoh2q345UTk%3D",
+          "size": 194060
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1055665178ff49828e09aca3f133926d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=f3jr9DyiQSt5oXPQLe6woN5xl%2Fc%3D",
+          "file_name": "file_20240318_14_54_27_378557",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1055665178ff49828e09aca3f133926d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=f3jr9DyiQSt5oXPQLe6woN5xl%2Fc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1055665178ff49828e09aca3f133926d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=xIgjEmiA6qXqTbJMOrQkWUzaiKU%3D",
+          "file_name": "file_20240318_14_54_27_611136",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=xIgjEmiA6qXqTbJMOrQkWUzaiKU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/466b4909688a446eba0b970ea6920d0f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=5BonlM6s55GecgO13o3QPFMlPXo%3D",
+          "file_name": "file_20240318_14_54_27_611236",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/466b4909688a446eba0b970ea6920d0f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=5BonlM6s55GecgO13o3QPFMlPXo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/466b4909688a446eba0b970ea6920d0f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97cece044b114c7ca3b9ba01c140b378.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=mmz24aZrUIuCMECkoKBVDb3Ficc%3D",
+          "file_name": "file_20240318_14_54_27_611254",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97cece044b114c7ca3b9ba01c140b378.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=mmz24aZrUIuCMECkoKBVDb3Ficc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/97cece044b114c7ca3b9ba01c140b378.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=VerjGGTayD3jA0vhiGwfSApSJgw%3D",
+          "file_name": "file_20240318_14_54_27_611267",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=VerjGGTayD3jA0vhiGwfSApSJgw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

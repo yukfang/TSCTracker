@@ -1,0 +1,714 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Joey Choi",
+  "create_time": 1708032598,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1708104990,
+      "auto_close_hit": 0,
+      "id": 7336254370385854000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Katarina, what error messages are they seeing? They&#39;re indeed passing back email/phone for 94% of their Complete Payment events and the rest of their event funnel looks good to me.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708113277,
+      "auto_close_hit": 0,
+      "id": 7336289043858162000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katarina.long@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Katarina Long",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7021457686371140610",
+      "name": "Katarina Long",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>See attached. I typically ignore this error message if I&#39;m seeing a high match rate but the client is running their first branded performance campaign and was shared this pixel from the end client and wants to ensure it won&#39;t affect the campaign by any means.</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screenshot 2024-02-16 at 1.52.43 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8032e87e8b474f3ba59880f3d7644294.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838021&x-signature=7FGu8U7lth1Wl6QBaUOfYm3P5xw%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/8032e87e8b474f3ba59880f3d7644294.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8032e87e8b474f3ba59880f3d7644294.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838021&x-signature=7FGu8U7lth1Wl6QBaUOfYm3P5xw%3D",
+              "biz_type": 2,
+              "size": 266381
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_67c63598-9da1-4d82-85a0-f657ca71736g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708458087,
+      "auto_close_hit": 0,
+      "id": 7337770511377711000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks for flagging – of the 263 recent CompletePayment events I audited, 114 of them have the same value for email, which is&nbsp;a683c5c5349f6f7fb903ba8a9e7e55d0ba1b8f03579f95be83f4954c33e81098. They might be passing back a hard-coded value like NULL or n/a, whereas the recommendation is to send nothing at all if the PII isn&#39;t available. I can&#39;t see what the original value is since it&#39;s been hashed, but here is the guidance they can follow to format email addresses:</p><ul><li><span style=\"color: #333333;\"><strong>Trim</strong> any leading and trailing spaces of each email before hashing.</span></li><li><span style=\"color: #333333;\"><strong>Lowercase</strong> all characters before hashing.</span></li><li><span style=\"color: #333333;\"><strong>Hash</strong> the normalized email values using SHA-256.</span></li></ul><p><span style=\"color: #333333;\">Example:</span></p><ul><li><span style=\"color: #333333;\">Original: &#34; ALICE_abc@gmail.com &#34;</span></li><li><span style=\"color: #333333;\">Normalized: &#34;alice_abc@gmail.com&#34; (leading and trailing spaces trimmed and lowercased)</span></li><li><span style=\"color: #333333;\">SHA-256 hashed: &#34;848a771458438fc2ec420560d769fb9b9b86851ee338ec56517baabd79d3bb4f&#34;</span></li></ul><p><br></p><p>I also exported and attached the data for their CompletePayment events that they can refer to when QAing (notably the email column).</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "csv",
+              "file_name": "281474987402800-Useful Queries-Event Audit-Query 198.csv",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEIAqlwUOCQA6g15uzAEGFEBBADEM1Afsf0XKQ.csv?lk3s=cbe26b3a&x-expires=4832838021&x-signature=m4VQ3EVfSBusoE6H6daIfoRBl0o%3D",
+              "file_key": "tos-alisg-v-90231e-sg/oEIAqlwUOCQA6g15uzAEGFEBBADEM1Afsf0XKQ.csv",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEIAqlwUOCQA6g15uzAEGFEBBADEM1Afsf0XKQ.csv?lk3s=cbe26b3a&x-expires=4832838021&x-signature=m4VQ3EVfSBusoE6H6daIfoRBl0o%3D",
+              "biz_type": 2,
+              "size": 761931
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708624626,
+      "auto_close_hit": 0,
+      "id": 7338486555645854000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katarina.long@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Katarina Long",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7021457686371140610",
+      "name": "Katarina Long",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Ok I originally thought these were two separate issues - but it looks like maybe they are related ? can you check Ticket ID:&nbsp;<span style=\"color: #333333;\"><u>1888840</u></span></p><p><span style=\"color: #222222;\">And let me know if the issues are related?&nbsp;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0086_c5880fd1-6260-4d3b-a395-6a4e4776407h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708630329,
+      "auto_close_hit": 0,
+      "id": 7338510585878823000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>They don&#39;t seem remotely related to me. Was there any indicator that led you to believe they are?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708990498,
+      "auto_close_hit": 0,
+      "id": 7340054936421712000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katarina.long@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Katarina Long",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7021457686371140610",
+      "name": "Katarina Long",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>I&#39;m sorry to ask this but they are about to launch and it seems like they have more than one issue here. Can we possibly hop on call ? Otherwise I can wait until office hours,</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0086_c5880fd1-6260-4d3b-a395-6a4e4776407h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708991102,
+      "auto_close_hit": 0,
+      "id": 7340056761325453000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katarina.long@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Katarina Long",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7021457686371140610",
+      "name": "Katarina Long",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Here is the other ticket ID:&nbsp;<span style=\"color: #333333;\"><u>1888840&nbsp;</u></span></p><p><span style=\"color: #333333;\"><u>And yes tomorrow I just sent an invite ! Thank you!&nbsp;</u></span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0086_c5880fd1-6260-4d3b-a395-6a4e4776407h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708990927,
+      "auto_close_hit": 0,
+      "id": 7340056988782543000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Katarina can you share the issue in this ticket? If it&#39;s best we hop on a call to discuss, I can offer up time tomorrow before 10:30am PT or hold off until OH on Wednesday.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709683574,
+      "auto_close_hit": 0,
+      "id": 7343032125454926000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Katarina, let me know if their agency has any updates or hears of any movement on the client&#39;s end. This issue was about the Pixel failing to fire on pages after the consent box is clicked. Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1878975,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "joey.choi@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Pixel Error Message",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0086_c5880fd1-6260-4d3b-a395-6a4e4776407h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1709765085,
+  "owner_name": "Katarina Long",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7021457686371140610",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Katarina Long",
+  "follow_employee_id": 7055631,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1008936,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Pixel Error Message",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "CN - Ferragamo",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Entertainment",
+      "valid": true,
+      "key": "Entertainment",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6841142655561236486"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Matthew Simon / BPM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C34V1IFG09FAF9NMFNJG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "ferragamo.com"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-15",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Client is seeing multiple error messages after confirming that they have email / phone passback + MAM and AAM.. They won't be implementing eAPI but their match rate is above 90% for complete payment. Can we safely launch and disregard the error messages? ",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-16 at 1.52.43 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8032e87e8b474f3ba59880f3d7644294.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838021&x-signature=7FGu8U7lth1Wl6QBaUOfYm3P5xw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8032e87e8b474f3ba59880f3d7644294.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8032e87e8b474f3ba59880f3d7644294.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838021&x-signature=7FGu8U7lth1Wl6QBaUOfYm3P5xw%3D",
+          "biz_type": 2,
+          "size": 266381
+        },
+        {
+          "file_type": "csv",
+          "file_name": "281474987402800-Useful Queries-Event Audit-Query 198.csv",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEIAqlwUOCQA6g15uzAEGFEBBADEM1Afsf0XKQ.csv?lk3s=cbe26b3a&x-expires=4832838021&x-signature=m4VQ3EVfSBusoE6H6daIfoRBl0o%3D",
+          "file_key": "tos-alisg-v-90231e-sg/oEIAqlwUOCQA6g15uzAEGFEBBADEM1Afsf0XKQ.csv",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEIAqlwUOCQA6g15uzAEGFEBBADEM1Afsf0XKQ.csv?lk3s=cbe26b3a&x-expires=4832838021&x-signature=m4VQ3EVfSBusoE6H6daIfoRBl0o%3D",
+          "biz_type": 2,
+          "size": 761931
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

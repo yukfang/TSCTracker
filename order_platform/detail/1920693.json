@@ -1,0 +1,283 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1782786995587105",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_0e4d8cd0-f72a-4f45-ad54-38f000ec363h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Jacob Lima",
+  "create_time": 1709675494,
+  "deadline": 0,
+  "archive_board_id": 1705151646989732,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709828046,
+      "auto_close_hit": 0,
+      "id": 7343654856944566000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jacob.lima@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jacob Lima",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7177394617766544386",
+      "name": "Jacob Lima",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Jordy,</p><p><br></p><p>Heads up I only support monetized LIVEs so I don’t have any experience with fully organic LIVEs.</p><p><br></p><ol><li>For monetized LIVEs most brands prefer hosting on and driving paid traffic to their own account. For organic, if the creator accounts have a much bigger following than the brand account it may be better to host there.</li><li>Yes no problem. They just need to create a private TikTok account for testing and we can set the account up with LIVE access.</li><li>I don’t have any best practices on community/comment moderation.</li><li>Nothing to share here either unfortunately.</li><li>A TikTok account can assign up to 10 LIVE moderators that can remove comments/users and add blocked keywords but the brand would be responsible for their own moderation team. There are also some more robust chat filters that can be turned on such as “Potentially unking comments” &amp; Community-flagged comments”.<br><br><br></li></ol><p>Hope this helps, let me know if you have any more Qs<br><br>Thanks,</p><p>Jacob Lima</p><p>MPO LIVE</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_0e4d8cd0-f72a-4f45-ad54-38f000ec363h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709832427,
+      "auto_close_hit": 0,
+      "id": 7343671721846735000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jordy.wright@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jordy Wright",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7169186877168944130",
+      "name": "Jordy Wright",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Jacob,&nbsp;</p><p><br></p><p>Thank you so much for the response, i know you&#39;re a one man show!&nbsp;</p><p>&nbsp;</p><p>Follow up to question 5: when you say moderators, you mean from the brand side, right? there are no moderators on the tiktok side available?&nbsp;</p><p><br></p><p>Can you confirm you&#39;re only available to help when these are monetized and the clients spend over 10K?&nbsp;</p><p><br></p><p>Thank you again for your help!&nbsp;</p><p>Jordy</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_4263764c-d6fc-4cc8-af35-54fed13f183h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709836842,
+      "auto_close_hit": 0,
+      "id": 7343691719789117000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "jacob.lima@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jacob Lima",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7177394617766544386",
+      "name": "Jacob Lima",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Jordy,</p><p><br></p><p>Yes the mods would have to come from the brand side. We as a company do not offer a LIVE moderation service to advertisers.&nbsp; A LIVE moderator is just another tiktok account that was given mod privileges by the the hosting tiktok account.</p><p><br>Yes we only offer 1:1 support to clients spending at least 10K on CI to LIVE.</p><p><br></p><p>--</p><p>Jacob Lima</p><p>MPO LIVE</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_0e4d8cd0-f72a-4f45-ad54-38f000ec363h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1920693,
+  "workflow_nodes": [],
+  "board_id": 1705151646989732,
+  "employee_email": "jacob.lima@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Duracell Livestream ",
+  "category_1_name": "Livestream - Ask a Question",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_4263764c-d6fc-4cc8-af35-54fed13f183h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1710266429,
+  "owner_name": "Jordy Wright",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Livestream - Ask a Question",
+  "archive_category_1": "1782786995587105",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600019392513",
+      "cate_1_form_id": 1754543111783458,
+      "sub_cates": [],
+      "value": "Livestream Consultation"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1782786995587105",
+      "cate_1_form_id": 1782788250818562,
+      "sub_cates": [],
+      "value": "Livestream - Ask a Question"
+    }
+  ],
+  "core_user_id": "7169186877168944130",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Jordy Wright",
+  "follow_employee_id": 5505862,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 508032,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "<p spellcheck=\"true\">MPO LIVE helps advertisers go live on TikTok. Use this form to submit a general question to the MPO LIVE team regarding live streaming on TikTok. This form is not for troubleshooting and bugs. For troubleshooting and bugs please use: Athena &gt; TikTok Internal Tickets &gt; Branding solutions &gt; Livestream Traffic Solutions. ///Link to Athena Internal Tickets: https://vcp.to/atint</p>",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788572065825,
+      "type": 12,
+      "option_meaning": -1
+    },
+    {
+      "label": "Question title",
+      "content": "Duracell Livestream ",
+      "valid": true,
+      "item_id": 1782788250818578,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1782788281423874,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Client Name",
+      "content": "Duracell ",
+      "valid": true,
+      "item_id": 1782788281425938,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788344073218,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": [
+        "7309233610526097410"
+      ],
+      "valid": true,
+      "item_id": 1782788344073234,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "UID of the TikTok account",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788344073250,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Handle of the TikTok account",
+      "content": [
+        "abbieherbert",
+        "duracell",
+        "drjoe_md"
+      ],
+      "valid": true,
+      "item_id": 1782788344073266,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Question text",
+      "content": "Duracell is launching a LIVE next week in partnership with two creators. below are their questions -- also attached a screenshot of the client email for full context. \n\n1. Are there any benefits from handling the TikTok Live from the Brand Account vs the Influencer's? Would love your guidance on which set up will have the most engagement and promote the best brand visibility. \n2. Can we privately test run the Live beforehand?\n3. Are there best practices on developing a community management plan, response language for comments and implementation plan?\n4. Do you have any tip/tricks/watchouts with influencer hosts that we can reference?\n5. Are there moderators that can help manage any negative comments we may get?\n",
+      "valid": true,
+      "item_id": 1782788344074242,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "File or screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-05 at 3.49.03 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/891e69c78b694140b163ae9e21be48b5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838460&x-signature=mSp9kUkQWb1HoExmOWlgwMlzrbE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/891e69c78b694140b163ae9e21be48b5.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/891e69c78b694140b163ae9e21be48b5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838460&x-signature=mSp9kUkQWb1HoExmOWlgwMlzrbE%3D",
+          "size": 178326
+        }
+      ],
+      "valid": true,
+      "item_id": 1782788344074258,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Tiktok Livestream Consultation-Livestream - Ask a Question"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

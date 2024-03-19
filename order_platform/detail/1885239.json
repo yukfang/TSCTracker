@@ -1,0 +1,321 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Κατερίνα Σάκκουλα",
+  "create_time": 1708336097,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1708550598,
+      "auto_close_hit": 0,
+      "id": 7338165581620871000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jon Usher",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7090614166307013633",
+      "name": "Jon Usher",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi, can I please have an update on this? The campaign is launching on Monday 26th. Thanks</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_8918be2b-7c51-463d-91ad-22d6c70dca3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708610026,
+      "auto_close_hit": 0,
+      "id": 7338405644120146000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Jon,</p><p><br></p><p>Thank you for reaching out!</p><p><br></p><p>The product sources under the Catalog ID:&nbsp;<a target=\"_blank\" href=\"https://ads.tiktok.com/catalogs/overview?id=7205903671765239553&amp;bc_id=6813254488107778053\">7205903671765239553</a>&nbsp;have not been updated since the&nbsp;<span style=\"color: #121212;\">2023-12-15. Could you please ask the client to trigger a manual data refresh?</span></p><p><br></p><p><span style=\"color: #121212;\">The product update will also help in improving the event match rates. Even though the Catalog UI shows poor match rate for the View Content event and low &#39;content_id&#39; coverage, this is not what see across other tools and platforms (e.g. Events Manager UI). Therefore, I would recommend as a first step to refresh the data, and to check the match rate tomorrow/ideally get a screenshot from the client</span></p><p><br></p><p>Best,</p><p>Katerina</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708619109,
+      "auto_close_hit": 0,
+      "id": 7338462493280354000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><strong>[Status Update]</strong>&nbsp;The client has two catalogs, shared detailed recommendations for each + asked about MAM and brought up eAPI (even though this is on hold due to infrastructure work being done in the backend)</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1885239,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "katerina.sakkoula@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "John Lewis - Catalog QA",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_8918be2b-7c51-463d-91ad-22d6c70dca3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1708619109,
+  "owner_name": "Jon Usher",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7090614166307013633",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Jon Usher",
+  "follow_employee_id": 9295306,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2154971,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "John Lewis - Catalog QA",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "John Lewis",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-GB",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "6990008064883572737",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P0",
+      "valid": true,
+      "key": "P0",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "25k monthly",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-19",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "The John Lewis team are about to launch an always-on VSA campaign. Can I please have a QA on the catalog integration to ensure that we're set up for success? Just an FYI, eAPI will be implemented later this year. Thanks! ",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

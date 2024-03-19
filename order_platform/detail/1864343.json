@@ -1,0 +1,589 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1707349412,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707412664,
+      "auto_close_hit": 0,
+      "id": 7333280716748374000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Austin! Happy to help out here</p><p>A quick question, would you happen to have landing page URL(s) available that the client is planning to deploy the pixels to?</p><p>I&#39;ve reviewed the spreadsheet provided and the mappings do look good, but I believe it might be helpful to hop on a call with the client to walk through any nuances across the different products across the desired pages, it looks like they might be the values in the COSA column (Enterprice, Advice, Bank, ISCO, Life, ASC/Gen, PNC)</p><p>Please let me know if the client is open to meet and discuss Pixel implementation and I&#39;d be happy to send over my avails.</p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707417171,
+      "auto_close_hit": 0,
+      "id": 7333300047054275000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austin Pasamba",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7103789922763293698",
+      "name": "Austin Pasamba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>I can ask the client about those LP URLs.&nbsp;<br><br>The client is open to meeting, can you send over your avails for the remainder of the week and next week?&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_978f219b-7e61-479a-aca1-95bf136411ah~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707417868,
+      "auto_close_hit": 0,
+      "id": 7333302565532074000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Austin!</p><p>Here are my avails for the rest of the week and next:</p><p>Tomorrow 2/9: </p><ul><li>7 AM - 10:30 AM PST / 12 PM -1 PM PST </li></ul><p>Monday 2/12: </p><ul><li>9 AM - 2 PM PST </li></ul><p>Tues 2/13: </p><ul><li>7 AM - 10 AM PST / 11 AM - 2:30 PM PST </li></ul><p>Wed 2/14: </p><ul><li>7 AM - 9 AM / 10 AM - 11 AM / 1 PM - 2 PM PST</li></ul><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707418609,
+      "auto_close_hit": 0,
+      "id": 7333304263914947000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austin Pasamba",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7103789922763293698",
+      "name": "Austin Pasamba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Appreciate it Robbie! Will send over to the client and let you know when they can meet&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_978f219b-7e61-479a-aca1-95bf136411ah~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707430174,
+      "auto_close_hit": 0,
+      "id": 7333355892546486000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austin Pasamba",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7103789922763293698",
+      "name": "Austin Pasamba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Also just going to loop you in the email thread just so you are aware and they had some questions regarding API</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_978f219b-7e61-479a-aca1-95bf136411ah~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707430293,
+      "auto_close_hit": 0,
+      "id": 7333355941242438000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austin Pasamba",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7103789922763293698",
+      "name": "Austin Pasamba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Lastly <br><br>RE: Different Products and Desired Pages<br><br>The values that would be in the content attribute are not in the CoSA field but rather the column labeled Content ID.&nbsp; It’s what we use for another platform but if those need to be more descriptive like what’s in the product column we can tweak it.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_978f219b-7e61-479a-aca1-95bf136411ah~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1864343,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "USAA - Matrix QA ",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_978f219b-7e61-479a-aca1-95bf136411ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1707430292,
+  "owner_name": "Austin Pasamba",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7103789922763293698",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Austin Pasamba",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 3355935,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "USAA - Matrix QA ",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "USAA ",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Finance",
+      "valid": true,
+      "key": "Finance",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7016486628449337345"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Sahra Chavez and Jake Robbins",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "N/A",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "N/a"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-04",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "The client is looking to setup the pixel at the Business Center level in order to implement to the different ad accounts. \n\nIn the attached you’ll find a matrix showing the TikTok standard events across the top columns and the Product/Content IDs in the row categories.  The intersection represents a USAA KPI for that product type.  Please let me know if you have any questions.  I look forward to TikToks guidance on the best approach for rolling this out to support our longer term relationship and maturity with the TikTok platform using a single pixel ID approach.\n\n",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "xlsx",
+          "file_name": "tiktok KPI matrix.xlsx",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oQ0n3AgGLEFejvfLIAACMIEFpDzEeijAMrAPDx.xlsx?lk3s=cbe26b3a&x-expires=4832837803&x-signature=PbKFp9lKADvgwDpYR344sIFWNhY%3D",
+          "file_key": "tos-alisg-v-90231e-sg/oQ0n3AgGLEFejvfLIAACMIEFpDzEeijAMrAPDx.xlsx",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oQ0n3AgGLEFejvfLIAACMIEFpDzEeijAMrAPDx.xlsx?lk3s=cbe26b3a&x-expires=4832837803&x-signature=PbKFp9lKADvgwDpYR344sIFWNhY%3D",
+          "size": 2241843
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

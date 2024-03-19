@@ -1,0 +1,623 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Saurabh Choudhary",
+  "create_time": 1704912842,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1704917206,
+      "auto_close_hit": 0,
+      "id": 7322562327117627000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "austen.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austen Jones",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6982347769357665281",
+      "name": "Austen Jones",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #1F2329;\">Some additional insight: I consulted with client yesterday and I can confirm these 3 dates are the only spikes we&#39;ve seen. We haven&#39;t seen a single spike in January and we haven&#39;t really updated any of the tracking in the meantime.</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_f4d8d6a1-b006-4c61-b1be-d93be5c0d5ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1704917424,
+      "auto_close_hit": 0,
+      "id": 7322564136783610000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Austen, I&#39;ll reach out on lark with more info</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708019532,
+      "auto_close_hit": 0,
+      "id": 7335887098991362000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><strong>[status update]</strong></p><p><strong>Performed a pixel QA:</strong><br>- Events are triggering as expected</br></p><p>-Signal Score= 100</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/181b682268694f2280ec72480ddbf56b.png\" height=\"49.465\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/181b682268694f2280ec72480ddbf56b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832741&amp;x-signature=%2FYJDSyoMpe1jIXe0VQIP6CRKLJU%3D\" width=\"375\"><p><br><strong>synced up with Austen :</strong><br>-  Client is fine for now and does not need technical assistance<br>-CSM to revisit this in his next sync with client.<br>Keeping ticket open.</br></br></br></br></p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708718862,
+      "auto_close_hit": 0,
+      "id": 7338889676935250000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><strong>[status update]</strong></p><p>Had call with client they were experiencing over attribution issue esp for complete payment events during specific date.</p><p>After checking backend data, I figured out that this event was only having 50 dedup rate.&nbsp;<br>Shared the event id which were mismatching with client so they could work internally to fix the dedup rate</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709257401,
+      "auto_close_hit": 0,
+      "id": 7341203922096292000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><strong>[Status update]</strong> Raised a TPS troubleshooting <a target=\"_blank\" href=\"https://ads.tiktok.com/athena/requester/ticket/list?event_id=1789750651868162&amp;identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456&amp;ticket_id=1805096\">ticket</a></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709873509,
+      "auto_close_hit": 0,
+      "id": 7343848156351742000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>[conclusion] the corresponding TPS ticket has been resolved, closing, reopen if moe assistance is needed</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1804939,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "saurabh.choudhary@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Gun Dog Supply Tracking Q's",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_f4d8d6a1-b006-4c61-b1be-d93be5c0d5ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1709873513,
+  "owner_name": "Austen Jones",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "6982347769357665281",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Austen Jones",
+  "follow_employee_id": 2208735,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 895228,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Gun Dog Supply Tracking Q's",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Gun Dog Supply",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7161535517434052609"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Austen Jones - CSM , Bryce Boddye - APM , Sam Fong - BPM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CDIE4FRC77U3IB6QP0O0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.gundogsupply.com"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-10",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "\nAbout halfway through December (18th-20th minor changes), we implemented server-side tracking for our client Gun Dog Supply (Account ID: 7161535517434052609) (Pixel ID: CDIE4FRC77U3IB6QP0O0). \n\nI've been looking into the events manager ever since and everything's looking really healthy on our side since the very beginning (see ss).\n\nThe only minor change that's required is that we are only doing automatic advanced matching, while we wait for their team to push the collection of user data so we can manually increase this. We've delayed this project for 2024Q1, but we're getting a solid 60-65% auto collection at the moment.\n\nWhile the events manager is looking healthy, our ads manager performance is all over the place. To be more precise, it looks like on a couple of days some ads were attributed a lot more purchase events than any of the TOF events or even clicks. These anomalies makes it very hard on our team to accurately report back to clients and also makes it very hard to know what we should be optimizing for, but as we're not seeing any issues on our side, we were wondering if you could help us out with some additional insight?\n\nHere's an example of the 3 days we've seen anomalies on (Dec 22nd, 23rd and 27th) and ads that have received way too many conversions (see ss).\n\nWhile this server was not deployed by us, it's a server that we're using for analytics for over a year and we're seeing pretty healthy results in the analytics. \nAlso I've done thorough testing during the set up of server-side tracking and everything was working as intended (no changes were made after 20th). \nWe haven't changed any of the triggers for the events, nor the variables collecting the data. \nWe did switch to a TikTok Pixel tag template and I know this template had issues previously, so if this is by any means causing issues, I'm happy to revert that change whilst keeping the server-side running, however, we're not seeing issues on other accounts with the exact same setups. \nWe're also not seeing this happen on Meta either and the purchase is triggered by the same action for both platforms.\n\nIt's really uncommon having only a single platform, on a couple of days, on specific ads to attribute conversions like this, which is why we're reaching out to you, as we're not seeing anything similar elsewhere. We'd really appreciate your help.\n\nLooking forward to your response!",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "jpeg",
+          "file_name": "gds.jpeg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac5ef27fe86546ee9b34507c74f60cd4.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=%2BSZkr8ETI2YZSqauHGg%2FX7tFN14%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ac5ef27fe86546ee9b34507c74f60cd4.jpeg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac5ef27fe86546ee9b34507c74f60cd4.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=%2BSZkr8ETI2YZSqauHGg%2FX7tFN14%3D",
+          "size": 123406
+        },
+        {
+          "file_type": "jpeg",
+          "file_name": "gds1.jpeg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d980d6d6c764e2cbb06b1970bb667d8.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=eO4WdGY3eRCSlTDZgtiJwgj4eRI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4d980d6d6c764e2cbb06b1970bb667d8.jpeg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d980d6d6c764e2cbb06b1970bb667d8.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=eO4WdGY3eRCSlTDZgtiJwgj4eRI%3D",
+          "size": 556322
+        },
+        {
+          "file_type": "jpeg",
+          "file_name": "gds2.jpeg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5c7019fd2cfd42b1964eba331c814785.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=2iWW%2Fu29WBxFCcHZoXwlJuxGWRo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5c7019fd2cfd42b1964eba331c814785.jpeg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5c7019fd2cfd42b1964eba331c814785.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=2iWW%2Fu29WBxFCcHZoXwlJuxGWRo%3D",
+          "size": 560107
+        },
+        {
+          "file_type": "jpeg",
+          "file_name": "gds3.jpeg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6d25565b395b4858ad4a101f41b0fa1b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=KnGEptk%2FHAYjnFx%2FHZN0CL9FWZg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6d25565b395b4858ad4a101f41b0fa1b.jpeg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6d25565b395b4858ad4a101f41b0fa1b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=KnGEptk%2FHAYjnFx%2FHZN0CL9FWZg%3D",
+          "size": 569341
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/181b682268694f2280ec72480ddbf56b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832741&x-signature=%2FYJDSyoMpe1jIXe0VQIP6CRKLJU%3D",
+          "file_name": "file_20240318_13_32_21_167891",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/181b682268694f2280ec72480ddbf56b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832741&x-signature=%2FYJDSyoMpe1jIXe0VQIP6CRKLJU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/181b682268694f2280ec72480ddbf56b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

@@ -1,0 +1,395 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Heidi Williams",
+  "create_time": 1709242888,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709255347,
+      "auto_close_hit": 0,
+      "id": 7341194775908975000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #333333;\">Due to a recent ticket spike, your initial reply will be delayed until tomorrow (Friday).</span></p><p><span style=\"color: #333333;\">Thank you for your patience!</span></p><p><span style=\"color: #333333;\">Heidi</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709307067,
+      "auto_close_hit": 0,
+      "id": 7341417504683655000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>No worries! Thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709587541,
+      "auto_close_hit": 0,
+      "id": 7342621136372400000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra,</p><p><br /></p><p>I am seeing a couple of issues the client will want to fix as soon as they can:</p><p><br /></p><p>First, in the place where an Event name should be (AddToCart, ViewContent, etc.) they have 'product_group':</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/adbd6da8d4f44d60843c3b255caee639.png\" height=\"155.057\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/adbd6da8d4f44d60843c3b255caee639.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838371&amp;x-signature=bHfTf%2FXYiYnZVIk3gg%2Bst8B70Ew%3D\" width=\"375\"><p>so somewhere in Tealium, they will want to go in and fix that to be one of our standard event names or a custom name (instructions <a href=\"https://docs.tealium.com/client-side-tags/tiktok-pixel-tag/#events\" target=\"_blank\">here</a>):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b19e76f6b6a743468fa0658d819a3cf6.png\" height=\"186.481024\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b19e76f6b6a743468fa0658d819a3cf6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838371&amp;x-signature=ezag9vfWO4BWEa5TRWMnzQZHf4o%3D\" width=\"408\"><p>Although I am only able to look at a sample of data, for an E-commerce site like this one, I would expect to see many more 'CompletePayment' events. But out of 5000 total events over two days, I am only seeing one:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7a5b6c5797c846d588fa9df99a712526.png\" height=\"58.642\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7a5b6c5797c846d588fa9df99a712526.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838371&amp;x-signature=UmP6nS3WoI20ml9Y0qZSoDOp5ZU%3D\" width=\"375\"><p>and that event is only firing from a staging site:</p><p>https://stage.saksfifthavenue.com/orderconfirm</p><p>i.e. I see the 'CompletePayment' event on the production site <a href=\"https://www.saksfifthavenue.com/\" target=\"_blank\">https://www.saksfifthavenue.com/</a> is not firing as expected. This is a problem because, as you know, we use the data from that event to calculate ROAS, as well as qualify accounts for use of VSA and VBO. Please remind them you cannot optimize ads toward custom events, only <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en\" target=\"_blank\">standard events</a>.</p><p><br /></p><p>I also see that their account is currently suspended. Has that been addressed yet?</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/acd2f589672847e4b015e84c4b4c6312.png\" height=\"253.959\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/acd2f589672847e4b015e84c4b4c6312.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838371&amp;x-signature=aFMK3blIp2zbITN8fTzqmWOaWC0%3D\" width=\"375\"><p><br /></p><p>I'll continue with my analysis after I get your feedback on the issues so far.</p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709663630,
+      "auto_close_hit": 0,
+      "id": 7342946689730494000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra, </p><p><br /></p><p>One more thing, could you please ask the client what changed about their events set up late last week? Their CompletePayment match rate was 90% around February 29th, but then dipped to 0 and currently is still very low:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/575805096be94e1882328ac8b48dfd6c.png\" height=\"168.707\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/575805096be94e1882328ac8b48dfd6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838371&amp;x-signature=1FlyJO7dr8jG7Y21WvRvINEBA9s%3D\" width=\"375\"><p><br /></p><p>Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1909312,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "heidi.williams@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Saks --  Catalog Support needed",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1709663630,
+  "owner_name": "Zahra Hemani",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7026323662681506818",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Zahra Hemani",
+  "follow_employee_id": 5710207,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1110741,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Saks --  Catalog Support needed",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Saks",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "7003430656969588737",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "10000",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-29",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "My client has a catalog set up, but the match rates are rather low, see attached. Can you advise on how to improve this match rate? Thanks! Here's the catalog: https://ads.tiktok.com/catalogs/overview?id=7073142537174763266&bc_id=6999439305500311554&app_id=7112853576526970882\n\n",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-02-29 at 3.40.55 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4acd403f4495432da6dd306ed5eaf5e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838370&x-signature=Q%2BepkoLHuucT%2BHPCH%2BQVw1TFpmU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4acd403f4495432da6dd306ed5eaf5e7.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4acd403f4495432da6dd306ed5eaf5e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838370&x-signature=Q%2BepkoLHuucT%2BHPCH%2BQVw1TFpmU%3D",
+          "size": 125090
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/acd2f589672847e4b015e84c4b4c6312.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838371&x-signature=aFMK3blIp2zbITN8fTzqmWOaWC0%3D",
+          "file_name": "file_20240318_15_06_11_124646",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/acd2f589672847e4b015e84c4b4c6312.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838371&x-signature=aFMK3blIp2zbITN8fTzqmWOaWC0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/acd2f589672847e4b015e84c4b4c6312.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b19e76f6b6a743468fa0658d819a3cf6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838371&x-signature=ezag9vfWO4BWEa5TRWMnzQZHf4o%3D",
+          "file_name": "file_20240318_15_06_11_124723",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b19e76f6b6a743468fa0658d819a3cf6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838371&x-signature=ezag9vfWO4BWEa5TRWMnzQZHf4o%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b19e76f6b6a743468fa0658d819a3cf6.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/adbd6da8d4f44d60843c3b255caee639.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838371&x-signature=bHfTf%2FXYiYnZVIk3gg%2Bst8B70Ew%3D",
+          "file_name": "file_20240318_15_06_11_124740",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/adbd6da8d4f44d60843c3b255caee639.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838371&x-signature=bHfTf%2FXYiYnZVIk3gg%2Bst8B70Ew%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/adbd6da8d4f44d60843c3b255caee639.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7a5b6c5797c846d588fa9df99a712526.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838371&x-signature=UmP6nS3WoI20ml9Y0qZSoDOp5ZU%3D",
+          "file_name": "file_20240318_15_06_11_124754",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7a5b6c5797c846d588fa9df99a712526.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838371&x-signature=UmP6nS3WoI20ml9Y0qZSoDOp5ZU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7a5b6c5797c846d588fa9df99a712526.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/575805096be94e1882328ac8b48dfd6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838371&x-signature=1FlyJO7dr8jG7Y21WvRvINEBA9s%3D",
+          "file_name": "file_20240318_15_06_11_167828",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/575805096be94e1882328ac8b48dfd6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838371&x-signature=1FlyJO7dr8jG7Y21WvRvINEBA9s%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/575805096be94e1882328ac8b48dfd6c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

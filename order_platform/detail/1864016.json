@@ -1,0 +1,511 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497066245137",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Heidi Williams",
+  "create_time": 1707330790,
+  "deadline": 0,
+  "archive_board_id": 1705151646989663,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707345510,
+      "auto_close_hit": 0,
+      "id": 7332991895368450000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #333333;\">Hi Alexeus, acknowledging receipt of this ticket. I will investigate and get back to you as soon as possible!</span></p><p><br></p><p><span style=\"color: #333333;\">Thanks, Heidi</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707428570,
+      "auto_close_hit": 0,
+      "id": 7333348486856851000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "alexues.hamilton@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Alexues Hamilton",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7031137679635137538",
+      "name": "Alexues Hamilton",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you, Heidi! I will lookout for your update.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_21f123e4-3672-4e56-abea-f6896400d09g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707436798,
+      "auto_close_hit": 0,
+      "id": 7333383540396130000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Alexeus,</p><p><br /></p><p>The PII for <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CEQS96RC77U8BHMFL0R0?start_time=2024-02-02&amp;end_time=2024-02-08&amp;from=ALL&amp;aadvid=7049456939788419073&amp;type=overview\" target=\"_blank\">pixel id CEQS96RC77U8BHMFL0R0</a> is looking good:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d64642b8afdc4484ba002ca2b7167c03.png\" height=\"70.431\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d64642b8afdc4484ba002ca2b7167c03.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837798&amp;x-signature=lLR8Cy1%2ByC8GR3gz%2BlM5usiKfmM%3D\" width=\"375\"><p>at least for CompletePayment, which is the event I most expect to see PII and where it is also required. Where are you seeing the PII score is low? Do you have a link or a screenshot you can send?</p><p><br /></p><p>I am however, seeing that matching event_ids are low, which will negatively impact dedupe rate:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0221ffbad8e444d785f820741dc3c1fd.png\" height=\"382.687\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0221ffbad8e444d785f820741dc3c1fd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837798&amp;x-signature=1ljH90n%2FiBhL2X64%2FWqA9fl30wE%3D\" width=\"375\"><p>For each event id there should be a count of 2, but there is only one, as you can see here. They will want to check in Tealium and make sure event_is properly setup. My guess is this is related to my next point:</p><p><br /></p><p>Event timestamps are missing, which are one data point used for matching events and should be on by default through Tealium:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a1c21ac90b32441ebbe346db000366a6.png\" height=\"104.993\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a1c21ac90b32441ebbe346db000366a6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837798&amp;x-signature=K%2BbD1VL1cIjSfxa7KF3BAAdO1M0%3D\" width=\"375\"><p>They should go into Tealium and enable timestamp to be reported for every event.</p><p><br /></p><p>There are some diagnostics messages in their Events Manager that may be old. They should go in and either address or dismiss each issue <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CEQS96RC77U8BHMFL0R0?start_time=2024-02-02&amp;end_time=2024-02-08&amp;from=ALL&amp;aadvid=7049456939788419073&amp;type=diagnostics\" target=\"_blank\">here</a>, so we can make sure all issues have been addressed.</p><p><br /></p><p>Please let me know if they need further help!</p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708450488,
+      "auto_close_hit": 0,
+      "id": 7337738114577826000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "alexues.hamilton@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Alexues Hamilton",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7031137679635137538",
+      "name": "Alexues Hamilton",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Heidi,</p><p><br /></p><p>Thank you for the insight about Tealium. I have relayed this back to the client.</p><p><br /></p><p>Regarding the PII coverage, I just linked the screenshot below where we are showing that their coverage is at 54%. Can you please let me know any insight, next steps, or what the client can do to fix this issue?</p><p><br /></p><img alt=\"Screenshot 2024-02-20 at 11.31.20 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/353a05b1d4ce4e6aa984064b00ed886f.png\" height=\"419.811\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/353a05b1d4ce4e6aa984064b00ed886f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837798&amp;x-signature=rd7%2FY1zQrBogN31w7WvtXpelN8c%3D\" width=\"375\"><p><br /></p><p>Thanks!</p><p>Alexues</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0082_c7124896-036e-46fe-bb85-46ba44117f0h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709139003,
+      "auto_close_hit": 0,
+      "id": 7340695753225961000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "alexues.hamilton@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Alexues Hamilton",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7031137679635137538",
+      "name": "Alexues Hamilton",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Heidi,</p><p><br></p><p>Just wanted to follow up here and confirm that the PII coverage issue is the same as DailyLook. Let me know!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0082_c7124896-036e-46fe-bb85-46ba44117f0h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1864016,
+  "workflow_nodes": [],
+  "board_id": 1705151646989663,
+  "employee_email": "heidi.williams@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "David Yurman - eAPI Troubleshooting",
+  "category_1_name": "Events API - Web",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0082_c7124896-036e-46fe-bb85-46ba44117f0h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1709524191,
+  "owner_name": "Alexues Hamilton",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - Web",
+  "archive_category_1": "1736497066245137",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497066245137",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882593",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882609",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883585",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883601",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400130",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400146",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400162",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400178",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401154",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401170",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401186",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401202",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548708426753",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - Web"
+    }
+  ],
+  "core_user_id": "7031137679635137538",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Alexues Hamilton",
+  "follow_employee_id": 5710207,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 3337000,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "David Yurman - eAPI Troubleshooting",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Tealium",
+      "valid": true,
+      "key": "Tealium",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "David Yurman",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7049456939788419073"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Alexues Hamilton - CSM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "6932489116923756546",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CEQS96RC77U8BHMFL0R0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.davidyurman.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-07",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "The client's signal score is 80 and we are working to get it to 100. The signal dashboard says that their PII Score is 20. Would anyone mind taking a look at their Manual and Advanced Matching to see what is wrong so thatr we can get their signal score to 100? Thanks!",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a1c21ac90b32441ebbe346db000366a6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837798&x-signature=K%2BbD1VL1cIjSfxa7KF3BAAdO1M0%3D",
+          "file_name": "file_20240318_14_56_38_676582",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a1c21ac90b32441ebbe346db000366a6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837798&x-signature=K%2BbD1VL1cIjSfxa7KF3BAAdO1M0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a1c21ac90b32441ebbe346db000366a6.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0221ffbad8e444d785f820741dc3c1fd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837798&x-signature=1ljH90n%2FiBhL2X64%2FWqA9fl30wE%3D",
+          "file_name": "file_20240318_14_56_38_676661",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0221ffbad8e444d785f820741dc3c1fd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837798&x-signature=1ljH90n%2FiBhL2X64%2FWqA9fl30wE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0221ffbad8e444d785f820741dc3c1fd.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d64642b8afdc4484ba002ca2b7167c03.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837798&x-signature=lLR8Cy1%2ByC8GR3gz%2BlM5usiKfmM%3D",
+          "file_name": "file_20240318_14_56_38_676678",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d64642b8afdc4484ba002ca2b7167c03.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837798&x-signature=lLR8Cy1%2ByC8GR3gz%2BlM5usiKfmM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d64642b8afdc4484ba002ca2b7167c03.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/353a05b1d4ce4e6aa984064b00ed886f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837798&x-signature=rd7%2FY1zQrBogN31w7WvtXpelN8c%3D",
+          "file_name": "file_20240318_14_56_38_756261",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/353a05b1d4ce4e6aa984064b00ed886f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837798&x-signature=rd7%2FY1zQrBogN31w7WvtXpelN8c%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/353a05b1d4ce4e6aa984064b00ed886f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - Web-Events API - Web"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

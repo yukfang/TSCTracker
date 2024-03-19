@@ -1,0 +1,678 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Thomas Mei",
+  "create_time": 1706205401,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706224913,
+      "auto_close_hit": 0,
+      "id": 7328179139951788000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Reece,</p><p><br /></p><p>Just so I am understanding correctly: your client wants data from all of their regional websites to pool into one TikTok Pixel?</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cff764f0d1a046c7a17c6f013175d58c.png\" height=\"183.353\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cff764f0d1a046c7a17c6f013175d58c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833008&amp;x-signature=U9Dd4M2ptgWc%2BlBLvZDbawEIwFg%3D\" width=\"375\"><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706301056,
+      "auto_close_hit": 0,
+      "id": 7328506022165856000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "reece.white.r@gmail.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user1105737381635",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7309527399811908610",
+      "name": "user1105737381635",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>I believe so, Thomas. I am still very new to TikTok so am learning on the fly, but it seems like they want to be able to track conversions across their regional websites but due to current setup they are limited?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_005k_416ba440-5e37-4a5b-a36e-37f4a390c3fh~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706307344,
+      "auto_close_hit": 0,
+      "id": 7328532697356255000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Reece - feel free to add me to an email ch ain with the client. I can communicate with them directly and learn more about what they are trying to do and make a recommendation.&nbsp;</p><p><br></p><p>Thomas.mei@tiktok.com</p><p><br></p><p>Regards,</p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706546936,
+      "auto_close_hit": 0,
+      "id": 7329562831865561000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "reece.white.r@gmail.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user1105737381635",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7309527399811908610",
+      "name": "user1105737381635",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Sounds great, thank you so much Thomas. I will get that done today and look forward to learning more as well.&nbsp;</p><p><br></p><p>Best,&nbsp;</p><p>Reece</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_005k_416ba440-5e37-4a5b-a36e-37f4a390c3fh~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706650455,
+      "auto_close_hit": 0,
+      "id": 7330005733062312000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Replied via email to client on 1-30:</p><p><br></p><p>---</p><p><br></p><p><span style=\"color: #1F2329;\">Hi Carlos,</span></p><p><span style=\"color: #1F2329;\">From reading your previous email&nbsp;it appears you are looking for coding/documentation on how to manually implement the Pixel on one of your sites?</span></p><p><em>&#34;I understand that we can manually coded&nbsp;the pixel into the site. I was trying to do that as per one of the suggestions that your Support&nbsp;team mentioned... So, we can either use the current pixel if possible or create a new pixel&nbsp; on the Manager account&nbsp;but as i&nbsp;mentioned, i&nbsp;will need to create rules and event&nbsp;to complete the new pixel &nbsp;(below image shows new pixel).&nbsp; If you&nbsp;team can provide me with the pixel (code), with the rules and settings i&nbsp;can just add it to the US site.&#34;</em></p><p><br></p><p>If that is the case, the documentation for implementing the TikTok Pixel can be found here: <span style=\"color: #1456F0;\"><a target=\"_blank\" href=\"https://business-api.tiktok.com/portal/docs?rid=5ipocbxyw8v&amp;id=1739585702922241\">https://business-api.tiktok.com/portal/docs?rid=5ipocbxyw8v&amp;id=1739585702922241</a></span><br></p><p><br></p><p><span style=\"color: #1F2329;\">Please let me know if that was what you were looking for or if you have any other questions.&nbsp;</span></p><p><br></p><p><span style=\"color: #1F2329;\">Regards,</span></p><p><span style=\"color: #1F2329;\">Thomas</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707328369,
+      "auto_close_hit": 0,
+      "id": 7332919026101780000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Client indicated they will look through the documentation and revert back if they have any additional questions (2-7):</p><p><br></p><p><span style=\"color: #1F2329;\">Hi Reece,</span></p><p><br></p><p><span style=\"color: #1F2329;\">I will work on this in the next couple of das and if any issues, I will reach out.</span></p><p><br></p><div class=\"tableWrapper\"><table style=\"min-width: 48px;\"><colgroup><col><col></colgroup><tbody><tr><td><p><span style=\"color: #1F2329;\">Thanks,&nbsp;</span></p></td></tr></tbody></table></div>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709222270,
+      "auto_close_hit": 0,
+      "id": 7341045038400881000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "reece.white.r@gmail.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user1105737381635",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7309527399811908610",
+      "name": "user1105737381635",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey there Thomas,&nbsp;</p><p><br></p><p>So I have been thinking about how to best advise the client to setup their pixel and wanted to check in with you to ensure we are on the same page about what needs to happen from their end.&nbsp;</p><p><br></p><p>The client has a shopify pixel that is attached to their canada domain only. Ideal world, they would be able to get that shopify pixel attached to their entire domain so that they can track conversions across all regional sites. Is that possible?&nbsp;</p><p><br></p><p>If not, what would you suggest is their course of action to track all regional activities in one pixel? (or would you suggest they just have two pixels and run separate campaigns) They want to be able to run a tiktok campaign that targets both canada and the us, but arent gonna do that unless they can capture events on both regional sites (and campaigns can only leverage one pixel so this is kinda where the issue lies i believe).&nbsp;</p><p><br></p><p>Let me know your thoughts!&nbsp;</p><p>Reece</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_005k_416ba440-5e37-4a5b-a36e-37f4a390c3fh~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709222958,
+      "auto_close_hit": 0,
+      "id": 7341054886018154000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "reece.white.r@gmail.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user1105737381635",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7309527399811908610",
+      "name": "user1105737381635",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>It looks like they have been working on setting up the US pixel (<span style=\"color: #222222;\">CN1SI7RC77UCVPFVE9F0) separate of the canada shopify pixel however i tested it and it was not working so it does not seem to be setup appropriately there either.&nbsp;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_005k_416ba440-5e37-4a5b-a36e-37f4a390c3fh~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709227151,
+      "auto_close_hit": 0,
+      "id": 7341071521953219000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Reece,</p><p><br></p><p>To the best of my knowledge it is not possible to set up one Shopify Pixel Integration across multiple websites with distinct domains.&nbsp;</p><p><br></p><p>Typically, clients should want to segregate their signals and advertising efforts across regions as t here should be differences in customers, shopping habits, etc.&nbsp;</p><p><br></p><p>However, if Heys does want to implement a single Pixel across multiple regions for the purposes of running US&amp;CA campaigns, then the remaining option may be to go a more manual route and utilize something like a tag manager to manage firing the same Pixel across multiple sites.&nbsp;</p><p><br></p><p>Please let me know if they have any questions or would like to discuss further.&nbsp;</p><p><br></p><p>Regards,</p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1838943,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "thomas.mei@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Heys Luggage - Manual Pixel Installation Suppport",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_005k_416ba440-5e37-4a5b-a36e-37f4a390c3fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1709227150,
+  "owner_name": "user1105737381635",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7309527399811908610",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Reece White",
+  "follow_employee_id": 2819808,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1541857,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Heys Luggage - Manual Pixel Installation Suppport",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Shopify",
+      "valid": true,
+      "key": "Shopify",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Heys Luggage ",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "SMB",
+      "valid": true,
+      "key": "SMB",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-CA",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7206382555216510977"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P3",
+      "valid": true,
+      "key": "P3",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "SMB AM: Reece White ",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CJSA15BC77UB4MRTKNLG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "heys.com",
+        "https://ca.heys.com/collections/xtrak",
+        "https://ca.heys.com/collections/tekno"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-25",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "To summarize, the client has multiple Shopify stores per region, each with its own subdomain except for the Australian store. Each store has unique inventory, catalogs, pricing, and more. Additionally, there is a landing page that redirects to these stores. The problem arises when the client used a one-click pixel install through Shopify, as the pixel was installed only on one subdomain. However, the client's requirement is to use the same pixel across multiple websites and subdomains. The client requires assistance with manually installing the pixel and configuring events across all of their subdomains and websites. ",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cff764f0d1a046c7a17c6f013175d58c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833008&x-signature=U9Dd4M2ptgWc%2BlBLvZDbawEIwFg%3D",
+          "file_name": "file_20240318_13_36_48_573620",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cff764f0d1a046c7a17c6f013175d58c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833008&x-signature=U9Dd4M2ptgWc%2BlBLvZDbawEIwFg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/cff764f0d1a046c7a17c6f013175d58c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

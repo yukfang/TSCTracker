@@ -1,0 +1,288 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Chan Lim",
+  "create_time": 1710033398,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710126264,
+      "auto_close_hit": 0,
+      "id": 7344935346431394000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>scoping</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710133477,
+      "auto_close_hit": 0,
+      "id": 7344966604268044000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>App VSA support</p><p><br></p><p>Business justification:</p><p>기존 브랜딩 기조보다 퍼포먼스를 염두로 하는 클라이언트가 많아지고, 틱톡에서 구매를 드라이브하여 여러 테스트를 해 보려는 기조가 있습니다. 마찬가지로 타사에서 많이 활용하고 있는 피드를 활용해서 ROAS 를 높여 보려는 니즈가 있는데요. 우선 요청드리는 나이키 계정만 해도 30일동안 VSA $50K 정도 집행 니즈가 있는 상황입니다.</p><p><br></p><p>Revenue Impact:</p><p>est 130K per month</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1930692,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "chan.lim@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Catalog Health check ",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 3,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_005i_ad20a02f-6be7-4276-b6ca-9137b5fc1dhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710133476,
+  "owner_name": "유단비",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 3,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7301117394230985729",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "유단비",
+  "follow_employee_id": 3050890,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 641063,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Catalog Health check ",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Nike Korea",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Ecommerce",
+      "valid": true,
+      "key": "Ecommerce",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Enterprise",
+      "valid": true,
+      "key": "Enterprise",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "SEA-KR",
+      "valid": true,
+      "key": "SEA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "7186590283566563329",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "est 130K per month ",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-10",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Hi team,\nNike is ready to create VSA campaign and I would like to request catalog review. \nEspecially, I am unsure if there will be no issue for below matter:\n\n1. I can see the matching id is 0%, client added the required field including IOS+AOS app ID. \nWould you be able to check it is Working as Intended? \n\n\n",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

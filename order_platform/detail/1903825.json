@@ -1,0 +1,379 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Thomas Mei",
+  "create_time": 1709063720,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709071318,
+      "auto_close_hit": 0,
+      "id": 7340385981901652000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kayla,</p><p><br /></p><p>It seems like perhaps your client is perhaps running a VSA campaign? Have a few questions below:</p><p><br /></p><p>1) Catalog checking - could you provide me with their BC #? I can look up and check the catalog that way.</p><p>2) Ad preview - this might be expected behavior. TSC team does not cover the Ads Manager product. You could try checking with TPS or someone else in GBS should know if this is expected. </p><p>3) Which Pixel will they be using? The one that is attached to their ad account doesn't seem to be functioning/firing properly:</p><img alt=\"img_v3_028g_b661c19c-c522-4233-a88b-e5fc4eb95feh.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b94636810d064c91b2152a045840c220.jpg\" height=\"60.822\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b94636810d064c91b2152a045840c220.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838297&amp;x-signature=%2B0UyEQCjFmUE8sm%2BaNVgQNQpztI%3D\" width=\"375\"><p><br /></p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/C51OEGJMLFUS2HTAMTB0?start_time=2024-02-21&amp;end_time=2024-02-27&amp;from=ALL&amp;aadvid=6990481994773741569</p><p><br /></p><p>Is that the proper Pixel or will they be using a different one for their campaign?</p><p><br /></p><p>Thomas</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709072775,
+      "auto_close_hit": 0,
+      "id": 7340399743702532000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kayla,</p><p><br></p><p>1) Catalog - I reviewed the EN catalog and it does appear they have a lot of products uploaded. The diagnostics tab doesn&#39;t indicate any clear issues.&nbsp;https://ads.tiktok.com/catalogs/product?id=7150777281726695169&amp;bc_id=6990480625643864065&amp;app_id=7008593219139272706</p><p><br></p><p>2) Pixel - however, VSA relies on a properly set up Pixel to pass back content_id(s) to match to products in a client&#39;s catalog. Given the low level of activity in their Pixel, I really question how effective their campaigns will be.&nbsp;</p><p><br></p><p>3) VSA towards Landing Page Views - I was not aware that this was a possibility. If it is a campaign that doesn&#39;t rely on a Pixel to run (pass back content_ids of products users looked at) then I suppose it could work.&nbsp;</p><p><br></p><p>Regards,</p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709072110,
+      "auto_close_hit": 0,
+      "id": 7340406993829642000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kayla.mackenzie@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kayla Mackenzie151",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7233451881711371266",
+      "name": "Kayla Mackenzie151",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Thomas,</p><p><br></p><p>Thanks for the quick reply. Please see the details requested below:<br><br>1) BC link:<a href=\"https://business.tiktok.com/manage/overview?is_new_connect=0&amp;is_new_user=0&amp;log_employee_id=7515362&amp;log_type=staff_unified_auth__3m&amp;org_id=6990480625643864065\" target=\"_blank noopener noreferrer\">&nbsp;https://business.tiktok.com/manage/overview?is_new_connect=0&amp;is_new_user=0&amp;log_employee_id=7515362&amp;log_type=staff_unified_auth__3m&amp;org_id=6990480625643864065</a><br><br>2) I will file another ticket to address this<br><br>3) This client is not leveraging a pixel at the moment. They&#39;re leveraging VSA with an optimization event of Landing Page Views currently while they get their pixel implemented properly.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_d3ad2fd2-b224-4f60-ae51-6e854d15d0hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709073058,
+      "auto_close_hit": 0,
+      "id": 7340411062086517000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kayla.mackenzie@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kayla Mackenzie151",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7233451881711371266",
+      "name": "Kayla Mackenzie151",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Thomas! Appreciate the support and we will relay this message to client while we wait to hear back on the preview generation from the 2nd ticket we filed.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_d3ad2fd2-b224-4f60-ae51-6e854d15d0hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1903825,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "thomas.mei@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Canadian Tire - Catalog Previews Unavailable",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_d3ad2fd2-b224-4f60-ae51-6e854d15d0hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1709073057,
+  "owner_name": "Kayla Mackenzie151",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7233451881711371266",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Kayla Mackenzie",
+  "follow_employee_id": 2819808,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1701522,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Canadian Tire - Catalog Previews Unavailable",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Canadian Tire",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Enterprise",
+      "valid": true,
+      "key": "Enterprise",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-CA",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "6990481994773741569",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "$75,000",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-27",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Client has asked that we review and QA their current set up going live tomorrow. I am covering for the CSM that manages this account and do not have access to their catalog manager. After reviewing the campaign set up in Ads Manager, we noticed that the preview has broken link images (picture attached), and previews are unavailable. My concern is that the catalog is frozen. Could we please do an audit of the catalog and it's set up to ensure the campaign will be able to launch tomorrow?",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-27 at 2.50.44 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c6c96fb4bfca49a3ac5b03bb35f9d982.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=a7ycT71d456XGgXVUhk6gEAwQfM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c6c96fb4bfca49a3ac5b03bb35f9d982.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c6c96fb4bfca49a3ac5b03bb35f9d982.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=a7ycT71d456XGgXVUhk6gEAwQfM%3D",
+          "size": 151679
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-27 at 2.50.51 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d50b456770de4c069164c11c1d1a6ffd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=hGeePB%2B1KS6hMj2P91ugFykAJ4I%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d50b456770de4c069164c11c1d1a6ffd.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d50b456770de4c069164c11c1d1a6ffd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=hGeePB%2B1KS6hMj2P91ugFykAJ4I%3D",
+          "size": 843167
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-27 at 2.54.55 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d1d4852f870405c936bfc821f680ff1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=mnKC1Kxxb1ouZR%2FuqDxfglchxGM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2d1d4852f870405c936bfc821f680ff1.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d1d4852f870405c936bfc821f680ff1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=mnKC1Kxxb1ouZR%2FuqDxfglchxGM%3D",
+          "size": 729841
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b94636810d064c91b2152a045840c220.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=%2B0UyEQCjFmUE8sm%2BaNVgQNQpztI%3D",
+          "file_name": "file_20240318_15_04_57_309631",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b94636810d064c91b2152a045840c220.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=%2B0UyEQCjFmUE8sm%2BaNVgQNQpztI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b94636810d064c91b2152a045840c220.jpg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

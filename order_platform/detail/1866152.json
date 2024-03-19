@@ -1,0 +1,651 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497211543601",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Armando Carmona Blanco",
+  "create_time": 1707429937,
+  "deadline": 0,
+  "archive_board_id": 1705151646989665,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707441821,
+      "auto_close_hit": 0,
+      "id": 7333404659404587000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Myrna Jahuey",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7192252141284279000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Myrna,</p><p>Confirmando recibo de tu ticket. Favor de ver los siguientes comentarios.</p><p>Revise la cuenta del anunciante y en la sección de Bidding &amp; Optimization, la opción de <strong>Purchase</strong> <strong>value</strong> no esta disponible porque al parecer, no estamos recibiendo parámetro de value con el evento de Purchase.</p><img alt=\"Screenshot 2024-02-08 at 4.42.27 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/81db556cd73e404dab43b0a17906374d.png\" height=\"190.255\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/81db556cd73e404dab43b0a17906374d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837851&amp;x-signature=cjHQtLvJhwZs4Qte9MWdi8sG5DE%3D\" width=\"375\"><p>Si le puedes pedir un screenshot al anunciante de sus settings en AppsFlyer para confirmar esto?</p><p>Saludos,<br>Armando</br></p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707494127,
+      "auto_close_hit": 0,
+      "id": 7333630784831554000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Myrna Jahuey",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7192252141284279298",
+      "name": "Myrna Jahuey",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Armando!!! como estás?<br>Gracias por tu pronta respuesta.<br><br>Voy a revisar con la marca, tengo una duda adicional... ellos están migrando a SAN por el lado de iphone ya quedó listo pero para android no, ya tuvimos call con LIMA y en teoría el set up está realizado de manera correcta, nos comentó que puede ser un BUG el por qué aparece como &#34;en transición&#34; entonces, mi duda es ¿les pido que tanto revisen los eventos en su MMP como en el status de la migración? o es lo mismo?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_4da9a1d1-b563-4676-85e7-f427a07f77hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707755095,
+      "auto_close_hit": 0,
+      "id": 7334751640000692000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Myrna,</p><p>En este caso, el cliente esta tratando de correr campañas de Android usando la integración Legacy, y los eventos de Android son los que posiblemente no estén llegando con los parámetros necesarios.</p><p>La migración SAN es algo aparte. Ellos deben configurar SAN para Android y iOS y al mismo tiempo tener sus <a href=\"https://support.appsflyer.com/hc/en-us/articles/360002254918--Legacy-TikTok-For-Business-campaign-configuration\" target=\"_blank\">integraciones previas (Legacy) en pie/activas</a>.</p><img alt=\"Screenshot 2024-02-09 at 4.27.28 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d05079b443ee4f6ba8e570bfc9e90247.png\" height=\"270.931\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d05079b443ee4f6ba8e570bfc9e90247.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837851&amp;x-signature=aCfkapXWl1JhO5WG3VeKUmiUvv8%3D\" width=\"375\"><p>Realizar las integraciones SAN en su MMP es solamente el primer paso. Una vez que estas estén listas, tienes que <a href=\"https://bytedance.sg.larkoffice.com/base/MuoebuDFBaFPiusXZXOla6Mfgog?table=tbl66IVz9ZmFWkH9&amp;view=vewIZ0LpQT\" target=\"_blank\">agregar al anunciante al Allows List aquí</a> para pedirle al equipo a cargo de las migraciones que realize la migración, ya que este es un proceso manual. El equipo se encargará de que la configuración este correcta antes de migrar las aplicaciones a la SAN. Estos son los siguientes pasos para este anunciante.</p><ol><li>Asegurarnos de que su configuración a la integración Legacy esté enviando todos los eventos.</li><li>Completar la integración SAN.</li></ol><p>Saludos,<br>Armando</br></p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707759229,
+      "auto_close_hit": 0,
+      "id": 7334768896169361000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Myrna Jahuey",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7192252141284279298",
+      "name": "Myrna Jahuey",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Armando <br>Adjunto los SS <br><br><br><br /></br></br></br></br></p><img alt=\"Captura de pantalla 2024-02-07 a la(s) 11.36.21 a.m..png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png\" height=\"75.228\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837851&amp;x-signature=cbISkyCPaJ2nzKbuEQs6jkpMX9o%3D\" width=\"375\"><img alt=\"Captura de pantalla 2024-02-07 a la(s) 11.35.07 a.m..png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d35366c9556348388f826165ace7e1f4.png\" height=\"132.469\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d35366c9556348388f826165ace7e1f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837851&amp;x-signature=Jtn1ryBBZeB9QnSzq1PpUJHNmxE%3D\" width=\"375\"><img alt=\"Captura de pantalla 2024-02-07 a la(s) 11.36.21 a.m..png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png\" height=\"75.228\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837851&amp;x-signature=ROP4MUxHZbPZY64MvOpie2e6CXE%3D\" width=\"375\" /></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_4da9a1d1-b563-4676-85e7-f427a07f77hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707759376,
+      "auto_close_hit": 0,
+      "id": 7334770056972206000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Myna,</p><p>Necesitamos capturas de pantalla de su MMP, los que están adjunto son de su TTAM.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707764883,
+      "auto_close_hit": 0,
+      "id": 7334792358648726000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Myrna Jahuey",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7192252141284279298",
+      "name": "Myrna Jahuey",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Los adjunto, solo que estuvimos revisando y al momento de la migración  un requerimiento es que sean los mismos eventos de legacy a SAN.&nbsp;<br><br>Como puedes ver en los SS son los mismos eventos, sin embargo, cuando querían agregar el evento de &#34;purchase&#34; en SAN si aparece disponible pero en legacy no, en este caso ¿no importaría si el evento solo se queda para la nueva versión SAN?<br><br><br></p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Integración Android SRN.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=sQAR%2F7qR44Vh%2FpBK0wZeSXXw9x8%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=sQAR%2F7qR44Vh%2FpBK0wZeSXXw9x8%3D",
+              "biz_type": 2,
+              "size": 231714
+            },
+            {
+              "file_type": "png",
+              "file_name": "Integración iOS - SRN.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=1Pjjw5gPd2ZvC6rc79JpMPBj3Zk%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=1Pjjw5gPd2ZvC6rc79JpMPBj3Zk%3D",
+              "biz_type": 2,
+              "size": 324750
+            },
+            {
+              "file_type": "png",
+              "file_name": "Integración iOS Legacy.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=gesIbNX%2F44NT1hFPxMNFm%2FC95yY%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=gesIbNX%2F44NT1hFPxMNFm%2FC95yY%3D",
+              "biz_type": 2,
+              "size": 227864
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_4da9a1d1-b563-4676-85e7-f427a07f77hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707764898,
+      "auto_close_hit": 0,
+      "id": 7334792576685490000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Myrna Jahuey",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7192252141284279298",
+      "name": "Myrna Jahuey",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Intregración Android Legacy.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=se76ZrLVRwL618UzHWWEcfpcYrE%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=se76ZrLVRwL618UzHWWEcfpcYrE%3D",
+              "biz_type": 2,
+              "size": 208522
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_4da9a1d1-b563-4676-85e7-f427a07f77hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707766730,
+      "auto_close_hit": 0,
+      "id": 7334801143899488000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Myrna,</p><p>En realidad no estoy 100% seguro, pero eso es algo con lo que el equipo que realiza la migración les puede ayudar, ya que ellos se encargan de que los settings que tienen en sus integraciones de Legacy estén correctos antes de realizar la migración a SAN.</p><p>Si pueden continuar con la integración SAN y a la hora de agregar al cliente a el allowlist sabremos que otros ajustes, si algunos, se deban hacer.</p><p>Saludos,<br>Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709577804,
+      "auto_close_hit": 0,
+      "id": 7342579603308970000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Conclusion]&nbsp;</strong><br>CSM was looking for guidance on MMP/SAN migration. Provided instructions for completing the process and provided link to allowlist for team to verify settings prior to migration.<br><strong>&lt;SAN Migration&gt;<br>&lt;Education&gt;</strong></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1866152,
+  "workflow_nodes": [],
+  "board_id": 1705151646989665,
+  "employee_email": "armando.carmona@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "VBO not possible to activate \"purchase\" event",
+  "category_1_name": "Mobile Marketing Partner (MMP)",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_4da9a1d1-b563-4676-85e7-f427a07f77hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1709577839,
+  "owner_name": "Myrna Jahuey",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Mobile Marketing Partner (MMP)",
+  "archive_category_1": "1736497211543601",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497211543601",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [],
+      "value": "Mobile Marketing Partner (MMP)"
+    }
+  ],
+  "core_user_id": "7192252141284279298",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Myrna Jahuey",
+  "follow_employee_id": 1807296,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1196012,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "VBO not possible to activate \"purchase\" event",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Stori Card",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Finance",
+      "valid": true,
+      "key": "Finance",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "LATAM-MX",
+      "valid": true,
+      "key": "LATAM",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7160791768638799874"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM Myrna Jahuey",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "7160790956676055041",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "1486481718",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "storicard.com"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Mobile",
+      "valid": true,
+      "key": "Events API - Mobile",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-08",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Client its not able to turn on a VBO campaign even tough in the period od 7 days they accomplished more than 30 conversions \n\nID de la campaña: 1789724154704945 y ID del ad group: 1789736037475362",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/81db556cd73e404dab43b0a17906374d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=cjHQtLvJhwZs4Qte9MWdi8sG5DE%3D",
+          "file_name": "file_20240318_14_57_31_348537",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/81db556cd73e404dab43b0a17906374d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=cjHQtLvJhwZs4Qte9MWdi8sG5DE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/81db556cd73e404dab43b0a17906374d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d05079b443ee4f6ba8e570bfc9e90247.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=aCfkapXWl1JhO5WG3VeKUmiUvv8%3D",
+          "file_name": "file_20240318_14_57_31_432207",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d05079b443ee4f6ba8e570bfc9e90247.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=aCfkapXWl1JhO5WG3VeKUmiUvv8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d05079b443ee4f6ba8e570bfc9e90247.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=ROP4MUxHZbPZY64MvOpie2e6CXE%3D",
+          "file_name": "file_20240318_14_57_31_476146",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=ROP4MUxHZbPZY64MvOpie2e6CXE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d35366c9556348388f826165ace7e1f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=Jtn1ryBBZeB9QnSzq1PpUJHNmxE%3D",
+          "file_name": "file_20240318_14_57_31_476241",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d35366c9556348388f826165ace7e1f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=Jtn1ryBBZeB9QnSzq1PpUJHNmxE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d35366c9556348388f826165ace7e1f4.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=cbISkyCPaJ2nzKbuEQs6jkpMX9o%3D",
+          "file_name": "file_20240318_14_57_31_476266",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=cbISkyCPaJ2nzKbuEQs6jkpMX9o%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "Integración Android SRN.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=sQAR%2F7qR44Vh%2FpBK0wZeSXXw9x8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=sQAR%2F7qR44Vh%2FpBK0wZeSXXw9x8%3D",
+          "biz_type": 2,
+          "size": 231714
+        },
+        {
+          "file_type": "png",
+          "file_name": "Integración iOS - SRN.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=1Pjjw5gPd2ZvC6rc79JpMPBj3Zk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=1Pjjw5gPd2ZvC6rc79JpMPBj3Zk%3D",
+          "biz_type": 2,
+          "size": 324750
+        },
+        {
+          "file_type": "png",
+          "file_name": "Integración iOS Legacy.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=gesIbNX%2F44NT1hFPxMNFm%2FC95yY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=gesIbNX%2F44NT1hFPxMNFm%2FC95yY%3D",
+          "biz_type": 2,
+          "size": 227864
+        },
+        {
+          "file_type": "png",
+          "file_name": "Intregración Android Legacy.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=se76ZrLVRwL618UzHWWEcfpcYrE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=se76ZrLVRwL618UzHWWEcfpcYrE%3D",
+          "biz_type": 2,
+          "size": 208522
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Mobile Measurement Partner (MMP)-Mobile Marketing Partner (MMP)"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

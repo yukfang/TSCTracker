@@ -1,0 +1,580 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Thomas Mei",
+  "create_time": 1706911312,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707152463,
+      "auto_close_hit": 0,
+      "id": 7332163946520019000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Attended a client call on 2/2 with various members of MLB team to discuss how they can improve the Signals setup for all 30 MLB teams.&nbsp;</p><p><br></p><ul><li>They are interested in potentially running more campaigns to generate ticket sales</li><li>They currently use GTM for Browser implementations</li><li>Their primary priority/focus is to gain confidence in their Pixel setup</li><ul><li>Are the revenue/ROAS figures they are seeing accurate?&nbsp;</li><li>Are the Complete Payment events tracking game tickets vs. all tickets (concerts, etc.)</li><li>Potentially a way to track non game tickets&nbsp;</li></ul><li>There is interest for an Events API integration once the above browser side issues are resolved</li><li>Next steps:&nbsp;</li><ul><li>They would like to see some documentation on using GTM EAPI template and pass to their developer team to review as a preliminary step towards EAPI integration</li><li>We will schedule two sessions for MLB: 1) a general education session on how to use TTAM 2) a working session to review and refine all 30 team&#39;s browser Pixel setup.&nbsp;</li></ul></ul><p><br></p><p>Regards,</p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707260448,
+      "auto_close_hit": 0,
+      "id": 7332626529630814000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Sent back an email on 2/6 with a tentative workshop date of 2/16. Also requested further info on all 30 MLB club Pixels.</p><p><br></p><p>---</p><div class=\"tableWrapper\"><table style=\"min-width: 96px;\"><colgroup><col><col><col><col></colgroup><tbody><tr><td><div class=\"tableWrapper\"><table style=\"min-width: 24px;\"><colgroup><col></colgroup><tbody><tr><td><p><span style=\"color: #1F1F1F;\"><strong>Thomas Mei .</strong></span></p></td></tr></tbody></table></div></td><td><p><span style=\"color: #5E5E5E;\">5:59 PM (0 minutes ago)</span></p></td><td><p><br></p></td><td rowspan=\"2\"></td></tr><tr><td><div class=\"tableWrapper\"><table style=\"min-width: 24px;\"><colgroup><col></colgroup><tbody><tr><td><p><span style=\"color: #5E5E5E;\">to Courtney, Nathan, Kevin, Ashwin, Michael, Thomas, Tony, Miles</span></p></td></tr></tbody></table></div></td></tr></tbody></table></div><p><span style=\"color: #222222;\">Hi Courtney,1)&nbsp; GTM In-Person Workshop - we would prefer Friday 2/16 and the 10 AM - Noon slot.&nbsp;To prepare for our GTM Pixel Workshop, it would maximize our usage of time if I could get some context to the existing Pixel setups ahead of the workshop.&nbsp;</span></p><ul><li><span style=\"color: #222222;\"><strong>What is the current state of all 30 MLB team Pixels?</strong>&nbsp; Are the setups generally identical? (# of events, parameters passed back, etc.)</span></li><li><span style=\"color: #222222;\"><strong>What are the differences in checkout flow?</strong> I understand that certain teams have different ticket vendors for checkouts. We may need a different type of setup (including tracking non-game purchases) for the clubs depending on the checkout flow.&nbsp;</span></li><li><span style=\"color: #222222;\"><strong>Any other club/Pixel differences to call out?</strong> I do know there is the Blue Jays based in Canada which may be subject to different data regulations. If there are other clubs who have special conditions related to the Pixel, it would help if I could get an understanding of that ahead of time to prepare for alternatives if needed.&nbsp;</span></li></ul><p><span style=\"color: #222222;\">If your team could put together a spreadsheet with the above info, that would be greatly appreciated.</span></p><p><span style=\"color: #222222;\">2) On the Google Tag Manager Events API front, this is our current documentation for you to forward to your dev team for review:&nbsp;</span><span style=\"color: #1155CC;\"><a target=\"_blank\" href=\"https://business-api.tiktok.com/portal/docs?id=1772372080226305\">https://business-api.tiktok.com/portal/docs?id=1772372080226305</a></span><br></p><p><span style=\"color: #222222;\">I think the most challenging parts&nbsp;are the front end server setup, but if you already have server containers/tagging servers in place then the lift will simply be setting up the events through the template.&nbsp;</span></p><p><span style=\"color: #222222;\">3) How to track non-game purchases - I am still working on this one but will definitely have more details before our workshop. Part of this will depend on where the checkouts occur and we would likely need multiple solutions.&nbsp;</span></p><p><span style=\"color: #222222;\">Please let me know if there is anything I missed from our call or if you have any questions. Look forward to working with your team and getting all MLB teams to a strong setup.&nbsp;</span></p><p><span style=\"color: #222222;\">Regards,</span></p><p><span style=\"color: #222222;\">Thomas</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707863954,
+      "auto_close_hit": 0,
+      "id": 7335218285857833000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Client wrote back on 2-9 with questions regarding GTM server containers:</p><p><br></p><p><span style=\"color: #1F2329;\">Hi Thomas,</span></p><p><span style=\"color: #1F2329;\">&nbsp;</span></p><p><span style=\"color: #1F2329;\">Thanks for this email, we are looking forward to this workshop.</span></p><p><span style=\"color: #1F2329;\">&nbsp;</span></p><p><span style=\"color: #1F2329;\">We were reviewing your GTM Events API documentation with Steve from our dev team, and he pointed out that we specifically have client-side web containers as opposed to server-side. Is this an issue for front end server setup?<br><br>Please let us know at your convenience. Thank you.<br><br>Best,</span></p><p><span style=\"color: #1F2329;\">Tony</span></p><p><br></p><p><span style=\"color: #1F2329;\">---</span></p><p>Response provided 2-9</p><p><br></p><p><span style=\"color: #1F2329;\">Hi Tony,</span></p><p><br></p><p><span style=\"color: #1F2329;\">So implementation of the Google Tag Manager TikTok EAPI templates does require a Google Tag Manager server container, as well as a tagging server (which can be setup through Google Cloud or an alternative provider). There is no way to set up any server to server events in a GTM web container (to the best of my knowledge).&nbsp;</span></p><p><span style=\"color: #1F2329;\">The good news is this process is relatively straight forward and I do have documentation to cover the setup.&nbsp;</span></p><p><br></p><p><span style=\"color: #1F2329;\">For MLB this would likely result in a setup of 30 server containers to correspond with the existing team web containers.&nbsp;</span></p><p><br></p><p><span style=\"color: #1F2329;\">It would theoretically be possible to manage an EAPI setup for all 30 teams in one container, but that would bloat the number of tags (30x however many EAPI events) and also conflate/comingle the server costs. For the sake of simplicity and ease of management, I would not recommend this approach.&nbsp;</span></p><p><span style=\"color: #1F2329;\">Thomas</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707946026,
+      "auto_close_hit": 0,
+      "id": 7335570263540924000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Wrote back on 2-14 asking for additional info on their respective teams&#39; Pixel setups:</p><p><br></p><p><span style=\"color: #1F2329;\">Hi Courtney,</span></p><p><span style=\"color: #1F2329;\">Thank you for providing this context. I would also request one additional piece of info on the respective setups: event mapping. (what action on what page triggers the events in GTM)</span></p><p><br></p><p><span style=\"color: #1F2329;\">I would assume the event mappings are identical for TDC and Ticketmaster Pixel setups. If I could get an understanding of the event mapping for each respective setup, that would also save us some time and allow me to dive in and address Event setup and parameter coverage.</span></p><p><br></p><p><span style=\"color: #1F2329;\">I&#39;ve attached a spreadsheet that would help us get everything aligned and organized ahead of our working session. If you and your team could help me fill in the &#34;Pixel Setup&#34; column in the &#34;Team Overview&#34; sheet and provide an event mapping in the other sheets, that would greatly help me prepare for our session and maximize our time.</span></p><p><br></p><p><span style=\"color: #1F2329;\">Regards,</span></p><p><span style=\"color: #1F2329;\">Thomas</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708122185,
+      "auto_close_hit": 0,
+      "id": 7336326278989349000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>In person GTM workshop 2-16:</p><ul><li>Meeting was attended by members of MLB&#39;s Performance Marketing and Analytics teams</li><li>We briefly discussed the importance of EAPI and how increasing headwinds on the front end necessitates server side Signals setups</li><li>Client agreed that server Signals are important and plan to implement various API integrations in Q3 of 2024 (baseball offseason) including CAPI, EAPI and Snap, etc.&nbsp;</li><li>Still no current approval for passing user data via browser events. They did indicate that there may be a better chance to do so via EAPI and other API channels</li><li>I explained the limitations of the TikTok Pixel compared to FB product suites and how an adjustment to their Browser event mappings in GTM will help to provide more optionality in targeting and retargeting users.</li><li>Showed them how the GTM Browser template works and they did seem interested in potentially using the template. Current setup is on a manual HTML setup.&nbsp;</li><li>We ran through two respective site setups i.e. Tickets.com and Ticketmaster.com</li><ul><li>Tickets.com - these are team sites that direct to a ticket vendor under their direct control. Recommended adding a View Content event on game tickets page to track user interest. Also convinced them to pass us contents parameters to enable VSA</li><li>Tickemaster.com - these are team sites that direct to an external ticket vendor under the purview of Live Nation. Recommended adding an additional Pixel event that tracked the final click &#34;Buy Now&#34; before a user is redirected off site.&nbsp;</li></ul><li>Custom Pixel Events&nbsp;</li><ul><li>Suggested using custom Pixel events to track all game tickets and non-game ticket purchases</li><li>With this setup they can see ROAS and breakout of revenue as part of conversion (VBO) campaigns</li><li>Will assist in reporting distinct impact on game ticket and non-game ticket sales to all of their teams</li></ul><li>Client indicated interest in additional workshops in the future as they found the ability to directly ask question and get feedback and consultation from a TSC extremely helpful</li></ul><p><br></p><p>Next steps - will send back an updated event mapping that we had discussed, run through and agreed upon in the workshop. Will also include new parameters they will add to enable VSA. They will implement and replicate the new event mappings to 29 teams&#39; via GTM.&nbsp;</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708465298,
+      "auto_close_hit": 0,
+      "id": 7337800209579262000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Follow up email sent 2-20 with the attached memo to support Pixel reworking:&nbsp;https://bytedance.us.larkoffice.com/docx/WXBSdyQmpojyaJxbiIkuGeFlsBb?from=from_copylink</p><p><br></p><p>---</p><p><span style=\"color: #1F2329;\">Hello MLB team,</span></p><p><span style=\"color: #1F2329;\">Thank you for having me in your office on Friday to go over the respective Google Tag Manager setups. As promised, I wanted to follow up with an attached memo that outlines a few things we had discussed during&nbsp;our workshop session:</span></p><ul><li><span style=\"color: #1456F0;\"><a target=\"_blank\" href=\"http://tickets.com/\">TIckets.com</a></span> team sites event mapping</li><li><span style=\"color: #1456F0;\"><a target=\"_blank\" href=\"http://ticketmaster.com/\">Ticketmaster.com</a></span> team sites event mapping</li><li><span style=\"color: #1F2329;\">Custom Pixel events to track game vs. non-game ticket sales</span></li><li><span style=\"color: #1F2329;\">Recommended parameters to configure for enabling Video Shopping ads and ROAS reporting</span></li></ul><p><span style=\"color: #1F2329;\">If there is anything I missed or if you need any assistance as you transition the team containers to the new mapping, please do not hesitate to reach out.&nbsp;</span></p><p><span style=\"color: #1F2329;\">Regards,</span></p><p><span style=\"color: #1F2329;\">Thomas</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1855727,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "thomas.mei@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "MLB - Pixels and GTM",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_ae12017c-3f8d-4727-8381-4b1fe8ba693g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1708465297,
+  "owner_name": "Nathan Schatz",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7039316079818851330",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Nathan Schatz",
+  "follow_employee_id": 2819808,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2308399,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "MLB - Pixels and GTM",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Major League Baseball ",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Entertainment",
+      "valid": true,
+      "key": "Entertainment",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7117618483684294658"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Nathan Schatz CSM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CBM13CRC77U963VPQL9G",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.mlb.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-02",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Working with Thomas Mei for MLB and all of the clubs that fall under the league.",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

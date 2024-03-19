@@ -1,0 +1,524 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354674",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Armando Carmona Blanco",
+  "create_time": 1705686130,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1705689429,
+      "auto_close_hit": 0,
+      "id": 7325878819187982000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Agustina,</p><p>Confirmando recibo de tu ticket.</p><p>Quedo pendiente a la llamada con el cliente.</p><p>Saludos,<br>Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706042185,
+      "auto_close_hit": 0,
+      "id": 7327394911882379000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Agustina,</p><p>Quería dar seguimiento a nuestra llamada de hoy con el anunciante sobre su implementación.</p><p>Enseguida un resumen de la llamada y pasos a seguir:</p><ul><li>Durante la llamada, el anunciante mencionó que estaban usando Vtex. <a target=\"_blank\" href=\"https://ads.tiktok.com/help/article/tiktok-vtex-set-up-guide?lang=en\">TikTok ofrece una integración con VTex</a> que se encargaría de los eventos por ellos. Necesito investigar si esta integración puede enviar los eventos a través de ambos, servidor y navegador, lo que les facilitará la implementación de sus eventos.</li><li>En caso de que la integración de VTex tenga esta funcionalidad, les proporcionaré al equipo de Día una guía paso a paso sobre cómo implementar sus eventos a través de GTM <a target=\"_blank\" href=\"https://github.com/tiktok/gtm-template-pixel\">utilizando las plantillas de TikTok GTM </a>para realizar la tarea.</li></ul><p>Te dejo saber tan pronto tenga una respuesta.</p><p>Saludos,<br>Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706151241,
+      "auto_close_hit": 0,
+      "id": 7327863615388762000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #222222;\">Hola&nbsp;Micaela y equipo,</span></p><p><span style=\"color: #222222;\">Dándole seguimiento a nuestra llamada de ayer. Como lo habíamos&nbsp;comentado, recomiendo implementar los eventos por partes para que puedan correr campañas lo antes posible. Habíamos&nbsp;acordado que primero serían los eventos web.&nbsp;<br>Abajo pongo 2 enlaces abajo a videos de GTM para implementar el píxel de TikTok y los eventos estándar. No son vídeos oficiales de TikTok, pero otros anunciantes con los que he trabajado en el pasado los han encontrado muy útiles.</span></p><ul><li><span style=\"color: #1155CC;\"><a target=\"_blank\" href=\"https://www.youtube.com/watch?v=qgRnprDra2E&amp;t=434s\">Vídeo introductorio</a></span> a la implementación de eventos estándar a través de GTM y cómo habilitar Advanced Matching.</li><li><span style=\"color: #1155CC;\"><a target=\"_blank\" href=\"https://www.youtube.com/watch?v=XMZeZVQeU7g\">Video más avanzado</a></span> que explica paso a paso cómo usar las plantillas GTM de TikTok para aprovechar el objeto commerce en la capa de datos (dataLayer) e incluir todos los parámetros recomendados por TikTok de manera dinámica.</li></ul><p><span style=\"color: #222222;\">A continuación&nbsp;les comparto los pasos a seguir para poder implementar los eventos de TikTok por medio de Google Tag Manager.&nbsp;</span></p><p><span style=\"color: #222222;\"><strong>Implementación Web A Través De GTM</strong></span></p><ol><li><span style=\"color: #1155CC;\"><a target=\"_blank\" href=\"https://ads.tiktok.com/help/article/get-started-pixel?lang=en\">Crear píxel de TikTok</a></span>&nbsp;-&nbsp;ya lo hicieron durante la llamada previa, pueden obtener el píxel en la pestaña <span style=\"color: #1155CC;\"><a target=\"_blank\" href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CMEOIVRC77UBHLCRM1R0?start_time=2024-01-18&amp;end_time=2024-01-24&amp;from=ALL&amp;aadvid=7320628961019576321&amp;type=S2SSetting\">Settings</a></span> de su cuenta de TikTok Ads Manager.</li><li><span style=\"color: #222222;\"><strong>Instalar el píxel base de TikTok -</strong>&nbsp;desde GTM, deberá instalar el píxel base y configurarlo para que se active en todas las páginas de su sitio web. El tipo de etiqueta para este píxel debe ser Custom HTML y el activador de esta etiqueta debe ser “PageView” para que se active en su página tan pronto esta termine de cargar. Vea </span><span style=\"color: #1155CC;\"><a target=\"_blank\" href=\"https://youtu.be/qgRnprDra2E?feature=shared&amp;t=145\">este video</a></span> a partir del minuto 2:25 a 4:17.</li><li><span style=\"color: #222222;\"><strong>Instalar Plantillas de TikTok en GTM</strong> - pueden encontrar las plantillas de TikTok en Template Gallery de Google Tag Manager. Haga clic en &#34;Agregar al espacio de trabajo&#34; para instalarlo en su espacio de trabajo. Vea </span><span style=\"color: #1155CC;\"><a target=\"_blank\" href=\"https://youtu.be/qgRnprDra2E?feature=shared&amp;t=438\">este video</a></span> a partir del minuto 7:18. No es necesario usar las plantillas/códigos en los archivos que Moises nos compartió ayer, ya que estas se importan de manera automática desde GTM.</li><li><span style=\"color: #222222;\"><strong>Implementar Eventos</strong> - van a crear una etiqueta para cada evento que queremos implementar. Vea </span><span style=\"color: #1155CC;\"><a target=\"_blank\" href=\"https://youtu.be/XMZeZVQeU7g?feature=shared&amp;t=290\">este video</a></span> a partir del minuto 4:50. Los eventos a implementar en este caso son:</li><ol><li><span style=\"color: #222222;\"><em>ViewContent</em> - cuando alguien ve un articulo en la página PDP (view_item)</span></li><li><span style=\"color: #222222;\"><em>AddToCart</em> - cuando el usuario agrega un artículo a su carrito (add_to_cart)</span></li><li><span style=\"color: #222222;\"><em>InitiateCheckout</em> -&nbsp;cuando el usuario procede a iniciar su pago</span></li><li><span style=\"color: #222222;\"><em>CompleteRegistration</em> - when alguien crea una cuenta de Dia</span></li><li><span style=\"color: #222222;\"><em>AddPaymentInfo</em> - cuando el usuario ingresa método de pago</span></li><li><span style=\"color: #222222;\"><em>CompletePayment</em> - cuando se realiza el pago de manera exitosa (“Thank You” page o página de confirmación). También asegúrense de incluir el correo electrónico&nbsp;cifrado con este evento. Para hacerlo solo deben seleccionar la cajita con esa opción&nbsp;en GTM a la hora de configurar el evento e incluir el nombre de variable.</span></li></ol></ol><p><span style=\"color: #222222;\">Arriba solo incluye 2 imágenes&nbsp;que muestran sugerencias para los activadores que deben usar. Para los otros eventos, pueden consultar la lista de activadores en la página&nbsp;oficial de GTM o consultar con su equipo de desarrollo&nbsp;web.</span></p><p><span style=\"color: #222222;\">Una vez que se hayan implementado los eventos web, avisenme para poder hacer una revisión. Cuando todo esté 100% correcto, podemos avanzar con la implementación&nbsp;por API ya que esta lleva un poco más&nbsp;de tiempo. Para ello, deben tener acceso a un ambiente de servidor o </span><span style=\"color: #1155CC;\"><a target=\"_blank\" href=\"https://ads.tiktok.com/help/article/partner-integrations-for-web-tracking#anchor-2\">Data Platform como las que ven aquí</a></span>.</p><p><span style=\"color: #222222;\">Cualquier pregunta no duden en contactarme.</span></p><p><span style=\"color: #500050;\">Saludos,</span></p><p><strong>Armando Carmona&nbsp;</strong>|<strong>&nbsp;</strong>Technical Solutions Consultant</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706314533,
+      "auto_close_hit": 0,
+      "id": 7328561193419882000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Status Update] </strong>Had call with CSM and advertiser. Guided their dev team through the implementation and followed up with step-by-step on how to achieve optimal implementation. They will implement web signals for now and move on to API once they are ready.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1825968,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "armando.carmona@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Revisión de implementación de Pixel - Dia Argentina",
+  "category_1_name": "Basic",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_005e_a5abd709-f24d-4df2-9b64-ab50293636hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1706314533,
+  "owner_name": "Agustina Palluotto",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Basic",
+  "archive_category_1": "1736497459354674",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7303991504825189378",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Agustina Palluotto",
+  "follow_employee_id": 1807296,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 4454828,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Revisión de implementación de Pixel - Dia Argentina",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Dia Argentina",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "LATAM-AR",
+      "valid": true,
+      "key": "LATAM",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7320628961019576321"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "BPM: Tomas Martinez - CSM: Agustina Palluotto",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "-",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://diaonline.supermercadosdia.com.ar/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-19",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Basic"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

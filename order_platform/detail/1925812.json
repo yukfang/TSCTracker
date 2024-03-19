@@ -1,0 +1,518 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Joey Choi",
+  "create_time": 1709839771,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710177865,
+      "auto_close_hit": 0,
+      "id": 7345157465329238000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Alison, I see a couple of custom events that resemble a Click Button event, <strong>DME-Click (custom)</strong> and <span style=\"color: #121212;\"><strong>Aeroflow CTA button click (custom):</strong></span><br><br /></br></p><img alt=\"Screenshot 2024-03-11 at 10.18.14 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/122986183ba1436aa921f4c44dd4e670.png\" height=\"95.151\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/122986183ba1436aa921f4c44dd4e670.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838513&amp;x-signature=WdpiWwWuC5FLrJ%2FsD5ut9FmVDsk%3D\" width=\"375\"><p><span style=\"color: #222222;\">It looks like they set up the <strong>DME-Click (custom) </strong>event through Custom Code and we're receiving those browser events successfully. However, custom events can't be optimized at this time and would recommend that they go back and change the event code to \"Click Button\" to allow for optimization of this standard event (i.e. the function called would be <em>ttq.track('ClickButton')</em>, and more documentation can be found <a href=\"https://business-api.tiktok.com/portal/docs?rid=oyn7lhbo6ar&amp;id=1739585702922241\" target=\"_blank\">here</a> on setting this up with Custom Code). </span></p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710187209,
+      "auto_close_hit": 0,
+      "id": 7345197479974945000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Alison Cederbaum",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026305287083131905",
+      "name": "Alison Cederbaum",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi! So to confirm- <span style=\"color: #222222;\">more documentation can be found </span><a href=\"https://business-api.tiktok.com/portal/docs?rid=oyn7lhbo6ar&amp;id=1739585702922241\" target=\"_blank noopener noreferrer\">here</a><span style=\"color: #222222;\"> on setting this up with Custom Code).</span><br><br><span style=\"color: #222222;\">^if they do this, that would allow them to optimize for that event? correct? right now the issue is they want to optimize towards click button but cant due to them setting up a custom event so I am trying to help them set up click button on that one specific button to optimize towards. Thanks!</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_7e21a97a-4222-457c-9b9f-329fa7e5095h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710190951,
+      "auto_close_hit": 0,
+      "id": 7345213394145870000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Yes, exactly – everything else remains the same, and they just need to change the event name/code to ClickButton following the documentation I sent in order to optimize towards it.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1925812,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "joey.choi@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Lasinoh- Click Button Event",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_7e21a97a-4222-457c-9b9f-329fa7e5095h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710190950,
+  "owner_name": "Alison Cederbaum",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7026305287083131905",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Alison Cederbaum",
+  "follow_employee_id": 7055631,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 583562,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Lasinoh- Click Button Event",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Shopify",
+      "valid": true,
+      "key": "Shopify",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Lasinoh",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6957882295319527425"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Alison Cederbaum",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C4FBO39CF95KKVVHI0LG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://lansinoh.com/pages/discreet-duo-aeroflow"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-07",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hello!\n\nThis client created this new pixel to specifically track events on this page: https://lansinoh.com/pages/discreet-duo-aeroflow\n\nThey want to optimize towards click button. I know they have Shopify but click button is a standard event so they should be able to optimize towards this. That said, they are unable to figure out why the event keeps saying no recent activity. They went through the flow in TTEM to get the event set up so is there a step they might be missing?",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-07 at 1.29.00 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3ce790f330c2481e8ad1ffa6da59d3f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838513&x-signature=%2F1kumtOEfsh8OspchfQKl4RN8O0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/3ce790f330c2481e8ad1ffa6da59d3f1.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3ce790f330c2481e8ad1ffa6da59d3f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838513&x-signature=%2F1kumtOEfsh8OspchfQKl4RN8O0%3D",
+          "size": 46130
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-07 at 1.29.19 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a5839cddb6842f4b281857c5357fe6b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838513&x-signature=J2yfsjk95BoeT8Mx2kG2K2nDEd4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0a5839cddb6842f4b281857c5357fe6b.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a5839cddb6842f4b281857c5357fe6b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838513&x-signature=J2yfsjk95BoeT8Mx2kG2K2nDEd4%3D",
+          "size": 29953
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/122986183ba1436aa921f4c44dd4e670.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838513&x-signature=WdpiWwWuC5FLrJ%2FsD5ut9FmVDsk%3D",
+          "file_name": "file_20240318_15_08_33_503379",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/122986183ba1436aa921f4c44dd4e670.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838513&x-signature=WdpiWwWuC5FLrJ%2FsD5ut9FmVDsk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/122986183ba1436aa921f4c44dd4e670.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

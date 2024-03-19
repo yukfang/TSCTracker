@@ -1,0 +1,640 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Saurabh Choudhary",
+  "create_time": 1707495907,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707521581,
+      "auto_close_hit": 0,
+      "id": 7333746839092560000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lizzie,</p><p>From the description above it seems like client is not using a tag manger but directly putting html code on the button click.</p><p>They can try following code:</p><p><br></p><p><strong>&lt;html&gt;</strong></p><p><strong>&lt;button id=\"</strong><span style=\"color: #333333;\"><strong>download</strong></span><strong>\"&gt;</strong><span style=\"color: #333333;\"><strong>Download</strong></span><strong>&lt;/button&gt;</strong></p><p><strong>&lt;script type=\"text/javascript\"&gt;</strong></p><p><strong>document.getElementById(\"</strong><span style=\"color: #333333;\"><strong>download</strong></span><strong>\").onclick = function(){</strong></p><p><span style=\"color: #333333;\"><strong>ttq.track('Download')</strong></span></p><p><strong>}</strong></p><p><strong>&lt;/script&gt;</strong></p><p><strong>&lt;/html&gt;</strong></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707521879,
+      "auto_close_hit": 0,
+      "id": 7333747443134251000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Please note, in case they dont have a full time dev resource, we have a 3rd party dev which we can implement eapi and custome code pixel for them at no net cost.</p><p><strong>If they need more help you can schedule a call with me</strong></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707753419,
+      "auto_close_hit": 0,
+      "id": 7334744652781863000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lizzie.burton@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lizzie Burton",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7044500556661146625",
+      "name": "Lizzie Burton",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Saurabh!&nbsp;</p><p><br></p><p>Here is their response:&nbsp;</p><p><br></p><p><span style=\"color: #222222;\"><br>They are using GTM to implement their tags.&nbsp; When we QA the pixel, it is firing correctly but for some reason the event is not registering in the platform.&nbsp; Originally&nbsp;we had them place the download script which fires correctly but wasn&#39;t registering so we provided them with FindGuayaki which we custom made.&nbsp; Just want to note that other social pixels&nbsp;are firing correctly on that button so I don&#39;t believe that the trigger is the issue.&nbsp; With this information, do you think that the html code you&nbsp;provided will solve the problem?&nbsp; Thank you!</span></p><p><span style=\"color: #222222;\">Original:</span></p><p><span style=\"color: #500050;\">&lt;script&gt;<br>ttq.track(‘Download’)<br>&lt;/script&gt;</span></p><p><span style=\"color: #222222;\">Custom:</span></p><p><span style=\"color: #500050;\">&lt;script&gt;<br>ttq.track(‘FindGuayaki’)<br>&lt;/script&gt;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_55aae07b-c69b-46a9-94e1-f0025927a4eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707759715,
+      "auto_close_hit": 0,
+      "id": 7334771264638206000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lizzie,</p><p>the code looks ok. Please note TTEM would show data once there are at least 1000 unique events registered.</p><p>To test if the code is functioning properly kindly use \"Test Event\" tab.&nbsp;</p><p><br></p><p>You can ask if they need to<strong> hop on a call </strong>to discuss it further.&nbsp;</p><p><br></p><p>Use this link to schedule meeting on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707860743,
+      "auto_close_hit": 0,
+      "id": 7335203719790789000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lizzie.burton@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lizzie Burton",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7044500556661146625",
+      "name": "Lizzie Burton",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Saurabh,&nbsp;</p><p><br></p><p>Thanks for offering your time to get on a call, they didn&#39;t immediately take that offer. But here is their response:&nbsp;</p><p><br></p><p><span style=\"color: #222222;\"><br>We tried using the Test Event tab and it shows nothing is firing on the button click.&nbsp; We ended up testing it for the other working events as well and the test tab shows it as not firing even though they are registering, so&nbsp;I am not sure if that&nbsp;tab is working?&nbsp;&nbsp;</span></p><p><span style=\"color: #222222;\">Since the below scripts aren&#39;t registering, should we go ahead and send over the html instead? Will that work in GTM?</span></p><p><span style=\"color: #500050;\"><strong>Original:</strong></span></p><p>&lt;script&gt;<br>ttq.track(‘Download’)<br>&lt;/script&gt;</p><p><strong>Custom:</strong></p><p>&lt;script&gt;<br>ttq.track(‘FindGuayaki’)<br>&lt;/script&gt;</p><p><strong>HTML:</strong></p><p><span style=\"color: #222222;\">&lt;html&gt;<br>&lt;button id=&#34;download&#34;&gt;Download&lt;/button&gt;<br>&lt;script type=&#34;text/javascript&#34;&gt;<br>document.getElementById(&#34;download&#34;).onclick = function(){<br>ttq.track(&#39;Download&#39;)<br>}<br><br>&lt;/script&gt;<br><br>&lt;/html&gt;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_55aae07b-c69b-46a9-94e1-f0025927a4eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707928246,
+      "auto_close_hit": 0,
+      "id": 7335495409990697000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": true,
+      "reply_to_user_name": "Lizzie Burton",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": 7044500556661147000,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><strong>[status update]</strong></p><ol><li>Is the base code for the pixel loading and are they able to see PageView Trigger in Pixel helper (chrome extension) ?</li></ol><ul><li>If you do not have pixel helper chrome extension, please install the same</li></ul><p>2.Are they able to share their GTM workspace?</p><p><br></p><p>I've Also created a Lark channel to discuss this:&nbsp;<br>click here to join:&nbsp; <a target=\"_blank\" href=\"https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=a20q04d3-7b30-40ee-96d0-58e713j946h3\">https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=a20q04d3-7b30-40ee-96d0-58e713j946h3</a></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709258330,
+      "auto_close_hit": 0,
+      "id": 7341207677223109000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi just following up</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709309803,
+      "auto_close_hit": 0,
+      "id": 7341425733840994000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lizzie.burton@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lizzie Burton",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7044500556661146625",
+      "name": "Lizzie Burton",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Saurabh,&nbsp;</p><p><br></p><p>I followed up with client 3 times to make traction with next steps an they said they&#39;ll let me know when they&#39;re ready to implement. If I get anymore questions I&#39;ll let you know!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_55aae07b-c69b-46a9-94e1-f0025927a4eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1867524,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "saurabh.choudhary@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Pixel Placement - Guayaki",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_55aae07b-c69b-46a9-94e1-f0025927a4eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1709309803,
+  "owner_name": "Lizzie Burton",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7044500556661146625",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Lizzie Burton",
+  "follow_employee_id": 2208735,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1464072,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Pixel Placement - Guayaki",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Guayaki",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "CPG",
+      "valid": true,
+      "key": "CPG",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7237166694890749953"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM: Lizzie Burton",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CI4BL5JC77UDF7B26A6G",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://guayaki.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-09",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "We are placing pixels for our upcoming launch and are having trouble tagging the Find Guayaki button at top right of the Guayaki site nav (https://guayaki.com). We have the base pixel placed sitewide.\n\nPixel ID: CI4BL5JC77UDF7B26A6G\n\nWe have tried a standard event and creating a custom one to fire on-click (see below). Is there a special way we need to format the script when it is on-click?\n\n<script>\nttq.track(‘Download’)\n</script>\n\n<script>\nttq.track(‘FindGuayaki’)\n</script>\n",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

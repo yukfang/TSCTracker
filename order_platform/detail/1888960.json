@@ -1,0 +1,487 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Joey Choi",
+  "create_time": 1708460461,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1708622140,
+      "auto_close_hit": 0,
+      "id": 7338475340131566000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "rudra.gautam@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Rudra Gautam",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7159156060551988226",
+      "name": "Rudra Gautam",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi team! I just wanted to bump this again!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_a522d1c8-89d4-4f9d-b675-03d92262f02g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708719271,
+      "auto_close_hit": 0,
+      "id": 7338891749554799000,
+      "reply_role": "TSC",
+      "staff_id": 7763805,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "carly.gillingham@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Carly Gillingham",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7048952329957721090",
+      "name": "Carly Gillingham",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Rudra,&nbsp;</p><p><br></p><p>Huge apologies on the delay here!! Let me reassign here as Armando is OOO!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_a1acfe06-d128-4d32-ae8b-a7e0264e37fg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708972434,
+      "auto_close_hit": 0,
+      "id": 7339979794362286000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Rudra, do you have their Catalog ID by chance? For some reason, I&#39;m not able to pull it up through 3M. Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708972506,
+      "auto_close_hit": 0,
+      "id": 7339979925706916000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "rudra.gautam@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Rudra Gautam",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7159156060551988226",
+      "name": "Rudra Gautam",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>7322503419648820994</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a522d1c8-89d4-4f9d-b675-03d92262f02g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708972530,
+      "auto_close_hit": 0,
+      "id": 7339980381841637000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "rudra.gautam@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Rudra Gautam",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7159156060551988226",
+      "name": "Rudra Gautam",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>The catalog is setup through their agency&#39;s BC</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a522d1c8-89d4-4f9d-b675-03d92262f02g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708973608,
+      "auto_close_hit": 0,
+      "id": 7339984267205771000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks, their catalog has been set up correctly, and there are just a few minor issues that they can choose to resolve by looking at the Diagnostics tab in their Catalog Manager, example below:</p><img alt=\"Screenshot 2024-02-26 at 10.50.42 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/eff4c3412b28494da0fa98796403c364.png\" height=\"115.599\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eff4c3412b28494da0fa98796403c364.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875793&amp;x-signature=Tkh8aYfc2dFf0%2BIkPMpOpyttYOU%3D\" width=\"375\"><p>If they choose to use Video Shopping Ads (VSAs) in the future, then they would need to make sure they pass back content_id, which maps to the SKU ID in their catalog:</p><img alt=\"Screenshot 2024-02-26 at 10.50.17 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/848ae155c36e495ba42a191f0e2388a2.png\" height=\"211.477\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/848ae155c36e495ba42a191f0e2388a2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875793&amp;x-signature=sLWZEGAberTEtelavQ3l%2Fp66TbM%3D\" width=\"375\"><p>Regarding the missing CompleteRegistration event, can they share more about what conditions their \"Conversion - MyHighland Account Register\" trigger requires for the CompleteRegistration event to fire? And have they tested this event trigger in a sandbox environment yet? </p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710325585,
+      "auto_close_hit": 0,
+      "id": 7345792100778115000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "rudra.gautam@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Rudra Gautam",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7159156060551988226",
+      "name": "Rudra Gautam",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi sorry for the delayed response.&nbsp;<span style=\"color: #222222;\">For the Register conversion, the client has set up the trigger to just use a page view condition, and this is the same logic they use across Meta, Google, and other direct buys without issues.</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_008t_92362283-18e4-47bc-9c55-f1b7510327ch~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710799167,
+      "auto_close_hit": 0,
+      "id": 7347824732181365000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Rudra, if they&#39;re certain that the trigger works 100% of the time for their other tech stack platforms, then the issue likely lies in the TikTok Pixel&#39;s base code not loading on the intended page where the Complete Registration event occurs. If they can send a screenshot of their GTM configuration for both the trigger and the TikTok Pixel base code, I can help take a look.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1888960,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "joey.choi@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "QA check for client's Catalog setup",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_008t_92362283-18e4-47bc-9c55-f1b7510327ch~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710799166,
+  "owner_name": "Rudra Gautam",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7159156060551988226",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Rudra Gautam",
+  "follow_employee_id": 7055631,
+  "is_order_top": 0,
+  "urged": 1,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 12626,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "QA check for client's Catalog setup",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Highland Homes",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "7024115416490344449",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "$15k",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-20",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "New catalog integation",
+      "valid": true,
+      "key": "New catalog integation",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Hi team! My client Highland Homes has just set up their catalog to run ads through their agency Booyah Advertising. I was wondering if I could get a product rep to QA their catalog and ensure they are set up properly and following best practices. Additionally, they are trying to optimize and track 4 events in Google Tag Manager, but one of them is not showing up. They are optimizing towards the submit form event. Any help with this would be helpful. Thank you!",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-20 at 2.20.22 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d6aff055a1a242b1b08a264bfab112db.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875793&x-signature=%2BdPAbgp4wbaA15op57jXfocuSr4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d6aff055a1a242b1b08a264bfab112db.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d6aff055a1a242b1b08a264bfab112db.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875793&x-signature=%2BdPAbgp4wbaA15op57jXfocuSr4%3D",
+          "size": 483361
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/848ae155c36e495ba42a191f0e2388a2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875793&x-signature=sLWZEGAberTEtelavQ3l%2Fp66TbM%3D",
+          "file_name": "file_20240319_01_29_53_735535",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/848ae155c36e495ba42a191f0e2388a2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875793&x-signature=sLWZEGAberTEtelavQ3l%2Fp66TbM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/848ae155c36e495ba42a191f0e2388a2.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eff4c3412b28494da0fa98796403c364.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875793&x-signature=Tkh8aYfc2dFf0%2BIkPMpOpyttYOU%3D",
+          "file_name": "file_20240319_01_29_53_735587",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eff4c3412b28494da0fa98796403c364.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875793&x-signature=Tkh8aYfc2dFf0%2BIkPMpOpyttYOU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/eff4c3412b28494da0fa98796403c364.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

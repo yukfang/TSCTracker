@@ -1,0 +1,922 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497066245137",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Thomas Mei",
+  "create_time": 1708960286,
+  "deadline": 0,
+  "archive_board_id": 1705151646989663,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1708968068,
+      "auto_close_hit": 0,
+      "id": 7339960994677998000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Arjun,</p><p><br /></p><p>It looks like they have leftover code from prior to their Shopify implementation still firing on their site. It is coded into the HTML of the page and is firing separately from the Shopify integration, causing a \"double firing\" scenario that could affect the metrics of parameter coverage and/or user matching. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e09d6b92d5ef4836ba615bffd92802f1.png\" height=\"148.792\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09d6b92d5ef4836ba615bffd92802f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838260&amp;x-signature=qvQyXY32HUMQv80OKRj7mHiNrqo%3D\" width=\"375\"><p><br /></p><p>My recommendation is that they remove the old manual code that is on their site and just let Shopify handle all the Pixel events moving forward. They will likely need to contact the webmaster/dev team that handles their site to get that done.</p><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708973514,
+      "auto_close_hit": 0,
+      "id": 7339984196263281000,
+      "reply_role": null,
+      "staff_id": 8017871,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "arjun.padmakumar@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Arjun Padmakumar",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7036702006120547330",
+      "name": "Arjun Padmakumar",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>If they do not have developers available, can they just create a new shopify pixel and use that going forward. Remove all other pixels from TTAM</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_e4bca62d-f25b-4b30-b324-f8f6098df0hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708974668,
+      "auto_close_hit": 0,
+      "id": 7339988634885718000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>If they are unable to get the old code removed, they can create a new Pixel and connect it to Shopify. It would fire independently from the older Pixel and should produce better metrics.&nbsp;</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709137028,
+      "auto_close_hit": 0,
+      "id": 7340686593633567000,
+      "reply_role": null,
+      "staff_id": 8017871,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "arjun.padmakumar@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Arjun Padmakumar",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7036702006120547330",
+      "name": "Arjun Padmakumar",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Thomas, so the client removed all their old codes from the website but Events Manager is still showing issues - any insights?</p><p><br></p><p>Also their PII is low - can you please let me know if there is anything you recommend they do?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_e4bca62d-f25b-4b30-b324-f8f6098df0hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709145592,
+      "auto_close_hit": 0,
+      "id": 7340715547916534000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Arjun,</p><p><br /></p><p>If the client made changes to their website and removed the old Pixel code yesterday, it will take some time for the changes to be reflected in Events Manager as there is a delay in the look back window: </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c795ab7b884a4ccc8caa9d33d1e32f0e.png\" height=\"347.886\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c795ab7b884a4ccc8caa9d33d1e32f0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838260&amp;x-signature=smqlPDcKqUUIqLqn5FXcAEqpKvM%3D\" width=\"375\"><p><br /></p><p>Currently the data that Events Manager is surfacing along with associated metrics is based on 2-26 to 2-27. </p><p><br /></p><p>We will need to give it some time before the changes they made are properly reflected in the metrics. </p><p><br /></p><p>Thomas</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709145651,
+      "auto_close_hit": 0,
+      "id": 7340721816140349000,
+      "reply_role": null,
+      "staff_id": 8017871,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "arjun.padmakumar@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Arjun Padmakumar",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7036702006120547330",
+      "name": "Arjun Padmakumar",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Thomas - so we can revisit by Friday</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_e4bca62d-f25b-4b30-b324-f8f6098df0hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709331482,
+      "auto_close_hit": 0,
+      "id": 7341520771858055000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Arjun,</p><p><br></p><p>Looking over the setup now, looks like the metrics are looking better. Dedupe rate is in the high 90&#39;s for all events.&nbsp;</p><p><br></p><p>Seems like value parameter coverage is low for some of the Pixel events and not sure if that should be the case.&nbsp;</p><p><br></p><p>I believe this is a known issue with the Shopify integration and waiting to confirm with certain folks internally on whether that is the case.</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709564404,
+      "auto_close_hit": 0,
+      "id": 7342522747395883000,
+      "reply_role": null,
+      "staff_id": 8017871,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "arjun.padmakumar@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Arjun Padmakumar",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7036702006120547330",
+      "name": "Arjun Padmakumar",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks for the update Thomas - please let me know if its safe to ignore some of the warning flags:</p><p><br></p><ul><li>Missing value parameter for ATC, View Content &amp; Initiate Checkout</li><li>Missing email and phone number for browser events</li><li>PII Score is still low (20 out of 40)</li></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_e4bca62d-f25b-4b30-b324-f8f6098df0hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709573096,
+      "auto_close_hit": 0,
+      "id": 7342559800410456000,
+      "reply_role": null,
+      "staff_id": 8017871,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "arjun.padmakumar@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Arjun Padmakumar",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7036702006120547330",
+      "name": "Arjun Padmakumar",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Thomas - just had a call with the client, on Pixel helper they are still seing ATC double fire!</p><p><br /></p><p>They are getting worried about the implementation, may I please have you take a look</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c2bd896c96894d9fb19966c94ab9fd73.png\" height=\"317.157\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c2bd896c96894d9fb19966c94ab9fd73.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838260&amp;x-signature=bdlkT65UPfh9ZRvxISS5b49Ag%2BA%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_e4bca62d-f25b-4b30-b324-f8f6098df0hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709588706,
+      "auto_close_hit": 0,
+      "id": 7342626220082823000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Arjun,</p><p><br></p><p>I do see that issue with multiple Add to Cart events. Can you check with the client on how they have the Pixel setup?&nbsp;</p><p><br></p><p>The data tables appear to show the events coming from Shopify, but when I check their website it looks like it may be firing from Google Tag Manager?</p><p><br></p><p>If it is firing from Google Tag Manager, it is likely an issue with the way they have the ADd To Cart tag&#39;s trigger setup.&nbsp;</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709657484,
+      "auto_close_hit": 0,
+      "id": 7342922061389562000,
+      "reply_role": null,
+      "staff_id": 8017871,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "arjun.padmakumar@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Arjun Padmakumar",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7036702006120547330",
+      "name": "Arjun Padmakumar",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>All three events mention Shopify as the Event Source - there is no mention of GTM, could you please share a screenshot if you are seeing it.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7739349d26df42e0b1fdc0bc0c16fc35.png\" height=\"511.905\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7739349d26df42e0b1fdc0bc0c16fc35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838260&amp;x-signature=yThxdE5nZwfcD2yt%2FUoQ6yG1whk%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_e4bca62d-f25b-4b30-b324-f8f6098df0hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709661473,
+      "auto_close_hit": 0,
+      "id": 7342939215908585000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Arjun,</p><p><br /></p><p>The Pixel Helper isn't always accurate in the \"Setup Method\" field. I am using a different plugin that can check where the events are going towards and there seems to be signs they are firing in GTM:</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/31cc1473c47e4adaa4ad52e6246ca09e.png\" height=\"288.679\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/31cc1473c47e4adaa4ad52e6246ca09e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838260&amp;x-signature=XpwmhxpCWbjmpNrvLBfG3t5KBFA%3D\" width=\"375\"><p><br /></p><p>Please check with the client on how they have their Pixel currently setup.</p><p><br /></p><p>Thomas</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709661676,
+      "auto_close_hit": 0,
+      "id": 7342940503064707000,
+      "reply_role": null,
+      "staff_id": 8017871,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "arjun.padmakumar@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Arjun Padmakumar",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7036702006120547330",
+      "name": "Arjun Padmakumar",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Thomas, will check</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_e4bca62d-f25b-4b30-b324-f8f6098df0hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709745912,
+      "auto_close_hit": 0,
+      "id": 7343302043169210000,
+      "reply_role": null,
+      "staff_id": 8017871,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "arjun.padmakumar@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Arjun Padmakumar",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7036702006120547330",
+      "name": "Arjun Padmakumar",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Thomas,</p><p><br /></p><p>When we test using events manager ATC is not always triple firing - however do we know how the Shopify setup would miss Value parameter which is an issue. </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/73336bdb42ec4fb18050c5b1ca0f3189.png\" height=\"176.161\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/73336bdb42ec4fb18050c5b1ca0f3189.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838261&amp;x-signature=4eXTASAx63lBthUKPOX5g6tRsrI%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_e4bca62d-f25b-4b30-b324-f8f6098df0hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709747006,
+      "auto_close_hit": 0,
+      "id": 7343306308868653000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Arjun,</p><p><br /></p><p>It is not all products that have an over firing issue. One example are the sheets:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bb4a1522f7904a0ca93c8792d0de7ea2.png\" height=\"87.606\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bb4a1522f7904a0ca93c8792d0de7ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838261&amp;x-signature=sr%2F%2FL37itSqwTKUs%2F%2F7HMRCZUKM%3D\" width=\"375\"><p>https://hush.ca/products/hush-sheets?view=sl-78798E0B</p><p><br /></p><p>The fact that only some products face the issue points to a likely culprit that they are probably not using Shopify for their Pixel.</p><p><br /></p><p>Thomas</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709747821,
+      "auto_close_hit": 0,
+      "id": 7343309982558847000,
+      "reply_role": null,
+      "staff_id": 8017871,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "arjun.padmakumar@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Arjun Padmakumar",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7036702006120547330",
+      "name": "Arjun Padmakumar",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>They recently did the integration and its connected through the TikTok App on their Shopify.&nbsp;</p><p>They chose to connect an existing pixel and not create a new one - would you recommend creating and connecting a new one in this case?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_e4bca62d-f25b-4b30-b324-f8f6098df0hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709748700,
+      "auto_close_hit": 0,
+      "id": 7343313573856264000,
+      "reply_role": null,
+      "staff_id": 8017871,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "arjun.padmakumar@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Arjun Padmakumar",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7036702006120547330",
+      "name": "Arjun Padmakumar",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>I audited all their products and only one product has the firing issue - HUSH ICED BAMBOO COOLING SHEETS AND PILLOWCASE SET</p><p><br><br /></br></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a611696e808e4d8790dce06948f7024b.png\" height=\"251.966\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a611696e808e4d8790dce06948f7024b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838261&amp;x-signature=tzfKS6n6ZlY3oGTAod497S7%2BpvA%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_e4bca62d-f25b-4b30-b324-f8f6098df0hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709753098,
+      "auto_close_hit": 0,
+      "id": 7343332188110242000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>If they are on a Shopify setup there&#39;s nothing we can configure or change except reconnecting the Pixel. I have a doc here with instructions on how that is done if you&#39;d like to share with the client:</p><p><br></p><p>https://bytedance.us.larkoffice.com/docx/H7YFd7xYjotpGLxw1kNuiMo0sUd?from=from_copylink</p><p><br></p><p>We can have them try that first and see if it resolves the ATC issue on the cooling sheets.</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1900910,
+  "workflow_nodes": [],
+  "board_id": 1705151646989663,
+  "employee_email": "thomas.mei@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Client connected Shopify - Still seeing poor signal score",
+  "category_1_name": "Events API - Web",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_e4bca62d-f25b-4b30-b324-f8f6098df0hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1709753098,
+  "owner_name": "Arjun Padmakumar",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - Web",
+  "archive_category_1": "1736497066245137",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497066245137",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882593",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882609",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883585",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883601",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400130",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400146",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400162",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400178",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401154",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401170",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401186",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401202",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548708426753",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - Web"
+    }
+  ],
+  "core_user_id": "7036702006120547330",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Arjun Padmakumar",
+  "follow_employee_id": 2819808,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1021163,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Client connected Shopify - Still seeing poor signal score",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Shopify",
+      "valid": true,
+      "key": "Shopify",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Hush Blankets",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Ecommerce",
+      "valid": true,
+      "key": "Ecommerce",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-CA",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6898713850078560258"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Arjun CSM, Deana Georgas BPM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C9AOTAJC77U63IDID690",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://hush.ca/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-26",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Client based on our documentation connected an existing pixel to their Shopify backend to get all the Shopify benefits and be optimal.\nHowever the pixel still is not showing better numbers - implementation was done last Wednesday",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09d6b92d5ef4836ba615bffd92802f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=qvQyXY32HUMQv80OKRj7mHiNrqo%3D",
+          "file_name": "file_20240318_15_04_20_592071",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09d6b92d5ef4836ba615bffd92802f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=qvQyXY32HUMQv80OKRj7mHiNrqo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e09d6b92d5ef4836ba615bffd92802f1.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c795ab7b884a4ccc8caa9d33d1e32f0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=smqlPDcKqUUIqLqn5FXcAEqpKvM%3D",
+          "file_name": "file_20240318_15_04_20_741643",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c795ab7b884a4ccc8caa9d33d1e32f0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=smqlPDcKqUUIqLqn5FXcAEqpKvM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c795ab7b884a4ccc8caa9d33d1e32f0e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c2bd896c96894d9fb19966c94ab9fd73.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=bdlkT65UPfh9ZRvxISS5b49Ag%2BA%3D",
+          "file_name": "file_20240318_15_04_20_868958",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c2bd896c96894d9fb19966c94ab9fd73.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=bdlkT65UPfh9ZRvxISS5b49Ag%2BA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c2bd896c96894d9fb19966c94ab9fd73.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7739349d26df42e0b1fdc0bc0c16fc35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=yThxdE5nZwfcD2yt%2FUoQ6yG1whk%3D",
+          "file_name": "file_20240318_15_04_20_937499",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7739349d26df42e0b1fdc0bc0c16fc35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=yThxdE5nZwfcD2yt%2FUoQ6yG1whk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7739349d26df42e0b1fdc0bc0c16fc35.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/31cc1473c47e4adaa4ad52e6246ca09e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=XpwmhxpCWbjmpNrvLBfG3t5KBFA%3D",
+          "file_name": "file_20240318_15_04_20_986555",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/31cc1473c47e4adaa4ad52e6246ca09e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=XpwmhxpCWbjmpNrvLBfG3t5KBFA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/31cc1473c47e4adaa4ad52e6246ca09e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/73336bdb42ec4fb18050c5b1ca0f3189.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=4eXTASAx63lBthUKPOX5g6tRsrI%3D",
+          "file_name": "file_20240318_15_04_21_049383",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/73336bdb42ec4fb18050c5b1ca0f3189.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=4eXTASAx63lBthUKPOX5g6tRsrI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/73336bdb42ec4fb18050c5b1ca0f3189.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bb4a1522f7904a0ca93c8792d0de7ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=sr%2F%2FL37itSqwTKUs%2F%2F7HMRCZUKM%3D",
+          "file_name": "file_20240318_15_04_21_099072",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bb4a1522f7904a0ca93c8792d0de7ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=sr%2F%2FL37itSqwTKUs%2F%2F7HMRCZUKM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/bb4a1522f7904a0ca93c8792d0de7ea2.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a611696e808e4d8790dce06948f7024b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=tzfKS6n6ZlY3oGTAod497S7%2BpvA%3D",
+          "file_name": "file_20240318_15_04_21_167788",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a611696e808e4d8790dce06948f7024b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=tzfKS6n6ZlY3oGTAod497S7%2BpvA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a611696e808e4d8790dce06948f7024b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - Web-Events API - Web"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

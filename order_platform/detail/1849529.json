@@ -1,0 +1,362 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1746926227731473",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Ganesh Radhakrishnan",
+  "create_time": 1706688141,
+  "deadline": 0,
+  "archive_board_id": 1705151646989721,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706863578,
+      "auto_close_hit": 0,
+      "id": 7330922795989287000,
+      "reply_role": "admin",
+      "staff_id": 5276013,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 1,
+      "reply_email": "fangyu.k@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Yuk Fang (Employee)",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6886689940849476610",
+      "name": "方宇",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Alice,&nbsp;</p><p><br></p><p>Does the client encounter any implementation issue?</p><p><br></p><p>BRs</p><p>Yuk Fang</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_30b679a0-acc5-4618-9fb0-102c3ba4601g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706870717,
+      "auto_close_hit": 0,
+      "id": 7330953131813011000,
+      "reply_role": null,
+      "staff_id": 6789883,
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "alice.vo@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3873803317657",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7037359916407751681",
+      "name": "Alice Vo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>hi Yuk Fang,&nbsp;</p><p><br></p><p>Client has not yet started SDK integration, as I dont know we need to whitelist ad account or not. Or need to assigned dedicated resource to support SDK implementation at beginning?</p><p><br></p><p>Thanks</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_6e0b7a21-e59f-4eb8-a43d-665627f741hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708310992,
+      "auto_close_hit": 0,
+      "id": 7337138989285114000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "alice.vo@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Alice Vo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6981313018802242561",
+      "name": "Alice Vo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>hi Yuk Fang,</p><p><br></p><p>Please let me know the status</p><p><br></p><p>Thanks</p><p>Alice</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_6e0b7a21-e59f-4eb8-a43d-665627f741hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709046067,
+      "auto_close_hit": 0,
+      "id": 7340296448770064000,
+      "reply_role": "admin",
+      "staff_id": 5276013,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 1,
+      "reply_email": "fangyu.k@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Yuk Fang (Employee)",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6886689940849476610",
+      "name": "方宇",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Alice,&nbsp;</p><p><br></p><p>Regarding the SDK product integration, HQ has new standard and requirements. Please check with @Ganesh to understand more details. I will transfer this ticket to Ganesh.</p><p><br></p><p>Yuk Fang</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_30b679a0-acc5-4618-9fb0-102c3ba4601g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1849529,
+  "workflow_nodes": [],
+  "board_id": 1705151646989721,
+  "employee_email": "ganesh.radhakrishnan@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "VN_VNPAY_ Implement SDK for Arigrank app",
+  "category_1_name": "Mobile SDK",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_6e0b7a21-e59f-4eb8-a43d-665627f741hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": {
+    "_model": [
+      534,
+      "admin",
+      2226956,
+      1666840630,
+      "#A382FB",
+      0
+    ]
+  },
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1709046082,
+  "owner_name": "Alice Vo",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Mobile SDK",
+  "archive_category_1": "1746926227731473",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1746926227731473",
+      "cate_1_form_id": 1746925170639921,
+      "sub_cates": [],
+      "value": "Mobile SDK"
+    }
+  ],
+  "core_user_id": "6981313018802242561",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Alice Vo",
+  "follow_employee_id": 6199959,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1722686,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "VN_VNPAY_ Implement SDK for Arigrank app",
+      "valid": true,
+      "item_id": 1746925170640897,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774552194962434,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774552194962482,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774552194963506,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Agribank Smart 2",
+      "valid": true,
+      "item_id": 1746925170640913,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Finance",
+      "valid": true,
+      "key": "Finance",
+      "item_id": 1746925270972417,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1746925270972433,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "SEA-VN",
+      "valid": true,
+      "key": "SEA",
+      "item_id": 1746925270972449,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1746925270972465,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": "7329720045670694914",
+      "valid": true,
+      "item_id": 1746925270973441,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1746925270973457,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Android Mobile App ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1746925270973473,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "iOS Mobile App ID",
+      "content": "https://apps.apple.com/vn/app/agribank-e-mobile-banking/id935944952?l=vi",
+      "valid": true,
+      "item_id": 1746925270973489,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does client use any mmp and mmp's name? ",
+      "content": "",
+      "valid": true,
+      "item_id": 1746925270974465,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-31",
+      "valid": true,
+      "item_id": 1746925270974481,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What's client's business goal of using SDK?",
+      "content": "Tracking & measure app events on TikTok, without using 3rd party MMP",
+      "valid": true,
+      "item_id": 1746925827345441,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot",
+      "content": [],
+      "valid": true,
+      "item_id": 1746925407705105,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Mobile SDK-Mobile SDK"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

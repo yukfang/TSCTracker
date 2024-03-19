@@ -1,0 +1,293 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1742593790901282",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Ganesh Radhakrishnan",
+  "create_time": 1707453639,
+  "deadline": 0,
+  "archive_board_id": 1705151646989706,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710810322,
+      "auto_close_hit": 0,
+      "id": 7347871723502453000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ganesh Radhakrishnan",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7122646193918428161",
+      "name": "Ganesh Radhakrishnan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>[Status Update] Request was lost in queue. Checking with AM if this is still an issue and whether they need any help on this request.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710810755,
+      "auto_close_hit": 0,
+      "id": 7347874311182549000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ganesh Radhakrishnan",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7122646193918428161",
+      "name": "Ganesh Radhakrishnan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>[Status Update] The issue has been sorted out as discussed with AM. No more assistance is required here.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1866506,
+  "workflow_nodes": [],
+  "board_id": 1705151646989706,
+  "employee_email": "ganesh.radhakrishnan@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Lead Gen Events Issue - Missing 'content_id' parameter",
+  "category_1_name": "Lead / Campaign Management",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_d4aa0d2a-3f3d-469e-bf2f-2c610d66a2hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1710810775,
+  "owner_name": "Kevin Ngo",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Lead / Campaign Management",
+  "archive_category_1": "1742593790901282",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1742593790901250",
+      "cate_1_form_id": 1742593070290977,
+      "sub_cates": [],
+      "value": "CRM Integration"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1742593790901282",
+      "cate_1_form_id": 1742593529900050,
+      "sub_cates": [],
+      "value": "Lead / Campaign Management"
+    }
+  ],
+  "core_user_id": "7291856235412964353",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Kevin Ngo",
+  "follow_employee_id": 6199959,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1012,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Lead Gen Events Issue - Missing 'content_id' parameter",
+      "valid": true,
+      "item_id": 1742593529900066,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Curtin University",
+      "valid": true,
+      "item_id": 1742593529900082,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1742593529901058,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "SMB",
+      "valid": true,
+      "key": "SMB",
+      "item_id": 1742593529901074,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Country/Region",
+      "content": "SEA-AU",
+      "valid": true,
+      "key": "SEA",
+      "item_id": 1742593689690114,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1742593689690130,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": "7003161010521522178",
+      "valid": true,
+      "item_id": 1742593689690146,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1742593689690162,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Business Center ID ",
+      "content": "",
+      "valid": true,
+      "item_id": 1742593689691138,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Page_id / form_id ",
+      "content": "",
+      "valid": true,
+      "item_id": 1742593689691154,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-09",
+      "valid": true,
+      "item_id": 1742593689691170,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation? ",
+      "content": "NO",
+      "valid": true,
+      "key": "NO",
+      "item_id": 1742593689691186,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Detailed Description",
+      "content": "Have a two-step form where we would like to track:\n\nForm Start  (user starts filling out any of the 3 fields: First name, Last name, or Email)\nForm_step 1 (completes step 1 form)\nForm_step 2 (successful form submission)\n\nSample Landing Page: https://www.curtin.edu.au/study/discover/opportunity-is-here/\n\nIn the platform, set the following tracking and then encountered this issue which we need your help with. \n\nEvent Name\n\nInitiate Checkout (for Form Start) - which is Form Start it shows 1 issue with diagnostics. See below.",
+      "valid": true,
+      "item_id": 1742593689692162,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Not sure what the problem is, are you able to assist on why this error is coming up and additionally, \n\nAre we able help review the other two events just to be sure.\n\nSubmit Form (for form step 2)\nClick Button (for form step 1) \n\nThanks",
+      "valid": true,
+      "item_id": 1742593689692178,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot/Video/File",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-09 at 3.38.37 pm.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8f49a804875a49d083a0f1859b3d688a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875787&x-signature=Wl4XtKbk16f4Zh9t8eruTLYMGCY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8f49a804875a49d083a0f1859b3d688a.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8f49a804875a49d083a0f1859b3d688a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875787&x-signature=Wl4XtKbk16f4Zh9t8eruTLYMGCY%3D",
+          "size": 255408
+        }
+      ],
+      "valid": true,
+      "item_id": 1742593903737858,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Lead Generation (Native)-Lead / Campaign Management"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

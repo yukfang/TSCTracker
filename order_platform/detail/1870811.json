@@ -1,0 +1,328 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1742593790901250",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_22ca50ed-6326-411c-841f-fa3ca409b5hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Murugan Chellappan",
+  "create_time": 1707732136,
+  "deadline": 0,
+  "archive_board_id": 1705151646989706,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707792497,
+      "auto_close_hit": 0,
+      "id": 7334912108670370000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Murugan Chellappan",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6992193672923202561",
+      "name": "Murugan Chellappan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Pond,</p><p><br></p><p>Hope you are well and thanks for raising the request.</p><p><br></p><p>I will check and update you on the issue.</p><p><br></p><p>Thanks,</p><p>Murugan C</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_22ca50ed-6326-411c-841f-fa3ca409b5hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709281422,
+      "auto_close_hit": 0,
+      "id": 7341307467501847000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Murugan Chellappan",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6992193672923202561",
+      "name": "Murugan Chellappan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>[Status update]&nbsp;Client will use website conversion and drive users to their website to submit leads, so they are working on Pixel implementation instead of CRM integration.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_22ca50ed-6326-411c-841f-fa3ca409b5hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1870811,
+  "workflow_nodes": [],
+  "board_id": 1705151646989706,
+  "employee_email": "muruganc@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "New client - CRM Salesforce integration",
+  "category_1_name": "CRM Integration",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_a41b103d-6a20-4619-a758-dcd0218bd3hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1709281426,
+  "owner_name": "Pond Buasooksukon",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "CRM Integration",
+  "archive_category_1": "1742593790901250",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1742593790901250",
+      "cate_1_form_id": 1742593070290977,
+      "sub_cates": [],
+      "value": "CRM Integration"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1742593790901282",
+      "cate_1_form_id": 1742593529900050,
+      "sub_cates": [],
+      "value": "Lead / Campaign Management"
+    }
+  ],
+  "core_user_id": "7184294314662953985",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Pond Buasooksukon",
+  "follow_employee_id": 5671588,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1492473,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "New client - CRM Salesforce integration",
+      "valid": true,
+      "item_id": 1742593070290993,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551514511410,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551514512418,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551566422017,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "SCB Protect",
+      "valid": true,
+      "item_id": 1742593070291969,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Finance",
+      "valid": true,
+      "key": "Finance",
+      "item_id": 1742593070291985,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1742593193405441,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Country/Region",
+      "content": "SEA-TH",
+      "valid": true,
+      "key": "SEA",
+      "item_id": 1742593193405457,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1742593193405473,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": "7330527164963602434",
+      "valid": true,
+      "item_id": 1742593193405489,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1742593193406465,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Business Center ID ",
+      "content": "",
+      "valid": true,
+      "item_id": 1742593193406481,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Developer APP ID ",
+      "content": "",
+      "valid": true,
+      "item_id": 1742593193406497,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "CRM platform the customer uses",
+      "content": "Salesforce",
+      "valid": true,
+      "item_id": 1742593193406513,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-12",
+      "valid": true,
+      "item_id": 1742593193407489,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation? ",
+      "content": "YES",
+      "valid": true,
+      "key": "YES",
+      "item_id": 1742593193407505,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Detailed Description",
+      "content": "My client would like to integrate Salesforce Marketing Cloud but it's showing the message that system temp as screenshot attached. Please suggest the next step for this account. Thanks.",
+      "valid": true,
+      "item_id": 1742593586879489,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "This is first account in KA finance industry that would like to run native lead generation on TikTok. We already shared them the implementation guideline but it's showing the message 'CRM integration is temporary paused' as screenshot. I need your help to advise the next step of integration. Thanks.\n\n",
+      "valid": true,
+      "item_id": 1742593586879505,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot/Video/File",
+      "content": [
+        {
+          "file_type": "jpg",
+          "file_name": "89491.jpg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ba923e149e9d4b28a72b3af8c0fe2f45.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837898&x-signature=Revvm5I2J5Kcmljb1yuzio%2BrCwQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ba923e149e9d4b28a72b3af8c0fe2f45.jpg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ba923e149e9d4b28a72b3af8c0fe2f45.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837898&x-signature=Revvm5I2J5Kcmljb1yuzio%2BrCwQ%3D",
+          "size": 101036
+        }
+      ],
+      "valid": true,
+      "item_id": 1742593586879521,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Lead Generation (Native)-CRM Integration"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

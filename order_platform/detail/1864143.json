@@ -1,0 +1,489 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497211543601",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Saurabh Choudhary",
+  "create_time": 1707337005,
+  "deadline": 0,
+  "archive_board_id": 1705151646989665,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707357222,
+      "auto_close_hit": 0,
+      "id": 7333041705513763000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi thanks for bringing this up, I&#39;m looking into this and would respond with the recommendations soon.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707413661,
+      "auto_close_hit": 0,
+      "id": 7333285284815159000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": true,
+      "reply_to_user_name": "Azizza Williams",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": 6967390435145696000,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><strong>[status update]</strong><br>1. I'm seeing that data from both Ios and andriod app which means the integration is ok.</br></p><p>2.I see there are not eligible for SAN migration yet, one reason could be because they are not verified yet</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2d957c49e362427ab9efce12f206c956.png\" height=\"220.845\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d957c49e362427ab9efce12f206c956.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837802&amp;x-signature=q2vUsWPOsnPV2RVZMsaz5FtBHEk%3D\" width=\"375\"><p>3.Add Tiktok App id in branch mmp to verify both andriod and ios apps-  Doc: <a href=\"https://ads.tiktok.com/help/article/tiktok-app-id?redirected=2\" target=\"_blank\">verify app</a></p><p>4.Please ask user to send all events (attributed and unattributed)</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f238bfaf4209411a8607230509a8277c.jpg\" height=\"216.986\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f238bfaf4209411a8607230509a8277c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837802&amp;x-signature=dHnAdIDaUPnYi%2F%2FZE%2BnEeNEVDPo%3D\" width=\"375\"><p><br /></p><p>Please let me know if you have more questions </p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707416587,
+      "auto_close_hit": 0,
+      "id": 7333297706258973000,
+      "reply_role": null,
+      "staff_id": 8206255,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "azizza.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Azizza Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6967390435145696258",
+      "name": "Azizza Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you! I&#39;ll follow up once I receive this from the client.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_171a259d-043e-4f41-9027-cc7a397506cg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707496073,
+      "auto_close_hit": 0,
+      "id": 7333639241567650000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": true,
+      "reply_to_user_name": "Azizza Williams",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": 6967390435145696000,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>hi Azizza,</p><p>The TikTok App ID for Android is 7291640085454389249</p><p>TikTok App ID for iOS is 7291640085454356481</p><p>The \"Working\" entries in the screenshot do not match in the screenshot below, that is what is probably is also blocking them from verification. Can you please ask user to check</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/acbe41cc4e3445c68eda6616d23311a3.png\" height=\"99.308\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/acbe41cc4e3445c68eda6616d23311a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837802&amp;x-signature=wLa3BSyae9hkEYio6edZ4WG6i4M%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708023929,
+      "auto_close_hit": 0,
+      "id": 7335905618982715000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><strong>[status update]</strong></p><p>Both Apps are verified</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9661e93175a04b299328aeba1bc37396.png\" height=\"98.14\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9661e93175a04b299328aeba1bc37396.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837802&amp;x-signature=GqiGtkQyAsAWIDEuaJiKubVqQw0%3D\" width=\"375\"><p><br /></p><p>Receiving Data </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/99ab1999f55246d091ef0a75065e9ddf.png\" height=\"127.74\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/99ab1999f55246d091ef0a75065e9ddf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837802&amp;x-signature=QJzVa%2BPWU2TIsZhbsTZ6uV%2BHMaE%3D\" width=\"375\"><p><br /></p><p>Please re open once user is eligible to migrate to SAN and you need more assistance</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1864143,
+  "workflow_nodes": [],
+  "board_id": 1705151646989665,
+  "employee_email": "saurabh.choudhary@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Crumbl Branch MMP",
+  "category_1_name": "Mobile Marketing Partner (MMP)",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_171a259d-043e-4f41-9027-cc7a397506cg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1708023942,
+  "owner_name": "Azizza Williams",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Mobile Marketing Partner (MMP)",
+  "archive_category_1": "1736497211543601",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497211543601",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [],
+      "value": "Mobile Marketing Partner (MMP)"
+    }
+  ],
+  "core_user_id": "6967390435145696258",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Azizza Williams",
+  "follow_employee_id": 2208735,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2749860,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Crumbl Branch MMP",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Crumbl",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "CPG",
+      "valid": true,
+      "key": "CPG",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6959555759076048898"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Azizza Williams CSM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "1438166219",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://crumblcookies.com/index.html"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Mobile Measurement Partner (MMP)",
+      "valid": true,
+      "key": "Mobile Measurement Partner (MMP)",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-07",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "From the decistion tree in https://bytedance.sg.larkoffice.com/docx/MIXIdZqUboU61ZxjFu7lfVeogsg it has been advised that I file a ticket so that Crumbl is set up for success and does not get any signal loss by 3/20/24. Are we able to provide next steps on what they will need to do next? Thanks!\n\nThey are not in the SAN dashboard and have been spending in the last 90 days. I'm also seeing that they do not have it enabled in TTEM (screenshot attached). I've also attached full screenshots of their MMP configuration for Branch. \n\nExisting ticket (currently closed): #1810695",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "jpg",
+          "file_name": "Crumbl Branch Screenshots 1.jpg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc76668cdad64c10a2d472374a69b4af.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=7b%2Bvq705%2BuEOM%2BLbsJP0nm1KhJU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/bc76668cdad64c10a2d472374a69b4af.jpg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc76668cdad64c10a2d472374a69b4af.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=7b%2Bvq705%2BuEOM%2BLbsJP0nm1KhJU%3D",
+          "size": 160864
+        },
+        {
+          "file_type": "jpg",
+          "file_name": "Crumbl Branch Screenshots 2.jpg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/22a6ae7716d441a4aea5c350e4019378.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=UNNB9pDzc2EJbTTGHt1kdaPsnmA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/22a6ae7716d441a4aea5c350e4019378.jpg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/22a6ae7716d441a4aea5c350e4019378.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=UNNB9pDzc2EJbTTGHt1kdaPsnmA%3D",
+          "size": 226319
+        },
+        {
+          "file_type": "jpg",
+          "file_name": "Crumbl Branch Screenshots 3.jpg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ead639e2a4cd4dbcae51ed9cee501753.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=HLqXIbY8IQ7hSBUG1TjT%2B9NRlzI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ead639e2a4cd4dbcae51ed9cee501753.jpg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ead639e2a4cd4dbcae51ed9cee501753.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=HLqXIbY8IQ7hSBUG1TjT%2B9NRlzI%3D",
+          "size": 53077
+        },
+        {
+          "file_type": "png",
+          "file_name": "Crumbl TTEM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddbec27ebe2e4758a6536ec177db8bc1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=Su5vhrOhOp6Alwu9iVweTuwSZDs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ddbec27ebe2e4758a6536ec177db8bc1.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddbec27ebe2e4758a6536ec177db8bc1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=Su5vhrOhOp6Alwu9iVweTuwSZDs%3D",
+          "size": 43350
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f238bfaf4209411a8607230509a8277c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=dHnAdIDaUPnYi%2F%2FZE%2BnEeNEVDPo%3D",
+          "file_name": "file_20240318_14_56_42_309753",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f238bfaf4209411a8607230509a8277c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=dHnAdIDaUPnYi%2F%2FZE%2BnEeNEVDPo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f238bfaf4209411a8607230509a8277c.jpg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d957c49e362427ab9efce12f206c956.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=q2vUsWPOsnPV2RVZMsaz5FtBHEk%3D",
+          "file_name": "file_20240318_14_56_42_309911",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d957c49e362427ab9efce12f206c956.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=q2vUsWPOsnPV2RVZMsaz5FtBHEk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2d957c49e362427ab9efce12f206c956.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/acbe41cc4e3445c68eda6616d23311a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=wLa3BSyae9hkEYio6edZ4WG6i4M%3D",
+          "file_name": "file_20240318_14_56_42_370925",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/acbe41cc4e3445c68eda6616d23311a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=wLa3BSyae9hkEYio6edZ4WG6i4M%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/acbe41cc4e3445c68eda6616d23311a3.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9661e93175a04b299328aeba1bc37396.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=GqiGtkQyAsAWIDEuaJiKubVqQw0%3D",
+          "file_name": "file_20240318_14_56_42_422268",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9661e93175a04b299328aeba1bc37396.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=GqiGtkQyAsAWIDEuaJiKubVqQw0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/9661e93175a04b299328aeba1bc37396.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/99ab1999f55246d091ef0a75065e9ddf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=QJzVa%2BPWU2TIsZhbsTZ6uV%2BHMaE%3D",
+          "file_name": "file_20240318_14_56_42_422334",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/99ab1999f55246d091ef0a75065e9ddf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837802&x-signature=QJzVa%2BPWU2TIsZhbsTZ6uV%2BHMaE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/99ab1999f55246d091ef0a75065e9ddf.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Mobile Measurement Partner (MMP)-Mobile Marketing Partner (MMP)"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

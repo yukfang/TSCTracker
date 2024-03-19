@@ -1,0 +1,261 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_a1acfe06-d128-4d32-ae8b-a7e0264e37fg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Carly Gillingham",
+  "create_time": 1710182591,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710191355,
+      "auto_close_hit": 0,
+      "id": 7345213737421947000,
+      "reply_role": "TSC",
+      "staff_id": 7763805,
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Nicole Tucker",
+      "editable": 0,
+      "reply_email": "carly.gillingham@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Carly Gillingham",
+      "reply_to_user_id": 6963731975888111000,
+      "is_hide_name": false,
+      "core_user_id": "7048952329957721090",
+      "name": "Carly Gillingham",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Nicole!</p><p><br></p><p>Our team does not currently cover Tiktok Shops, but after reviewing your questions I wanted to provide a few alternative sources you may be able to leverage to get your questions answered:</p><p><br></p><p>Here is a doc created to help answer (most) Shops questions:&nbsp;https://bytedance.larkoffice.com/wiki/wikcn5tq51KKZRCyjS317Y853hb?source_type=message&amp;from=message</p><p><br></p><p>The PM for Shops that may be able to help with some of the more in depth questions is @Alex Xiong</p><p><br></p><p>Additionally, GBS usually ask TT shop related questions in the <span style=\"color: #222222;\">&#34;US &amp; UK Global E-commerce Consumer Feedback&#34; lark group!</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_a1acfe06-d128-4d32-ae8b-a7e0264e37fg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1934548,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "carly.gillingham@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Best Buy Catalog Integration to TikTok Shops",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/c5cffe34-4425-411a-91d3-41d392ed9f6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710191354,
+  "owner_name": "Nicole Tucker",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "6963731975888110594",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Nicole Tucker",
+  "follow_employee_id": 7763805,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 583211,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Best Buy Catalog Integration to TikTok Shops",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Best Buy ",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Enterprise",
+      "valid": true,
+      "key": "Enterprise",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "7075531119793356801",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-11",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "This request is for support in helping Best answer questions regarding integrating catalog with TikTok Shops\n- Is it possible to schedule a bulk ingestion via the Interface?\n- Is it possible to upload a bulk file via API (POST Upload File) OR can we only use the POST Create Products API call to add products?\n- What role does the brand attribute play in Shopping?\n- Is this a Best Buy brand or do we need brands for all the products BB sells e.g., Lenovo, Nintendo\n- Can Flashtalking use our existing TikTok API Key to make API calls to BB Shopping instance OR do we need to use Best Buys API access?\n- How does BB give us access to their TikTok Shop?",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

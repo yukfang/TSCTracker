@@ -1,0 +1,392 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Κατερίνα Σάκκουλα",
+  "create_time": 1705671298,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1705684101,
+      "auto_close_hit": 0,
+      "id": 7325856695878533000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robel,</p><p><br></p><p>Thank you for reaching out.</p><p><br></p><p>Please find my comments about this file:</p><ol><li>The file is a .CSV, but without UTF-8 encoding. Please ask the client to ensure that the file is saved in the correct format (please see screenshots)</li><li>If after making the above change the client&#39;s feed is still unaccessible, could you please ask them to review the link itself? The expected link would be up to the file extension: <strong>https://prodbbanalyticlake.blob.core.windows.net/outbound/ProductFeed/TikTok/Latest/market=FI/ProductFeedTikTok-Latest.csv</strong><br>When accessing the above part of their feed link, we receive an error. It is likely that our system looks up to this point and not the remaining parameters. Can they ensure that the above link contains the product feed without the need of the UTM parameters?</li></ol><p><br></p><p>Regarding the client&#39;s Pixel, which will need to be connected to the catalog&#39;s Event Sources section, we see a Pixel having been shared with the FI Ad account:&nbsp;<a target=\"_blank\" href=\"https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7086456267291574274\">7086456267291574274</a>&nbsp;but not with the IT Ad account.</p><ul><li>Out of the three must have events for VSA: View Content, Add to Cart and Complete Payment, the client is only measuring View Content, but does not send parameters</li><li>Advanced Matching has not been implemented</li></ul><p><br></p><p>Best,</p><p>Katerina</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screenshot 2024-01-19 at 13.39.31.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/16542c30ea974e4985b85b349ce5c1d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832745&x-signature=br53X9BvcGkF0HPV8qAJobQbIDc%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/16542c30ea974e4985b85b349ce5c1d4.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/16542c30ea974e4985b85b349ce5c1d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832745&x-signature=br53X9BvcGkF0HPV8qAJobQbIDc%3D",
+              "biz_type": 2,
+              "size": 575335
+            },
+            {
+              "file_type": "png",
+              "file_name": "Screenshot 2024-01-19 at 13.39.49.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e7779c654a841b89fc8fc42124401ff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832745&x-signature=AFuYnZNOW2Fx76q1U0CEcxLp4%2FI%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/5e7779c654a841b89fc8fc42124401ff.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e7779c654a841b89fc8fc42124401ff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832745&x-signature=AFuYnZNOW2Fx76q1U0CEcxLp4%2FI%3D",
+              "biz_type": 2,
+              "size": 78513
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706003046,
+      "auto_close_hit": 0,
+      "id": 7327226252480348000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "robel.ghebretensae@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robel Kidane Ghebretensae",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7012829831289324546",
+      "name": "Robel Kidane Ghebretensae",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #222222;\">Hey&nbsp;Κατερίνα!</span></p><p><span style=\"color: #222222;\">Hope everything is well!</span></p><p><br></p><p><span style=\"color: #222222;\">Thank you for this information! Would you be able to jump a call with the client?</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_09400297-c823-4dc7-a9b1-9061ce1d21hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706026015,
+      "auto_close_hit": 0,
+      "id": 7327325273047777000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><strong>[Status Update]</strong> Arranging client call via Lark thread </p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709735102,
+      "auto_close_hit": 0,
+      "id": 7343251291893694000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #333333;\"><strong>[Status Update]</strong>&nbsp;Second client call took place today. Managed to upload the products to the catalog and generate a new feed URL via MS Azure. Outstanding actions: Update Pixel events and parameters</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1825522,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "katerina.sakkoula@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "BookBeat Signal & VSA",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_09400297-c823-4dc7-a9b1-9061ce1d21hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1709735102,
+  "owner_name": "Robel Ghebretensae",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7012829831289324546",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Robel Ghebretensae",
+  "follow_employee_id": 9295306,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1033643,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "BookBeat Signal & VSA",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "BookBeat",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Entertainment",
+      "valid": true,
+      "key": "Entertainment",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Enterprise",
+      "valid": true,
+      "key": "Enterprise",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-GB",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "7321740398932852737",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "Q1 $300.000",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-19",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "New catalog integation",
+      "valid": true,
+      "key": "New catalog integation",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "There are two error messages that we have received once uploading the feed:\nFile format isn't supported (We tested both TSV and CSV files but still same issue)\nFile cannot be accessed from your host (URL is a downloadable file as we tested that)\n\nWe ran into the issues in both the Swedish and Finnish account. Latest we attempted to upload it to (BookBeat Finland ID: 7086456267291574274)\n\nI am including our Data Engineer Sofia in this email so you can connect her and us with your Data team so can take it further with them to figure out how to best solve the issues. \n\nHere is the link to the product feed (CSV file) in case needed. This is the Product Feed FI that we tried to upload to Product Feed Catalogue: \nID: 7321725402848724738:\n\nhttps://prodbbanalyticlake.blob.core.windows.net/outbound/ProductFeed/TikTok/Latest/market=FI/ProductFeedTikTok-Latest.csv?sv=2023-01-03&st=2024-01-19T09%3A04%3A27Z&se=2024-01-27T09%3A04%3A00Z&sr=b&sp=r&sig=Ee0vwpWMb5BM29xFcomyyyGsihBYxkMmAI4v20z1%2FAw%3D",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-01-19 at 13.39.31.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/16542c30ea974e4985b85b349ce5c1d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832745&x-signature=br53X9BvcGkF0HPV8qAJobQbIDc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/16542c30ea974e4985b85b349ce5c1d4.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/16542c30ea974e4985b85b349ce5c1d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832745&x-signature=br53X9BvcGkF0HPV8qAJobQbIDc%3D",
+          "biz_type": 2,
+          "size": 575335
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-01-19 at 13.39.49.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e7779c654a841b89fc8fc42124401ff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832745&x-signature=AFuYnZNOW2Fx76q1U0CEcxLp4%2FI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5e7779c654a841b89fc8fc42124401ff.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e7779c654a841b89fc8fc42124401ff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832745&x-signature=AFuYnZNOW2Fx76q1U0CEcxLp4%2FI%3D",
+          "biz_type": 2,
+          "size": 78513
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

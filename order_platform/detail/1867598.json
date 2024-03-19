@@ -1,0 +1,321 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497211543601",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Thomas Mei",
+  "create_time": 1707499016,
+  "deadline": 0,
+  "archive_board_id": 1705151646989665,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707519832,
+      "auto_close_hit": 0,
+      "id": 7333741157905154000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Alyssa,</p><p><br></p><p>It looks like the Advertiser Id you provided is for Smoothie King instead of El Pollo Loco.&nbsp;</p><p><br></p><p>Can you refile this ticket with the proper client/details?</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1867598,
+  "workflow_nodes": [],
+  "board_id": 1705151646989665,
+  "employee_email": "thomas.mei@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "El Pollo Loco | \"configure San intergration\" APP ",
+  "category_1_name": "Mobile Marketing Partner (MMP)",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_2449b6ad-b2b6-4b61-b6c7-9fd88d4a251h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1707519861,
+  "owner_name": "Alyssa Esparza",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Mobile Marketing Partner (MMP)",
+  "archive_category_1": "1736497211543601",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497211543601",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [],
+      "value": "Mobile Marketing Partner (MMP)"
+    }
+  ],
+  "core_user_id": "7135023975780713474",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Alyssa Esparza",
+  "follow_employee_id": 2819808,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 3254020,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "El Pollo Loco | \"configure San intergration\" APP ",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Pre-Pitch (Preparting to Pitch)",
+      "valid": true,
+      "key": "Pre-Pitch (Preparting to Pitch)",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "El Pollo Loco - Initiative - LA",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7005992898055389185"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Alyssa Esparza CSM ",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "1138437085",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.elpolloloco.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Mobile",
+      "valid": true,
+      "key": "Events API - Mobile",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-09",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Our client said \"From the Branch side it does look like the TikTok for Business SAN Ad Partner has already been set up with the event configured correct on our MMP end. But they are still seeing the message about \"configure San intergration\" and they need to fix this in order to properly build out their app campaign ",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-09 at 10.46.17 AM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cc2ac985acde43f3a26d5bebf5d2b5ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837881&x-signature=9srj5nWaajXHHAtPHehNcjHL%2FEU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/cc2ac985acde43f3a26d5bebf5d2b5ca.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cc2ac985acde43f3a26d5bebf5d2b5ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837881&x-signature=9srj5nWaajXHHAtPHehNcjHL%2FEU%3D",
+          "size": 216441
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-09 at 10.45.53 AM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e4a4c27f65364867bfc7b798dea12ebe.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837881&x-signature=B1D2%2BtlCAR2r4FkDf4O4Idu2qzM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e4a4c27f65364867bfc7b798dea12ebe.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e4a4c27f65364867bfc7b798dea12ebe.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837881&x-signature=B1D2%2BtlCAR2r4FkDf4O4Idu2qzM%3D",
+          "size": 671604
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-09 at 9.41.21 AM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/255fbbef4418458cb44b6707c74d6d42.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837881&x-signature=9ctji5FboaHyE4YHXKoqB4f3YDo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/255fbbef4418458cb44b6707c74d6d42.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/255fbbef4418458cb44b6707c74d6d42.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837881&x-signature=9ctji5FboaHyE4YHXKoqB4f3YDo%3D",
+          "size": 362390
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Mobile Measurement Partner (MMP)-Mobile Marketing Partner (MMP)"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

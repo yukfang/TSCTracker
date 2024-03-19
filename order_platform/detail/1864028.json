@@ -1,0 +1,499 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497211543601",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Joey Choi",
+  "create_time": 1707331479,
+  "deadline": 0,
+  "archive_board_id": 1705151646989665,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707438085,
+      "auto_close_hit": 0,
+      "id": 7333388109670908000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Ling Ling, confirming receipt! I&#39;ll take a look and follow up tomorrow.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707764721,
+      "auto_close_hit": 0,
+      "id": 7334792678141346000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Ling Ling, the next steps I would recommend would be to follow the <a target=\"_blank\" href=\"https://bytedance.sg.larkoffice.com/docx/MIXIdZqUboU61ZxjFu7lfVeogsg\">SAN Transition Guidance doc (internal facing)</a>&nbsp;which outlines detailed steps in the AppsFlyer section. Their current blocker is that they have not set up any events in their SAN integration yet. Here are externally-facing docs they can reference:</p><ul><li><a target=\"_blank\" href=\"https://docs.google.com/presentation/d/1a7VTL3MvbJ6ia9C3IOsGhbaWwG72GHGQoSRf-3CvI9A/edit#slide=id.g2a09a82ecec_0_0\">AppsFlyer x TT SAN One-pager</a></li><li><a target=\"_blank\" href=\"https://support.appsflyer.com/hc/en-us/articles/7925111265041-Bulletin-TikTok-for-Business-advanced-SRN\">AppsFlyer HC Article</a></li></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707845936,
+      "auto_close_hit": 0,
+      "id": 7335141558146040000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lingling.chen@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "tiktoklog",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7260168098099397634",
+      "name": "tiktoklog",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Joey,</p><p><br></p><p>The client has  already followed all detailed steps detailed on the SAN transition doc and their appsflyer rep has confirmed that everything is setup properly. They would like direct 1:1 support from the TSC team which I&#39;ve received eligibility confirmation for SMB.</p><p><br></p><p>Best,</p><p>Ling Ling</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_1eef80a3-8f8b-4663-9ad4-518dd2332b7h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707927859,
+      "auto_close_hit": 0,
+      "id": 7335493791085773000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>You can use this <a target=\"_blank\" href=\"https://bytedance.larksuite.com/scheduler/d1eb4780491863eb\">Lark scheduler link</a> to book some time. Are they free tomorrow for a call?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707945481,
+      "auto_close_hit": 0,
+      "id": 7335568213578727000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lingling.chen@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "tiktoklog",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7260168098099397634",
+      "name": "tiktoklog",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>The client just got back to me and said that they&#39;re free anytime after 2:30pm EST tomorrow. They will schedule something in the Lark link you&#39;ve sent!</p><p><br></p><p>Best,</p><p>Ling Ling</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_1eef80a3-8f8b-4663-9ad4-518dd2332b7h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707952416,
+      "auto_close_hit": 0,
+      "id": 7335596368028778000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Awesome thanks! The Lark scheduling link is typically used for you to view my availability and block some time on our Lark calendars, with a separate Zoom invite going out to the client.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708026443,
+      "auto_close_hit": 0,
+      "id": 7335916139865784000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lingling.chen@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "tiktoklog",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7260168098099397634",
+      "name": "tiktoklog",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Gotcha, thanks so much Joey you&#39;re the MVP! I will allowlist them right now :)</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_1eef80a3-8f8b-4663-9ad4-518dd2332b7h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708026280,
+      "auto_close_hit": 0,
+      "id": 7335916185772491000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Ling Ling, I didn&#39;t get anywhere with them on the call unfortunately, but that&#39;s because I later found out that there was an oversight with advertisers who have &lt;1000 in-app events sent.</p><p><br></p><p>Here&#39;s the note from the escalation, with an action item for you to submit an Allowlist:</p><p><br></p><p><em>There&#39;s a known challenge with smaller apps (&lt; 1000 daily events) being restricted in the data flow. I see that this is an SMB advertiser. Good thing that we have access to this app&#39;s AppsFlyer account. So I can help verify. We can transition them. Please ask BPM/CSM to submit <a target=\"_blank\" href=\"https://bytedance.sg.larkoffice.com/share/base/form/shrlggHzAwefndMUKAy7JfLXGCg\">Allowlist</a> with Note: &#34;Verified MMP set-up. Likely restricted by TTP.&#34; We will transition this app with next Monday Allowlist.</em></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1864028,
+  "workflow_nodes": [],
+  "board_id": 1705151646989665,
+  "employee_email": "joey.choi@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Pickle Poll Inc. - MMP",
+  "category_1_name": "Mobile Marketing Partner (MMP)",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_1eef80a3-8f8b-4663-9ad4-518dd2332b7h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1708027868,
+  "owner_name": "Ling Ling Chen",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Mobile Marketing Partner (MMP)",
+  "archive_category_1": "1736497211543601",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497211543601",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [],
+      "value": "Mobile Marketing Partner (MMP)"
+    }
+  ],
+  "core_user_id": "7260168098099397634",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Ling Ling Chen",
+  "follow_employee_id": 7055631,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2745932,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Pickle Poll Inc. - MMP",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Pickle Poll Inc.",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "SMB",
+      "valid": true,
+      "key": "SMB",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7078393712048406529"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Ling Ling Chen AM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "1551736097",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://shoponpickle.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Mobile Measurement Partner (MMP)",
+      "valid": true,
+      "key": "Mobile Measurement Partner (MMP)",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-07",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Client is attempting to transition over to SAN and have followed all instructions, confirmed with their MMP rep that everything is all good to go, however is still dealing with event issues on the SAN GTM dashboard. Additionally, they can't track install & signup events on TikTok, which is preventing them from creating custom audiences around users who have installed their app for retargeting campaigns. Therefore, they'd like support there too!",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Mobile Measurement Partner (MMP)-Mobile Marketing Partner (MMP)"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

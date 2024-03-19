@@ -1,0 +1,368 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Armando Carmona Blanco",
+  "create_time": 1706134910,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706224800,
+      "auto_close_hit": 0,
+      "id": 7328178101282669000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lauren,</p><p>Confirming receipt of your ticket.</p><p>Give me some time to look into this and I will follow up in our Lark group.</p><p>Best,<br>Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706229827,
+      "auto_close_hit": 0,
+      "id": 7328198241781154000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Lauren Ponce",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7011422170112263000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lauren,</p><p>I took a look at the advertiser's implementation. </p><p>Based on their <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C95K9BJC77U9N0P94330?start_time=2024-01-19&amp;end_time=2024-01-25&amp;from=ALL&amp;aadvid=7065479389672194049&amp;type=overview\" target=\"_blank\">event funnel here</a>, hashed email can be sent with one of these events here:</p><ul><li>CompletePayment</li><li>CompleteRegistration</li><li>SubmitForm</li><li>Contact</li><li>Subscribe</li></ul><p>However, since they implemented CompletePayment, this is the main event where hashed PII is expected. This also appears to be the advertiser's concern in the video you attached.</p><p>After QAing their flow, it appears they are using the CompletePayment event once a visitor successfully books a tour with an agent. I have reason to believe there is a bug with their dashboard, which is showing incorrect/contradicting information. Their dashboard shows they are sending hashed PII with 98% of their events, but an inspection of their event data as well as their production site shows they are not sending this information.</p><p>A couple of things to point out:</p><p><strong>Multiple CompletePayment Events</strong> - once the booking is confirmed, the CompletePayment is firing twice. The recommendation is to fire once to prevent inflating their metrics.</p><img alt=\"Screenshot 2024-01-25 at 3.52.00 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4560dee6a8aa4d93bc101c94ec23c2f2.png\" height=\"131.211\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4560dee6a8aa4d93bc101c94ec23c2f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833470&amp;x-signature=bSVFBYNGH%2FCP1hjA9zECZWVFLDI%3D\" width=\"375\"><p><strong>Confirmed Missing Hashed Email</strong> - I ran a search on the backed for hashed PII and this came back empty for all of their events. Additionally, I QA'd their flow, on their production site, and could see the CompletePayment event fire without hashed PII. See message below.</p><img alt=\"Screenshot 2024-01-25 at 3.51.20 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e2c73fd9a61948b6b4613aa566bd5ce5.png\" height=\"133.438\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2c73fd9a61948b6b4613aa566bd5ce5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833470&amp;x-signature=wBk57HIB59la0cSXvq9k0Yvnmws%3D\" width=\"375\"><p>When I inspected the payloads, I could see the event contains values for content_id, content_type, and content_name, but the hashed PII is missing. See images below.</p><img alt=\"Screenshot 2024-01-25 at 4.13.05 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/127756b811a84ac8ba6f2d011a5f36fc.png\" height=\"569.162\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/127756b811a84ac8ba6f2d011a5f36fc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833470&amp;x-signature=SDINwHf%2Fldo5ko24nkq6p440%2FHo%3D\" width=\"375\"><img alt=\"Screenshot 2024-01-25 at 3.52.42 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0a27e509b3bd4f16818892a0598e8ff1.png\" height=\"131.211\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a27e509b3bd4f16818892a0598e8ff1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833470&amp;x-signature=PYhvRUAYw896Kip4CziOB22%2BTbg%3D\" width=\"375\"><p><br /></p><p><strong>Recommendations</strong></p><ul><li>Eliminate the duplicate CompletePayment event that fires after booking a tour.</li><li>Implement <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\" target=\"_blank\">Advanced Matching</a> on their <span style=\"color: #1F1F1F;\">\"<em>tour_checkout_confirmation</em>\" page, the same page they are firing the CompletePayment from. This can be done by invoking the<em> ttq.identify</em> function right before they fire the CompletePayment event. Their dev team has the option to hash the email explicitly using SHA256 format, or pass the raw email string and let the TikTok pixel hash it for them. Below an example we can share with them.</span></li></ul><img alt=\"Screenshot 2024-01-25 at 4.27.43 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6cd31d1045b94868b777e2b35e5cd98d.png\" height=\"164.32\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6cd31d1045b94868b777e2b35e5cd98d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833470&amp;x-signature=y0jjjb%2BUZFK9EqfAqJnsQwIkPwM%3D\" width=\"375\"><p>They can go about it a couple of ways:</p><ol><li>Append the ttq.identify snippet the current CompletePayment tag.</li><li>Or fire the ttq.identify in its own tag.</li></ol><p>If their dev/InfoSec teams has questions regarding the use of email in their TikTok events, feel free to share the excerpt below or refer them to the developer documentation on Advanced Matching linked above.</p><p><span style=\"color: #333333;\">Privacy</span></p><p><span style=\"color: #333333;\">As per standard industry practice, customer emails and phone numbers will be hashed with SHA256 before reaching TikTok servers for matching. TikTok is ISO 27001 certified in the US and UK. Learn more about how this information is used in our </span><span style=\"color: #338AFF;\"><a href=\"https://ads.tiktok.com/i18n/official/policy/business-products-terms\" target=\"_blank\">TikTok Business Products (Data) Terms</a></span>.</p><p>Let me know if you have questions on the above.</p><p>Best,<br>Armando</br></p></img></img></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706312465,
+      "auto_close_hit": 0,
+      "id": 7328553840490349000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lauren,</p><p>Please let me know if there are any other follow ups on the above.</p><p>I will close this ticket for now, since their implementation was already QA&#39;d and recommendations for improving their match rate have been provided. Feel free to reopen if there are any other followups from the advertiser.</p><p>Best,<br>Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1836638,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "armando.carmona@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Redfin review match rates ",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1706312533,
+  "owner_name": "Lauren Ponce",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7011422170112263170",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Lauren Ponce",
+  "follow_employee_id": 1807296,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 4456938,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Redfin review match rates ",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Redfin ",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "7065479389672194049",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P0",
+      "valid": true,
+      "key": "P0",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "100,000",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-24",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Please see screen recording and video, but client indicated: \n\nReview our web match rate and what's required to improve it. TTAM says they have poor match rates, but 98% of events have emails and phone numbers and it says \"no customer information has been shared in past 30 days.\" What edits need to be made here?  ",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "mov",
+          "file_name": "redfin video .mov",
+          "file_url": "https://v16-tiktokcdn-com.akamaized.net/8024c1800afee3d0cfd9994d8ab312f2/661fd296/video/tos/alisg/tos-alisg-v-90231e-sg/oMuiRjYVE3xKoj2AAxUBfA4aaqCiRYMwholyEB/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=18004&bt=9002&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&mime_type=video_mp4&qs=13&rc=MzM4ams5cm9ycDQzOGc0NEBpMzM4ams5cm9ycDQzOGc0NEBwZF5vMmRjbmxgLS1kMS1zYSNwZF5vMmRjbmxgLS1kMS1zcw%3D%3D&vvpl=1&l=2024031813443001021520121951463&btag=e00050000",
+          "file_key": "v1014dg50001cmooqlfog65hrga5g0s0",
+          "url": "https://v16-tiktokcdn-com.akamaized.net/8024c1800afee3d0cfd9994d8ab312f2/661fd296/video/tos/alisg/tos-alisg-v-90231e-sg/oMuiRjYVE3xKoj2AAxUBfA4aaqCiRYMwholyEB/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=18004&bt=9002&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&mime_type=video_mp4&qs=13&rc=MzM4ams5cm9ycDQzOGc0NEBpMzM4ams5cm9ycDQzOGc0NEBwZF5vMmRjbmxgLS1kMS1zYSNwZF5vMmRjbmxgLS1kMS1zcw%3D%3D&vvpl=1&l=2024031813443001021520121951463&btag=e00050000",
+          "size": 102117091
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/127756b811a84ac8ba6f2d011a5f36fc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833470&x-signature=SDINwHf%2Fldo5ko24nkq6p440%2FHo%3D",
+          "file_name": "file_20240318_13_44_30_788008",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/127756b811a84ac8ba6f2d011a5f36fc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833470&x-signature=SDINwHf%2Fldo5ko24nkq6p440%2FHo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/127756b811a84ac8ba6f2d011a5f36fc.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a27e509b3bd4f16818892a0598e8ff1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833470&x-signature=PYhvRUAYw896Kip4CziOB22%2BTbg%3D",
+          "file_name": "file_20240318_13_44_30_788088",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a27e509b3bd4f16818892a0598e8ff1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833470&x-signature=PYhvRUAYw896Kip4CziOB22%2BTbg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0a27e509b3bd4f16818892a0598e8ff1.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4560dee6a8aa4d93bc101c94ec23c2f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833470&x-signature=bSVFBYNGH%2FCP1hjA9zECZWVFLDI%3D",
+          "file_name": "file_20240318_13_44_30_788108",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4560dee6a8aa4d93bc101c94ec23c2f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833470&x-signature=bSVFBYNGH%2FCP1hjA9zECZWVFLDI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4560dee6a8aa4d93bc101c94ec23c2f2.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6cd31d1045b94868b777e2b35e5cd98d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833470&x-signature=y0jjjb%2BUZFK9EqfAqJnsQwIkPwM%3D",
+          "file_name": "file_20240318_13_44_30_788168",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6cd31d1045b94868b777e2b35e5cd98d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833470&x-signature=y0jjjb%2BUZFK9EqfAqJnsQwIkPwM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6cd31d1045b94868b777e2b35e5cd98d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2c73fd9a61948b6b4613aa566bd5ce5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833470&x-signature=wBk57HIB59la0cSXvq9k0Yvnmws%3D",
+          "file_name": "file_20240318_13_44_30_788194",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2c73fd9a61948b6b4613aa566bd5ce5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833470&x-signature=wBk57HIB59la0cSXvq9k0Yvnmws%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e2c73fd9a61948b6b4613aa566bd5ce5.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

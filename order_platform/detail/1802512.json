@@ -1,0 +1,565 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497066245137",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1704843144,
+  "deadline": 0,
+  "archive_board_id": 1705151646989663,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1704844160,
+      "auto_close_hit": 0,
+      "id": 7322244694321234000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "gladys.gutierrez@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Gladys Gutierrez",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6943725368755160066",
+      "name": "Gladys Gutierrez",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Important Detail: the partner is Hightouch.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_9f04c438-16e0-4f32-b939-2b28718b0f4g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1704907318,
+      "auto_close_hit": 0,
+      "id": 7322520476859793000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Gladys,</p><p>A couple of questions:</p><p>Do you know if there&#39;s a way for us to view the data and/or a reference file from Hightouch that&#39;s being sent to TikTok?</p><p>Can they confirm that these are the steps they&#39;re taking to upload the Audience files from Hightouch?&nbsp;https://hightouch.com/docs/destinations/tiktok</p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1704908254,
+      "auto_close_hit": 0,
+      "id": 7322524569363923000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>To provide some more context into the possible issue:</p><p><span style=\"color: #333333;\">Our match rates can vary based on the customer file the client uploads, and although, for example, 10,000 may seem like a lot of data listed, it may be small when our match rates are lower. For example, lists with data sets containing email addresses tend to process with a match-rate of only 5% or so. One reason for low match rates can be the partial coverage of these identifiers by TikTok users. We always keep the user experience at the center of our products. We do not enforce email and phone number collection from all users, and users can opt out of having their device identifiers collected. As a result, we are only able to match a portion of users based on matching keys for targeting purposes.</span></p><p><br></p><p><span style=\"color: #333333;\">Overall, there could be several common issues when an audience list is uploaded but the number of matches is lower than expected, such as:</span></p><p><br></p><ul><li><span style=\"color: #333333;\">Mixing different hashing methods in one file</span></li><li><span style=\"color: #333333;\">Hashing wrong values</span></li><li><span style=\"color: #333333;\">Uploading not what was picked in the dropdown</span></li><li><span style=\"color: #333333;\">Data issues such as multiple values in some lines</span></li><li><span style=\"color: #333333;\">Incorrect format</span></li><li><span style=\"color: #333333;\">Corrupted values (meaning, not matching any type)</span></li></ul><p><br></p><p><span style=\"color: #333333;\">They may want to try and upload a list with original values, remove duplicates, and make sure that they are only uploading device identifiers, phone numbers, and/or email addresses. They may also need to increase the number of identifiers they are uploading, expanding the volume of data by 3 to 5 times. Most importantly, all audiences must contain at least 1,000 user matches in order to be usable for future campaigns, etc. (which shouldn&#39;t be an issue for them!)</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1704922297,
+      "auto_close_hit": 0,
+      "id": 7322584537970672000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "gladys.gutierrez@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Gladys Gutierrez",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6943725368755160066",
+      "name": "Gladys Gutierrez",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,</p><p><br></p><p>This is a partner file so based on what we have read on the comms, the upload should accept all identifiers. During a call with the client yesterday, they confirmed there is no way to select email or phone, which means there is no &#34;multi-identifier&#34; selection either.</p><p><br></p><p>Is there no way for our team to review the input? In the past, a different client found out their partner was sending duplicates and they had faulty coding.</p><p><br></p><p>GG</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_9f04c438-16e0-4f32-b939-2b28718b0f4g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1704922708,
+      "auto_close_hit": 0,
+      "id": 7322586365600793000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "gladys.gutierrez@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Gladys Gutierrez",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6943725368755160066",
+      "name": "Gladys Gutierrez",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Can you also help us understand what &#34;partial coverage of these identifiers&#34; would do if they do upload multiple identifiers? Wouldn&#39;t one identifier suffice?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_9f04c438-16e0-4f32-b939-2b28718b0f4g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1704983591,
+      "auto_close_hit": 0,
+      "id": 7322847229247603000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Gladys,</p><p>If a different client found out their partner was sending duplicates and found faulty coding, would Blizzard be able to reach out to Hightouch to get this same kind of information since they own the configuration? They may be able to ask Hightouch directly for an output of the audience file or some kind of logging.</p><p>&#34;Partial coverage of these identifiers&#34; means that in some cases, a client may not have both an hashed Email or a Phone number. In the cases that a user in the audience file/feed only has a hashed Phone number tied to them but we only have a Hashed Email address on the TikTok side to make a match, then this will be partial coverage. Although we know this user is present in the feed and in our TikTok account, the hashed signals we have (audience feed only has a hashed phone, we only have a hashed email) will not allow for an audience match.</p><p>And apologies for the confusion/inconvenience here; I&#39;ve also reached out to my manager Jason Schnack and he mentioned that moving forward, all audience tickets should go to the standard internal TPS platform. However, I can still continue working on this ticket for you in the meantime.</p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705001966,
+      "auto_close_hit": 0,
+      "id": 7322926287159329000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "gladys.gutierrez@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Gladys Gutierrez",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6943725368755160066",
+      "name": "Gladys Gutierrez",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,</p><p><br></p><p>Thank you. I shared your checklist of issues with the client. First, our main POC mentioned that the test audience&nbsp;181332341 is now populating significant volume and this is what was different:</p><p>&#34;old sync had the phone mapped to a leading 0s, but got fixed to use E.164 standards after original sync</p><p>new sync sent E.164 phone standards from start&#34;</p><p><br></p><p>But then after we got this, there was an email from their tech guy. I have put all his feedback in this document:</p><p><br></p><p>https://bytedance.us.larkoffice.com/docx/J6MIdY8E4owjWtx2iEVujj6Iskb</p><p><br></p><p>The main ask now is if there is a way you can confirm 13 million records were sent.</p><p><br></p><p>Please let me know if you want to review or if you have trouble following, I know it&#39;s a lot.</p><p><br></p><p>Thanks!</p><p><br></p><p>GG</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_9f04c438-16e0-4f32-b939-2b28718b0f4g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705515292,
+      "auto_close_hit": 0,
+      "id": 7325130579425378000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "gladys.gutierrez@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Gladys Gutierrez",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6943725368755160066",
+      "name": "Gladys Gutierrez",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,</p><p><br></p><p>Per our Lark chat, we would also like to understand the logistics in why these audiences of millions of records pick up in size days later vs in 24 hours. We seem to be the only partner with this issue.</p><p><br></p><p>Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_9f04c438-16e0-4f32-b939-2b28718b0f4g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1802512,
+  "workflow_nodes": [],
+  "board_id": 1705151646989663,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Blizzard - Diablo Audiences match rate is atypically low",
+  "category_1_name": "Events API - Web",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_9f04c438-16e0-4f32-b939-2b28718b0f4g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1705515291,
+  "owner_name": "Gladys Gutierrez",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - Web",
+  "archive_category_1": "1736497066245137",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497066245137",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882593",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882609",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883585",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883601",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400130",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400146",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400162",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400178",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401154",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401170",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401186",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401202",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548708426753",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - Web"
+    }
+  ],
+  "core_user_id": "6943725368755160066",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Gladys Gutierrez",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 5785654,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Blizzard - Diablo Audiences match rate is atypically low",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Blizzard",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Gaming",
+      "valid": true,
+      "key": "Gaming",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7010898827309776898"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CF9CUVBC77U2ISB9MFBG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "blizzard.com"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-09",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "This issue is with Partner audience sizes and their match rate when selecting them on the ad groups. Blizzard claims they used to get around 50% of the total matched by Meta and that this is not working the same anymore.\n\nHere is the link to the Audience Manager:\nhttps://ads.tiktok.com/i18n/dmp/adver/main?aadvid=7010898827309776898\n\nThe audience in question is HT_1PD_Blizzard_D4_D4 Lapsed_WW_202312 , \nID is 181332204\n\nThey are saying this audience should have at least 1.5M users, but it has a little over 500k\nBut even if they accept the 500k, when selecting on the ad groups, they only get 50k.\nThey confirmed there are no other countries there but US CA\n\n\nI have a feeling this has to do with it being a Partner audience, not customer file, and there is an issue with the partner.\n\nPlease let me know if you have any questions to help us resolve this.\n\nThanks!\n\nGG\n\n\n\n",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - Web-Events API - Web"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

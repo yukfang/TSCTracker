@@ -1,0 +1,634 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Joey Choi",
+  "create_time": 1708542983,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1708549781,
+      "auto_close_hit": 0,
+      "id": 7338164062489952000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Reid, I'm seeing that they installed the Pixel base code directly on their site's HTML using Custom Code, as well as the Complete Payment event:</p><img alt=\"Screenshot 2024-02-21 at 3.02.49 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f88842c80bf54090b27c0106f7ab6107.png\" height=\"187.5\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f88842c80bf54090b27c0106f7ab6107.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838184&amp;x-signature=i7XKyGj4suC0XPbHpUIhh6R5ldk%3D\" width=\"375\"><p>I recommend that the advertiser first align on their full event funnel. Once they have an idea of all the events they want to track, they should then implement each event following our developer documentation <a href=\"https://business-api.tiktok.com/portal/docs?rid=oyn7lhbo6ar&amp;id=1739585702922241\" target=\"_blank\">here</a>, or  use one of TT's partner integrations, listed <a href=\"https://ads.tiktok.com/help/article/partner-integrations-for-web-tracking?redirected=2\" target=\"_blank\">here</a>. </p><p>Have you had a conversation with them on implementing the Events API as well? Let me know and I can send over more documentation and/or value props on implementing both the EAPI and Pixel. </p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708621550,
+      "auto_close_hit": 0,
+      "id": 7338473005439402000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Reid Williamson",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7138391995479884802",
+      "name": "Reid Williamson",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Joey,</p><p><br></p><p>Thank you for the update, have not had the conversation with them around eAPI yet. I&#39;m not sure how they implemented their custom code as their website&nbsp;<a href=\"https://www.nugenixsamples.com/\" target=\"_blank noopener noreferrer\">https://www.nugenixsamples.com/</a>&nbsp;is not passing back any attributed events to ads manager. I recommended they set these up<br><br><span style=\"color: #222222;\"><strong>View Content event fires on</strong> Page Load</span></p><li><span style=\"color: #222222;\"><strong>Initiate Checkout event fires on</strong> Continue Checkout</span></li><li><span style=\"color: #222222;\"><strong>Complete Payment event fires on</strong> Complete My Order</span></li><p><br></p><p><span style=\"color: #222222;\">Is this something they can do within ads manager or would they need their developer who installed the pixel to put these events into place?</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/355410a3-c568-4752-8655-ea836a3f7a2g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708629709,
+      "auto_close_hit": 0,
+      "id": 7338507948898927000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Their developer will need to set up the events through custom code; their site cannot pass back the events, attributed or otherwise, if they&#39;re not set up to be tracked on their site in the first place. The recommendations you sent over to them sound good. And if they don&#39;t have any dev resources, then they can consider using the Event Builder method within TTAM.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709054088,
+      "auto_close_hit": 0,
+      "id": 7340326069427257000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Reid Williamson",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7138391995479884802",
+      "name": "Reid Williamson",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi, still need to have the conversation with them on implementing Events API, the client connected with their dev team and sent me back this email - </p><p><br /></p><img alt=\"nugenix dev.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9791a1c0d12b4efd8c7cd3398c80eff6.png\" height=\"188.83\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9791a1c0d12b4efd8c7cd3398c80eff6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838185&amp;x-signature=ZIqdqckc2Kf5x7W0xCHXFrNgF4g%3D\" width=\"375\"><p><br /></p><p>It looks like they are now seeing a few attributed events come in however I want to ensure they are properly linked.<br><br /></br></p><img alt=\"Nugenix Conversions and CPA.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9c07766f658848eebf269071f7413b7d.png\" height=\"193.836\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c07766f658848eebf269071f7413b7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838185&amp;x-signature=BBkgvUNS5hjbrQjDJGAwEBQipD8%3D\" width=\"375\" /></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/355410a3-c568-4752-8655-ea836a3f7a2g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709156910,
+      "auto_close_hit": 0,
+      "id": 7340771438489518000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>The data we&#39;re receiving for Complete Payment is looking good; they don&#39;t need to make any adjustments other than content_id which is reporting just under 50% (<strong>only</strong> if they want to use Video Shopping Ads in the future).</p><p>It&#39;s recommended that they set up an additional 2 events to follow our best practices with having 3 or more events to help inform TikTok&#39;s ad algorithm.&nbsp;</p><p> </p><p>To help with user attribution, I would recommend that they set up <a target=\"_blank\" href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\">Manual Advanced Matching</a>&nbsp;in tandem with Automatic Advanced Matching, which they have enabled already. This will help with campaign optimization and audience building.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709158873,
+      "auto_close_hit": 0,
+      "id": 7340779823377170000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Reid Williamson",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7138391995479884802",
+      "name": "Reid Williamson",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you Joey! Relaying this information to the client</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/355410a3-c568-4752-8655-ea836a3f7a2g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709683898,
+      "auto_close_hit": 0,
+      "id": 7343032729140740000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>No prob! Let me know if they have any follow-ups</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1891599,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "joey.choi@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Is this pixel built with Basic or Dev Mode? Events not firing",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/355410a3-c568-4752-8655-ea836a3f7a2g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1709683897,
+  "owner_name": "Reid Williamson",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7138391995479884802",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Reid Williamson",
+  "follow_employee_id": 7055631,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1090287,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Is this pixel built with Basic or Dev Mode? Events not firing",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Pre-Pitch (Preparting to Pitch)",
+      "valid": true,
+      "key": "Pre-Pitch (Preparting to Pitch)",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Direct Digital",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7329700495604613121"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Reid Williamson - BPM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "7167397989975719938",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CN585N3C77U2LHT2VHS0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.nugenixsamples.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-21",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "We are unsure if the client set up this pixel in Basic or Dev mode. No events are tracking on their website and need further guidance on how to best put these in place.",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f88842c80bf54090b27c0106f7ab6107.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838184&x-signature=i7XKyGj4suC0XPbHpUIhh6R5ldk%3D",
+          "file_name": "file_20240318_15_03_05_010589",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f88842c80bf54090b27c0106f7ab6107.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838184&x-signature=i7XKyGj4suC0XPbHpUIhh6R5ldk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f88842c80bf54090b27c0106f7ab6107.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c07766f658848eebf269071f7413b7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838185&x-signature=BBkgvUNS5hjbrQjDJGAwEBQipD8%3D",
+          "file_name": "file_20240318_15_03_05_146112",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c07766f658848eebf269071f7413b7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838185&x-signature=BBkgvUNS5hjbrQjDJGAwEBQipD8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/9c07766f658848eebf269071f7413b7d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9791a1c0d12b4efd8c7cd3398c80eff6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838185&x-signature=ZIqdqckc2Kf5x7W0xCHXFrNgF4g%3D",
+          "file_name": "file_20240318_15_03_05_146296",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9791a1c0d12b4efd8c7cd3398c80eff6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838185&x-signature=ZIqdqckc2Kf5x7W0xCHXFrNgF4g%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/9791a1c0d12b4efd8c7cd3398c80eff6.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

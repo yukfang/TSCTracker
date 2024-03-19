@@ -1,0 +1,896 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Heidi Williams",
+  "create_time": 1706627822,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706722299,
+      "auto_close_hit": 0,
+      "id": 7330315607734223000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra,</p><p><br></p><p>Yes, they can go into the Events Manager UI and delete events they created there. Attaching a guide with screenshots they can follow. They should then clear their browser cache and cookies to make sure they see the pixel fire correctly next time they view the site.</p><p><br></p><p>Just noticed as I was looking into this, the client has not enabled&nbsp;<a target=\"_blank\" href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C40MBUPU9OSI9F1LM31G?start_time=2024-01-25&amp;end_time=2024-01-31&amp;from=ALL&amp;aadvid=6989292922701119489&amp;type=S2SSetting\">Automatic Advanced Matching</a>&nbsp;in their settings. They should take advantage of that to increase match rates as much as possible.</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "pdf",
+              "file_name": "TikTok Pixel Event Builder Deletion Guide.pdf",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/osfTKLL60QGmtvARfMAAe8IHWqAxWjnGAAegDJ.pdf?lk3s=cbe26b3a&x-expires=4832832996&x-signature=%2BETr0Bn3Hm9fz1VGIccSdH2NrvE%3D",
+              "file_key": "tos-alisg-v-90231e-sg/osfTKLL60QGmtvARfMAAe8IHWqAxWjnGAAegDJ.pdf",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/osfTKLL60QGmtvARfMAAe8IHWqAxWjnGAAegDJ.pdf?lk3s=cbe26b3a&x-expires=4832832996&x-signature=%2BETr0Bn3Hm9fz1VGIccSdH2NrvE%3D",
+              "biz_type": 2,
+              "size": 168331
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708703592,
+      "auto_close_hit": 0,
+      "id": 7338825066316202000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi,</p><p><br></p><p><span style=\"color: #222222;\">We received confirmation from the client that the above action items were completed. </span></p><p><br></p><p><span style=\"color: #222222;\">For the events,&nbsp;&nbsp;View Content, Add to Cart, and Complete Payment events were set up, and Initiate Checkout should be completed on Monday.&nbsp;</span></p><p><br></p><p><span style=\"color: #222222;\">Do you mind doing a QA of these events and the Auto Advanced Matching?</span></p><p><br></p><p><span style=\"color: #222222;\">Thank you!</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708704948,
+      "auto_close_hit": 0,
+      "id": 7338830584015356000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra, will do and get back to you soon.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709059913,
+      "auto_close_hit": 0,
+      "id": 7340355853800718000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi,</p><p><br></p><p>Do you know why the Wrangler pixel shows no pixel activity for ATC in the campaign set up but has activity in the events manager?</p><p><br></p><p>Screenshots attached!</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screen Shot 2024-02-27 at 12.50.04 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ffdbc6fa0c2146f7902deb257e52d5c7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=Zg2VlakF9wh5RMlePwyWznIZPfY%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/ffdbc6fa0c2146f7902deb257e52d5c7.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ffdbc6fa0c2146f7902deb257e52d5c7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=Zg2VlakF9wh5RMlePwyWznIZPfY%3D",
+              "biz_type": 2,
+              "size": 275379
+            },
+            {
+              "file_type": "png",
+              "file_name": "Screen Shot 2024-02-27 at 12.50.37 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d832e5772844e42b6163e41e60d971d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=D2KTX83xzsPqxbWILfgc5bGC5tk%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/7d832e5772844e42b6163e41e60d971d.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d832e5772844e42b6163e41e60d971d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=D2KTX83xzsPqxbWILfgc5bGC5tk%3D",
+              "biz_type": 2,
+              "size": 1499196
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709063049,
+      "auto_close_hit": 0,
+      "id": 7340369089052819000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra, </p><p><br /></p><p>The client has set up the AddToCart event as a custom event:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b56671f3bc1943b69dde2a95cd343e28.png\" height=\"177.714\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b56671f3bc1943b69dde2a95cd343e28.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832996&amp;x-signature=TGooQX05VaEXCMFa264WLVBNIng%3D\" width=\"375\"><p>Optimizing toward custom events is not supported. The client should fix this and set up AddToCart as a standard event per the guidelines <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en#:~:text=Event%20deduplication.-,Supported,-Standard%20Events\" target=\"_blank\">here</a>.</p><p><br /></p><p>I also see that where AddToCart fires, a ViewContent event also fires:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/678f96c6038a45b8bbea224e6cab53a8.png\" height=\"571.565\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/678f96c6038a45b8bbea224e6cab53a8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832996&amp;x-signature=aQm3C9Sz%2BpHYVicRHSOcXLaHuWs%3D\" width=\"375\"><p>They should change this so only the AddToCart event fires here, and not the ViewContent.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709234307,
+      "auto_close_hit": 0,
+      "id": 7341103734035874000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi, I got this response from the client, Can you advise?</p><p><span style=\"color: #222222;\">Hello,</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">Thanks for the information. We’ve reviewed the tag firing on our end.<br><br>When a user lands on a Product Detail Page, “view_content” fires. If the user chooses to add an item to cart by clicking on add to bag option, then “addtocart” event fires. Both the events fire on same page. This is the ideal way in which we have setup events to fire based on different triggers: “page load trigger” and “addToCart trigger”.</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">During QA, we’ve observed that the addtocart event is firing twice on website but we’re seeing it fire once on GTM. We think this is happening because of this script </span><span style=\"color: #1155CC;\"><u><a href=\"https://analytics.tiktok.com/i18n/pixel/static/main.MTNhZGZiOTRkMQ.js\" target=\"_blank noopener noreferrer\">https://analytics.tiktok.com/i18n/pixel/static/main.MTNhZGZiOTRkMQ.js</a></u></span><u> </u>which is trigged by the main TikTok event <span style=\"color: #1155CC;\"><a href=\"https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C40MBUPU9OSI9F1LM31G&amp;lib=ttq\" target=\"_blank noopener noreferrer\">https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C40MBUPU9OSI9F1LM31G&amp;lib=ttq</a></span><br><br>Can you please ask the TikTok team to review this?</p><p><br></p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">Please let us know if you have any questions. Happy to join a call.</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">Looking forward to hearing from you</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709566225,
+      "auto_close_hit": 0,
+      "id": 7342530742116794000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi,</p><p><br></p><p>I sent this over to the team and got the following note:</p><p><br></p><p><span style=\"color: #222222;\">. We’ve reviewed the tag firing on our end.<br><br>When a user lands on a Product Detail Page, “view_content” fires. If the user chooses to add an item to cart by clicking on add to bag option, then “addtocart” event fires. Both the events fire on same page. This is the ideal way in which we have setup events to fire based on different triggers: “page load trigger” and “addToCart trigger”.</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">During QA, we’ve observed that the addtocart event is firing twice on website but we’re seeing it fire once on GTM. We think this is happening because of this script </span><span style=\"color: #1155CC;\"><u><a href=\"https://analytics.tiktok.com/i18n/pixel/static/main.MTNhZGZiOTRkMQ.js\" target=\"_blank noopener noreferrer\">https://analytics.tiktok.com/i18n/pixel/static/main.MTNhZGZiOTRkMQ.js</a></u></span><u> </u>which is trigged by the main TikTok event <span style=\"color: #1155CC;\"><a href=\"https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C40MBUPU9OSI9F1LM31G&amp;lib=ttq\" target=\"_blank noopener noreferrer\">https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C40MBUPU9OSI9F1LM31G&amp;lib=ttq</a></span><br></p><p><br></p><p>If we remove the custom ATC event, would you expect to see it fire once on site via the pixel helper and once in GTM?</p><p><br></p><p>Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709761935,
+      "auto_close_hit": 0,
+      "id": 7343370516599767000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi,&nbsp;</p><p><br></p><p>Another note from the team:</p><p><br></p><p><span style=\"color: #222222;\">Do you have historical context on how/where the ATC event was placed on site? Asking because I wonder if the ATC event trigger was/is placed on the Add to Cart button on site <strong>and </strong>when the &#34;added to cart&#34; pop-up appears&nbsp;shortly&nbsp;after.&nbsp;</span></p><p><br></p><p>Can I set up a call with us + them next week?</p><p><br></p><p>Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709764288,
+      "auto_close_hit": 0,
+      "id": 7343380859128463000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra, </p><p><br /></p><p>You can send them a quick reply and let the know they were correct: The AddToCart event is firing 1) when I add an item to cart from the product detail page and 2) when the modal overlay loads. Please see screenshot where I have highlighted the 'referrer' page that illustrates the behavior:</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/25d3d677be3f44c89a2e65e5c2ee9832.png\" height=\"161.872\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/25d3d677be3f44c89a2e65e5c2ee9832.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832996&amp;x-signature=S%2FTT1rvFHsFDDi7QpCue1EjDrY0%3D\" width=\"375\"><p>and</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/797e6e8cb08440099f97d05982e9da0a.png\" height=\"178.15\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/797e6e8cb08440099f97d05982e9da0a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832996&amp;x-signature=ThfLskqQUKu09bbaxZCyY8i2Aos%3D\" width=\"375\"><p>would the client want to remove the ATC trigger from the modal overlay action?</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709828322,
+      "auto_close_hit": 0,
+      "id": 7343655760036970000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Heidi, sent this over to them! I&#39;ll keep you posted on setting up a call.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709915624,
+      "auto_close_hit": 0,
+      "id": 7344030464870597000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi, an update from the team:</p><p><span style=\"color: #222222;\">I’ve changed the trigger to fire on “ATC Button click”. I’m seeing it fire only once in GTM but in<strong> </strong>network<strong> </strong>tab/TikTok<strong> </strong>pixel<strong> </strong>helper, I can see it firing twice.<br><br>Based on the changes, I can confirm that<strong> ATC event is not triggered by the modal overlay</strong>.<br><br>The TikTok pixel code is internally firing additional event. There’s no duplication of ATC event happening in GTM. We can discuss more details in the call.<br><br>Please let me know if you have any questions.</span></p><p><br></p><p><span style=\"color: #222222;\">I&#39;ve scheduled the call as well for Monday, let me know if i need to update!</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710178538,
+      "auto_close_hit": 0,
+      "id": 7345159784569618000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra, the client is aware they have two AddToCart events enabled, right? </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3422c41bcb4243579bfafe15f1c024d1.png\" height=\"249.884\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3422c41bcb4243579bfafe15f1c024d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832996&amp;x-signature=EsqHQ%2FKOQpSDifCG3wveMfA5mfo%3D\" width=\"375\"><p>from <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C40MBUPU9OSI9F1LM31G?start_time=2024-03-05&amp;end_time=2024-03-11&amp;aadvid=6989292922701119489\" target=\"_blank\">TTEM</a>.</p><p><br /></p><p>Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710193421,
+      "auto_close_hit": 0,
+      "id": 7345223292095136000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>I have sent additional details via Lark in follow-up to our call.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1848006,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "heidi.williams@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Wrangler - Pixel Event Double Firing Issue",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710193420,
+  "owner_name": "Zahra Hemani",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7026323662681506818",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Zahra Hemani",
+  "follow_employee_id": 5710207,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 575575,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Wrangler - Pixel Event Double Firing Issue",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Wrangler",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6989292922701119489"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Zahra Hemani - CSM, Hannah Asaff - BPM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C40MBUPU9OSI9F1LM31G",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.wrangler.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-30",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "My client is seeing duplicate events firing. Are you able to instruct how to disable the events setup using the Events Builder?",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "image002 (3).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/306ecd4010884346820f0cacfaecd335.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=YBimLYatO7fwWzJ9Vv5BEp6QDws%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/306ecd4010884346820f0cacfaecd335.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/306ecd4010884346820f0cacfaecd335.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=YBimLYatO7fwWzJ9Vv5BEp6QDws%3D",
+          "size": 702473
+        },
+        {
+          "file_type": "pdf",
+          "file_name": "TikTok Pixel Event Builder Deletion Guide.pdf",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/osfTKLL60QGmtvARfMAAe8IHWqAxWjnGAAegDJ.pdf?lk3s=cbe26b3a&x-expires=4832832996&x-signature=%2BETr0Bn3Hm9fz1VGIccSdH2NrvE%3D",
+          "file_key": "tos-alisg-v-90231e-sg/osfTKLL60QGmtvARfMAAe8IHWqAxWjnGAAegDJ.pdf",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/osfTKLL60QGmtvARfMAAe8IHWqAxWjnGAAegDJ.pdf?lk3s=cbe26b3a&x-expires=4832832996&x-signature=%2BETr0Bn3Hm9fz1VGIccSdH2NrvE%3D",
+          "biz_type": 2,
+          "size": 168331
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-02-27 at 12.50.04 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ffdbc6fa0c2146f7902deb257e52d5c7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=Zg2VlakF9wh5RMlePwyWznIZPfY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ffdbc6fa0c2146f7902deb257e52d5c7.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ffdbc6fa0c2146f7902deb257e52d5c7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=Zg2VlakF9wh5RMlePwyWznIZPfY%3D",
+          "biz_type": 2,
+          "size": 275379
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-02-27 at 12.50.37 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d832e5772844e42b6163e41e60d971d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=D2KTX83xzsPqxbWILfgc5bGC5tk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7d832e5772844e42b6163e41e60d971d.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d832e5772844e42b6163e41e60d971d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=D2KTX83xzsPqxbWILfgc5bGC5tk%3D",
+          "biz_type": 2,
+          "size": 1499196
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/678f96c6038a45b8bbea224e6cab53a8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=aQm3C9Sz%2BpHYVicRHSOcXLaHuWs%3D",
+          "file_name": "file_20240318_13_36_36_430368",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/678f96c6038a45b8bbea224e6cab53a8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=aQm3C9Sz%2BpHYVicRHSOcXLaHuWs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/678f96c6038a45b8bbea224e6cab53a8.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b56671f3bc1943b69dde2a95cd343e28.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=TGooQX05VaEXCMFa264WLVBNIng%3D",
+          "file_name": "file_20240318_13_36_36_430468",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b56671f3bc1943b69dde2a95cd343e28.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=TGooQX05VaEXCMFa264WLVBNIng%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b56671f3bc1943b69dde2a95cd343e28.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/25d3d677be3f44c89a2e65e5c2ee9832.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=S%2FTT1rvFHsFDDi7QpCue1EjDrY0%3D",
+          "file_name": "file_20240318_13_36_36_574311",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/25d3d677be3f44c89a2e65e5c2ee9832.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=S%2FTT1rvFHsFDDi7QpCue1EjDrY0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/25d3d677be3f44c89a2e65e5c2ee9832.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/797e6e8cb08440099f97d05982e9da0a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=ThfLskqQUKu09bbaxZCyY8i2Aos%3D",
+          "file_name": "file_20240318_13_36_36_574385",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/797e6e8cb08440099f97d05982e9da0a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=ThfLskqQUKu09bbaxZCyY8i2Aos%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/797e6e8cb08440099f97d05982e9da0a.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3422c41bcb4243579bfafe15f1c024d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=EsqHQ%2FKOQpSDifCG3wveMfA5mfo%3D",
+          "file_name": "file_20240318_13_36_36_672609",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3422c41bcb4243579bfafe15f1c024d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832996&x-signature=EsqHQ%2FKOQpSDifCG3wveMfA5mfo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/3422c41bcb4243579bfafe15f1c024d1.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

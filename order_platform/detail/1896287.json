@@ -1,0 +1,835 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354674",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Thomas Mei",
+  "create_time": 1708706198,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1708709309,
+      "auto_close_hit": 0,
+      "id": 7338849444240163000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "raquel.alexandria@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Raquel Alexandria",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7259450174836950017",
+      "name": "Raquel Alexandria",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Client confirmed they&#39;re using Google Tag Manager</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_71aff97e-3eb1-4f31-99b1-e9cc0508f67h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708721241,
+      "auto_close_hit": 0,
+      "id": 7338900403653837000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi looking into this</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708965350,
+      "auto_close_hit": 0,
+      "id": 7339949713233379000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Raquel,</p><p>I found some AddToCart signal in backend database being trigger on <a href=\"https://us.bic.com/en_us/checkout/cart/\" target=\"_blank\">https://us.bic.com/en_us/checkout/cart/</a></p><p>These signals are  missing content_id. Please ask user to double check their implementation to stop sending these AddTocart on checkout page.</p><p>Apart from this:</p><ul><li>They are <strong>not sending content_type, value and currency </strong>in AddToCart. Please ask them to fix it.</li></ul><p><br /></p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f17f65cd3951455da376217239378301.png\" height=\"249.734\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f17f65cd3951455da376217239378301.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838233&amp;x-signature=ye9Tf88SPnT0Ui0K7ymEuaciauw%3D\" width=\"375\"><p><br /></p><ul><li>They are also not sending <strong>content_type</strong> in CompletePayment </li><li>Ask them to send ViewContent on every product page with  <strong>content_id</strong>, <strong>content_type, value and currency parameter.</strong></li><li>They are <strong>not sending PIIs (email/phone) </strong>which is critical for ad performance<strong>.</strong></li><li>Pixel dev doc (refer Parameter section): <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585702922241\" target=\"_blank\">https://business-api.tiktok.com/portal/docs?id=1739585702922241</a></li><li>Ask them if they are willing to implement<strong> Events API, </strong>which can greatly improve signal coverage and ad performance</li></ul><p><br /></p><p>If possible, <strong>schedule a call</strong> with me and I can walk them through everything in that call.</p><p><br /></p><p>Use this link to schedule meeting on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708966253,
+      "auto_close_hit": 0,
+      "id": 7339953468259516000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "raquel.alexandria@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Raquel Alexandria",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7259450174836950017",
+      "name": "Raquel Alexandria",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey thanks for this! For this :We are <strong>not sending PIIs (email/phone) </strong>which are critical for ad performance<strong>. Are you talking about auto advanced matching that they have to enable under settings?</strong></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_71aff97e-3eb1-4f31-99b1-e9cc0508f67h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708976456,
+      "auto_close_hit": 0,
+      "id": 7339996917515977000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>No, I'm talking about manually sending PIIs with signal.  Auto adv matching alone is not good enough.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0cb23b3b07274ba7a6ed49a93e650dcf.png\" height=\"185.011\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cb23b3b07274ba7a6ed49a93e650dcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838234&amp;x-signature=S9i2nDF2MHWenr%2B1%2B9Rk7g%2BYoio%3D\" width=\"375\"><p>PIIs can be sent manually by following this doc: </p><p>https://business-api.tiktok.com/portal/docs?id=1739585700402178</p><p><br /></p><p>We can have a call with them if they need help</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708980860,
+      "auto_close_hit": 0,
+      "id": 7340015419408843000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "raquel.alexandria@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Raquel Alexandria",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7259450174836950017",
+      "name": "Raquel Alexandria",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Saurabh. Noted on this. I&#39;ve let them know.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_71aff97e-3eb1-4f31-99b1-e9cc0508f67h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709055014,
+      "auto_close_hit": 0,
+      "id": 7340334760415281000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "raquel.alexandria@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Raquel Alexandria",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7259450174836950017",
+      "name": "Raquel Alexandria",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>update from client:&nbsp;<span style=\"color: #1F2329;\">We flagged the same concerns to the client&#39;s dev team and they confirmed the parameters listed have been added. We also checked using the TikTok Pixel Helper tool and see that the parameters are being&nbsp;captured:&nbsp;<br><br></span><br></p><p><span style=\"color: #1F2329;\">However, when looking at the Events manager, the platform is flagging that this isn&#39;t being received. <strong><em>Would you know possible reasons why that is?&nbsp;<br><br></em></strong>The client&nbsp;opted not to set up View Content parameters as of now, which is why those are blank. And regarding&nbsp;PIIs (email/phone) details, <em>could you also explain further how these are critical for ad performance</em>? As per the dev team, they would need to rewrite certain parts of the code to apply this change and would like to know more about how this will impact ad performance.&nbsp;</span></p><p><span style=\"color: #1F2329;\">Given how complex the set-up is, would it be possible to set-up a quick call to go over all our questions?&nbsp;</span></p><p><br></p><p><br></p><p><span style=\"color: #1F2329;\">Getting some avails so we can get onto a call</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_71aff97e-3eb1-4f31-99b1-e9cc0508f67h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709061155,
+      "auto_close_hit": 0,
+      "id": 7340351923075170000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>This is how user email/phone is used for adv matching:<a target=\"_blank\" href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\">&nbsp;https://business-api.tiktok.com/portal/docs?id=1739585700402178</a><br><br></p><p>Use this link to put a block on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709260903,
+      "auto_close_hit": 0,
+      "id": 7341219002787611000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi just following up, can you schedule the call the with client ?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709327488,
+      "auto_close_hit": 0,
+      "id": 7341503454705140000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "raquel.alexandria@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Raquel Alexandria",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7259450174836950017",
+      "name": "Raquel Alexandria",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi yes the client has just come back with some avails:</p><p><br></p><ul><li><span style=\"color: #1F2329;\">3/5: 10 – 10:30 AM EST</span></li><li><span style=\"color: #1F2329;\">3/5: 9:30 – 10:30 AM EST</span></li><li><span style=\"color: #1F2329;\">3/7: 10:30 – 11 AM EST</span></li></ul><p><br></p><p>However im asking for the 4th or the following week as these timings do not work for our pod</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_71aff97e-3eb1-4f31-99b1-e9cc0508f67h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709595018,
+      "auto_close_hit": 0,
+      "id": 7342652431118975000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<ul><li><span style=\"color: #1F2329;\"><strong>3/7: 10:30 – 11 AM EST works&nbsp;</strong></span></li></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709667676,
+      "auto_close_hit": 0,
+      "id": 7342965863374488000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "raquel.alexandria@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Raquel Alexandria",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7259450174836950017",
+      "name": "Raquel Alexandria",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Waiting for the final confirmation from client and will get back to you for the call</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_71aff97e-3eb1-4f31-99b1-e9cc0508f67h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710356914,
+      "auto_close_hit": 0,
+      "id": 7345925344353976000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Raquel,</p><p><br></p><p>I&#39;ll be covering for SAurabh on this ticket. If the client needs any additional assistance here, please let me know.&nbsp;</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710363358,
+      "auto_close_hit": 0,
+      "id": 7345953960567751000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "raquel.alexandria@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Raquel Alexandria",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7259450174836950017",
+      "name": "Raquel Alexandria",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Thomas,</p><p><br></p><p>Client has set up a meeting for 9am CST on the 19th. I&#39;ll ask them to switch the invite to you. Let me know if you need more context. I&#39;ll also loop you onto the thread so you can take alook. their developer team is in france so this is the best time to connect and they will be able to help to check the code etc.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_71aff97e-3eb1-4f31-99b1-e9cc0508f67h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1896287,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "thomas.mei@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "BIC- Parameters are there but there is an error",
+  "category_1_name": "Basic",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_71aff97e-3eb1-4f31-99b1-e9cc0508f67h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1710363358,
+  "owner_name": "Raquel Alexandria",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Basic",
+  "archive_category_1": "1736497459354674",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7259450174836950017",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Raquel Alexandria",
+  "follow_employee_id": 2819808,
+  "is_order_top": 0,
+  "urged": 1,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 417320,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "BIC- Parameters are there but there is an error",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": [
+        "Shopify",
+        "Unsure (Do Not Know)"
+      ],
+      "valid": true,
+      "key": [
+        "Shopify",
+        "Unsure (Do Not Know)"
+      ],
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "BIC",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Ecommerce",
+      "valid": true,
+      "key": "Ecommerce",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7017821445518589954"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Raquel",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C5SLJDS247CAE4T428H0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "us.bic.com"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-23",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hi Team,\n\nRegarding the \"BIC All Brands TT\" pixel, we are seeing the following events have a warning symbol suggesting the Content ID parameter is missing from them:\nInitiate Checkout\nAdd to Cart\nWhen we review the pixel using the TikTok pixel helper we can see that Content ID is attached (See pic below). Are you able to provide any insight as to why this is happening?",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f17f65cd3951455da376217239378301.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838233&x-signature=ye9Tf88SPnT0Ui0K7ymEuaciauw%3D",
+          "file_name": "file_20240318_15_03_54_040368",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f17f65cd3951455da376217239378301.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838233&x-signature=ye9Tf88SPnT0Ui0K7ymEuaciauw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f17f65cd3951455da376217239378301.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cb23b3b07274ba7a6ed49a93e650dcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838234&x-signature=S9i2nDF2MHWenr%2B1%2B9Rk7g%2BYoio%3D",
+          "file_name": "file_20240318_15_03_54_109497",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cb23b3b07274ba7a6ed49a93e650dcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838234&x-signature=S9i2nDF2MHWenr%2B1%2B9Rk7g%2BYoio%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0cb23b3b07274ba7a6ed49a93e650dcf.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Basic"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

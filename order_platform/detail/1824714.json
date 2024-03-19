@@ -1,0 +1,363 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497211543601",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_30b679a0-acc5-4618-9fb0-102c3ba4601g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "方宇",
+  "create_time": 1705647418,
+  "deadline": 0,
+  "archive_board_id": 1705151646989665,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1705885649,
+      "auto_close_hit": 0,
+      "id": 7326721225252815000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "ruby.ko@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "고은비",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7257022790388384770",
+      "name": "고은비",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hello :) Can I get an update? it is urgent matter.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_892c09a2-925d-49fc-ad81-179f50b711hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705902300,
+      "auto_close_hit": 0,
+      "id": 7326793164218499000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Unfortunately, we do not assist with this kind of matters. As you might have spoken to Burcu already, please speak to the TPS team for assistance.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705972069,
+      "auto_close_hit": 0,
+      "id": 7327091628814942000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "ruby.ko@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "고은비",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7257022790388384770",
+      "name": "고은비",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>안녕하세요, 찬님 :)</p><p>이전 보고드린 <span style=\"color: #333333;\">TikTok cost API </span>건 관련하여 app measurement/signal 이슈로 보고있어, </p><p>MPO 측에 문의하라는 회신 받았는데 한번 더 확인주실 수 있으실까요? </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f63f14b8792a446aaafe0a4ddf506071.png\" height=\"111.145\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f63f14b8792a446aaafe0a4ddf506071.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833352&amp;x-signature=xSscu8oaVbr%2B49DRU6%2BuvB7Bxhg%3D\" width=\"375\"><p>감사합니다.</p><p>고은비 드림</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_892c09a2-925d-49fc-ad81-179f50b711hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1824714,
+  "workflow_nodes": [],
+  "board_id": 1705151646989665,
+  "employee_email": "fangyu.k@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "[TikTok cost API] TikTok cost API is not giving the data properly to Airbridge.",
+  "category_1_name": "Mobile Marketing Partner (MMP)",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 3,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0092_b62558cb-94c4-4eaa-a51d-f30308f570hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1705974650,
+  "owner_name": "고은비",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Mobile Marketing Partner (MMP)",
+  "archive_category_1": "1736497211543601",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497211543601",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [],
+      "value": "Mobile Marketing Partner (MMP)"
+    }
+  ],
+  "core_user_id": "7257022790388384770",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "고은비",
+  "follow_employee_id": 5276013,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 4794703,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "[TikTok cost API] TikTok cost API is not giving the data properly to Airbridge.",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Healingpaper",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "SEA-KR",
+      "valid": true,
+      "key": "SEA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7057318996181270529"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "@Hanbeom Park",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "ID1035105027",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://apps.apple.com/kr/app/%EA%B0%95%EB%82%A8%EC%96%B8%EB%8B%88-1%EB%93%B1-%ED%94%BC%EB%B6%80-%EC%8B%9C%EC%88%A0-%EC%84%B1%ED%98%95-%EC%88%98%EC%88%A0-%EB%B7%B0%ED%8B%B0-%EC%95%B1/id1035105027"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Mobile Measurement Partner (MMP)",
+      "valid": true,
+      "key": "Mobile Measurement Partner (MMP)",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-01",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "I should report that TikTok cost API is not giving the cost, click, impression data properly for some of Healingpaper’s TikTok campaign.\n\nThey first figured out the issue in airbridge that the cost, click, impression # is smaller than the same campaign’s result that they are seeing in TikTok ad platform. \nAnd they asked us to backfill those data so we’ve looked into if we can backfill those data, but couldn’t because Tiktok API is actually not delivering those data for the dates with issue until now.\n\nSince the client is seeing this issue critical to analyze their ad performance, please check this with priority.\nActually the client asked us the ETA of this issue to be fixed but it seems to be difficult to tell them the ETA right now. \n",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f63f14b8792a446aaafe0a4ddf506071.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833352&x-signature=xSscu8oaVbr%2B49DRU6%2BuvB7Bxhg%3D",
+          "file_name": "file_20240318_13_42_32_942858",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f63f14b8792a446aaafe0a4ddf506071.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833352&x-signature=xSscu8oaVbr%2B49DRU6%2BuvB7Bxhg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f63f14b8792a446aaafe0a4ddf506071.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Mobile Measurement Partner (MMP)-Mobile Marketing Partner (MMP)"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

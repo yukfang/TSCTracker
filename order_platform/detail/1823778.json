@@ -1,0 +1,656 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497066245137",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Armando Carmona Blanco",
+  "create_time": 1705605877,
+  "deadline": 0,
+  "archive_board_id": 1705151646989663,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1705949287,
+      "auto_close_hit": 0,
+      "id": 7326995629815742000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "emily.allen@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Emily Allen",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7142785252481532930",
+      "name": "Emily Allen",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Friends! Just following up here :)</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_67e8eea7-2229-4e85-9df2-77a4088b035h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705950640,
+      "auto_close_hit": 0,
+      "id": 7327000466502599000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Emily Allen",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7142785252481533000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Emily,</p><p>Confirming receipt of your ticket.&nbsp;</p><ul><li><a target=\"_blank\" href=\"https://ads.tiktok.com/help/article/partner-integrations-for-web-tracking#anchor-2\">What platform </a>will they be using for API integration?</li><li>Are they looking to setup browser and server events side-by-side?</li></ul><p><span style=\"color: #333333;\"> Please </span><a target=\"_blank\" href=\"https://bytedance.larkoffice.com/scheduler/73e856441d0bf383\">use my link</a><span style=\"color: #333333;\"> to schedule the call (not to be shared with advertiser), it has my most updated availability.</span></p><p><span style=\"color: #333333;\">Reach out with any other questions.</span></p><p><span style=\"color: #333333;\">Best,</span><br><span style=\"color: #333333;\">Armando</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706222046,
+      "auto_close_hit": 0,
+      "id": 7328167159455154000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Emily Allen",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7142785252481533000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Emily,</p><p>Following up from our call today.</p><p>I confirmed with Cooper during the call their API issue was resolved prior to the call. The one other outstanding item was regarding the dynamic UTM parameters.</p><p>According to this&nbsp;<span style=\"color: #333333;\"><a target=\"_blank\" href=\"https://bytedance.sg.larkoffice.com/docs/doccnTLhJ9iLFgLDnwbbkY2jLXd\">this internal document</a>, below are the macros that will yield the information they are interested in. Please forward this information to Cooper.</span></p><p><span style=\"color: #333333;\">We can also share this <a target=\"_blank\" href=\"https://ads.tiktok.com/help/preview?content_id=3Gfz8OwV9SCHZvOnvYeWZN&amp;lang=en#anchor-0\">customer-facing document</a> with the advertiser so they can have it as reference.</span></p><p><span style=\"color: #333333;\">I will close this ticket for now since we have already had the call with the advertiser.</span></p><p><span style=\"color: #333333;\">Best,</span><br><span style=\"color: #333333;\">Armando</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706222167,
+      "auto_close_hit": 0,
+      "id": 7328167273909223000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Conclusion]&nbsp;</strong><br>Advertiser had questions regarding the use of dynamic parameters/macros to pass campaign information for their tracking tool. Answered questions about custom events. Provided link to resources.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706488487,
+      "auto_close_hit": 0,
+      "id": 7329306740061651000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "emily.allen@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Emily Allen",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7142785252481532930",
+      "name": "Emily Allen",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Armando, looks like that internal document was deleted. Do you mind resending?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_67e8eea7-2229-4e85-9df2-77a4088b035h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706546458,
+      "auto_close_hit": 0,
+      "id": 7329560751990014000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Emily,</p><p>It looks like that document was indeed, deleted....??</p><p>Good thing is the customer-facing document I linked has now been fixed and it is the exact same information as the document that was deleted. Please use that link.</p><p>Best,<br>Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706557517,
+      "auto_close_hit": 0,
+      "id": 7329607118166786000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "emily.allen@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Emily Allen",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7142785252481532930",
+      "name": "Emily Allen",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Armando, </p><p>They set up their pixel and added some custom events. \"SF AUTO\", \"SF BUSINESS\" etc.</p><p>However when they go to create a campaign and select their pixel none of the events show up. Wondering if you can help us troubleshoot this?</p><img alt=\"image (14).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0d80509da5ab408e925c09283205ea8c.png\" height=\"285.714\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d80509da5ab408e925c09283205ea8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833346&amp;x-signature=UGzVF3XhcDtw9DOAXaT73fxIH8k%3D\" width=\"375\"><img alt=\"image (13).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6b63e5b450d749e389f768ea08a5d0f1.png\" height=\"170.682\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b63e5b450d749e389f768ea08a5d0f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833346&amp;x-signature=RRbvCSkvj6OBGaPJZ5kzJSvkkpI%3D\" width=\"375\" /></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_67e8eea7-2229-4e85-9df2-77a4088b035h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706568075,
+      "auto_close_hit": 0,
+      "id": 7329652156297003000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Emily,</p><p>The reason why \"SF AUTO\" and \"SF BUSINESS\" do not appear in the dropdown is because those are considered custom events (<a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-1\" target=\"_blank\">any event not listed here is custom</a>) and those are not available for optimization at this time. This is not a bug, so there is nothing to troubleshoot. Please refer to the <strong><a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en\" target=\"_blank\">Standard and Custom Events </a></strong>section of this article.</p><img alt=\"Screenshot 2024-01-29 at 2.35.04 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/abd9914bb3334d42868ff612f803cd0c.png\" height=\"89.134\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abd9914bb3334d42868ff612f803cd0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833346&amp;x-signature=uDkMtLkVEfq6lEXAQCt0%2FrDUDt4%3D\" width=\"375\"><p>My recommendation to the team during the call, as a workaround to this platform limitation, was to implement 2 events, their custom event, i.e. SfAuto, SfBusiness along with the SubmitForm event as the overarching event. With this approach, they will be able to measure each individual custom event, create audiences based off those custom events, but use the SubmitForm event as the optimization event.</p><p>Let me know if there are any other questions on the above.</p><p>Best,<br>Armando</br></p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706568767,
+      "auto_close_hit": 0,
+      "id": 7329655890657722000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "emily.allen@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Emily Allen",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7142785252481532930",
+      "name": "Emily Allen",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you armando!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_67e8eea7-2229-4e85-9df2-77a4088b035h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706665848,
+      "auto_close_hit": 0,
+      "id": 7330073303018652000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Conclusion]&nbsp;</strong><br>Advertiser wanted to know how to implement an event funnel reflecting their business events. Recommendations provided.&nbsp;</p><hr><p><span style=\"color: #F04142;\"><strong>Feature Request </strong></span>- custom event optimization</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1823778,
+  "workflow_nodes": [],
+  "board_id": 1705151646989663,
+  "employee_email": "armando.carmona@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "SmartFinancial ",
+  "category_1_name": "Events API - Web",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_67e8eea7-2229-4e85-9df2-77a4088b035h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1706665856,
+  "owner_name": "Emily Allen",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - Web",
+  "archive_category_1": "1736497066245137",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497066245137",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882593",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882609",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883585",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883601",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400130",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400146",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400162",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400178",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401154",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401170",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401186",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401202",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548708426753",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - Web"
+    }
+  ],
+  "core_user_id": "7142785252481532930",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Emily Allen",
+  "follow_employee_id": 1807296,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 4103491,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "SmartFinancial ",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "SmartFinancial",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Finance",
+      "valid": true,
+      "key": "Finance",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7270219728310845442"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Emily Allen - BPM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "7267976629832499201",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CM6U3D3C77U3QO2486D0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://smartfinancial.com/get-fast-quote-commercial.html#/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-18",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "No",
+      "valid": true,
+      "key": "No",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "They need a call to help set up Events API",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b63e5b450d749e389f768ea08a5d0f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833346&x-signature=RRbvCSkvj6OBGaPJZ5kzJSvkkpI%3D",
+          "file_name": "file_20240318_13_42_26_911616",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b63e5b450d749e389f768ea08a5d0f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833346&x-signature=RRbvCSkvj6OBGaPJZ5kzJSvkkpI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6b63e5b450d749e389f768ea08a5d0f1.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d80509da5ab408e925c09283205ea8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833346&x-signature=UGzVF3XhcDtw9DOAXaT73fxIH8k%3D",
+          "file_name": "file_20240318_13_42_26_911699",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d80509da5ab408e925c09283205ea8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833346&x-signature=UGzVF3XhcDtw9DOAXaT73fxIH8k%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0d80509da5ab408e925c09283205ea8c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abd9914bb3334d42868ff612f803cd0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833346&x-signature=uDkMtLkVEfq6lEXAQCt0%2FrDUDt4%3D",
+          "file_name": "file_20240318_13_42_26_953982",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abd9914bb3334d42868ff612f803cd0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833346&x-signature=uDkMtLkVEfq6lEXAQCt0%2FrDUDt4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/abd9914bb3334d42868ff612f803cd0c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - Web-Events API - Web"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

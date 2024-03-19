@@ -1,0 +1,287 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1782786995587105",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_0e4d8cd0-f72a-4f45-ad54-38f000ec363h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Jacob Lima",
+  "create_time": 1707414745,
+  "deadline": 0,
+  "archive_board_id": 1705151646989732,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707416824,
+      "auto_close_hit": 0,
+      "id": 7333297970382701000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Jared Gaon",
+      "editable": 0,
+      "reply_email": "jacob.lima@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Jacob Lima",
+      "reply_to_user_id": 6974753217855997000,
+      "is_hide_name": false,
+      "core_user_id": "7177394617766544386",
+      "name": "Jacob Lima",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Jared,</p><p><br></p><p>You can select &#34;Self-operated host&#34; or &#34;Others&#34; if you want since the host has GBS representation. Here is a guide for how to request access:&nbsp;https://bytedance.sg.larkoffice.com/docx/VxMZdApR3oEgiNxRrDKle3T3gWh</p><p><br></p><p>Thanks!<br>Jacob Lima</p><p>MPO LIVE</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_0e4d8cd0-f72a-4f45-ad54-38f000ec363h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707418609,
+      "auto_close_hit": 0,
+      "id": 7333304263914979000,
+      "reply_role": null,
+      "staff_id": 9910701,
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jared.gaon@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user1481324418678",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6985063581268247554",
+      "name": "Jared Gaon",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Jacob! Also, they didn&#39;t specifically specify which application they would be using to run the live stream but i assume OBS approval would suffice as this covers a few different apps?&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0052_014585a5-f054-4155-aaff-f79df178e88h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707419621,
+      "auto_close_hit": 0,
+      "id": 7333310764968690000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Jared Gaon",
+      "editable": 0,
+      "reply_email": "jacob.lima@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Jacob Lima",
+      "reply_to_user_id": 6974753217855997000,
+      "is_hide_name": false,
+      "core_user_id": "7177394617766544386",
+      "name": "Jacob Lima",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Jared,</p><p><br></p><p>OBS access will work for any RTMP streaming software and RTMP is the standard for livestreaming so yes you are correct, it will work with a ton of different applications.</p><p><br></p><p>Thanks,</p><p>Jacob Lima</p><p>MPO LIVE</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_0e4d8cd0-f72a-4f45-ad54-38f000ec363h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1865792,
+  "workflow_nodes": [],
+  "board_id": 1705151646989732,
+  "employee_email": "jacob.lima@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Question on OBS access form",
+  "category_1_name": "Livestream - Ask a Question",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0052_014585a5-f054-4155-aaff-f79df178e88h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1707419691,
+  "owner_name": "Jared Gaon",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Livestream - Ask a Question",
+  "archive_category_1": "1782786995587105",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600019392513",
+      "cate_1_form_id": 1754543111783458,
+      "sub_cates": [],
+      "value": "Livestream Consultation"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1782786995587105",
+      "cate_1_form_id": 1782788250818562,
+      "sub_cates": [],
+      "value": "Livestream - Ask a Question"
+    }
+  ],
+  "core_user_id": "6974753217855996929",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Jared Gaon",
+  "follow_employee_id": 5505862,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 3354148,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "<p spellcheck=\"true\">MPO LIVE helps advertisers go live on TikTok. Use this form to submit a general question to the MPO LIVE team regarding live streaming on TikTok. This form is not for troubleshooting and bugs. For troubleshooting and bugs please use: Athena &gt; TikTok Internal Tickets &gt; Branding solutions &gt; Livestream Traffic Solutions. ///Link to Athena Internal Tickets: https://vcp.to/atint</p>",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788572065825,
+      "type": 12,
+      "option_meaning": -1
+    },
+    {
+      "label": "Question title",
+      "content": "Question on OBS access form",
+      "valid": true,
+      "item_id": 1782788250818578,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1782788281423874,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Client Name",
+      "content": "Michael Kors",
+      "valid": true,
+      "item_id": 1782788281425938,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788344073218,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": [
+        "6893232176939139074"
+      ],
+      "valid": true,
+      "item_id": 1782788344073234,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "UID of the TikTok account",
+      "content": [
+        "6859778512657875973"
+      ],
+      "valid": true,
+      "item_id": 1782788344073250,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Handle of the TikTok account",
+      "content": [
+        "@MichaelKors"
+      ],
+      "valid": true,
+      "item_id": 1782788344073266,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Question text",
+      "content": "MIchael Kors is working with a 3P (B Live) to run their livestream on 2/13. When submitting for OBS access, should i select Self Operated Host or Agency Host? ",
+      "valid": true,
+      "item_id": 1782788344074242,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "File or screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-08 at 12.49.15 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/66b5825938694e92a44a44c34560d196.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837839&x-signature=Rp99CHI5SGtTD0cvCnMhh5xi4EM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/66b5825938694e92a44a44c34560d196.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/66b5825938694e92a44a44c34560d196.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837839&x-signature=Rp99CHI5SGtTD0cvCnMhh5xi4EM%3D",
+          "size": 791513
+        }
+      ],
+      "valid": true,
+      "item_id": 1782788344074258,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Tiktok Livestream Consultation-Livestream - Ask a Question"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

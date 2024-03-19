@@ -1,0 +1,350 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497211543601",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Saurabh Choudhary",
+  "create_time": 1709052246,
+  "deadline": 0,
+  "archive_board_id": 1705151646989665,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709224219,
+      "auto_close_hit": 0,
+      "id": 7341061882167575000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Christopher,</p><p>Following Apps have no tracking setup:</p><p><span style=\"color: #666666;\">ID : com.golfnow.compete</span></p><p><span style=\"color: #666666;\">ID: 1451640918</span></p><p><span style=\"color: #666666;\">Please ask user to configure it properly, there is no app tracking set up for these.</span></p><p><span style=\"color: #666666;\">If they are new apps, they can create a new SAN app integration. https://ads.tiktok.com/help/article/integrate-to-san-for-new-apps</span></p><p><br /></p><p><span style=\"color: #666666;\">For </span><span style=\"color: #333333;\">Android: Golf Tee Times</span></p><p><span style=\"color: #666666;\">ID: com.golfnow.android.teetimes</span></p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png\" height=\"49.923\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838290&amp;x-signature=MX49g5nfZ1VHRmw7hdKZqZmiQiw%3D\" width=\"375\"><p>This App is ready for transition, just wait for few more days (until next Monday) for the transition to be complete.</p><p><br /></p><p>For : Ios App - <span style=\"color: #333333;\">Book TeeTimes Golf GPS</span></p><p><span style=\"color: #333333;\">I</span><span style=\"color: #666666;\">D: 411930498</span></p><p><span style=\"color: #666666;\">User has not completed the set up</span></p><p>Please ask user to complete set up  <em>Doc</em>: https://support.kochava.com/campaign-management/create-a-tiktok-for-business-campaign/?scrollto=marker_9</p><p> and send screenshot of integration settings</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png\" height=\"75.348\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838290&amp;x-signature=v5kD3NYAsbrw6%2FWrQi2WpNKeuMY%3D\" width=\"375\" /></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709847699,
+      "auto_close_hit": 0,
+      "id": 7343729703091487000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>just following up if more assistance is needed</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1903544,
+  "workflow_nodes": [],
+  "board_id": 1705151646989665,
+  "employee_email": "saurabh.choudhary@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Confirm Sports Next apps ready for SAN Migration",
+  "category_1_name": "Mobile Marketing Partner (MMP)",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_aca96cf1-ceb3-49f0-826b-a3dce559914h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1709847699,
+  "owner_name": "Christopher Jonathan Kawesa",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Mobile Marketing Partner (MMP)",
+  "archive_category_1": "1736497211543601",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497211543601",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [],
+      "value": "Mobile Marketing Partner (MMP)"
+    }
+  ],
+  "core_user_id": "7104589373450568705",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Christopher Kawesa",
+  "follow_employee_id": 2208735,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 926591,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Confirm Sports Next apps ready for SAN Migration",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "NBC Sports Next - Golf Now",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Entertainment",
+      "valid": true,
+      "key": "Entertainment",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7128377804156059649"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Chris Kawesa (CSM), Remi Kohno (CST), Cynthia Hartzell (BPM), Kelly Calabrese (Team Lead) ",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "7109862560299614209",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CBMM1B3C77UESBO96220",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.golfnow.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Mobile Measurement Partner (MMP)",
+      "valid": true,
+      "key": "Mobile Measurement Partner (MMP)",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-27",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Client says they've completed steps for SAN Migration via Kochava MMP. Can double-check setup for the following GolfNow apps? \n\n\nNBC Golf Now | iOS App\n- Name: GolfNow Book TeeTimes Golf GPS\n- iOS App ID: 411930498\n- TikTok App ID: 7128386185222766594\n\nNBC Golf Now | Android App\n- Name: GolfNow Tee Times\n- Android App ID: com.golfnow.android.teetimes\n- TikTok App ID: 7128408809768370177\n\n--------------------------------------------------------\n\nNBC Golf Now Compete | iOS App\n- Name: GolfNow Compete\n- iOS App ID: 1451640918\n- TikTok App ID: TBD\n\nNBC Golf Now Compete | Android App\n- Name: GolfNow Compete\n- Android App ID: com.golfnow.compete\n- TikTok App ID: TBD",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-27 at 8.43.30 AM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/357e8b1a4b4a4fd98031ca65803fcd2e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838290&x-signature=dRTWbmfLay1EDw13Cf3k6LPLhSQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/357e8b1a4b4a4fd98031ca65803fcd2e.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/357e8b1a4b4a4fd98031ca65803fcd2e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838290&x-signature=dRTWbmfLay1EDw13Cf3k6LPLhSQ%3D",
+          "size": 87589
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838290&x-signature=MX49g5nfZ1VHRmw7hdKZqZmiQiw%3D",
+          "file_name": "file_20240318_15_04_50_567170",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838290&x-signature=MX49g5nfZ1VHRmw7hdKZqZmiQiw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838290&x-signature=v5kD3NYAsbrw6%2FWrQi2WpNKeuMY%3D",
+          "file_name": "file_20240318_15_04_50_567265",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838290&x-signature=v5kD3NYAsbrw6%2FWrQi2WpNKeuMY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Mobile Measurement Partner (MMP)-Mobile Marketing Partner (MMP)"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

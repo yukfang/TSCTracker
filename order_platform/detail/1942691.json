@@ -1,0 +1,334 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1791202334548993",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_89b456bd-831d-4c73-9de2-3e5cbaf2fdhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Miguel Fernández",
+  "create_time": 1710424646,
+  "deadline": 0,
+  "archive_board_id": 1705151646989842,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710507865,
+      "auto_close_hit": 0,
+      "id": 7346574641479156000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Miguel Fernández",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7178708618031023106",
+      "name": "Miguel Fernández",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Oscar,<br><br>I&#39;ve just created a Lark thread to discuss this ticket.<br><br>Thanks,</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_89b456bd-831d-4c73-9de2-3e5cbaf2fdhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1942691,
+  "workflow_nodes": [],
+  "board_id": 1705151646989842,
+  "employee_email": "miguel.suarez@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Futureplay - SKAN 4.0 Schema",
+  "category_1_name": "iOS SKAN Audit",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_005q_a5868e97-11ab-47e8-b67c-d38137692fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710507864,
+  "owner_name": "Oscar Engvall",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "iOS SKAN Audit",
+  "archive_category_1": "1791202334548993",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1791202334548993",
+      "cate_1_form_id": 1791205071838209,
+      "sub_cates": [],
+      "value": "iOS SKAN Audit"
+    }
+  ],
+  "core_user_id": "7033633722156401666",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Oscar Engvall",
+  "follow_employee_id": 7158055,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 266791,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "",
+      "content": "Futureplay - SKAN 4.0 Schema",
+      "valid": true,
+      "item_id": 1791205071838225,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Futureplay",
+      "valid": true,
+      "item_id": 1791205071838241,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Gaming",
+      "valid": true,
+      "key": "Gaming",
+      "item_id": 1791205071838257,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1791205260785714,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-SE",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1791205328494657,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1791205337175074,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": "7268196329912893441",
+      "valid": true,
+      "item_id": 1791205337177090,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P0",
+      "valid": true,
+      "key": "P0",
+      "item_id": 1791205337177106,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "iOS Mobile App ID",
+      "content": "1464675244",
+      "valid": true,
+      "item_id": 1791205752022065,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Android Mobile App ID (if available)",
+      "content": "com.futureplay.mergematch",
+      "valid": true,
+      "item_id": 1791205752023041,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "SKAN Version",
+      "content": "Currently on 4.0",
+      "valid": true,
+      "key": "Currently on 4.0",
+      "item_id": 1791205752023057,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Client MMP",
+      "content": "Appsflyer",
+      "valid": true,
+      "key": "Appsflyer",
+      "item_id": 1791205757763634,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason of request",
+      "content": "Campaign started, but inaccurate data postback",
+      "valid": true,
+      "key": "Campaign started, but inaccurate data postback",
+      "item_id": 1791205889917953,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue model",
+      "content": "IAP",
+      "valid": true,
+      "key": "IAP",
+      "item_id": 1791205889918977,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Describe the current problem in details (excluding sanity check requests)",
+      "content": "Hi!\n\nOur client has a issue that our client is having to high values in Window 2 and 3. We get 49.99+9999.99 divided by 2 so like 5K per af_purchase. It can be a purchase that is 49.99, or a in this case a 9000 dollar purchase, unfortunately we won’t know which causes the performance not to reflect the reality. ",
+      "valid": true,
+      "item_id": 1791205970506753,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Enter the campaign or ad group ID  (excluding sanity check requests)",
+      "content": "",
+      "valid": true,
+      "item_id": 1791205970506769,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Describe the desired future state in details (excluding sanity check requests)",
+      "content": "We are in a discussion with the client to fix the values but would need additional support. ",
+      "valid": true,
+      "item_id": 1791205970506785,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Can client see the same behaviour on MMP dashboard?  (excluding sanity check requests)",
+      "content": "No",
+      "valid": true,
+      "key": "No",
+      "item_id": 1791205970506801,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshots of partner integration",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "image.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/067262b8fad44ed99d1b463af728533b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838655&x-signature=4GZwCN9ns6Js%2BIO5xFOM%2FVq2Gl0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/067262b8fad44ed99d1b463af728533b.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/067262b8fad44ed99d1b463af728533b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838655&x-signature=4GZwCN9ns6Js%2BIO5xFOM%2FVq2Gl0%3D",
+          "size": 86190
+        }
+      ],
+      "valid": true,
+      "item_id": 1791205970507809,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshots of SKAN Conversion Value mapping",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "image.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/17c6b27c318c408386b86f203b0fdf1b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838655&x-signature=hCO%2F1ui7mJV6XHo%2BkYLlhp%2FVxOs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/17c6b27c318c408386b86f203b0fdf1b.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/17c6b27c318c408386b86f203b0fdf1b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838655&x-signature=hCO%2F1ui7mJV6XHo%2BkYLlhp%2FVxOs%3D",
+          "size": 86190
+        },
+        {
+          "file_type": "png",
+          "file_name": "image (1).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6a40e7918a8d45ee890937f35df4b71c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838655&x-signature=84pD1RUSsnkOrXB%2FZoSXjjq7aqU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6a40e7918a8d45ee890937f35df4b71c.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6a40e7918a8d45ee890937f35df4b71c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838655&x-signature=84pD1RUSsnkOrXB%2FZoSXjjq7aqU%3D",
+          "size": 19117
+        },
+        {
+          "file_type": "png",
+          "file_name": "image (2).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85b12a12a4a54d2db8d198d6d828f0fd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838655&x-signature=NcA5FufHXoX9CxnSrzsTNQ7wfx8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/85b12a12a4a54d2db8d198d6d828f0fd.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85b12a12a4a54d2db8d198d6d828f0fd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838655&x-signature=NcA5FufHXoX9CxnSrzsTNQ7wfx8%3D",
+          "size": 15540
+        }
+      ],
+      "valid": true,
+      "item_id": 1791205970507825,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "Any comments",
+      "content": "I have the conversion schema as an xlsx, but could not upload in the ticket.",
+      "valid": true,
+      "item_id": 1791205970508801,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Apps-iOS SKAN Audit"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

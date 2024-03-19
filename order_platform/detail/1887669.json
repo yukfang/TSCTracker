@@ -1,0 +1,315 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497211543601",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_0162c1d8-09aa-4ff3-8f25-99db332d7bhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "فانيسا شربل نجم)",
+  "create_time": 1708420670,
+  "deadline": 0,
+  "archive_board_id": 1705151646989665,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1708462033,
+      "auto_close_hit": 0,
+      "id": 7337787929982435000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "فانيسا شربل نجم",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7163931413875328002",
+      "name": "فانيسا شربل نجم",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><strong>[Status Update]</strong></p><p><br></p><p>Lark thread created</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_0162c1d8-09aa-4ff3-8f25-99db332d7bhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1887669,
+  "workflow_nodes": [],
+  "board_id": 1705151646989665,
+  "employee_email": "vanessa.najem@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Getir Having Issues with MMP Setup",
+  "category_1_name": "Mobile Marketing Partner (MMP)",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_006t_0c6a04fb-ed60-4fd4-90aa-132b068fachu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1708462033,
+  "owner_name": "Olgu Pelin Hüseyinoğlu Genç",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Mobile Marketing Partner (MMP)",
+  "archive_category_1": "1736497211543601",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497211543601",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [],
+      "value": "Mobile Marketing Partner (MMP)"
+    }
+  ],
+  "core_user_id": "7322425453611222017",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Olgu Pelin Hüseyinoğlu Genç",
+  "follow_employee_id": 8397383,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2312094,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Getir Having Issues with MMP Setup",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "GETIR",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "MENA-TR",
+      "valid": true,
+      "key": "MENA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6984769879131914242",
+        "6981929622594125826",
+        "7036017612236587009"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "6981799324636217346",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "No pixel ID",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "No website App only"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Mobile Measurement Partner (MMP)",
+      "valid": true,
+      "key": "Mobile Measurement Partner (MMP)",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-20",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Client does not know how to match the parameters to tiktok interface and sending the parameters currently but we cannot read as tiktok the event parameters.\n\nThis is what they are sending :  ONLY IOS PURCHASE EVENT TO NEEDS TO BE CHECKED to understand the issue. \n\n{“af_revenue”:235.44,“af_content_list”:“[{\\“id\\“:\\“5d03bb6789c5f10001c36b49\\“,\\“brand\\“:\\“5aae7beb3c0b5484c7acc02c\\“,\\“quantity\\“:1,\\“price\\“:21.899999999999999},{\\“id\\“:\\“623da1151dc8a94f26dd8629\\“,\\“price\\“:43.899999999999999,\\“quantity\\“:1,\\“brand\\“:\\“5aae7beb3c0b5484c7acbfcc\\“},{\\“quantity\\“:1,\\“id\\“:\\“60b6141f190bcee128ac87d6\\“,\\“brand\\“:\\“5ce5082f3fb745000133ee8a\\“,\\“price\\“:35.990000000000002},{\\“id\\“:\\“61c32a0da7403a2589ab338f\\“,\\“brand\\“:\\“5aae7beb3c0b5484c7acbf18\\“,\\“quantity\\“:1,\\“price\\“:23.899999999999999},{\\“brand\\“:\\“5cd55f7942197a3962698d7e\\“,\\“id\\“:\\“61af64b275d01371b9b742b2\\“,\\“quantity\\“:1,\\“price\\“:42.5},{\\“id\\“:\\“59024b386532a700044603fe\\“,\\“quantity\\“:1,\\“brand\\“:\\“5aae7beb3c0b5484c7acbf4d\\“,\\“price\\“:28.5},{\\“price\\“:38.5,\\“id\\“:\\“6481c12367ce889b90160d57\\“,\\“quantity\\“:1,\\“brand\\“:\\“5aae7beb3c0b5484c7acc078\\“}]“,”af_content_id”:“654b7f685839817ba191dab5”,“af_city”:“5fd60fe00000010008100000”,“af_content_type”:“purchase”,“af_currency”:“TRY”}\n\n\nThis is what we are not reading in purchase:\n\nhttps://bytedance.sg.larkoffice.com/docx/UvlrdqDTbo4dcSxK248l5ZnXgDg",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-19 at 6.00.56 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d9330a2f1a847b88df9450d43f58fc6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838127&x-signature=jzrH%2FeLO9lB%2BaAaR1K8LyvtfF28%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/3d9330a2f1a847b88df9450d43f58fc6.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d9330a2f1a847b88df9450d43f58fc6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838127&x-signature=jzrH%2FeLO9lB%2BaAaR1K8LyvtfF28%3D",
+          "size": 1584390
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-19 at 5.59.51 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2167af38c79e4e5d95cce35012b3f2d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838127&x-signature=60VxzA9BcqvBD%2FIlL1gwSVfTgg4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2167af38c79e4e5d95cce35012b3f2d4.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2167af38c79e4e5d95cce35012b3f2d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838127&x-signature=60VxzA9BcqvBD%2FIlL1gwSVfTgg4%3D",
+          "size": 1589526
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Mobile Measurement Partner (MMP)-Mobile Marketing Partner (MMP)"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

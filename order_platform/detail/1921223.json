@@ -1,0 +1,676 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Chan Lim",
+  "create_time": 1709700243,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709706660,
+      "auto_close_hit": 0,
+      "id": 7343132519082000000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>お疲れ様です。<br>いただいたご質問については以下の通りです。</p><p><br></p><p><span style=\"color: #333333;\">①管理画面で設定している既存の標準イベントについて 　管理画面で設定している既存の標準イベントをGTMでカスタムHTMLで管理&amp;Instance処理を追加実施する場合、既存の標準イベントは停止する必要がありますでしょうか。 またはGTM側のタグ設定の情報が上書きされるのでしょうか。</span></p><p><br></p><p><strong>上書きはされませんので、別途停止する必要があります。</strong></p><p><br></p><p><br></p><p><span style=\"color: #333333;\"> ②手動詳細マッチング導入について </span></p><p><span style=\"color: #333333;\">本案件では、CVページ上のデータレイヤーでユーザーデータをハッシュ化して取得している状態です。 CompletePaymentに手動アドバンスドマッチングをハッシュ化して導入する場合、対応フローは下記で問題ないでしょうか </span></p><p><span style=\"color: #333333;\">・ベースコードの直後にCompletePaymentのイベントコードを配置 </span></p><p><span style=\"color: #333333;\">・Instance処理と手動アドバンスドマッチングを追加　 　※取得用の変数は仮のものです</span></p><p><br></p><p><br></p><p><span style=\"color: #222222;\"><strong>はい、フローにおいては以下の内容で問題ございません。</strong></span></p><p><span style=\"color: #222222;\"><strong>（GTMでの実装であれば、ベースコードとイベントコードを一体化せず、タグの順序付け機能を利用し、イベントコードとAMコードのみ追加することもできます。）</strong></span></p><p><span style=\"color: #222222;\"><strong><br>・ベースコードの直後にCompletePaymentのイベントコードを配置</strong></span></p><p><span style=\"color: #222222;\"><strong>・Instance処理と手動アドバンスドマッチングを追加　 　※取得用の変数は仮のものです</strong></span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709723414,
+      "auto_close_hit": 0,
+      "id": 7343201135240446000,
+      "reply_role": null,
+      "staff_id": 5716298,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "asaho.hirata@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "平田朝穂",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7020916232509916161",
+      "name": "平田朝穂",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Chanさんご回答ありがとうございます！<br>下記追加で質問いただいており、確認させてくださいませ、、！<br><br>①標準イベントの引継ぎ有無について<br>イベントビルダーで設定した既存の標準イベントは、GTM上でカスタムHTMLで設定した新規の標準イベントの状態を引き継ぐことが出来るのか確認させていただきたいです。<br><a href=\"https://ads.tiktok.com/help/article/get-started-google-tag-manager?lang=ja\" target=\"_blank noopener noreferrer\">ヘルプページ</a>には、<strong>イベントビルダーで設定したイベントをGTMのテンプレートへ移行する場合、イベントビルダーイベントは削除する</strong>という記載がございました。<br>カバーマーク様では、ベースコードのみGTMで設定しており、それ以外のViewContent、AddToCart、CompletePaymentのイベントは<br>イベントビルダー上で作成しているのですが、手動アドバンスドマッチング導入にあたり、併せてInstance処理を実施したいため、<br>GTM上でカスタムHTMLで設定、管理する方向でシフトする予定です。手動アドバンスドマッチングはsha256_emailのハッシュ化した状態でCompletePaymentのイベントに設定する予定となります。<br>本案件のようにイベントビルダーからGTMでカスタムHTMLで設定・移行する場合、イベントビルダーで設定している既存の標準イベントの削除は必要なのか否か<br>標準イベントに蓄積されている学習は引継ぎされるのかについてご確認いただきたく存じます。②手動アドバンスドマッチングの設定フローについて<br>本案件では、カスタムHTMLでsha256_emailのハッシュ化した状態でメールアドレスを送信する予定です。<br>また、今後コンバージョンAPIの実装も見込んで事前にevent_idも設定予定となります。<br>そのため、手動アドバンスドマッチングの導入フロー、event_idの定義について認識齟齬がないかご確認いただけますでしょうか。event_idについて：<a href=\"https://ads.tiktok.com/help/article/events-api?redirected=2\" target=\"_blank noopener noreferrer\">https://ads.tiktok.com/help/article/events-api?redirected=2</a><br>コンバージョンAPIを導入する場合、「重複排除設定をする際に使用されるもの」「広告主側で設定された、訪問者のコンバーションを表す一意の文字列」　という認識であっているかご確認お願いいたします。この認識で合っていれば、他媒体で使用しているID取得用の変数を流用する予定となっております。<br>手動アドバンスドマッチングのコード（一部抜粋）CompletePaymentに設定予定、price、quantity等の動的な値は取得していないので、パラメータは空白となっております。<br>ベースコードの直後にイベントコード（手動アドバンスドマッチングとInstance処理を記載）を記載する形式で設定しております。</p><p>&lt;script&gt; !function (w, d, t) { 中略 ttq.load(&#39;CKFU7CBC77UFTHK79BFG&#39;); ttq.page(); }(window, document, &#39;ttq&#39;); &lt;/script&gt; &lt;script&gt; ttq.identify({ sha256_email: &#39;{{TikTokユーザーデータ取得_email}}&#39;, }) ttq.instance(&#39;CKFU7CBC77UFTHK79BFG&#39;).track(&#39;CompletePayment&#39;,{},{event_id:&#39;{{FacebookイベントID取得}}&#39;}); &lt;/script&gt;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_fb69e32d-fd5a-4f5d-92e5-2d16b3487fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709725145,
+      "auto_close_hit": 0,
+      "id": 7343212784290857000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>お疲れ様です！</p><p>追加の質問については、以下の通りです。</p><p><br></p><p><span style=\"color: #333333;\">①本案件のようにイベントビルダーからGTMでカスタムHTMLで設定・移行する場合、イベントビルダーで設定している既存の標準イベントの削除は必要なのか否か<br>標準イベントに蓄積されている学習は引継ぎされるのかについてご確認いただきたく存じます。</span></p><p><br></p><p><span style=\"color: #333333;\">イベントビルダーで設定している既存の標準イベントの削除は必要なのか否か　→ </span><span style=\"color: #1A74FF;\">必要です。削除しないと、１回のCVにつき2件（イベントビルダーから1件、新規設置したGTM側から1件）のCVとして重複カウントされます。</span></p><p><span style=\"color: #333333;\"><br>標準イベントに蓄積されている学習は引継ぎされるのかについてご確認いただきたく存じます。→ </span><span style=\"color: #1A74FF;\">学習は引き継がれます。</span></p><p><br></p><p><span style=\"color: #333333;\">②event_idについて：</span><a target=\"_blank\" href=\"https://ads.tiktok.com/help/article/events-api?redirected=2\">https://ads.tiktok.com/help/article/events-api?redirected=2</a><span style=\"color: #333333;\"><br>コンバージョンAPIを導入する場合、「重複排除設定をする際に使用されるもの」「広告主側で設定された、訪問者のコンバーションを表す一意の文字列」　という認識であっているかご確認お願いいたします。</span></p><p><span style=\"color: #333333;\">→ </span><span style=\"color: #1A74FF;\">ご認識の通りです。</span></p><p><br></p><p><span style=\"color: #333333;\">手動アドバンスドマッチングのコード（一部抜粋）CompletePaymentに設定予定、price、quantity等の動的な値は取得していないので、パラメータは空白となっております。<br>ベースコードの直後にイベントコード（手動アドバンスドマッチングとInstance処理を記載）を記載する形式で設定しております。</span></p><p><span style=\"color: #333333;\">→ </span><span style=\"color: #1A74FF;\">問題ありませんので、この方法での実装を進めてください</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710052346,
+      "auto_close_hit": 0,
+      "id": 7344612666641629000,
+      "reply_role": null,
+      "staff_id": 5716298,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "asaho.hirata@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "平田朝穂",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7020916232509916161",
+      "name": "平田朝穂",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Chanさんご確認ありがとうございます。</p><p>下記追加でご質問いただいておりご教示いただけますと幸いです。<br><br>●標準イベントの引継ぎ有無について<br>管理画面のイベントマネージャーでの新旧標準イベントの見分け方<br><br>●手動アドバンスドマッチング実装後の動作確認について<br>手動アドバンスドマッチング導入後の管理画面上での確認方法は、イベントマネージャー →イベントの健全性 から確認できる認識です。<br>今回の場合、emailのインパクトがパーセンテージで表示されるかと思いますが、一般的には何％程度補完されていれば推奨を満たすことになりますでしょうか。</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_fb69e32d-fd5a-4f5d-92e5-2d16b3487fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710122653,
+      "auto_close_hit": 0,
+      "id": 7344920171079205000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #333333;\">●標準イベントの引継ぎ有無について</span></p><p><span style=\"color: #1A74FF;\">管理画面では確認できません。</span></p><p><span style=\"color: #1A74FF;\">Google Chromeエクステンション　TikTok Pixel Helperをインストールしていただくと、イベントビルダーによる発火なのかカスタムコードによる発火なのかが表示されます。</span></p><img alt=\"Screenshot 2024-03-11 at 10.02.27.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ac7737b1c86940d385821a03bb487244.png\" height=\"154.87\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac7737b1c86940d385821a03bb487244.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875799&amp;x-signature=KTKZz0YV25qMzs6xHX110usdLoM%3D\" width=\"375\"><p><br /></p><p><span style=\"color: #333333;\">●手動アドバンスドマッチング実装後の動作確認について</span></p><p><span style=\"color: #1A74FF;\">９０％以上が推奨です。</span></p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710223366,
+      "auto_close_hit": 0,
+      "id": 7345348073616458000,
+      "reply_role": null,
+      "staff_id": 5716298,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "asaho.hirata@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "平田朝穂",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7020916232509916161",
+      "name": "平田朝穂",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Chanさん</p><p><br></p><p>ご確認ありがとうございます！</p><p>下記も追加できており、、、！ご教示いただけますと幸いです。</p><p><br></p><p>------------------------------------------------------------------------------------------------------------------------<br>●event_idの配列形式について<br><a href=\"https://business-api.tiktok.com/portal/docs?rid=p41a33fdhon&amp;id=1723170195197953\" target=\"_blank noopener noreferrer\">https://business-api.tiktok.com/portal/docs?rid=p41a33fdhon&amp;id=1723170195197953</a><br>貴社ヘルプページにてサンプルコードを確認したところ、<strong>{ event_id : &#39;1239485&#39; }</strong>の配列の形式となっており、GTM変数を用いてこの形式で値を返す設計になっていれば問題ないでしょうか●ベースコードの例外処理について<br>GTMのカスタムHTMLにてベースコード＋イベントコード（ベースコードの直後にイベントコードを設置）で標準イベントを設定する前提で進めております。<br>この設定の場合、タグの順序付けは不要、ベースコード側でイベントコードの例外処理を実施してベースコードが重複しないように設定する認識であっておりますでしょうか。<br>※他媒体ではこの処理を実施しております●ユーザーデータの送信形式、配列について<br>事前にハッシュ化してデータを送信する場合、最新の貴社ヘルプページ、クイックスタートガイド（24年3/6更新）では配列形式は下記の<strong>email</strong>になっておりました。<br>ただ、古い資料では<strong>sha256_email</strong>となっておりどちらが現状正しいか形式かご回答いただけますと幸いです。<br>また、その際の配列形式はGTM用の変数を用いて下記の通り値が取得出来ていれば問題ないでしょうか。<br><strong>{&#34;email&#34;: &#34;72f68804fb90d46743f8dcca78998abe8dda7bb907ba40c8d49c99300575624a&#34;}</strong><br>-------------------------------------------------------------------------------------------------------------------------</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_fb69e32d-fd5a-4f5d-92e5-2d16b3487fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710227145,
+      "auto_close_hit": 0,
+      "id": 7345368558534377000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #333333;\">お疲れ様です！</span></p><p><span style=\"color: #333333;\">追加の質問については、以下の通りです。</span></p><p><br></p><p><span style=\"color: #333333;\"><em>●event_idの配列形式について<br></em></span><em><a target=\"_blank\" href=\"https://business-api.tiktok.com/portal/docs?rid=p41a33fdhon&amp;id=1723170195197953\">https://business-api.tiktok.com/portal/docs?rid=p41a33fdhon&amp;id=1723170195197953</a></em><span style=\"color: #333333;\"><em><br>貴社ヘルプページにてサンプルコードを確認したところ、</em><strong><em>{ event_id : &#39;1239485&#39; }</em></strong><em>の配列の形式となっており、GTM変数を用いてこの形式で値を返す設計になっていれば問題ないでしょうか</em></span></p><p><strong>はい、問題ありません。</strong></p><p><br></p><p><span style=\"color: #333333;\">●ベースコードの例外処理について<br>GTMのカスタムHTMLにてベースコード＋イベントコード（ベースコードの直後にイベントコードを設置）で標準イベントを設定する前提で進めております。<br>この設定の場合、タグの順序付けは不要、ベースコード側でイベントコードの例外処理を実施してベースコードが重複しないように設定する認識であっておりますでしょうか。<br>※他媒体ではこの処理を実施しております</span></p><p><strong>はい、問題ありません。</strong></p><p><br></p><p><span style=\"color: #333333;\">●ユーザーデータの送信形式、配列について<br>事前にハッシュ化してデータを送信する場合、最新の貴社ヘルプページ、クイックスタートガイド（24年3/6更新）では配列形式は下記の<strong>email</strong>になっておりました。<br>ただ、古い資料では<strong>sha256_email</strong>となっておりどちらが現状正しいか形式かご回答いただけますと幸いです。<br>また、その際の配列形式はGTM用の変数を用いて下記の通り値が取得出来ていれば問題ないでしょうか。<br><strong>{&#34;email&#34;: &#34;72f68804fb90d46743f8dcca78998abe8dda7bb907ba40c8d49c99300575624a&#34;}</strong></span></p><p><br></p><p><strong>既存のパラメータもまだ利用できるのでどちらも問題ありませんが、最新の推奨はemailになります。</strong></p><p><strong>配列形式については問題ありません。</strong></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710744621,
+      "auto_close_hit": 0,
+      "id": 7347588566832218000,
+      "reply_role": null,
+      "staff_id": 5716298,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "asaho.hirata@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "平田朝穂",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7020916232509916161",
+      "name": "平田朝穂",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Chanさん</p><p><br></p><p>ご確認ありがとうございます。</p><p>追加で下記もご連絡いただいており、ご教示のほどよろしくお願い致します。</p><p><br></p><p>-<br>●event_idの配列形式について<br><a href=\"https://business-api.tiktok.com/portal/docs?rid=p41a33fdhon&amp;id=1723170195197953\" target=\"_blank noopener noreferrer\">https://business-api.tiktok.com/portal/docs?rid=p41a33fdhon&amp;id=1723170195197953</a><br>貴社ヘルプページにてサンプルコードを確認したところ、<strong>{ event_id : &#39;1239485&#39; }</strong>の配列の形式となっており、GTM変数を用いてこの形式で値を返す設計になっていれば問題ないでしょうか●ベースコードの例外処理について<br>GTMのカスタムHTMLにてベースコード＋イベントコード（ベースコードの直後にイベントコードを設置）で標準イベントを設定する前提で進めております。<br>この設定の場合、タグの順序付けは不要、ベースコード側でイベントコードの例外処理を実施してベースコードが重複しないように設定する認識であっておりますでしょうか。<br>※他媒体ではこの処理を実施しております●ユーザーデータの送信形式、配列について<br>事前にハッシュ化してデータを送信する場合、最新の貴社ヘルプページ、クイックスタートガイド（24年3/6更新）では配列形式は下記の<strong>email</strong>になっておりました。<br>ただ、古い資料では<strong>sha256_email</strong>となっておりどちらが現状正しいか形式かご回答いただけますと幸いです。<br>また、その際の配列形式はGTM用の変数を用いて下記の通り値が取得出来ていれば問題ないでしょうか。<br><strong>{&#34;email&#34;: &#34;72f68804fb90d46743f8dcca78998abe8dda7bb907ba40c8d49c99300575624a&#34;}</strong></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_fb69e32d-fd5a-4f5d-92e5-2d16b3487fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710810337,
+      "auto_close_hit": 0,
+      "id": 7347873478080463000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>お疲れ様です！</p><p>見落としてたら申し訳ないですが、前回いただいた内容と全く同じ内容に見受けられますが、どこが追記されたのかお教えいただけないでしょうか？</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1921223,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "chan.lim@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Asking about AM",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 3,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_fb69e32d-fd5a-4f5d-92e5-2d16b3487fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710810336,
+  "owner_name": "平田朝穂",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 3,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7020916232509916161",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "平田朝穂",
+  "follow_employee_id": 3050890,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1462,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Asking about AM",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "イミュ株式会社",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "CPG",
+      "valid": true,
+      "key": "CPG",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "SEA-JP",
+      "valid": true,
+      "key": "SEA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7285918277333860353"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CKFU7CBC77UFTHK79BFG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.covermark.co.jp/campaign/2103milkhalf-q/index.html?utm_source=tiktok&utm_medium=display&utm_campaign=cm-half-br_cm_video_189_A_LP3&utm_content=cm"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-06",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "手動アドバンスドマッチングの設定を進めており、下記ご確認いただけますと幸いです。\n\n\n①管理画面で設定している既存の標準イベントについて\n　管理画面で設定している既存の標準イベントをGTMでカスタムHTMLで管理&Instance処理を追加実施する場合、既存の標準イベントは停止する必要がありますでしょうか。\nまたはGTM側のタグ設定の情報が上書きされるのでしょうか。\n②手動詳細マッチング導入について\n本案件では、CVページ上のデータレイヤーでユーザーデータをハッシュ化して取得している状態です。\nCompletePaymentに手動アドバンスドマッチングをハッシュ化して導入する場合、対応フローは下記で問題ないでしょうか\n・ベースコードの直後にCompletePaymentのイベントコードを配置\n・Instance処理と手動アドバンスドマッチングを追加　\n　※取得用の変数は仮のものです\n\n<script>\n\t\t!function (w, d, t) {\n\t\t  w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=[\"page\",\"track\",\"identify\",\"instances\",\"debug\",\"on\",\"off\",\"once\",\"ready\",\"alias\",\"group\",\"enableCookie\",\"disableCookie\"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++\n)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i=\"https://analytics.tiktok.com/i18n/pixel/events.js\";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};n=document.createElement(\"script\");n.type=\"text/javascript\",n.async=!0,n.src=i+\"?sdkid=\"+e+\"&lib=\"+t;e=document.getElementsByTagName(\"script\")[0];e.parentNode.insertBefore(n,e)};\n\t\t\n\t\t  ttq.load('CKFU7CBC77UFTHK79BFG');\n\t\t  ttq.page();\n\t\t}(window, document, 'ttq');\n</script>\n<script>\n  ttq.identify({\n    sha256_email: '{{em取得用の変数}}', \n    sha256_phone_number: '{{ph取得用の変数}}',\n})\nttq.instance('CKFU7CBC77UFTHK79BFG').track('CompletePayment',{},{event_id:'{{イベントID取得用の変数}}'});\n</script>\n\n",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac7737b1c86940d385821a03bb487244.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875799&x-signature=KTKZz0YV25qMzs6xHX110usdLoM%3D",
+          "file_name": "file_20240319_01_29_59_037767",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac7737b1c86940d385821a03bb487244.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875799&x-signature=KTKZz0YV25qMzs6xHX110usdLoM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ac7737b1c86940d385821a03bb487244.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

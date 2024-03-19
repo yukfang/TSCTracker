@@ -1,0 +1,332 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_89b456bd-831d-4c73-9de2-3e5cbaf2fdhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Miguel Fernández",
+  "create_time": 1709840336,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710151806,
+      "auto_close_hit": 0,
+      "id": 7345045427126862000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "isabella.rebecchini@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Isabella Rebecchini",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7226031873914520577",
+      "name": "Isabella Rebecchini",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Katerina,</p><p><br></p><p>Just wanted to let you know that the client just informed me they will be creating new Catalogues today - so please hold on in checking the ones I sent over, as there will be new ones today.</p><p>The client has a start date set up for this Wednesday (13.03) - apologies for the short notice but will it be possible to check the new Catalogues as soon as they are ready in time for the launch date? The campaign is around USD150,000.</p><p><br></p><p>Many thanks,</p><p>Isabella</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_006c_e70525b5-cd6d-48f8-9c7d-7dfb2631adhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710262302,
+      "auto_close_hit": 0,
+      "id": 7345519619597238000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "isabella.rebecchini@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Isabella Rebecchini",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7226031873914520577",
+      "name": "Isabella Rebecchini",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Katerina,</p><p><br></p><p>I am back with the updated Catalogues to check for Diesel ahead of the campaign launch tomorrow.</p><p>Here are the Catalogues IDs:</p><p><span style=\"color: #1F2329;\">GB</span><span style=\"color: #9E9E9E;\"><br>7205232982691563265</span><span style=\"color: #1F2329;\"><br>DE</span><span style=\"color: #9E9E9E;\"><br>7205232544814614274</span><span style=\"color: #1F2329;\"><br>FR</span><span style=\"color: #9E9E9E;\"><br>7205232127359584002</span><span style=\"color: #1F2329;\"><br>IT</span><span style=\"color: #9E9E9E;\"><br>7205163059533448961</span></p><p><br></p><p><span style=\"color: #9E9E9E;\">Many thanks,</span></p><p><span style=\"color: #9E9E9E;\">Isabella</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_006c_e70525b5-cd6d-48f8-9c7d-7dfb2631adhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710326880,
+      "auto_close_hit": 0,
+      "id": 7345796941688734000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Miguel Fernández",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7178708618031023106",
+      "name": "Miguel Fernández",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Isabella, summary of Lark conversation:<br><br>UK, FR an IT has reasonable good match rates across different events in the funnel (around 75%)<br>DE low match rates, around 40-45%, ask for not matching event examples.<br><br>UTMs setup looks fine<br><br>Pixel setup looks fine apart form&nbsp; missing Manual AM and eAPI</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_89b456bd-831d-4c73-9de2-3e5cbaf2fdhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1925828,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "miguel.suarez@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Diesel check on Catalogues + UTMs + Pixel",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_006c_e70525b5-cd6d-48f8-9c7d-7dfb2631adhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710326879,
+  "owner_name": "Isabella Rebecchini",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7226031873914520577",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Isabella Rebecchini",
+  "follow_employee_id": 7158055,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 447634,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Diesel check on Catalogues + UTMs + Pixel",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": [
+        "Tealium",
+        "Unsure (Do Not Know)"
+      ],
+      "valid": true,
+      "key": [
+        "Tealium",
+        "Unsure (Do Not Know)"
+      ],
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Diesel",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-IT",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "6925820013068681217",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P0",
+      "valid": true,
+      "key": "P0",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "150000",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-07",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Hi all,\n\nMy client Diesel (ad account ID: 6925820013068681217), is about to go live with VSA for the first time.\nCould you please do a final check on correct implementation of the following: \n- Pixel (Pixel ID: CIR8OKJC77UBI1EI27B0)\n- Catalogues : (BC Center ID: 7161415005542400002)\n- UTMS\n\nThe catalogues to check are the 10 ones which you can find in the screenshot here attached in the ticket.\nRegarding Catalogues, what I noticed on my side is that they should switch all Updating method from Update your data Feed to Replace your Data Feed.\n\nMoreover, I can confirm that at the moment the client doesn't want to implement AM nor Events API (we are having separate conversations about it).\n\nMany thanks,\nIsabella",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "PNG",
+          "file_name": "Diesel_Catalogues.PNG",
+          "file_url": "",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/577e87f972ed4a79acafc6dd58f84530.PNG",
+          "url": "",
+          "size": 134452
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

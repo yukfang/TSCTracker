@@ -1,0 +1,276 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Κατερίνα Σάκκουλα",
+  "create_time": 1707219554,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707412241,
+      "auto_close_hit": 0,
+      "id": 7333279295080514000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><br /></p><p>Hi Diana,</p><p><br /></p><p>Hope you are well.</p><p><br /></p><p>Please make sure that you refer to the Catalog Diagnostics section, which  includes  key outstanding items and recommendations (which are mentioned below as well):</p><img alt=\"Screenshot 2024-02-08 at 17.08.03.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0d3f5ddea17a4e4a93bfb6a3d699dedc.png\" height=\"154.264\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d3f5ddea17a4e4a93bfb6a3d699dedc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837751&amp;x-signature=Buszq9%2FAlcubgNOpSbV7NNrHSxw%3D\" width=\"375\"><p><br /></p><p>Please find below the outcome of basic checks done on the Catalog side:<br><br /></br></p><ol><li>The Pixel has not been associated under the Event Sources page. Please ask the client to link the Pixel ID: C7K3RPL20CB8M3VAQ4D0 to their catalog. <br>https://ads.tiktok.com/catalogs/event-sources?id=7260803661851412226&amp;bc_id=7249314033361371137</br></li></ol><p><br /></p><ol><li>The Catalog is in a 'Frozen' state due to no active campaigns having used this catalog for more than 28days. In other words, the catalog has not been updated with the newest products since August 2023. Either ask the client to trigger a manual data refresh, or to enable Product Sale campaigns using this catalog:</li></ol><img alt=\"Screenshot 2024-02-08 at 17.03.14.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6adc2796df3a422b81b312d9d592063e.png\" height=\"151.959\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6adc2796df3a422b81b312d9d592063e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837751&amp;x-signature=EiI2orscysZfUxnfSWdws%2BDD0Is%3D\" width=\"375\"><ol><li>Pixel/Events API: we can confirm that the the main events View Content, Add To Cart and Complete Payment have been setup. We can also confirm that the 'content_id' parameter is being sent with all three events, and this ID matches with the 'Item Group ID' found in the catalog.<br><br /></br></li><li>Some images in the feed appear to be smaller than the minimum size of 500x500. Please inform the client of this requirement in order to update image sizes.</li></ol><p><br /></p><p>Thanks,</p><p>Katerina</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1861253,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "katerina.sakkoula@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "VSA Catalogue Onboarding",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_79e2ab93-bdb0-47f5-9ffa-5797259306hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1707412241,
+  "owner_name": "Diana Nangole",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7221460245578204162",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Diana Nangole",
+  "follow_employee_id": 9295306,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 3361510,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "VSA Catalogue Onboarding",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Estee Lauder Companies - Aveda",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "CPG",
+      "valid": true,
+      "key": "CPG",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-DE",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "7096760680497381378",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P0",
+      "valid": true,
+      "key": "P0",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "€60k - €100k",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-06",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "New catalog integation",
+      "valid": true,
+      "key": "New catalog integation",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Hi Team,\n\nOne of our key accounts sub brands, Aveda, would like to potentially utilise VSA in an upcoming campaign. They already have a Pixel (shared in EMEA), no S2S integration.\nWe previously ran a VSA campaign with another brand from the same client and had quite a few set up issues, so we would really like to pre-empt this, by looking into the set up.\nAny help would be much appreciated.\n\nThanks in advance,\nDiana ",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6adc2796df3a422b81b312d9d592063e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837751&x-signature=EiI2orscysZfUxnfSWdws%2BDD0Is%3D",
+          "file_name": "file_20240318_14_55_51_596220",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6adc2796df3a422b81b312d9d592063e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837751&x-signature=EiI2orscysZfUxnfSWdws%2BDD0Is%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6adc2796df3a422b81b312d9d592063e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d3f5ddea17a4e4a93bfb6a3d699dedc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837751&x-signature=Buszq9%2FAlcubgNOpSbV7NNrHSxw%3D",
+          "file_name": "file_20240318_14_55_51_596348",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d3f5ddea17a4e4a93bfb6a3d699dedc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837751&x-signature=Buszq9%2FAlcubgNOpSbV7NNrHSxw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0d3f5ddea17a4e4a93bfb6a3d699dedc.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

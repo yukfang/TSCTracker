@@ -1,0 +1,608 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354674",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1710266398,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710274303,
+      "auto_close_hit": 0,
+      "id": 7345570033038377000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lindsey,</p><p>Thanks for reaching out! </p><ol><li>Hover under the Pixel event name in the \"Event type\" column in Events Manager. Select the \"Edit\" link.</li></ol><img alt=\"img_v3_0282_b43409d6-58b7-46db-b64e-480a18c8dd6h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b8d774767bdd45c1bfcad89e97a03f3b.jpg\" height=\"150.164\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8d774767bdd45c1bfcad89e97a03f3b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838597&amp;x-signature=ndAk6rOTKet4NcRAt3MhveTG1SY%3D\" width=\"375\"><ol><li>Select the \"Go to Event Builder\" link in the resulting pop-up window.</li></ol><img alt=\"img_v3_0282_893e4bba-186c-42b8-ab18-abe588507e8h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg\" height=\"172.804\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838597&amp;x-signature=30JXFn1pLXyWcTTpOI3jW5H5DII%3D\" width=\"375\"><ol><li>Select the trash can icon in the top right to delete the Event Builder rule/event.</li></ol><img alt=\"img_v3_0282_c9c4483b-6c1c-436d-80ec-e44f9b8fe51h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg\" height=\"308.219\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838597&amp;x-signature=IOf605sb%2BilaVK8OU5Gc1icyJD8%3D\" width=\"375\"><ol><li>If you do not have the TikTok Pixel Helper installed, you will likely see a different screen. You will not be able to see the specific rules of the Event but you should still be able to delete the Event Builder rule.</li></ol><img alt=\"img_v3_0282_035464a9-ee7b-4e21-9243-dcae512e021h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg\" height=\"378.793\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838597&amp;x-signature=P88QLVPpJ4iDL3WfzTOmmotcw%2Bw%3D\" width=\"375\"><p><br /></p><p>To address the content_id parameter warning, the client must setup their custom code to be able to accept and pass back a content_id value. Documentation to do so can be found here: https://business-api.tiktok.com/portal/docs?id=1739585702922241</p><p>Following is a screenshot of what their ViewContent event code with parameters:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/70ba7366feb745a7afcda1cd326a80ce.png\" height=\"349.256\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/70ba7366feb745a7afcda1cd326a80ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838597&amp;x-signature=BGCRA0dspjKhoWcakqZ16GJtbaM%3D\" width=\"375\"><p>Always happy to hop on a call with the client to help expedite things! If they'd like to do so let me know and I can send over my avails.</p><p>Thanks!</p><p>Robbie</p></img></img></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710359735,
+      "auto_close_hit": 0,
+      "id": 7345938038104572000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lindsey.greenberg@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lindsey Greenberg",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7104550986144433154",
+      "name": "Lindsey Greenberg",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,</p><p><br></p><p>Thank you so much for this information! Would any data be loss if we were to have them remove the Event Builder and just have them keep the Custom Code set? Also, just wanted to note that this client also places pixels via DCM floodlights. I would assume the Custom Code route is the best method of implementation but wanted to run that by you as well.&nbsp;</p><p><br></p><p>Appreciate your help! I will likely have more questions and think it would definitely be helpful to hop on a call with this team so will keep you posted if/when we want to look to get that scheduled.&nbsp;</p><p><br></p><p>Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_a566b0e8-b3da-4969-affa-a4291902918h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710371916,
+      "auto_close_hit": 0,
+      "id": 7345988802285928000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lindsey,</p><p>Thanks for mentioning DCM floodlights! Unfortunately we do not officially support a floodlight Implementation. Let's have them keep the Event Builder configuration for now since we're actually only seeing one ViewContent event fire on a PDP page view along with the built in Pageview event so they don't experience a drop off in VC events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7f3749578da84c57a28f4cebbcc7fd40.png\" height=\"150.537\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f3749578da84c57a28f4cebbcc7fd40.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838597&amp;x-signature=JQx68LQSYZd4lUH4goCYyG%2BK1qE%3D\" width=\"375\"><p>Oof and apologies for not pointing this out initially, but it doesn't look like we're receiving any Custom Code ViewContent events either - we'd see a \"Custom Code\" entry for the ViewContent event if we've been receiving them correctly.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png\" height=\"196.685\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838597&amp;x-signature=jMGf%2BpDjQbbenhp1x%2F1ZovT1mKk%3D\" width=\"375\"><p>I'll be out this coming Friday 3/15, Monday 3/18 and Tues 3/19 but I'd be more than happy to hop on a call and explore other potential possibilities/workarounds for their Floodlight configuration for a custom code implementation with the client. Please let me know if they'd like to and I can shoot over my avails. </p><p>Thanks!</p><p>Robbie</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710455668,
+      "auto_close_hit": 0,
+      "id": 7346345866879353000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lindsey.greenberg@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lindsey Greenberg",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7104550986144433154",
+      "name": "Lindsey Greenberg",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie!&nbsp;</p><p><br></p><p>That would be great! What do your avails look like next week? Would love to set up a call internally first on Wednesday just to give you some more background on this client and set up strategy. Then, ideally we find time on Thurs. or Friday of next week to hop on a call with the client. We can be flexible based on your schedule so please let us know your availability next Wed., Thurs. and Friday if needed.</p><p><br></p><p>Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_a566b0e8-b3da-4969-affa-a4291902918h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710514763,
+      "auto_close_hit": 0,
+      "id": 7346602895753724000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lindsey,</p><p>Absolutely! I will have the following availabilty next week and next:</p><p>Wed 3/20: 8 AM - 9 AM PST / 10:30 - 12 PM&nbsp;</p><p>Thurs 3/21: 7 AM - 2 PM PST</p><p>Friday 3/22: 7 AM - 8 AM / 9 AM - 2 PM PST</p><p>Monday 3/25: 9:30 AM - 2 PM PST</p><p>Tues 3/26: 7 AM - 9 AM / 10 AM - 1 PM PST</p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1937292,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Abbott-FreeStyle Libre",
+  "category_1_name": "Basic",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_a566b0e8-b3da-4969-affa-a4291902918h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710514762,
+  "owner_name": "Lindsey Greenberg",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Basic",
+  "archive_category_1": "1736497459354674",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7104550986144433154",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Lindsey Greenberg",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 259834,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Abbott-FreeStyle Libre",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Abbott FSL ",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Enterprise",
+      "valid": true,
+      "key": "Enterprise",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7098714881645412354"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Lindsey Greenberg (CSM), Zach Fryman (BPM)",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CGGSE6BC77UA88R0HTB0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.freestyle.abbott/us-en/myfreestyle-freestyle-libre-3.html?utm_source=Google&utm_medium=SEM&utm_campaign=Brand&utm_content=FreeStyle&gclid=CjwKCAjw17qvBhBrEiwA1rU9w4pUdfIhxXr2AMP09Y1ITWD3oVW_-bHcAbk4R9bON4SR79KUtsg8uxoC1sMQAvD_BwE&gclsrc=aw.ds"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-12",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Looking for help with troubleshooting an issue related to my clients event tracking. Need them to have events and parameters properly implemented and move them in the direction of setting up advanced matching. They have also mentioned that Events API is of interest. \n\nIt appears that multiple triggers are happening because the same event is being tracked twice, once with event builder and once with the custom code implemented on the website. Need to provide instructions on how to turn off/discontinue Event Builder and only have custom codes tracking pixel events. \n\n\n\nClient has Event Builder and Custom Codes-they need to turn off Event Builder since all 3 of their events have custom code pixel implement. edsee attached picture for reference but it looks like multiple events are being triggered by the same action (Complete Registration). the complete registration event fires on a Thank You page once someone successfully submits a sign up form. please let me know-thanks! Additionally, I am also seeing an issue with the View Content event missing content id parameter. what steps should i tell my client to take in order to fix this? See landing page URL in Supplement Information section.",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=30JXFn1pLXyWcTTpOI3jW5H5DII%3D",
+          "file_name": "file_20240318_15_09_57_168678",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=30JXFn1pLXyWcTTpOI3jW5H5DII%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8d774767bdd45c1bfcad89e97a03f3b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=ndAk6rOTKet4NcRAt3MhveTG1SY%3D",
+          "file_name": "file_20240318_15_09_57_168760",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8d774767bdd45c1bfcad89e97a03f3b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=ndAk6rOTKet4NcRAt3MhveTG1SY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b8d774767bdd45c1bfcad89e97a03f3b.jpg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=IOf605sb%2BilaVK8OU5Gc1icyJD8%3D",
+          "file_name": "file_20240318_15_09_57_168779",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=IOf605sb%2BilaVK8OU5Gc1icyJD8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=P88QLVPpJ4iDL3WfzTOmmotcw%2Bw%3D",
+          "file_name": "file_20240318_15_09_57_168793",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=P88QLVPpJ4iDL3WfzTOmmotcw%2Bw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/70ba7366feb745a7afcda1cd326a80ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=BGCRA0dspjKhoWcakqZ16GJtbaM%3D",
+          "file_name": "file_20240318_15_09_57_168806",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/70ba7366feb745a7afcda1cd326a80ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=BGCRA0dspjKhoWcakqZ16GJtbaM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/70ba7366feb745a7afcda1cd326a80ce.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=jMGf%2BpDjQbbenhp1x%2F1ZovT1mKk%3D",
+          "file_name": "file_20240318_15_09_57_352462",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=jMGf%2BpDjQbbenhp1x%2F1ZovT1mKk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f3749578da84c57a28f4cebbcc7fd40.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=JQx68LQSYZd4lUH4goCYyG%2BK1qE%3D",
+          "file_name": "file_20240318_15_09_57_352516",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f3749578da84c57a28f4cebbcc7fd40.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=JQx68LQSYZd4lUH4goCYyG%2BK1qE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7f3749578da84c57a28f4cebbcc7fd40.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Basic"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

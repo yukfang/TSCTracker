@@ -1,0 +1,397 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497456456705",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_a1acfe06-d128-4d32-ae8b-a7e0264e37fg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Carly Gillingham",
+  "create_time": 1707332019,
+  "deadline": 0,
+  "archive_board_id": 1705151646989664,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707335481,
+      "auto_close_hit": 0,
+      "id": 7332948190641111000,
+      "reply_role": "TSC",
+      "staff_id": 7763805,
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "tiktoklog",
+      "editable": 0,
+      "reply_email": "carly.gillingham@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Carly Gillingham",
+      "reply_to_user_id": 7260168098099398000,
+      "is_hide_name": false,
+      "core_user_id": "7048952329957721090",
+      "name": "Carly Gillingham",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Ling Ling,</p><p>I know this is a bit nuanced, but my team only supports Clients with a Developer team team that are pre- or mid- implementation and need tailored, specific technical advice and support on Signals solutions.&nbsp;</p><p>You&#39;ll want to utilize our traditional Global TPS team for issues/questions related to:</p><p>1.) Issues occurring post-implementation<br>2.) Product Bugs<br>3.) Data/Reporting Discrepancies<br>4.) Campaign Performance Questions<br>5.) Questions/Issues/Consultation on products outside of Implementation Team’s remit</p><p><br>Global TPS Support link here:&nbsp;https://ads.tiktok.com/athena/requester/boards?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_a1acfe06-d128-4d32-ae8b-a7e0264e37fg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1864048,
+  "workflow_nodes": [],
+  "board_id": 1705151646989664,
+  "employee_email": "carly.gillingham@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Aptoide - Tracking Events",
+  "category_1_name": "Events API - App",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_1eef80a3-8f8b-4663-9ad4-518dd2332b7h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1709060377,
+  "owner_name": "Ling Ling Chen",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - App",
+  "archive_category_1": "1736497456456705",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497456456705",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385939689521",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385939690497",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385939690513",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385939690529",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385939690545",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385939691521",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385939691537",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772386004887554",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772386004887570",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772386004887586",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772386004887602",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772386004888578",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548677945394",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - App"
+    }
+  ],
+  "core_user_id": "7260168098099397634",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Ling Ling Chen",
+  "follow_employee_id": 7763805,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1713423,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Aptoide - Tracking Events",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Aptoide",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Gaming",
+      "valid": true,
+      "key": "Gaming",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "SMB",
+      "valid": true,
+      "key": "SMB",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7226666068298072066"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Ling Ling Chen AM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CIQJAQRC77UF46MMJPN0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://en.aptoide.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Mobile",
+      "valid": true,
+      "key": "Events API - Mobile",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-07",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Client is struggling with the integration of tracking events with Tiktok on Indicative. \n\nThey are using the destination URL:\n\nhttps://delivers.dtignite.com/v2/delivers/clickAd.jsp?siteId=14196&campaignId=43064&tsti=true&updateApp=false&enablePostInstallAutoLaunch=true&dvURL=https%3A%2F%2Fapp.appsflyer.com%2Fcom.playrix.gardenscapes.aptoide-aptoide%3Fpid%3Daptoide_int%26af_siteid%3Daptoide%26c%3Daptoide%26af_ad_id%3Dtiktok%26af_channel%3Dpaid_acquisition%26af_ad%3DMarketingKaio01%26af_click_lookback%3D7d%26af_r%3Dhttps%3A%2F%2Fen.aptoide.com%2Fdownload%3Fpackage_uname%3Dgardenscapes%26utm_source%3Dtiktok%26utm_medium%3Dpaid_acquisition%26utm_content%3Dvideo%26utm_campaign%3DtestMarketing\n\nThey have observed Indicative events from the campaigns that have utms integrated into the link provided above. However, it is not detecting the link directly from the web browser, which works fine, and all the events are registered on their dashboard. They have already contacted Indicative technical support, and they believe that the integration of the utm is well integrated by them so think it's on TikTok's side. \n\nThey have noticed some discrepancies in the results when compared to Tableau and Indicative. \n\nTableau shows that they got 11,911 clicks, with 8,946 of them representing ignite devices, and 2,965 clicks representing the fallback. On the other hand, Indicative only identified the tests they ran to check the links, and they were expecting to have at least 2,950 visitors from the fallback that are not getting attributed by Indicative.\n\n\nThey've asked me to share this information with the technical support to try to understand what is the reason for Tiktok not sending the events to Indicative?",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-07 at 12.52.13 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5f82c72e1614280951fffa3f4f88c16.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837800&x-signature=IZzjyG8aNuvTKSv3t4qO6Nbn4eY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c5f82c72e1614280951fffa3f4f88c16.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5f82c72e1614280951fffa3f4f88c16.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837800&x-signature=IZzjyG8aNuvTKSv3t4qO6Nbn4eY%3D",
+          "size": 247869
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-07 at 12.52.20 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b3d028a662054da2b4a6b9bd7bc90f8a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837800&x-signature=Lq2n0g%2B2IwVe6Eqki2qflAx0SWI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b3d028a662054da2b4a6b9bd7bc90f8a.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b3d028a662054da2b4a6b9bd7bc90f8a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837800&x-signature=Lq2n0g%2B2IwVe6Eqki2qflAx0SWI%3D",
+          "size": 169180
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-07 at 12.52.27 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/deb29a3db49642ce89a57371f1da2a5a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837800&x-signature=lsMugGiEITQlxAAXIQhEoRz%2FXH8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/deb29a3db49642ce89a57371f1da2a5a.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/deb29a3db49642ce89a57371f1da2a5a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837800&x-signature=lsMugGiEITQlxAAXIQhEoRz%2FXH8%3D",
+          "size": 156469
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-07 at 12.52.33 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f0b83361e14d455bbbc0e08be8a63750.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837800&x-signature=r5RdO7C4TkHZahJC8%2F%2BxX7fnKJI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f0b83361e14d455bbbc0e08be8a63750.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f0b83361e14d455bbbc0e08be8a63750.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837800&x-signature=r5RdO7C4TkHZahJC8%2F%2BxX7fnKJI%3D",
+          "size": 119459
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - App-Events API - App"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

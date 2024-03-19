@@ -1,0 +1,607 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354674",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Heidi Williams",
+  "create_time": 1709676207,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709785618,
+      "auto_close_hit": 0,
+      "id": 7343472649105916000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Alexandra,&nbsp;</p><p><br></p><p>I spent some time today learning more about Shopify one-click vs headless troubleshooting. I will have a reply for you first thing in the morning!</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709838203,
+      "auto_close_hit": 0,
+      "id": 7343695731942916000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Alexandra, meeting with my Shopify internal guru at 3pm EST. Will reply after that time. Thanks for your patience!</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709846377,
+      "auto_close_hit": 0,
+      "id": 7343724398748172000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Alexandra, </p><p><br /></p><p>If the advertiser were using <a href=\"https://ads.tiktok.com/help/article/shopify-set-up-guide?lang=en\" target=\"_blank\">Shopify One-click</a>, the full funnel of events:</p><p>ViewContent</p><p>AddToCart</p><p>Search</p><p>InitiateCheckout</p><p>AddPaymentInfo</p><p>CompletePayment</p><p>would have been set up by default. Because we can see that two <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CN77GLBC77UBGB37QAL0?start_time=2024-03-01&amp;end_time=2024-03-07&amp;aadvid=7335931544399478785\" target=\"_blank\">lower-funnel events</a> are missing or not performing well:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/762b002524ac40099b6ba5d2c76c30e1.png\" height=\"42.182\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/762b002524ac40099b6ba5d2c76c30e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838461&amp;x-signature=QfaeYojcNWOEbDFJoyOAlrPTx1U%3D\" width=\"375\"><p>they should take the following troubleshooting steps in the attached documentation under 'Disconnect From A Pixel' and 'Reconnect To A Pixel'. Disconnecting and re-connecting a pixel will solve almost any problem with Shopify.</p><p><br /></p><p>In conjunction with disconnecting and re-connecting the pixel, the advertiser can create a new pixel per the instructions at the top of the document <span style=\"color: #222222;\">'Create Pixel Through TikTok/Shopify Integration'. Their current pixel is not performing well, so if they object to creating a new pixel you could point out that creating a new pixel can only improve their campaign performance on TikTok. This will also give us a way to compare the new and old pixel, and further understand the issues that have come up recently.</span></p><p><br /></p><p><span style=\"color: #222222;\">I'll keep this ticket open for now in case there are questions!</span></p><p><br /></p><p><span style=\"color: #222222;\">Thanks, Heidi</span></p></img>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "pdf",
+              "file_name": "Shopify Integration Hub Implementation and Troubleshooting.pdf",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf?lk3s=cbe26b3a&x-expires=4832838461&x-signature=06eXdxfbqvz79b26azMGP%2Fs%2FHLw%3D",
+              "file_key": "tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf?lk3s=cbe26b3a&x-expires=4832838461&x-signature=06eXdxfbqvz79b26azMGP%2Fs%2FHLw%3D",
+              "biz_type": 2,
+              "size": 0
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709932596,
+      "auto_close_hit": 0,
+      "id": 7344102558203396000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Alexandra Unflat",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7148420261090673665",
+      "name": "Alexandra Unflat",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi,</p><p><br></p><p>Would you still recommend this if the client is using headless Shopify? They had an old pixel that would not implement initiate checkout or complete payment either and they created a new pixel (the one that is active now) and still have this issue.</p><p><br></p><p>I can send them what we covered in the office hours about the custom checkout flow and if they do have a custom flow they would have to set-up custom code in their theme or utilize GTM?</p><p><br></p><p>Best,</p><p>Alexandra</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_3b5cb0fa-d4c8-41bc-980c-5a2839e3c82g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709939809,
+      "auto_close_hit": 0,
+      "id": 7344131661145162000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Alexandra,</p><p><br></p><p>Yes, if they decided to go the custom code route, they would manually add the tags via GTM, and would need to make sure the pixel base code loads in each page the user will land on during the checkout/payment experience.</p><p><br></p><p> There is no downside to trying this is in their GTM in &#39;preview&#39; mode. I would recommend they set up the empty events using Custom HTML with just the trigger at first, and see if they can get the &#39;InitiateCheckout&#39; and &#39;CompletePayment&#39; events to fire for the appropriate actions. If that test is successful, they can move forward to adding the necessary parameters and publish them to production.&nbsp;</p><p><br></p><p>Will keep this ticket open until we can verify the events have been installed and are working.</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1920703,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "heidi.williams@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Muji - Pixel",
+  "category_1_name": "Basic",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_3b5cb0fa-d4c8-41bc-980c-5a2839e3c82g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1709939809,
+  "owner_name": "Alexandra Unflat",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Basic",
+  "archive_category_1": "1736497459354674",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7148420261090673665",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Alexandra Unflat",
+  "follow_employee_id": 5710207,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 834653,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Muji - Pixel",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Shopify",
+      "valid": true,
+      "key": "Shopify",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Muji USA ",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7335931544399478785"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Alexandra Unflat - BPM/CSM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "6997028697345638402",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CN77GLBC77UBGB37QAL0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.muji.us/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-05",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "My client MUJI is set-up on Shopify and set-up the pixel via Shopify. However, when they set things up the pixel did not build out events for initiate checkout completely and is totally missing complete payment which is strange since the client is on Shopify. When I reached out to the client about this issue, their developer team sent some flags about the setup (shown in the screenshots).\nScreenshot 1: Taken from client email\nUnnamed 1: Taken from email but was from the developer team - recent update\nUnnamed: Taken from the email but was from the developer team",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-03-05 at 4.01.50 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c8258bb757427a9413865f851a4e80.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=3dIp4riJfuQptO2P9inyUa%2F32gc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f4c8258bb757427a9413865f851a4e80.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c8258bb757427a9413865f851a4e80.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=3dIp4riJfuQptO2P9inyUa%2F32gc%3D",
+          "size": 448228
+        },
+        {
+          "file_type": "png",
+          "file_name": "unnamed-1.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4400c54a57a9467ca38afebd241216f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=wXl0x2CJlnY5oFECIUokjgi%2F7Ek%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4400c54a57a9467ca38afebd241216f2.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4400c54a57a9467ca38afebd241216f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=wXl0x2CJlnY5oFECIUokjgi%2F7Ek%3D",
+          "size": 30381
+        },
+        {
+          "file_type": "png",
+          "file_name": "unnamed.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8575a9c3f5b54fd88e37d71339dd14ab.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=LAiEc5PNvkY5ZEZdwVQzoGZmb%2Bc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8575a9c3f5b54fd88e37d71339dd14ab.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8575a9c3f5b54fd88e37d71339dd14ab.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=LAiEc5PNvkY5ZEZdwVQzoGZmb%2Bc%3D",
+          "size": 59773
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/762b002524ac40099b6ba5d2c76c30e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=QfaeYojcNWOEbDFJoyOAlrPTx1U%3D",
+          "file_name": "file_20240318_15_07_42_061389",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/762b002524ac40099b6ba5d2c76c30e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=QfaeYojcNWOEbDFJoyOAlrPTx1U%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/762b002524ac40099b6ba5d2c76c30e1.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "pdf",
+          "file_name": "Shopify Integration Hub Implementation and Troubleshooting.pdf",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf?lk3s=cbe26b3a&x-expires=4832838461&x-signature=06eXdxfbqvz79b26azMGP%2Fs%2FHLw%3D",
+          "file_key": "tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf?lk3s=cbe26b3a&x-expires=4832838461&x-signature=06eXdxfbqvz79b26azMGP%2Fs%2FHLw%3D",
+          "biz_type": 2,
+          "size": 0
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Basic"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

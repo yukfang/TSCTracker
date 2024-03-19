@@ -1,0 +1,793 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497066245137",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Armando Carmona Blanco",
+  "create_time": 1706716968,
+  "deadline": 0,
+  "archive_board_id": 1705151646989663,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706816501,
+      "auto_close_hit": 0,
+      "id": 7330719519201182000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Ale,</p><p>Confirmando recibo de tu ticket.</p><p>Te comparto el <a target=\"_blank\" href=\"https://bytedance.larkoffice.com/scheduler/73e856441d0bf383\">enlace a mi agenda</a>, esta tiene mi horario actualizado para que puedas escoger la hora mas conveniente para el cliente.</p><p>Avísame cualquier cosa.</p><p>Saludos,<br>Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706894332,
+      "auto_close_hit": 0,
+      "id": 7331054690194571000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ale Villaseñor",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7155498284428985345",
+      "name": "Ale Villaseñor",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Armando, let me verify my client availability and get back to you.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_15c520a0-7369-43c6-ad34-a2166787d8hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707265900,
+      "auto_close_hit": 0,
+      "id": 7332649803727372000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Ale Villaseñor",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7155498284428985000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Ale,</p><p>Estuve revisando la página de este cliente y al parecer la razón por la cual nuestro pixel no carga es porque tienen una <span style=\"color: #202124;\">política de seguridad de contenidos - </span>Content Security Policy (CSP) - en su sitio web.</p><img alt=\"Screenshot 2024-02-06 at 4.18.06 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/008e310c708548fcbd624f4fe02f6886.png\" height=\"188.479\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/008e310c708548fcbd624f4fe02f6886.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832611&amp;x-signature=6xaJhx%2FLPjACmcXaOKmPXW7VPD8%3D\" width=\"375\"><p>Para resolver este problema, deben de <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585704427522\" target=\"_blank\">agregar esta información a su CSP.</a> Esto es algo que su equipo de IT debe hacer.</p><p>Puedes enviar la información de arriba al cliente y tal vez no sea necesario programar la llamada.</p><p>Quedo atento.</p><p>Armando</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707331172,
+      "auto_close_hit": 0,
+      "id": 7332930308762894000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Conclusion]&nbsp;</strong><br>Advertiser reached out because they were having issues loading our pixel on their page. After inspection, it was discovered the site has a CSP in place which is blocking our pixel, and a couple others from loading. Provided the necessary information for the marketing team to provide their IT/InfoSec/Web Dev team to allow our pixel to load.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707343238,
+      "auto_close_hit": 0,
+      "id": 7332982291012125000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ale Villaseñor",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7155498284428985345",
+      "name": "Ale Villaseñor",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>hola Armando, ya me contestaron lo siguiente, me ayudas a revisar por favor? </p><img alt=\"W0VZb6urdoERlsxqh6RlyQlhgae.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ab5cc8e432104be0929145c65c722510.png\" height=\"172.658\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab5cc8e432104be0929145c65c722510.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832611&amp;x-signature=4zUgBM0hX7NOl%2BPpJ3lG%2FAc7LYk%3D\" width=\"375\"><p><span style=\"color: #1F2329;\"><br>En el CSP evaluator marca si ya está dado de alta, no se porque podría no estar disparándose. Comparto todos los CSPs: </br></span><span style=\"color: #0000FF;\"><a href=\"https://csper.io/evaluations/65a5634b73eb9d58ab9f5e9f\" target=\"_blank noopener noreferrer\">https://csper.io/evaluations/65a5634b73eb9d58ab9f5e9f</a></span><br /></p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_15c520a0-7369-43c6-ad34-a2166787d8hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707345507,
+      "auto_close_hit": 0,
+      "id": 7332991895368401000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Ale Villaseñor",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7155498284428985000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Ale,</p><p>La documentación oficial de TikTok dice que se debe de agregar el dominio<em> analytics.tiktok.com</em> a los siguientes directivos:</p><ul><li><span style=\"color: #E45649;\">script-src</span></li><li><span style=\"color: #E45649;\">img-src</span></li><li><span style=\"color: #E45649;\">connect-src</span></li></ul><p>Cuando voy a su página en <span style=\"color: #093057;\"><a href=\"https://onboarding.santander.com.mx/cuenta-digital-lite/personal-data\" target=\"_blank\">https://onboarding.santander.com.mx/cuenta-digital-lite/personal-data</a>, </span>me muestra que el pixel es blockeado por la CSP debido al directivo de <strong>connect-src</strong>.</p><img alt=\"Screenshot 2024-02-07 at 2.13.12 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c645ee5813294cd49dafa0fa1902e296.png\" height=\"188.479\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c645ee5813294cd49dafa0fa1902e296.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832611&amp;x-signature=5UT7ZwpxUcIbs2hQyBViYRoVxbA%3D\" width=\"375\"><p>Cuando verifico esto en el <a href=\"https://csper.io/evaluations/65a5634b73eb9d58ab9f5e9f\" target=\"_blank\">CSP evaluator</a> que nos enviaron, puedo ver lo siguiente:</p><img alt=\"Screenshot 2024-02-07 at 2.22.11 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/144145353267444ead94af9e652fc30e.png\" height=\"188.479\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/144145353267444ead94af9e652fc30e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832611&amp;x-signature=tZd%2Fgkn5%2B%2Bkr4y7Yw8DOzXkBjJ0%3D\" width=\"375\"><p>Les hizo falta agregar el dominio de TikTok a el directivo de<strong> connect-src</strong>.</p><p>Con este último cambio se detonará el pixel. Avísame si hay alguna otra pregunta.</p><p>Saludos,<br>Armando</br></p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707422361,
+      "auto_close_hit": 0,
+      "id": 7333322154227892000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Ale,</p><p>Voy a cerrar este ticket por ahora. Puedes re-abrirlo si el anunciante tiene alguna otra duda.</p><p>Saludos,<br>Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707422463,
+      "auto_close_hit": 0,
+      "id": 7333322384746856000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><span style=\"color: #333333;\"><strong>[Conclusion]&nbsp;</strong><br>Advertiser reached out because they were having issues loading our pixel on their page. After inspection, it was discovered the site has a CSP in place which is blocking our pixel, and a couple others from loading. Provided the necessary information for the marketing team to provide their IT/InfoSec/Web Dev team to allow our pixel to load.</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708033576,
+      "auto_close_hit": 0,
+      "id": 7335946230452847000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ale Villaseñor",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7155498284428985345",
+      "name": "Ale Villaseñor",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Armando, aún no recibo respuesta del cliente pero quisiera hacer una consulta: en su anuncio están utilizando una instant page. Pudiera ser que la instant page interfiere en algo con la actividad que se refleja del pixel ?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_15c520a0-7369-43c6-ad34-a2166787d8hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708042056,
+      "auto_close_hit": 0,
+      "id": 7335982960509764000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Ale Villaseñor",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7155498284428985000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Ale,</p><p>Con respecto a tu pregunta, eso no afecta en nada ya que las dos cosas son por separadas.</p><p>Es decir, la Instant Page es una página que se carga dentro de la aplicación de TikTok y mientras el usuario esta interactuando con la Instant Page, aun no llegan a la pagina de Santander.</p><p>El motivo de que el pixel no se cargue es 100% relacionado con el CSP que se encuentra en su página web. </p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708969725,
+      "auto_close_hit": 0,
+      "id": 7339968654798307000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ale Villaseñor",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7155498284428985345",
+      "name": "Ale Villaseñor",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>hola de nuevo Armando.&nbsp;</p><p>Solo para confirmar. Una vez agregado el directivo que falta al CSP, se estarán detonando los diferentes eventos que tienen configurados?&nbsp;</p><p>Ya que de momento solo se refleja información en el de Page view.&nbsp;</p><p><br></p><p>Quisiera asegurarme de que agregando ese directivo tendremos la data de todos los eventos.&nbsp;</p><p><br></p><p>gracias!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_15c520a0-7369-43c6-ad34-a2166787d8hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709140068,
+      "auto_close_hit": 0,
+      "id": 7340700347930886000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ale Villaseñor",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7155498284428985345",
+      "name": "Ale Villaseñor",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>hola Armando, tuviste oportunidad de revisar mi duda? gracias!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_15c520a0-7369-43c6-ad34-a2166787d8hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709247327,
+      "auto_close_hit": 0,
+      "id": 7341158817075315000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Ale Villaseñor",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7155498284428985000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Ale,</p><p>Estuve fuera de oficina del 2-19 hasta ayer 2-28, apenas acabo de mirar tu mensaje.</p><p>Si no hay nada mas en su pagina que obstruya al pixel (hasta ahora no veo nada mas), los eventos que se hayan implementado se detonarán de manera correcta una vez que le pixel base se logre cargar.</p><p>Saludos,<br>Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709316829,
+      "auto_close_hit": 0,
+      "id": 7341458811711963000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ale Villaseñor",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7155498284428985345",
+      "name": "Ale Villaseñor",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>gracias Armando! una vez que quede listo lo de CSP regreso contigo para verificar :)&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_15c520a0-7369-43c6-ad34-a2166787d8hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1850406,
+  "workflow_nodes": [],
+  "board_id": 1705151646989663,
+  "employee_email": "armando.carmona@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Santander - Pixel and Web Events with GTM",
+  "category_1_name": "Events API - Web",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_15c520a0-7369-43c6-ad34-a2166787d8hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1710529651,
+  "owner_name": "Ale Villaseñor",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - Web",
+  "archive_category_1": "1736497066245137",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497066245137",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882593",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882609",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883585",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883601",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400130",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400146",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400162",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400178",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401154",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401170",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401186",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401202",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548708426753",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - Web"
+    }
+  ],
+  "core_user_id": "7155498284428985345",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Ale Villaseñor",
+  "follow_employee_id": 1807296,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 238961,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Santander - Pixel and Web Events with GTM",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Santander",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Finance",
+      "valid": true,
+      "key": "Finance",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "LATAM-MX",
+      "valid": true,
+      "key": "LATAM",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7320333465537314818",
+        "7062434452198211585"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Ale Villaseñor (CSM) and Katiana Guerrero (BPM)",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CL7738BC77UFPNDA5JUG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://onboarding.santander.com.mx/cuenta-digital-lite?is_from_prerender=0&timestamp=1706716410&ttclid=&utm_campaign=N2_CONV_TIKTOK_AON_ADBID&utm_medium=tik-tok-perf&utm_source=copy_link"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-31",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Client website managers are not succeeding with the pixel implementation, only Page View is reflecting data. We need further assistance to guide them. Can you share agenda options to have a call with them please? ",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Captura de pantalla 2024-01-31 a la(s) 10.02.02.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2469067ed26c440c855d62ed6b868718.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=oYHMqHAYk0Hd74DL5UP8OQZPH7M%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2469067ed26c440c855d62ed6b868718.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2469067ed26c440c855d62ed6b868718.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=oYHMqHAYk0Hd74DL5UP8OQZPH7M%3D",
+          "size": 328748
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/008e310c708548fcbd624f4fe02f6886.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=6xaJhx%2FLPjACmcXaOKmPXW7VPD8%3D",
+          "file_name": "file_20240318_13_30_11_521845",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/008e310c708548fcbd624f4fe02f6886.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=6xaJhx%2FLPjACmcXaOKmPXW7VPD8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/008e310c708548fcbd624f4fe02f6886.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab5cc8e432104be0929145c65c722510.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=4zUgBM0hX7NOl%2BPpJ3lG%2FAc7LYk%3D",
+          "file_name": "file_20240318_13_30_11_607795",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab5cc8e432104be0929145c65c722510.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=4zUgBM0hX7NOl%2BPpJ3lG%2FAc7LYk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ab5cc8e432104be0929145c65c722510.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/144145353267444ead94af9e652fc30e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=tZd%2Fgkn5%2B%2Bkr4y7Yw8DOzXkBjJ0%3D",
+          "file_name": "file_20240318_13_30_11_676883",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/144145353267444ead94af9e652fc30e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=tZd%2Fgkn5%2B%2Bkr4y7Yw8DOzXkBjJ0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/144145353267444ead94af9e652fc30e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c645ee5813294cd49dafa0fa1902e296.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=5UT7ZwpxUcIbs2hQyBViYRoVxbA%3D",
+          "file_name": "file_20240318_13_30_11_676953",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c645ee5813294cd49dafa0fa1902e296.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=5UT7ZwpxUcIbs2hQyBViYRoVxbA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c645ee5813294cd49dafa0fa1902e296.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - Web-Events API - Web"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

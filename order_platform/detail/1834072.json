@@ -1,0 +1,416 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Thomas Mei",
+  "create_time": 1706043155,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706199022,
+      "auto_close_hit": 0,
+      "id": 7328068292013244000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jessicasun@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jessica Sun796",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7135344440357798914",
+      "name": "Jessica Sun796",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Carly! Following up on this ticket</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_006h_c8375f2b-d7ff-4dd2-aac0-a3010fa6e1hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706204396,
+      "auto_close_hit": 0,
+      "id": 7328091751183319000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi JEssica,</p><p><br></p><p>From looking at the screenshots it seems that there is an issue with the catalog feed/file and we are rejecting the products.&nbsp;</p><p><br></p><p>Could you either provide their BC or link me to their catalog manager?</p><p><br></p><p>I should be able to provide more context once I take a look.</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706204797,
+      "auto_close_hit": 0,
+      "id": 7328093141733589000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jessicasun@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jessica Sun796",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7135344440357798914",
+      "name": "Jessica Sun796",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Thomas<br><br>BC link:&nbsp;https://business.tiktok.com/manage/overview?org_id=6849810870155870214&amp;log_employee_id=6020803&amp;log_type=staff_unified_auth__3m&nbsp;<br>BC ID:&nbsp;6849810870155870214<br>Ad Account ID:&nbsp;<span style=\"color: #8A8A8A;\">7173734778540130305</span><br>Catalog ID:&nbsp;<span style=\"color: #8A8A8A;\">7314714484377995009</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_006h_c8375f2b-d7ff-4dd2-aac0-a3010fa6e1hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706214930,
+      "auto_close_hit": 0,
+      "id": 7328135802658111000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Jessica,</p><p><br></p><p>From taking a look at the catalog you provided, I think potentially the issue might be that the client&#39;s Shopify domain already has an existing catalog tied to it which is this one:&nbsp;https://business.tiktok.com/manage/catalog?is_new_connect=0&amp;is_new_user=0&amp;log_employee_id=8808557&amp;log_type=staff_unified_auth__3m&amp;org_id=7320302883319332866</p><p><br></p><p>The BC/Catalog you linked appear to be owned by an ad agency i.e. &#34;Time + Space Media&#34;.&nbsp;</p><p><br></p><p>I am unsure of how the agency is attempting to sync the catalog in question or what they are trying to do.&nbsp;</p><p><br></p><p>Feel free to ping me on Lark if you&#39;d like to discuss further.&nbsp;</p><p><br></p><p>Regards,</p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710540203,
+      "auto_close_hit": 0,
+      "id": 7346709033362948000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Jessica,</p><p><br></p><p>Does the client still need support here with their catalog?&nbsp;</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1834072,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "thomas.mei@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Nature's Way Shopify Product Integration",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_006h_c8375f2b-d7ff-4dd2-aac0-a3010fa6e1hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710540203,
+  "owner_name": "Jessica Sun",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7135344440357798914",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Jessica Sun",
+  "follow_employee_id": 2819808,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 228405,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Nature's Way Shopify Product Integration",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Shopify",
+      "valid": true,
+      "key": "Shopify",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Nature's Way ",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "CPG",
+      "valid": true,
+      "key": "CPG",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-CA",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "7173734778540130305",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-23",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "New catalog integation",
+      "valid": true,
+      "key": "New catalog integation",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "When the client tries to add their product catalog to their ads manager, no products show up. They are connecting to Shopify via their pixel. See screenshots attached. ",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "image008 (1).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a190caef18f543069d6fb5c559f8854a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832607&x-signature=8RSn6kgPlZ62jJrPzjaVRAzgfTA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a190caef18f543069d6fb5c559f8854a.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a190caef18f543069d6fb5c559f8854a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832607&x-signature=8RSn6kgPlZ62jJrPzjaVRAzgfTA%3D",
+          "size": 212038
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-01-23 at 1.38.34 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/11f55185489c445f8189349ab68c49dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832607&x-signature=qzRT%2Bl2EKkMBX6u16wgHHdBuEN8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/11f55185489c445f8189349ab68c49dc.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/11f55185489c445f8189349ab68c49dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832607&x-signature=qzRT%2Bl2EKkMBX6u16wgHHdBuEN8%3D",
+          "size": 627290
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-01-23 at 1.39.29 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5279455c27164651870eb08022cc09b5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832607&x-signature=R1FKr9ga4cfhWXpDY94E%2FhSDp9Q%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5279455c27164651870eb08022cc09b5.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5279455c27164651870eb08022cc09b5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832607&x-signature=R1FKr9ga4cfhWXpDY94E%2FhSDp9Q%3D",
+          "size": 470780
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-01-23 at 1.40.50 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d3fadaadad314ece808003310b2fc65c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832607&x-signature=YQ1v0kcHIdWJqIfjTCPLgVQM0cc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d3fadaadad314ece808003310b2fc65c.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d3fadaadad314ece808003310b2fc65c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832607&x-signature=YQ1v0kcHIdWJqIfjTCPLgVQM0cc%3D",
+          "size": 903945
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-01-23 at 1.42.28 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c35574cce4144c2d8523a7dced8d3655.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832607&x-signature=ZRxJMre5hA0cj3dkTAyYEut2ybs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c35574cce4144c2d8523a7dced8d3655.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c35574cce4144c2d8523a7dced8d3655.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832607&x-signature=ZRxJMre5hA0cj3dkTAyYEut2ybs%3D",
+          "size": 527067
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

@@ -1,0 +1,661 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600019392513",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Itay Filiba",
+  "create_time": 1706755937,
+  "deadline": 0,
+  "archive_board_id": 1705151646989732,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706793415,
+      "auto_close_hit": 0,
+      "id": 7330621130245456000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Kylie Yeo",
+      "editable": 0,
+      "reply_email": "itay.filiba@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Itay Filiba",
+      "reply_to_user_id": 7038603873884521000,
+      "is_hide_name": false,
+      "core_user_id": "7187710198676145154",
+      "name": "Itay Filiba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi&nbsp;Kylie,&nbsp;<br><br></p><p>Thank you for your submitting request for end-to-end live streaming consultancy. Our team, MPO LIVE, supports GBS and their key advertisers that go live on TikTok.&nbsp;</p><p><br></p><p>As mentioned on <a target=\"_blank\" href=\"https://bytedance.us.feishu.cn/docx/WZ0bd3eudox5Z8xqTEwuIfn9scg\">MPO Livestream Support - FAQ for GBS and PMM</a>, we require at least 2 week notice before the live event. Your request does not meet this requirement. Despite this short notice request, we will be able to provide  limited support here on Athena before pro-LIVE (before your client going live). We will not be able to monitor this live stream  and to provide real-time support&nbsp;during its flight time. This support is called Scaled Support (<a target=\"_blank\" href=\"https://vcp.to/supportlevel\">learn more here</a>).</p><p><br></p><p>Please let me know if you are interested in this Scaled Support.&nbsp;</p><p><br></p><p>IMPORTANT</p><p>I noticed that you applied for TnS protection and MI Exemption. Your MI Exemption was rejected due to wrong times Beijing vs UTC. Your TnS protection was approved, but the protection time you applied for don&#39;t aligned to the start/end time you mentioned here. This means that your client&#39;s account is not protected for the 10am ID time live stream.&nbsp;</p><p><br></p><p>Please re-apply again asap&nbsp;</p><p>TnS Protection - https://vcp.to/tns</p><p>MI Exemption - https://vcp.to/mi<br><br>Best regards,&nbsp;</p><p>Itay, MPO LIVE</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707101316,
+      "auto_close_hit": 0,
+      "id": 7331943351463231000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kylie Yeo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7038603873884521473",
+      "name": "Kylie Yeo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hello Itay!<br><br>No worries on this thanks! i have reapplied already! strangely couldnt receive the notification here!!! appreciate ur help for urgent approval please!! thankyou!!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_91d8bf13-0c01-4ae2-a244-492f45b5c3hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707122953,
+      "auto_close_hit": 0,
+      "id": 7332036441947636000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Kylie Yeo",
+      "editable": 0,
+      "reply_email": "itay.filiba@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Itay Filiba",
+      "reply_to_user_id": 7038603873884521000,
+      "is_hide_name": false,
+      "core_user_id": "7187710198676145154",
+      "name": "Itay Filiba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kylle,&nbsp;</p><p><br></p><p>Thanks for your reply. It usually takes the TnS and MI teams 5-7 working days to process these requests. I will try to contact them and and them to expedite your request. However, I cannot guaranty your requests will be processed on time. You will be notified on Lark once your requests have been approved.&nbsp;</p><p><br></p><p>As for Athena notifications - a notification is sent automatically to your email address once there is a new update here on this ticket.&nbsp;</p><p><br></p><p>Other than that, once your client will set up their CI to LIVE campaign on TTAM, please send me the campaign ID. If sent enough time in advance, I will review their campaign and make sure it is set up correctly).&nbsp;</p><p><br></p><p>Best regards,&nbsp;</p><p>Itay</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707123104,
+      "auto_close_hit": 0,
+      "id": 7332036869724717000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kylie Yeo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7038603873884521473",
+      "name": "Kylie Yeo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>ok thank you very much Itay!! Campaign ID here :&nbsp;1790029366477858</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_91d8bf13-0c01-4ae2-a244-492f45b5c3hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707138086,
+      "auto_close_hit": 0,
+      "id": 7332101945550815000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Kylie Yeo",
+      "editable": 0,
+      "reply_email": "itay.filiba@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Itay Filiba",
+      "reply_to_user_id": 7038603873884521000,
+      "is_hide_name": false,
+      "core_user_id": "7187710198676145154",
+      "name": "Itay Filiba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks for providing this Campaign ID. I will review this campaign and get back to you.&nbsp;</p><p>In the meantime, I am happy to inform that TnS has approved your new TnS protection request.&nbsp;</p><p>MI exemption request is still under review.&nbsp;</p><p>Best,&nbsp;</p><p>Itay&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707139819,
+      "auto_close_hit": 0,
+      "id": 7332109093353619000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Kylie Yeo",
+      "editable": 0,
+      "reply_email": "itay.filiba@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Itay Filiba",
+      "reply_to_user_id": 7038603873884521000,
+      "is_hide_name": false,
+      "core_user_id": "7187710198676145154",
+      "name": "Itay Filiba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi&nbsp;<span style=\"color: #333333;\">Kylie,&nbsp;</span></p><p><br></p><p><span style=\"color: #333333;\">I reviewed the CI to LIVE campaign. Assuming your client will go live at 10am Jakarta time, the campaign looks fine. I noticed on the delivery type, they set up Standard Delivery. Most clients set up Accelerated&nbsp;delivery and not Standard delivery. However, given the fact that the live will run for 6 hours, I think that Standard Delivery is reasonable.&nbsp;</span></p><p><br></p><p><span style=\"color: #333333;\">Other than that, your client account have OBS LIVE access. I would recommend&nbsp;your client to check their OBS LIVE access on their TikTok account and make sure they are manage to generate stream key in order to stream using professional streaming software.&nbsp;</span></p><p><br></p><p>Let me know if you have any questions.&nbsp;</p><p><br></p><p><span style=\"color: #333333;\">Best,&nbsp;</span></p><p><span style=\"color: #333333;\">Itay, MPO LIVE</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707144176,
+      "auto_close_hit": 0,
+      "id": 7332127493140267000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kylie Yeo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7038603873884521473",
+      "name": "Kylie Yeo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you very much for your reply Itay! confirming that the client test run the livestream via OBS today on their test account, waiting their feedback to let me know by tomorrow if all good to go for 7 feb live! yeap noted on the delivery type we proposed to do standard delivery instead of accelerate given the audience pool size &amp; the duration of the live.&nbsp;</p><p><br></p><p>Noted on MI exemption, do you have the POC name that i can reach out to so i can get help to expedite as well? Thank you!!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_91d8bf13-0c01-4ae2-a244-492f45b5c3hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707147529,
+      "auto_close_hit": 0,
+      "id": 7332141604758618000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Kylie Yeo",
+      "editable": 0,
+      "reply_email": "itay.filiba@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Itay Filiba",
+      "reply_to_user_id": 7038603873884521000,
+      "is_hide_name": false,
+      "core_user_id": "7187710198676145154",
+      "name": "Itay Filiba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks, Kylle.&nbsp;</p><p><br></p><p>There is no MI POC. It is a long process involving different teams at MI to assess the risk of providing this MI Exemption request This is the reason this process takes time and we recommend applying at least 7 working days in advance.&nbsp;</p><p><br></p><p>Please note that MI will not ban the live stream. This is only TnS can do, and your account is protected. MI can reject your client advert during its live stream (if you don&#39;t get this MI Exemption). It this rejection is happen, your client can appeal by clicking the Appeal button on TTAM. MI then will assess this appeal and lift the ad rejection.&nbsp;</p><p><br></p><p>Anyway, I am still hopping that by 7 Feb, your MI exemption request will be approved.&nbsp;</p><p><br></p><p>Let me know if you have further questions.&nbsp;</p><p><br></p><p>Best,&nbsp;</p><p>Itay&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707224988,
+      "auto_close_hit": 0,
+      "id": 7332474308293296000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Kylie Yeo",
+      "editable": 0,
+      "reply_email": "itay.filiba@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Itay Filiba",
+      "reply_to_user_id": 7038603873884521000,
+      "is_hide_name": false,
+      "core_user_id": "7187710198676145154",
+      "name": "Itay Filiba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi&nbsp;<span style=\"color: #333333;\">Kylie,&nbsp;</span></p><p><span style=\"color: #333333;\">Good news: after I asked to expedite your request for MI Exemption, it has been approved and processed by the MI team.&nbsp;</span></p><p><span style=\"color: #333333;\">Best,&nbsp;</span></p><p><span style=\"color: #333333;\">Itay</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707226572,
+      "auto_close_hit": 0,
+      "id": 7332481290949771000,
+      "reply_role": null,
+      "staff_id": 3223108,
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kylie.yeo@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user5011685155507",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7038768351711691777",
+      "name": "Kylie Yeo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Yayyyy thank you very much for your help!!!!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_91d8bf13-0c01-4ae2-a244-492f45b5c3hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707824862,
+      "auto_close_hit": 0,
+      "id": 7335051282111037000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Kylie Yeo",
+      "editable": 0,
+      "reply_email": "itay.filiba@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Itay Filiba",
+      "reply_to_user_id": 7038603873884521000,
+      "is_hide_name": false,
+      "core_user_id": "7187710198676145154",
+      "name": "Itay Filiba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi&nbsp;<span style=\"color: #333333;\">Kylie,</span></p><p><br></p><p>Thank you for using MPO end-to-end live streaming consultation service. Our support for this live stream has ended. </p><p><br></p><p>We will be happy to support you again in future live stream. I would advise to request our support at least 2 weeks in advance. The earlier, the better support we can provide. </p><p><br></p><p>Request support <a target=\"_blank\" href=\"https://ads.tiktok.com/athena/requester/form/1754543111783458?board_id=1705151646989732&amp;category_1_id=1754600019392513&amp;identify_key=56482366f70c4340bdc6fef12d2624f32043c69ae748816427c4faaec4d33531\">here</a></p><p><br></p><p>Best regards,&nbsp;</p><p>Itay, MPO LIVE</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1851292,
+  "workflow_nodes": [],
+  "board_id": 1705151646989732,
+  "employee_email": "itay.filiba@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Grab Mart Lunar New Year Zodiac Fortune Telling",
+  "category_1_name": "Livestream Consultation",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_91d8bf13-0c01-4ae2-a244-492f45b5c3hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1707824877,
+  "owner_name": "Kylie Yeo",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Livestream Consultation",
+  "archive_category_1": "1754600019392513",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600019392513",
+      "cate_1_form_id": 1754543111783458,
+      "sub_cates": [],
+      "value": "Livestream Consultation"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1782786995587105",
+      "cate_1_form_id": 1782788250818562,
+      "sub_cates": [],
+      "value": "Livestream - Ask a Question"
+    }
+  ],
+  "core_user_id": "7038603873884521473",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Kylie Yeo",
+  "follow_employee_id": 8282921,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2948773,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Livestream Name (for internal use)",
+      "content": "Grab Mart Lunar New Year Zodiac Fortune Telling",
+      "valid": true,
+      "item_id": 1754543111783474,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "<p spellcheck=\"true\">&nbsp;MPO's Livestream Consultation program is designed to cover the end-to-end experience of delivering a successful livestream. GBS must request support at least 2 weeks before the livestream to ensure we have adequate time and capacity to plan for your client's event.</p>",
+      "content": "",
+      "valid": true,
+      "item_id": 1759228312159265,
+      "type": 12,
+      "option_meaning": -1
+    },
+    {
+      "label": "Client Name",
+      "content": "Grab",
+      "valid": true,
+      "item_id": 1754543111785474,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Client Region",
+      "content": "SEA-ID",
+      "valid": true,
+      "key": "SEA",
+      "item_id": 1755520003251233,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Date of the livestream",
+      "content": "2024-02-07",
+      "valid": true,
+      "item_id": 1757859148047410,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Estimated start time of Livestream (please specify timezone)",
+      "content": "10am GMT+7",
+      "valid": true,
+      "item_id": 1754543541349377,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Estimated planned duraion of Livestream (in minutes)",
+      "content": "360minutes",
+      "valid": true,
+      "item_id": 1754543541349393,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Concept and content of the livestream",
+      "content": "- GrabMart voucher promotions\n- Zodiac Signs fortunte-telling \n- Promo Mechanism : Unique promo code with discount & validity \n- Code to redeem, do checkout on Grab app via GrabMart (during live)",
+      "valid": true,
+      "item_id": 1759227274796065,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser ID",
+      "content": "6876444572671542018",
+      "valid": true,
+      "item_id": 1754543111785490,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": "6818381085903159302",
+      "valid": true,
+      "item_id": 1754543111785506,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "UID of the TikTok account the client will go live from",
+      "content": "6796864471022765058",
+      "valid": true,
+      "item_id": 1759227274796081,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Handle of the account the client will go live from",
+      "content": "grabid",
+      "valid": true,
+      "item_id": 1759227274797057,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "UID of the test account the client will use for technical checks",
+      "content": "",
+      "valid": true,
+      "item_id": 1759227274797073,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Handle of test account the client will use for technical checks ",
+      "content": "",
+      "valid": true,
+      "item_id": 1759227473040386,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Onwnership of the The TikTok account that will go live",
+      "content": "TikTok account owned by the client",
+      "valid": true,
+      "key": "TikTok account owned by the client",
+      "item_id": 1759227473040402,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Client Vertical",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1754543318746210,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Livestream type",
+      "content": [
+        "Desktop TikTok LIVE Studio (Live is conducted using TikTok's software for live streaming)"
+      ],
+      "valid": true,
+      "key": [
+        "Desktop TikTok LIVE Studio (Live is conducted using TikTok's software for live streaming)"
+      ],
+      "item_id": 1759227528532993,
+      "type": 10,
+      "option_meaning": -1
+    },
+    {
+      "label": "Mutli-channel: will the client livestream to other platforms in addition to TikTok (such as YouTube, Facebook, Twitch, Linkedin)",
+      "content": "No",
+      "valid": true,
+      "key": "No",
+      "item_id": 1759228074715153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the client hiring a production company?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1759228074716177,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "What Livestream Traffic Solution is the client going to use?",
+      "content": "Community Interaction to Live (CI to Live)",
+      "valid": true,
+      "key": "Community Interaction to Live (CI to Live)",
+      "item_id": 1759228390802434,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "How much ad spend (US$) is the client planning to allocate towards Livesteam Traffic Solutions (TopView or CI to Live)?",
+      "content": "15000",
+      "valid": true,
+      "item_id": 1754543685146642,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "What is the total campaign ad budget for this live stream (pre-Live, mid-Live, and post-Live)? ",
+      "content": "15720",
+      "valid": true,
+      "item_id": 1774364942346242,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this campaign already being supported by a content/ editorial/ live-ops team?",
+      "content": "No",
+      "valid": true,
+      "key": "No",
+      "item_id": 1774364942346258,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Requester details: Name (Lark)",
+      "content": "Kylie Yeo",
+      "valid": true,
+      "item_id": 1759228776060929,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please add any internal names you want us to add to the Lark group discussion on next steps (if we create a Lark group)?",
+      "content": "7 Feb GrabMart Livestream",
+      "valid": true,
+      "item_id": 1754543685146658,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Additional information you would like to add",
+      "content": "",
+      "valid": true,
+      "item_id": 1754543685146674,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "If there is a file or screenshot you would like to share with us, please upload here (optional)",
+      "content": [],
+      "valid": true,
+      "item_id": 1759228776060961,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Tiktok Livestream Consultation-Livestream Consultation"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

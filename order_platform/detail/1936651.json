@@ -1,0 +1,320 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Κατερίνα Σάκκουλα",
+  "create_time": 1710249080,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710249394,
+      "auto_close_hit": 0,
+      "id": 7345463869718036000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Dante Morales",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6938324250504299522",
+      "name": "Dante Morales",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>As extra information, please find the Adjust mapping that the client sent. They ask:&nbsp;</p><p><br></p><p>&#39;&#39;<span style=\"color: #222222;\">Specifically, TikTok is expecting to get the article numbers as “content_id” (and not e.g. “contentid”?&#39;&#39;</span></p><p><br></p><p><span style=\"color: #222222;\">Thanks!&nbsp;</span></p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "image001 (1).png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875805&x-signature=Jrlx7d%2FByTndKXaH0QQlHynX2Hw%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875805&x-signature=Jrlx7d%2FByTndKXaH0QQlHynX2Hw%3D",
+              "biz_type": 2,
+              "size": 46369
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_be9a11e6-f707-4382-b9c9-4ece1376bdhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710791780,
+      "auto_close_hit": 0,
+      "id": 7347792469267939000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><strong>[Status Update]</strong>&nbsp;Internal call scheduled for 21/03</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1936651,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "katerina.sakkoula@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Catalogue showing alerts under Event sources for View Content and Add to Cart and Add to Cart app events",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_be9a11e6-f707-4382-b9c9-4ece1376bdhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710791780,
+  "owner_name": "Dante Morales",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "6938324250504299522",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Dante Morales",
+  "follow_employee_id": 9295306,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 20025,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Catalogue showing alerts under Event sources for View Content and Add to Cart and Add to Cart app events",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "OTTO",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-DE",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "7078229405281124353",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "200K",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-12",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Hello, \n\nThe client has reported that there are alerts on the Catalogue Manager under Events sources for both iOS and Android apps, related to events not containing content IDs and ''export content IDs that don't match the products in this catalogue''. It appears that the events affected are View Content and Add to Cart. This applies to both iOS and Android apps. Please send the screenshot sent by the client. \n\nCatalogue ID: 728867641635328998\n\nThe client said that they have mapped the content_id into the Events on Adjust, but the problem persists. \n\nCould you please indicate how to fix this issue? \n\nThank you, \nDante. \n\n",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "image.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef1009a962f84a2baa049641aa7809c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875805&x-signature=eXom6ga9Nq69lbzYVKc6llfZoes%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ef1009a962f84a2baa049641aa7809c2.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef1009a962f84a2baa049641aa7809c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875805&x-signature=eXom6ga9Nq69lbzYVKc6llfZoes%3D",
+          "size": 706260
+        },
+        {
+          "file_type": "png",
+          "file_name": "image001 (1).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875805&x-signature=Jrlx7d%2FByTndKXaH0QQlHynX2Hw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875805&x-signature=Jrlx7d%2FByTndKXaH0QQlHynX2Hw%3D",
+          "biz_type": 2,
+          "size": 46369
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

@@ -1,0 +1,750 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354674",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Heidi Williams",
+  "create_time": 1704989291,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1704989305,
+      "auto_close_hit": 0,
+      "id": 7322872637628187000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Calvin Lu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7236452529863836674",
+      "name": "Calvin Lu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Working with Aaron Chung &amp; Heidi Williams</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_7d70e9d1-82c5-40e3-8cb6-e6ce15ab33eh~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705079696,
+      "auto_close_hit": 0,
+      "id": 7323261021890675000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Calvin,</p><p><br /></p><p>As noted by Aaron in our group chat, I am only seeing a PageView event [<a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C49UB2JV29OEFGBDJ4S0?start_time=2024-01-06&amp;end_time=2024-01-12&amp;from=ALL&amp;aadvid=6863072833635876870\" target=\"_blank\">pixel id C49UB2JV29OEFGBDJ4S0</a>] firing for the url <a href=\"https://www.aeropostale.com/\" target=\"_blank\">aeropostale.com</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/43ef4107fa00401492b48a8ed2bf0e75.png\" height=\"197.501\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43ef4107fa00401492b48a8ed2bf0e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832913&amp;x-signature=2RS29qeW0jvhBe8Xl4l0rKiJsy0%3D\" width=\"375\"><p><br /></p><p>I would definitely recommend we get on a call to find out what the blocker are to full adoption of the pixel. You may want to pass along our guide for easily getting started implementing via Google Tag Manager with our template here:</p><p><a href=\"https://github.com/tiktok/gtm-template-pixel\" target=\"_blank\">https://github.com/tiktok/gtm-template-pixel</a></p><p>Even if they decide against using GTM (by far our most recommended method), it will give them an idea as to what code they need to have in place, what each event does and what parameters are needed and why, etc.</p><p><br /></p><p>Feel free to use my scheduler link: <a href=\"https://bytedance.larksuite.com/scheduler/74c8aaeecf93ed02\" target=\"_blank\">https://bytedance.larksuite.com/scheduler/74c8aaeecf93ed02</a></p><p><br /></p><p>Best, Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706130147,
+      "auto_close_hit": 0,
+      "id": 7327772306812502000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>A follow-up call is scheduled for this coming Friday 1/24.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706549713,
+      "auto_close_hit": 0,
+      "id": 7329574678685581000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Status Update] </strong>Led an implementation call with the developer on Friday 1/26. Managed to fix all blockers (client was implementing with Events Manager instead of custom code, and e-commerce built-in features were not working for them for some reason, so we disabled and used manual parameters) and the client is launching today 1/29.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706564937,
+      "auto_close_hit": 0,
+      "id": 7329639076036968000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Status Update] </strong>Client launched with a full funnel of pixel events this morning. All events are firing and reporting data as expected.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706564976,
+      "auto_close_hit": 0,
+      "id": 7329639076037001000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Calvin, wanted to let you know Aeropostale launched with a full funnel of events this morning! Just checked and everything looks great: <a target=\"_blank\" href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CMNCT6BC77U667VEGJBG?start_time=2024-01-23&amp;end_time=2024-01-29&amp;from=ALL&amp;aadvid=6863072833635876870\">https://ads.tiktok.com/i18n/events_manager/pixel/detail/CMNCT6BC77U667VEGJBG?start_time=2024-01-23&amp;end_time=2024-01-29&amp;from=ALL&amp;aadvid=6863072833635876870</a></p><p><br></p><p>We can continue in Lark discussion, adding here for tracking purposes.</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706722342,
+      "auto_close_hit": 0,
+      "id": 7330315491946381000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Calvin Lu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7236452529863836674",
+      "name": "Calvin Lu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi,&nbsp;<br><br>Thank you so much for your time and efforts here! Would you be also able to double-check everything looks good from a Catalog perspective?&nbsp;<a href=\"https://ads.tiktok.com/catalogs/overview?id=6932517562274105089&amp;bc_id=1673476398500869\" target=\"_blank noopener noreferrer\">https://ads.tiktok.com/catalogs/overview?id=6932517562274105089&amp;bc_id=1673476398500869</a></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_7d70e9d1-82c5-40e3-8cb6-e6ce15ab33eh~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706724912,
+      "auto_close_hit": 0,
+      "id": 7330327091436585000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Calvin,</p><p><br></p><p>Yes, I will take a look now and update you shortly.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706727437,
+      "auto_close_hit": 0,
+      "id": 7330337906286035000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Calvin,</p><p><br /></p><p>So, I can see from the <a href=\"https://ads.tiktok.com/catalogs/overview?id=6932517562274105089&amp;bc_id=1673476398500869&amp;app_id=6863461198264844293\" target=\"_blank\">catalog overview</a> that the catalog is currently frozen. You will notice the message if you scroll down:</p><p><em>We identified that your catalog has not incurred any costs in the past 28 days, resulting in the pause of product update. Create a campaign and run ads to resolve this. Or if you want to update your products for this time, go to the \"Product sources\" page and click \"Request data now\" to initiate update if you've uploaded products through a feed schedule.</em></p><p><br /></p><p>There are two different ways they can un-freeze the catalog and get matches going again:</p><ol><li>The client can link the catalog to a campaign - no need to go live - can be inactive <strong>(fastest way)</strong> then update their catalog feed to reflect all products/changes that took place while no updates were happening <strong>OR</strong></li><li>You can raise a Global TPS ticket with budget details, and that team can escalate to the appropriate team to unfreeze</li></ol><p><br /></p><p>They will also need to go in and connect their <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CMNCT6BC77U667VEGJBG?start_time=2024-01-23&amp;end_time=2024-01-29&amp;from=ALL&amp;aadvid=6863072833635876870\" target=\"_blank\">new pixel</a> id <span style=\"color: #666666;\">CMNCT6BC77U667VEGJBG</span> <a href=\"https://ads.tiktok.com/catalogs/event-sources?id=6932517562274105089&amp;bc_id=1673476398500869\" target=\"_blank\">here</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b3525407527a447daf64f499ab2c6fec.png\" height=\"109.839\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b3525407527a447daf64f499ab2c6fec.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832914&amp;x-signature=ttI%2BzzgLLCxG4dDViAeM96wxW%2FM%3D\" width=\"375\"><p>As you can see, the old pixel is still the only one connected.</p><p><br /></p><p>Also, please keep in mind, it will take 4-5 days after catalog is updated for match rates to be accurately reflected in the Events Sources <a href=\"https://ads.tiktok.com/catalogs/event-sources?id=6932517562274105089&amp;bc_id=1673476398500869&amp;path=event-sources-detail&amp;app_id=6863461198264844293\" target=\"_blank\">dashboard</a>.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706804413,
+      "auto_close_hit": 0,
+      "id": 7330668121826558000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Calvin,</p><p><br></p><p>Since we have cleared the bar in terms of 1) getting SPARC implemented with the pixel and 2) pixel QA and follow-up questions, I am going to go ahead and close this ticket. Should further questions come up, please submit a new ticket and we will resume.</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706804452,
+      "auto_close_hit": 0,
+      "id": 7330668384444580000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Conclusion]&nbsp;</strong><br>Client has implemented/adopted pixel.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1807486,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "heidi.williams@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "SPARC (Aeropostale, Lucky, Nautica) Pixel & Signals Implementation",
+  "category_1_name": "Basic",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_7d70e9d1-82c5-40e3-8cb6-e6ce15ab33eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1706804475,
+  "owner_name": "Calvin Lu",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Basic",
+  "archive_category_1": "1736497459354674",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7236452529863836674",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Calvin Lu",
+  "follow_employee_id": 5710207,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 3964439,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "SPARC (Aeropostale, Lucky, Nautica) Pixel & Signals Implementation",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Aeropostale",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6863072833635876870",
+        "7023804688382345217",
+        "6934793827890839553"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM - Calvin Lu, BPM - Otho Wilbur",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C49UB2JV29OEFGBDJ4S0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.aeropostale.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-11",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "SPARC Group has several accounts: Aeropostale, Nautica, and Lucky. Working with their agency, Tinuiti, to implement the 5 necessary events (Page View, View Content, Add to Cart, Initiate Checkout, and Complete Payment) across all accounts to implement a VSA conversion ad test for massive ad spend. \n\nFor example, Aeropostale (Ad Account ID: 6863072833635876870) & Pixel ID ( C49UB2JV29OEFGBDJ4S0) has run into events being added but not set up correctly. We have pointed the client to the TikTok Pixel Helper, but given that the client/agency communications are being passed through back and forth, there seems to be a gap in technical knowledge despite what should be a straight-forward implementation.\n\nWe would like to see if it is possible to request technical resources to communicate with their dev team to ensure we can set this up for a speedy launch.",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43ef4107fa00401492b48a8ed2bf0e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832913&x-signature=2RS29qeW0jvhBe8Xl4l0rKiJsy0%3D",
+          "file_name": "file_20240318_13_35_14_032349",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43ef4107fa00401492b48a8ed2bf0e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832913&x-signature=2RS29qeW0jvhBe8Xl4l0rKiJsy0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/43ef4107fa00401492b48a8ed2bf0e75.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b3525407527a447daf64f499ab2c6fec.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832914&x-signature=ttI%2BzzgLLCxG4dDViAeM96wxW%2FM%3D",
+          "file_name": "file_20240318_13_35_14_283583",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b3525407527a447daf64f499ab2c6fec.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832914&x-signature=ttI%2BzzgLLCxG4dDViAeM96wxW%2FM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b3525407527a447daf64f499ab2c6fec.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Basic"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

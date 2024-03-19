@@ -1,0 +1,305 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1782786995587105",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Itay Filiba",
+  "create_time": 1706097476,
+  "deadline": 0,
+  "archive_board_id": 1705151646989732,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706097508,
+      "auto_close_hit": 0,
+      "id": 7327632270003683000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Filippa Kihlman",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7033628842947593217",
+      "name": "Filippa Kihlman",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Oh, and the live stram is planned for February 1st!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_24f24be5-fc59-41fe-b9f1-4ffe33df6bhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706105073,
+      "auto_close_hit": 0,
+      "id": 7327664961172390000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": true,
+      "reply_to_user_name": "Filippa Kihlman",
+      "editable": 0,
+      "reply_email": "itay.filiba@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Itay Filiba",
+      "reply_to_user_id": 7033628842947593000,
+      "is_hide_name": false,
+      "core_user_id": "7187710198676145154",
+      "name": "Itay Filiba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi&nbsp;<span style=\"color: #333333;\">Filippa,&nbsp;</span></p><p><br></p><p><span style=\"color: #333333;\">Thanks for your message.&nbsp;</span></p><p><br></p><p>They will need to use external streaming software to create the split screen you mentioned. External software can be either LIVE STUDIO (a streaming software developed by TikTok) or any other streaming software such as OBS STUDIO, vMix, and else.&nbsp;</p><p><br></p><p>To use these external streaming software, your client will need special access to these tools (this is not open to everyone). Please check this video guide about LIVE STUDIO access and OBS LIVE access and how to apply for access. <a target=\"_blank\" href=\"https://vcp.to/vobsaccess\">VIDEO GUIDE HERE</a>&nbsp;. If you prefer, there is also a document explaining about this <a target=\"_blank\" href=\"https://bytedance.larkoffice.com/docx/RPdsdwTyTopOenxHkj0cm2zsne0\">HERE</a>.&nbsp;</p><p><br></p><p>Learn more about my team MPO LIVE and the services we provide <a target=\"_blank\" href=\"https://vcp.to/support\">HERE</a></p><p><br></p><p>Hope this is useful. If you have any further questions about this matter, please feel free to re-open this ticket.&nbsp;</p><p><br></p><p>Best regards,&nbsp;</p><p>Itay&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706106105,
+      "auto_close_hit": 0,
+      "id": 7327669383193494000,
+      "reply_role": null,
+      "staff_id": 8075958,
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "filippa.kihlman@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user9973971850013",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7032261814298985474",
+      "name": "Filippa Kihlman",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Itay! Thank you for getting back to me.&nbsp;</p><p>I&#39;ve gotten the permission to Arena but I need to wait until Friday to apply for access to the creator since they go live on 1st of feb.&nbsp;</p><p><br></p><p>One follow up question: Should I recommend the creator to use OBS LIVE or LIVE STUDIO for this specific campaign? What tool would work best?</p><p><br></p><p>Thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_24f24be5-fc59-41fe-b9f1-4ffe33df6bhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706115462,
+      "auto_close_hit": 0,
+      "id": 7327708943852126000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Filippa Kihlman",
+      "editable": 0,
+      "reply_email": "itay.filiba@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Itay Filiba",
+      "reply_to_user_id": 7033628842947593000,
+      "is_hide_name": false,
+      "core_user_id": "7187710198676145154",
+      "name": "Itay Filiba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi&nbsp;<span style=\"color: #333333;\">Filippa,&nbsp;</span></p><p><span style=\"color: #333333;\">LIVE STUDIO might be slightly more easy to use for people without technical background, however, they both need some technical knowledge&nbsp;on streaming. </span></p><p><span style=\"color: #333333;\">I would recommend you to apply for both access (LIVE STUDIO and OBS LIVE) and let the creator try them both.&nbsp;</span></p><p><span style=\"color: #333333;\">Guidance on how to use LIVE STUDIO can be found here:&nbsp;</span></p><p><a target=\"_blank\" href=\"https://www.tiktok.com/live/creators/en-SA/article/tiktok-live-studio-guideline_en-SA?name=undefined\">https://www.tiktok.com/live/creators/en-SA/article/tiktok-live-studio-guideline_en-SA?name=undefined</a></p><p>Best regards,&nbsp;</p><p>Itay&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1835520,
+  "workflow_nodes": [],
+  "board_id": 1705151646989732,
+  "employee_email": "itay.filiba@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Split screen in live streaming - WEEKDAY + Creator campaign",
+  "category_1_name": "Livestream - Ask a Question",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_24f24be5-fc59-41fe-b9f1-4ffe33df6bhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1706115502,
+  "owner_name": "Filippa Kihlman",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Livestream - Ask a Question",
+  "archive_category_1": "1782786995587105",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600019392513",
+      "cate_1_form_id": 1754543111783458,
+      "sub_cates": [],
+      "value": "Livestream Consultation"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1782786995587105",
+      "cate_1_form_id": 1782788250818562,
+      "sub_cates": [],
+      "value": "Livestream - Ask a Question"
+    }
+  ],
+  "core_user_id": "7033628842947593217",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Filippa Kihlman",
+  "follow_employee_id": 8282921,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 4653959,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "<p spellcheck=\"true\">MPO LIVE helps advertisers go live on TikTok. Use this form to submit a question to the MPO LIVE team regarding live streaming on TikTok. This form is not for troubleshooting and bugs. For troubleshooting and bugs please use: Athena &gt; TikTok Internal Tickets &gt; Branding solutions &gt; Livestream Traffic Solutions. ///Link to Athena Internal Tickets: https://vcp.to/atint</p>",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788572065825,
+      "type": 12,
+      "option_meaning": -1
+    },
+    {
+      "label": "Question title",
+      "content": "Split screen in live streaming - WEEKDAY + Creator campaign",
+      "valid": true,
+      "item_id": 1782788250818578,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Region",
+      "content": "EU-SE",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1782788281423874,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Client Name",
+      "content": "Weekday",
+      "valid": true,
+      "item_id": 1782788281425938,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788344073218,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": [
+        "7143974016166936577"
+      ],
+      "valid": true,
+      "item_id": 1782788344073234,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "UID of the TikTok account",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788344073250,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Handle of the TikTok account",
+      "content": [
+        "debadebadd"
+      ],
+      "valid": true,
+      "item_id": 1782788344073266,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Question text",
+      "content": "I'm working with Weekday who will launch a campaign together with a creator. One part of the creator collab is that the creator will go live and react to a campaign video shoot she made together with Weekday. We would therefore want her to be able to go live and have a split screen setup, so half the screen is playing the Weekday video, and half the screen is showing her reacting to the video (live). \n\nHow would this setup be done? Can she use the live function directly in the app, or would she need to use TikTok live studio (https://www.tiktok.com/studio/download) and how would she do this? \n\n\nThe creator is: https://www.tiktok.com/@debadebadd?\n\n",
+      "valid": true,
+      "item_id": 1782788344074242,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "File or screenshot",
+      "content": [],
+      "valid": true,
+      "item_id": 1782788344074258,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Tiktok Livestream Consultation-Livestream - Ask a Question"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

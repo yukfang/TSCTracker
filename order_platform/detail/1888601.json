@@ -1,0 +1,544 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Joey Choi",
+  "create_time": 1708445845,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1708555088,
+      "auto_close_hit": 0,
+      "id": 7338187352923226000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Olivia, from the query I ran, nearly 100% of the ATC and Initiate Checkout events contain content_id, so I believe their fix did the trick. In TTAM, if you filter by just the date post-fix, it should show up as 100%:</p><img alt=\"Screenshot 2024-02-21 at 4.37.21 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ee1d23914c3348cf90c821eba9f9cc75.png\" height=\"263.826\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ee1d23914c3348cf90c821eba9f9cc75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838138&amp;x-signature=h%2FgRmNvackoNW6RV5gtHk6K2xu4%3D\" width=\"375\"><p>If you extend the date range, it'll decrease since it's looking at all events, both pre- and post-fix. </p><p><br /></p><p>On a seperate note, I see these 2 catalog issues that would be good to raise to the client if they plan on using VSA:</p><img alt=\"Screenshot 2024-02-21 at 3.36.40 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ae1a56d785f442b8b56aad68b8769d0c.png\" height=\"98.774\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae1a56d785f442b8b56aad68b8769d0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838138&amp;x-signature=JOHzCgceUm%2FNqUWpH1a%2Fygb8d84%3D\" width=\"375\" /></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708629613,
+      "auto_close_hit": 0,
+      "id": 7338507530269622000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Olivia Robertson",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109063548764259329",
+      "name": "Olivia Robertson",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Wonderful thanks, Joey! I&#39;ll let them know about the catalog.</p><p><br></p><p>We met with their team yesterday and they&#39;re motivated to get their signals set up properly and have their dev team available to meet to walk through eAPI set up (they recently switched over to GTM)</p><p><br></p><p>What does your availability look like next week if you&#39;re open to meeting with them?</p><p><br></p><p>Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_4f4a2ef9-67af-4df4-a271-eb393082ab3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708630181,
+      "auto_close_hit": 0,
+      "id": 7338509973586035000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Awesome to hear they&#39;re taking the initiative! I&#39;m free next Tuesday 2/27 anytime before 2pm PT or after 3pm PT.</p><p>Also available on Wednesday 2/28 before 1pm PT and after 2pm PT.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1888601,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "joey.choi@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Signal Parameter Issues",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_4f4a2ef9-67af-4df4-a271-eb393082ab3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1708630181,
+  "owner_name": "Olivia Robertson",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7109063548764259329",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Olivia Robertson",
+  "follow_employee_id": 7055631,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2143958,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Signal Parameter Issues",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Virtue Labs",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Ecommerce",
+      "valid": true,
+      "key": "Ecommerce",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6977370198017867778"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P3",
+      "valid": true,
+      "key": "P3",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM Olivia Robertson BPM Analise Seltzer",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C59I56NGE0M9N03GU8R0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.virtuelabs.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-20",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "On 1/24/24 our client identified sales were coming through on their ad group (ID \n1771209246369793) however nothing was coming through the value parameter (see attachment)\n\nWe diagnosed there was some pixel health issues - (attached)\n\nWe put in an Athena ticket to help pull together resources to implement the changes in Google Tag Manager (attached instructions that were sent to client)on 1/29/24\n\nThey got around to it this week and this is their follow up:\n\nFrom the client:\nOur dev team pushed a code fix this morning that should address this issue, however, I’m still seeing in TikTok that “content ID” is missing from Add to Cart and Initiate Checkout.\n\n\nThat said, when I test in Google Tag Manager, I can see that there is an ID being passed through when I add to cart and initiate checkout.\n\n \n\nIs it possible that it’ll just take ~24 hours for the updated pixel to fully register the correct info?\n\n\nAlternatively, is the issue that the content ID is not correct? We have a SKU number and a “Magento ID” assigned to each product and they’re not the same. Maybe we’re passing the wrong data through?\n\n \n\nLmk if you can help us test and verify that the changes made are correct.",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "image003.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5bb623f5c344b37a4191588c1d53642.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=OwvewHHjaa0ZTFE34cXth%2F%2FoVs8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b5bb623f5c344b37a4191588c1d53642.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5bb623f5c344b37a4191588c1d53642.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=OwvewHHjaa0ZTFE34cXth%2F%2FoVs8%3D",
+          "size": 1069375
+        },
+        {
+          "file_type": "jpeg",
+          "file_name": "Image 1-24-24 at 2.39 PM.jpeg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5b293f6c38d425d81edd6b3c2766f3b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=uowAFu9JgYbPVLTBYh1LMW72WK0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b5b293f6c38d425d81edd6b3c2766f3b.jpeg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5b293f6c38d425d81edd6b3c2766f3b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=uowAFu9JgYbPVLTBYh1LMW72WK0%3D",
+          "size": 75872
+        },
+        {
+          "file_type": "jpeg",
+          "file_name": "Image 1-25-24 at 11.27 AM (1).jpeg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/896e5856f6b44fa19018dcfc1a942be8.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=AFdRpe3TDScbcpkOYTDx3rSxTN4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/896e5856f6b44fa19018dcfc1a942be8.jpeg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/896e5856f6b44fa19018dcfc1a942be8.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=AFdRpe3TDScbcpkOYTDx3rSxTN4%3D",
+          "size": 110100
+        },
+        {
+          "file_type": "pdf",
+          "file_name": "VL Investigation 1.29 (2).pdf",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/owPAAiQAFABUi0OWdXNDDZY0J8AdEjAkZB6Tb.pdf?lk3s=cbe26b3a&x-expires=4832838138&x-signature=ZN9PNOxpfNcp0BudiSnA0YxBMKU%3D",
+          "file_key": "tos-alisg-v-90231e-sg/owPAAiQAFABUi0OWdXNDDZY0J8AdEjAkZB6Tb.pdf",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/owPAAiQAFABUi0OWdXNDDZY0J8AdEjAkZB6Tb.pdf?lk3s=cbe26b3a&x-expires=4832838138&x-signature=ZN9PNOxpfNcp0BudiSnA0YxBMKU%3D",
+          "size": 364050
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ee1d23914c3348cf90c821eba9f9cc75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=h%2FgRmNvackoNW6RV5gtHk6K2xu4%3D",
+          "file_name": "file_20240318_15_02_18_816793",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ee1d23914c3348cf90c821eba9f9cc75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=h%2FgRmNvackoNW6RV5gtHk6K2xu4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ee1d23914c3348cf90c821eba9f9cc75.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae1a56d785f442b8b56aad68b8769d0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=JOHzCgceUm%2FNqUWpH1a%2Fygb8d84%3D",
+          "file_name": "file_20240318_15_02_18_816850",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae1a56d785f442b8b56aad68b8769d0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=JOHzCgceUm%2FNqUWpH1a%2Fygb8d84%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ae1a56d785f442b8b56aad68b8769d0c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

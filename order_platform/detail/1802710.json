@@ -1,0 +1,555 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Chan Lim",
+  "create_time": 1704854053,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1704856063,
+      "auto_close_hit": 0,
+      "id": 7322300569694011000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>다린님 안녕하세요~</p><p>일단 문의주신 진단 내역 중 event_id를 제외한 나머지는, 진단일을 보시면 몇개월 전이기 때문에 Dismiss를 눌러서 제거해주셔도 됩니다.</p><p>event_id (중복제거처리)의 경우 우려되기는 합니다만, 현재 추이를 보니 1월 7일까지는 크게 이상이 없고 1월 8일부터 중복제거처리가 잘 되지 않는 것으로 보아 단순한 딜레이가 아닌가 싶습니다.</p><p>만약 내일이나 모레 다시 확인하셔서 첨부 스크린샷의 good 부분처럼 색상이 나타난다면 event_id 에러도 무시해주셔도 됩니다.</p><img alt=\"Screenshot 2024-01-10 at 12.05.57.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7f604144812b42d4a6e44be36eba0e8e.png\" height=\"130.411\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f604144812b42d4a6e44be36eba0e8e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833246&amp;x-signature=G6iJgYuVh6Gmw3msApVFeSnGTPg%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1704864691,
+      "auto_close_hit": 0,
+      "id": 7322336444268298000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "김다린",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7046842442146710530",
+      "name": "김다린",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>찬님~ 빠른 답변 감사합니다! :)</p><p>나머지 진단일 outdated 된 부분 확인했습니다.</p><p><br></p><p>말씀주신 것과 같은 색상이라고 하면 browser, server,&nbsp;browser+server의 세개의 값이 모두 정상적으로 보이기만 하면 되는 걸까요?</p><p>장바구니, 결제 완료는&nbsp;browser+server의 영역이 컨텐츠보기 이벤트에 비해서 적고,&nbsp;<span style=\"color: #121212;\">Events coverage가 100%가 아닌데 이 부분도 이상 없을지만 추가적으로 확인 부탁드립니다!</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_f538fe75-21f9-4791-ac42-eceed35952hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1704865273,
+      "auto_close_hit": 0,
+      "id": 7322339453744234000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>GOOD의 부분처럼 기본적으로 전일과 비슷한 트렌드 (스크린샷처럼 1/8이후에 갑작스런 변화가 보이지 않는 이상)면 괜찮습니다.</p><p>일단 Browser + Server가 대부분을 차지하고 일부 Browser only/Server only 값이 측정되는 정도는 괜찮습니다. (단 CompletePayment는 네이버페이 문제로 인해 Server only값이 Browser+Server보다 많을 수도 있으나 이는 정상임)</p><p><br></p><p>나머지 장바구니,결제완료에 대해서도 1/7까지의 데이터는 정상으로 보이므로, 며칠 후에 확인하셨을 떄 1/8 데이터가 1/7과 비슷한 양상이면 괜찮습니다.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1704865702,
+      "auto_close_hit": 0,
+      "id": 7322341687894835000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "김다린",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7046842442146710530",
+      "name": "김다린",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>아하 네넵 이해되었습니다!! 빠른 확인 감사합니다 찬님~~</p><p>티켓은 close 하겠습니다!! :)</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_f538fe75-21f9-4791-ac42-eceed35952hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1802710,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "chan.lim@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "[KR] Pixel error checking",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 3,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_f538fe75-21f9-4791-ac42-eceed35952hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1704865721,
+  "owner_name": "김다린",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7046842442146710530",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "김다린",
+  "follow_employee_id": 3050890,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 5903525,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "[KR] Pixel error checking",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "arztin1013",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Ecommerce",
+      "valid": true,
+      "key": "Ecommerce",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "SEA-KR",
+      "valid": true,
+      "key": "SEA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7289305131777064962"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM @Darin Kim",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CKMD1MBC77U4JN784LLG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://arztinshop.com/product/%EB%A6%AC%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%8B%A4%ED%8A%B8-%ED%81%AC%EB%A6%BC/9/category/102/display/1/?utm_source=2401_tiktiok&utm_medium=09_31&utm_campaign=schildcream"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-10",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "찬님 안녕하세요! 계정 이관하면서 픽셀을 재연동하신 광고주의 문의인데요. 첨부 이미지와 같이 카페24 계정 연동 통해서 스크립트는 정상적으로 확인이 되는데, 픽셀 헬퍼 및 이벤트 메니저 상에서는 여러 에러가 확인되고 있습니다. 광고주 측에서 데이터 트래킹에 이슈가 없는지 여부 및 이슈 해결이 필요할 경우에는 방법을 문의주셔서, 해당 건 확인 부탁드립니다. 감사합니다.",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "event manager.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b5cbcb91a9d450f81102fbf35199ef7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=7beQYRK8nb8xfX8y5DbOtxAeBKM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4b5cbcb91a9d450f81102fbf35199ef7.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b5cbcb91a9d450f81102fbf35199ef7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=7beQYRK8nb8xfX8y5DbOtxAeBKM%3D",
+          "size": 185193
+        },
+        {
+          "file_type": "jpg",
+          "file_name": "script.jpg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a97a78180a264bf581ba9970eefeaad6.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=ZdjdD%2BepEoXetjXTizx9FMH62wk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a97a78180a264bf581ba9970eefeaad6.jpg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a97a78180a264bf581ba9970eefeaad6.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=ZdjdD%2BepEoXetjXTizx9FMH62wk%3D",
+          "size": 294791
+        },
+        {
+          "file_type": "jpg",
+          "file_name": "helper.jpg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/60c0787818e24084877bf40690aa7df1.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=5Vp79FswZVjwBEp3li4DRa0D7WU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/60c0787818e24084877bf40690aa7df1.jpg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/60c0787818e24084877bf40690aa7df1.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=5Vp79FswZVjwBEp3li4DRa0D7WU%3D",
+          "size": 82355
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f604144812b42d4a6e44be36eba0e8e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=G6iJgYuVh6Gmw3msApVFeSnGTPg%3D",
+          "file_name": "file_20240318_13_40_46_522871",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f604144812b42d4a6e44be36eba0e8e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=G6iJgYuVh6Gmw3msApVFeSnGTPg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7f604144812b42d4a6e44be36eba0e8e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

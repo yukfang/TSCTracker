@@ -1,0 +1,607 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354674",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1706654265,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706742478,
+      "auto_close_hit": 0,
+      "id": 7330401134521188000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Tyler,</p><p>Happy to look into this for you! They will need to address the following action items in order to provide the best possible results/performance, especially if they are planning to launch any VSA/Catalog campaigns in the future.</p><p>I am also more than happy to hop on a call with the advertiser to expedite this process! </p><p>Billie, Inc. using Pixel C20UI7N3GOD0LQGCGKG0 Action Items:</p><ul><li>ViewContent event is firing inconsistently and double firing.</li><ul><li>Proper ViewContent setup is critical - it is a mandatory event for Catalog/VSA campaigns</li><li>If a user directly navigates to the product URL, the ViewContent event does not fire</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png\" height=\"172.88\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=PWfGBrXBD33Ga8kGMohNdzXRk3w%3D\" width=\"375\"><ul><ul><li>However, if a user navigates away from the page or comes from the CDP page, the ViewContent event is triggered and fires twice:</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png\" height=\"202.368\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=%2BC6SEFX%2BowzQQtK5EGxGBnvEnno%3D\" width=\"375\"><ul><ul><li>Please pass back Product Information Parameters. This will be critical for successful VSA/Catalog campaigns. Your Custom Code payload should look like the following:</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/74c5706ef8e1436d8f28645be2615922.png\" height=\"282\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74c5706ef8e1436d8f28645be2615922.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=ZmkaMi0G34Iaf5v8oscfD0f5BM0%3D\" width=\"330\"><ul><ul><ul><li>For reference, you will be able to use the same variables for the product information that are being used for the Meta Pixel:</li></ul></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png\" height=\"218.182\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=J7awJL1phOaCpfWObc%2FA5JZz3Xk%3D\" width=\"375\"><ul><ul><ul><li>You can also leverage your existing Google Tag Manager data layer variables/events for ease of use:</li></ul></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0782c494e1ab4ca494ead4d5761b74d7.png\" height=\"207.906\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0782c494e1ab4ca494ead4d5761b74d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=3638fxuAvuPPoVymeXbQIkNhooE%3D\" width=\"375\"><ul><ul><li>Must only fire on PDP pages and not on Category Display Pages</li><ul><li>The ViewContent event must only fire on PDP pages only. The ViewContent event only accepts one content_id in order to make a match to a corresponding entry in your catalog</li><li>A ViewContent event should not fire on this page: https://mybillie.com/products</li></ul></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png\" height=\"169.551\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=Mv87FgAzHjzvfkjBIz%2FRDzcgN20%3D\" width=\"375\"><ul><li>AddToCart event is double firing and is missing product parameters </li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png\" height=\"180.267\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=3wGghQsxUk72ywaVcVyzkqL7sXc%3D\" width=\"375\"><ul><li>Please pass back Product Information Parameters. This will be critical for successful VSA/Catalog campaigns. AddToCart is a mandatory event for VSA/Catalog campaigns</li><li>Your AddToCart custom code should look like the following, note the similarity to the ViewContent event</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png\" height=\"294\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=gpeA5hYY2rtAUFJrJ2PhWBn8%2B1o%3D\" width=\"334\"><ul><li>You can also leverage the available Data Layer variables through GTM for ease of use and setup</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png\" height=\"250.299\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=8tbcYGuvcOOPOS9ZOCBugMRfIGw%3D\" width=\"375\"><ul><li>InitiateCheckout event, currently StartCheckout</li><ul><li>Correctly fires on the start of the checkout flow but is fired under the event name \"StartCheckout\". This is currently being translated to \"InitiateCheckout\" in the Events Manager UI for the Pixel</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png\" height=\"174.284\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=m1VCunYekKn%2BNncCaEhhJh6AWRg%3D\" width=\"375\"><ul><ul><li>Please change the event name to \"InitiateCheckout\" to ensure future compatibility</li></ul><li>I am unable to fully test the CompletePayment and PlaceAnOrder events but from what I can see in our database, these events do not appear to be double firing</li><ul><li>We are receiving the value parameter but are missing the product information for the transaction</li><li>Parameter/product information is incomplete</li><li>Proper setup and configuration for the CompletePayment event is critical for successful VSA/Catalog campaigns. The CompletePayment event parameters should include all of the items in a given transaction. </li><li>Sample code below:</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d679182f8cd84a08b270e8a7f3eb04b9.png\" height=\"627.273\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d679182f8cd84a08b270e8a7f3eb04b9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=zKkT5PE36yraI9xG2K7q4JhMf88%3D\" width=\"375\"><p>I know this is a lot! They will likely want to hop on a call to discuss these updates. Here are my avails for the rest of the week and next:</p><p><span style=\"color: #1F2329;\">Tomorrow, Thurs 2/1: 9 AM - 10 AM PST / 1 PM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Friday, 2/2: 7 AM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Monday 2/5: 8 AM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Tues 2/6: 7 AM - 2 PM PST</span></p><p>Thanks!</p><p>Robbie</p></img></img></img></img></img></img></img></img></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706751443,
+      "auto_close_hit": 0,
+      "id": 7330440529487888000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "soo.oh@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Soo Oh",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7309232771187672066",
+      "name": "Soo Oh",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,<br><br>Just wanted to check that after Billie makes those changes to the Pixel events, they need to implement eAPI and MAM in order to increase signal score from 20?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0057_4e31d930-5d26-4731-9b78-39d13aecf92h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706797748,
+      "auto_close_hit": 0,
+      "id": 7330639543802003000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Yes, also please ensure that Automatic and Manual Advanced Matching are enabled and configured. Please see the attached PDF and the following implementation guide:&nbsp;https://business-api.tiktok.com/portal/docs?id=1739585700402178</p><p>Apologies for missing portion this and not providing my usual documentation as we are in the middle of 360 review season and also dealing with a sudden influx of tickets and requests. I understand that clients with sub optimal setups like these need very guided and custom documentation, so I have offered up my time for a call to make up for this shortcoming.</p><p>If still required, I can put something more formal together next week 2/5</p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "pdf",
+              "file_name": "Advanced Matching Setup and Best Practices - Latest (3).pdf",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf?lk3s=cbe26b3a&x-expires=4832832918&x-signature=hbU62vN9aAP9k4gLUy%2F3BQ4J6gg%3D",
+              "file_key": "tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf?lk3s=cbe26b3a&x-expires=4832832918&x-signature=hbU62vN9aAP9k4gLUy%2F3BQ4J6gg%3D",
+              "biz_type": 2,
+              "size": 500562
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1848773,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Billie",
+  "category_1_name": "Basic",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0065_2b11fcf8-a0a7-4e72-b477-0ec94d2e897h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1706797748,
+  "owner_name": "Tyler Denton",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Basic",
+  "archive_category_1": "1736497459354674",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7314737970350490625",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Tyler Denton",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 3971170,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Billie",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Billie",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "CPG",
+      "valid": true,
+      "key": "CPG",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Enterprise",
+      "valid": true,
+      "key": "Enterprise",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7140629467495514114"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P3",
+      "valid": true,
+      "key": "P3",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Hillary Roteman, BPM/ Tyler Denton, CST",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C20UI7N3GOD0LQGCGKG0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://mybillie.com/pages/razor"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-30",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hi Team,\n\nCan we please have an audit done of Billie's website in order to understand what is currently implemented, how its implemented, and what next steps should be in terms of getting our signal score higher?\n\nThis account is heavily reliant on conversions, and we believe having an audit done and understanding what pieces have yet to be applied on-site will help us unlock more revenue in the future.\n\nLet me know if you have additional questions.\n\nThanks!",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=Mv87FgAzHjzvfkjBIz%2FRDzcgN20%3D",
+          "file_name": "file_20240318_13_35_18_529407",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=Mv87FgAzHjzvfkjBIz%2FRDzcgN20%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=8tbcYGuvcOOPOS9ZOCBugMRfIGw%3D",
+          "file_name": "file_20240318_13_35_18_529546",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=8tbcYGuvcOOPOS9ZOCBugMRfIGw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=gpeA5hYY2rtAUFJrJ2PhWBn8%2B1o%3D",
+          "file_name": "file_20240318_13_35_18_529595",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=gpeA5hYY2rtAUFJrJ2PhWBn8%2B1o%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=3wGghQsxUk72ywaVcVyzkqL7sXc%3D",
+          "file_name": "file_20240318_13_35_18_529621",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=3wGghQsxUk72ywaVcVyzkqL7sXc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=%2BC6SEFX%2BowzQQtK5EGxGBnvEnno%3D",
+          "file_name": "file_20240318_13_35_18_529647",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=%2BC6SEFX%2BowzQQtK5EGxGBnvEnno%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=m1VCunYekKn%2BNncCaEhhJh6AWRg%3D",
+          "file_name": "file_20240318_13_35_18_529668",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=m1VCunYekKn%2BNncCaEhhJh6AWRg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=J7awJL1phOaCpfWObc%2FA5JZz3Xk%3D",
+          "file_name": "file_20240318_13_35_18_529687",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=J7awJL1phOaCpfWObc%2FA5JZz3Xk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d679182f8cd84a08b270e8a7f3eb04b9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=zKkT5PE36yraI9xG2K7q4JhMf88%3D",
+          "file_name": "file_20240318_13_35_18_529708",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d679182f8cd84a08b270e8a7f3eb04b9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=zKkT5PE36yraI9xG2K7q4JhMf88%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d679182f8cd84a08b270e8a7f3eb04b9.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0782c494e1ab4ca494ead4d5761b74d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=3638fxuAvuPPoVymeXbQIkNhooE%3D",
+          "file_name": "file_20240318_13_35_18_529727",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0782c494e1ab4ca494ead4d5761b74d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=3638fxuAvuPPoVymeXbQIkNhooE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0782c494e1ab4ca494ead4d5761b74d7.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74c5706ef8e1436d8f28645be2615922.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=ZmkaMi0G34Iaf5v8oscfD0f5BM0%3D",
+          "file_name": "file_20240318_13_35_18_529745",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74c5706ef8e1436d8f28645be2615922.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=ZmkaMi0G34Iaf5v8oscfD0f5BM0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/74c5706ef8e1436d8f28645be2615922.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=PWfGBrXBD33Ga8kGMohNdzXRk3w%3D",
+          "file_name": "file_20240318_13_35_18_529762",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=PWfGBrXBD33Ga8kGMohNdzXRk3w%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "pdf",
+          "file_name": "Advanced Matching Setup and Best Practices - Latest (3).pdf",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf?lk3s=cbe26b3a&x-expires=4832832918&x-signature=hbU62vN9aAP9k4gLUy%2F3BQ4J6gg%3D",
+          "file_key": "tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf?lk3s=cbe26b3a&x-expires=4832832918&x-signature=hbU62vN9aAP9k4gLUy%2F3BQ4J6gg%3D",
+          "biz_type": 2,
+          "size": 500562
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Basic"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

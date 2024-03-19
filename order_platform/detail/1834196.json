@@ -1,0 +1,827 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Armando Carmona Blanco",
+  "create_time": 1706050373,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706138619,
+      "auto_close_hit": 0,
+      "id": 7327808079465021000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lauren,</p><p>Confirming receipt of your ticket. Please see comments below.</p><p>I see some traces of Tealium on their site. If this is what they are using for their tag manager, they can leverage <a href=\"https://docs.tealium.com/client-side-tags/tiktok-pixel-tag/\" target=\"_blank\">this documentation </a>for their web events. Once they have implemented web events they can move onto the <a href=\"https://docs.tealium.com/server-side-connectors/tiktok-events-connector/\" target=\"_blank\">server-to-server integration</a>, which should be running sided by side with their web implementation (Signals Optimal). The latter is particularly important given Google's 3rd party cookie deprecation will be in effect at the <a href=\"https://developers.google.com/privacy-sandbox/3pcd\" target=\"_blank\">end of Q1 this year</a>, which will affect how TikTok, Meta and other platforms measure campaign performance.</p><ul><li><span style=\"color: #333333;\"><em><u>\"I'm reaching out as we are in the process of adding pixels and tags to our new landing page for NAR. We wanted to get everything placed for TikTok so we will be ready to go for any campaigns beyond our current test. The team is hoping to measure a few things such as page views and button clicks. </u></em></span></li></ul><p><strong>PageViews</strong> - regarding this event, once the advertiser places their base pixel on their site, a PageView event will be fired automatically by the base pixel itself. Do not implement this event as it is not required.</p><p>If there are specific pages that house content that is specific to a product/service they would like to promote, then use the <strong><em>ViewContent </em></strong>event. For example, when a visitor clicks the Membership tab and is taken to the</p><p>Membership page. The event should still contain the <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-1\" target=\"_blank\">recommended parameters</a> by TikTok.</p><p>Below is an example of how the ViewContent event should look when fired. If the advertiser already has these variables defined in their dataLayer, these can be passed to populate the parameters below dynamically. The content_type parameter is a hardcoded string 'product', and the value parameter is the monetary value associated with the item being viewed (NAR annual membership in this example). If no variable for the currency has been setup in their dataLayer, this can be hardcoded as the string 'USD'.</p><img alt=\"Screenshot 2024-01-24 at 3.16.05 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0c03d4adacfe4e4387ce850359efa9ea.png\" height=\"254.717\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c03d4adacfe4e4387ce850359efa9ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832753&amp;x-signature=2zHFXNyyap7lrBf85cPSIQv%2FlFQ%3D\" width=\"375\"><p>Other examples for the use of ViewContent include Trainings and Certifications.</p><ul><li><span style=\"color: #333333;\"><em><u>For the button click events, we will be grouping certain buttons on the site under different event names. For example, one bucket will be \"Buying Advice Engagement\" and we'd like it to fire when someone clicks on a few different buttons on that page</u></em>.</span></li></ul><p>Yes, this is the recommended implementation for their use case. They can create a custom event to track those unique buttons of importance to them under \"<span style=\"color: #333333;\"><em><u>Buying Advice Engagement\"</u></em></span> , or any name they would like to use. I recommend following the same naming conventions as for TikTok standard events (no spaces or special characters). <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-2\" target=\"_blank\">More info here.</a></p><p>Let me know if there are any other follow ups on this.</p><p>Best,<br>Armando</br></p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706201276,
+      "auto_close_hit": 0,
+      "id": 7328077709265961000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lauren.ponce@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lauren Ponce",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7011422170112263170",
+      "name": "Lauren Ponce",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you Armando! I&#39;ll let you know if the client has any questions! :)&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706313452,
+      "auto_close_hit": 0,
+      "id": 7328555339731763000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lauren!</p><p>Great! Sounds good.</p><p>I will close this ticket for now but please feel free to reopen if there are any other follow ups.</p><p>Best,<br>Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706313518,
+      "auto_close_hit": 0,
+      "id": 7328558737537368000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Conclusion]&nbsp;</strong><br>Advertiser had questions regarding their setup. Provided recommendations along with implementation examples.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707857868,
+      "auto_close_hit": 0,
+      "id": 7335192512778207000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lauren.ponce@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lauren Ponce",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7011422170112263170",
+      "name": "Lauren Ponce",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Armando! Hope you&#39;re doing well! :) NAR followed up with some more questions on the pixel, see below and lmk if you have any questions!&nbsp;</p><p><br></p><p>&#34;Have a couple of follow-up questions on our pixel implementation. In Ads Manager, I&#39;m able to see all the custom events we created as firing and tracking.&nbsp;However, the landing page has a message in the error log from the TikTok tag indicating the custom event names might not be compliant.&nbsp;The URL it links us to is no longer valid, so we&#39;re wondering if this may just be out of date or if there&#39;s something we need to fix? For reference, the base code and custom event tags we used are attached to this email. Also, when I was testing the events, I can see my custom events fired but there was also an <strong>empty_event_name </strong>message alongside it, wondering if related?&#34;</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "nar1.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=FLP1h4BNdatFfn8t%2Fgetfqel2wU%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=FLP1h4BNdatFfn8t%2Fgetfqel2wU%3D",
+              "biz_type": 2,
+              "size": 31401
+            },
+            {
+              "file_type": "png",
+              "file_name": "nar2.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=hEAsoVZVIm%2BEVGjnD%2BwPr6RG70g%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=hEAsoVZVIm%2BEVGjnD%2BwPr6RG70g%3D",
+              "biz_type": 2,
+              "size": 81662
+            },
+            {
+              "file_type": "png",
+              "file_name": "nar3.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=qpGxDNGQ2NMtn1lJrAP0q40%2Bjz8%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=qpGxDNGQ2NMtn1lJrAP0q40%2Bjz8%3D",
+              "biz_type": 2,
+              "size": 47443
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707858060,
+      "auto_close_hit": 0,
+      "id": 7335193219950543000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lauren.ponce@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lauren Ponce",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7011422170112263170",
+      "name": "Lauren Ponce",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>they also asked---&nbsp;</p><p><br></p><p>&#34;<span style=\"color: #222222;\">Are you able to help clarify if we might need to address the browser log error the TikTok tag is generating? The tag is live on the client’s website (</span><span style=\"color: #1155CC;\"><a href=\"https://lookforther.realtor/\" target=\"_blank noopener noreferrer\">https://lookforther.realtor/</a></span>) and the warning in the log only appears to generate when the tag is fired with one of our custom events.&nbsp;<span style=\"color: #222222;\">If this is an issue that could affect reporting or optimization, we would love to address it soon.&#34;</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "jpg",
+              "file_name": "nar4.jpg",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=KhZyTy46b1%2BIqsQ7ReLZZHa5PCw%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=KhZyTy46b1%2BIqsQ7ReLZZHa5PCw%3D",
+              "biz_type": 2,
+              "size": 140493
+            },
+            {
+              "file_type": "jpg",
+              "file_name": "nar5.jpg",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=bE0%2FHZo4ZK6lEH5W1I1CPfBKlRA%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=bE0%2FHZo4ZK6lEH5W1I1CPfBKlRA%3D",
+              "biz_type": 2,
+              "size": 41179
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707868085,
+      "auto_close_hit": 0,
+      "id": 7335233005771882000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Lauren Ponce",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7011422170112263000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lauren,</p><p>Thank you! I hope you are doing well, too.</p><p>Please see comments below.</p><p><span style=\"color: #333333;\"><em><u>\"Have a couple of follow-up questions on our pixel implementation. In Ads Manager, I'm able to see all the custom events we created as firing and tracking. However, the landing page has a message in the error log from the TikTok tag indicating the custom event names might not be compliant. The URL it links us to is no longer valid, so we're wondering if this may just be out of date or if there's something we need to fix? For reference, the base code and custom event tags we used are attached to this email...\"</u></em></span></p><p>The reason they are seeing those warning messages is because they are using spaces in the event codes at the time of firing, and these are NOT on the list of allowed characters. Please refer to the additional <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-4\" target=\"_blank\">additional considerations &amp; specifications</a> section.</p><img alt=\"Screenshot 2024-02-13 at 3.26.53 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/efdc2b4e9c6d45abbde97d5668c5753d.png\" height=\"196.809\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/efdc2b4e9c6d45abbde97d5668c5753d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832754&amp;x-signature=92s%2BJiZcepeGkqHMM2stHRU9TwA%3D\" width=\"375\"><p>While the events are currently tracking, there is a good chance these could cause tracking to break down the line if anything changes. It is recommended to follow the same format/convention as TikTok standard event names.</p><p><span style=\"color: #333333;\"><em><u>Also, when I was testing the events, I can see my custom events fired but there was also an </u></em><strong><em><u>empty_event_name </u></em></strong><em><u>message alongside it, wondering if related?\"</u></em></span></p><p>This is unrelated. The reason they see <strong>empty_event_name</strong> is due navigating to a page where they did not explicitly implement an event but only the base pixel is being loaded. In fact, <strong>empty_event_name </strong>is actually the PageView event that is automatically fired once the base pixel is loaded. They can safely disregard this.</p><p><span style=\"color: #333333;\"><em><u>\"</u></em></span><span style=\"color: #222222;\"><em><u>Are you able to help clarify if we might need to address the browser log error the TikTok tag is generating? The tag is live on the client’s website (</u></em></span><span style=\"color: #1155CC;\"><em><u><a href=\"https://lookforther.realtor/\" target=\"_blank\">https://lookforther.realtor/</a></u></em></span><span style=\"color: #333333;\"><em><u>) and the warning in the log only appears to generate when the tag is fired with one of our custom events. </u></em></span><span style=\"color: #222222;\"><em><u>If this is an issue that could affect reporting or optimization, we would love to address it soon.\"</u></em></span></p><p>The screenshot of their webpage is too small and I am not able to see it very well, but it appears to be the same Invalid Event Name Format warning message from the addressed in the first question above. Removing the spaces will correct that. </p><p>Best,<br>Armando</br></p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707868330,
+      "auto_close_hit": 0,
+      "id": 7335234126695449000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lauren.ponce@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lauren Ponce",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7011422170112263170",
+      "name": "Lauren Ponce",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you so much Armando! I&#39;ve forwarded this to them and will let you know if they have additional questions! :))&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707868456,
+      "auto_close_hit": 0,
+      "id": 7335235951943303000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Sounds good!&nbsp;??</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707868620,
+      "auto_close_hit": 0,
+      "id": 7335238286476100000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Conclusion]&nbsp;</strong><br>Advertiser reached back out with follow ups after the implementation had concluded. They implemented additional custom events which included spaces and were causing errors/warnings in the console. Provided recommendations for correcting issue.</p><p><strong>&lt;Education&gt;<br>&lt;Custom Event Names&gt;</strong></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1834196,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "armando.carmona@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Review NAR's pixel ",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1709321350,
+  "owner_name": "Lauren Ponce",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7011422170112263170",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Lauren Ponce",
+  "follow_employee_id": 1807296,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1447404,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Review NAR's pixel ",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "NAR ",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6987397072899031042"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Lauren Ponce BPM and Lauren Kane CSM ",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CMNE4DJC77UF4ULPFP0G https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=6987397072899031042",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.nar.realtor/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-22",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "\"I'm reaching out as we are in the process of adding pixels and tags to our new landing page for NAR. We wanted to get everything placed for TikTok so we will be ready to go for any campaigns beyond our current test.\n\nThe team is hoping to measure a few things such as page views and button clicks. For the button click events, we will be grouping certain buttons on the site under different event names. For example, one bucket will be \"Buying Advice Engagement\" and we'd like it to fire when someone clicks on a few different buttons on that page.\n\nWhat's the best way to set up multiple buckets like that? I believe we could just set up a custom event for each bucket but wanted to double-check.\"\n\nPixel link: https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=6987397072899031042\nPixel ID: CMNE4DJC77UF4ULPFP0G",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Outlook-mcvjficz.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48320055377941b08212a568a7b49583.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832753&x-signature=fi01vUs3n%2FVSLudxuKM60%2Bjm6TE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/48320055377941b08212a568a7b49583.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48320055377941b08212a568a7b49583.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832753&x-signature=fi01vUs3n%2FVSLudxuKM60%2Bjm6TE%3D",
+          "size": 30669
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c03d4adacfe4e4387ce850359efa9ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832753&x-signature=2zHFXNyyap7lrBf85cPSIQv%2FlFQ%3D",
+          "file_name": "file_20240318_13_32_33_893441",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c03d4adacfe4e4387ce850359efa9ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832753&x-signature=2zHFXNyyap7lrBf85cPSIQv%2FlFQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0c03d4adacfe4e4387ce850359efa9ea.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "nar1.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=FLP1h4BNdatFfn8t%2Fgetfqel2wU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=FLP1h4BNdatFfn8t%2Fgetfqel2wU%3D",
+          "biz_type": 2,
+          "size": 31401
+        },
+        {
+          "file_type": "png",
+          "file_name": "nar2.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=hEAsoVZVIm%2BEVGjnD%2BwPr6RG70g%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=hEAsoVZVIm%2BEVGjnD%2BwPr6RG70g%3D",
+          "biz_type": 2,
+          "size": 81662
+        },
+        {
+          "file_type": "png",
+          "file_name": "nar3.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=qpGxDNGQ2NMtn1lJrAP0q40%2Bjz8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=qpGxDNGQ2NMtn1lJrAP0q40%2Bjz8%3D",
+          "biz_type": 2,
+          "size": 47443
+        },
+        {
+          "file_type": "jpg",
+          "file_name": "nar4.jpg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=KhZyTy46b1%2BIqsQ7ReLZZHa5PCw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=KhZyTy46b1%2BIqsQ7ReLZZHa5PCw%3D",
+          "biz_type": 2,
+          "size": 140493
+        },
+        {
+          "file_type": "jpg",
+          "file_name": "nar5.jpg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=bE0%2FHZo4ZK6lEH5W1I1CPfBKlRA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=bE0%2FHZo4ZK6lEH5W1I1CPfBKlRA%3D",
+          "biz_type": 2,
+          "size": 41179
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/efdc2b4e9c6d45abbde97d5668c5753d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=92s%2BJiZcepeGkqHMM2stHRU9TwA%3D",
+          "file_name": "file_20240318_13_32_34_125516",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/efdc2b4e9c6d45abbde97d5668c5753d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=92s%2BJiZcepeGkqHMM2stHRU9TwA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/efdc2b4e9c6d45abbde97d5668c5753d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

@@ -1,0 +1,313 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497211543601",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Chan Lim",
+  "create_time": 1708493075,
+  "deadline": 0,
+  "archive_board_id": 1705151646989665,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709082896,
+      "auto_close_hit": 0,
+      "id": 7340453343598248000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>단비님 안녕하세요.</p><p>문의주신 내용 아래 답변드립니다.</p><p><br /></p><p><span style=\"color: #333333;\">1. 이벤트 보고 - view contents, install 등 이벤트가 인입되지 않습니다.</span></p><ul><li>현재 Install은 측정되는 것으로 보입니다.</li><ul><li><br /></li></ul></ul><img alt=\"Screenshot 2024-02-28 at 10.10.50.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/232165fd033f4ac6a90d373c4adda2df.png\" height=\"155.793\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/232165fd033f4ac6a90d373c4adda2df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838160&amp;x-signature=zQVCbM8BaY3ImTafq%2BHi%2Bp7J4Hw%3D\" width=\"375\"><p><br /></p><ul><li>보내주신 스크린샷에는 ViewContent가 없는데 설정이 되어있나요? 어떤 이벤트를 설정하셨고 어떤 이벤트가 보여야 하는지에 대한 명확한 확인 부탁드립니다.</li></ul><p><br /></p><p><span style=\"color: #333333;\"> </span></p><p><span style=\"color: #333333;\">2. 틱톡 앱아이디 연동 &amp; 올 포스트백 완료했다고 하나, 앱이벤트에서 action required 시그널 확인됩니다. - 이 앱은 TikTok 자체 기여 네트워크로 설정되지 않았습니다. MMP 대시보드로 이동하여 이 필수 변경 사항을 구성하세요. 위 문구가 어떤 의미인지 궁금합니다. 아직 틱톡 연동이 안되었다고 해석됩니다.</span></p><ul><li>\"<span style=\"color: #333333;\">자체 기여 네트워크\" -&gt; SAN에 관한 이야기입니다.</span></li><li><span style=\"color: #333333;\">신규 앱의 SAN 설정에 대해서는 아래 매뉴얼 참고해주시기 바랍니다.</span></li><ul><li>https://bytedance.sg.larkoffice.com/docx/FDHWdR1mooyn6jxQUqNlEqt9gzb</li></ul></ul><p><br /></p><p><span style=\"color: #333333;\"> </span></p><p><span style=\"color: #333333;\">3. 스샷 내 보이는 포스트백 url 을 틱톡 내에서 입력할 필요가 없다고 알고 있습니다만, 혹시 추가 액션이 더 필요할지요?</span></p><ul><li>포스트백 URL은 기본값을 손대지 않으셨다면 그냥 놔두시면 됩니다.</li></ul></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1889792,
+  "workflow_nodes": [],
+  "board_id": 1705151646989665,
+  "employee_email": "chan.lim@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Please check the MMP linking status ",
+  "category_1_name": "Mobile Marketing Partner (MMP)",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 3,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_005i_ad20a02f-6be7-4276-b6ca-9137b5fc1dhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1709696324,
+  "owner_name": "유단비",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Mobile Marketing Partner (MMP)",
+  "archive_category_1": "1736497211543601",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497211543601",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [],
+      "value": "Mobile Marketing Partner (MMP)"
+    }
+  ],
+  "core_user_id": "7301117394230985729",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "유단비",
+  "follow_employee_id": 3050890,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1077835,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Please check the MMP linking status ",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "우리은행",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Finance",
+      "valid": true,
+      "key": "Finance",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Enterprise",
+      "valid": true,
+      "key": "Enterprise",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "SEA-KR",
+      "valid": true,
+      "key": "SEA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7336061853153607682"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "유단비 / CSM ",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "com.wooribank.smart.npib",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://play.google.com/store/apps/details?id=com.wooribank.smart.npib&hl=ko&gl=US&pli=1"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Mobile Measurement Partner (MMP)",
+      "valid": true,
+      "key": "Mobile Measurement Partner (MMP)",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-20",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "안녕하세요 찬님,\nCSM 유단비입니다. 앱설치 캠페인 온보딩에 있어서 지원 필요하여 티켓 올립니다. \n\n우리은행에서 앱설치 캠페인 목적으로 MMP 연동 문의주셨습니다만, 불완전한듯 보여 더블체크 요청드립니다. \nMMP : branch\n\n(에이전시와 컴하고 있고, 액션은 광고주가 진행합니다.) \n\n아래의 액션 완료했다고 합니다. \n1. \b틱톡 앱아이디 연동 완료 \n2. 올 포스트백 완료 (스샷참고) \n\n질문은 아래와 같습니다. \n\n1. 이벤트 보고 - view contents, install 등 이벤트가 인입되지 않습니다. \n\n2. 틱톡 앱아이디 연동 & 올 포스트백 완료했다고 하나, 앱이벤트에서 action required 시그널 확인됩니다. \n- 이 앱은 TikTok 자체 기여 네트워크로 설정되지 않았습니다. MMP 대시보드로 이동하여 이 필수 변경 사항을 구성하세요.\n위 문구가 어떤 의미인지 궁금합니다. 아직 틱톡 연동이 안되었다고 해석됩니다.\n\n3. 스샷 내 보이는 포스트백 url 을 틱톡 내에서 입력할 필요가 없다고 알고 있습니다만, \n혹시 추가 액션이 더 필요할지요? \n\n혹시 더 시간을 두고 기다려야 할까요? 라이브 예정은 내일입니다. \n\n감사합니다. \n",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "image.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d92f93929b9c45d8af21470b02308f1c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838160&x-signature=7p5OufRoRPU1nQUUdl8xr0hO8ig%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d92f93929b9c45d8af21470b02308f1c.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d92f93929b9c45d8af21470b02308f1c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838160&x-signature=7p5OufRoRPU1nQUUdl8xr0hO8ig%3D",
+          "size": 107383
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/232165fd033f4ac6a90d373c4adda2df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838160&x-signature=zQVCbM8BaY3ImTafq%2BHi%2Bp7J4Hw%3D",
+          "file_name": "file_20240318_15_02_40_584706",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/232165fd033f4ac6a90d373c4adda2df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838160&x-signature=zQVCbM8BaY3ImTafq%2BHi%2Bp7J4Hw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/232165fd033f4ac6a90d373c4adda2df.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Mobile Measurement Partner (MMP)-Mobile Marketing Partner (MMP)"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

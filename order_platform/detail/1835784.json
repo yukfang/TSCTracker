@@ -1,0 +1,566 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0059_942ad370-b23f-4ae6-a493-acad1fe115hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Selma Maamar",
+  "create_time": 1706105197,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706119029,
+      "auto_close_hit": 0,
+      "id": 7327724807921910000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Clemence,</p><p><br></p><p>Thank you for raising a ticket!</p><p><br></p><p>Could you please confirm whether you have already raised a troubleshooting ticket for this, so that the Global TPS team can investigate this further? GA Discrepancies usually fall under the troubleshooting team&#39;s support, as this is a post-implementation issue.</p><p><br></p><p>Regarding the implementation, </p><ul><li>the client seems to have removed their Events API set up since November 22nd, and therefore only the Pixel is implemented.</li><li>We can see that the email address parameter is always sent, even when the user is not logged in to an account. When the email is not available or &#39;undefined&#39; the client should send an empty string, and not send &#39;undefined&#39;.</li><li>The content_id and content_type parameters are not being sent with any of the events</li><li>It seems like there was a spike in the volume of events today, potentially the trigger rule for the View Content event was changed to &#39;All Pages&#39; (see screenshots attached), but this is not visible on the website - i.e. the View Content event fires correctly on product pages - therefore this may be a UI glitch or the client reverted the change.</li></ul><p><br></p><p>Please confirm if the client is interested in addressing the above issues, especially the implementation of Events API, and our team will be able to support them.</p><p><br></p><p>Best,</p><p>Katerina</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screenshot 2024-01-24 at 17.31.47.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/41a3baddd1f64d40a0cc39ae3f5fb54b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832854&x-signature=reQgQ4uuATSLdGqLo8%2FeQXyDLV4%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/41a3baddd1f64d40a0cc39ae3f5fb54b.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/41a3baddd1f64d40a0cc39ae3f5fb54b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832854&x-signature=reQgQ4uuATSLdGqLo8%2FeQXyDLV4%3D",
+              "biz_type": 2,
+              "size": 208319
+            },
+            {
+              "file_type": "png",
+              "file_name": "Screenshot 2024-01-24 at 17.32.16.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea89e11e54394313a9bccb6a565387c4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832854&x-signature=wMYM3pweiyUM68sJLMIUNxq6BuY%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/ea89e11e54394313a9bccb6a565387c4.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea89e11e54394313a9bccb6a565387c4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832854&x-signature=wMYM3pweiyUM68sJLMIUNxq6BuY%3D",
+              "biz_type": 2,
+              "size": 215644
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707115672,
+      "auto_close_hit": 0,
+      "id": 7332005500537635000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "clemencech@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Clémence Champeyr181",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7171010296906089474",
+      "name": "Clémence Champeyr181",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>hello Katerina,</p><p><br></p><p>Yes. I did but I just had answers regarding normal discprecancies with the difference between page vie/session etc..<br><br>The client would like to implement event api again this week properly &amp; check the events &amp; parameters of the pixel in order to have a good configuration.<br><br>Would it possible to have a call with them tomorrow (morning or afternoon) to go through this with their technical team?<br><br>Many thanks</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_f1565eef-2bd1-494b-b298-e61a2d3dcahu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707227500,
+      "auto_close_hit": 0,
+      "id": 7332485450675847000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "clemencech@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Clémence Champeyr181",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7171010296906089474",
+      "name": "Clémence Champeyr181",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>hello Selma,</p><p><br></p><p>Hope you are well ! could you please get back to me regarding this subject ? :) As we have our ABR with the client next week, it would be great if we can set up a call with them and their technical team to go through the events &amp; parameters to make the necessary modifications.<br><br>Many thanks</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_f1565eef-2bd1-494b-b298-e61a2d3dcahu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707389245,
+      "auto_close_hit": 0,
+      "id": 7333180124692578000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Selma Maamar",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7003110011694695425",
+      "name": "Selma Maamar",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p>[Internal Note] Client call scheduled for feb 9th</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0059_942ad370-b23f-4ae6-a493-acad1fe115hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1835784,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "selma.maamar@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Discrepancies with GA & tag check",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_f1565eef-2bd1-494b-b298-e61a2d3dcahu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1707389245,
+  "owner_name": "Clemence Champeyrol",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7171010296906089474",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Clemence Champeyrol",
+  "follow_employee_id": 2575775,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 3379609,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Discrepancies with GA & tag check",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Sezane",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-FR",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7192617595906867201"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM Clemence Champeyrol",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "7171734193733435393",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CF8M2HBC77UEUGLDMS50",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.sezane.com/us/collection/shoes?utm_source=tiktok&utm_medium=cpc&utm_campaign=__CAMPAIGN_NAME__&utm_id=__AID__&utm_term=__AID_NAME__&utm_content=__CID_NAME__"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2023-11-06",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "hello,\n\nmy client implemented both pixel & event API aénd is running always on perf campaign optimized through View Content.\nThey observe big discrepancies with GA (I've already explained them the difference between page views & sessions), they have a cost per session around 7€ on GA.\nThey think they have duplicates which make them results fake.\n\nCould we please organise a call with them to go through this and check the tags with them?\n\nMany thanks",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-01-24 at 17.31.47.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/41a3baddd1f64d40a0cc39ae3f5fb54b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832854&x-signature=reQgQ4uuATSLdGqLo8%2FeQXyDLV4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/41a3baddd1f64d40a0cc39ae3f5fb54b.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/41a3baddd1f64d40a0cc39ae3f5fb54b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832854&x-signature=reQgQ4uuATSLdGqLo8%2FeQXyDLV4%3D",
+          "biz_type": 2,
+          "size": 208319
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-01-24 at 17.32.16.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea89e11e54394313a9bccb6a565387c4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832854&x-signature=wMYM3pweiyUM68sJLMIUNxq6BuY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ea89e11e54394313a9bccb6a565387c4.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea89e11e54394313a9bccb6a565387c4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832854&x-signature=wMYM3pweiyUM68sJLMIUNxq6BuY%3D",
+          "biz_type": 2,
+          "size": 215644
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

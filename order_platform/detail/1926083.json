@@ -1,0 +1,442 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1742593790901282",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1709853253,
+  "deadline": 0,
+  "archive_board_id": 1705151646989706,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709910274,
+      "auto_close_hit": 0,
+      "id": 7344008126561141000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Brianna,</p><p>Happy to look into this for you! Let me take an initial look into their setup to see what I can verify.</p><p>In the meantime, do you think it would be possible to potentially hop on a call with one of their developers and/or team responsible for event tagging in case it might be better to QA in person?</p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709936279,
+      "auto_close_hit": 0,
+      "id": 7344116201808839000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Brianna,</p><p>Thanks for your patience! </p><p><span style=\"color: #333333;\">If users submit native forms and close out, later they go on the web, will these users later return to the web as new or existing users?</span></p><ul><li>Yes, they will be counted as new users. This is where Click ID will be critical. If a user views the Ad and submits native forms and closes out, Doordash needs to capture the Click ID value for that user. DD will then hang on to that Click ID and tie it to the user on their end</li><li>When they identify that same user coming back via email address and/or phone number when they log on to web, they would then refer back to that saved Click ID and that would tie that user back to the original session</li></ul><p><br></p><p>In my initial investigation it looks like they aren&#39;t passing us back a Click ID. Due to the potential disjointed flows, Click ID will be absolutely critical to ensure that the attributions are able to be credited properly:&nbsp;https://business-api.tiktok.com/portal/docs?id=1771100879787009</p><p>Would we be able to get them to implement this first and see if this improves their attribution counts?</p><p>Thanks!</p><p>Robbie&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710174228,
+      "auto_close_hit": 0,
+      "id": 7345141614215594000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Brianna Cook",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6831207483526448133",
+      "name": "Brianna Cook",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Robbie,</p><p><br></p><p>We are working with a few solutions engineers on this account&#39;s tracking too, so they would probably be the best people to discuss. Let me ask them about these Click ID issues. I thought we had corrected that element.</p><p><br></p><p>Are you able to tell me which event is missing the Click ID? I&#39;m assuming you&#39;re talking about Submit Form?</p><p><br></p><p>Thank you,</p><p>Brianna</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/b1503c23-6205-402e-b8ff-be407815879g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710268036,
+      "auto_close_hit": 0,
+      "id": 7345544015481160000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Brianna Cook",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6831207483526448133",
+      "name": "Brianna Cook",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Robbie,</p><p><br></p><p>Hope you&#39;re doing well. Just want to resurface this. I think we&#39;re ok on the Click ID, based on responses from our SE team.&nbsp;</p><p><br></p><p>Would you be able to help us confirm the user flow for a new user trying to apply through Dasher&#39;s TikTok ads?</p><p>We&#39;re   concerned about the destinations where users land.&nbsp;</p><p><br></p><p>Thank you!</p><p>Brianna</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/b1503c23-6205-402e-b8ff-be407815879g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710278184,
+      "auto_close_hit": 0,
+      "id": 7345586775743578000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Brianna,</p><p>Sorry for the delay here! I ran another query and it looks like Click ID is still not being captured. We do have Click ID entries available but they are only for those page visits through an Instant Page and the in-app browser. The Click ID is automatically populated but it is up to the advertiser to grab that value and pass it through with each subsequent server side event.</p><p>And yes, I will go ahead and test the new Dasher flow. Will I have to complete the entire process? I am unfortunately not looking for a second job at the moment :) Is there any available documentation outlining the intended flow?</p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710450999,
+      "auto_close_hit": 0,
+      "id": 7346329746919211000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Brianna Cook",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6831207483526448133",
+      "name": "Brianna Cook",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Robbie,</p><p><br></p><p>I&#39;ll attach screenshots of Kai and Braden&#39;s conversation about click ID for these events. They seemed to arrive at the conclusion that this is acceptable. If you disagree with the logic still, please let me know! And I&#39;ll relay to them.&nbsp;</p><p><br></p><p><br></p><p>Hahah, that&#39;s how I&#39;ve felt while testing it too, but please feel free to use dummy names and email addresses! </p><p>What we&#39;re specifically looking to see is after you&#39;ve filled out the native lead form, which webpage or app page you&#39;re brought to, and after completing that form, where does it bring you. Please do not enter any information for the background check process.&nbsp;</p><p> The documented process on their website is as follows:&nbsp;https://help.doordash.com/dashers/s/article/Dasher-Signup-Process?language=en_US&nbsp;</p><p>However, we know that they&#39;ve already moved the background check process to app, and we&#39;ve seen mixed results on our end whether the DoorDash-hosted form is on web or app.&nbsp;</p><p><br></p><p><br></p><p>Thanks for all of your help!!!</p><p>Brianna</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screen Shot 2024-03-14 at 2.14.50 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=N5Xqm9QNOdLpqkwaUocL2Eelyn0%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=N5Xqm9QNOdLpqkwaUocL2Eelyn0%3D",
+              "biz_type": 2,
+              "size": 467420
+            },
+            {
+              "file_type": "png",
+              "file_name": "Screen Shot 2024-03-14 at 2.16.06 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=wUGimYqyzvzeDcUNXERPNgoiTiA%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=wUGimYqyzvzeDcUNXERPNgoiTiA%3D",
+              "biz_type": 2,
+              "size": 536482
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/b1503c23-6205-402e-b8ff-be407815879g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1926083,
+  "workflow_nodes": [],
+  "board_id": 1705151646989706,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "DoorDash Dasher: Lead Generation campaigns (submit form)",
+  "category_1_name": "Lead / Campaign Management",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/b1503c23-6205-402e-b8ff-be407815879g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1710450999,
+  "owner_name": "Brianna Cook",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Lead / Campaign Management",
+  "archive_category_1": "1742593790901282",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1742593790901250",
+      "cate_1_form_id": 1742593070290977,
+      "sub_cates": [],
+      "value": "CRM Integration"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1742593790901282",
+      "cate_1_form_id": 1742593529900050,
+      "sub_cates": [],
+      "value": "Lead / Campaign Management"
+    }
+  ],
+  "core_user_id": "6831207483526448133",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Brianna Cook",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 496334,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "DoorDash Dasher: Lead Generation campaigns (submit form)",
+      "valid": true,
+      "item_id": 1742593529900066,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "DoorDash",
+      "valid": true,
+      "item_id": 1742593529900082,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1742593529901058,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Enterprise",
+      "valid": true,
+      "key": "Enterprise",
+      "item_id": 1742593529901074,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Country/Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1742593689690114,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1742593689690130,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": "6925541878209232898",
+      "valid": true,
+      "item_id": 1742593689690146,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P0",
+      "valid": true,
+      "key": "P0",
+      "item_id": 1742593689690162,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Business Center ID ",
+      "content": "",
+      "valid": true,
+      "item_id": 1742593689691138,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Page_id / form_id ",
+      "content": "",
+      "valid": true,
+      "item_id": 1742593689691154,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-07",
+      "valid": true,
+      "item_id": 1742593689691170,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation? ",
+      "content": "YES",
+      "valid": true,
+      "key": "YES",
+      "item_id": 1742593689691186,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Detailed Description",
+      "content": "1. We need help finding out the exact user flow (full loop) from App native form to Web and stress testing different scenarios. \na. If users submit native forms and close out, later they go on the web, will these users later return to the web as new or existing users? This impacts measurement largely as it dictates different user experience. \nb. If users go through the flow (from native to web) in one session, what events are being fired? \nc. If users do not submit on native form but later come back on the web, what events are fired? \n\n2. We suspect that Instant Form overwrites Web form attribution but needs confirmation and solution so we can inform any optimization needed and corresponding measurement.",
+      "valid": true,
+      "item_id": 1742593689692162,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "We're working through some troubleshooting/problem-solving after a conversion lift study that we ran for the DoorDash Dasher account. They run primarily lead generation (native form) campaigns, and we've noticed that the submit form web event does not attribute to these campaigns. However, that's the primary KPI that they want to track in their conversion lift studies.\n\nWe're asking for MPO assistance because we need help validating the user flow and the events that are triggered when a TikTok user tries to sign up to become a Dasher. \n\nIn our own attempts, we've experienced a variety of redirections to app and continuations to different webpages, so we're looking for your help to strategically test the userflow and validate the pathway for a user to convert. This will allow us to confidently run another CLS for the client. \n\nWe were advised to submit this ticket by our MarSci partner. ",
+      "valid": true,
+      "item_id": 1742593689692178,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot/Video/File",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-03-14 at 2.14.50 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=N5Xqm9QNOdLpqkwaUocL2Eelyn0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=N5Xqm9QNOdLpqkwaUocL2Eelyn0%3D",
+          "biz_type": 2,
+          "size": 467420
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-03-14 at 2.16.06 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=wUGimYqyzvzeDcUNXERPNgoiTiA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=wUGimYqyzvzeDcUNXERPNgoiTiA%3D",
+          "biz_type": 2,
+          "size": 536482
+        }
+      ],
+      "valid": true,
+      "item_id": 1742593903737858,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Lead Generation (Native)-Lead / Campaign Management"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

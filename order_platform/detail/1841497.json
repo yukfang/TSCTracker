@@ -1,0 +1,508 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497066245137",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1706308043,
+  "deadline": 0,
+  "archive_board_id": 1705151646989663,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706558824,
+      "auto_close_hit": 0,
+      "id": 7329613688099357000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lauren,</p><p>As this is an issue with an API error and unintended behavior regarding the reporting metrics, a ticket should be raised through the Internal TPS platform and the client should also open a support ticket on their own behalf through the Developer Platform. Links + resources below:</p><p>Internal TPS platform </p><ul><li>https://ads.tiktok.com/athena/requester/form/1722458812604434?board_id=1682338304293889&amp;category_1_id=1724360328455170&amp;category_2_id=1724360699109393&amp;identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456&amp;isFromBoard=true</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7489ddfde6034203968094b057b6512c.png\" height=\"204.43\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7489ddfde6034203968094b057b6512c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832807&amp;x-signature=t0l6g2CWVFA1YnaNixEBvYsWSYY%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0091923db62f4be9b3d09b63fdae79d1.png\" height=\"225.111\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0091923db62f4be9b3d09b63fdae79d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832807&amp;x-signature=4MKScTpXtFLUAjLVnFiMGFXqkDc%3D\" width=\"375\"><ul><li>Developer Platform Ticketing</li><ul><li>TikTok For Business Developer account required - as they are already making API calls, the developer should have access to the following link: https://ads.tiktok.com/athena/requester/boards?identify_key=b25033ef7782d41050cbac74f751d547e9d8ad35a39a541a0f0efbbd51fe722f</li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/fd1a6a6febdf4c2c8b7e03b41c221dfd.png\" height=\"233.684\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fd1a6a6febdf4c2c8b7e03b41c221dfd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832807&amp;x-signature=ceTG8IVSAan6I8z4Qxoc8JIWtKA%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706830052,
+      "auto_close_hit": 0,
+      "id": 7330776033592918000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "nelson.wu@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Nelson Wu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7226436515268854785",
+      "name": "Nelson Wu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Robbie,</p><p><br></p><p>Following up to round out this thread. We attempted to submit a ticket via the internal TPS platform you linked above and were told to make another instead to marketing API which looks like the developer platform ticket you linked last. To ensure we (me and the client) don&#39;t duplicate tickets, can you confirm these (the developer platform ticket and the 3rd Athena ticket) are one and the same?</p><p><br></p><ul><li>2nd Athena ticket:&nbsp;https://ads.tiktok.com/athena/requester/ticket/list?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456&amp;ticket_id=1853622</li><li>3rd Athena ticket:&nbsp;https://ads.tiktok.com/athena/requester/ticket/list?identify_key=b25033ef7782d41050cbac74f751d547e9d8ad35a39a541a0f0efbbd51fe722f&amp;ticket_id=1853639</li></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0064_0fc89ef3-e87d-4068-bdd4-972af66e24eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706830873,
+      "auto_close_hit": 0,
+      "id": 7330781030321816000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Nelson,</p><p>Thanks for following back up! Confirming that the questions/body of the tickets are similar but are tickets created on different platforms.</p><p><br /></p><p>The ticket that instructed you to create a ticket on the Developer Platform: https://ads.tiktok.com/athena/processor/ticket/list?live_chat=0&amp;platform_id=1681100484057089&amp;ticket_id=1853622 - this can be closed out or will automatically be closed out by the agent or the system</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6fae81d3fdc9490ab65a107c5f9ec452.png\" height=\"32\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6fae81d3fdc9490ab65a107c5f9ec452.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832807&amp;x-signature=vZt5WMpt5QQvj1OUkhiip8OUYOE%3D\" width=\"227\"><p><br /></p><p><br /></p><p>The Developer Platform ticket that should be kept open and continued to follow up on: </p><p>https://ads.tiktok.com/athena/processor/ticket/list?live_chat=0&amp;platform_id=26&amp;ticket_id=1853639</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d5dcf3b6ee464b9dabc6a68c5b964a0b.png\" height=\"38\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5dcf3b6ee464b9dabc6a68c5b964a0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832807&amp;x-signature=Ed%2Brf6tCDyw%2BvAB1CwCM%2BbhfVyc%3D\" width=\"256\"><p>You will be in good hands with Dag!</p><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708101820,
+      "auto_close_hit": 0,
+      "id": 7336240860226421000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p>[Conclusion] 2/16: Ticket and question needs to be directed to the Developer Platform/Internal TPS. Regarding difference in reporting between TTAM and the Marketing API reporting endpoint</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1841497,
+  "workflow_nodes": [],
+  "board_id": 1705151646989663,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Electronic Arts - The Sims -  Events API Offline ",
+  "category_1_name": "Events API - Web",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_f2ccc486-b058-4a17-9894-d0f09b7d5b1g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 4,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1708101925,
+  "owner_name": "Lauren Doria",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - Web",
+  "archive_category_1": "1736497066245137",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497066245137",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882593",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882609",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883585",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883601",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400130",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400146",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400162",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400178",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401154",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401170",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401186",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401202",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548708426753",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - Web"
+    }
+  ],
+  "core_user_id": "6981947490035794945",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Lauren Doria",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2666882,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Electronic Arts - The Sims -  Events API Offline ",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Electronic Arts \\ The Sims ",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Gaming",
+      "valid": true,
+      "key": "Gaming",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7018561008784424962"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "BPM : Kevin Alcantara CSM: Lauren Doria & Nelson Wu ",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "7203286479072657410)",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.ea.com/games/the-sims"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2023-09-01",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hi Team -  I received the following request from the dev and measurement team at Electronic Arts experiencing discrepancies from TikTok's API reporting compared to TTAM platform. See email (attached) and note below.  \n\nCan I please receive MSO support to directly troubleshoot via email with the client? I've attached the clients reporting example but am not able to attach the json file. \n\n\n- We are wondering if you or any technical resources on your end can help with a reporting issue. We have run into this for our Sims advertiser: TS4_X_X_GLOBAL ID: 7018561008784424962\n \n- Peter cc’d on the EA side gets reporting from Tiktok via your API. (specifically, this API app https://business-api.tiktok.com/portal/apps (ID: 7203286479072657410))\n \n- For some of this API conversion reporting, conversion events are consistently showing counts of zero. Meanwhile in the platform these events are showing attributed conversions.\n               Specifically, the “subscribe” (offline event) and “view_content” (web event)\n               Other offline and web events show up fine which makes this odd.\n \n- Peter provided us a sample of the json where it shows 0s for the subscribe and view_content events. (attached)\n \n- Could you please help Peter cc’d look into this? He should be able to provide any additional information you might need.\n \nThanks!",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-01-26 at 12.39.25 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9b4adde883204e0ca5dd719b8ca7a8fc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832806&x-signature=4PGxgHp%2BSktC4tFUVQjtV9NGSDo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/9b4adde883204e0ca5dd719b8ca7a8fc.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9b4adde883204e0ca5dd719b8ca7a8fc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832806&x-signature=4PGxgHp%2BSktC4tFUVQjtV9NGSDo%3D",
+          "size": 109408
+        },
+        {
+          "file_type": "xlsx",
+          "file_name": "TikTok Platform export TS4 1.3.24.xlsx",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oM0BAYiWpAEQzxBBikAbmMZYzFCAhAIvLENDd.xlsx?lk3s=cbe26b3a&x-expires=4832832806&x-signature=gFR04uarKtb8YtUrAlezgbaailc%3D",
+          "file_key": "tos-alisg-v-90231e-sg/oM0BAYiWpAEQzxBBikAbmMZYzFCAhAIvLENDd.xlsx",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oM0BAYiWpAEQzxBBikAbmMZYzFCAhAIvLENDd.xlsx?lk3s=cbe26b3a&x-expires=4832832806&x-signature=gFR04uarKtb8YtUrAlezgbaailc%3D",
+          "size": 10737
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7489ddfde6034203968094b057b6512c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832807&x-signature=t0l6g2CWVFA1YnaNixEBvYsWSYY%3D",
+          "file_name": "file_20240318_13_33_27_081494",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7489ddfde6034203968094b057b6512c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832807&x-signature=t0l6g2CWVFA1YnaNixEBvYsWSYY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7489ddfde6034203968094b057b6512c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0091923db62f4be9b3d09b63fdae79d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832807&x-signature=4MKScTpXtFLUAjLVnFiMGFXqkDc%3D",
+          "file_name": "file_20240318_13_33_27_081565",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0091923db62f4be9b3d09b63fdae79d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832807&x-signature=4MKScTpXtFLUAjLVnFiMGFXqkDc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0091923db62f4be9b3d09b63fdae79d1.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fd1a6a6febdf4c2c8b7e03b41c221dfd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832807&x-signature=ceTG8IVSAan6I8z4Qxoc8JIWtKA%3D",
+          "file_name": "file_20240318_13_33_27_081583",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fd1a6a6febdf4c2c8b7e03b41c221dfd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832807&x-signature=ceTG8IVSAan6I8z4Qxoc8JIWtKA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/fd1a6a6febdf4c2c8b7e03b41c221dfd.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6fae81d3fdc9490ab65a107c5f9ec452.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832807&x-signature=vZt5WMpt5QQvj1OUkhiip8OUYOE%3D",
+          "file_name": "file_20240318_13_33_27_262746",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6fae81d3fdc9490ab65a107c5f9ec452.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832807&x-signature=vZt5WMpt5QQvj1OUkhiip8OUYOE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6fae81d3fdc9490ab65a107c5f9ec452.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5dcf3b6ee464b9dabc6a68c5b964a0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832807&x-signature=Ed%2Brf6tCDyw%2BvAB1CwCM%2BbhfVyc%3D",
+          "file_name": "file_20240318_13_33_27_262820",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5dcf3b6ee464b9dabc6a68c5b964a0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832807&x-signature=Ed%2Brf6tCDyw%2BvAB1CwCM%2BbhfVyc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d5dcf3b6ee464b9dabc6a68c5b964a0b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - Web-Events API - Web"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

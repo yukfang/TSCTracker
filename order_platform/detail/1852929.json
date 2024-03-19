@@ -1,0 +1,1029 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497066245137",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Heidi Williams",
+  "create_time": 1706807729,
+  "deadline": 0,
+  "archive_board_id": 1705151646989663,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706826992,
+      "auto_close_hit": 0,
+      "id": 7330765086396645000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan,</p><p><br></p><p>Yes, there will be costs incurred with our GTM-Events API implementation for the server-side container that needs to be used for that. There would be server costs anyway, no matter how them implement, because they would always have the API running from somewhere. I will see what I can find out internally, but if the client has a Google account manager, they may be more knowledgeable about pricing.&nbsp;</p><p><br></p><p>Edit: Haha it didn't take long to get an answer. The pricing its roughly $250 a month if they use Google Cloud.</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706897798,
+      "auto_close_hit": 0,
+      "id": 7331069482728849000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>thanks!! can you send your avails link again? thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707246802,
+      "auto_close_hit": 0,
+      "id": 7332568035330408000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan, here it is:&nbsp;h<a target=\"_blank\" href=\"https://bytedance.larksuite.com/scheduler/74c8aaeecf93ed02\">ttps://bytedance.larksuite.com/scheduler/74c8aaeecf93ed02</a></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707777185,
+      "auto_close_hit": 0,
+      "id": 7334845767250641000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan, just confirming in the ticket we are meeting with Altar&#39;d State dev team Tuesday Feb 13th at 4pm EST.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707777243,
+      "auto_close_hit": 0,
+      "id": 7334846477564527000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Status Update] </strong>I am meeting with Altar&#39;d State dev team to review implementing Event API Tuesday Feb 13th at 4pm EST.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707777947,
+      "auto_close_hit": 0,
+      "id": 7334848314845807000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>that&#39;s correct! as a refresher they want to make sure they understand the GTM API set-up and test the advanced matching purchase events setup. thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708121946,
+      "auto_close_hit": 0,
+      "id": 7336326708326367000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan, here is a follow-up you can send to the Altar&#39;d State team. I don&#39;t think I&#39;m on an open thread with them currently.</p><p><br></p><p><br></p><p>Thank you for getting on the call this week! For your reference, here is the link to <a target=\"_blank\" href=\"https://business-api.tiktok.com/portal/docs?id=1772372080226305\">Events API for Server-Side Google Tag Manager (GTM)</a></p><p>Regarding questions for provisioning your own server for Event API vs using Google Cloud Platform (GCP), a couple of considerations:</p><ul><li>When implementing through GTM, GCP can be a slightly more expensive server option.</li></ul><ul><ul><li>But it provides the trade-off of convenience (embedded in GTM)</li></ul></ul><ul><ul><li>Built-in server creation with just a few clicks as part of Event API setup</li></ul></ul><ul><li>Non-GCP options require a <a target=\"_blank\" href=\"https://developers.google.com/tag-platform/tag-manager/server-side/manual-setup-guide\">sufficient dev ops infrastructure</a>. But if you have that infrastructure, you may prefer to keep data in-house.</li></ul><ul><ul><li>You do not need a new server, the container will run alongside other services hosted by the domain.</li></ul></ul><p>Regarding non-GTM options, TikTok supports Event API integration with partner data platforms <a target=\"_blank\" href=\"https://ads.tiktok.com/help/article/partner-integrations-for-web-tracking?lang=en#:~:text=Learn%20More-,Data%20Platforms,-The%20following%20is\">here</a>.</p><p>Advantages:</p><ul><li>Can be used alongside your GTM Pixel implementation</li></ul><ul><li>Server is created through the platform</li></ul><ul><li>Product support available from both TikTok and the partner platform</li></ul><ul><li>Security and updates will be administered by the platform</li></ul><p><br></p><p>Attached here is a guide written up by a colleague that will help in your decision-making as well.</p><p><br></p><p>I am here as your technical resource as you move forward with TikTok measurement! Please let me know if further questions come up, and have a great weekend.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "pdf",
+              "file_name": "Google Tag Manager - Server_EAPI Template Guide.pdf",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ok92UXfeECfAAfithAeBgzlBAzeA6QeLeO17GCi.pdf?lk3s=cbe26b3a&x-expires=4832837668&x-signature=stlLTwjCcdRkTiIhhWvlKBfL8LE%3D",
+              "file_key": "tos-alisg-v-90231e-sg/ok92UXfeECfAAfithAeBgzlBAzeA6QeLeO17GCi.pdf",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ok92UXfeECfAAfithAeBgzlBAzeA6QeLeO17GCi.pdf?lk3s=cbe26b3a&x-expires=4832837668&x-signature=stlLTwjCcdRkTiIhhWvlKBfL8LE%3D",
+              "biz_type": 2,
+              "size": 109614
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708448824,
+      "auto_close_hit": 0,
+      "id": 7337730716505014000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you! I will let you know if they need anything else</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708453257,
+      "auto_close_hit": 0,
+      "id": 7337749590541615000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Megan. I&#39;ll keep this ticket open for now.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709071632,
+      "auto_close_hit": 0,
+      "id": 7340403619839164000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan, do you know if Altar&#39;d State published the Google Tag Manager event we tested together a couple of weeks ago? I&#39;m not seeing any PII report for CompletePayment.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709304646,
+      "auto_close_hit": 0,
+      "id": 7341407003912274000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>checking in with them now! I&#39;ll let you know :)</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709318449,
+      "auto_close_hit": 0,
+      "id": 7341465274207699000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #222222;\">the team said &#34;Yes, that was released on 2/22. Please let me know what we need to do to confirm the data is flowing correctly.&#34;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709320235,
+      "auto_close_hit": 0,
+      "id": 7341473093816320000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan,&nbsp;</p><p><br></p><p>Since we checked the data layers, I&#39;m trying to think if we could have missed something. Could the team please send me a screen shot of the Google Tag Manager - CompletePayment event setup from the GTM UI?&nbsp;</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709575934,
+      "auto_close_hit": 0,
+      "id": 7342571763554959000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<img alt=\"unnamed (31).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/99110baf79b8497287a4249b0db01c7d.png\" height=\"240.41\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/99110baf79b8497287a4249b0db01c7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837669&amp;x-signature=CcdaI7FUQWzB1BarV8D3WZzbzmI%3D\" width=\"375\"><p>here you go!</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709579439,
+      "auto_close_hit": 0,
+      "id": 7342577610376905000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks, taking a look now.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709579749,
+      "auto_close_hit": 0,
+      "id": 7342581873807196000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan, I am seeing that the trigger is paused for CompletePayment:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2f25b09ef92042ce83f31a457e48f840.png\" height=\"81.14\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2f25b09ef92042ce83f31a457e48f840.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837669&amp;x-signature=rhYmqKU0Rz4aJ9eG6zPcr9PxnKc%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/88611e41d2e948f7ab28b41898a61907.png\" height=\"142\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88611e41d2e948f7ab28b41898a61907.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837669&amp;x-signature=jSf2yBnw2nxziWdoSDaTbNsRpmI%3D\" width=\"356\"><p>Do they know why that might be?</p><p><br /></p><p>Heidi</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709753296,
+      "auto_close_hit": 0,
+      "id": 7343323799351312000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>No they don&#39;t know why :/ do you know how we activate it?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709828693,
+      "auto_close_hit": 0,
+      "id": 7343655966266671000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>they were able to unpause it! can you check it again? appreciate your help!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709828735,
+      "auto_close_hit": 0,
+      "id": 7343657386487415000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Yes I will take a look now.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709839600,
+      "auto_close_hit": 0,
+      "id": 7343697772593431000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan, could you please ask the team to send a screenshot of the data layer variable they have set up that CompletePayment is using? I will need to see exactly what parameters and values the event should be pulling in.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709846550,
+      "auto_close_hit": 0,
+      "id": 7343733366933733000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>they sent this - is this what you're looking for?</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8e3723d33b654412aeecd46f5fb28e5c.png\" height=\"257.445\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e3723d33b654412aeecd46f5fb28e5c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837669&amp;x-signature=V2tgwG2xetCHsrjcg%2FXa0ke6sc0%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710269431,
+      "auto_close_hit": 0,
+      "id": 7345543319893672000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan, actually I&#39;m looking for the data layer variable, to see what it is pulling in. Could they please send the screenshot for that?</p><p><br></p><p>If we can&#39;t fix the event using the Template tag, I may ask them to create the tag manually.&nbsp;</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1852929,
+  "workflow_nodes": [],
+  "board_id": 1705151646989663,
+  "employee_email": "heidi.williams@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Meeting Request with Altar'd State Dev Team",
+  "category_1_name": "Events API - Web",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710269431,
+  "owner_name": "Megan Ogrinc",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - Web",
+  "archive_category_1": "1736497066245137",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497066245137",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882593",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882609",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883585",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883601",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400130",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400146",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400162",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400178",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401154",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401170",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401186",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401202",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548708426753",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - Web"
+    }
+  ],
+  "core_user_id": "7164000715252220930",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Megan Ogrinc",
+  "follow_employee_id": 5710207,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 504238,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Meeting Request with Altar'd State Dev Team",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Altar'd State",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6964398975650660354"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM - Meg Ogrinc, BPM - Delaney Renker",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C2LVTKCQTD9DP15KMUB0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "altardstate.com"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-01",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "The client wants to have a call to align on the events API/server-side tagging. They want to know if they have to create a new container because there will be some Google costs associated. They want to make sure the SOFG team is informed about any costs they incur.",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "pdf",
+          "file_name": "Google Tag Manager - Server_EAPI Template Guide.pdf",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ok92UXfeECfAAfithAeBgzlBAzeA6QeLeO17GCi.pdf?lk3s=cbe26b3a&x-expires=4832837668&x-signature=stlLTwjCcdRkTiIhhWvlKBfL8LE%3D",
+          "file_key": "tos-alisg-v-90231e-sg/ok92UXfeECfAAfithAeBgzlBAzeA6QeLeO17GCi.pdf",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ok92UXfeECfAAfithAeBgzlBAzeA6QeLeO17GCi.pdf?lk3s=cbe26b3a&x-expires=4832837668&x-signature=stlLTwjCcdRkTiIhhWvlKBfL8LE%3D",
+          "biz_type": 2,
+          "size": 109614
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/99110baf79b8497287a4249b0db01c7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837669&x-signature=CcdaI7FUQWzB1BarV8D3WZzbzmI%3D",
+          "file_name": "file_20240318_14_54_29_020398",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/99110baf79b8497287a4249b0db01c7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837669&x-signature=CcdaI7FUQWzB1BarV8D3WZzbzmI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/99110baf79b8497287a4249b0db01c7d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2f25b09ef92042ce83f31a457e48f840.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837669&x-signature=rhYmqKU0Rz4aJ9eG6zPcr9PxnKc%3D",
+          "file_name": "file_20240318_14_54_29_078812",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2f25b09ef92042ce83f31a457e48f840.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837669&x-signature=rhYmqKU0Rz4aJ9eG6zPcr9PxnKc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2f25b09ef92042ce83f31a457e48f840.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88611e41d2e948f7ab28b41898a61907.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837669&x-signature=jSf2yBnw2nxziWdoSDaTbNsRpmI%3D",
+          "file_name": "file_20240318_14_54_29_078874",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88611e41d2e948f7ab28b41898a61907.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837669&x-signature=jSf2yBnw2nxziWdoSDaTbNsRpmI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/88611e41d2e948f7ab28b41898a61907.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e3723d33b654412aeecd46f5fb28e5c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837669&x-signature=V2tgwG2xetCHsrjcg%2FXa0ke6sc0%3D",
+          "file_name": "file_20240318_14_54_29_202777",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e3723d33b654412aeecd46f5fb28e5c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837669&x-signature=V2tgwG2xetCHsrjcg%2FXa0ke6sc0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8e3723d33b654412aeecd46f5fb28e5c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - Web-Events API - Web"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

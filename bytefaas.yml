@@ -1,0 +1,9 @@
+id: 93c7nrze
+name: yfa-test-only
+runtime: nodeprime14/v1
+protocol: http
+handler: index.handler
+initializer: index.initializer
+revision: 40
+createTime: 2022-10-10 08:46:58.884 +0000 UTC
+description: nodeprime14 default code

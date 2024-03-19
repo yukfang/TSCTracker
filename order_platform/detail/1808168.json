@@ -1,0 +1,313 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1705012082,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1705094973,
+      "auto_close_hit": 0,
+      "id": 7323326477972275000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Mike,</p><p>Happy New Year and great hearing from you again! I'd be happy to check on the catalog match rates for A&amp;F.</p><p>At the moment it looks like we're seeing less than optimal match rates. Screenshot for the date 2024-01-12</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/03efa2b5be394288b7c7dbf184732615.png\" height=\"83.387\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03efa2b5be394288b7c7dbf184732615.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833274&amp;x-signature=xVWg3miGIAHMbNMNBTCZ2jKdpwM%3D\" width=\"375\"><p>Our culprit for the low match rates is the incorrect formatting of the received parameter data, most importantly content_id and content_type. The parameter data for Events API/S2S Events contain escape characters which will cause issues with matching:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0e4ec0f31c0e488c965a028b49c4d8cb.png\" height=\"234.919\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e4ec0f31c0e488c965a028b49c4d8cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833274&amp;x-signature=KQ2IiXX%2BvHuSxzYlflE2jVRSgLo%3D\" width=\"375\"><p>The Client Side/Web Pixel events are passing back correctly formatted parameters:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7f0e960d35724b408134c5ad4e2046f9.png\" height=\"206.651\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f0e960d35724b408134c5ad4e2046f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833274&amp;x-signature=SO1Eyp2PXo9gP34BILU%2FzVZY4GU%3D\" width=\"375\"><p>Would they be able to make sure that escape characters are not used in the Events API payloads? This should resolve the current low match rates.</p><p>Thanks!</p><p>Robbie</p></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705676749,
+      "auto_close_hit": 0,
+      "id": 7325825158915490000,
+      "reply_role": null,
+      "staff_id": 1791511,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "mike.decosmo@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Mike DeCosmo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6834871388520694790",
+      "name": "Mike DeCosmo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank as always, Robbie! And yes - great to connect again.</p><p><br></p><p>I do belive Jose Plasencia has mentioned these catalog optimization recommendations in the past, so I&#39;ll be sure to surface for the Abercrombie clients.</p><p><br></p><p>Another question while we&#39;re doing our due diligence to start the year off right. Are you able to see if there have been improvements in recent weeks vs last year when it comes to signals being received, etc.? Reason I ask is the ANF brands integrated with Tealium last year, and so we want to keep a close eye on that partnership and make sure we&#39;re doing all we can to keep signal strength a priority for lower-funnel efforts this year.</p><p><br></p><p>Please let me know if you have any additional recommendations outside of&nbsp;<span style=\"color: #333333;\">the incorrect formatting of the received parameter data (most importantly content_id and content_type). Thank you in advance!</span></p><p><br></p><p><span style=\"color: #333333;\">-Mike</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/54ca3ebc-2d13-4a07-931f-89541d0f39bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1808168,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Catalog match rate check-in",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/54ca3ebc-2d13-4a07-931f-89541d0f39bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1705676749,
+  "owner_name": "Mike DeCosmo",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "6834871388520694790",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Mike DeCosmo",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 5674301,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Catalog match rate check-in",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Abercrombie",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Enterprise",
+      "valid": true,
+      "key": "Enterprise",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "6927381906942083074",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P0",
+      "valid": true,
+      "key": "P0",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-11",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Hello -- looking to get most recent catalog match rates for both Abercrombie (6927381906942083074 ) and Hollister (6735952953653329926). Could you pls advise?\n\nLet me know if any additional information would be helpful!",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e4ec0f31c0e488c965a028b49c4d8cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833274&x-signature=KQ2IiXX%2BvHuSxzYlflE2jVRSgLo%3D",
+          "file_name": "file_20240318_13_41_14_271856",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e4ec0f31c0e488c965a028b49c4d8cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833274&x-signature=KQ2IiXX%2BvHuSxzYlflE2jVRSgLo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0e4ec0f31c0e488c965a028b49c4d8cb.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03efa2b5be394288b7c7dbf184732615.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833274&x-signature=xVWg3miGIAHMbNMNBTCZ2jKdpwM%3D",
+          "file_name": "file_20240318_13_41_14_271910",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03efa2b5be394288b7c7dbf184732615.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833274&x-signature=xVWg3miGIAHMbNMNBTCZ2jKdpwM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/03efa2b5be394288b7c7dbf184732615.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f0e960d35724b408134c5ad4e2046f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833274&x-signature=SO1Eyp2PXo9gP34BILU%2FzVZY4GU%3D",
+          "file_name": "file_20240318_13_41_14_271928",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f0e960d35724b408134c5ad4e2046f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833274&x-signature=SO1Eyp2PXo9gP34BILU%2FzVZY4GU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7f0e960d35724b408134c5ad4e2046f9.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

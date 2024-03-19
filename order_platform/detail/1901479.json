@@ -1,0 +1,719 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Thomas Mei",
+  "create_time": 1708983221,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709061335,
+      "auto_close_hit": 0,
+      "id": 7340361562911195000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Audrey,</p><p><br></p><p>Can you share a link to the client&#39;s BC or catalog manager?&nbsp;</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709064700,
+      "auto_close_hit": 0,
+      "id": 7340375128825479000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Audrey Oei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6841650858478175238",
+      "name": "Audrey Oei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>I&#39;m asking the client to send to me and I will get back to you wit it.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_b00978e6-7f67-446b-8e64-ed17353141hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709064861,
+      "auto_close_hit": 0,
+      "id": 7340375586273067000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Audrey Oei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6841650858478175238",
+      "name": "Audrey Oei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>https://business.tiktok.com/manage/catalog?org_id=6942896324664655873</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_b00978e6-7f67-446b-8e64-ed17353141hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709064826,
+      "auto_close_hit": 0,
+      "id": 7340376055863165000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Audrey Oei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6841650858478175238",
+      "name": "Audrey Oei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><a href=\"https://business.tiktok.com/manage/account?org_id=6942896324664655873\" target=\"_blank noopener noreferrer\">https://business.tiktok.com/manage/account?org_id=6942896324664655873</a></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_b00978e6-7f67-446b-8e64-ed17353141hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709065279,
+      "auto_close_hit": 0,
+      "id": 7340378645371929000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kayla.mackenzie@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kayla Mackenzie151",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7233451881711371266",
+      "name": "Kayla Mackenzie151",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Thomas,<br><br>Additionally, please see the catalog file linked to this BC below:<br><br><span style=\"color: #1155CC;\"><a href=\"https://files.channable.com/-rP23OfzdXJfUkZJor6SEQ==.xml\" target=\"_blank noopener noreferrer\">https://files.channable.com/-rP23OfzdXJfUkZJor6SEQ==.xml</a></span><br><br></p><p>The client advised that across other catalogs, they&#39;ve been able to resolve the image resizing by adding &#34;<span style=\"color: #222222;\">?width=600&amp;height=650” to the end of their image links, but this solution appears to not be working in this case.</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_d3ad2fd2-b224-4f60-ae51-6e854d15d0hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709068815,
+      "auto_close_hit": 0,
+      "id": 7340392282790642000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hello team,</p><p><br /></p><p>So the error we are flagging for RW&amp;Co is that the images they have linked for the products are not meeting the minimum size requirement of 500x500. </p><p><br /></p><p>Unfortunately the images themselves are only 460 x 575 (when I checked one example i.e. Limitless (R) Long Signature Pant - 18):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c5098a477aeb4bab8b40af0140435895.png\" height=\"414.195\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5098a477aeb4bab8b40af0140435895.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838275&amp;x-signature=RbZY7CTCeB1ZWSkib9ImttRJ%2BsM%3D\" width=\"375\"><p><br /></p><p>I do see they are trying to use a URL parameter to resize the images, but that likely only works when the image is loaded in a browser. A browser may read that url parameter and resize the image to the specified size. However this doesn't change the actual size of the image itself which is likely where our issue starts. </p><p><br /></p><p>In our catalog/back-end with VSA, we likely download the actual images themselves when we run the VSA ads to show to TikTok users and the system will flag that they do not meet the minimum resolution. </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e0bcf77932204389a635dea11c433790.png\" height=\"244.658\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0bcf77932204389a635dea11c433790.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838275&amp;x-signature=ecZ6fnc63NZXZ1DcnQcNlo8JAhc%3D\" width=\"375\"><p><br /></p><p>They will have to resize the images that are linked in their catalog feed file. There is likely not an easy way to do this as they would have to figure out a way to adjust all image sizes to be larger than 500 x 500. </p><p><br /></p><p>After they change the sizing of their product images, they will have to update their catalog feed file to reflect the URLs of the resized images. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709154551,
+      "auto_close_hit": 0,
+      "id": 7340749384167997000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "ben.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ben Jones723",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7257954010145276929",
+      "name": "Ben Jones723",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Thomas,</p><p><br></p><p>Hope you are well</p><p><br></p><p>This info has been shared with client. They have sent the below note, can you just confirm that we aren&#39;t missing anything on our side</p><p><br></p><p>Thanks&nbsp;</p><p><br></p><p>--</p><p><br></p><p><span style=\"color: #1F2329;\">We are just confused about how the Reitman’s feed is working. We are currently spending on VSA’s but our RW feed can&#39;t? Although we have the same image sizes across both.</span></p><p><span style=\"color: #1F2329;\">&nbsp;</span></p><p><span style=\"color: #1F2329;\">Here is an example of Reitman image&#39;s currently active:</span></p><p><span style=\"color: #1456F0;\"><a href=\"https://www.reitmans.com/on/demandware.static/-/Sites-Reitmans-catalog/default/dwb3b9a5d6/images/large/reitmans_478308_415_0.jpg?width=600&amp;height=650\" target=\"_blank noopener noreferrer\">https://www.reitmans.com/on/demandware.static/-/Sites-Reitmans-catalog/default/dwb3b9a5d6/images/large/reitmans_478308_415_0.jpg?width=600&amp;height=650</a></span><br></p><p><span style=\"color: #1F2329;\">&nbsp;</span></p><p><span style=\"color: #1F2329;\">&nbsp;</span></p><p><span style=\"color: #1F2329;\">As you can see the image is 460x575 pixels, and our product is active.</span></p><p><span style=\"color: #1F2329;\">&nbsp;</span></p><p><span style=\"color: #1F2329;\">&nbsp;</span></p><p><span style=\"color: #1F2329;\">Where as here is a example from our RW feed –</span></p><p><span style=\"color: #1F2329;\">&nbsp;</span></p><p><span style=\"color: #1456F0;\"><a href=\"https://www.rw-co.com/on/demandware.static/-/Sites-Rwco-master-catalog/default/dw51b9b0f4/images/large/rwco_474834_406_0.jpg?width=600&amp;height=650\" target=\"_blank noopener noreferrer\">https://www.rw-co.com/on/demandware.static/-/Sites-Rwco-master-catalog/default/dw51b9b0f4/images/large/rwco_474834_406_0.jpg?width=600&amp;height=650</a></span><br></p><p><span style=\"color: #1F2329;\">&nbsp;</span></p><p><span style=\"color: #1F2329;\">&nbsp;</span></p><p><span style=\"color: #1F2329;\">As you can see we have the same size image as Reitman’s but our products are not active because of a image size error?</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0063_b564b377-d965-4df7-983a-2625b37f95hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709157362,
+      "auto_close_hit": 0,
+      "id": 7340760282421150000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "ben.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ben Jones723",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7257954010145276929",
+      "name": "Ben Jones723",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>(+ Client note)</p><p><br></p><p><span style=\"color: #1F2329;\">I understand that our images are too small but we are currently running on Reitman’s with the same size images. (460x575)</span></p><p><span style=\"color: #1F2329;\">&nbsp;</span></p><p><span style=\"color: #1F2329;\">We are just trying to understand why it is working on our other account but not on RW if it is below the minimum size requirement.</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0063_b564b377-d965-4df7-983a-2625b37f95hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709157860,
+      "auto_close_hit": 0,
+      "id": 7340776208319119000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Ben,</p><p><br></p><p>That image for the Reitman blouse does seem to be 460 x 575. Can you share a link to the Reitman&#39;s catalog?&nbsp;</p><p><br></p><p>Let me give that catalog a check and if necessary I will find a way to route this to another team to take a look.</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709239714,
+      "auto_close_hit": 0,
+      "id": 7341127625550594000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "ben.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ben Jones723",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7257954010145276929",
+      "name": "Ben Jones723",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Thomas,</p><p><br></p><p>Please see link to Rietmans catalog manager:&nbsp;https://ads.tiktok.com/catalogs/overview?id=7299170735942092545&amp;bc_id=6942896324664655873</p><p><br></p><p>Thanks</p><p><br></p><p>Ben</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0063_b564b377-d965-4df7-983a-2625b37f95hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709307046,
+      "auto_close_hit": 0,
+      "id": 7341410910398988000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "ben.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ben Jones723",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7257954010145276929",
+      "name": "Ben Jones723",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Thomas,&nbsp;<br><br></p><p>Hope you are well</p><p><br></p><p>Just following up to see if there is any update here</p><p><br></p><p>Thanks</p><p><br></p><p>ben&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0063_b564b377-d965-4df7-983a-2625b37f95hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709322056,
+      "auto_close_hit": 0,
+      "id": 7341472413567156000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Ben,</p><p><br></p><p>I have forwarded the issue to the Solutions Engineer, Seyithan Ayhan, that covers Catalog internally and they will take a look.&nbsp;</p><p><br></p><p>In the meantime they also advised filing a ticket with TPS to review the issue as well.&nbsp;</p><p><br></p><p>Regards,</p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709671016,
+      "auto_close_hit": 0,
+      "id": 7342968090453443000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>TPS ticket filed here:&nbsp;https://ads.tiktok.com/athena/processor/ticket/list?platform_id=1681100484057089&amp;ticket_id=1920591</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709668864,
+      "auto_close_hit": 0,
+      "id": 7342970842206306000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "ben.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ben Jones723",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7257954010145276929",
+      "name": "Ben Jones723",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Thomas,</p><p><br></p><p>Hope you are well</p><p><br></p><p>Any update from the solutions engineer ?</p><p><br></p><p>Thanks</p><p><br></p><p>Ben</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0063_b564b377-d965-4df7-983a-2625b37f95hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709670043,
+      "auto_close_hit": 0,
+      "id": 7342975631291892000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Ben,</p><p><br></p><p>Unfortunately he hasn&#39;t had the bandwidth to look into the issue yet. Has there been an update via TPS?</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709758745,
+      "auto_close_hit": 0,
+      "id": 7343355706172522000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>TPS recommended that this client be added to a whitelist to override the min image size warning:</p><p><br></p><p>&#34;<span style=\"color: #333333;\">Based on the information provided I understand the client is encountering an issue in the catalog with image sizes being smaller than 500x500 pixels. However, the client would still like to move forward with the catalog. Please correct me if I misunderstood.&nbsp;</span></p><p><br></p><p><span style=\"color: #333333;\">You will need to add the client to the <a target=\"_blank\" href=\"https://bytedance.larkoffice.com/sheets/shtcnBg8WXvsFv877xEhMEpUJTL?sheet=b36bbc&amp;range=MTox\">Catalog Image Size Whitelisting doc</a> and then contact @Yang Lin once submitted. &#34;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1901479,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "thomas.mei@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "RW&Co Catalogue issues image size",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0062_b00978e6-7f67-446b-8e64-ed17353141hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1709758763,
+  "owner_name": "Audrey Oei",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "6841650858478175238",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Audrey Oei",
+  "follow_employee_id": 2819808,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1015512,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "RW&Co Catalogue issues image size",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Reitmans LTD",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-CA",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "6942935550332502018",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "20000",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-26",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Reitman's has a VSA campaign - not spending due to catalogue issues.  Diagnostics tab shows that images are not 500x500. Is there a quick fix to recommend to get live ASAP as well as a full audit on full catalogue to see if there are any other issues.",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-02-26 at 4.33.03 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4eac96a14f264f90aaac08a60dbf3793.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838274&x-signature=wmj9w4Ar8lfQYqAeZNUgoUkhmmc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4eac96a14f264f90aaac08a60dbf3793.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4eac96a14f264f90aaac08a60dbf3793.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838274&x-signature=wmj9w4Ar8lfQYqAeZNUgoUkhmmc%3D",
+          "size": 784705
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0bcf77932204389a635dea11c433790.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838275&x-signature=ecZ6fnc63NZXZ1DcnQcNlo8JAhc%3D",
+          "file_name": "file_20240318_15_04_35_070042",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0bcf77932204389a635dea11c433790.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838275&x-signature=ecZ6fnc63NZXZ1DcnQcNlo8JAhc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e0bcf77932204389a635dea11c433790.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5098a477aeb4bab8b40af0140435895.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838275&x-signature=RbZY7CTCeB1ZWSkib9ImttRJ%2BsM%3D",
+          "file_name": "file_20240318_15_04_35_070142",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5098a477aeb4bab8b40af0140435895.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838275&x-signature=RbZY7CTCeB1ZWSkib9ImttRJ%2BsM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c5098a477aeb4bab8b40af0140435895.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

@@ -1,0 +1,655 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Thomas Mei",
+  "create_time": 1708710877,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1708727276,
+      "auto_close_hit": 0,
+      "id": 7338926626220196000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zoe,</p><p><br /></p><p>It seems your client has identified that their is a Pixel event f iring and they are unsure where it is firing/how. </p><p><br /></p><p>Which specific event are they concerned?</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/dc4a584548054204aef18457a02b10cf.png\" height=\"374\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc4a584548054204aef18457a02b10cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838236&amp;x-signature=o3fKsvHC8s18ImtpTDRtVxn60eQ%3D\" width=\"180\"><p><br /></p><p>Thomas</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708727902,
+      "auto_close_hit": 0,
+      "id": 7338928532258554000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "zoe.waldron@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zoe Waldron",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7147682599380370433",
+      "name": "Zoe Waldron",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Thomas,</p><p><br></p><p>Thank you! They&#39;re specifically focused on the Download event. They don&#39;t see it in their GTM, but want to add the event to a new page (specific URL in ticket notes attached)</p><p><br></p><p>Their main Q is: &#34;<span style=\"color: #333333;\">What is the name of the script that the TT pixel loads into the browser and what is the code that it generates?&#34;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9723b91f-3eb9-4436-9006-f0e4a089948h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708966996,
+      "auto_close_hit": 0,
+      "id": 7339956669864083000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "zoe.waldron@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zoe Waldron",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7147682599380370433",
+      "name": "Zoe Waldron",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Thomas,</p><p><br></p><p>Happy Monday! Checking in here. They&#39;ve paused active campaign plans to get this fixed.&nbsp;</p><p><br></p><p>Does their main Q make sense?</p><p><br></p><p>Would hopping on a call perhaps, be helpful? Thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9723b91f-3eb9-4436-9006-f0e4a089948h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708968179,
+      "auto_close_hit": 0,
+      "id": 7339961682598330000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>1) &#34;<span style=\"color: #333333;\">What is the name of the script that the TT pixel loads into the browser and what is the code that it generates?&#34;</span></p><p><br></p><p><span style=\"color: #333333;\">We utilize a base code to load the TTK Pixel on the browser side. That base code can be seen here under the &#34;Install the Pixel&#34; section:&nbsp;https://business-api.tiktok.com/portal/docs?rid=5ipocbxyw8v&amp;id=1739585702922241</span></p><p><br></p><p>2) &#34;<span style=\"color: #333333;\">They&#39;ve paused active campaign plans to get this fixed.&#34;&nbsp;</span></p><p><br></p><p><span style=\"color: #333333;\">What is the fix they are referring to? If they are referring to implementing a Download event on this page:&nbsp;https://offers.hubspot.fr/tiktok-lead-gen</span></p><p><br></p><p><span style=\"color: #333333;\">They will need to make sure the base code loads on that page, and then they configure the download event to fire when someone clicks the download button by setting up a tag and the appropriate trigger (button click).&nbsp;</span></p><p><br></p><p><span style=\"color: #333333;\">If they are using Google Tag Manager they can use our templates or a custom HTML solution.&nbsp;</span></p><p><br></p><ul><li><span style=\"color: #333333;\">Using GTM Templates: covered in the &#34;Creating Event Tags&#34; section here:&nbsp;https://ads.tiktok.com/help/article/get-started-google-tag-manager</span></li><li><span style=\"color: #333333;\">Custom HTML: covered in the &#34;Track an event based on a button click&#34; section here:&nbsp;https://business-api.tiktok.com/portal/docs?rid=5ipocbxyw8v&amp;id=1739585702922241</span></li></ul><p><br></p><p><span style=\"color: #333333;\">Please let me know if the client has any questions.&nbsp;</span></p><p><br></p><p><span style=\"color: #333333;\">Regards,</span></p><p><span style=\"color: #333333;\">Thomas</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709306432,
+      "auto_close_hit": 0,
+      "id": 7341414630641648000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "zoe.waldron@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zoe Waldron",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7147682599380370433",
+      "name": "Zoe Waldron",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you, Thomas!! Super helpful.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9723b91f-3eb9-4436-9006-f0e4a089948h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710172438,
+      "auto_close_hit": 0,
+      "id": 7345134251483857000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "zoe.waldron@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zoe Waldron",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7147682599380370433",
+      "name": "Zoe Waldron",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Thomas!</p><p><br></p><p>Another question from the HubSpot team.&nbsp;</p><p><br></p><p>They&#39;re currently looking into possibly passing back offline conversions (MQLs/SQLs). And are about to implement this in Meta.</p><p><br></p><p>Do you have any documentation or articles/resources you&#39;d recommend I pass along to them, to help them decide on if it&#39;s a step they&#39;d like to take? And what next steps are?</p><p><br></p><p>I believe it&#39;d be the manual/file upload method for now, as they don&#39;t have EAPI set up yet or an API partner they use (since they are HubSpot, I know there&#39;s an outgoing API connection, but not ingoing as far as I&#39;m aware?)</p><p><br></p><p>I see some resources, but can&#39;t determine if they apply for the manual/file upload method. Thanks!</p><p><br></p><p>PS: Here are the resources I found, if any look good to send them or you have others to suggest:</p><ul><li>https://docs.google.com/presentation/d/1-rQXVp4_HWZlt64eg4mTtJMz-u3O2rckHcKrX5TQ690/edit#slide=id.g1f659bd9975_0_89</li><li>https://ads.tiktok.com/help/article/about-offline-conversions?lang=en</li><li>https://business-api.tiktok.com/portal/docs?rid=wtljluwz8r&amp;id=1751443967255553</li><li>https://docs.google.com/presentation/d/1ZHYx29CWmgiAeQoDOoQenk22NhgrPWvxMG8_YdPUVT0/edit#slide=id.g1291902f24e_0_0</li></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9723b91f-3eb9-4436-9006-f0e4a089948h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710185895,
+      "auto_close_hit": 0,
+      "id": 7345191056419373000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zoe,</p><p><br /></p><p>I was able to download a template for offline events uploads through Events Manager. I am trying to find any documentation we have that explains how to pass events through the template. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/07b588c3f3544763879b9b30c8ed5a7b.png\" height=\"146.497\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/07b588c3f3544763879b9b30c8ed5a7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838236&amp;x-signature=dvH9%2BMoUtuUE7ZtyPdIDp%2B18zPs%3D\" width=\"375\"><p><br /></p><p>The template itself can be accessed through events manager. Once an offline event set has been created, click the \"Upload events\" button and then a pop up will come for \"Offline Events Example\". </p><p><br /></p><p>Once I get some more context as to what is accepted through the template, I will get back to you.</p><p><br /></p><p>Thomas</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710452226,
+      "auto_close_hit": 0,
+      "id": 7346333021160686000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zoe,</p><p><br></p><p>I did manage to find the doc that lists what are accepted values for the template. It can be found int he &#34;Offline Events - Data Structure&#34; portion of this doc here:&nbsp;https://bytedance.us.larkoffice.com/docs/doccnjLoGcGIflB1lfi3W9nHw4e</p><p><br></p><p>Please let me know if the client needs anything else from our end.</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1896386,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "thomas.mei@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "HubSpot - Pixel Event Question",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9723b91f-3eb9-4436-9006-f0e4a089948h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710452225,
+  "owner_name": "Zoe Waldron",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7147682599380370433",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Zoe Waldron",
+  "follow_employee_id": 2819808,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 322010,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "HubSpot - Pixel Event Question",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "HubSpot",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7160747973444468738"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM: Zoe Waldron, BPM: Nicholas Evans",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CBPV1J3C77UFHQ3ISAD0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://offers.hubspot.fr/tiktok-lead-gen"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-23",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hello!\n\nA new request from the HubSpot team, I'd love help navigating next steps on....\n\n\"We're trying to get the 'Download' event live on a new page, but are feeling stuck. We're seeing that the TT pixel is firing in TT UI. But we don't have it set up via GTM. So the question we're trying to answer is 'how is TT pixel firing if its not coming from GTM?'. \n\nOur dev team is investigating where the script might reside in our code base. However, they don't know what the script that the TT pixel loads in the browser looks like.\n\nWhat we need TT reps to clarify is: 'What is the name of the script that the TT pixel loads into the browser and what is the code that it generates'? \n\nI should clarify that this is specific to GTM container ID GTM-5W43WB for https://offers.hubspot.fr domain. IE, we were auditing https://offers.hubspot.fr/tiktok-lead-gen. \n\nThanks!\"\n",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc4a584548054204aef18457a02b10cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838236&x-signature=o3fKsvHC8s18ImtpTDRtVxn60eQ%3D",
+          "file_name": "file_20240318_15_03_56_359500",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc4a584548054204aef18457a02b10cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838236&x-signature=o3fKsvHC8s18ImtpTDRtVxn60eQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/dc4a584548054204aef18457a02b10cf.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/07b588c3f3544763879b9b30c8ed5a7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838236&x-signature=dvH9%2BMoUtuUE7ZtyPdIDp%2B18zPs%3D",
+          "file_name": "file_20240318_15_03_56_576626",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/07b588c3f3544763879b9b30c8ed5a7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838236&x-signature=dvH9%2BMoUtuUE7ZtyPdIDp%2B18zPs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/07b588c3f3544763879b9b30c8ed5a7b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

@@ -1,0 +1,489 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Saurabh Choudhary",
+  "create_time": 1706552932,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706654855,
+      "auto_close_hit": 0,
+      "id": 7330024136242233000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "austen.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austen Jones",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6982347769357665281",
+      "name": "Austen Jones",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>catalog id based on their most recent shell campaign:&nbsp;<span style=\"color: #8A8A8A;\">7321871746099857154</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_f4d8d6a1-b006-4c61-b1be-d93be5c0d5ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706654840,
+      "auto_close_hit": 0,
+      "id": 7330024277959393000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>there are multiple pixel installed on website which is hindering the functioning of shopify pixel. </p><p>There are duplicate events one with correct and one with incorrect content_id. Pausing the code from other pixel might fix this. You can invite the client for a call if they are wiling to fix it</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5f24b528f5574cc7b8faf2cab21f282b.png\" height=\"539.241\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f24b528f5574cc7b8faf2cab21f282b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832739&amp;x-signature=1Za%2BaCZTVPpZFn%2BP3RNjRLmqIyw%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706654937,
+      "auto_close_hit": 0,
+      "id": 7330024880026567000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "austen.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austen Jones",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6982347769357665281",
+      "name": "Austen Jones",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>@saurabh - noted on the multiple pixel front, if using&nbsp;<span style=\"color: #333333;\">CA5S4DBC77UC097IJL2G, should they delete the other pixels?</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_f4d8d6a1-b006-4c61-b1be-d93be5c0d5ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706657071,
+      "auto_close_hit": 0,
+      "id": 7330034543287648000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>ideally there should be only one pixel on the website. We need to ask them why are they using 2 other pixel. And yes if they dont have a valid reason the other 2 pixels need to be deleted and they should just stick to shopify pixel&nbsp;<span style=\"color: #333333;\">CA5S4DBC77UC097IJL2G</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707856518,
+      "auto_close_hit": 0,
+      "id": 7335186348896240000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Austen Jones",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": 6982347769357665000,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>hi Austen, just wanted to follow up, I still see 3 pixel on the website.</p><p>If client want, we can have a call with them</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707863004,
+      "auto_close_hit": 0,
+      "id": 7335213865732407000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "austen.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austen Jones",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6982347769357665281",
+      "name": "Austen Jones",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Saurabh, Thank you for reaching out! We are working with the client on their next VSA launch post valentines day. I told them about removal of pixels and they seemed align. They are currently dealing w some shops stuff so lets circle back on this soon.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_f4d8d6a1-b006-4c61-b1be-d93be5c0d5ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707929207,
+      "auto_close_hit": 0,
+      "id": 7335499415903273000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><strong>[status update]</strong><br><strong>[catalog]</strong><br><br>Client has 3 pixel on the website which are sending inconsistent content_id causing low catalog match rate.&nbsp;<br>Waiting for client to take action.<br><br><br></p><p>Use this link to schedule meeting on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709873702,
+      "auto_close_hit": 0,
+      "id": 7343848156351840000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>[conclusion] client made some improvement, closing ticket as there have been no reponse, REopen if more assistance is needed</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1845997,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "saurabh.choudhary@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Pet Honesty",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_f4d8d6a1-b006-4c61-b1be-d93be5c0d5ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1709873720,
+  "owner_name": "Austen Jones",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "6982347769357665281",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Austen Jones",
+  "follow_employee_id": 2208735,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 895019,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Pet Honesty",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Shopify",
+      "valid": true,
+      "key": "Shopify",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Pet Honesty",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "7093919437669154817",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "Thousands of dollars",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-29",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "I am reviewing my clients setup in hopes to launch a new VSA Catalog campaign. I put together tailored recommendations and wanted to just double confirm everything was tracking/matching properly (since theyve run it before).\n\nUpon investigation, it looks like their matchrates are not ideal. I am noticing that roughly 40-50% of their events match with a content id. Given they are Shopify integrated, this doesnt make much sense to me. They are using pixel CA5S4DBC77UC097IJL2G and catalog 7321871746099857154. When looking at their site, it seems like the pixel tracking may actually be custom code? I am looking for some guidance here. I have attached some screenshots of what I am seeing.",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-01-29 at 12.27.19 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc779a24d6a8489baccf30b45d73bb0d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832739&x-signature=twFVMCXPoCqjILV4FrnNF9am0cc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/bc779a24d6a8489baccf30b45d73bb0d.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc779a24d6a8489baccf30b45d73bb0d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832739&x-signature=twFVMCXPoCqjILV4FrnNF9am0cc%3D",
+          "size": 262336
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-01-29 at 12.27.48 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c78efa53c68548c0ba0c43336330d5cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832739&x-signature=skUKRWlG3EhwUCf84iZ5gSHiNi4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c78efa53c68548c0ba0c43336330d5cf.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c78efa53c68548c0ba0c43336330d5cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832739&x-signature=skUKRWlG3EhwUCf84iZ5gSHiNi4%3D",
+          "size": 124251
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f24b528f5574cc7b8faf2cab21f282b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832739&x-signature=1Za%2BaCZTVPpZFn%2BP3RNjRLmqIyw%3D",
+          "file_name": "file_20240318_13_32_19_657838",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f24b528f5574cc7b8faf2cab21f282b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832739&x-signature=1Za%2BaCZTVPpZFn%2BP3RNjRLmqIyw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5f24b528f5574cc7b8faf2cab21f282b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

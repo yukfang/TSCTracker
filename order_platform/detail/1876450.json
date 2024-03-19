@@ -1,0 +1,697 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354674",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1707947037,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1708030734,
+      "auto_close_hit": 0,
+      "id": 7335935133058400000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Tyler, </p><p>Happy to look into this for you! </p><p>It looks like the Carefree Pixel CN2HKLBC77U706ONVMEG needs to be linked back to the ad account after it's been shared out to the BC.</p><p>When they head over to this page https://business.tiktok.com/manage/account?org_id=6930687147527700481, can they see a button that says \"Add Pixel\" in the middle of the page?</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a235ef8b04a6429292dfdc6b65342eb8.png\" height=\"222.067\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a235ef8b04a6429292dfdc6b65342eb8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837990&amp;x-signature=NBK5H3XgeoPQVXioPIOOJiFpRfY%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708095467,
+      "auto_close_hit": 0,
+      "id": 7336213225588998000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "tyler.denton@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Tyler Denton",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7314737970350490625",
+      "name": "Tyler Denton",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,</p><p><br></p><p>Thanks for the reply! Not sure if that is the screen they are getting, but I will check-in. I did receive this screenshot from them yesterday. Does this confirm your suspicion?&nbsp;</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Carefree Pixel.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/91f1d1d1960b40df8cb9582a4674e426.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837990&x-signature=ISymuyhBZ6Y63vmjLFSJi1hdZAc%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/91f1d1d1960b40df8cb9582a4674e426.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/91f1d1d1960b40df8cb9582a4674e426.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837990&x-signature=ISymuyhBZ6Y63vmjLFSJi1hdZAc%3D",
+              "biz_type": 2,
+              "size": 67619
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0065_2b11fcf8-a0a7-4e72-b477-0ec94d2e897h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708096541,
+      "auto_close_hit": 0,
+      "id": 7336217936161522000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Tyler,</p><p>Yes but it actually looks like the person doing Pixel Asset Adding needs the proper permissions in this BC. This will need to be resolved first. Would another admin on their team be able to provide them with the necessary perms? Here is a breakdown of BC roles and permission levels:&nbsp;https://ads.tiktok.com/help/article/add-users-tiktok-business-center?lang=en (note the rows &#34;Asset - Pixel&#34; and &#34;Asset - Ad Account&#34;</p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708096956,
+      "auto_close_hit": 0,
+      "id": 7336219933866705000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "tyler.denton@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Tyler Denton",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7314737970350490625",
+      "name": "Tyler Denton",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,</p><p><br></p><p>That makes sense. My only question would be around the fact that he is able to see a pixel for a different ad account within business center, but not this one.<br><br>Account ID: 7230881761482276865</p><p>Pixel ID: 7231617262170423297 <br><br>Wouldn&#39;t that suggest it has more to do with the ad account settings/pixel than business center permissions?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0065_2b11fcf8-a0a7-4e72-b477-0ec94d2e897h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708097015,
+      "auto_close_hit": 0,
+      "id": 7336220033175011000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Sure, they should go ahead and check those Ad Account permissions as well, ensuring that the person making these changes have the necessary permissions across BC and Ad Accounts in order to assign the asset.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708360374,
+      "auto_close_hit": 0,
+      "id": 7337351571757482000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "tyler.denton@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Tyler Denton",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7314737970350490625",
+      "name": "Tyler Denton",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,&nbsp;</p><p><br></p><p>Thanks for all your help so far.&nbsp;<br><br>Looking at the documentation you provided, it looks like a possible cause for this lies under the &#34;Manage Assets&#34; permission. That specific permission states that an admin or standard user can manage the asset but only if it is assigned. In this case, is it referring to the asset being assigned to the business center, or to the user?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0065_2b11fcf8-a0a7-4e72-b477-0ec94d2e897h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708362837,
+      "auto_close_hit": 0,
+      "id": 7337362088429453000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Tyler,</p><p>Happy Monday! It'll be referring to the asset being assigned. Is Kevin Capasso the member we want to assign permission to?</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ecd4f88198c34a969ff80c88ab711959.png\" height=\"192.543\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ecd4f88198c34a969ff80c88ab711959.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837991&amp;x-signature=4ciPHH3NTeemK9J6yywpkwufSwE%3D\" width=\"375\"><p>It looks like Kevin is assigned to the Ad Account:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2b7fd452ee704b37b10e512fa7e8ead0.png\" height=\"178.165\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b7fd452ee704b37b10e512fa7e8ead0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837991&amp;x-signature=TQ1jULcPJTslCWSUZls5ZsN33tM%3D\" width=\"375\"><p>But the desired Carefree Pixel hasn't been added to the Ad Account yet:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b8fdce63563947739d17dada65b8d524.png\" height=\"203.66\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8fdce63563947739d17dada65b8d524.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837991&amp;x-signature=eum0kLVrHGAocTDNZ%2BQ%2FOkcp5bQ%3D\" width=\"375\"><p>I don't have access to make any changes to the BC, but if Kevin does have permissions, he should be able to add the desired Pixel to the Carefree ad Account:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/dafeef7c73324642a06dbaf003aaa185.png\" height=\"352.376\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dafeef7c73324642a06dbaf003aaa185.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837991&amp;x-signature=KoutBt25KkybCor7KHlX8aozGdk%3D\" width=\"375\"><p>If the org would prefer Kevin not to have global BC Admin permissions, someone with Admin permissions needs to give him permissions to make the required changes.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/abe8fcd61122445d9003a4a3726fdc3b.png\" height=\"111.786\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abe8fcd61122445d9003a4a3726fdc3b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837991&amp;x-signature=Xb4hUacEpgICwShxP7pUcfFIVLY%3D\" width=\"375\"><p><br /></p><p>It looks like he is OK to make changes to the Pixel but may need perms to have Admin access to the Ad Account</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/78af6228fc914e78b68536f12f1883f9.png\" height=\"120.493\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78af6228fc914e78b68536f12f1883f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837991&amp;x-signature=AvMK%2BgAFUcx5jJAyd53wk7jM654%3D\" width=\"375\"><p>Hope this helps!</p><p>Thanks!</p><p>Robbie</p></img></img></img></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1876450,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "CareFree- Client Cannot See Pixel",
+  "category_1_name": "Basic",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0065_2b11fcf8-a0a7-4e72-b477-0ec94d2e897h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1708362932,
+  "owner_name": "Tyler Denton",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Basic",
+  "archive_category_1": "1736497459354674",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7314737970350490625",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Tyler Denton",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2411154,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "CareFree- Client Cannot See Pixel",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Carefree",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "CPG",
+      "valid": true,
+      "key": "CPG",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Enterprise",
+      "valid": true,
+      "key": "Enterprise",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7230881942441410561"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P3",
+      "valid": true,
+      "key": "P3",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Hillary Roteman, Tyler Denton",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "6930687147527700481",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CN2HKLBC77U706ONVMEG ",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "Nothing implemented yet"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-14",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hi Team,\n\nOur client is wondering if the setup of their pixel was done properly in platform, with the exception of installing the pixel on site, which is not yet complete. However, they want to ensure that essentially each step before implementation is complete.\n\nCurrently, the client is unable to see their pixel in Business Center, despite being able to see other pixels in Business Center. In the attached screenshot, you can see that they are able to look at pixel for Playtex, but not for Carefree, despite both being setup.\n\nPlease let us know what the cause of the issue is when possible.\n\nThanks!",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Edgewell Pixel Setup.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/28ab05f19c6f410e81cf503e85755ba8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837990&x-signature=eIP7WQjBjXqR8nM6zEC7THGYrZg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/28ab05f19c6f410e81cf503e85755ba8.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/28ab05f19c6f410e81cf503e85755ba8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837990&x-signature=eIP7WQjBjXqR8nM6zEC7THGYrZg%3D",
+          "size": 299059
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a235ef8b04a6429292dfdc6b65342eb8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837990&x-signature=NBK5H3XgeoPQVXioPIOOJiFpRfY%3D",
+          "file_name": "file_20240318_14_59_50_930839",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a235ef8b04a6429292dfdc6b65342eb8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837990&x-signature=NBK5H3XgeoPQVXioPIOOJiFpRfY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a235ef8b04a6429292dfdc6b65342eb8.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "Carefree Pixel.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/91f1d1d1960b40df8cb9582a4674e426.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837990&x-signature=ISymuyhBZ6Y63vmjLFSJi1hdZAc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/91f1d1d1960b40df8cb9582a4674e426.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/91f1d1d1960b40df8cb9582a4674e426.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837990&x-signature=ISymuyhBZ6Y63vmjLFSJi1hdZAc%3D",
+          "biz_type": 2,
+          "size": 67619
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dafeef7c73324642a06dbaf003aaa185.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837991&x-signature=KoutBt25KkybCor7KHlX8aozGdk%3D",
+          "file_name": "file_20240318_14_59_51_112890",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dafeef7c73324642a06dbaf003aaa185.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837991&x-signature=KoutBt25KkybCor7KHlX8aozGdk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/dafeef7c73324642a06dbaf003aaa185.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8fdce63563947739d17dada65b8d524.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837991&x-signature=eum0kLVrHGAocTDNZ%2BQ%2FOkcp5bQ%3D",
+          "file_name": "file_20240318_14_59_51_112962",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8fdce63563947739d17dada65b8d524.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837991&x-signature=eum0kLVrHGAocTDNZ%2BQ%2FOkcp5bQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b8fdce63563947739d17dada65b8d524.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b7fd452ee704b37b10e512fa7e8ead0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837991&x-signature=TQ1jULcPJTslCWSUZls5ZsN33tM%3D",
+          "file_name": "file_20240318_14_59_51_112987",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b7fd452ee704b37b10e512fa7e8ead0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837991&x-signature=TQ1jULcPJTslCWSUZls5ZsN33tM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2b7fd452ee704b37b10e512fa7e8ead0.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abe8fcd61122445d9003a4a3726fdc3b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837991&x-signature=Xb4hUacEpgICwShxP7pUcfFIVLY%3D",
+          "file_name": "file_20240318_14_59_51_113006",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abe8fcd61122445d9003a4a3726fdc3b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837991&x-signature=Xb4hUacEpgICwShxP7pUcfFIVLY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/abe8fcd61122445d9003a4a3726fdc3b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ecd4f88198c34a969ff80c88ab711959.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837991&x-signature=4ciPHH3NTeemK9J6yywpkwufSwE%3D",
+          "file_name": "file_20240318_14_59_51_113025",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ecd4f88198c34a969ff80c88ab711959.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837991&x-signature=4ciPHH3NTeemK9J6yywpkwufSwE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ecd4f88198c34a969ff80c88ab711959.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78af6228fc914e78b68536f12f1883f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837991&x-signature=AvMK%2BgAFUcx5jJAyd53wk7jM654%3D",
+          "file_name": "file_20240318_14_59_51_113045",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78af6228fc914e78b68536f12f1883f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837991&x-signature=AvMK%2BgAFUcx5jJAyd53wk7jM654%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/78af6228fc914e78b68536f12f1883f9.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Basic"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

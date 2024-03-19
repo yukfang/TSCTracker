@@ -1,0 +1,274 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1782786995587105",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Itay Filiba",
+  "create_time": 1709004446,
+  "deadline": 0,
+  "archive_board_id": 1705151646989732,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709115925,
+      "auto_close_hit": 0,
+      "id": 7340593349004378000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "user8835603813722",
+      "editable": 0,
+      "reply_email": "itay.filiba@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Itay Filiba",
+      "reply_to_user_id": 7298632410344932000,
+      "is_hide_name": false,
+      "core_user_id": "7187710198676145154",
+      "name": "Itay Filiba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi&nbsp;<span style=\"color: #333333;\">Varaporn,</span></p><p><br></p><p>Thank you for your questions. My name is Itay from the MPO LIVE team. We help advertisers go live on TT with CI to LIVE campaigns. I will be happy to answer your questions.&nbsp;</p><p><br></p><p>There is no an official documentation for max duration of live streaming on TikTok. For clients using OBS LIVE to stream, we are aware of 7 days limitation then the stream key for streaming with professional streaming sofrware will expire.</p><p><br></p><p> </p><p>For CI to LIVE campaign, the limit is 24 hours.&nbsp;</p><p><br></p><p>Bear in mind that availability of TnS protection for account going live for long period of time is limited due to the risk it raises.</p><p>&nbsp;</p><p>Hope this info is useful. If you have further questions related this matter, please feel free to re-open this ticket and ask.&nbsp;</p><p><br></p><p>Best regards,&nbsp;</p><p>Itay&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709175106,
+      "auto_close_hit": 0,
+      "id": 7340849712267837000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "varaporn.suranetinai@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user8835603813722",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7298632410344932354",
+      "name": "user8835603813722",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Itay,</p><p><br></p><p>Thank you for your response!&nbsp;</p><p>However, could you elaborate more on &#39;TnS protection is limited&#39;, what does this mean and what&#39;s the downside to the brand?&nbsp;</p><p><br></p><p>Thank you,</p><p>Kanoon</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_005f_1b77548e-c8e6-4931-a0f1-86dd1167a1hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709210902,
+      "auto_close_hit": 0,
+      "id": 7340998838792028000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "user8835603813722",
+      "editable": 0,
+      "reply_email": "itay.filiba@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Itay Filiba",
+      "reply_to_user_id": 7298632410344932000,
+      "is_hide_name": false,
+      "core_user_id": "7187710198676145154",
+      "name": "Itay Filiba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kanoon,&nbsp;</p><p><br></p><p>Thank you for your message.&nbsp;</p><p><br></p><p>Please learn more on available TnS protection and min ad spend budget here: <a target=\"_blank\" href=\"https://bytedance.sg.larkoffice.com/docx/XAtAdNDoxop2c7xpOCElIwjwgNb\">https://bytedance.sg.larkoffice.com/docx/XAtAdNDoxop2c7xpOCElIwjwgNb</a></p><p><br></p><p>TnS Copyright protection is available to either 1 week or 3 months. If your client plan to run CI to LIVE campaign with ad spend budget of more than $5K on a single live stream, you can apply for 3 month protection and they are good to go.&nbsp;</p><p><br></p><p>TnS Full Protection is a rarely provided by TnS, it requires higher budget on CI to LIVE and is not available for more than 24 hours (usually it&#39;s provided for 2-3 hours. it&#39;s extremely rare to get in for 24 hours).</p><p><br></p><p>I believe Copyright protection will be enough for your client.&nbsp;</p><p><br></p><p>Another issue to point out, if you request our <a target=\"_blank\" href=\"https://vcp.to/support\">MPO LIVE support</a>, we will be able to support with pre-live preparations but won&#39;t be able to provide multi-day real-time support during live stream flight time.&nbsp;</p><p><br></p><p><span style=\"color: #333333;\">Hope this info is useful. If you have further questions related this matter, please feel free to re-open this ticket and ask.&nbsp;</span></p><p><br></p><p><span style=\"color: #333333;\">Best regards,&nbsp;</span></p><p><span style=\"color: #333333;\">Itay&nbsp;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1901928,
+  "workflow_nodes": [],
+  "board_id": 1705151646989732,
+  "employee_email": "itay.filiba@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "[P1] Ford Thailand - What's the longest Live time brand can live? ",
+  "category_1_name": "Livestream - Ask a Question",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_005f_1b77548e-c8e6-4931-a0f1-86dd1167a1hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1709210908,
+  "owner_name": "Varaporn Suranetinai",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Livestream - Ask a Question",
+  "archive_category_1": "1782786995587105",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600019392513",
+      "cate_1_form_id": 1754543111783458,
+      "sub_cates": [],
+      "value": "Livestream Consultation"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1782786995587105",
+      "cate_1_form_id": 1782788250818562,
+      "sub_cates": [],
+      "value": "Livestream - Ask a Question"
+    }
+  ],
+  "core_user_id": "7298632410344932354",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Varaporn Suranetinai",
+  "follow_employee_id": 8282921,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1563370,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "<p spellcheck=\"true\">MPO LIVE helps advertisers go live on TikTok. Use this form to submit a general question to the MPO LIVE team regarding live streaming on TikTok. This form is not for troubleshooting and bugs. For troubleshooting and bugs please use: Athena &gt; TikTok Internal Tickets &gt; Branding solutions &gt; Livestream Traffic Solutions. ///Link to Athena Internal Tickets: https://vcp.to/atint</p>",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788572065825,
+      "type": 12,
+      "option_meaning": -1
+    },
+    {
+      "label": "Question title",
+      "content": "[P1] Ford Thailand - What's the longest Live time brand can live? ",
+      "valid": true,
+      "item_id": 1782788250818578,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Region",
+      "content": "SEA-TH",
+      "valid": true,
+      "key": "SEA",
+      "item_id": 1782788281423874,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Client Name",
+      "content": "Ford Thailand",
+      "valid": true,
+      "item_id": 1782788281425938,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788344073218,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": [
+        "7161695337269215233"
+      ],
+      "valid": true,
+      "item_id": 1782788344073234,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "UID of the TikTok account",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788344073250,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Handle of the TikTok account",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788344073266,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Question text",
+      "content": "- Client is interested in doing the Live marathon on TikTok so the question is how long the brand can Live continuously on TikTok? \n- If they do Live Marathon, is there any limitation or recommendation on CI to Live?",
+      "valid": true,
+      "item_id": 1782788344074242,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "File or screenshot",
+      "content": [],
+      "valid": true,
+      "item_id": 1782788344074258,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Tiktok Livestream Consultation-Livestream - Ask a Question"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

@@ -1,0 +1,574 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497066245137",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Thomas Mei",
+  "create_time": 1709913931,
+  "deadline": 0,
+  "archive_board_id": 1705151646989663,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709924550,
+      "auto_close_hit": 0,
+      "id": 7344069351248544000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kayla MacDermott",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7096697414686819329",
+      "name": "Kayla MacDermott",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Confirming that is correct!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_6a683e3b-44b1-433b-a002-f8e7de958c8h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709924474,
+      "auto_close_hit": 0,
+      "id": 7344069462242443000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kayla,</p><p><br /></p><p>It seems like your client is interested in a review of their EAPI setup. Is this the right Pixel?</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0bdcd7c92ed14445b4762f30fd9517dc.png\" height=\"84\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0bdcd7c92ed14445b4762f30fd9517dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838535&amp;x-signature=UP6%2BKfhAOkwUwDuR0W3JVcx3sMQ%3D\" width=\"234\"><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709934897,
+      "auto_close_hit": 0,
+      "id": 7344097772313870000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kayla,</p><p><br></p><p>Notes on their EAPI setup below:</p><ul><li>Overall we are receiving Search, View Content, Initiate Checkout and Complete Payment events. We generally recommend implementing a Pageview event on all pages as this helps the Pixel collect cookie ID and click ID when properly configured. More information on that can be found here:&nbsp;https://business-api.tiktok.com/portal/docs?id=1739584860883969</li><li>The Search event seems to fire the most often but there are no URLs included so I can&#39;t tell where they are firing. The Search events also don&#39;t include any details on what was searched for (if they reflect searches for rentals).&nbsp;</li><li>The View Content event similarly to the Search event does not pass us URLs or all of the contents parameters which may indicate what listings a person looked at.&nbsp;</li><li>The Initiate Checkout event provides us with a value parameter but not all of the contents parameters which would help our algorithm understand what listing a user was interested in booking. </li><li>The Complete Payment event provides us with a value parameter but not all of the contents parameters which would help our models understand what listing a user booked.</li></ul><p><br></p><p>Pros of the setup:</p><ul><li>Getting external ID consistently passed back for all events which will help us match up events to specific users</li><li>IP/User agent passed back consistently</li><li>Unique email addresses being passed back on Initiate Checkout and Complete Payment events</li><li>Value, content_type and currency are consistently passed back for all events. This will enable ROAS reporting in Ads Manager.&nbsp;</li></ul><p><br></p><p>Recommendations on how to improve:</p><ul><li>Incorporate a Pageview event and set it up to collect cookie and click ID(s)</li><li>Check the email being passed back for search and View Content events. I see a lot of the same value so I am guessing it is a dummy/placeholder value.&nbsp;</li><li>Pass back URLs for all events: currently this is missing</li><li>If content_id(s) exist for their listings they can pass that back and potentially utilize Video Shopping ads</li><li>The description parameter they are passing back seems to describe the on site action where as it is intended to describe the product or service associated with the event. e.g. a description for an Initaite Checkout event is &#34;begin_checkout&#34; where a more appropriate description may be &#34;Tuscan Villa&#34;</li></ul><p><br></p><p>Overall I would like a better understanding of where/how the server events are set up to fire. I am currently unable to determine that as there are no URLs included in the events.&nbsp;</p><p><br></p><p>If they have additional questions regarding the above, please let me know.</p><p><br></p><p>Regards,</p><p>Thomas</p><p> </p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710163296,
+      "auto_close_hit": 0,
+      "id": 7345094715928265000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kayla MacDermott",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7096697414686819329",
+      "name": "Kayla MacDermott",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you so much for this Thomas! Going to provide this feedback to the client ASAP and will let you know if they have any additional questions. On my end quick question - if they asked, does your team hop on calls with the client?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_6a683e3b-44b1-433b-a002-f8e7de958c8h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710172720,
+      "auto_close_hit": 0,
+      "id": 7345135555799204000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kayla,</p><p><br></p><p>Yes I do hop on calls when it makes sense. For situations like these, clients will often times request a call to clarify the recommendations before they make changes.&nbsp;</p><p><br></p><p>If their dev team does want a call to discuss the above, please let me know.&nbsp;</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710180275,
+      "auto_close_hit": 0,
+      "id": 7345167746876916000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kayla MacDermott",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7096697414686819329",
+      "name": "Kayla MacDermott",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks, Thomas - appreciate it! I will keep you posted if Expedia needs a call as they work through the recommendation. In the meantime, they did have a question about Events API I was wondering if you could help answer. Let me know your thoughts on the below when you get a chance. Happy to have a separate Lark conversation as well - whatever is easier for you.&nbsp;</p><p><br></p><p><span style=\"color: #222222;\"><em>On a data sharing related note.. We&#39;ve also recently turned on app purchase events via Branch for our BEX &amp; Vrbo MAI accounts. I think there could be value in enabling the same for our Acquisition accounts to match more purchase events. However, I am concerned the purchase events sent via Branch will likely have a different value attached vs. the CAPI S2S events. If the events with different value inputs get mixed together as one purchase signal for the acquisition accounts, it would make a mess.S2S events will send with gross profit (GP) value, which is what we actually want to optimize on. We should be able to see some initial values here with the S2S just recently turned on.Branch events typically send with gross booking value (GBV) from what I have seen - can you confirm the ranges of values you are seeing with purchase events on the MAI accounts?Based on what you&#39;re seeing for values on the Branch purchase events we can make a decision on how to proceed. Thank you!</em></span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_6a683e3b-44b1-433b-a002-f8e7de958c8h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710183472,
+      "auto_close_hit": 0,
+      "id": 7345175084648169000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kayla,</p><p><br></p><p>Based on what they are saying it seems they have an in-app &#34;purchase&#34; event and they are also sending a &#34;purchase&#34; event via Events API.&nbsp;</p><p><br></p><p>So in theory those two events should be separate events as one happens in an app and the other reflects an on-website conversion.&nbsp;</p><p><br></p><p>They don&#39;t necessarily need to pass back the same value, but in general the &#34;value&#34; for &#34;purchases&#34; should always be net revenue i.e. actual revenue from a sale generated minus taxes, shipping, fees, etc.&nbsp;</p><p><br></p><p>If they have a different calculation for the app vs. API events, I would recommend they standardize the in app and on-site &#34;purchase&#34; events to pass back net revenue.&nbsp;</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710356714,
+      "auto_close_hit": 0,
+      "id": 7345923132504408000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kayla MacDermott",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7096697414686819329",
+      "name": "Kayla MacDermott",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks so much, Thomas! This is what I thought as well, and I just spoke to the client about this and they were satisfied with the response, so huge thank you for the support there!&nbsp;</p><p><br></p><p>I did also speak to the client about the eAPI QA feedback. They are working through the content ID piece so all set there. Two questions from them: 1) is PageView necessary? When the Product team shared with Expedia the requirements to unlock VSA PageView was not a requirement and I guess they seem to think it&#39;s a heavier lift. 2) They shared that they attempted to add URLs per the feedback and it was &#34;breaking the event flow.&#34; Is this piece also necessary?&nbsp;</p><p><br></p><p>Let me know your thoughts - thank you!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_6a683e3b-44b1-433b-a002-f8e7de958c8h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1928297,
+  "workflow_nodes": [],
+  "board_id": 1705151646989663,
+  "employee_email": "thomas.mei@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Expedia - Events API",
+  "category_1_name": "Events API - Web",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_6a683e3b-44b1-433b-a002-f8e7de958c8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1710356714,
+  "owner_name": "Kayla MacDermott",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - Web",
+  "archive_category_1": "1736497066245137",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497066245137",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882593",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882609",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883585",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883601",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400130",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400146",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400162",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400178",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401154",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401170",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401186",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401202",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548708426753",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - Web"
+    }
+  ],
+  "core_user_id": "7096697414686819329",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Kayla MacDermott",
+  "follow_employee_id": 2819808,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 591064,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Expedia - Events API",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Expedia",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7254312037688279041"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Kayla MacDermott CSM / Kelly Kono BPM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CNJLO9RC77U6RIGJGEQG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.expedia.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-07",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hi! My client recently implemented eAPI for web and are hoping for a full QA. ",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0bdcd7c92ed14445b4762f30fd9517dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838535&x-signature=UP6%2BKfhAOkwUwDuR0W3JVcx3sMQ%3D",
+          "file_name": "file_20240318_15_08_55_642578",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0bdcd7c92ed14445b4762f30fd9517dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838535&x-signature=UP6%2BKfhAOkwUwDuR0W3JVcx3sMQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0bdcd7c92ed14445b4762f30fd9517dc.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - Web-Events API - Web"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

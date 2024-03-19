@@ -1,0 +1,669 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Thomas Mei",
+  "create_time": 1705507499,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1705692457,
+      "auto_close_hit": 0,
+      "id": 7325891714772779000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Guillermo Ponte",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7085692548950574000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Guillermo,</p><p>Please see comments below for each of the accounts you listed:</p><img alt=\"Screenshot 2024-01-19 at 11.21.24 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e927a05afeab4c01b1027b5819a9bb2a.png\" height=\"190.152\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e927a05afeab4c01b1027b5819a9bb2a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832994&amp;x-signature=Ak6RUFRT%2BfAgn0MxUdkA56bWNvw%3D\" width=\"375\"><ul><li><strong>ACCT:</strong> MDS-COE_HP_LAHQ_Latin-America_TT_PS_CPS___ || <br><strong>ADVID</strong>: 7297262785804042242<br><strong>Pixel</strong>: <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CL2PL8JC77U115KEKP40?start_time=2024-01-13&amp;end_time=2024-01-19&amp;from=ALL&amp;aadvid=7297262785804042242\" target=\"_blank\">L2PL8JC77U115KEKP40</a></br></br></li><ul><li>This pixel is only capturing 1 event - ViewContent. None of the <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-1\" target=\"_blank\">recommended parameters</a> are present in the event data currently being received. Recommend implementing a full consumer funnel for better campaign performance/tracking. Implement AddToCart, AddPaymentInfo &amp; CompletePayment events as well.</li></ul></ul><p><br /></p><img alt=\"Screenshot 2024-01-19 at 11.22.34 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9e4c7e6caf214951aeeb85bcd2261478.png\" height=\"190.152\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9e4c7e6caf214951aeeb85bcd2261478.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832994&amp;x-signature=VAicKPySIKb3Uw7ac8pnonTXSyE%3D\" width=\"375\"><ul><li><strong>ACCT:</strong> MDS-COE_HP_LAHQ_Latin-America_TT_PS_Gaming___<br><strong>ADVID:</strong> 7297262691792699393<br><strong>Pixel:</strong> <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CL2PNQJC77U115KEKP50?start_time=2024-01-13&amp;end_time=2024-01-19&amp;from=ALL&amp;aadvid=7297262691792699393\" target=\"_blank\">CL2PNQJC77U115KEKP50</a> </br></br></li><ul><li>This pixel is correctly capturing ViewContent. I see other events are listed as active, but when I run a query to see the events we are receiving from them, these are coming back empty.</li></ul></ul><p><br /></p><img alt=\"Screenshot 2024-01-19 at 11.23.36 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/210d9dc44c9d4b5e9fc04d5821486f8c.png\" height=\"190.152\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/210d9dc44c9d4b5e9fc04d5821486f8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832994&amp;x-signature=1kCMyJjI%2BoksFqnleR%2BcrBItP5c%3D\" width=\"375\"><ul><li><strong>ACCT:</strong> <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7297262484749336577\" target=\"_blank\">MDS-COE_HP_LAHQ_Latin-America_TT_Print____</a> <br><strong>ADVID:</strong> 7297262484749336577<br>Pixel: This account has never created a pixel, nor has one been shared with it. Nothing to check.<br><br /></br></br></br></li></ul><p>I need more information so that I can continue looking at this. Can you please follow up with the advertiser and get answers to the following?</p><p><strong><em>Follow Ups:</em></strong></p><ul><li>When I go to the domains listed as the source for those events, I am not able to see our pixel fire. Can you please confirm with the advertiser the actual URLs where the pixels are located?</li></ul><ul><li>Also, can you please find out if the pixels are being fired conditionally? Meaning, only when specific UTMs are present in the URL?</li></ul><p>Let me know if you have any questions on the above.</p><p>Best,<br>Armando</br></p></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705693555,
+      "auto_close_hit": 0,
+      "id": 7325896597315797000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "guillermo.ponte@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "ponteguillermo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7101452412381103106",
+      "name": "ponteguillermo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Armando,</p><p><br></p><p>Yes! I am going to open a new email thread and I will include you there, so you can see the answers.</p><p><br></p><p>Thank you one more time for your support.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_a17ae012-35e8-47e6-95fd-1e889601bf7g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705701073,
+      "auto_close_hit": 0,
+      "id": 7325926795096769000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>For tracking and visibility - response to advertiser via email</p><hr><p><br></p><p>Hi&nbsp;Valeria,</p><p>Thank you for providing the information above. I was able to confirm the base pixel is loading on the URLs you listed, and it is loading without any conditions, which is the recommended setup.</p><p><span style=\"color: #666666;\"><em>Before reviewing recommended parameters we want to understand best way to create events for TikTok: using TikTok’s Event Builder or manually through GTM.</em></span></p><p>The main difference between the two methods is as&nbsp;follows:</p><ol><li><strong><a target=\"_blank\" href=\"https://ads.tiktok.com/help/article/create-events?lang=en\">Event Builder </a></strong>- this is a basic implementation that requires minimal developer resources. All that it takes is to place the base pixel on your site and fire it across all pages, then, from the event builder tool in your TTAM account, add each event in your consumer funnel. The event can be triggered either by element click or via page URL. However, the downside is that you don&#39;t&nbsp;have the ability to include all the recommended parameters in your events. This is crucial because the recommended parameters are used in campaign optimization and unlock other features of the platform - such as <a target=\"_blank\" href=\"https://ads.tiktok.com/help/article/how-to-create-video-shopping-ads-catalog?lang=en\">VSA</a> and <a target=\"_blank\" href=\"https://ads.tiktok.com/help/article/value-based-optimization-web?lang=en\">VBO</a>.</li><li><a target=\"_blank\" href=\"https://ads.tiktok.com/help/article/get-started-google-tag-manager?lang=en\">Tag Manager&nbsp;(GTM) </a>- for advertisers with developer resources available, this is the recommended setup as it gives you the option to include the TikTok recommended parameters within your events, which will unlock the features mentioned above. Moreover, if you have a dataLayer setup, you can leverage the ecommerce object along with <a target=\"_blank\" href=\"https://github.com/tiktok/gtm-template-pixel\">TikTok&#39;s&nbsp;GTM templates</a> for ease of implementation.</li></ol><p><span style=\"color: #666666;\"><em>Can we review on the call how the&nbsp;ViewContent&nbsp;event was created and how we should create more events moving forward? Also let’s use the gaming account to test pixel/events:</em></span></p><p>Of course! You are able to see the setup method of any event in your funnel from your TTAM events manager page. Simply hover over the event name, then click the Edit button, which will bring up a modal with a section that tells you how the current event was configured.</p><p>Tag manager is the way to go for TikTok events implementation since it provides a clear advantage over event builder. I am including two links below to GTM tagging videos for the TikTok pixel and the standard events. They are not TikTok-official videos, but other advertisers I have worked with in the past have found these very useful.</p><ul><li><a target=\"_blank\" href=\"https://www.youtube.com/watch?v=qgRnprDra2E&amp;t=434s\">Introductory video</a> to standard event implementation via GTM and how to enable advanced matching</li><li><br></li><li><a target=\"_blank\" href=\"https://www.youtube.com/watch?v=XMZeZVQeU7g\">More advanced video</a> that has step-by-step on how to use TikTok&#39;s GTM templates to leverage the dataLayer object and include all our recommended parameters.</li></ul><p><a target=\"_blank\" href>@Guillermo Ponte .</a>&nbsp;-&nbsp;please feel free to schedule a call if needed to discuss any of the above.</p><p>Best,</p><p><strong>Armando Carmona&nbsp;</strong>|<strong>&nbsp;</strong>Technical Solutions Consultant</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706313664,
+      "auto_close_hit": 0,
+      "id": 7328558448814146000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Conclusion]&nbsp;</strong><br>Advertiser had a question regarding implementation. Provided recommendations and links to resources.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708980238,
+      "auto_close_hit": 0,
+      "id": 7340013456277455000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Client call on Feb 23 with HP team</p><ul><li>They currently have View Content mapped to a later stage checkout process when a user reaches their HP.com shopping site</li><li>Recommended they change View Content to instead fire on product pages i.e. omen, invictus etc. This would allow them to generate audience segments of users who looked at products but did not proceed to the shopping site</li><li>Suggested they configure Add to Cart event to fire on page load of their shopping site</li><li>Initiate checkout was recommended to be the next event on the checkout page</li><li>Finally Complete Payment should fire on the Thank You page (after a checkout)</li><li>In terms of next steps: they will have to figure out a way to work their GTM triggers to more easily capture URLs that will cover the Pixel events</li><li>Will also follow up with the HP team and provide a recap of our call and the new event mapping</li></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708980354,
+      "auto_close_hit": 0,
+      "id": 7340013793029931000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "guillermo.ponte@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "ponteguillermo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7101452412381103106",
+      "name": "ponteguillermo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you Thomas! I will share this with client</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a17ae012-35e8-47e6-95fd-1e889601bf7g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709152333,
+      "auto_close_hit": 0,
+      "id": 7340752248064016000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Sent a follow up email to client on 2-27:&nbsp;</p><p><br></p><p><span style=\"color: #1F2329;\">Hello Par and Val,</span></p><p><br></p><p><span style=\"color: #1F2329;\">Thank you for joining the call last week to discuss Pixel implementation on the Omen MX site.&nbsp;</span></p><p><span style=\"color: #1F2329;\">Wanted to follow up with some notes on the new event mapping we had discussed:</span></p><ul><li><span style=\"color: #1F2329;\"><strong>View Content Event </strong>- Fires on page load of all product pages e.g.&nbsp;</span><span style=\"color: #1456F0;\"><a target=\"_blank\" href=\"https://www.omen.com/mx/es/desktops/victus-15l.html\">https://www.omen.com/mx/es/desktops/victus-15l.html</a></span><br></li><li><span style=\"color: #1F2329;\"><strong>Add to Cart Event</strong> - Fires on page load of shop product pages e.g.&nbsp;</span><span style=\"color: #1456F0;\"><a target=\"_blank\" href=\"https://www.hp.com/mx-es/shop/desktop-hp-15l-gaming-victus-tg02-0006la-809q4la.html?facetref=e0294002c4c46262\">https://www.hp.com/mx-es/shop/desktop-hp-15l-gaming-victus-tg02-0006la-809q4la.html?facetref=e0294002c4c46262</a></span><br></li><li><span style=\"color: #1F2329;\"><strong>Initiate Checkout Event </strong>- Fires when someone clicks an &#34;Agregar el Carrito&#34; button</span></li><li><span style=\"color: #1F2329;\"><strong>Complete Payment Event </strong>- Thank you page (order confirmation post checkout)&nbsp;</span></li></ul><p><span style=\"color: #1F2329;\">The above setup should enable you to generate segments and retarget users throughout the purchase journey.&nbsp;</span></p><p><span style=\"color: #1F2329;\">Regards,</span></p><p><span style=\"color: #1F2329;\">Thomas</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710194174,
+      "auto_close_hit": 0,
+      "id": 7345217188669800000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Client wrote back on March 11 regarding a potential issue with their View Content setup:</p><p><span style=\"color: #1F2329;\">Hi – Following up from Friday’s, what’s the best place in <strong><u>platform</u></strong> to validate if View Content event are firing correctly? Comparing <em>Total View Content</em> vs <em>Landing Page Visits</em> columns there’s a huge discrepancy even though we set up View Content event as a proxy for pageviews. See below.</span></p><p><span style=\"color: #1F2329;\">&nbsp;</span></p><p><span style=\"color: #1F2329;\">Also where y’all recommended to validate View Content event in <em>Last received </em>column does not show us # of event to validate. It’s a timestamp.</span></p><p><span style=\"color: #1F2329;\">&nbsp;</span></p><p><span style=\"color: #1F2329;\">&nbsp;</span></p><p><span style=\"color: #1F2329;\">Thanks in advance,</span></p><p><span style=\"color: #1F2329;\">Val</span></p><p><br></p><p><span style=\"color: #1F2329;\">---</span></p><p><br></p><p><span style=\"color: #1F2329;\">Response provided on March 11th:&nbsp;</span></p><p><br></p><p><span style=\"color: #1F2329;\">Hi Val,</span></p><p><span style=\"color: #1F2329;\">So there are a few methods to testing or verifying live events.</span></p><p><span style=\"color: #1F2329;\">1) Using Events Manager&#39;s Test Events Panel - </span><span style=\"color: #1456F0;\"><a target=\"_blank\" href=\"https://business-api.tiktok.com/portal/docs?id=1739584863252481\">https://business-api.tiktok.com/portal/docs?id=1739584863252481</a></span><br></p><p><span style=\"color: #1F2329;\">2) Using GTM&#39;s Preview Mode - </span><span style=\"color: #1456F0;\"><a target=\"_blank\" href=\"https://support.google.com/tagmanager/answer/6107056?hl=en\">https://support.google.com/tagmanager/answer/6107056?hl=en</a></span><br></p><p><span style=\"color: #1F2329;\">3) Using Pixel Helper Plugin - </span><span style=\"color: #1456F0;\"><a target=\"_blank\" href=\"https://ads.tiktok.com/help/article/tiktok-pixel-helper-2.0?lang=en\">https://ads.tiktok.com/help/article/tiktok-pixel-helper-2.0?lang=en</a></span><br></p><p><span style=\"color: #1F2329;\">We can use one or a combination of methods to ensure that View Content is firing where it should and when it should.&nbsp;</span></p><p><span style=\"color: #1F2329;\">From looking over at the raw numbers, it does seem Pageviews are much higher than View Content events. It would not appear that the View Content event is set up to mirror a Pageview.&nbsp;</span></p><p><span style=\"color: #1F2329;\">Re: the last updated column in Events Manager: this will indeed show the last time period an event was received. We do not really provide a live view of events received through Events Manager. The closest would be to use the Test Events panel.&nbsp;</span></p><p><span style=\"color: #1F2329;\">Please let me know if I can help you in any other way. If you provide me with more details (event mapping, urls, preview mode link etc.) I am happy to assist you in testing as well.&nbsp;</span></p><p><span style=\"color: #1F2329;\">Regards,</span></p><p><span style=\"color: #1F2329;\">Thomas</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1820708,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "thomas.mei@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "HP Pixel implementation",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_a17ae012-35e8-47e6-95fd-1e889601bf7g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710194173,
+  "owner_name": "Guillermo Ponte",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7085692548950574082",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Guillermo Ponte",
+  "follow_employee_id": 2819808,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 574821,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "HP Pixel implementation",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "HP",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "LATAM-MX",
+      "valid": true,
+      "key": "LATAM",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7297262785804042242",
+        "7297262691792699393",
+        "7297262484749336577"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Gaspar Almeida/Guillermo Ponte",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CL2PNQJC77U115KEKP50",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.omen.com/mx/es/laptops/2021-omen-16-intel.html?jumpid=sv_mx_tt_mk_mc_cm018297_aw_im&utm_source=tiktok&utm_medium=video&utm_campaign=q1_fy24_gaming-ps"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-08",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "The client wants to check if the pixel is correctly implemented. Additionally, the client wants to know if the events have to be created from TTAM or GTM? Please also review if the events are tracking correctly or fixing is needed?",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e927a05afeab4c01b1027b5819a9bb2a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832994&x-signature=Ak6RUFRT%2BfAgn0MxUdkA56bWNvw%3D",
+          "file_name": "file_20240318_13_36_35_074249",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e927a05afeab4c01b1027b5819a9bb2a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832994&x-signature=Ak6RUFRT%2BfAgn0MxUdkA56bWNvw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e927a05afeab4c01b1027b5819a9bb2a.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/210d9dc44c9d4b5e9fc04d5821486f8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832994&x-signature=1kCMyJjI%2BoksFqnleR%2BcrBItP5c%3D",
+          "file_name": "file_20240318_13_36_35_074325",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/210d9dc44c9d4b5e9fc04d5821486f8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832994&x-signature=1kCMyJjI%2BoksFqnleR%2BcrBItP5c%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/210d9dc44c9d4b5e9fc04d5821486f8c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9e4c7e6caf214951aeeb85bcd2261478.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832994&x-signature=VAicKPySIKb3Uw7ac8pnonTXSyE%3D",
+          "file_name": "file_20240318_13_36_35_074343",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9e4c7e6caf214951aeeb85bcd2261478.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832994&x-signature=VAicKPySIKb3Uw7ac8pnonTXSyE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/9e4c7e6caf214951aeeb85bcd2261478.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

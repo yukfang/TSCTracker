@@ -1,0 +1,916 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497066245137",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Heidi Williams",
+  "create_time": 1706731139,
+  "deadline": 0,
+  "archive_board_id": 1705151646989663,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706740650,
+      "auto_close_hit": 0,
+      "id": 7330393459976602000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Maria,</p><p><br></p><p>Acknowledging receipt of this ticket. I will investigate and get back to you soon!</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707233121,
+      "auto_close_hit": 0,
+      "id": 7332510153348071000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Maria Velazquez Lugo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955896428476662785",
+      "name": "Maria Velazquez Lugo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi! Do you have any updates? Thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707766753,
+      "auto_close_hit": 0,
+      "id": 7334801121694712000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Maria, sorry, this one flew under the radar somehow. I will investigate now and get back to you very shortly.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707771951,
+      "auto_close_hit": 0,
+      "id": 7334823741165273000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Maria,</p><p><br /></p><p>To quickly answer your question regarding whether you would need the Pixel to implement the Event API: yes, at minimum, you would need to embed the <a href=\"https://ads.tiktok.com/help/article/get-started-pixel?lang=en\" target=\"_blank\">Pixel base code</a> in the site, to implement Pixel, Event API, or both.</p><p><br /></p><p>I do see an issue with the Event API setup, where it looks like they have not enabled time stamp for events. Please see the screenshot here, which shows that 'GoogleTagManagerServer' events are reporting 'NULL' timestamps:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f20c2a9119c345bca9646a95df78b8b5.png\" height=\"190.30849600000002\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f20c2a9119c345bca9646a95df78b8b5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833009&amp;x-signature=0Qd07QI3FymWXNLrAkzUbyTLito%3D\" width=\"633\"><p><br /></p><p>Since we use the time stamp to match up events, this will negatively impact deduplication and overall reporting. To summarize, our system looks at 3 different properties when attempting to deduplicate a set of browser and server events:</p><p><br /></p><ul><li><strong>event_source_id</strong> (generated by default to indicate either 'web' or 'app')</li><li><strong>event</strong> (e.g. 'AddToCart' or 'CompletePayment') -and-</li><li><span style=\"color: #D83931;\"><strong>event_id</strong></span>, which is a unique string for each event</li></ul><p><br /></p><p> </p><p>If multiple events with the same <strong>event_source_id</strong>, <strong>event</strong>, and <span style=\"color: #D83931;\"><strong>event_id</strong></span> are received, we keep the first event and discard any later ones received within 48 hours. If a later event is received within 5 minutes of the first event, we attempt to merge its data into the first event. So as you can see, the time an event is fired is required for pixel and Event API functionality. </p><p><br /></p><p>If you could please flag this to them, and let me know if they have further questions!</p><p><br /></p><p>Thanks for your patience :)</p><p><br /></p><p>Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707838840,
+      "auto_close_hit": 0,
+      "id": 7335111377285120000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Maria Velazquez Lugo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955896428476662785",
+      "name": "Maria Velazquez Lugo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi!</p><p><br></p><p>Thank you for looking into this. I am currently waiting on updates from the client. There&#39;s some confusion in terms of correct pixel IDs and set up. Once that&#39;s clear, I&#39;ll follow up with the rest.</p><p><br></p><p>Thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707842665,
+      "auto_close_hit": 0,
+      "id": 7335127690107765000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Maria Velazquez Lugo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955896428476662785",
+      "name": "Maria Velazquez Lugo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi!&nbsp;</p><p><br></p><p>The client just got back to me and they mentioned that they see a pixel attached to their webiste (https://www.intimissimi.com/us/women/) but I don&#39;t see anything. See screenshots attached. Can you confirm that we have a pixel attached?</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "image (16).png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18537f76f68042f5b0ebbf5c42035879.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833009&x-signature=bu0yfQdzlYiVbkMF%2FnDMqldjKaA%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/18537f76f68042f5b0ebbf5c42035879.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18537f76f68042f5b0ebbf5c42035879.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833009&x-signature=bu0yfQdzlYiVbkMF%2FnDMqldjKaA%3D",
+              "biz_type": 2,
+              "size": 1157964
+            },
+            {
+              "file_type": "png",
+              "file_name": "Screen Shot 2024-02-13 at 10.37.21 AM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d93b62b89cea4d3bbdda81a3bc2979ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833009&x-signature=WJqcmodiqfuW2hWeyxu3EO8h560%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/d93b62b89cea4d3bbdda81a3bc2979ce.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d93b62b89cea4d3bbdda81a3bc2979ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833009&x-signature=WJqcmodiqfuW2hWeyxu3EO8h560%3D",
+              "biz_type": 2,
+              "size": 1034431
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708104170,
+      "auto_close_hit": 0,
+      "id": 7336250872818582000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Maria Velazquez Lugo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955896428476662785",
+      "name": "Maria Velazquez Lugo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi! So you have any updates? thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708104903,
+      "auto_close_hit": 0,
+      "id": 7336253910182527000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Maria, sorry for the delay! Looking now.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708106063,
+      "auto_close_hit": 0,
+      "id": 7336258568405942000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Maria,</p><p><br /></p><p>Yes, I am seeing a pixel. To clarify, we don't always use the Pixel Helper as the source of truth, because it can be inconsistent. There are plugins and browser extensions that can block it's functionality. So you can use<a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CGBQIV3C77UA9DC1SHOG?start_time=2024-02-10&amp;end_time=2024-02-16&amp;from=ALL&amp;aadvid=7194541396831879170\" target=\"_blank\"> the Events Manager</a>, or I use Chrome Dev Tools, example:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7c6917003093480c8e29e5b882f0f101.png\" height=\"174.182\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7c6917003093480c8e29e5b882f0f101.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833009&amp;x-signature=MH52YcCTX7uvWKqUzfOW4b8fOGs%3D\" width=\"375\"><p>They should, however, fix the timestamp issue described in my first response, as a missing timestamp will negatively impact their metrics.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708114858,
+      "auto_close_hit": 0,
+      "id": 7336295785086058000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Maria Velazquez Lugo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955896428476662785",
+      "name": "Maria Velazquez Lugo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Awesome! Thank you!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708974606,
+      "auto_close_hit": 0,
+      "id": 7339988634885685000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Maria Velazquez Lugo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955896428476662785",
+      "name": "Maria Velazquez Lugo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi!&nbsp;</p><p><br></p><p>The client mentioned the following:&nbsp;</p><p><span style=\"color: #172B4D;\">&#34;We didn&#39;t see any references to timestamps in the TikTok implementation guide:</span></p><ul><li><span style=\"color: #0052CC;\"><a href=\"https://ads.tiktok.com/help/article/event-deduplication\" target=\"_blank noopener noreferrer\">https://ads.tiktok.com/help/article/event-deduplication</a></span><br></li><li><span style=\"color: #0052CC;\"><a href=\"https://business-api.tiktok.com/portal/docs?id=1771100965992450\" target=\"_blank noopener noreferrer\">https://business-api.tiktok.com/portal/docs?id=1771100965992450</a></span><br></li></ul><p><span style=\"color: #333333;\">To enable deduplication, developers must ensure the following three parameters are included in the event payload via both Pixel and Events API:&nbsp;</span></p><ul><li><span style=\"color: #333333;\"><strong>pixel id</strong></span></li></ul><ul><li><span style=\"color: #333333;\"><strong>event</strong>&nbsp;(for example,&nbsp;<strong>CompletePayment</strong>&nbsp;or&nbsp;<strong>AddToCart</strong>)</span></li></ul><ul><li><span style=\"color: #333333;\"><strong>event_id</strong>&nbsp;(a unique string chosen by the advertiser to represent visitor conversion)&nbsp;</span></li></ul><p><span style=\"color: #172B4D;\">&nbsp;</span></p><p><span style=\"color: #172B4D;\">There is reference to&nbsp;<strong>event_source_id</strong>,&nbsp;<strong>event</strong>,&nbsp;<strong>event_id</strong>, but not to the timestamp.<br>The TikTok implementation is the same across various countries and brands, it&#39;s the first time this has been reported to us.</span></p><p><br></p><p><span style=\"color: #172B4D;\">Can you provide us with guidance and documentation on how to proceed and how to implement it, if necessary?&#34;</span></p><p><br></p><p><span style=\"color: #222222;\">Can you let us know how to proceed? Thank you!</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708974856,
+      "auto_close_hit": 0,
+      "id": 7339990371134439000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Maria, what are other brands this same team sets up Signals for? I&#39;d like to check those accounts and see if timestamp is missing there as well or if this is the only setup where it is missing.</p><p><br></p><p>Also, usually you do not have to intentionally enable timestamp. It will report by default. So I wonder what it is about their implementation that seems to be blocking timestamp from reporting.</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709048804,
+      "auto_close_hit": 0,
+      "id": 7340304948061553000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Maria Velazquez Lugo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955896428476662785",
+      "name": "Maria Velazquez Lugo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi! They also managed Calzedonia ID:&nbsp;<span style=\"color: #333333;\">7194541584728293378 and Falconeri ID:&nbsp;7194541713954750466</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709066477,
+      "auto_close_hit": 0,
+      "id": 7340383160913412000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks, I will check these and see if the same issue comes up.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709067001,
+      "auto_close_hit": 0,
+      "id": 7340384675837379000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Maria,</p><p><br></p><p>I won't be able to check and compare these and Intermissimi:</p><p><span style=\"color: #333333;\"><a target=\"_blank\" href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C92DLLCPJ0QJK2GASID0?start_time=2024-02-21&amp;end_time=2024-02-27&amp;from=ALL&amp;aadvid=7194541584728293378\">Calzedonia ID:&nbsp;7194541584728293378</a>&nbsp;</span> - not active</p><p><span style=\"color: #333333;\"><a target=\"_blank\" href=\"https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7194541713954750466\">Falconeri ID:&nbsp;7194541713954750466</a> - not active&nbsp;</span></p><p><br></p><p><span style=\"color: #333333;\">It may be that we need to add more of a description of timestamp and how we use it, to our documentation. Would they be able to tell me how they are setting up the pixel (Google Tag Manager, or some other way?) and provide a screenshot of the CompletePayment event setup?</span></p><p><br></p><p><span style=\"color: #333333;\">Heidi</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709139571,
+      "auto_close_hit": 0,
+      "id": 7340697855948259000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Maria Velazquez Lugo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955896428476662785",
+      "name": "Maria Velazquez Lugo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi! I reached out to the client and asked for additional info. I&#39;ll keep you posted!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709928674,
+      "auto_close_hit": 0,
+      "id": 7344081877109572000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Maria Velazquez Lugo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955896428476662785",
+      "name": "Maria Velazquez Lugo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi! Here are the screenshots as requested:</p><img alt=\"image001 (2).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/403481a4a0ac4dc291926d31f5508f3d.png\" height=\"179.641\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/403481a4a0ac4dc291926d31f5508f3d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833010&amp;x-signature=%2BFFbWeQylo4mLjlK6QCV7TOdC5s%3D\" width=\"375\"><img alt=\"image002.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/963b5579b3b541a9b80171d7e45a0443.png\" height=\"408.636\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/963b5579b3b541a9b80171d7e45a0443.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833010&amp;x-signature=nuza1dLaDsq6zGiBKosmX5hEKQ8%3D\" width=\"375\"><img alt=\"image003.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0bb344b201224bdebfbdd8f88916329d.png\" height=\"213.852\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0bb344b201224bdebfbdd8f88916329d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833010&amp;x-signature=c03%2FUfD9d90eqEnq9w8GwBZxp4U%3D\" width=\"375\"><img alt=\"image004.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8e36487a22a441cf8cabfa7f1b25f3d1.png\" height=\"513.315\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e36487a22a441cf8cabfa7f1b25f3d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833010&amp;x-signature=QMD0cYFI8HRw8PRopA5OXyXXpBk%3D\" width=\"375\" /></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1850794,
+  "workflow_nodes": [],
+  "board_id": 1705151646989663,
+  "employee_email": "heidi.williams@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Intimissimi - Events API review ",
+  "category_1_name": "Events API - Web",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1709928673,
+  "owner_name": "Maria Velazquez Lugo",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - Web",
+  "archive_category_1": "1736497066245137",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497066245137",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882593",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882609",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883585",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883601",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400130",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400146",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400162",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400178",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401154",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401170",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401186",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401202",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548708426753",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - Web"
+    }
+  ],
+  "core_user_id": "6955896428476662785",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Maria Velazquez Lugo",
+  "follow_employee_id": 5710207,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1702009,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Intimissimi - Events API review ",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Shopify",
+      "valid": true,
+      "key": "Shopify",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Calzedonia ",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7194541396831879170"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM - Maria Velazquez, BPM - Olivia Hagood",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CGBQIV3C77UA9DC1SHOG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.intimissimi.com/us/?gad_source=1&gclid=EAIaIQobChMI84mD9_aHhAMVIHNHAR1qKgvfEAAYASAAEgKzovD_BwE"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-31",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hi team! The client mentioned they recently implemented events API. However, I am not saying a pixel in the website and there's some issues with the pixel in events manager. Can you please review?\n\nAlso, I should now this but we need a pixel in order to implement events API, correct?\n\nThank you!",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f20c2a9119c345bca9646a95df78b8b5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833009&x-signature=0Qd07QI3FymWXNLrAkzUbyTLito%3D",
+          "file_name": "file_20240318_13_36_49_795060",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f20c2a9119c345bca9646a95df78b8b5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833009&x-signature=0Qd07QI3FymWXNLrAkzUbyTLito%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f20c2a9119c345bca9646a95df78b8b5.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "image (16).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18537f76f68042f5b0ebbf5c42035879.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833009&x-signature=bu0yfQdzlYiVbkMF%2FnDMqldjKaA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/18537f76f68042f5b0ebbf5c42035879.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18537f76f68042f5b0ebbf5c42035879.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833009&x-signature=bu0yfQdzlYiVbkMF%2FnDMqldjKaA%3D",
+          "biz_type": 2,
+          "size": 1157964
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-02-13 at 10.37.21 AM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d93b62b89cea4d3bbdda81a3bc2979ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833009&x-signature=WJqcmodiqfuW2hWeyxu3EO8h560%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d93b62b89cea4d3bbdda81a3bc2979ce.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d93b62b89cea4d3bbdda81a3bc2979ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833009&x-signature=WJqcmodiqfuW2hWeyxu3EO8h560%3D",
+          "biz_type": 2,
+          "size": 1034431
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7c6917003093480c8e29e5b882f0f101.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833009&x-signature=MH52YcCTX7uvWKqUzfOW4b8fOGs%3D",
+          "file_name": "file_20240318_13_36_49_944734",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7c6917003093480c8e29e5b882f0f101.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833009&x-signature=MH52YcCTX7uvWKqUzfOW4b8fOGs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7c6917003093480c8e29e5b882f0f101.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e36487a22a441cf8cabfa7f1b25f3d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833010&x-signature=QMD0cYFI8HRw8PRopA5OXyXXpBk%3D",
+          "file_name": "file_20240318_13_36_50_159368",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e36487a22a441cf8cabfa7f1b25f3d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833010&x-signature=QMD0cYFI8HRw8PRopA5OXyXXpBk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8e36487a22a441cf8cabfa7f1b25f3d1.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/403481a4a0ac4dc291926d31f5508f3d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833010&x-signature=%2BFFbWeQylo4mLjlK6QCV7TOdC5s%3D",
+          "file_name": "file_20240318_13_36_50_159436",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/403481a4a0ac4dc291926d31f5508f3d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833010&x-signature=%2BFFbWeQylo4mLjlK6QCV7TOdC5s%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/403481a4a0ac4dc291926d31f5508f3d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/963b5579b3b541a9b80171d7e45a0443.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833010&x-signature=nuza1dLaDsq6zGiBKosmX5hEKQ8%3D",
+          "file_name": "file_20240318_13_36_50_159499",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/963b5579b3b541a9b80171d7e45a0443.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833010&x-signature=nuza1dLaDsq6zGiBKosmX5hEKQ8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/963b5579b3b541a9b80171d7e45a0443.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0bb344b201224bdebfbdd8f88916329d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833010&x-signature=c03%2FUfD9d90eqEnq9w8GwBZxp4U%3D",
+          "file_name": "file_20240318_13_36_50_159559",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0bb344b201224bdebfbdd8f88916329d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833010&x-signature=c03%2FUfD9d90eqEnq9w8GwBZxp4U%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0bb344b201224bdebfbdd8f88916329d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - Web-Events API - Web"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

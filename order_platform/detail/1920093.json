@@ -1,0 +1,366 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Κατερίνα Σάκκουλα",
+  "create_time": 1709653330,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709653949,
+      "auto_close_hit": 0,
+      "id": 7342902926739866000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Charlotte,</p><p><br /></p><p>Thank you for reaching out.</p><p><br /></p><p>Confirming that none of the Shopify Catalog can be found under the following Business Center ID: <a href=\"https://business.tiktok.com/manage/catalog?org_id=7197449447117291522\" target=\"_blank\">7197449447117291522</a>. The client needs to assign a member with Ad Promotion and Catalog Management permissions under this catalog in order to manage it and run campaigns:</p><img alt=\"92a3635d-faae-4a1f-a517-77b58c67d651.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4b054f0cacba4aae99d88620ef5143ce.jpeg\" height=\"188.457\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b054f0cacba4aae99d88620ef5143ce.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838443&amp;x-signature=9dyPlKbw65h1Bh0YE3C1iUCIZfE%3D\" width=\"375\"><p><br /></p><p>Here you can directly access the Shopify Catalog: <a href=\"https://ads.tiktok.com/catalogs/product?id=7202986073759221505&amp;bc_id=7197449447117291522\" target=\"_blank\">7202986073759221505</a></p><p>The pixel has been bound automatically to the catalog and the match rate is 100% for all events.</p><p><br /></p><p>I will go ahead and close this ticket, as there is no outstanding action here.</p><p><br /></p><p>Best,</p><p>Katerina</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709716469,
+      "auto_close_hit": 0,
+      "id": 7343168152236278000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Charlotte Pennaneach",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6817741524236272646",
+      "name": "Charlotte Pennaneach",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Katerina,</p><p>Unfortunately we don&#39;t want the catalog to be linked to the BC here&nbsp;https://business.tiktok.com/manage/member?org_id=7197449447117291522</p><p>The client wants the catalog to be linked to the following BC:</p><p>https://business.tiktok.com/manage/account?org_id=7197451823857385474</p><p>How can we get the catalog active with products with this&nbsp;7197451823857385474 BC ?&nbsp;</p><p>The catalog has already been created ID&nbsp;7342785351259326210</p><p>The client followed all the steps in the Shopify guide.</p><p>Not the second one you sent us</p><p>Thanks a lot</p><p>Charlotte</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/be6f63eb-12ab-47ed-94d5-c605773b607g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709718137,
+      "auto_close_hit": 0,
+      "id": 7343179603336348000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Charlotte,</p><p><br></p><p>When the client made the connection, they were logged in to <span style=\"color: #222222;\">&#39;lucas.griffon@smartworkout-pro.com&#39; which is associated to the other BC ID. Can&nbsp;</span><span style=\"color: #121212;\">Valérie do the connection in Shopify, as this user only has access to the correct BC and would avoid the mismatch?</span></p><p><br></p><p>In order to link the catalog to the right BC, the client needs to login to their Shopify account with one of the Admin emails that have access to this BC and Ad Account. </p><p>For users that have access to both BCs, they should try to log in to the right BC under their browser when making the connection.</p><p><br></p><p>I will close this ticket as this is mostly a troubleshooting case, which falls under the TPS team (internal tickets platform) and not our team. If the client is still unable to connect their Shopify account to the right BC, please raise a ticket <a target=\"_blank\" href=\"https://ads.tiktok.com/athena/requester/boards?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456\">here</a>.</p><p><br></p><p>Best,</p><p>Katerina</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1920093,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "katerina.sakkoula@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Catalog integration via Shopify not working - still no product on our side",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 3,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/be6f63eb-12ab-47ed-94d5-c605773b607g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1709718142,
+  "owner_name": "Charlotte Pennaneach",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "6817741524236272646",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Charlotte Pennaneach",
+  "follow_employee_id": 9295306,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1056301,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Catalog integration via Shopify not working - still no product on our side",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Shopify",
+      "valid": true,
+      "key": "Shopify",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "SmartWorkout Pro FR",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Ecommerce",
+      "valid": true,
+      "key": "Ecommerce",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-FR",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "7096108330581540866",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "20OOO€",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-05",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "New catalog integation",
+      "valid": true,
+      "key": "New catalog integation",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Hi,\nOur client has followed all the steps here for catalog integration via Shopify https://ads.tiktok.com/help/article/shopify-set-up-guide?redirected=2\nBut unfortunately there is still 0 product in our Catalog Manager \nBC ID : 7197451823857385474\nTTAM FR ID : 7096108330581540866\nCatalog ID : 7342785351259326210",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Capture d’écran 2024-03-05 à 15.16.52 (3).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/98451d01afdd4c08833b64f3a57625d5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838443&x-signature=h93iZ5vU6U494l%2FYSx8%2BxG4uZeo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/98451d01afdd4c08833b64f3a57625d5.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/98451d01afdd4c08833b64f3a57625d5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838443&x-signature=h93iZ5vU6U494l%2FYSx8%2BxG4uZeo%3D",
+          "size": 253033
+        },
+        {
+          "file_type": "png",
+          "file_name": "Capture d’écran 2024-03-05 à 15.17.54.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d60a288909224459931aa7b7f09f815a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838443&x-signature=MwiL5CoaKbYNhzwYcuWMUPYYw90%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d60a288909224459931aa7b7f09f815a.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d60a288909224459931aa7b7f09f815a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838443&x-signature=MwiL5CoaKbYNhzwYcuWMUPYYw90%3D",
+          "size": 226666
+        },
+        {
+          "file_type": "png",
+          "file_name": "Capture d’écran 2024-03-05 à 15.23.30.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50a5811cd7bf4278bf839b60a567249d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838443&x-signature=t%2B9VAdUw4VfKOWNYZkvLq2z9Jj4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/50a5811cd7bf4278bf839b60a567249d.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50a5811cd7bf4278bf839b60a567249d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838443&x-signature=t%2B9VAdUw4VfKOWNYZkvLq2z9Jj4%3D",
+          "size": 839993
+        },
+        {
+          "file_type": "png",
+          "file_name": "Capture d’écran 2024-03-05 à 15.23.41.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bb8715102dff4248b589488d7fb00bcb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838443&x-signature=PxAJf%2FX%2Bn4uSwEKPbKP3pgvDnYY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/bb8715102dff4248b589488d7fb00bcb.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bb8715102dff4248b589488d7fb00bcb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838443&x-signature=PxAJf%2FX%2Bn4uSwEKPbKP3pgvDnYY%3D",
+          "size": 1027718
+        },
+        {
+          "file_type": "png",
+          "file_name": "Capture d’écran 2024-03-05 à 15.34.41.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9ab4bbd7b0b45f6a3f70c8559ba32d3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838443&x-signature=qvNs2wJosmen58mRueWaJD2wqWo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c9ab4bbd7b0b45f6a3f70c8559ba32d3.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9ab4bbd7b0b45f6a3f70c8559ba32d3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838443&x-signature=qvNs2wJosmen58mRueWaJD2wqWo%3D",
+          "size": 161444
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b054f0cacba4aae99d88620ef5143ce.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838443&x-signature=9dyPlKbw65h1Bh0YE3C1iUCIZfE%3D",
+          "file_name": "file_20240318_15_07_23_526851",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b054f0cacba4aae99d88620ef5143ce.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838443&x-signature=9dyPlKbw65h1Bh0YE3C1iUCIZfE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4b054f0cacba4aae99d88620ef5143ce.jpeg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

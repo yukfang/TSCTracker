@@ -1,0 +1,760 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354674",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Thomas Mei",
+  "create_time": 1707697068,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707862797,
+      "auto_close_hit": 0,
+      "id": 7335212468945306000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Comments provided in the doc itself but also summarized below:</p><ul><li>I would review and provide coverage of the contents parameters (content_id, content_type, value, price, currency)</li><li>Browse is the standard event now replaced by Pageview</li><li>Since their event_id coverage is very high for both Pixel and EAPI, troubleshooting the 80%ish dedupe rate will likely require TSC support. Can flag this to their team and maybe they can resolve but might eventually need TSC support to check data tables and provide some context.</li></ul><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707877415,
+      "auto_close_hit": 0,
+      "id": 7335276007353516000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "aparna.barnes@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Aparna Barnes",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7311756381407872002",
+      "name": "Aparna Barnes",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey! Thanks for reviewing. I made the recommended changes and had a few questions for you as well. Pasting responses and follow up questions here for ease:<br><br>1. TTEM isn&#39;t showing me parameters per event. Is there another way to pull this? All I could see is what was missing from the TT pixel helper</p><p><br></p><ol><li>Yes, That&#39;s what i thought I was saying in my writeup. I&#39;ve rephrased and removed &#34;Browse&#34; to hopefully address any questions.&nbsp;</li><li>For de-dupe, before sending to the client, is this something you could help provide next steps? Especially since you think it&#39;ll eventually need TSC support?</li></ol><p><br></p><p>Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_005r_0ea19ab6-2480-4ba0-805a-ec4b10280d9h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707939520,
+      "auto_close_hit": 0,
+      "id": 7335543266718319000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>1) Parameter coverage - you should be able to see the contents parameters coverage if you click on the \"View Data\" link for each event: </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/62638129acfb431a8aa4568a3c8686ca.png\" height=\"153.826\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62638129acfb431a8aa4568a3c8686ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875789&amp;x-signature=7P%2FI5lo8VkOyYnCSlS5hGltoSQw%3D\" width=\"375\"><p>2) I can look into the dedupe issue but will take some time. Will revert back with notes soon. ETA 1-2 days if you want to wait. </p><p><br /></p><p>Thomas</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707939641,
+      "auto_close_hit": 0,
+      "id": 7335543642393674000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "aparna.barnes@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Aparna Barnes",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7311756381407872002",
+      "name": "Aparna Barnes",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>thanks! yes - we can wait.&nbsp;</p><p><br></p><p>Also re-match rates. I think i&#39;m hitting a bug bc i don&#39;t seen that on my end.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_005r_0ea19ab6-2480-4ba0-805a-ec4b10280d9h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707949939,
+      "auto_close_hit": 0,
+      "id": 7335588135495057000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>After diving into their Complete Payment events here are some details that might help them troubleshoot the deduplication issue:</p><ul><li>There appears to be a duplicate firing issue on the Browser side. One purchase fired four times on the Pixel side with an event_id of &#34;2722485&#34; around 2024-02-13T05:11:30. (ISO 8601 timestamp format)</li><li>There are Complete Payment events with &#34;null&#34; event_ids being passed back again on the Browser side. For 2-13 there were 56/766 Complete Payment events with a null event_id making up roughly 7% of all events.&nbsp;</li></ul><p><br></p><p>I think if they could look into both issues, that would resolve the deduplication gap. It seems to be with the browser Complete Payment event.&nbsp;</p><p><br></p><p>Let me know if they have any questions, happy to jump in.&nbsp;</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707950283,
+      "auto_close_hit": 0,
+      "id": 7335588922270958000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "aparna.barnes@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Aparna Barnes",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7311756381407872002",
+      "name": "Aparna Barnes",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks! This is great - one last Q:<br><br>Is it correct to add this?<br><br>Setup Initiate Checkout event to trigger on: https://checkout.inkbox.com/5899557/checkouts/bea5cd9ee22dbfa0f5c404e923044811<br><br></p><p>Inkbox does not have the initiate checkout event triggering here. We recommend setting it up to trigger on this URL so that you can capture the full funnel of events. Please utilize the recommended parameters &amp; setup Advanced Matching on this event.<br><br><br><em>They should be able to pixel this right, since it&#39;s still their domain?&nbsp;</em></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_005r_0ea19ab6-2480-4ba0-805a-ec4b10280d9h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707951390,
+      "auto_close_hit": 0,
+      "id": 7335594131315622000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Yes you can make that recommendation. The Pixel does load on that domain/checkout page so they should be able to add an Initiate Checkout event to fire there.&nbsp;</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709329467,
+      "auto_close_hit": 0,
+      "id": 7341511757350994000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Client call 2-29:</p><ul><li>Client dev agreed to fix the double firing ATC event</li><li>Client is using GTM to fire most events on page, with the exception of Complete Payment which fires through Shopify</li><li>They set up a server event to fire with order ID as the event_id to dedupe against the Complete Payment event fired through Shopify browse side</li></ul><p><br /></p><p>Post call actins:</p><ul><li>Client dev resolved the ATC double firing issue</li><li>Client dev added an Initiate checkout event which seems to fire when a user clicks the \"continue to checkout\" button on the cart pop out</li><ul><li>Initiate Checkout event is not passing back contents parameters</li></ul><li>Complete Payment event is hitting 82% dedupe for two reasons:</li><ul><li>About 7% of Complete Payment events are missing event_id(s) fired through Browser channel</li><li>About 20% of Complete Payment events are firing with event_id(s) but not matching to a corresponding event on the other channel (Browser vs. EAPI)</li></ul></ul><p><br /></p><p>Next steps: need to relay the above notes regarding Initiate Checkout and Complete Payment event to dev to troubleshoot on their end. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/78ed4ef4356b4bceb72d348781d0281c.png\" height=\"642.251\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78ed4ef4356b4bceb72d348781d0281c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875790&amp;x-signature=lPFpfgTfDArxmxgmRprIGTYNvqM%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709660391,
+      "auto_close_hit": 0,
+      "id": 7342934364478603000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "aparna.barnes@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Aparna Barnes",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7311756381407872002",
+      "name": "Aparna Barnes",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thomas, Rebecca - should we consider this closed?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_005r_0ea19ab6-2480-4ba0-805a-ec4b10280d9h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709759692,
+      "auto_close_hit": 0,
+      "id": 7343359682309882000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Rebecca had a question regarding why their VSA for Complete Payment was so low. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png\" height=\"93.053\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875790&amp;x-signature=8hXI5B0G5hzj57Q3c9YTYZiwAV0%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png\" height=\"58.792\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875790&amp;x-signature=%2FxzL5gzDFunXfrXqCP7c0IWpfIE%3D\" width=\"375\" /></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710787869,
+      "auto_close_hit": 0,
+      "id": 7347775169114456000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Email sent to Vinay (client dev) on march 18:</p><p><br></p><p><span style=\"color: #222222;\">Hi Vinay,</span></p><p><span style=\"color: #222222;\">After checking the Complete Payment events in our data tables I&#39;ve&nbsp;noticed a few issues and wanted to provide context for you to look into on your end.&nbsp;</span></p><ol><li><span style=\"color: #222222;\">We are receiving double and sometimes triple firing of the Complete Payment event. I can tell this is happening for several reasons:</span></li><ol><li><span style=\"color: #222222;\">We typically receive Complete Payment events where the event ID is a six digit string of numbers e.g. &#34;2751326&#34;. However we will then receive another Complete Payment event with an event ID of the same number with a # in front e.g. &#34;#2751326&#34;. The other details of the events largely line up including hashed email, ip address, etc. This is the double firing scenario.</span></li><li><span style=\"color: #222222;\">There are occasions where we receive triple firing of the event. The first two would have event_id(s) in the above scenario, whereas the third event would have either an undefined or null event_id value. This is the triple firing scenario.&nbsp;</span></li></ol><li><span style=\"color: #222222;\">Of the three categories of Complete Payment events, the one that appears to be the proper event are the ones with the number only event_id(s) i.e. &#34;2751326&#34;. The other two categories of Complete Payment events are typically missing content_id and content_type.&nbsp;</span></li><li><span style=\"color: #222222;\">I&#39;ve also noticed there appears to be a missing decimal point in the values for the price parameter. e.g. one transaction had a&nbsp;Mimi - 2 x 2 in for &#34;975&#34;. The price should be 9.75 instead as the value of this event was 63.34 which more accurately reflects the basket (6 of the Mimi tattoos).&nbsp;</span></li><li><span style=\"color: #222222;\">We&#39;re also receiving a lot of the same hashed email/phone values for the events. I believe they are passing back a value of &#34;undefined&#34;. This is separate from the double/triple firing issue. It just seems that overall the current setup is often times passing back &#34;undefined&#34;.&nbsp;</span></li></ol><p><span style=\"color: #222222;\"><strong>Recommendations</strong></span></p><ul><li><span style=\"color: #222222;\">Please check the Complete Payment event setup and how it may be triggered. It seems that it is often double/triple firing. This would certainly inflate your event count and also potentially ROAS calculations.&nbsp;</span></li><li><span style=\"color: #222222;\">I would recommend an adjustment to the Price parameter to accurately reflect product pricing i.e. add a decimal point where appropriate</span></li><li><span style=\"color: #222222;\">Please check why some of the Complete Payment events are passing back an undefined value for email and phone number.&nbsp;</span></li></ul><p><span style=\"color: #222222;\">Please let me know if you have any questions.&nbsp;</span></p><p><span style=\"color: #222222;\">Regards,</span></p><p><span style=\"color: #222222;\">Thomas</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1870079,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "thomas.mei@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Signals Audit for Inkbox",
+  "category_1_name": "Basic",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_005r_0ea19ab6-2480-4ba0-805a-ec4b10280d9h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710787869,
+  "owner_name": "Aparna Barnes",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Basic",
+  "archive_category_1": "1736497459354674",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7311756381407872002",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Aparna Barnes",
+  "follow_employee_id": 2819808,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 23921,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Signals Audit for Inkbox",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Inkboc",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-CA",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6785653728650199045"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM: Rebecca Tusiuk",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C1963SBQIA5GK7IN00O0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "inkbox.ca"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-11",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "The client is asking for a signals audit with direct recommendation on if their current setup has room for improvement. \n\nI've reviewed the site and their TTEM and created an audit here, but would like it reviewed by TSC to ensure there are no gaps in our recommendation and details provided. https://bytedance.us.larkoffice.com/docx/GQVXdmikwom0Vbxo6ZRuT2Obssf?from=from_copylink",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62638129acfb431a8aa4568a3c8686ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875789&x-signature=7P%2FI5lo8VkOyYnCSlS5hGltoSQw%3D",
+          "file_name": "file_20240319_01_29_49_862381",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62638129acfb431a8aa4568a3c8686ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875789&x-signature=7P%2FI5lo8VkOyYnCSlS5hGltoSQw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/62638129acfb431a8aa4568a3c8686ca.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78ed4ef4356b4bceb72d348781d0281c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875790&x-signature=lPFpfgTfDArxmxgmRprIGTYNvqM%3D",
+          "file_name": "file_20240319_01_29_50_059173",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78ed4ef4356b4bceb72d348781d0281c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875790&x-signature=lPFpfgTfDArxmxgmRprIGTYNvqM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/78ed4ef4356b4bceb72d348781d0281c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875790&x-signature=8hXI5B0G5hzj57Q3c9YTYZiwAV0%3D",
+          "file_name": "file_20240319_01_29_50_121935",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875790&x-signature=8hXI5B0G5hzj57Q3c9YTYZiwAV0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875790&x-signature=%2FxzL5gzDFunXfrXqCP7c0IWpfIE%3D",
+          "file_name": "file_20240319_01_29_50_122004",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875790&x-signature=%2FxzL5gzDFunXfrXqCP7c0IWpfIE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Basic"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

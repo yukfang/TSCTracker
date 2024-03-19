@@ -1,0 +1,338 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Κατερίνα Σάκκουλα",
+  "create_time": 1705924724,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706093343,
+      "auto_close_hit": 0,
+      "id": 7327614857493135000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kim,</p><p><br /></p><p>Thank you for reaching out.</p><p><br /></p><ol><li>Frozen catalog: All three catalogs have been set to a frozen state - i.e. automatic feed uploads have been paused - since the client has not used them in an active campaign for more than 28 days. As a result, there are products missing from the catalog, which is  affecting the match rate. Please find below the 'last updated' dates for each catalog:</li></ol><ul><ul><li>UK Catalog: 2023-12-26</li><li>DE Catalog: 2023-10-27</li><li>FR Catalog: 2023-10-30</li></ul></ul><p>Please ask the client to manually trigger a feed upload for each through following the steps below:</p><img alt=\"Screenshot 2024-01-24 at 10.29.03.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png\" height=\"142.657\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833428&amp;x-signature=grSi1rMJLsMBEOmz39ZJrjRYL1c%3D\" width=\"375\"><p>The client may want to update their Upload Method to 'Replace Feed' in order to avoid keeping old products that may no longer exist on their website. They may find the below section under Product Sources &gt; click on the Source &gt; Settings &gt; Edit:</p><img alt=\"Screenshot 2024-01-24 at 10.48.02.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png\" height=\"289.376\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833428&amp;x-signature=TkKl9oA83KG78uBgTGeyyNZ3CEw%3D\" width=\"375\"><p><br /></p><ol><li>Multi-Country catalog, Global Pixel: The client is using the same Pixel ID: C1O3SDUHLSU5AAHCG8QG across all markets, but the catalogs are split on a country-level. We can see that the same SKU ID and SPU IDs are used across all regions, and therefore there are no issues with the Pixel or Catalog setup, however; there may be cases where one market is missing items that exist on another market, therefore not allowing the match rates to reach to 100% match rates.</li></ol><p><br /></p><p>Best,</p><p>Katerina</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706093582,
+      "auto_close_hit": 0,
+      "id": 7327615785667412000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><strong>[Feedback]</strong> Match rates below 70% due to frozen catalog status. Global Pixel with multi-catalog set up: the client uses the same SKU ID/SPU IDs across all catalogs and Pixel, therefore this setup does not affect  match rates.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706193985,
+      "auto_close_hit": 0,
+      "id": 7328047046198378000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kim Nguyen772",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6961314876136637442",
+      "name": "Kim Nguyen772",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks so much for the feedback, I&#39;ll relay this to the client</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/8621ec53-d53f-4b61-b22e-2aed206cebcg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1830292,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "katerina.sakkoula@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Dr. Martens - Low match rate",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/8621ec53-d53f-4b61-b22e-2aed206cebcg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1706193990,
+  "owner_name": "Kim Nguyen772",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "6961314876136637442",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Kim Nguyen",
+  "follow_employee_id": 9295306,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 4575438,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Dr. Martens - Low match rate",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Dr. Martens",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-GB",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "6999617557258829825",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-22",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Hi team,\n\nI noticed the match rate is lower than 70%. Could you advise on how the client can fix this?\n\nCatalog links:\nUK: https://ads.tiktok.com/catalogs/event-sources?id=7013189659597489922&bc_id=6947962162719522818&path=event-sources-detail&app_id=6949118855524433922\n\nDE: https://ads.tiktok.com/catalogs/event-sources?id=7141315682406287105&bc_id=6947962162719522818&path=event-sources-detail&app_id=6949118855524433922\n\nFR: https://ads.tiktok.com/catalogs/event-sources?id=7141316283378714370&bc_id=6947962162719522818&path=event-sources-detail&app_id=6949118855524433922\n",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833428&x-signature=grSi1rMJLsMBEOmz39ZJrjRYL1c%3D",
+          "file_name": "file_20240318_13_43_48_270724",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833428&x-signature=grSi1rMJLsMBEOmz39ZJrjRYL1c%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833428&x-signature=TkKl9oA83KG78uBgTGeyyNZ3CEw%3D",
+          "file_name": "file_20240318_13_43_48_270789",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833428&x-signature=TkKl9oA83KG78uBgTGeyyNZ3CEw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

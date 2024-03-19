@@ -1,0 +1,603 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Heidi Williams",
+  "create_time": 1708460210,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1708536411,
+      "auto_close_hit": 0,
+      "id": 7338107048061665000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Hailey, acknowledging receipt of this ticket. I will investigate now and get back to you as soon as I can.</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708629214,
+      "auto_close_hit": 0,
+      "id": 7338505673572942000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Hailey,</p><p><br /></p><p>Checking <a href=\"https://ads.tiktok.com/catalogs/overview?id=7322881431863117569&amp;bc_id=7058019524053942273&amp;app_id=7058021113762168833\" target=\"_blank\">catalog id 7322881431863117569</a><span style=\"color: #333333;\"> </span>for <a href=\"https://bruntworkwear.com/\" target=\"_blank\">Brunt</a> I see the match rates for ViewContent (80%) and AddToCart (66%) are pretty good, while CompletePayment is excellent (96%):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png\" height=\"195.091\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838152&amp;x-signature=8nQGUjW3LM381fLbjYxa0NQvWN4%3D\" width=\"375\"><p>I also see the trajectory for event matching across events has vastly increased in the last week or so (see <a href=\"https://ads.tiktok.com/catalogs/event-sources?id=7322881431863117569&amp;bc_id=7058019524053942273&amp;path=event-sources-detail&amp;app_id=7058021113762168833\" target=\"_blank\">Event sources tab</a>):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0067093b7df1490d853052384368552b.png\" height=\"192.582\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0067093b7df1490d853052384368552b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838152&amp;x-signature=lfqGb4hhmfgcmccvRw97dfX3%2FAM%3D\" width=\"375\"><p>This is a great sign and we should continue to monitor their progress for ViewContent and AddToCart.</p><p><br /></p><p>I see a couple of issues the client should address:</p><p>The ViewContent and AddToCart events are firing twice</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png\" height=\"198.264\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838152&amp;x-signature=AJQCy42f6OWZdCauYM76KEojmyU%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png\" height=\"185.717\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838152&amp;x-signature=ROa2ZYU7%2F3ONyOIKU%2BTe1vZcev0%3D\" width=\"375\"><p>they should check their setup and make sure they do not have the events set to fire from two different places. </p><p><br /></p><p>Searching to make sure the products on the web site are also in the Catalog, I see some of the items on the site are not in Catalog, <a href=\"https://bruntworkwear.com/products/the-martin-pant-pack-2ch1br?variant=43074596733086\" target=\"_blank\">example</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c352547db6c74cfebaf39a034ce2e6e3.png\" height=\"193.036\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c352547db6c74cfebaf39a034ce2e6e3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838152&amp;x-signature=q%2Bprr3QlrailfLeBzpFRfixvQjc%3D\" width=\"375\"><p>They should update their catalog to make it is synced, and that will help match rates.</p><p><br /></p><p>Please let me know if there are further questions, and thanks for your patience!</p><p><br /></p><p>Heidi</p></img></img></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709327414,
+      "auto_close_hit": 0,
+      "id": 7341504134073418000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Hailey Bartholomew",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7148033356045976578",
+      "name": "Hailey Bartholomew",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi, really appreciate the feedback! I relayed this all to the client and they had a few follow ups regarding the pixel specifically, if you&#39;re able to help with that.&nbsp;</p><p><br></p><ol><li>it looks like the VC and ATC events started double firing when they added their pixel back and now their team is recommending that they turn off the pixel through the TikTok app in shopify. Is this recommended/how could this impact the catalog? more details are in the screen shots I added</li><li>I know we aren&#39;t able to test complete payment unless they give us a code, but is it safe to assume that the complete payment events were double firing as well?</li></ol><p><br></p><p>Thanks!</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screenshot 2024-03-01 at 3.07.09 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=iMbokqq0m4XEsBf1OXv6WACj3I8%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=iMbokqq0m4XEsBf1OXv6WACj3I8%3D",
+              "biz_type": 2,
+              "size": 430478
+            },
+            {
+              "file_type": "png",
+              "file_name": "Screenshot 2024-03-01 at 3.08.14 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=gncokmbOj3aTyYo9YYW1T5OhkLw%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=gncokmbOj3aTyYo9YYW1T5OhkLw%3D",
+              "biz_type": 2,
+              "size": 95124
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_98c53adb-76c3-42d6-8b79-6781aab47e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709743686,
+      "auto_close_hit": 0,
+      "id": 7343292662348382000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Hailey, sorry, I did not see your reply! I have a meeting then I will get to this as soon as that is done.</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709758038,
+      "auto_close_hit": 0,
+      "id": 7343353022174560000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Hailey, </p><p><br /></p><p>I see they are using Elevar as well as Shopify. Could you please confirm they did not create the pixel using the Shopify method? Per the documentation here, when using Elevar, the pixel should not be created by the Shopify method:</p><p><a href=\"https://docs.getelevar.com/docs/how-to-configure-tiktok-events-api-via-elevar-server-side-destination\" target=\"_blank\">https://docs.getelevar.com/docs/how-to-configure-tiktok-events-api-via-elevar-server-side-destination</a></p><p>I would not recommend they remove the pixel from the Shopify implementation. </p><p><br /></p><p>Regarding the concerns that CompletePayment events are firing multiple times as well, I pulled data for 5k events over the last two days, and I was not able to find any duplicate timestamps indicating this is the case:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/65873f8195644876b5b0ef5cbc94ce54.png\" height=\"82.627\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/65873f8195644876b5b0ef5cbc94ce54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838153&amp;x-signature=E7QqDX4igz8CKQv5ZX9Pah1NQbk%3D\" width=\"375\"><p>I would also expect to find that other match points, like Email, would repeat for those transactions, but I did not see that, either.</p><p><br /></p><p>With regards to the catalog, I see that the match rate has greatly increased in the last week or so:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/dc63d3cbf14d4463a31a270e8fa1c9c9.png\" height=\"214.286\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc63d3cbf14d4463a31a270e8fa1c9c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838153&amp;x-signature=ikmFDgiu%2BrHHh1u8UA3ajYNNLQA%3D\" width=\"375\"><p>For now, everything looks good with the catalog and the signals (browser- and server-side), with the exception of the event multiple fires. Let me investigate the issue further with my team and update you later on today.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709832647,
+      "auto_close_hit": 0,
+      "id": 7343674523880849000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Hailey Bartholomew",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7148033356045976578",
+      "name": "Hailey Bartholomew",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>This is super helpful, thank you! They did not create the &#34;BRUNT workwear pixel&#34; through shopify, but they did link that one to their shopify during shopify set up.&nbsp;</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screenshot 2024-03-07 at 11.26.43 AM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=S8ds3NILp3tWdR517NoAgdN5H%2F8%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=S8ds3NILp3tWdR517NoAgdN5H%2F8%3D",
+              "biz_type": 2,
+              "size": 92908
+            },
+            {
+              "file_type": "png",
+              "file_name": "Screen Shot 2024-03-01 at 2.38.14 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=bSdE3JxxBk851d85IPZAEGXUxow%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=bSdE3JxxBk851d85IPZAEGXUxow%3D",
+              "biz_type": 2,
+              "size": 398304
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_98c53adb-76c3-42d6-8b79-6781aab47e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709923869,
+      "auto_close_hit": 0,
+      "id": 7344064768761741000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Hailey Bartholomew",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7148033356045976578",
+      "name": "Hailey Bartholomew",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi heidi, I wanted to send more context and another question the client sent me:</p><p><br></p><p><span style=\"color: #1F2329;\">&#34;I confirmed that we also fired twice on checkouts. But is it possible that the events could have been deduped on TT’s end? Maybe you could ask support that question. Because if that’s the case then it shouldn’t effect performance once we remove the connection through the Tik Tok app.&#34;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_98c53adb-76c3-42d6-8b79-6781aab47e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710258827,
+      "auto_close_hit": 0,
+      "id": 7345503510944891000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Hailey Bartholomew",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7148033356045976578",
+      "name": "Hailey Bartholomew",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi, just wanted to bump my last message!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_98c53adb-76c3-42d6-8b79-6781aab47e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1888952,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "heidi.williams@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Brunt - catalog",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_98c53adb-76c3-42d6-8b79-6781aab47e4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1710258827,
+  "owner_name": "Hailey Bartholomew",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7148033356045976578",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Hailey Bartholomew",
+  "follow_employee_id": 5710207,
+  "is_order_top": 0,
+  "urged": 1,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1016115,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Brunt - catalog",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Shopify",
+      "valid": true,
+      "key": "Shopify",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Brunt Workwear",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "7058042767787769858",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-20",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "New catalog integation",
+      "valid": true,
+      "key": "New catalog integation",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Hi there, we're trying to get this client to run VSA, can you QA their catalog and let us know what needs to be fixed in order to launch? thanks!\n\nBC ID: 7058019524053942273\nCatalog ID: 7322881431863117569",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=ROa2ZYU7%2F3ONyOIKU%2BTe1vZcev0%3D",
+          "file_name": "file_20240318_15_02_32_994091",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=ROa2ZYU7%2F3ONyOIKU%2BTe1vZcev0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c352547db6c74cfebaf39a034ce2e6e3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=q%2Bprr3QlrailfLeBzpFRfixvQjc%3D",
+          "file_name": "file_20240318_15_02_32_994161",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c352547db6c74cfebaf39a034ce2e6e3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=q%2Bprr3QlrailfLeBzpFRfixvQjc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c352547db6c74cfebaf39a034ce2e6e3.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0067093b7df1490d853052384368552b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=lfqGb4hhmfgcmccvRw97dfX3%2FAM%3D",
+          "file_name": "file_20240318_15_02_32_994184",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0067093b7df1490d853052384368552b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=lfqGb4hhmfgcmccvRw97dfX3%2FAM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0067093b7df1490d853052384368552b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=AJQCy42f6OWZdCauYM76KEojmyU%3D",
+          "file_name": "file_20240318_15_02_32_994199",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=AJQCy42f6OWZdCauYM76KEojmyU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=8nQGUjW3LM381fLbjYxa0NQvWN4%3D",
+          "file_name": "file_20240318_15_02_32_994213",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=8nQGUjW3LM381fLbjYxa0NQvWN4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-01 at 3.07.09 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=iMbokqq0m4XEsBf1OXv6WACj3I8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=iMbokqq0m4XEsBf1OXv6WACj3I8%3D",
+          "biz_type": 2,
+          "size": 430478
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-01 at 3.08.14 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=gncokmbOj3aTyYo9YYW1T5OhkLw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=gncokmbOj3aTyYo9YYW1T5OhkLw%3D",
+          "biz_type": 2,
+          "size": 95124
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc63d3cbf14d4463a31a270e8fa1c9c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=ikmFDgiu%2BrHHh1u8UA3ajYNNLQA%3D",
+          "file_name": "file_20240318_15_02_33_158674",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc63d3cbf14d4463a31a270e8fa1c9c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=ikmFDgiu%2BrHHh1u8UA3ajYNNLQA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/dc63d3cbf14d4463a31a270e8fa1c9c9.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/65873f8195644876b5b0ef5cbc94ce54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=E7QqDX4igz8CKQv5ZX9Pah1NQbk%3D",
+          "file_name": "file_20240318_15_02_33_158743",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/65873f8195644876b5b0ef5cbc94ce54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=E7QqDX4igz8CKQv5ZX9Pah1NQbk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/65873f8195644876b5b0ef5cbc94ce54.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-07 at 11.26.43 AM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=S8ds3NILp3tWdR517NoAgdN5H%2F8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=S8ds3NILp3tWdR517NoAgdN5H%2F8%3D",
+          "biz_type": 2,
+          "size": 92908
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-03-01 at 2.38.14 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=bSdE3JxxBk851d85IPZAEGXUxow%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=bSdE3JxxBk851d85IPZAEGXUxow%3D",
+          "biz_type": 2,
+          "size": 398304
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

@@ -1,0 +1,321 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497211543601",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_0162c1d8-09aa-4ff3-8f25-99db332d7bhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "فانيسا شربل نجم)",
+  "create_time": 1708446193,
+  "deadline": 0,
+  "archive_board_id": 1705151646989665,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1708463334,
+      "auto_close_hit": 0,
+      "id": 7337793361962779000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "فانيسا شربل نجم",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7163931413875328002",
+      "name": "فانيسا شربل نجم",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Nadine,</p><p><br /></p><p>Thank you for reaching out. Here are the steps to creating a new app:</p><ul><li>In the TTEM for app, when creating the app, you have to enter the appstore link to capture the app.</li></ul><p><br /></p><img alt=\"Screenshot 2024-02-21 at 01.02.39.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png\" height=\"268.681\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838139&amp;x-signature=930xBMqQiBY2KYJBZp%2FMJNexnLQ%3D\" width=\"375\"><p><br /></p><p><br /></p><ul><li>Choose the MMP</li></ul><p><br /></p><img alt=\"Screenshot 2024-02-21 at 01.03.06.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d2945d1265574af8866b042c87f2a1cd.png\" height=\"281.456\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2945d1265574af8866b042c87f2a1cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838139&amp;x-signature=FE7me%2FiaTpmbqdGiXMiEFHSq0j8%3D\" width=\"375\"><p><br /></p><p><br /></p><ul><li>Now the TikTok for Business (legacy) doesn't seem available. They'll have to implement TikTok For Business (SRN) which refers to the self-attribution TikTok does. In this case, no attribution tracking urls are required, because the attribution is done from TikTok side.</li></ul><p><br /></p><img alt=\"Screenshot 2024-02-21 at 01.03.25.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png\" height=\"281.456\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838139&amp;x-signature=l4%2Fzlx7QSbpQqXwWzTALb1ehQDM%3D\" width=\"375\"><p><br /></p><p><br /></p><p>In order to enable the TT for Business SRN, I think you have to allowlist them.</p><p><br /></p><p>If you have more specific questions about allowlisting for SAN or SRN, please raise a ticket for TPS team here:</p><p><a href=\"https://ads.tiktok.com/athena/requester/boards?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456\" target=\"_blank\">Athena Internal Tickets Link</a></p><p><br /></p><p>Thanks!</p></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_0162c1d8-09aa-4ff3-8f25-99db332d7bhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1888611,
+  "workflow_nodes": [],
+  "board_id": 1705151646989665,
+  "employee_email": "vanessa.najem@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "HSBC - Tracking organic traffic",
+  "category_1_name": "Mobile Marketing Partner (MMP)",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_008s_8cadfbf7-931c-4435-a21b-bc4a4e1fefhu~?image_size=noop&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1708463450,
+  "owner_name": "Nadine Wurster",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Mobile Marketing Partner (MMP)",
+  "archive_category_1": "1736497211543601",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497211543601",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [],
+      "value": "Mobile Marketing Partner (MMP)"
+    }
+  ],
+  "core_user_id": "6836656108430787590",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Nadine Wurster",
+  "follow_employee_id": 8397383,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2310689,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "HSBC - Tracking organic traffic",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "HSBC",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Finance",
+      "valid": true,
+      "key": "Finance",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-GB",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6985475418144931841"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "@James Bowyer",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "N/A",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.hsbc.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Mobile Measurement Partner (MMP)",
+      "valid": true,
+      "key": "Mobile Measurement Partner (MMP)",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-20",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "looking for help to answer a HSBC question: we are looking to add appflyer tracking links to the URLs that are being used on our tiktok page in order to track organic activities. in the platform, it specifically asks for appstore links. can you advise on whether we can add in our own appsflyer links to track organic installs?\n\n",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838139&x-signature=l4%2Fzlx7QSbpQqXwWzTALb1ehQDM%3D",
+          "file_name": "file_20240318_15_02_19_782839",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838139&x-signature=l4%2Fzlx7QSbpQqXwWzTALb1ehQDM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2945d1265574af8866b042c87f2a1cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838139&x-signature=FE7me%2FiaTpmbqdGiXMiEFHSq0j8%3D",
+          "file_name": "file_20240318_15_02_19_782899",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2945d1265574af8866b042c87f2a1cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838139&x-signature=FE7me%2FiaTpmbqdGiXMiEFHSq0j8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d2945d1265574af8866b042c87f2a1cd.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838139&x-signature=930xBMqQiBY2KYJBZp%2FMJNexnLQ%3D",
+          "file_name": "file_20240318_15_02_19_782924",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838139&x-signature=930xBMqQiBY2KYJBZp%2FMJNexnLQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Mobile Measurement Partner (MMP)-Mobile Marketing Partner (MMP)"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

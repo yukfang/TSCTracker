@@ -1,0 +1,811 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Heidi Williams",
+  "create_time": 1707762834,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707773475,
+      "auto_close_hit": 0,
+      "id": 7334829646866858000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Josh,</p><p><br></p><p>Acknowledging receipt of this ticket. I will investigate and let you know what I find asap.</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707774251,
+      "auto_close_hit": 0,
+      "id": 7334832914267505000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joshua.bush@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Josh Bush",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7198627218880250882",
+      "name": "Josh Bush",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Heidi!</p><p><br></p><p>I&#39;m waiting on the client to share screenshots of what they are seeing.</p><p><br></p><p>Josh</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_c964753b-8a3e-408d-bc60-6c40d9e04b0h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707774423,
+      "auto_close_hit": 0,
+      "id": 7334834524263629000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joshua.bush@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Josh Bush",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7198627218880250882",
+      "name": "Josh Bush",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>See attached screenshot of events from the last two weeks.</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "image001.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=gg2AYD9g4l60pdQG48Bi4LljsBE%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=gg2AYD9g4l60pdQG48Bi4LljsBE%3D",
+              "biz_type": 2,
+              "size": 200062
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_c964753b-8a3e-408d-bc60-6c40d9e04b0h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707863381,
+      "auto_close_hit": 0,
+      "id": 7335215747607691000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Josh! Taking a look now and will update you shortly.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707868762,
+      "auto_close_hit": 0,
+      "id": 7335238340867916000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Josh,</p><p><br /></p><p>It's hard for me to tell from the attached screen shot:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/89f7c456836d47fab5d2dacd17f2373d.png\" height=\"258.675\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/89f7c456836d47fab5d2dacd17f2373d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837925&amp;x-signature=9hFBnHm3t2EAPIWBErSJvU1mX9Y%3D\" width=\"375\"><p>what the dates are that I need to look at to find a discrepancy. Also, for the TikTok pixel, I am only seeing the 'form' event firing (in addition to PageView, which I don't include in my report):</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/216a231c902342da860282a4e1706754.png\" height=\"143.407\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/216a231c902342da860282a4e1706754.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837925&amp;x-signature=Ro776jhJTuMeDm3X%2FQrOLbyF8gM%3D\" width=\"375\"><p>if you could give me a date range, and how many 'form' events the external analytics are reporting vs. the number TikTok is reporting, I can escalate this to our data team and have them take a closer look. Also, please let me know what the external platform Unlock is using, in case that helps the team investigate.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707929962,
+      "auto_close_hit": 0,
+      "id": 7335502312196145000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lauren.ponce@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lauren Ponce",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7011422170112263170",
+      "name": "Lauren Ponce",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Heidi! </p><p><br></p><p>Client got back to us and noted:&nbsp;</p><p>&#34;<span style=\"color: #222222;\">As far as the data, that was a 2 week look back and we are talking about the server-to-server integration, not the pixel. &nbsp;The chart below is how we have the Tiktok events mapped to our internal funnel events.&nbsp; Our integration with Tiktok is setup through Segment.&#34;</span></p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "image001 (2).png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=R38LNBrt67TSTEj%2FuCFd%2F5qUJck%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=R38LNBrt67TSTEj%2FuCFd%2F5qUJck%3D",
+              "biz_type": 2,
+              "size": 125733
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707939168,
+      "auto_close_hit": 0,
+      "id": 7335541076364689000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lauren.ponce@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lauren Ponce",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7011422170112263170",
+      "name": "Lauren Ponce",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>They also added this:&nbsp;</p><p><br></p><p>&#34;<span style=\"color: #222222;\">The question that we have is around reporting and trying to understand what is showing in the TikTok dashboard vs what we are seeing internally has nothing to do with the pixel.&nbsp; We should be relying 100% on the server-to-server events that we setup.&nbsp; I have attached how we map our internal funnel events to the events in TikTok below.&nbsp; The report that I sent before was from Segment and showed the number of events that we sent to TikTok over a 2-week period and was the total number of funnel events.</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">Just to be clear, we also don’t know if there is an actual discrepancy or if the TikTok dashboard is just looking at the data from a different angle (which is where I am leaning).&nbsp; What we need to know is confirmation that the server-to-server events are being applied correctly and the count of conversions that are view-through vs click-through. &#34;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707941080,
+      "auto_close_hit": 0,
+      "id": 7335549975008510000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lauren,</p><p><br></p><p>Could you please ask the Unlock team if they can send a few request ids from Segment (one id per event they have set up in Segment should suffice). I can take a look and make sure nothing is being lost on our end when it comes to attribution.</p><p><br></p><p>I would rather do this step before we get on a call, because it may be something I need to escalate, in which case real-time troubleshooting will only accomplish so much.&nbsp;</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708016031,
+      "auto_close_hit": 0,
+      "id": 7335872638515937000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lauren.ponce@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lauren Ponce",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7011422170112263170",
+      "name": "Lauren Ponce",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi,&nbsp;</p><p><br></p><p>They client is asking what you mean by segment ids! I&#39;m going to make a lark group just in a sec bc we just got off the phone with them!&nbsp;</p><p><br></p><p>Best,</p><p>Lauren</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/b7d60217-5a28-4285-bb11-618a30f148bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708022124,
+      "auto_close_hit": 0,
+      "id": 7335897983491260000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lauren,&nbsp;</p><p><br></p><p>They would be &#39;request_id&#39;. It is the id attached to each  action in the Segment logs. If I have that id, I can search for it on our side and get a view into the entire request and response.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708560006,
+      "auto_close_hit": 0,
+      "id": 7338138108564652000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Josh, after our call I passed this guide on to Lauren for the client (attached). This should address their concerns for now, but if you need anything else lmk. Will keep this ticket open until tomorrow.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "pdf",
+              "file_name": "Attribution Analytics_ Performance Comparison [Unlock Technologies Inc].pdf",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf?lk3s=cbe26b3a&x-expires=4832837925&x-signature=n30H3wYSSDcMcbscS7ItbFrMkw8%3D",
+              "file_key": "tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf?lk3s=cbe26b3a&x-expires=4832837925&x-signature=n30H3wYSSDcMcbscS7ItbFrMkw8%3D",
+              "biz_type": 2,
+              "size": 1196745
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1871687,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "heidi.williams@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Events Matching Discrepancy",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_c964753b-8a3e-408d-bc60-6c40d9e04b0h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1710179164,
+  "owner_name": "Josh Bush",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7198627218880250882",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Josh Bush",
+  "follow_employee_id": 5710207,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 594761,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Events Matching Discrepancy",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Omneky",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Ecommerce",
+      "valid": true,
+      "key": "Ecommerce",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7233796509702111233"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "APM - Josh Bush, BPM - Lauren Ponce",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "7023092425556017153",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CHHPQABC77U1H95PSUI0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.unlock.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-12",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "We are seeing a discrepancy in Web Events tracked by Unlock's pixel and what their internal systems are reporting. Please advise, TT pixel is significantly underreporting.",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "image001.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=gg2AYD9g4l60pdQG48Bi4LljsBE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=gg2AYD9g4l60pdQG48Bi4LljsBE%3D",
+          "biz_type": 2,
+          "size": 200062
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/89f7c456836d47fab5d2dacd17f2373d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=9hFBnHm3t2EAPIWBErSJvU1mX9Y%3D",
+          "file_name": "file_20240318_14_58_45_283007",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/89f7c456836d47fab5d2dacd17f2373d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=9hFBnHm3t2EAPIWBErSJvU1mX9Y%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/89f7c456836d47fab5d2dacd17f2373d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/216a231c902342da860282a4e1706754.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=Ro776jhJTuMeDm3X%2FQrOLbyF8gM%3D",
+          "file_name": "file_20240318_14_58_45_283067",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/216a231c902342da860282a4e1706754.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=Ro776jhJTuMeDm3X%2FQrOLbyF8gM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/216a231c902342da860282a4e1706754.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "image001 (2).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=R38LNBrt67TSTEj%2FuCFd%2F5qUJck%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=R38LNBrt67TSTEj%2FuCFd%2F5qUJck%3D",
+          "biz_type": 2,
+          "size": 125733
+        },
+        {
+          "file_type": "pdf",
+          "file_name": "Attribution Analytics_ Performance Comparison [Unlock Technologies Inc].pdf",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf?lk3s=cbe26b3a&x-expires=4832837925&x-signature=n30H3wYSSDcMcbscS7ItbFrMkw8%3D",
+          "file_key": "tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf?lk3s=cbe26b3a&x-expires=4832837925&x-signature=n30H3wYSSDcMcbscS7ItbFrMkw8%3D",
+          "biz_type": 2,
+          "size": 1196745
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

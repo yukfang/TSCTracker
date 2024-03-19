@@ -1,0 +1,618 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354674",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Thomas Mei",
+  "create_time": 1705957354,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706051899,
+      "auto_close_hit": 0,
+      "id": 7327434633384182000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kayla,</p><p><br></p><p>Seems like your client wants a review of their browser Pixel setup. I will take a look and revert back to you shortly with some notes.&nbsp;</p><p><br></p><p>Regards,</p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706192162,
+      "auto_close_hit": 0,
+      "id": 7328038762372530000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kayla.mackenzie@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kayla Mackenzie151",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7233451881711371266",
+      "name": "Kayla Mackenzie151",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Thomas,</p><p><br></p><p>Thank you! We&#39;re meeting with the client today at 3:30pm EST - is it possible to receive an update before then? If not please let me know and I can manage client expectations.&nbsp;<br><br>Thanks again!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_d3ad2fd2-b224-4f60-ae51-6e854d15d0hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706203233,
+      "auto_close_hit": 0,
+      "id": 7328086618647052000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kayla,</p><p><br></p><p>I&#39;ve taken a look at their website/events manager and here are my notes:</p><ul><li>It appears the pageview event only loads on the homepage. Is this intentional on their part?&nbsp;</li><li>It seems they use the view content event as more of a pageview event. It seems to fire on all pages and also triggers on actions like opening the cart. Also curious as to why/how they have this designed.&nbsp;</li><li>All of their Pixel events seem to be &#34;empty&#34; in the sense that we aren&#39;t receiving any of the contents parameters i.e. content_id, content_type, value, currency, etc.&nbsp;</li><li>Similarly we are not receiving any user data on the lower funnel events like Place an Order and Complete Registration. User data helps us perform attribution and improve targeting/ad efficiency.</li></ul><p><br></p><p>Without an in depth understanding of why they have events set up the way they do, here would be my recommendations:</p><ul><li>Configure the pageview event to fire on all pages</li><li>Pass back contents parameters for all events which would enable VSA (content_id, content_type, price, currency, value)</li><li>Configure a &#34;Complete Payment&#34; event for checkouts. Complete Payment events can be used for Value Based Optimization campaigns (CPA) and also enable ROAS reporting. Other Pixel events do not enable those two advertising features.&nbsp;</li><li>Pass back email/phone numbers for the lower funnel events i.e. Place an Order, Complete Registration and Complete Payment (if they configure one)</li></ul><p><br></p><p>Regards,</p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706204984,
+      "auto_close_hit": 0,
+      "id": 7328094015520326000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kayla.mackenzie@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kayla Mackenzie151",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7233451881711371266",
+      "name": "Kayla Mackenzie151",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you Thomas! I will provide the below feedback back to the client and follow up here with questions or next steps.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_d3ad2fd2-b224-4f60-ae51-6e854d15d0hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707346185,
+      "auto_close_hit": 0,
+      "id": 7332995324031549000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Client call scheduled for Feb 8th to discuss recommendations.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707500353,
+      "auto_close_hit": 0,
+      "id": 7333656850832818000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Client call notes 2/8</p><ul><li>Explained the purpose of the content_id and content_type parameters which are to enable VSA. Client team indicated they had interest in trying out this feature and will likely add contents parameters to View Content and Add to Cart events</li><li>Client had questions on how to pass back multiple products within the same event and what the limit may be.&nbsp;</li><li>We also discussed the roadblocks to passing back user data via advanced matching: they are working internally on legal approval to enable user data passback to all platforms and not just TikTok (Meta, etc.)</li><li>Proposed sending back member id&#39;s in a hashed format in external IDs for additional user matching in light of not being able to pass back user data in the time being</li><li>Also discussed if th ere was a way to pass back external IDs in an audience list to provide an additional match key (not possible currently)</li><li>We discussed the potential cadence of regular audience uploads to keep lists up to date to reflect filtering out unsubscribers, people who opt out, as well as adding new members</li><li>Next steps on TikTok&#39;s side:&nbsp;</li><ul><li>Send GTM Browser Template to Voila team for consideration</li><li>Send documentation on event parameters</li><ul><li>Setup for passing multiple items</li></ul></ul></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707864026,
+      "auto_close_hit": 0,
+      "id": 7335217414675743000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Sent a follow up email on 2-9 with promised documentation and notes:</p><p><br></p><p>---</p><p><br></p><p><span style=\"color: #1F2329;\">Hello Yousuf,</span></p><p><span style=\"color: #1F2329;\">Thank you for joining the call yesterday to discuss your browser Pixel implementation plans. I do not see Jeremy on this email chain&nbsp;so please forward him the email for reference.&nbsp;</span></p><p><br></p><p><span style=\"color: #1F2329;\">Here are the follow up items that were promised:</span></p><ul><li><span style=\"color: #1F2329;\"><strong>Google Tag Manager Browser Template</strong>&nbsp;- </span><span style=\"color: #1456F0;\"><a target=\"_blank\" href=\"https://ads.tiktok.com/help/article/get-started-google-tag-manager?lang=en\">https://ads.tiktok.com/help/article/get-started-google-tag-manager?lang=en</a></span><br></li><ul><li><span style=\"color: #1F2329;\">I recall you were considering using our official template and it is linked above</span></li></ul><li><span style=\"color: #1F2329;\"><strong>TikTok Pixel Events Parameters</strong>&nbsp;- </span><span style=\"color: #1456F0;\"><a target=\"_blank\" href=\"https://business-api.tiktok.com/portal/docs?rid=5ipocbxyw8v&amp;id=1739585702922241\">https://business-api.tiktok.com/portal/docs?rid=5ipocbxyw8v&amp;id=1739585702922241</a></span><br></li><ul><li><span style=\"color: #1F2329;\">In the &#34;Adding parameters to event code&#34; section there is a code example of an &#34;Add to Cart&#34; event with multiple products.&nbsp;</span></li><li><span style=\"color: #1F2329;\">The accepted method of passing multiple products is passing the products as objects within the Contents array. The summed value of all items should be passed as its own value parameter outside of the objects. content_type is also passed as a parameter within the Contents array. For more details, please reference the image below.&nbsp;</span></li></ul><li><span style=\"color: #1F2329;\"><strong>External Id passback in Audience Segments</strong>&nbsp;- we have checked and this is currently not a column you can pass back for Audience Uploads. I certainly jumped the gun when I suggested the idea and I apologize for misspeaking. We will make this feature request as this would be a potential path to increasing user match&nbsp;without receiving user data through a browser Pixel or Events API</span></li></ul><p><span style=\"color: #1F2329;\">Please let me know if there was something I missed from our discussion or if you have any questions. Happy to support you as you improve your browser Pixel setup.&nbsp;</span></p><p><br></p><p><span style=\"color: #1F2329;\">Regards,</span></p><p><span style=\"color: #1F2329;\">Thomas</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1831460,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "thomas.mei@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Pixel Audit Request",
+  "category_1_name": "Basic",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_d3ad2fd2-b224-4f60-ae51-6e854d15d0hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1707864026,
+  "owner_name": "Kayla Mackenzie151",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Basic",
+  "archive_category_1": "1736497459354674",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7233451881711371266",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Kayla Mackenzie",
+  "follow_employee_id": 2819808,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2904805,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Pixel Audit Request",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Voila by Sobeys",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-CA",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7312101490313674753"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Sunny Yuen - BPM, Kayla Mackenzie - CSM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "7267993493014953986",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CM0TNU3C77UCL6FR5OGG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://voila.ca/?utm_source=tiktok&utm_medium=paidsocial&utm_campaign=CFC1_prospecting&utm_content=championvideos_oneoffs__video__&ttclid=E.C.P.Preview_UVJFHPsMbs9KMN3zo7anjTepu1rOkoIubWO0CX3x1c4s7aSDMS7sLgZMoPWa"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-22",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hi there,\n\nOur client has requested a pixel audit we're hoping the team can assist with. This was a new ad account they have set up and is under Key Accounts. With the new ad account, they have set up a new pixel. Before we move forward with eAPI implementation in Q2, the client has asked for a full pixel audit to make any revisions necessary as well as ensure their live campaign is set up for success. They are looking to have some details they can bring to their dev team to resolve any errors. As well as set up a meeting with our MPO team and their dev team to review these errors and resolutions. Thank you!\n",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-01-22 at 4.01.49 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4d7f16c22fa4648b4733fa20221f303.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832830&x-signature=nmK02QjaPfjHyiN5tkx6t3RD0S8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f4d7f16c22fa4648b4733fa20221f303.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4d7f16c22fa4648b4733fa20221f303.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832830&x-signature=nmK02QjaPfjHyiN5tkx6t3RD0S8%3D",
+          "size": 246030
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Basic"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

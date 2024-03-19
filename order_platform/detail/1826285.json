@@ -1,0 +1,706 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Armando Carmona Blanco",
+  "create_time": 1705699755,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1705948173,
+      "auto_close_hit": 0,
+      "id": 7326990614015345000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Iris Shalev",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7148047932003042000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Iris,</p><p>Confirming receipt of your ticket. Please see comments below.</p><ul><li><span style=\"color: #333333;\"><em>I see that the conversion event Initiate Checkout and Place an Order are both firing on site, but they are not showing conversions in Ads Manager.</em></span></li></ul><p>Are you able provide a little more context with regards to their setup? When you say &#34;not showing conversions,&#34; are you referring to the CompletePayment event? Does the advertiser take payment online?</p><ul><li><span style=\"color: #333333;\"><em>If the pixel fires on site, I’m wondering if a bug is preventing it from showing in platform. It’s been this way since December.</em></span></li></ul><p>It may be possible that there could be something preventing the event from firing, or the event itself was never implemented. The only way to know for sure is by QAing the setup jointly with their team.</p><p>I recommend scheduling a call with the advertiser to QA their implementation. Please <a target=\"_blank\" href=\"https://bytedance.larkoffice.com/scheduler/73e856441d0bf383\">use my link</a> to schedule the call (not to be shared with advertiser), it has my most updated availability.</p><p>Let me know if there are any questions on the above.</p><p>Best,<br>Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706556701,
+      "auto_close_hit": 0,
+      "id": 7329603758088847000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "iris.shalev@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Iris Shalev",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7148047932003042306",
+      "name": "Iris Shalev",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Armando - following up on our call from the other day - let me know if you need anything else :)</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0072_fc9ae75c-c3cb-4802-a47e-976fd70e492h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706569831,
+      "auto_close_hit": 0,
+      "id": 7329659697215160000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Iris!</p><p>Thank you for following up on this!</p><p>Apologies, I thought I had replied to this but I see I never finalized my reply ?. See response below.</p><p>From the screen share session from last week, it seems the goal was to get the new events to reflect on their reporting tab.  I took a look at their account and we are receiving events correctly. At a glance, this appears to be a report configuration matter rather than a technical implementation issue.</p><p>To get these events to reflect on any reporting, can we please have them make the following updates to <a href=\"https://ads.tiktok.com/i18n/reporting/pivot/table/edit?reportId=7304032747369332737&amp;aadvid=7029349870628569089\" target=\"_blank\">their pivot table</a>?</p><ol><li>From the reporting tab, click the <strong>Metric</strong> tab.</li><li>Scroll down to the<strong> Page Event</strong> section and start selecting every event they want reflected</li><li>The pivot table on the right should now show a column for each of the events selected in the previous step.</li></ol><img alt=\"Screenshot 2024-01-29 at 2.55.31 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b9cb0f0e6dab46858f52ff550f308f9e.png\" height=\"188.48\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9cb0f0e6dab46858f52ff550f308f9e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832755&amp;x-signature=E0eD8gHAiss8cFIVumfZ01v6LkY%3D\" width=\"375\"><p>I recall they were having issues accessing the dashboard, they will need to have those issues resolved and have full admin access to the dashboard in order to make the changes above. If those have not yet been resolved, please follow up on the other ticket before trying the above.</p><p>Let me know if there are any other questions.</p><p>Best,<br>Armando</br></p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706650260,
+      "auto_close_hit": 0,
+      "id": 7330005408536429000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "iris.shalev@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Iris Shalev",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7148047932003042306",
+      "name": "Iris Shalev",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Armando,&nbsp;</p><p><br></p><p>Thank you - I think the biggest issue here was not that they couldn&#39;t access the pivot table but rather that Initiate Checkout and Place and Order are firing on site, but they&#39;re showing 0s on TTAM. Can you please double check this and let me know what the next steps would be?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0072_fc9ae75c-c3cb-4802-a47e-976fd70e492h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706655863,
+      "auto_close_hit": 0,
+      "id": 7330028466697552000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Iris Shalev",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7148047932003042000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Iris - please see comments below:</p><p><span style=\"color: #FF7528;\"><strong>InitiateCheckout</strong></span></p><p>I believe they have an error in the way they implemented the event on their site. For the <strong><em>InitiateCheckout</em></strong> event, if you consult the 'event codes' column found in the <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-1\" target=\"_blank\">official documentation</a>, you will notice the event code for this event does not contain a space.</p><p>However, if you look at their dashboard, you will see at one point they were sending an event with event code <span style=\"color: #121212;\"><strong><em>InitiateCheckout</em></strong> (<em><u>correct</u></em>) and currently, we are also receiving an event with event code<strong><em> Initiate Checkout</em></strong> (incorrect).</span></p><img alt=\"Screenshot 2024-01-30 at 2.39.23 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1833a0f298e543378f4436a5e453d6f6.png\" height=\"179.019\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1833a0f298e543378f4436a5e453d6f6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832755&amp;x-signature=F1MAEd43yL7G%2FTnEIgr4EELjKgs%3D\" width=\"375\"><p>It seems that they, at some point, tried to correct this but they deactivated the tag with the correct spelling and left the one with the space in it, which is not correct. The space in the event code makes it a custom event since it doesn't match 100% the spelling of the standard event code, and that is why is not reflected in the dashboard as it is not a standard event.</p><p><span style=\"color: #FF7528;\"><strong>PlaceAnOrder</strong></span></p><p>Same goes for the PlaceAnOrder event code. This is being fired with spaces within it, which is causing it to be considered a custom event since it does not 100% match the spelling in the official documentation for a standard event.</p><img alt=\"Screenshot 2024-01-30 at 2.55.37 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/da3b8f69c8e1404694c4f503ad89ac88.png\" height=\"159.635\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/da3b8f69c8e1404694c4f503ad89ac88.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832755&amp;x-signature=ckaZt%2FVRYlpQi%2BSnk2dpkvkhmFE%3D\" width=\"375\"><p><span style=\"color: #00AA54;\"><strong>Solution</strong></span></p><ul><li>Ensure the event codes match those listed in the list of Standard Events. Once that is the case, the events will be considered standard (as opposed to custom) which will then add them to the reports/reporting that is available out of the box. They might want to consider creating a new pixel to start with a clean slate once the issues above are corrected.</li></ul><p><br /></p><p>Best,</p><p>Armando </p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706656309,
+      "auto_close_hit": 0,
+      "id": 7330031116721947000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Conclusion]&nbsp;</strong><br>CSM opened a ticket because advertiser was facing an issue where the events they implemented were not being reflected in TikTok&#39;s standard, out of the box reporting dashboard. The reason for this was that they had typos in their event codes being fired, which caused the events in question to be treated as custom events, and therefore not included in the out of the box reporting. Recommendations for resolving the issue provided.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707422638,
+      "auto_close_hit": 0,
+      "id": 7333323670774989000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><span style=\"color: #333333;\"><strong>[Conclusion]&nbsp;</strong><br>Issue was diagnosed and recommendations for correction were provided. Ticket reopened with no direct ask for TSC.</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709321217,
+      "auto_close_hit": 0,
+      "id": 7341477728144605000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Iris Shalev",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7148047932003042000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Iris,</p><p>I see this ticket was reopened, but there is no ask for TSC. We have to close any ticket that is not actively being worked on.</p><p>I will close this ticket for now since there is no ask for immediate action from the TSC team. If the advertiser reaches out with a question or follow up, please post their follow up to <a target=\"_blank\" href=\"https://applink.larksuite.com/client/message/link/open?token=AmUNCxz3xYAcZeIrxmTAQAE%3D\">this channel</a> and mention me @armando.carmona@bytedance.com.</p><p>Best,<br>Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709321293,
+      "auto_close_hit": 0,
+      "id": 7341477916762489000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #333333;\"><strong>[Conclusion]&nbsp;</strong><br>CSM opened a ticket because advertiser was facing an issue where the events they implemented were not being reflected in TikTok&#39;s standard, out of the box reporting dashboard. The reason for this was that they had typos in their event codes being fired, which caused the events in question to be treated as custom events, and therefore not included in the out of the box reporting. Recommendations for resolving the issue provided.</span><br><span style=\"color: #333333;\"><strong>&lt;CUSTOM EVENTS&gt;</strong></span></p><p><span style=\"color: #333333;\"><strong>&lt;CUSTOM EVENT REPORTING&gt;</strong></span></p><p><span style=\"color: #333333;\"><strong>&lt;EDUCATION&gt;</strong></span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1826285,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "armando.carmona@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "UOPX - Events not loading on TTAM",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0072_fc9ae75c-c3cb-4802-a47e-976fd70e492h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1709321300,
+  "owner_name": "Iris Shalev",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7148047932003042306",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Iris Shalev",
+  "follow_employee_id": 1807296,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1447455,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "UOPX - Events not loading on TTAM",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "University of Phoenix",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7029349870628569089"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Iris Shalev, CSM; Cam Ferguson, BPM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C7KOO2068TKN71DEG3OG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.phoenix.edu/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-19",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "I see that the conversion event Initiate Checkout and Place an Order are both firing on site, but they are not showing conversions in Ads Manager. If the pixel fires on site, I’m wondering if a bug is preventing it from showing in platform. It’s been this way since December.",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9cb0f0e6dab46858f52ff550f308f9e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832755&x-signature=E0eD8gHAiss8cFIVumfZ01v6LkY%3D",
+          "file_name": "file_20240318_13_32_35_483091",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9cb0f0e6dab46858f52ff550f308f9e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832755&x-signature=E0eD8gHAiss8cFIVumfZ01v6LkY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b9cb0f0e6dab46858f52ff550f308f9e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/da3b8f69c8e1404694c4f503ad89ac88.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832755&x-signature=ckaZt%2FVRYlpQi%2BSnk2dpkvkhmFE%3D",
+          "file_name": "file_20240318_13_32_35_615740",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/da3b8f69c8e1404694c4f503ad89ac88.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832755&x-signature=ckaZt%2FVRYlpQi%2BSnk2dpkvkhmFE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/da3b8f69c8e1404694c4f503ad89ac88.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1833a0f298e543378f4436a5e453d6f6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832755&x-signature=F1MAEd43yL7G%2FTnEIgr4EELjKgs%3D",
+          "file_name": "file_20240318_13_32_35_615817",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1833a0f298e543378f4436a5e453d6f6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832755&x-signature=F1MAEd43yL7G%2FTnEIgr4EELjKgs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1833a0f298e543378f4436a5e453d6f6.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

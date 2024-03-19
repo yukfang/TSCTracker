@@ -1,0 +1,603 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497066245137",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1708542356,
+  "deadline": 0,
+  "archive_board_id": 1705151646989663,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1708545247,
+      "auto_close_hit": 0,
+      "id": 7338144631214965000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Camille,</p><p>Just wanted to make sure, we are seeing events come in for the Pixel</p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/C5MSROL1T98720E0C02G?start_time=2024-01-30&amp;end_time=2024-01-31&amp;from=ALL&amp;aadvid=1639804213321733</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/16f831663ba344d3b55eb3c042fb71d7.png\" height=\"207.455\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/16f831663ba344d3b55eb3c042fb71d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838183&amp;x-signature=Dde1TklyFAi8Vt8XOz%2BwloyDBu4%3D\" width=\"375\"><p>Did they want to have both enabled at the same time?</p><p><br /></p><p>To address the question the token permission and the v1.2 to v1.3 endpoint upgrade messages:</p><p>Would the main admin be able to generate a new token for the Pixel in question <span style=\"color: #333333;\">CG4A49RC77UDBVQ97GRG. This can then replace the current token they're using that is throwing this error. </span></p><p><span style=\"color: #333333;\">In their Events Manager, they will need to click on the \"Settings\" tab:</span></p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/CG4A49RC77UDBVQ97GRG?start_time=2024-02-01&amp;end_time=2024-02-05&amp;from=ALL&amp;aadvid=1639804213321733</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png\" height=\"134.072\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838183&amp;x-signature=E5JGju3ZBkE1geAaTJU58TifUf0%3D\" width=\"375\"><p>On the \"Settings\" tab, scroll down to the \"Events API\" section and click on \"Generate Access Token\"</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png\" height=\"208.123\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838183&amp;x-signature=RxB0hkSbbzgTnegcHL2d8%2BT8drM%3D\" width=\"375\"><p>There may have been a change in permission settings at the BC/Ad Account/Pixel level but regenerating a token through an individual with Admin account will resolve this issue. A user with full admin access on the Buisness Center and Ad Account should generate this token to prevent any permission related errors in the future.</p><p><br /></p><p>The Tealium connector should have the updated URL to reflect the change from 1.2 to 1.3. Would it be possible to update/refresh the Tealium x TikTok connector for this specific pixel?</p><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708628140,
+      "auto_close_hit": 0,
+      "id": 7338500264011284000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "camille.vazquez@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Camille Vazquez",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7184820824397136897",
+      "name": "Camille Vazquez",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,&nbsp;</p><p><br></p><p>Great to be in touch with you again! Old Navy has a US Website pixel and Canada Website pixel. We aren&#39;t getting events for the Canada pixel here:&nbsp;https://ads.tiktok.com/i18n/events_manager/pixel/detail/CG4A49RC77UDBVQ97GRG?start_time=2024-02-16&amp;end_time=2024-02-22&amp;from=ALL&amp;aadvid=1639804213321733.&nbsp;</p><p><br></p><p>The client claims they didn&#39;t make any changes to the pixel so their hypothesis is that there&#39;s an access issue. Will the token permission instructions you shared fix this problem given it&#39;s the Canada pixel that we&#39;re not receiving data for?&nbsp;</p><p><br></p><p>Thanks in advance!</p><p>Camille&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_073a2d98-d736-4863-9b59-d613015ed15h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708631233,
+      "auto_close_hit": 0,
+      "id": 7338513870589313000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Camille,</p><p>Yes that's correct! Especially since there hasn't been any known changes for the pixel. It could be that the individual who originally generated the token either had left the company or had their permissions changed in the Business Center and/or Ad Account (which is a common scenario we see).</p><p>I would just ensure that the individual who generates the token for the Pixel in question has full admin permissions across the Business Center and Ad Account.</p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/CG4A49RC77UDBVQ97GRG?start_time=2024-02-16&amp;end_time=2024-02-22&amp;from=ALL&amp;aadvid=1639804213321733&amp;type=S2SSetting</p><ol><li>Click on the \"Settings\" tab in the Pixel's Event Manager</li></ol><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/43d3702d9b7a4817a3a02e9ad46c5adf.png\" height=\"180.693\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43d3702d9b7a4817a3a02e9ad46c5adf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838183&amp;x-signature=i2yRzc843hAFhMFBUZ2CYv1DlVQ%3D\" width=\"375\"><ol><li>Scroll down to the \"Events API\" section and click on \"Generate Access Token\"</li></ol><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png\" height=\"182.745\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838183&amp;x-signature=ISvZwDShQPgS28qARKZ3TVtWYqU%3D\" width=\"375\"><ol><li>This token will then replace the current one that is throwing the permission error in their server side setup</li></ol><p>Thanks!</p><p>Robbie</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708641286,
+      "auto_close_hit": 0,
+      "id": 7338556950164160000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "camille.vazquez@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Camille Vazquez",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7184820824397136897",
+      "name": "Camille Vazquez",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie, you are the best! Thank you. I&#39;ll share with the client and will resolve this ticket in the meantime.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_073a2d98-d736-4863-9b59-d613015ed15h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708706395,
+      "auto_close_hit": 0,
+      "id": 7338837360190292000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "camille.vazquez@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Camille Vazquez",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7184820824397136897",
+      "name": "Camille Vazquez",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,&nbsp;</p><p><br></p><p>Happy Friday! Once the client has generated the new access token, what are the next steps?&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_073a2d98-d736-4863-9b59-d613015ed15h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708707687,
+      "auto_close_hit": 0,
+      "id": 7338843410381521000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Camille,</p><p>Once they've generated their new token, they will need to go into their Events API integration with Tealium and update the Access Token field with this newly generated token:</p><p>https://docs.tealium.com/server-side-connectors/tiktok-events-connector/</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7b19dbd2ec884b2ebddcabb2c6fed4f4.png\" height=\"101.396\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b19dbd2ec884b2ebddcabb2c6fed4f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838184&amp;x-signature=SnfnL16Yi3cwEhWeoS9%2BEYXqqYE%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708708222,
+      "auto_close_hit": 0,
+      "id": 7338844846083424000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "camille.vazquez@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Camille Vazquez",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7184820824397136897",
+      "name": "Camille Vazquez",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Robbie! ON will work on this :)</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_073a2d98-d736-4863-9b59-d613015ed15h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1891592,
+  "workflow_nodes": [],
+  "board_id": 1705151646989663,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Old Navy Canada Events API Down",
+  "category_1_name": "Events API - Web",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_073a2d98-d736-4863-9b59-d613015ed15h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1708708222,
+  "owner_name": "Camille Vazquez",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - Web",
+  "archive_category_1": "1736497066245137",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497066245137",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882593",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882609",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883585",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883601",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400130",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400146",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400162",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400178",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401154",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401170",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401186",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401202",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548708426753",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - Web"
+    }
+  ],
+  "core_user_id": "7184820824397136897",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Camille Vazquez",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2066497,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Old Navy Canada Events API Down",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Tealium",
+      "valid": true,
+      "key": "Tealium",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Old Navy",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "1639804213321733"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM, Camille Vazquez",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CG4A49RC77UDBVQ97GRG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://oldnavy.gapcanada.ca/?cookieInitializationAttempted=true"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-21",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hi team, \n\nThe Old Navy Canada Events API pixel stopped reporting events to TTEM on 1/4/24. Upon troubleshooting with their team, they said the below. Can you help us understand the root cause and what changes need to be made on the client's side to ensure we get pixel events reported again? \n\nThank you!\n\nClient feedback below w/ screenshots from their dev team.\n\nThe connector logs show that events have still been getting successfully sent every day, and I just ran a trace and saw the event being sent with a successful response code returned from TikTok.   One thing I noticed though is that we are getting 2 messages back from them in the response - one is a notification that we should upgrade from v1.2 of the API to v1.3, and another saying \"No permission to operate pixel code: CG4A49RC77UDBVQ97GRG. You must be an admin or operator of this advertiser account.\"   Did something change with the permission level for us to be sending events to their API for your account?\n\n",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-21 at 12.44.39 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6a6d8e6f027542bcb99cfdd1a9f88e2b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=VrqyZARqrNGFTkU4qahhr7TU5XI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6a6d8e6f027542bcb99cfdd1a9f88e2b.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6a6d8e6f027542bcb99cfdd1a9f88e2b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=VrqyZARqrNGFTkU4qahhr7TU5XI%3D",
+          "size": 76973
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-21 at 12.44.52 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36a6dd327f4c4bcea03d5d690b06ffe8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=ez%2ByZlwvXb9uS6B%2BT1dBoq19%2F60%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/36a6dd327f4c4bcea03d5d690b06ffe8.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36a6dd327f4c4bcea03d5d690b06ffe8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=ez%2ByZlwvXb9uS6B%2BT1dBoq19%2F60%3D",
+          "size": 353340
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=E5JGju3ZBkE1geAaTJU58TifUf0%3D",
+          "file_name": "file_20240318_15_03_03_851978",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=E5JGju3ZBkE1geAaTJU58TifUf0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=RxB0hkSbbzgTnegcHL2d8%2BT8drM%3D",
+          "file_name": "file_20240318_15_03_03_852041",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=RxB0hkSbbzgTnegcHL2d8%2BT8drM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/16f831663ba344d3b55eb3c042fb71d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=Dde1TklyFAi8Vt8XOz%2BwloyDBu4%3D",
+          "file_name": "file_20240318_15_03_03_852058",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/16f831663ba344d3b55eb3c042fb71d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=Dde1TklyFAi8Vt8XOz%2BwloyDBu4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/16f831663ba344d3b55eb3c042fb71d7.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=ISvZwDShQPgS28qARKZ3TVtWYqU%3D",
+          "file_name": "file_20240318_15_03_03_940210",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=ISvZwDShQPgS28qARKZ3TVtWYqU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43d3702d9b7a4817a3a02e9ad46c5adf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=i2yRzc843hAFhMFBUZ2CYv1DlVQ%3D",
+          "file_name": "file_20240318_15_03_03_940273",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43d3702d9b7a4817a3a02e9ad46c5adf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=i2yRzc843hAFhMFBUZ2CYv1DlVQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/43d3702d9b7a4817a3a02e9ad46c5adf.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b19dbd2ec884b2ebddcabb2c6fed4f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838184&x-signature=SnfnL16Yi3cwEhWeoS9%2BEYXqqYE%3D",
+          "file_name": "file_20240318_15_03_04_031754",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b19dbd2ec884b2ebddcabb2c6fed4f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838184&x-signature=SnfnL16Yi3cwEhWeoS9%2BEYXqqYE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7b19dbd2ec884b2ebddcabb2c6fed4f4.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - Web-Events API - Web"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

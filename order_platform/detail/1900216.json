@@ -1,0 +1,370 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1746926227731473",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Chan Lim",
+  "create_time": 1708938357,
+  "deadline": 0,
+  "archive_board_id": 1705151646989842,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709001327,
+      "auto_close_hit": 0,
+      "id": 7340103938881978000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Sage,</p><p><br /></p><p>May I confirm you are talking about iOS? (I see zero event for Android)</p><p><br /></p><p>I see the client only has Installs tracking for iOS which is configured by default. and I do not see any additional in-app event.</p><img alt=\"Screenshot 2024-02-27 at 11.32.24.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b2fa6bf64fee430a86dcc55a5731c197.png\" height=\"120.413\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2fa6bf64fee430a86dcc55a5731c197.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838249&amp;x-signature=9G2%2FNIHd6LwnQnGWB66XC1zLpqA%3D\" width=\"375\"><p><br /></p><p>Also, please confirm what your campaign objective would be. Would it be AppInstalls? or AEO or VBO?</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709003264,
+      "auto_close_hit": 0,
+      "id": 7340112195004514000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "sage.cuevas@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "sage_bytedance",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7278218209705673730",
+      "name": "sage_bytedance",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Chan.<br>This more of a hygiene set-up for the account; would need expert help in know what to follow-up client on. The goal is to have in-app events tracked. This is a P0 client, where we&#39;re doing the app events hygiene and next steps as in order to push 2024 spending to close at $1.5-2M investment bracket. Would really need help on this.<br><br><br>A few Qs:<br>- Appflyer is connected but only to iOS. Does this mean I have to request the client to enable for Android?<br><br>- Are the events properly firing? I can only only see 1 event showing as &#34;Install&#34;. Does this mean I have to request Gcash team to double check on their Appsflyer tagging on their end?<br><br>- Do we need to prepare client to migrate to, &#34;https://support.appsflyer.com/hc/en-us/articles/6722785184913-TikTok-for-Business-Advanced-SRN-integration-setup&#34; ?<br>&gt; in the migration to SAN, does a separate version of this exist for applying to iOS users?<br><br>*If possible to share an optimization checklist if we have for App events? Thank you!<br><br></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_d12738be-0c35-48fd-8e28-a8d61f01b9hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709015183,
+      "auto_close_hit": 0,
+      "id": 7340163363644277000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Sage,</p><p>Thanks for confirmation.</p><p>You came to us at the right time, as we were about to kick off iOS config audit program. Let me go through a checklist and do some comprehensive audits for this client. Will also answer your questions in the audit report as well.</p><p>Bear with me for a few days for now.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710124580,
+      "auto_close_hit": 0,
+      "id": 7344928668268937000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>[status update] draft provided. Pending more data from the client side for complete review.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1900216,
+  "workflow_nodes": [],
+  "board_id": 1705151646989721,
+  "employee_email": "chan.lim@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Requesting for Audit of App Tagging - P0 GCASH (FinLit)",
+  "category_1_name": "Mobile SDK",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 3,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_d12738be-0c35-48fd-8e28-a8d61f01b9hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710124580,
+  "owner_name": "Sage Cuevas",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 3,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "iOS SKAN Audit",
+  "archive_category_1": "1791202334548993",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1746926227731473",
+      "cate_1_form_id": 1746925170639921,
+      "sub_cates": [],
+      "value": "Mobile SDK"
+    }
+  ],
+  "core_user_id": "7278218209705673730",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Sage Cuevas",
+  "follow_employee_id": 3050890,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 649670,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Requesting for Audit of App Tagging - P0 GCASH (FinLit)",
+      "valid": true,
+      "item_id": 1746925170640897,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774552194962434,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774552194962482,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774552194963506,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "G-CASH",
+      "valid": true,
+      "item_id": 1746925170640913,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Finance",
+      "valid": true,
+      "key": "Finance",
+      "item_id": 1746925270972417,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1746925270972433,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "SEA-PH",
+      "valid": true,
+      "key": "SEA",
+      "item_id": 1746925270972449,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1746925270972465,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": "6927198569589964801",
+      "valid": true,
+      "item_id": 1746925270973441,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P0",
+      "valid": true,
+      "key": "P0",
+      "item_id": 1746925270973457,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Android Mobile App ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1746925270973473,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "iOS Mobile App ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1746925270973489,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does client use any mmp and mmp's name? ",
+      "content": "",
+      "valid": true,
+      "item_id": 1746925270974465,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-26",
+      "valid": true,
+      "item_id": 1746925270974481,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What's client's business goal of using SDK?",
+      "content": "Client already has some app events tracking, but I need to know the needed steps in order to level-up client's existing tags in place.\n\n",
+      "valid": true,
+      "item_id": 1746925827345441,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "02-26_Gcash MSO support.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/429dd5fe9345420e8038557321647fef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838249&x-signature=giPE4uExHHjsvBpqx1IVbBdqxIw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/429dd5fe9345420e8038557321647fef.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/429dd5fe9345420e8038557321647fef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838249&x-signature=giPE4uExHHjsvBpqx1IVbBdqxIw%3D",
+          "size": 174188
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2fa6bf64fee430a86dcc55a5731c197.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838249&x-signature=9G2%2FNIHd6LwnQnGWB66XC1zLpqA%3D",
+          "file_name": "file_20240318_15_04_09_879977",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2fa6bf64fee430a86dcc55a5731c197.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838249&x-signature=9G2%2FNIHd6LwnQnGWB66XC1zLpqA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b2fa6bf64fee430a86dcc55a5731c197.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1746925407705105,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Apps-iOS SKAN Audit"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

@@ -1,0 +1,209 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1768849764192273",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/2aef10da-478a-4d3d-87a3-fbf45239a55g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Jason Schnack",
+  "create_time": 1708552844,
+  "deadline": 0,
+  "archive_board_id": 1705151646989719,
+  "replies": [],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1891774,
+  "workflow_nodes": [],
+  "board_id": 1705151646989719,
+  "employee_email": "jason.schnack@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Renaissance Man Studio LLC0425 - [SMB Pilot]",
+  "category_1_name": "Signal VIP ",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/2aef10da-478a-4d3d-87a3-fbf45239a55g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 0,
+  "business_data": [],
+  "update_time": 1708552878,
+  "owner_name": "Jason Schnack",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 1,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Signal VIP ",
+  "archive_category_1": "1768849764192273",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 0,
+      "categories_id": "1745377631321137",
+      "cate_1_form_id": 1745377067699201,
+      "sub_cates": [],
+      "value": "New Request"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1768849764192257",
+      "cate_1_form_id": 1745377067699201,
+      "sub_cates": [],
+      "value": "VSA/Catalog Audit"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1768849764192273",
+      "cate_1_form_id": 1745377067699201,
+      "sub_cates": [],
+      "value": "Signal VIP "
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1768849799962626",
+      "cate_1_form_id": 1745377067699201,
+      "sub_cates": [],
+      "value": "iOS SKAN Audit"
+    }
+  ],
+  "core_user_id": "6802982804659569670",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Jason Schnack",
+  "follow_employee_id": 9709099,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2221311,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Renaissance Man Studio LLC0425 - [SMB Pilot]",
+      "valid": true,
+      "item_id": 1745377067699217,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774553127055361,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Pre-Pitch (Preparting to Pitch)",
+      "valid": true,
+      "key": "Pre-Pitch (Preparting to Pitch)",
+      "item_id": 1774553127055409,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553185434641,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser name",
+      "content": "Renaissance Man Studio LLC0425",
+      "valid": true,
+      "item_id": 1745377067699233,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "SMB",
+      "valid": true,
+      "key": "SMB",
+      "item_id": 1745377067699249,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Client Vertical",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1746267929680898,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1745377067700225,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7226047867293532162"
+      ],
+      "valid": true,
+      "item_id": 1745377067700241,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1745377310579714,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Additional Context",
+      "content": "",
+      "valid": true,
+      "item_id": 1745377310579730,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "(Internal TPS Only) Review-Signal VIP "
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

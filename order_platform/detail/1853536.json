@@ -1,0 +1,1145 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Heidi Williams",
+  "create_time": 1706823666,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706829883,
+      "auto_close_hit": 0,
+      "id": 7330776821648179000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle,</p><p><br></p><p>Acknowledging receipt of this ticket. I will QA the pixel and update you as soon as I&#39;m done.</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706836392,
+      "auto_close_hit": 0,
+      "id": 7330803156542112000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you so much!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706836435,
+      "auto_close_hit": 0,
+      "id": 7330804422655754000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Heres the link they sent me&nbsp;<a href=\"https://tagassistant.google.com/#/?id=GTM-TQ8S3F4&amp;url=https%3A%2F%2Fwww.wolverine.com%2FUS%2Fen%2Fhome%3Fgtm_debug%3D1706791694367&amp;source=TAG_MANAGER&amp;gtm_auth=scqkXA5nl3wYvjpgHKo5Kw&amp;gtm_preview=env-566\" target=\"_blank noopener noreferrer\">https://tagassistant.google.com/#/?id=GTM-TQ8S3F4&amp;url=https%3A%2F%2Fwww.wolverine.com%2FUS%2Fen%2Fhome%3Fgtm_debug%3D1706791694367&amp;source=TAG_MANAGER&amp;gtm_auth=scqkXA5nl3wYvjpgHKo5Kw&amp;gtm_preview=env-566</a></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706895085,
+      "auto_close_hit": 0,
+      "id": 7331058032149119000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Got it, working on this now!</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706897000,
+      "auto_close_hit": 0,
+      "id": 7331066277122851000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle,</p><p><br /></p><p>Checking the GTM debug link they sent, I am only seeing the Pixel Base Code installed:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png\" height=\"162.748\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837677&amp;x-signature=Q0l5RbVGslO%2FslHAqzkJTtB4zTc%3D\" width=\"375\"><p>So, as I click through the site, I am only seeing PageView. For example, when landing on a product detail page, I would expect to see a ViewContent event, but that event does not fire:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/94bc069a1a114fe3a8ae6cefa5a8fb3c.png\" height=\"195.069\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94bc069a1a114fe3a8ae6cefa5a8fb3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837677&amp;x-signature=1OqWOAMeG3j1Ln3Kbth1ZDGp9rA%3D\" width=\"375\"><p>As a next step, they should go in and set up the event triggers. The instructions from our <a href=\"https://github.com/tiktok/gtm-template-pixel?tab=readme-ov-file#-3-creating-tiktok-event-tags:~:text=3.-,Creating%20TikTok%20Event%20Tags,-After%20installing%20the\" target=\"_blank\">TikTok GTM Template</a> will help. </p><p><br /></p><p>I also see that they have events from Events Builder embedded in the site:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ae6db3dbb61747e082fb712c033a78f2.png\" height=\"180.988\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae6db3dbb61747e082fb712c033a78f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837677&amp;x-signature=cKaiYtELjG9z%2Fo4OXrie63ir6%2FM%3D\" width=\"375\"><p>You cannot use events from both Event Builder and GTM. The client should go in and delete those Event Builder events, instructions to do so are attached.</p><p><br /></p><p>Please let me know if there are further questions!</p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "pdf",
+              "file_name": "TikTok Pixel Event Builder Deletion Guide.pdf",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf?lk3s=cbe26b3a&x-expires=4832837677&x-signature=KQvPPRfr%2F4yo9PNt1oPBKshD%2Bho%3D",
+              "file_key": "tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf?lk3s=cbe26b3a&x-expires=4832837677&x-signature=KQvPPRfr%2F4yo9PNt1oPBKshD%2Bho%3D",
+              "biz_type": 2,
+              "size": 269323
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707147956,
+      "auto_close_hit": 0,
+      "id": 7332143625276490000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi, </p><p><br /></p><p>They are having a few issues deleting events in TTAM. </p><p><br /></p><img alt=\"Screenshot 2024-02-05 at 9.45.39 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b0d7fac8f6c143bcb9683abd62e52e3f.png\" height=\"196.606\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0d7fac8f6c143bcb9683abd62e52e3f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=a%2F7f5OXAkxII8XjKYzjknOfdz%2Bo%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707155124,
+      "auto_close_hit": 0,
+      "id": 7332174579978273000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Are you able to identify which events were set up with the event builder? I know their dev team has been working on the pixel, so if you could go look again, that would be awesome. :)</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707155166,
+      "auto_close_hit": 0,
+      "id": 7332175377781031000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<img alt=\"Screenshot 2024-02-05 at 11.45.50 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/98f0976aa81845ac92db3773881cc675.png\" height=\"154.161\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/98f0976aa81845ac92db3773881cc675.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=NWnTVNsHXuerP4Nh0U44f4NB34U%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707155926,
+      "auto_close_hit": 0,
+      "id": 7332178411496342000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Here is a link to their TTAM&nbsp;https://ads.tiktok.com/i18n/dashboard?aadvid=6923271637450113026</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707158636,
+      "auto_close_hit": 0,
+      "id": 7332189271727604000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle,</p><p><br></p><p>Please ask the client to disregard this direction for now. I need to raise the issue to product and find out why that error message displays even when the client didn&#39;t go through Event Builder. Apologies!</p><p><br></p><p>Heidi</p><p>&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707159275,
+      "auto_close_hit": 0,
+      "id": 7332191699365675000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you for the update!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707246926,
+      "auto_close_hit": 0,
+      "id": 7332568806562284000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle,&nbsp;</p><p><br></p><p>Checking in on this thread. The other instructions I sent still stand. So let me know if they make changes and I will take another look!</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707287255,
+      "auto_close_hit": 0,
+      "id": 7332742062405714000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Great, thank you! I have sent over the instructions and will check back in later this week.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707345737,
+      "auto_close_hit": 0,
+      "id": 7332992716990710000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Status Update] </strong>Made a follow-up with CSM on 2/6. The client has only set up pixel base code and is moving forward with implementing full funnel. I will follow up on Monday 2/12.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707930918,
+      "auto_close_hit": 0,
+      "id": 7335506670769979000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi,&nbsp;</p><p><br></p><p>Here is the updated pixel link if you can please audit.&nbsp;<span style=\"color: #1155CC;\"><a href=\"https://tagassistant.google.com/#/?id=GTM-TQ8S3F4&amp;url=https%3A%2F%2Fwww.wolverine.com%2FUS%2Fen%2Fhome%3Fgtm_debug%3D1707906822366&amp;source=TAG_MANAGER&amp;gtm_auth=scqkXA5nl3wYvjpgHKo5Kw&amp;gtm_preview=env-566\" target=\"_blank noopener noreferrer\">https://tagassistant.google.com/#/?id=GTM-TQ8S3F4&amp;url=https%3A%2F%2Fwww.wolverine.com%2FUS%2Fen%2Fhome%3Fgtm_debug%3D1707906822366&amp;source=TAG_MANAGER&amp;gtm_auth=scqkXA5nl3wYvjpgHKo5Kw&amp;gtm_preview=env-566</a></span><br></p><p><br></p><p><span style=\"color: #1155CC;\">Thank you so much!&nbsp;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708653904,
+      "auto_close_hit": 0,
+      "id": 7338611693544653000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle,</p><p><br /></p><p>Thank you for your patience, I missed the reply here! I checked the Google Tag Assistant link, except for CompletePayment, which I would need a test credit card or coupon code to check. So far I see:</p><p><br /></p><p>PageView fires when the landing page loads:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/748160a921fe484f91697376d9e88462.png\" height=\"139.781\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/748160a921fe484f91697376d9e88462.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=oKgmwKki6tQOQC1jPsQQfBM6t2c%3D\" width=\"375\"><p>ViewContent also fires and parameters look good:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/162b4a6cad6a4dfdb561283c73310d26.png\" height=\"151.763\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/162b4a6cad6a4dfdb561283c73310d26.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=DRX7LhHQosAweja1e80Khb4rr%2B8%3D\" width=\"375\"><p>AddToCart fires as expected and most parameters are reporting:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png\" height=\"178.712\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=bBt9f4X%2FERXwQbeiFxFZcAWS8F0%3D\" width=\"375\"><p>Except for the 'value' parameters where there looks to be a formatting error:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png\" height=\"270.536\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=C03egzB29Z7Rw%2BqaXqM2tXv0Tac%3D\" width=\"375\"><p>the client should check the way they have added the price or other value, and make sure they are not passing any currency symbols, special characters, or commas. Specifically, I'm seeing for 'quantity' the value:</p><p><span style=\"color: #041E49;\">quantity: \"1|1\":</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b03e73e9046646f3a9c8522f69939e31.png\" height=\"169.456\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b03e73e9046646f3a9c8522f69939e31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=5KnfQfYmoAWgSQfn2wCWo9jXigI%3D\" width=\"375\"><p>which could definitely be the cause.</p><p><br /></p><p>If they are able to provide a test login, I can check CompletePayment. </p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708709658,
+      "auto_close_hit": 0,
+      "id": 7338851300857233000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>This is super useful, thank you!&nbsp;&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709047690,
+      "auto_close_hit": 0,
+      "id": 7340303110067225000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Good morning! I sent exactly what you sent me and this was a question that came up. What would you say to this? </p><img alt=\"Screenshot 2024-02-27 at 9.27.49 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bc33d19b5c4b4e7ba3d425e44886c300.png\" height=\"81.491\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc33d19b5c4b4e7ba3d425e44886c300.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=TGgsZsJRQ0Kr3muoooiSHN910yY%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709071079,
+      "auto_close_hit": 0,
+      "id": 7340402463580291000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle, this might be legit. Let me check with my team and get back to you.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709092193,
+      "auto_close_hit": 0,
+      "id": 7340494208488292000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Great, thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709138115,
+      "auto_close_hit": 0,
+      "id": 7340691752371765000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle, no, you cannot have a pipe or any other character in the 'quantity' value as the data type must be a number. Per the documentation:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/95a6e7a05c6d4955ac4c031182c5e8e7.png\" height=\"30.303\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95a6e7a05c6d4955ac4c031182c5e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=RvXJHeMnXj5zP1rgShNELzeBzdQ%3D\" width=\"375\"><p>This would definitely cause the 'value' to report as 'undefined' as you see in the above screenshot.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1853536,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "heidi.williams@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Wolverine Pixel ",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1709524191,
+  "owner_name": "Kyle Schonefeld",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7109396259878093825",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Kyle Schonefeld",
+  "follow_employee_id": 5710207,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1635563,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Wolverine Pixel ",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Wolverine ",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Ecommerce",
+      "valid": true,
+      "key": "Ecommerce",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6923271637450113026"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM - Kyle Schonefeld / BPM Kelsey Ziomek ",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "6923272320437977089",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CMJF913C77U667VEC6SG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.wolverine.com/US/en/boots/?gad_source=1&gclid=Cj0KCQiAn-2tBhDVARIsAGmStVnW4qm-XgZdnFk1RAtzvRtBjRvkKNHnZUc4YbNy468MA0YQAhqcGQQaAp4jEALw_wcB&gclsrc=aw.ds"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-01",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "their dev team has the pixel drafted out in GTM and  is asking us to QA the pixel.",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-01 at 3.39.55 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0f5f954b3d9b4f698503fa2096c83e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=xtxger3rGANtMYZHYu6R9qMWUAU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0f5f954b3d9b4f698503fa2096c83e75.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0f5f954b3d9b4f698503fa2096c83e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=xtxger3rGANtMYZHYu6R9qMWUAU%3D",
+          "size": 169360
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=Q0l5RbVGslO%2FslHAqzkJTtB4zTc%3D",
+          "file_name": "file_20240318_14_54_38_021626",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=Q0l5RbVGslO%2FslHAqzkJTtB4zTc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae6db3dbb61747e082fb712c033a78f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=cKaiYtELjG9z%2Fo4OXrie63ir6%2FM%3D",
+          "file_name": "file_20240318_14_54_38_021691",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae6db3dbb61747e082fb712c033a78f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=cKaiYtELjG9z%2Fo4OXrie63ir6%2FM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ae6db3dbb61747e082fb712c033a78f2.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94bc069a1a114fe3a8ae6cefa5a8fb3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=1OqWOAMeG3j1Ln3Kbth1ZDGp9rA%3D",
+          "file_name": "file_20240318_14_54_38_021709",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94bc069a1a114fe3a8ae6cefa5a8fb3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=1OqWOAMeG3j1Ln3Kbth1ZDGp9rA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/94bc069a1a114fe3a8ae6cefa5a8fb3c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "pdf",
+          "file_name": "TikTok Pixel Event Builder Deletion Guide.pdf",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf?lk3s=cbe26b3a&x-expires=4832837677&x-signature=KQvPPRfr%2F4yo9PNt1oPBKshD%2Bho%3D",
+          "file_key": "tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf?lk3s=cbe26b3a&x-expires=4832837677&x-signature=KQvPPRfr%2F4yo9PNt1oPBKshD%2Bho%3D",
+          "biz_type": 2,
+          "size": 269323
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0d7fac8f6c143bcb9683abd62e52e3f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=a%2F7f5OXAkxII8XjKYzjknOfdz%2Bo%3D",
+          "file_name": "file_20240318_14_54_38_062354",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0d7fac8f6c143bcb9683abd62e52e3f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=a%2F7f5OXAkxII8XjKYzjknOfdz%2Bo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b0d7fac8f6c143bcb9683abd62e52e3f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/98f0976aa81845ac92db3773881cc675.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=NWnTVNsHXuerP4Nh0U44f4NB34U%3D",
+          "file_name": "file_20240318_14_54_38_114025",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/98f0976aa81845ac92db3773881cc675.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=NWnTVNsHXuerP4Nh0U44f4NB34U%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/98f0976aa81845ac92db3773881cc675.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/162b4a6cad6a4dfdb561283c73310d26.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=DRX7LhHQosAweja1e80Khb4rr%2B8%3D",
+          "file_name": "file_20240318_14_54_38_419010",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/162b4a6cad6a4dfdb561283c73310d26.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=DRX7LhHQosAweja1e80Khb4rr%2B8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/162b4a6cad6a4dfdb561283c73310d26.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=C03egzB29Z7Rw%2BqaXqM2tXv0Tac%3D",
+          "file_name": "file_20240318_14_54_38_419115",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=C03egzB29Z7Rw%2BqaXqM2tXv0Tac%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=bBt9f4X%2FERXwQbeiFxFZcAWS8F0%3D",
+          "file_name": "file_20240318_14_54_38_419164",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=bBt9f4X%2FERXwQbeiFxFZcAWS8F0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/748160a921fe484f91697376d9e88462.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=oKgmwKki6tQOQC1jPsQQfBM6t2c%3D",
+          "file_name": "file_20240318_14_54_38_419203",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/748160a921fe484f91697376d9e88462.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=oKgmwKki6tQOQC1jPsQQfBM6t2c%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/748160a921fe484f91697376d9e88462.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b03e73e9046646f3a9c8522f69939e31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=5KnfQfYmoAWgSQfn2wCWo9jXigI%3D",
+          "file_name": "file_20240318_14_54_38_419235",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b03e73e9046646f3a9c8522f69939e31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=5KnfQfYmoAWgSQfn2wCWo9jXigI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b03e73e9046646f3a9c8522f69939e31.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc33d19b5c4b4e7ba3d425e44886c300.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=TGgsZsJRQ0Kr3muoooiSHN910yY%3D",
+          "file_name": "file_20240318_14_54_38_478562",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc33d19b5c4b4e7ba3d425e44886c300.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=TGgsZsJRQ0Kr3muoooiSHN910yY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/bc33d19b5c4b4e7ba3d425e44886c300.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95a6e7a05c6d4955ac4c031182c5e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=RvXJHeMnXj5zP1rgShNELzeBzdQ%3D",
+          "file_name": "file_20240318_14_54_38_573886",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95a6e7a05c6d4955ac4c031182c5e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=RvXJHeMnXj5zP1rgShNELzeBzdQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/95a6e7a05c6d4955ac4c031182c5e8e7.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

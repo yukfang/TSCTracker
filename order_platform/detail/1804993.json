@@ -1,0 +1,227 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1782786995587105",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_0e4d8cd0-f72a-4f45-ad54-38f000ec363h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Jacob Lima",
+  "create_time": 1704914786,
+  "deadline": 0,
+  "archive_board_id": 1705151646989732,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1705106552,
+      "auto_close_hit": 0,
+      "id": 7323372899157557000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": true,
+      "reply_to_user_name": "Logan Lazorka",
+      "editable": 0,
+      "reply_email": "jacob.lima@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Jacob Lima",
+      "reply_to_user_id": 7033746461980689000,
+      "is_hide_name": false,
+      "core_user_id": "7177394617766544386",
+      "name": "Jacob Lima",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Logan,</p><p><br></p><p>We do have a product that can promote a LIVE as it's running. It is a beta product but there is no criteria for the allowlist. Here is a link to the commdoc:&nbsp;https://bytedance.sg.larkoffice.com/docx/doxcnD5PY3A6p2MTBYTWoacSzih</p><p> <br>You can find the allow list here:&nbsp;https://bytedance.sg.larkoffice.com/sheets/shtcnkOrXzRZ7SsJVSWGYnhf8KD?sheet=aXHAy4&amp;table=tbljK5x1Pixordnk&amp;view=vewnaQoisG<br><br></p><p>And you can file an implementation ticket here:&nbsp;https://ads.tiktok.com/athena/requester/form/1754543111783458?identify_key=56482366f70c4340bdc6fef12d2624f32043c69ae748816427c4faaec4d33531&amp;board_id=1705151646989732&amp;category_1_id=1754600019392513</p><p><br></p><p>Let me know if you have any other questions.</p><p><br></p><p>Thanks,<br>Jacob Lima</p><p>MPO LIVE</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_0e4d8cd0-f72a-4f45-ad54-38f000ec363h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1804993,
+  "workflow_nodes": [],
+  "board_id": 1705151646989732,
+  "employee_email": "jacob.lima@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Dave & Busters: Boosting Live Streams",
+  "category_1_name": "Livestream - Ask a Question",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_beb75272-bb90-47a9-9df2-75111caab97h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1705524327,
+  "owner_name": "Logan Lazorka",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Livestream - Ask a Question",
+  "archive_category_1": "1782786995587105",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600019392513",
+      "cate_1_form_id": 1754543111783458,
+      "sub_cates": [],
+      "value": "Livestream Consultation"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1782786995587105",
+      "cate_1_form_id": 1782788250818562,
+      "sub_cates": [],
+      "value": "Livestream - Ask a Question"
+    }
+  ],
+  "core_user_id": "7033746461980689410",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Logan Lazorka",
+  "follow_employee_id": 5505862,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 5244932,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "<p spellcheck=\"true\">MPO LIVE helps advertisers go live on TikTok. Use this form to submit a question to the MPO LIVE team regarding live streaming on TikTok. This form is not for troubleshooting and bugs. For troubleshooting and bugs please use: Athena &gt; TikTok Internal Tickets &gt; Branding solutions &gt; Livestream Traffic Solutions. ///Link to Athena Internal Tickets: https://vcp.to/atint</p>",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788572065825,
+      "type": 12,
+      "option_meaning": -1
+    },
+    {
+      "label": "Question title",
+      "content": "Dave & Busters: Boosting Live Streams",
+      "valid": true,
+      "item_id": 1782788250818578,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1782788281423874,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Client Name",
+      "content": "Dave & Buster",
+      "valid": true,
+      "item_id": 1782788281425938,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser ID",
+      "content": [
+        "6942570972708864002"
+      ],
+      "valid": true,
+      "item_id": 1782788344073218,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": [
+        "6942570972708864002"
+      ],
+      "valid": true,
+      "item_id": 1782788344073234,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "UID of the TikTok account",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788344073250,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Handle of the TikTok account",
+      "content": [
+        "@daveandbusters"
+      ],
+      "valid": true,
+      "item_id": 1782788344073266,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Question text",
+      "content": "Does TikTok have a product/the capability to boost a livestream in real time as it's running?\n\nPlease see attached for the direct question from the client. If there's any other questions please let me know.",
+      "valid": true,
+      "item_id": 1782788344074242,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "File or screenshot",
+      "content": [
+        {
+          "file_type": "JPG",
+          "file_name": "D&Bs Livestream.JPG",
+          "file_url": "",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c6ce4713d06c49908f778557f4e10518.JPG",
+          "url": "",
+          "size": 58699
+        }
+      ],
+      "valid": true,
+      "item_id": 1782788344074258,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Tiktok Livestream Consultation-Livestream - Ask a Question"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

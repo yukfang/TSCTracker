@@ -1,0 +1,609 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_89b456bd-831d-4c73-9de2-3e5cbaf2fdhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Miguel Fernández",
+  "create_time": 1705825722,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1705939480,
+      "auto_close_hit": 0,
+      "id": 7326953830908707000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Miguel Fernández",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7178708618031023106",
+      "name": "Miguel Fernández",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Meital, thanks for reaching out.<br><br>You can use this link to check my availability and book some time in my calendar to discuss the issues with the client:&nbsp;https://bytedance.larkoffice.com/scheduler/c1a89eec037ff9fe<br><br>Thanks,</p><p>Miguel</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_89b456bd-831d-4c73-9de2-3e5cbaf2fdhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705940986,
+      "auto_close_hit": 0,
+      "id": 7326960350690099000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "מיטל צרניה",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7121911502085325825",
+      "name": "מיטל צרניה",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Miguel,</p><p><br></p><p>Thank you for sharing the link, I would like to get your input before scheduling - the client&#39;s tech team sits in Los Angeles, and as such they&#39;d really appreciate if the call could be scheduled for 6 or 7 p.m. (Israel time), which would be 8 or 9 am for the team.&nbsp;</p><p>Would this be possible? if so, which days this week (Wed, Thurs), or next week would be a good option for you?&nbsp;</p><p>If the timing is ok, please let me know which days (and time - 6 or 7 p.m.) works for you, and I will schedule the meeting with the client according to your availbility.</p><p><br></p><p>Many thanks in advance,</p><p><br></p><p>Best regards,</p><p><br></p><p>Meital Tschernia</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a38ddb8d-357f-4e5e-9efc-03cae0ccb67g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705941293,
+      "auto_close_hit": 0,
+      "id": 7326961750539076000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Miguel Fernández",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7178708618031023106",
+      "name": "Miguel Fernández",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi, Wednesday 24th or Thursday 25th&nbsp; at 6pm IL time works for me.&nbsp;<br>Thanks for asking confirmation.</p><p>Miguel</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_89b456bd-831d-4c73-9de2-3e5cbaf2fdhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705942371,
+      "auto_close_hit": 0,
+      "id": 7326965828346266000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "מיטל צרניה",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7121911502085325825",
+      "name": "מיטל צרניה",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi,&nbsp;</p><p><br></p><p>Great!</p><p><br></p><p>I&#39;ve asked the client about these dates, and will update with their response shortly.</p><p><br></p><p>Best,</p><p><br></p><p>Meital</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a38ddb8d-357f-4e5e-9efc-03cae0ccb67g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705995913,
+      "auto_close_hit": 0,
+      "id": 7327196131866591000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "מיטל צרניה",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7121911502085325825",
+      "name": "מיטל צרניה",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Miguel,</p><p><br></p><p> </p><p>Thursday at 6 p.m it is!&nbsp;</p><p><br></p><p>I&#39;ll send an invite :)&nbsp;</p><p><br></p><p>Many thanks!</p><p><br></p><p>Meital</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a38ddb8d-357f-4e5e-9efc-03cae0ccb67g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706178886,
+      "auto_close_hit": 0,
+      "id": 7327981559322001000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "מיטל צרניה",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7121911502085325825",
+      "name": "מיטל צרניה",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Miguel, hope all is well!</p><p><br></p><p>Adding the IDs for the ad account and pixel that the client would like our guidance and assistance with - they will take notes and implement this for the next accounts and pixels they&#39;re going to set up :)</p><p><br></p><p>Ad account ID: 7275732434132516866</p><p><br></p><p>Link to ad account:&nbsp;</p><p>https://ads.tiktok.com/i18n/dashboard/?aadvid=7275732434132516866&amp;log_employee_id=7565837&amp;log_type=staff_unified_auth__3m</p><p><br></p><p>Pixel Name: Warehouse Jobs_CA</p><p>Pixel ID:CK1HJSBC77U0C3L9S0OG&nbsp;</p><p><br></p><p>Adding some context regarding the client activity here as well: the client runs search activity, using best practice for search funnel to event mapping (4 event funnel):</p><p><br></p><p>Redirect onto LP -&gt; &#34;Pageview&#34;</p><p>View / user first click - &gt; &#34;ClickButton&#34;</p><p>ViewRT (redirect to second LP) - &gt; &#34;ViewContent&#34;</p><p>User last Click - &gt; &#34;CompletePayment&#34;</p><p><br></p><p>I&#39;ll add that we are also working on encouraging this client to implement EventsAPI with Pixel (next step), so I believe the client will be very interested in understanding if they will need to setup event deduplication for this.&nbsp;</p><p><br></p><p><br></p><p>Many thanks in advance! Looking forward to our call later,</p><p><br></p><p>Best regards,</p><p><br></p><p>Meital Tschernia</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a38ddb8d-357f-4e5e-9efc-03cae0ccb67g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706200091,
+      "auto_close_hit": 0,
+      "id": 7328072932146627000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "מיטל צרניה",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7121911502085325825",
+      "name": "מיטל צרניה",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Miguel,&nbsp;</p><p><br></p><p>Many thanks for the earlier troubleshoot call with this client - I&#39;ll close the ticket and reopen for when the client reaches out to schedule a call for testing the events funnel with EventsAPI.</p><p><br></p><p>Best regards,</p><p><br></p><p>Meital Tschernia</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a38ddb8d-357f-4e5e-9efc-03cae0ccb67g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1828165,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "miguel.suarez@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "EUI - IL - OBmedia Pixel troubleshoot implementation",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_007v_61e4541a-acdf-467a-b888-6248b7d5e0hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1706200097,
+  "owner_name": "מיטל צרניה",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7121911502085325825",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "מיטל צ׳רניה",
+  "follow_employee_id": 7158055,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 4569272,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "EUI - IL - OBmedia Pixel troubleshoot implementation",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "ObMedia",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Entertainment",
+      "valid": true,
+      "key": "Entertainment",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-IL",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7291694095523659778"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Adi Teller (BPM), Ronit Samet (BPM), Meital Tschernia (CSM)",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "7187922706707365889",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CMJB143C77UE8SFFB47G",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://plumbingcompaniesfind.today/?u2=a52022ac-bfb4-45f4-903d-e82bfe216107&acid=159159&t2=E.C.P.Preview_LtXytu6lI6EXgs79dwfWGaBu5wqu5IYzui8zknCrCbjVd45QqrqVNQj5y11t&avid=720&asrc=tt&atxt=&sqs=Plumbing%20Companies%20Be%27er%20Ya%27aqov%2CPlumbing%20Companies%20Near%20Me%2CPlumbing%20Contractors%20Be%27er%20Ya%27aqov%2CBe%27er%20Ya%27aqov%20Plumber"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-21",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hi, hope this ticket finds you well!\nOur client, ObMedia, would appreciate our tech team's guidance in implementing pixels optimally (4 events, full parameters), as they are struggling to troubleshoot various pixel issues on implementation.\n\nMany thanks in advance!\n\nBest regards,\n\nMeital Tschernia",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

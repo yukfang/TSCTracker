@@ -1,0 +1,480 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Thomas Mei",
+  "create_time": 1706634055,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706649179,
+      "auto_close_hit": 0,
+      "id": 7330001873530896000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Alia,</p><p><br></p><p>I&#39;ve taken a look at both the Dynamite and Garage Pixel data and notes are below:</p><ul><li>It looks like we are getting some duplicate Complete Payment events firing. I can tell they are duplicate events because they have the same order ID (in the URL) and also have the same basket of goods (products, value, etc.)</li><li>It doesn&#39;t look like they are firing quickly between duplicates i.e. the duplicate Complete Payment events are firing quickly one after another. There&#39;s a gap of 1-2 hours between the Complete Payment events firing.&nbsp;</li><li>I think the most likely possibility is that when a customer checks/revisits/reloads the order confirmation page, that may be triggering the Purchase event from firing once more.&nbsp;</li><li>Overall it&#39;s not a huge percentage of events that are firing multiple times (~5%) but that slight difference could definitely be causing an inflation of conversions and ROAS</li><li>I don&#39;t see an issue with the values being passed back i.e. they correspond to prices of products on their page so we can rule that out as a cause of ROAS inflation</li></ul><p><br></p><p>Recommendation: they should check how they have the Complete Payment events configured to fire. They need to figure out a way to make them fire just once per checkout if the issue is that reloading the order confirmation pages will re-fire a Complete Payment event. They should be able to test this pretty easily on their end. Place a test order, confirm a complete payment event fires, reload the page and see if it fires another complete payment event.&nbsp;</p><p><br></p><p>An alternative solution is to implement event_id passback, which would enable us to merge/de-duplicate the events in our data tables.&nbsp;</p><p><br></p><p>I would recommend resolving the issue by checking how the Complete Payment event is configured to fire and ensuring that it cannot fire more than once.&nbsp;</p><p><br></p><p>Please let me know if the client has any questions.&nbsp;</p><p><br></p><p>Regards,</p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1848241,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "thomas.mei@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Dynamite & Garage - Pixel Issue",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_008n_68275b2e-4b3b-4154-8b5f-053f3a3837hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1706649179,
+  "owner_name": "Alia Iannuzzi",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "6804844997780128773",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Alia Iannuzzi",
+  "follow_employee_id": 2819808,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 4120343,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Dynamite & Garage - Pixel Issue",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Garage & Dynamite",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-CA",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7164479016165048321",
+        "6826725435259224069"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Mitchell Alexander, Alia Iannuzzi, Aparna Barnes",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CDV3TUBC77UEFEV7L7VG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.dynamiteclothing.com/",
+        "https://www.garageclothing.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-30",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hi there!\n\nEvaluating both pixels for both accounts (Garage and Dynamite) but especially for Account ID: 7164479016165048321 (Dynamite), client is seeing very high CVRs, few clicks and very high ROAS and we're not sure why. There was a ticket logged previously but it closed (Ticket ID was #1673303). I've had the client take a screenrecording and screenshots of the pixel fires per the last closed ticket.  See below screenshots and info. \n\nAccount ID: 7164479016165048321 (Dynamite):\n- Less events recorded as client can only see Add to Cart and Complete Payment (no Browse and no View Content). But Complete Payment was successfully fired, per the client\n- All event activity cleared from the screen after 3 minutes (?), so they don't have a screen recording but do have the video they took on their phone, attached. \n- POP below, again showing the subtotal matching what the pixel recorded.\n\nAccount ID: 6826725435259224069 (Garage)\n- All events successfully fired all the way to Complete Payment (including Browse, View Content, Add to Cart). \n- Screen recording here: https://www.loom.com/share/14b88fa03ce2476cbe09d096fcfba42e, expanding the details of the events.\n- POP attached, showing that the subtotal matches the value recorded by the pixel in the screen recording\n\nClient is also seeing diagnostic errors in TTAM (attached) and are in the process of fixing them for both Garage and Dynamite.\n\nYour help in making sure all is firing correctly and diagnosing this issue is appreciated! Thank you in advance!",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "mov",
+          "file_name": "DYN Pixel Test.mov",
+          "file_url": "https://v16-tiktokcdn-com.akamaized.net/3a8f98891d40d79473345c58fd9d62a4/661fd290/video/tos/alisg/tos-alisg-v-90231e-sg/ocKxyi2KiEiEwk3bJ5fRiNwCaMAHyBo8AQdOA9/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=7126&bt=3563&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&ds=3&mime_type=video_mp4&qs=13&rc=M2xrM2s5cnJscDQzOGc0NEBpM2xrM2s5cnJscDQzOGc0NEBlazRvMmRjZXBgLS1kMS1zYSNlazRvMmRjZXBgLS1kMS1zcw%3D%3D&vvpl=1&l=2024031813452201021519521463563&btag=e00048000",
+          "file_key": "v1014dg50001cmsihofog65hr07hnih0",
+          "url": "https://v16-tiktokcdn-com.akamaized.net/3a8f98891d40d79473345c58fd9d62a4/661fd290/video/tos/alisg/tos-alisg-v-90231e-sg/ocKxyi2KiEiEwk3bJ5fRiNwCaMAHyBo8AQdOA9/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=7126&bt=3563&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&ds=3&mime_type=video_mp4&qs=13&rc=M2xrM2s5cnJscDQzOGc0NEBpM2xrM2s5cnJscDQzOGc0NEBlazRvMmRjZXBgLS1kMS1zYSNlazRvMmRjZXBgLS1kMS1zcw%3D%3D&vvpl=1&l=2024031813452201021519521463563&btag=e00048000",
+          "size": 13837310
+        },
+        {
+          "file_type": "png",
+          "file_name": "Dynamite.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9516a870b9cb46f7963b6138cbf0ea1a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833522&x-signature=41U%2FV6tzpbGWJzUgoWf%2BndVsa9o%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/9516a870b9cb46f7963b6138cbf0ea1a.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9516a870b9cb46f7963b6138cbf0ea1a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833522&x-signature=41U%2FV6tzpbGWJzUgoWf%2BndVsa9o%3D",
+          "size": 765305
+        },
+        {
+          "file_type": "png",
+          "file_name": "Garage.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b77785561afc407dae0152322b98326d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833522&x-signature=2vR56X5OFrkdwhNFyx1uEYI3RlA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b77785561afc407dae0152322b98326d.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b77785561afc407dae0152322b98326d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833522&x-signature=2vR56X5OFrkdwhNFyx1uEYI3RlA%3D",
+          "size": 479491
+        },
+        {
+          "file_type": "png",
+          "file_name": "Garage Errors.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/504bef27ff9d4adab5b5b7599df9a550.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833522&x-signature=hD0giHtzz5X81oAxN8oMlpfA8KI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/504bef27ff9d4adab5b5b7599df9a550.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/504bef27ff9d4adab5b5b7599df9a550.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833522&x-signature=hD0giHtzz5X81oAxN8oMlpfA8KI%3D",
+          "size": 125093
+        },
+        {
+          "file_type": "png",
+          "file_name": "Dynamite Errors.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8dbe78b6935148cea04da508dd9dc1c3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833522&x-signature=b4GGtWiCQjp7hfCP3XGxG8A70mM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8dbe78b6935148cea04da508dd9dc1c3.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8dbe78b6935148cea04da508dd9dc1c3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833522&x-signature=b4GGtWiCQjp7hfCP3XGxG8A70mM%3D",
+          "size": 255429
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

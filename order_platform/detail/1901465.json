@@ -1,0 +1,567 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497066245137",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Saurabh Choudhary",
+  "create_time": 1708982454,
+  "deadline": 0,
+  "archive_board_id": 1705151646989663,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709049270,
+      "auto_close_hit": 0,
+      "id": 7340309566871142000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi,</p><ul><li>the <strong>dedup rate</strong> for all the events are very low:</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/80124a4d2d1c432e908b51fa4984df27.png\" height=\"271.493\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80124a4d2d1c432e908b51fa4984df27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838271&amp;x-signature=QwZ%2FBDMmyq93zLT2Up5A%2F3uwX8s%3D\" width=\"375\"><p>We recommend at least 80% for each event.</p><p><br /></p><ul><li><strong>Parameter: </strong> They should send content_id, content_type, value and currency for ViewContent, AddToCart, initiateCheckout and CompletePayment events<br> </br></li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/50b9d8c7208f4159bcbc5eeab9062425.png\" height=\"250\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b9d8c7208f4159bcbc5eeab9062425.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838271&amp;x-signature=PABRvRzAWwkXCAAiCjuLdKnNYW8%3D\" width=\"375\"><p>This happens when the event_id from derver signals do not match with the web signals.</p><p><br /></p><ul><li>They are also sending PIIs for only 84% of CompletePayment events. They should send for 100% of the events.</li></ul><p><br /></p><p>Please schedule a call if more technical assistance is needed</p><p><br /></p><p>Use this link to schedule meeting on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709139340,
+      "auto_close_hit": 0,
+      "id": 7340696746089054000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "valentina.gutierrez@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Valentina Gutierrez Vanegas",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7233417724025078786",
+      "name": "Valentina Gutierrez Vanegas",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you,&nbsp;Saurabh! I will let you know if they have any questions or want to jump on a call.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a214ee16-7c37-40c2-81d0-f9da958059eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709149616,
+      "auto_close_hit": 0,
+      "id": 7340740766416781000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "valentina.gutierrez@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Valentina Gutierrez Vanegas",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7233417724025078786",
+      "name": "Valentina Gutierrez Vanegas",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey<span style=\"color: #333333;\">&nbsp;Saurabh,&nbsp;</span></p><p><br></p><p>I scheduled a call with the Signal Partner (Tag Hero) tomorrow from 12:30-1pm CT. I also added Josue to the call because this is a priority client.</p><p><br></p><p>Here is what Tag Hero said in response to your recommendations:&nbsp;</p><p><br></p><p>&#34;<span style=\"color: #222222;\">The challenge with the FlexPro site and data is that it’s not setup as a typical commerce site - it’s a Wordpress site withe products setup as “articles”.</span></p><p><span style=\"color: #222222;\">So understood it’s best practice, but for FlexPro we’re not able to grab product data for the ViewContent and AddToCart events, because those details aren’t available in the site structure and data layer. &nbsp;Also, in general, we do not send contents information with the InitiateCheckout event - only value and currency (and often, based on the client’s checkout process, the product data isn’t available for the InitiateCheckout page).</span></p><p><span style=\"color: #222222;\">We connected with the TT technical team we work with for this setup - and they agreed that was the best we could do.</span></p><p><span style=\"color: #222222;\">For the PII on 84% of events - that’s strange, as it indicates it’s setup correctly and woking with the majority of the events, but for a small % it’s not coming through. &nbsp;I wonder if it could be due to user inputs (or lack thereof) in the checkout process, as it likely wouldn’t be with the tagging setup if it works for &nbsp;majority of the events.</span></p><p><span style=\"color: #222222;\">For the event_IDs, we’ve tested this thoroughly, and in all tests we’ve seen the Pixel and server events match. &nbsp;The matching event_ID for the Pixel is sent over to the server container and pulled directly into the server event tag.</span></p><p><span style=\"color: #222222;\">Glad to have a call to talk/walk through any details.&#34;</span></p><p><br></p><p><span style=\"color: #3C4043;\">Valentina | Client Solutions Manager is inviting you to a scheduled Zoom meeting.<br><br>Topic: Valentina | Client Solutions Manager&#39;s Zoom Meeting<br>Time: Feb 29, 2024 12:30 PM Central Time (US and Canada)<br><br>Join Zoom Meeting<br></span><a href=\"https://www.google.com/url?q=https://tiktok.zoom.us/j/98132736938&amp;sa=D&amp;source=calendar&amp;ust=1709581464317709&amp;usg=AOvVaw0kUgG_BCQht6hxonvNqH5R\" target=\"_blank noopener noreferrer\">https://tiktok.zoom.us/j/98132736938</a><span style=\"color: #3C4043;\"><br><br>Meeting ID: 981 3273 6938<br><br>---<br><br>One tap mobile<br>+13462487799,,98132736938# US (Houston)<br>+16694449171,,98132736938# US<br><br>---<br><br>Dial by your location<br>• +1 346 248 7799 US (Houston)<br>• +1 669 444 9171 US<br>• +1 669 900 9128 US (San Jose)<br>• +1 719 359 4580 US<br>• +1 253 205 0468 US<br>• +1 253 215 8782 US (Tacoma)<br>• +1 507 473 4847 US<br>• +1 564 217 2000 US<br>• +1 646 558 8656 US (New York)<br>• +1 646 931 3860 US<br>• +1 689 278 1000 US<br>• +1 301 715 8592 US (Washington DC)<br>• +1 305 224 1968 US<br>• +1 309 205 3325 US<br>• +1 312 626 6799 US (Chicago)<br>• +1 360 209 5623 US<br>• +1 386 347 5053 US<br>• 833 928 4608 US Toll-free<br>• 833 928 4609 US Toll-free<br>• 833 928 4610 US Toll-free<br>• 877 853 5247 US Toll-free<br>• 888 788 0099 US Toll-free<br>• 833 548 0276 US Toll-free<br>• 833 548 0282 US Toll-free<br><br>Meeting ID: 981 3273 6938<br><br>Find your local number: </span><a href=\"https://www.google.com/url?q=https://tiktok.zoom.us/u/aoyGGESIg&amp;sa=D&amp;source=calendar&amp;ust=1709581464317709&amp;usg=AOvVaw2sgz9_qa3Pswz_hsjuN5mW\" target=\"_blank noopener noreferrer\">https://tiktok.zoom.us/u/aoyGGESIg</a><span style=\"color: #3C4043;\"><br><br>---<br><br>Join by SIP<br>• </span><a href target=\"_blank noopener noreferrer\">98132736938@zoomcrc.com</a><span style=\"color: #3C4043;\"><br><br>---<br><br>Join by H.323<br>• 162.255.37.11 (US West)<br>• 162.255.36.11 (US East)<br>• 221.122.88.195 (China)<br>• 115.114.131.7 (India Mumbai)<br>• 115.114.115.7 (India Hyderabad)<br>• 213.19.144.110 (Amsterdam Netherlands)<br>• 213.244.140.110 (Germany)<br>• 103.122.166.55 (Australia Sydney)<br>• 103.122.167.55 (Australia Melbourne)<br>• 209.9.211.110 (Hong Kong SAR)<br>• 149.137.40.110 (Singapore)<br>• 64.211.144.160 (Brazil)<br>• 149.137.68.253 (Mexico)<br>• 69.174.57.160 (Canada Toronto)<br>• 65.39.152.160 (Canada Vancouver)<br>• 207.226.132.110 (Japan Tokyo)<br>• 149.137.24.110 (Japan Osaka)<br><br>Meeting ID: 981 3273 6938</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a214ee16-7c37-40c2-81d0-f9da958059eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709261946,
+      "auto_close_hit": 0,
+      "id": 7341222988013945000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><strong>[status update]</strong></p><p><br></p><p>Had client call today:</p><ul><li>Ask them to fix dedup issue. Current dedup rate is 30% for CompletePayment</li><li>Ask them to add Content_type in the signals</li><li>Waiting for them to implement and then I can QA the dedup rate again</li></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709574874,
+      "auto_close_hit": 0,
+      "id": 7342567418075578000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "valentina.gutierrez@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Valentina Gutierrez Vanegas",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7233417724025078786",
+      "name": "Valentina Gutierrez Vanegas",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey&nbsp;<span style=\"color: #333333;\">Saurabh,</span></p><p><br></p><p><span style=\"color: #333333;\">Here&#39;s an update from Brett:&nbsp;</span></p><p><br></p><p><span style=\"color: #222222;\">Hi Valentina and Team-</span></p><p><span style=\"color: #222222;\">We did some final purchase testing - and everything in GTM looks correct, with matching event IDs firing for both the CompletePayment Pixel and eAPI events. &nbsp;</span></p><p><span style=\"color: #222222;\">One interesting thing we noticed though was that despite the fact that we have the “CompletePayment” and “PlaceAnOrder” tags setup the EXACT same way (and built on the TT eAPI tag template) - in Pixel Helper, it showed the event ID in the PlaceAnOrder Pixel code, but not in the CompletePayment. &nbsp;We’re doing a little more digging to see what that would be the case.</span></p><p><br></p><p><span style=\"color: #222222;\">As a quick follow-up, I think we may have a fix for the event_ids. &nbsp;Since they had a “CompletePayment” and “PlaceanOrder” event firing on the same trigger - we’re thinking it may be messing up the unique event ID assignment. &nbsp;Since we don’t need both events (had just included PlaceAnOrder for continuity from the old setup), we’re going to pause those tags and see if that fixes the issue with the event_ids on the CompletePayment event.</span></p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screenshot 2024-03-01 at 2.12.01 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=rWXZGjto9dVWEZDOc10s0Ptn%2FLc%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=rWXZGjto9dVWEZDOc10s0Ptn%2FLc%3D",
+              "biz_type": 2,
+              "size": 154763
+            },
+            {
+              "file_type": "png",
+              "file_name": "Screenshot 2024-03-01 at 2.12.10 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=PQem9hmE14SQtGqS6CVYUeRVDdE%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=PQem9hmE14SQtGqS6CVYUeRVDdE%3D",
+              "biz_type": 2,
+              "size": 146383
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a214ee16-7c37-40c2-81d0-f9da958059eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709580075,
+      "auto_close_hit": 0,
+      "id": 7342589640211284000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Saurabh Choudhary",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991773385026896898",
+      "name": "Saurabh Choudhary",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>thanks for the update.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1901465,
+  "workflow_nodes": [],
+  "board_id": 1705151646989663,
+  "employee_email": "saurabh.choudhary@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "FlexPro - Validate Setup",
+  "category_1_name": "Events API - Web",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a214ee16-7c37-40c2-81d0-f9da958059eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1709580075,
+  "owner_name": "Valentina Gutierrez Vanegas",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - Web",
+  "archive_category_1": "1736497066245137",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497066245137",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882593",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882609",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883585",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883601",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400130",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400146",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400162",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400178",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401154",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401170",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401186",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401202",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548708426753",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - Web"
+    }
+  ],
+  "core_user_id": "7233417724025078786",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Valentina Gutierrez Vanegas",
+  "follow_employee_id": 2208735,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1194197,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "FlexPro - Validate Setup",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "FlexPro",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Ecommerce",
+      "valid": true,
+      "key": "Ecommerce",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6992997320744779777"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Valentina Gutierrez, Jalesa Lewis",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C4F25AVM9G8R5RJ0ERH0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.flexpromeals.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-26",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hi! Can you please help us validate their setup and check that it's properly setup for Advanced Matching / PII Coverage? Thank you!",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b9d8c7208f4159bcbc5eeab9062425.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=PABRvRzAWwkXCAAiCjuLdKnNYW8%3D",
+          "file_name": "file_20240318_15_04_31_743257",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b9d8c7208f4159bcbc5eeab9062425.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=PABRvRzAWwkXCAAiCjuLdKnNYW8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/50b9d8c7208f4159bcbc5eeab9062425.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80124a4d2d1c432e908b51fa4984df27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=QwZ%2FBDMmyq93zLT2Up5A%2F3uwX8s%3D",
+          "file_name": "file_20240318_15_04_31_743320",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80124a4d2d1c432e908b51fa4984df27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=QwZ%2FBDMmyq93zLT2Up5A%2F3uwX8s%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/80124a4d2d1c432e908b51fa4984df27.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-01 at 2.12.01 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=rWXZGjto9dVWEZDOc10s0Ptn%2FLc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=rWXZGjto9dVWEZDOc10s0Ptn%2FLc%3D",
+          "biz_type": 2,
+          "size": 154763
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-01 at 2.12.10 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=PQem9hmE14SQtGqS6CVYUeRVDdE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=PQem9hmE14SQtGqS6CVYUeRVDdE%3D",
+          "biz_type": 2,
+          "size": 146383
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - Web-Events API - Web"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

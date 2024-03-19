@@ -1,0 +1,613 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354674",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1708974778,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709057017,
+      "auto_close_hit": 0,
+      "id": 7340342262473245000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Soo,</p><p>Happy to look into this for you! Would you happen to have the Business Center ID for the PUIG/JPG account? Chances are the 90% coverage in Aeolus is factoring in the PII coverage from the other Ad Accounts that this Pixel has been shared to.</p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709057842,
+      "auto_close_hit": 0,
+      "id": 7340345806798553000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Soo,</p><p>Can we also have the advertiser ensure that they aren&#39;t passing us back any placeholder and/or double hashed values for both Email and Phone number? This is what is likely causing the lower than expected coverage rate:</p><ul><li><strong>If using the email and phone_number parameters with hashed values - Do not double-hash the already hashed values:</strong> Please ensure that you are not double-hashing your already hashed values if manually hashing the email and the phone number. <strong>Double hashed values will disrupt proper attribution</strong></li><ul><li>Consider the following scenario:</li><ul><li>test@email.com hashes to 73062d872926c2a556f17b36f50e328ddf9bff9d403939bd14b6c3b7f5a33fc2</li><li>Hashed again, it translates to 46ac63cb489e722583a8eb8b3b336228cd42d831d0883990261a025a766276ba </li><li>Passing this value through phone_number will mean that we will incorrectly look for this hashed value for a match and not the translated hashed, correct value of test@email.com (73062d872926c2a556f17b36f50e328ddf9bff9d403939bd14b6c3b7f5a33fc2)</li></ul></ul><li><strong>Do not pass a hashed placeholder value</strong>: If there is not an email or phone number present, do not pass back a placeholder value. <strong>Passing back a hashed placeholder value will disrupt proper attribution</strong></li><ul><li>For example, if the value &#34;undefined&#34; is passed and then hashed to &#34;eb045d78d273107348b0300c01d29b7552d622abbc6faf81b3ec55359aa9950c&#34;, the majority of your events will contain this same hashed value for email and/or phone. This will disrupt proper attribution</li><li>This can be resolved by either passing back an empty string &#34;&#34; or omitting the appropriate parameter in the ttq.identify() function when sending us this data</li><ul><li>Please ensure that you are not hashing the empty string &#34;&#34;</li><li>&#34;&#34; hashed translates to 12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126</li><li>Passing back this value will also result in the disruption of proper attribution</li></ul><li>If you cannot omit the parameter if it is not available, simply pass back an unhashed empty string for the desired Manual Advanced Matching parameters</li></ul></ul><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709074611,
+      "auto_close_hit": 0,
+      "id": 7340417154791064000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "soo.oh@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Soo Oh",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7309232771187672066",
+      "name": "Soo Oh",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Business Center ID is&nbsp;7133084634455343106</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0057_4e31d930-5d26-4731-9b78-39d13aecf92h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709763434,
+      "auto_close_hit": 0,
+      "id": 7343376466459066000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "soo.oh@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Soo Oh",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7309232771187672066",
+      "name": "Soo Oh",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie, are you able to see if there are other ad accounts that are using this Pixel with higher PII coverage? Specifically over 90%?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0057_4e31d930-5d26-4731-9b78-39d13aecf92h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709829703,
+      "auto_close_hit": 0,
+      "id": 7343662054030590000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Soo,</p><p>Yep sure thing! Here are the Ad Accounts that are using this Pixel with higher PII coverage over 90%</p><p><br /></p><p>7117377366959095810 - 100%</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/19a835e3a51a4689a8c5ded98624daba.png\" height=\"226.453\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/19a835e3a51a4689a8c5ded98624daba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838268&amp;x-signature=Rn8iceGc%2Bc5a%2FpZsuVfya4KBfjI%3D\" width=\"375\"><p>7117374122509844481 - 100%</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3e45caa84fe7434ea73e11d518eb7ef7.png\" height=\"227.288\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3e45caa84fe7434ea73e11d518eb7ef7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838268&amp;x-signature=RW6Dub%2FAFE8tGHWDeXRf6XwLyB0%3D\" width=\"375\"><p>7172366204588261377 - 100%</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/95efd8c340d84e4a92a8a797ac6f4650.png\" height=\"223.684\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95efd8c340d84e4a92a8a797ac6f4650.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838268&amp;x-signature=38jr55v7iyGWP7Ku2s4o9xv1wT0%3D\" width=\"375\"><p><br /></p><p>7117370031717040129 currently at 0%</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1b651e5debda40389ea53bdd982e7c3b.png\" height=\"223.034\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1b651e5debda40389ea53bdd982e7c3b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838268&amp;x-signature=O8NUuZyV8vDMWXVtI1XO0u973mI%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709830683,
+      "auto_close_hit": 0,
+      "id": 7343665838844625000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "soo.oh@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Soo Oh",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7309232771187672066",
+      "name": "Soo Oh",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you so much!!!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0057_4e31d930-5d26-4731-9b78-39d13aecf92h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1901319,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "PUIG - PII Events Coverage",
+  "category_1_name": "Basic",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0057_4e31d930-5d26-4731-9b78-39d13aecf92h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1709830683,
+  "owner_name": "Soo Oh",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Basic",
+  "archive_category_1": "1736497459354674",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7309232771187672066",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Soo Oh",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 1,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 944566,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "PUIG - PII Events Coverage",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "PUIG",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "CPG",
+      "valid": true,
+      "key": "CPG",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7117377366959095810"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Soo Oh - SPP",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C5RBCIC247C0IGAK0F6G",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.jeanpaulgaultier.com/us/en"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-26",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Aeolus is reporting over 90% Events Coverage % but Complete Payment event in Events Manager only reports 38%. Could you investigate and confirm what the events coverage % is for each event?",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95efd8c340d84e4a92a8a797ac6f4650.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838268&x-signature=38jr55v7iyGWP7Ku2s4o9xv1wT0%3D",
+          "file_name": "file_20240318_15_04_28_938312",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95efd8c340d84e4a92a8a797ac6f4650.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838268&x-signature=38jr55v7iyGWP7Ku2s4o9xv1wT0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/95efd8c340d84e4a92a8a797ac6f4650.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/19a835e3a51a4689a8c5ded98624daba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838268&x-signature=Rn8iceGc%2Bc5a%2FpZsuVfya4KBfjI%3D",
+          "file_name": "file_20240318_15_04_28_938396",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/19a835e3a51a4689a8c5ded98624daba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838268&x-signature=Rn8iceGc%2Bc5a%2FpZsuVfya4KBfjI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/19a835e3a51a4689a8c5ded98624daba.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3e45caa84fe7434ea73e11d518eb7ef7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838268&x-signature=RW6Dub%2FAFE8tGHWDeXRf6XwLyB0%3D",
+          "file_name": "file_20240318_15_04_28_938433",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3e45caa84fe7434ea73e11d518eb7ef7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838268&x-signature=RW6Dub%2FAFE8tGHWDeXRf6XwLyB0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/3e45caa84fe7434ea73e11d518eb7ef7.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1b651e5debda40389ea53bdd982e7c3b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838268&x-signature=O8NUuZyV8vDMWXVtI1XO0u973mI%3D",
+          "file_name": "file_20240318_15_04_28_938449",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1b651e5debda40389ea53bdd982e7c3b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838268&x-signature=O8NUuZyV8vDMWXVtI1XO0u973mI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1b651e5debda40389ea53bdd982e7c3b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Basic"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

@@ -1,0 +1,1143 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497456456705",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Joey Choi",
+  "create_time": 1706308263,
+  "deadline": 0,
+  "archive_board_id": 1705151646989664,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706573826,
+      "auto_close_hit": 0,
+      "id": 7329675573435892000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Jessica, to investigate further, can you request the below from the advertiser?</p><p><br></p><p>1) Screen shot of conversion value mapping from Appsflyer </p><p>2) Screen shot of the events postback setup in Appsflyer </p><p>3) Screen shot of SKAN events reporting dashboard in Appsflyer to see the tiktok attributed events are reported by Appsflyer</p><p><br></p><p>Also, if they haven&#39;t already, I would recommend that they complete the following:</p><ul><li><strong>Update your Mobile Measurement Partner SDK</strong>. Updating to the SKAN-supported version of the MMP SDK will ensure that your &nbsp;app is registered for SKAN-based attribution and gives you the ability to optimize and measure installs and post-install events from iOS 14 users.&nbsp;</li><li><strong>Complete the Conversion event configuration in their MMP interface.</strong>This ensures that ad networks like TikTok can receive post-install events and event values from SKAN API in order to provide optimization and measurement for iOS 14 campaigns.&nbsp;</li><li><strong>Send all events to TikTok via your MMP. </strong>In order to help improve performance of your app campaigns, we recommend sending TikTok all data - including unattributed data - from your MMP. &nbsp;</li></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706632218,
+      "auto_close_hit": 0,
+      "id": 7329928829542203000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jessica.puro@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jessica Puro",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7128352992928384002",
+      "name": "Jessica Puro",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>IDk why the screenshots didnt attach lol but here they are:</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "1.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d416184e8c614aca8fff36d3d6b735f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=aRXqUfZVG2bu0Fadljs0QvkXdT4%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/d416184e8c614aca8fff36d3d6b735f7.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d416184e8c614aca8fff36d3d6b735f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=aRXqUfZVG2bu0Fadljs0QvkXdT4%3D",
+              "biz_type": 2,
+              "size": 105119
+            },
+            {
+              "file_type": "png",
+              "file_name": "2.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/66cfeb740fa7478ca600aa3fed4786c3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=%2F8oYkv9oMlrOLZt0mY7tJu6ywbs%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/66cfeb740fa7478ca600aa3fed4786c3.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/66cfeb740fa7478ca600aa3fed4786c3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=%2F8oYkv9oMlrOLZt0mY7tJu6ywbs%3D",
+              "biz_type": 2,
+              "size": 119268
+            },
+            {
+              "file_type": "png",
+              "file_name": "2.1.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e11c6abf14c24b83b11ca568e55e784f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=ddqjUzPn6pFlY7G%2BR2MK0abNUs0%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/e11c6abf14c24b83b11ca568e55e784f.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e11c6abf14c24b83b11ca568e55e784f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=ddqjUzPn6pFlY7G%2BR2MK0abNUs0%3D",
+              "biz_type": 2,
+              "size": 137820
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_85abe5ab-dbee-42d6-9b86-7279c28e6efh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706632154,
+      "auto_close_hit": 0,
+      "id": 7329928871313146000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jessica.puro@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jessica Puro",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7128352992928384002",
+      "name": "Jessica Puro",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Here is what the client sent back:</p><p><br></p><p><span style=\"color: #222222;\">Find below&nbsp;the information requested:</span></p><p><span style=\"color: #222222;\">About discrepancies between platform and AF, are you referring&nbsp;only to iOS? For us it is pretty normal to see a % of discrepancies between the MMP and the SAN&#39;s partners dashboard.&nbsp;</span></p><p><span style=\"color: #333333;\">1) Screenshot of conversion value mapping from Appsflyer</span></p><p><span style=\"color: #FF0000;\">Are you referring&nbsp;to SKAN Conversion Studio right? We added two events: complete registration and start trial.</span></p><p><br></p><p><span style=\"color: #333333;\">2) Screenshot of the events postback setup in Appsflyer</span></p><p><span style=\"color: #FF0000;\">For iOS</span></p><p><span style=\"color: #FF0000;\">For Android&nbsp;</span></p><p><span style=\"color: #333333;\">3) Screen shot of SKAN events reporting dashboard in Appsflyer to see the tiktok attributed events are reported by Appsflyer</span></p><p><span style=\"color: #FF0000;\">Until now we&#39;re not seeing in-app events for any of our active iOS campaigns. With tiktok we&#39;re already seeing a good volume of installs every day so I think it is matter of time for the events to start appearing on the dash. Even though please confirm me If you see any missing information.</span></p><p><br></p><p><span style=\"color: #333333;\">Also, if you haven&#39;t already, I would recommend that you complete the following:</span></p><ul><ul><li><span style=\"color: #333333;\"><strong>Update your Mobile Measurement Partner SDK</strong>. Updating to the SKAN-supported version of the MMP SDK will ensure that your app is registered for SKAN-based attribution and gives you the ability to optimize and measure installs and post-install events from iOS 14 users.&nbsp;</span><br><span style=\"color: #FF0000;\">Is there any chance on my side to confirm the AF SDK version? What version should be using?&nbsp;</span></li><li><span style=\"color: #333333;\"><strong>Complete the Conversion event configuration in their MMP interface.&nbsp;</strong>This ensures that ad networks like TikTok can receive post-install events and event values from SKAN API in order to provide optimization and measurement for iOS 14 campaigns.&nbsp;</span><br><span style=\"color: #FF0000;\">I think&nbsp;this is already done, right?</span></li><li><span style=\"color: #333333;\"><strong>Send all events to TikTok via your MMP.&nbsp;</strong>In order to help improve performance of your app campaigns, we recommend sending TikTok all data - including unattributed data - from your MMP.&nbsp;&nbsp;</span><br><span style=\"color: #FF0000;\">Done since the beginning&nbsp;(screenshots)</span></li></ul></ul><p>Hope this information is what you expected. If not, please just let me know!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_85abe5ab-dbee-42d6-9b86-7279c28e6efh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706632231,
+      "auto_close_hit": 0,
+      "id": 7329928899998007000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jessica.puro@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jessica Puro",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7128352992928384002",
+      "name": "Jessica Puro",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "3.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2e3a85377fb842b9ab6ec4df6b7254e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=Y4V8DNrCe3b8UlDJ10UXE1hT8F0%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/2e3a85377fb842b9ab6ec4df6b7254e8.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2e3a85377fb842b9ab6ec4df6b7254e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=Y4V8DNrCe3b8UlDJ10UXE1hT8F0%3D",
+              "biz_type": 2,
+              "size": 273453
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_85abe5ab-dbee-42d6-9b86-7279c28e6efh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706635231,
+      "auto_close_hit": 0,
+      "id": 7329942086982107000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Jessica, thanks for passing that along; I find it odd that we're seeing SKAN conversions on the ad group/campaign level, but no conversions are reported in their Events Manager:</p><p><br /></p><img alt=\"Screenshot 2024-01-29 at 4.14.15 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bdaf8b27f34e40359b527473eade029c.png\" height=\"78.753\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bdaf8b27f34e40359b527473eade029c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832791&amp;x-signature=utroOOOxOMvQaz4LO1V%2BSybGvO0%3D\" width=\"375\"><p><br /></p><img alt=\"Screenshot 2024-01-30 at 9.17.39 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5683e94513994219bbb93a1e9a165067.png\" height=\"64.29\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5683e94513994219bbb93a1e9a165067.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832791&amp;x-signature=vapNRukjKqu8HiP6i6PsmjJt2i4%3D\" width=\"375\"><p><br /></p><p>I escalated this to TPS and you can view the progress on that ticket <a href=\"https://ads.tiktok.com/athena/requester/ticket/list?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456&amp;ticket_id=1848297\" target=\"_blank\">here</a>.</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706635556,
+      "auto_close_hit": 0,
+      "id": 7329943365733057000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jessica.puro@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jessica Puro",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7128352992928384002",
+      "name": "Jessica Puro",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Yes and no iOS installs too?! So weird - thank you so much!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_85abe5ab-dbee-42d6-9b86-7279c28e6efh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706728440,
+      "auto_close_hit": 0,
+      "id": 7330341701766218000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jessica.puro@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jessica Puro",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7128352992928384002",
+      "name": "Jessica Puro",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>do you know the answer to these:&nbsp;</p><ul><li><span style=\"color: #333333;\"><strong>Update your Mobile Measurement Partner SDK</strong>. Updating to the SKAN-supported version of the MMP SDK will ensure that your app is registered for SKAN-based attribution and gives you the ability to optimize and measure installs and post-install events from iOS 14 users.&nbsp;</span><br><span style=\"color: #FF0000;\">Is there any chance on my side to confirm the AF SDK version? What version should be using?&nbsp;</span></li><li><span style=\"color: #333333;\"><strong>Complete the Conversion event configuration in their MMP interface.&nbsp;</strong>This ensures that ad networks like TikTok can receive post-install events and event values from SKAN API in order to provide optimization and measurement for iOS 14 campaigns.&nbsp;</span><br><span style=\"color: #FF0000;\">I think&nbsp;this is already done, right?</span></li></ul><p><br></p><p><span style=\"color: #222222;\">or should i ask this on the other ticket?</span></p><p><br></p><p><span style=\"color: #222222;\">I was about to email the client and ask for the new screenshots&nbsp;</span></p><p><br></p><p><span style=\"color: #222222;\">thank you!</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_85abe5ab-dbee-42d6-9b86-7279c28e6efh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706732641,
+      "auto_close_hit": 0,
+      "id": 7330359511850516000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Jessica, following up with updates from the TPS ticket:</p><p><br /></p><p><span style=\"color: #333333;\">The screenshots shared are from the correct places, but they are cropped and do not show the full picture. </span></p><p><br /></p><p>The first one with SKAN Overview (below), that section is only showing installation, but missing the other events that SKAN reported. </p><img alt=\"Screenshot 2024-01-30 at 3.18.06 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f804de7a19a741208b42abbd40580588.png\" height=\"183.848\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f804de7a19a741208b42abbd40580588.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832791&amp;x-signature=H39iWDGlCgNSnmy9ys2y2QGxkmI%3D\" width=\"375\"><p><br /></p><p>For the event Mapping, there are two of them, but I cannot tell which one is from SAN (SRN) and from Legacy integration. </p><p><br /></p><p>Also for the Conversion Value mapping, cannot tell if that was taken from SAN (SRN) or the legacy module.</p><p><br /></p><p>Can you please ask the client to zoom out and/or maybe try to find a way to take a full screenshot of the events that they have concerns with?</p><p><br /></p><p>Regarding their two follow-up questions, I'll pass those along to TPS to answer with certainty. Thanks!</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706810161,
+      "auto_close_hit": 0,
+      "id": 7330693296806822000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jessica.puro@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jessica Puro",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7128352992928384002",
+      "name": "Jessica Puro",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you! I&#39;ll let you know as soon as they respond with the new screenshots.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_85abe5ab-dbee-42d6-9b86-7279c28e6efh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706914368,
+      "auto_close_hit": 0,
+      "id": 7331140249780847000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jessica.puro@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jessica Puro",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7128352992928384002",
+      "name": "Jessica Puro",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #222222;\">Find here all the details:</span></p><p><br /></p><p><span style=\"color: #222222;\">1. As I mentioned, we saw the first in-app events just now</span></p><p><span style=\"color: #222222;\"> so that's why I have not included on the previous email. </span></p><img alt=\"zumbaaa.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/43aa80c49f2c43bdb18b8a289e157d1b.png\" height=\"180.799\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43aa80c49f2c43bdb18b8a289e157d1b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832791&amp;x-signature=LyOSUQaZSgVjiEpX19%2BCSUJgw0E%3D\" width=\"375\"><p><br /></p><p><span style=\"color: #222222;\">2. About both events mapping: one is for Android and the other for iOS. This is the first integration we made for the Zumba App so we made it under the SRN only. Legacy was not integrated at all. </span></p><p><br /></p><p><span style=\"color: #222222;\">3. Conversion Value Mapping is for any integration, it is made in a separate tab. It is not made for SRN or Legacy separately but for all partners. </span></p><p><br /></p><img alt=\"zumbaaa2.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/26271ebb72424072be1ee5ace64d8c73.png\" height=\"299.188\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26271ebb72424072be1ee5ace64d8c73.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832791&amp;x-signature=rLpJlgMbPCaY7FpdXyuEVnCHNI4%3D\" width=\"375\" /></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_85abe5ab-dbee-42d6-9b86-7279c28e6efh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707161199,
+      "auto_close_hit": 0,
+      "id": 7332200724832600000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>From Dagmawe in the TPS ticket:</p><p><br></p><p><span style=\"color: #333333;\">I checked our tables and I do not see MMP SDK version logged on our side.&nbsp;</span></p><p><span style=\"color: #333333;\">I think the client should have access to that or they can ask the MMP:</span></p><p><span style=\"color: #333333;\"><a target=\"_blank\" href=\"https://support.appsflyer.com/hc/en-us/articles/207032126-SDK-integration-overview\">https://support.appsflyer.com/hc/en-us/articles/207032126-SDK-integration-overview</a></span><br></p><p><br></p><p><span style=\"color: #333333;\">An overview of steps needed to enable SKAN interoperation between AppsFlyer &lt;&gt; TikTok can be found <a target=\"_blank\" href=\"https://support.appsflyer.com/hc/en-us/articles/360018499098-SKAN-interoperation-with-TikTok-for-Business#enabling-interoperation\">here</a>.</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707247176,
+      "auto_close_hit": 0,
+      "id": 7332570006154183000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jessica.puro@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jessica Puro",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7128352992928384002",
+      "name": "Jessica Puro",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><br /></p><p><span style=\"color: #222222;\">\"About the SDK version (i'm confirming this with my Tech team) but we have v6.12.2 so according to the article, should we upgrade to 6.2.3?</span></p><p><span style=\"color: #222222;\"><br /></span><br /></p><img alt=\"unnamed-1.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b8f4ea47cfb649598881fc09c79f67bf.png\" height=\"130.833\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8f4ea47cfb649598881fc09c79f67bf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832792&amp;x-signature=Q80YzTnRphOU7HpuZFiBvedq5GA%3D\" width=\"375\"><p><span style=\"color: #222222;\">Regarding SKAN Setup the answer is yes the measurement mode is active and the events are already integrated in 'active integration partners' (screenshot on this same thread)\"</span></p><p><br /></p><img alt=\"unnamed-2.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d0adb04163994a0e9b96a7eef4bdc2a4.png\" height=\"202.604\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d0adb04163994a0e9b96a7eef4bdc2a4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832792&amp;x-signature=%2BSNYXWlZfu4vtvWSY1gZMjLOXE8%3D\" width=\"375\" /></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_85abe5ab-dbee-42d6-9b86-7279c28e6efh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707380240,
+      "auto_close_hit": 0,
+      "id": 7333141521337778000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p>Hi Joey,</p><p><br>I was preparing SKAN training for the TSC team and came across your ticket.</br></p><p>For SKAN metrics, it will not be shown in Result as you can hover your mouse over the column, and it will be shown only in Conversions (SKAN).</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9c048a6aa572484fbe4574b9cf68bf23.png\" height=\"91.854\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c048a6aa572484fbe4574b9cf68bf23.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832792&amp;x-signature=WnYuumw%2FDCWc54aAUmtoo6yLg9Y%3D\" width=\"375\"><p>Clients are advised to check the metrics in (SKAN) column. </p><p><br /></p><p>Does this address the issue? I was being confused why we now start talking about SDKs :S</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707420342,
+      "auto_close_hit": 0,
+      "id": 7333313982993826000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks for stepping in here Chan, that explains a lot! So is it expected behavior for SKAN metrics to come up as 0 across the board (screenshot 1 below), and these instead will be reported under Measurement Partner as the data source (screenshot 2 below)?</p><img alt=\"Screenshot 2024-02-08 at 11.24.16 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ecb45d83c4464177a1656ccdc60b2dba.png\" height=\"66.324\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ecb45d83c4464177a1656ccdc60b2dba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832792&amp;x-signature=4HA32cnzHZFSxdfp1SVgcjdn%2BNo%3D\" width=\"375\"><img alt=\"Screenshot 2024-02-08 at 11.23.40 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a20f0121219d4d33beebfdb064b657bd.png\" height=\"64.731\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a20f0121219d4d33beebfdb064b657bd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832792&amp;x-signature=9p3n8bn2uIAatkU3x4mQA9Sa3IA%3D\" width=\"375\"><p>Appreciate the help here.</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707444647,
+      "auto_close_hit": 0,
+      "id": 7333417506306081000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p>SKAN metrics should show in your screenshot 1. MMP metrics will show in screenshot 2. These metrics are different.</p><p>For the Events Manager screen, internal employees have restrictions on data access to the US user data, and I am presuming it might be the cause. The best step to verify is to ask the client whether they can see the metrics as the SKAN metrics should be visible to the client.</p><p>https://bytedance.larkoffice.com/docs/doccnPVRxTuy9cNoeSihYRkny1b</p><p><br></p><p>(I dont think the client ever asked about metrics on Events Manager, so maybe it is safe to ignore for now. )</p><p><br></p><p>On the other hand, this client has not configured anything on SKAN Conversion values, meaning that they will not be able to see any in-app events except for installs, as Dagmawe pointed out earlier.</p><p>Here are the steps on how to:</p><p>https://support.appsflyer.com/hc/en-us/articles/4403727223185-SKAN-Conversion-Studio</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707765916,
+      "auto_close_hit": 0,
+      "id": 7334798067763347000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": "admin",
+      "is_update": false,
+      "reply_to_user_name": "Chan Lim",
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": 7119495696798254000,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p>Thanks again, Chan! How were you able to audit whether or not the client has configured anything for SKAN Conversion values? I requested access from Ray for the first link you sent, so haven&#39;t had a chance to view anything there at the moment.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707788644,
+      "auto_close_hit": 0,
+      "id": 7334895347782795000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p>Hi Joey, I will show you how in the training tomorrow. Basically, we have a tool to view the client configs.</p><p><br></p><p>Just to be sure, the link I provided is regarding our restricted access on client metrics on TTEM, and the &#39;conversion values&#39; that I am referring to is about the configurations.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707845112,
+      "auto_close_hit": 0,
+      "id": 7335138509604372000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jessica.puro@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jessica Puro",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7128352992928384002",
+      "name": "Jessica Puro",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Joey! Any update here? Are they good to go now? Thank you!!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_85abe5ab-dbee-42d6-9b86-7279c28e6efh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707933685,
+      "auto_close_hit": 0,
+      "id": 7335518747773403000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Jessica, we're seeing conversions on the ad group-level under the Conversions (SKAN) column, and it's confirmed that we're recording events including app installs. It's still showing up as 0 for me, but this may be due to restricted data access internally (the client will see the source of truth in their dashboard). Can you confirm with them that they're seeing non-zero numbers in their view?</p><img alt=\"Screenshot 2024-02-14 at 9.58.59 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7e6d0bd6c9f54911b64ab9d6aa5458cf.png\" height=\"110.897\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e6d0bd6c9f54911b64ab9d6aa5458cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832792&amp;x-signature=tH1708T9q94q2GNcxoIJzVlxB2c%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708450145,
+      "auto_close_hit": 0,
+      "id": 7337736995059286000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "jessica.puro@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jessica Puro",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7128352992928384002",
+      "name": "Jessica Puro",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Joey -&nbsp;<span style=\"color: #222222;\">Zumba confirmed they are seeing SKAN events (non-zero) on their side for the iOS app campaign!</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_85abe5ab-dbee-42d6-9b86-7279c28e6efh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708450771,
+      "auto_close_hit": 0,
+      "id": 7337739129930646000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Awesome news! Do they have any other concerns?&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1841503,
+  "workflow_nodes": [],
+  "board_id": 1705151646989664,
+  "employee_email": "joey.choi@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Zumba - AppsFlyer/App Events",
+  "category_1_name": "Events API - App",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_85abe5ab-dbee-42d6-9b86-7279c28e6efh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1708450771,
+  "owner_name": "Jessica Puro",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - App",
+  "archive_category_1": "1736497456456705",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497456456705",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385939689521",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385939690497",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385939690513",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385939690529",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385939690545",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385939691521",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385939691537",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772386004887554",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772386004887570",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772386004887586",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772386004887602",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772386004888578",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548677945394",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - App"
+    }
+  ],
+  "core_user_id": "7128352992928384002",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Jessica Puro",
+  "follow_employee_id": 7055631,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2318021,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Zumba - AppsFlyer/App Events",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Zumba Fitness",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7325532308138934273"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Jessica Puro BPM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "ID6447769025 IDcom.zumba.consumerapp",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.zumba.com/en-US"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Mobile Measurement Partner (MMP)",
+      "valid": true,
+      "key": "Mobile Measurement Partner (MMP)",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-23",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "The campaign launched on 1/23 and is showing 334 app installs for android, but 0 app installs for iOS. Also, the client sent over a screenshot from AppsFlyer showing that they've only received 92 app installs from TikTok. Can you please help?",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "image.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24bf3b49cc3f423cb92eeadd05ac91fd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=QkieUF%2Fu7pL1HiJ4h1V6b4cuzlQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/24bf3b49cc3f423cb92eeadd05ac91fd.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24bf3b49cc3f423cb92eeadd05ac91fd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=QkieUF%2Fu7pL1HiJ4h1V6b4cuzlQ%3D",
+          "size": 201084
+        },
+        {
+          "file_type": "png",
+          "file_name": "android.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3fbd4e8475804d08897acf78821431fa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=86YgeIoikz%2F9efGtp2H15wK5eVQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/3fbd4e8475804d08897acf78821431fa.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3fbd4e8475804d08897acf78821431fa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=86YgeIoikz%2F9efGtp2H15wK5eVQ%3D",
+          "size": 1742058
+        },
+        {
+          "file_type": "png",
+          "file_name": "ios.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/60102cac13724215b97148d17a47c00e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=fAhcLvIO%2Bs8pAadTvA31rJlgTbc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/60102cac13724215b97148d17a47c00e.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/60102cac13724215b97148d17a47c00e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=fAhcLvIO%2Bs8pAadTvA31rJlgTbc%3D",
+          "size": 1979497
+        },
+        {
+          "file_type": "png",
+          "file_name": "1.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d416184e8c614aca8fff36d3d6b735f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=aRXqUfZVG2bu0Fadljs0QvkXdT4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d416184e8c614aca8fff36d3d6b735f7.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d416184e8c614aca8fff36d3d6b735f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=aRXqUfZVG2bu0Fadljs0QvkXdT4%3D",
+          "biz_type": 2,
+          "size": 105119
+        },
+        {
+          "file_type": "png",
+          "file_name": "2.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/66cfeb740fa7478ca600aa3fed4786c3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=%2F8oYkv9oMlrOLZt0mY7tJu6ywbs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/66cfeb740fa7478ca600aa3fed4786c3.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/66cfeb740fa7478ca600aa3fed4786c3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=%2F8oYkv9oMlrOLZt0mY7tJu6ywbs%3D",
+          "biz_type": 2,
+          "size": 119268
+        },
+        {
+          "file_type": "png",
+          "file_name": "2.1.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e11c6abf14c24b83b11ca568e55e784f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=ddqjUzPn6pFlY7G%2BR2MK0abNUs0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e11c6abf14c24b83b11ca568e55e784f.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e11c6abf14c24b83b11ca568e55e784f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=ddqjUzPn6pFlY7G%2BR2MK0abNUs0%3D",
+          "biz_type": 2,
+          "size": 137820
+        },
+        {
+          "file_type": "png",
+          "file_name": "3.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2e3a85377fb842b9ab6ec4df6b7254e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=Y4V8DNrCe3b8UlDJ10UXE1hT8F0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2e3a85377fb842b9ab6ec4df6b7254e8.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2e3a85377fb842b9ab6ec4df6b7254e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=Y4V8DNrCe3b8UlDJ10UXE1hT8F0%3D",
+          "biz_type": 2,
+          "size": 273453
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5683e94513994219bbb93a1e9a165067.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=vapNRukjKqu8HiP6i6PsmjJt2i4%3D",
+          "file_name": "file_20240318_13_33_11_800677",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5683e94513994219bbb93a1e9a165067.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=vapNRukjKqu8HiP6i6PsmjJt2i4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5683e94513994219bbb93a1e9a165067.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bdaf8b27f34e40359b527473eade029c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=utroOOOxOMvQaz4LO1V%2BSybGvO0%3D",
+          "file_name": "file_20240318_13_33_11_800745",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bdaf8b27f34e40359b527473eade029c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=utroOOOxOMvQaz4LO1V%2BSybGvO0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/bdaf8b27f34e40359b527473eade029c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f804de7a19a741208b42abbd40580588.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=H39iWDGlCgNSnmy9ys2y2QGxkmI%3D",
+          "file_name": "file_20240318_13_33_11_911390",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f804de7a19a741208b42abbd40580588.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=H39iWDGlCgNSnmy9ys2y2QGxkmI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f804de7a19a741208b42abbd40580588.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26271ebb72424072be1ee5ace64d8c73.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=rLpJlgMbPCaY7FpdXyuEVnCHNI4%3D",
+          "file_name": "file_20240318_13_33_11_994419",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26271ebb72424072be1ee5ace64d8c73.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=rLpJlgMbPCaY7FpdXyuEVnCHNI4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/26271ebb72424072be1ee5ace64d8c73.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43aa80c49f2c43bdb18b8a289e157d1b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=LyOSUQaZSgVjiEpX19%2BCSUJgw0E%3D",
+          "file_name": "file_20240318_13_33_11_994497",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43aa80c49f2c43bdb18b8a289e157d1b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832791&x-signature=LyOSUQaZSgVjiEpX19%2BCSUJgw0E%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/43aa80c49f2c43bdb18b8a289e157d1b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d0adb04163994a0e9b96a7eef4bdc2a4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832792&x-signature=%2BSNYXWlZfu4vtvWSY1gZMjLOXE8%3D",
+          "file_name": "file_20240318_13_33_12_056440",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d0adb04163994a0e9b96a7eef4bdc2a4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832792&x-signature=%2BSNYXWlZfu4vtvWSY1gZMjLOXE8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d0adb04163994a0e9b96a7eef4bdc2a4.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8f4ea47cfb649598881fc09c79f67bf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832792&x-signature=Q80YzTnRphOU7HpuZFiBvedq5GA%3D",
+          "file_name": "file_20240318_13_33_12_056503",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8f4ea47cfb649598881fc09c79f67bf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832792&x-signature=Q80YzTnRphOU7HpuZFiBvedq5GA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b8f4ea47cfb649598881fc09c79f67bf.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c048a6aa572484fbe4574b9cf68bf23.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832792&x-signature=WnYuumw%2FDCWc54aAUmtoo6yLg9Y%3D",
+          "file_name": "file_20240318_13_33_12_118726",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c048a6aa572484fbe4574b9cf68bf23.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832792&x-signature=WnYuumw%2FDCWc54aAUmtoo6yLg9Y%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/9c048a6aa572484fbe4574b9cf68bf23.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a20f0121219d4d33beebfdb064b657bd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832792&x-signature=9p3n8bn2uIAatkU3x4mQA9Sa3IA%3D",
+          "file_name": "file_20240318_13_33_12_162423",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a20f0121219d4d33beebfdb064b657bd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832792&x-signature=9p3n8bn2uIAatkU3x4mQA9Sa3IA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a20f0121219d4d33beebfdb064b657bd.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ecb45d83c4464177a1656ccdc60b2dba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832792&x-signature=4HA32cnzHZFSxdfp1SVgcjdn%2BNo%3D",
+          "file_name": "file_20240318_13_33_12_162480",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ecb45d83c4464177a1656ccdc60b2dba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832792&x-signature=4HA32cnzHZFSxdfp1SVgcjdn%2BNo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ecb45d83c4464177a1656ccdc60b2dba.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e6d0bd6c9f54911b64ab9d6aa5458cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832792&x-signature=tH1708T9q94q2GNcxoIJzVlxB2c%3D",
+          "file_name": "file_20240318_13_33_12_307926",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e6d0bd6c9f54911b64ab9d6aa5458cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832792&x-signature=tH1708T9q94q2GNcxoIJzVlxB2c%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7e6d0bd6c9f54911b64ab9d6aa5458cf.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - App-Events API - App"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

@@ -1,0 +1,1087 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Heidi Williams",
+  "create_time": 1709146579,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709162594,
+      "auto_close_hit": 0,
+      "id": 7340795496404877000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Due to a recent ticket spike, your initial reply will be delayed until tomorrow (Thursday).</p><p>Thank you for your patience!</p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709241295,
+      "auto_close_hit": 0,
+      "id": 7341134221479559000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan,</p><p><br /></p><p>The urls for 50% of the products are invalid, and unavailable on the site. Example:</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7f843975d21e4c5d8c83b010f97e7196.png\" height=\"111.346272\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f843975d21e4c5d8c83b010f97e7196.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838339&amp;x-signature=JYwmBG5KDc8VXxOGfW%2B21eol1y8%3D\" width=\"324\"><p> they will need to update the url to a publicly accessible one and update the catalog.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709243984,
+      "auto_close_hit": 0,
+      "id": 7341145501296771000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>i sent them this and this was their reply: &#34;<span style=\"color: #222222;\">It looks like that image URL is being truncated. It&#39;s missing a lot of info. Is there a character limit on image URLs?&#34;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709247698,
+      "auto_close_hit": 0,
+      "id": 7341162495387845000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan, let me find out!</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709323675,
+      "auto_close_hit": 0,
+      "id": 7341487451245953000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan,</p><p><br /></p><p>The image urls causing the issue are not properly formatted, example:</p><p><br /></p><p>https://media.thereformation.com/image/list/fn_select:jq:first(.%5B%5D%7Cif%20has(%22metadata%22)%20then%20select(any(.metadata%5B%5D;%20.external_id%20==%20%22sfcc-gallery-position%22%20and%20.value%20==%202))%20else%20empty%20end)/f_auto</p><p><br /></p><p>This url contains characters such as colons (and others), which will not work. The urls should also be publicly accessible, for example, the above url takes me here:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8c4b38b1402c4f77a6dd727128e3f5bb.png\" height=\"201.894\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c4b38b1402c4f77a6dd727128e3f5bb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838339&amp;x-signature=IMftZHfF2GF2oNnQRJzW5ZoTP04%3D\" width=\"375\"><p>A <a href=\"https://media.thereformation.com/image/upload/f_auto,q_auto,dpr_1.0/w_700,c_scale//PRD-SFCC/1314481/CHERRY/1314481.1.CHERRY?_s=RAABAB0\" target=\"_blank\">working url</a> will take me to a page like this:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/179633ab0aa7459187685c3c8ba66540.png\" height=\"261.896\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/179633ab0aa7459187685c3c8ba66540.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838339&amp;x-signature=3DssEL9qsonfWmtVLA6W7nQd38k%3D\" width=\"375\"><p>could you please ask them to check whether they changed the way the urls are formatted, and make sure they are publicly accessible as we see above?</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709327247,
+      "auto_close_hit": 0,
+      "id": 7341502851757228000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>the team would like to meet to troubleshoot if you&#39;re free next week.&nbsp;&nbsp;</p><p><br></p><p>&#34;<span style=\"color: #222222;\">The problem with the URL isn&#39;t special characters or its public/private status. The problem is that the full URL is being truncated to 240 characters at some point in the flow.</span></p><p><span style=\"color: #1155CC;\"><a href=\"https://media.thereformation.com/image/list/fn_select:jq:first(.%5B%5D%7Cif%20has(%22metadata%22)%20then%20select(any(.metadata%5B%5D;%20.external_id%20==%20%22sfcc-gallery-position%22%20and%20.value%20==%202))%20else%20empty%20end)/f_auto\" target=\"_blank noopener noreferrer\">https://media.thereformation.com/image/list/fn_select:jq:first(.%5B%5D%7Cif%20has(%22metadata%22)%20then%20select(any(.metadata%5B%5D;%20.external_id%20==%20%22sfcc-gallery- position%22%20and%20.value%20==%202))%20else%20empty%20end)/f_auto</a></span>&nbsp;&lt;-- the rest of the url is being cut off at this point&#34;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709327287,
+      "auto_close_hit": 0,
+      "id": 7341504740699800000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #222222;\">Here&#39;s what the URL you pasted is missing:&nbsp;</span></p><p><span style=\"color: #222222;\">,q_auto,dpr_auto/1300753-GNI.json?_s=RAABAB0</span></p><p><span style=\"color: #222222;\">It&#39;s the first comma, incidentally, so let&#39;s ask your&nbsp;team about CSV-handling when we talk. I bet it&#39;s something to do with&nbsp;commas.</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709565928,
+      "auto_close_hit": 0,
+      "id": 7342529376275153000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan,&nbsp;</p><p><br></p><p>Here is the url from above that works at 134 characters:</p><p>https://media.thereformation.com/image/upload/f_auto,q_auto,dpr_1.0/w_700,c_scale//PRD-SFCC/1314481/CHERRY/1314481.1.CHERRY?_s=RAABAB0</p><p><br></p><p>So the comma would not be the issue. I am finding out the url character limit but it doesn't surprise me that a url of 240+ characters is not accepted by our system. A url this long will also slow down the images loading in the catalog and would not be desirable even if it did work.</p><p><br></p><p>At some point they did change the way they form urls on their side, so maybe they can look at what they changed and how that is causing the issue.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709579563,
+      "auto_close_hit": 0,
+      "id": 7342583325132915000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>I am still waiting for an answer from the Catalog Q&amp;A Lark room on the character max for image urls! I will let you know as soon as I find out.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709583353,
+      "auto_close_hit": 0,
+      "id": 7342603224714592000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>In the meantime, please let the client know, the full url does not load for me in a browser:</p><p><br /></p><p>https://media.thereformation.com/image/list/fn_select:jq:first(.%5B%5D%7Cif%20has(%22metadata%22)%20then%20select(any(.metadata%5B%5D;%20.external_id%20==%20%22sfcc-gallery- position%22%20and%20.value%20==%202))%20else%20empty%20end)/f_auto,q_auto,dpr_auto/1300753-GNI.json?_s=RAABAB0</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3d10b89a4b79423fa13a9816cea74290.png\" height=\"162.339\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d10b89a4b79423fa13a9816cea74290.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838339&amp;x-signature=r1OlJc58vJMuCIi%2BmTvR4PoUwpw%3D\" width=\"375\"><p><br /></p><p>So generally there is an issue with the url, as even outside of our catalog it does not work.</p><p><br /></p><p>The client will want to address this on the <a href=\"https://help.salesforce.com/s/articleView?id=cc.b2c_configuring_variation_attributes_for_image_assignment.htm&amp;type=5\" target=\"_blank\">SFCC side</a>, as query function with logic shouldn't be in an image url.</p><p><br /></p><p>Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709584401,
+      "auto_close_hit": 0,
+      "id": 7342607999887868000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>thanks heidi! the dev team is claiming that their URL wasn&#39;t uploaded like that and the TikTok catalog is impacting the URL, so I think they want to hop on a call and run through it together. still waiting for their response</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709584604,
+      "auto_close_hit": 0,
+      "id": 7342608246676455000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan, can they show me a few of the original urls that were uploaded, so I can compare? I can get this escalated and find out what may have happened.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709584695,
+      "auto_close_hit": 0,
+      "id": 7342609316265869000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>yes, i will ask them!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709586271,
+      "auto_close_hit": 0,
+      "id": 7342616199965999000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>But please keep in mind and mention it to them, there is no&nbsp; way we would be inserting query function logic into a url (even if we did transpose the url somehow, which I&#39;m not sure how we would even do that).&nbsp;</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709671455,
+      "auto_close_hit": 0,
+      "id": 7342981768200389000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>here&#39;s what they said:</p><p><span style=\"color: #222222;\">The image URLs in our feed all look like this:</span></p><p><br></p><p><span style=\"color: #1155CC;\"><a href=\"https://media.thereformation.com/image/list/fn_select:jq:first(.%5B%5D%7Cif%20has(%22metadata%22)%20then%20select(any(.metadata%5B%5D;%20.external_id%20==%20%22sfcc-is-main%22%20and%20.value.value%20==%20%22True%22))%20else%20empty%20end)/f_auto,q_auto,dpr_auto/1300753-GNI.json?_s=RAABAB0\" target=\"_blank noopener noreferrer\">https://media.thereformation.com/image/list/fn_select:jq:first(.%5B%5D%7Cif%20has(%22metadata%22)%20then%20select(any(.metadata%5B%5D;%20.external_id%20==%20%22sfcc-is-main%22%20and%20.value.value%20==%20%22True%22))%20else%20empty%20end)/f_auto,q_auto,dpr_auto/1300753-GNI.json?_s=RAABAB0</a></span><br></p><p><span style=\"color: #222222;\">We swap in a different&nbsp;</span><span style=\"color: #1155CC;\"><a href=\"https://media.thereformation.com/image/list/fn_select:jq:first(.%5B%5D%7Cif%20has(%22metadata%22)%20then%20select(any(.metadata%5B%5D;%20.external_id%20==%20%22sfcc-is-main%22%20and%20.value.value%20==%20%22True%22))%20else%20empty%20end)/f_auto,q_auto,dpr_auto/1300753-GNI.json?_s=RAABAB0\" target=\"_blank noopener noreferrer\">1300753-GNI</a></span>&nbsp;value depending on the sku/color.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709673127,
+      "auto_close_hit": 0,
+      "id": 7342988968201290000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>The url from your latest message works:</p><p><a href=\"https://media.thereformation.com/image/list/fn_select:jq:first(.%5B%5D%7Cif%20has(%22metadata%22)%20then%20select(any(.metadata%5B%5D;%20.external_id%20==%20%22sfcc-is-main%22%20and%20.value.value%20==%20%22True%22))%20else%20empty%20end)/f_auto,q_auto,dpr_auto/1300753-GNI.json?_s=RAABAB0\" target=\"_blank\">https://media.thereformation.com/image/list/fn_select:jq:first(.%5B%5D%7Cif%20has(%22metadata%22)%20then%20select(any(.metadata%5B%5D;%20.external_id%20==%20%22sfcc-is-main%22%20and%20.value.value%20==%20%22True%22))%20else%20empty%20end)/f_auto,q_auto,dpr_auto/1300753-GNI.json?_s=RAABAB0</a></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/083e6cd9b57b483d91624a33e19163ad.png\" height=\"198.027\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/083e6cd9b57b483d91624a33e19163ad.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838339&amp;x-signature=ygS1J20fZplDXLVq38cuZd7sUSk%3D\" width=\"375\"><p>It is different from this one (which doesn't work). I see where it is different in <strong>bold</strong>:</p><p><span style=\"color: #333333;\">https://media.thereformation.com/image/list/fn_select:jq:first(.%5B%5D%7Cif%20has(%22metadata%22)%20then%20select(any(.metadata%5B%5D;%20.external_id%20==<strong>%20%22sfcc-gallery- position</strong>%22%20and<strong>%20.value%20==%202</strong>))%20else%20empty%20end)/f_auto,q_auto,dpr_auto/1300753-GNI.json?_s=RAABAB0</span></p><p><br /></p><p><span style=\"color: #333333;\">If they replace the non-working urls with the working format, that should fix the broken images.</span></p><p><br /></p><p><span style=\"color: #333333;\">Heidi</span></p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709753217,
+      "auto_close_hit": 0,
+      "id": 7343328620368134000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>They are saying that all the URLs were uploaded like the example they sent, and that tiktok is adding those in bold. I&#39;m trying to get a time on the cal so I&#39;ll keep you updated. thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709850332,
+      "auto_close_hit": 0,
+      "id": 7343749320983904000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>hi heidi! your calendar looks booked but wanted to check with you - can you meet them team tomorrow at 12:30 or 1 CST?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1709923589,
+      "auto_close_hit": 0,
+      "id": 7344064347267711000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan, saw your note in Lark. I&#39;m booked in the morning and then from 2pm-3pm EST on Monday. Feel free to schedule any other time I have available!</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710185531,
+      "auto_close_hit": 0,
+      "id": 7345188817302831000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><br></p><p>Hi Megan, I have raised the issue to our Catalog on-call engineer. I will get back to you as soon as I know more!</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710342407,
+      "auto_close_hit": 0,
+      "id": 7345863680715653000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>thank you! please let me know if you have an update</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710353923,
+      "auto_close_hit": 0,
+      "id": 7345912764906373000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan, I have pinged on-call twice today. Yesterday they had found a bug with parsing image urls for addtional_image (as we found on the the call with the client, the url was truncated), and were working on a fix. I will update you as soon as I find out the fix is in place!</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710353971,
+      "auto_close_hit": 0,
+      "id": 7345912764906471000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>awesome, thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710428984,
+      "auto_close_hit": 0,
+      "id": 7346235417869566000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Megan, the on-call is saying the issue was fixed. The team will need to re-upload the feed however to replace the broken urls. Please ask them to do so, and let me know if there are still issues!</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710434525,
+      "auto_close_hit": 0,
+      "id": 7346258924867256000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>hi heidi the client wants confirmation on the below:</p><p><br></p><p><span style=\"color: #222222;\">will this issue resolve on the next scheduled upload for the existing feed in TikTok (currently set to update every 6 hours) or will we need to delete the existing feed and create/upload a <strong>new</strong>&nbsp;feed to resolve this issue?</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710522362,
+      "auto_close_hit": 0,
+      "id": 7346636308200161000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "megan.ogrinc@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Megan Ogrinc",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7164000715252220930",
+      "name": "Megan Ogrinc",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>hi heidi,</p><p><br></p><p>the reformation catalog has so many more issues now, outside of this URL bug. Are you able to compile an overview of what changes they need to make? I will send them this diagnostics report, but i&#39;m guessing they will have questions, so the more detail you can provide outside this screenshot, the better</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screenshot 2024-03-15 at 12.03.05 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d7aa63d3976240caa8960d62e5a3a831.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838340&x-signature=A2APEMI3YP5QEuo1GXM4Bug4kwc%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/d7aa63d3976240caa8960d62e5a3a831.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d7aa63d3976240caa8960d62e5a3a831.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838340&x-signature=A2APEMI3YP5QEuo1GXM4Bug4kwc%3D",
+              "biz_type": 2,
+              "size": 1214639
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710523803,
+      "auto_close_hit": 0,
+      "id": 7346642327290593000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Yes I noticed that on our call. Thane did as well but it seemed he preferred to focus on the image issue. I wonder what they did to change how they were creating the csv before.&nbsp;</p><p><br></p><p>To fix the image issue, they should just re-upload the same csv and it should work.&nbsp;</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1906321,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "heidi.williams@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Catalog Products disapproved",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006u_94575d60-1958-4aa3-a712-c468cf3073fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710523803,
+  "owner_name": "Megan Ogrinc",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7164000715252220930",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Megan Ogrinc",
+  "follow_employee_id": 5710207,
+  "is_order_top": 0,
+  "urged": 1,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 250537,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Catalog Products disapproved",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Reformation",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Ecommerce",
+      "valid": true,
+      "key": "Ecommerce",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "6992614742967730178",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "30000",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-27",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "Catalog products are not approved - how can the client resolve this?\nCatalog ID is 7072776912329803521",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "PNG",
+          "file_name": "Capture.PNG",
+          "file_url": "",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8f3c0b965d184a8a91d2f4282b3eceb0.PNG",
+          "url": "",
+          "size": 70671
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f843975d21e4c5d8c83b010f97e7196.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838339&x-signature=JYwmBG5KDc8VXxOGfW%2B21eol1y8%3D",
+          "file_name": "file_20240318_15_05_39_442529",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f843975d21e4c5d8c83b010f97e7196.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838339&x-signature=JYwmBG5KDc8VXxOGfW%2B21eol1y8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7f843975d21e4c5d8c83b010f97e7196.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c4b38b1402c4f77a6dd727128e3f5bb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838339&x-signature=IMftZHfF2GF2oNnQRJzW5ZoTP04%3D",
+          "file_name": "file_20240318_15_05_39_539547",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c4b38b1402c4f77a6dd727128e3f5bb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838339&x-signature=IMftZHfF2GF2oNnQRJzW5ZoTP04%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8c4b38b1402c4f77a6dd727128e3f5bb.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/179633ab0aa7459187685c3c8ba66540.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838339&x-signature=3DssEL9qsonfWmtVLA6W7nQd38k%3D",
+          "file_name": "file_20240318_15_05_39_539620",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/179633ab0aa7459187685c3c8ba66540.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838339&x-signature=3DssEL9qsonfWmtVLA6W7nQd38k%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/179633ab0aa7459187685c3c8ba66540.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d10b89a4b79423fa13a9816cea74290.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838339&x-signature=r1OlJc58vJMuCIi%2BmTvR4PoUwpw%3D",
+          "file_name": "file_20240318_15_05_39_686639",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d10b89a4b79423fa13a9816cea74290.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838339&x-signature=r1OlJc58vJMuCIi%2BmTvR4PoUwpw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/3d10b89a4b79423fa13a9816cea74290.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/083e6cd9b57b483d91624a33e19163ad.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838339&x-signature=ygS1J20fZplDXLVq38cuZd7sUSk%3D",
+          "file_name": "file_20240318_15_05_39_853284",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/083e6cd9b57b483d91624a33e19163ad.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838339&x-signature=ygS1J20fZplDXLVq38cuZd7sUSk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/083e6cd9b57b483d91624a33e19163ad.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-15 at 12.03.05 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d7aa63d3976240caa8960d62e5a3a831.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838340&x-signature=A2APEMI3YP5QEuo1GXM4Bug4kwc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d7aa63d3976240caa8960d62e5a3a831.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d7aa63d3976240caa8960d62e5a3a831.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838340&x-signature=A2APEMI3YP5QEuo1GXM4Bug4kwc%3D",
+          "biz_type": 2,
+          "size": 1214639
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

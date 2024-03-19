@@ -1,0 +1,741 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354674",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1707168444,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1707234096,
+      "auto_close_hit": 0,
+      "id": 7332514144710607000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Charlie,</p><p>I took a look at the site and I actually was not able to get it to double fire. There will sometimes be issues with the Pixel Helper refreshing and thus can show double firing events. What I usually do to confirm this is use Chrome Dev Tool's Network Tab:</p><p>1) Right click anywhere on the site &gt; Click \"Inspect\":</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e61ab41d7e75433bac68429e66d8cdaf.png\" height=\"426.455\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e61ab41d7e75433bac68429e66d8cdaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=Zory8VPhQWKCzJOX2ZDwix9US8w%3D\" width=\"375\"><p><br /></p><p>2)  A pane should pop up, usually on the right side of the Chrome browser by default:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png\" height=\"201.824\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=gMpFQfP%2BYfIL%2F9c8BzBaDz0UN2k%3D\" width=\"375\"><p><br /></p><p>3) In this pane, click on the \"Network\" tab at the top:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png\" height=\"185.582\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=egtJK8oNmkvkwQdpO7ig4bQUf7w%3D\" width=\"375\"><p><br /></p><p>4) Once here, please make sure that the \"Record\" button is clicked:</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png\" height=\"278.609\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=UPSC6TWmGF5qdhkQkzRDOr7qaN8%3D\" width=\"375\"><p><br /></p><p>5) Then ensure that the \"Preserve Log\" box is checked:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png\" height=\"275.474\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=lJDFYa0wWonxW7z0aIy3b8Livg0%3D\" width=\"375\"><p><br /></p><p>6) And finally in the filter box below both the \"record\" and Preserve log buttons, enter \"pixel\" without quotes:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png\" height=\"277.778\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=aAWF7Cbenb1dXNfYx34zKdV2hCc%3D\" width=\"375\"><p><br /></p><p>7) Then reload the page. We'll then see a number of network calls related to the pixel populate. Pixel events are indicated by entries named \"pixel\". The first three JavaScript files shown here are network calls for the Pixel itself to be loaded on the page:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/621af151f4fd40c39f3598ceb8c381f8.png\" height=\"280.058\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/621af151f4fd40c39f3598ceb8c381f8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=i1%2FlaFzAS5JAboVaVxR8NvkKHv4%3D\" width=\"375\"><p><br /></p><p>8) Click on the \"pixel\" entry and on the right, click on the \"Payload\" tab:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png\" height=\"250.7\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=TpA%2BmyEz5%2BDRfjs1K0MJBcl3Tso%3D\" width=\"375\"><p><br /></p><p>9) Here we can confirm that the Pageview event is only firing once. If it was firing twice or multiple times, we'd see if the x number of times. The data shown here in the payload is where the Pixel Helper will mainly pull it's data from:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png\" height=\"269.868\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=rMNDQbwBssrbup%2FeCR12q7QrZqw%3D\" width=\"375\"><p><br /></p><p>10) Note on the \"Preserve Log\" check box, I would keep it checked if you want to keep a log of all fired events for a funnel if you're testing. However, if you are wanting to only check/validate events for one page, uncheck the \"Preserve Log\" box to prevent confusion. </p><p>For example, if I refresh the same page again with the \"Preserve Log\" box checked, we'll see that the initial data is kept and the new data is appended to the log:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1d71623e4e1746b6a6916c22f9d15e29.png\" height=\"146.571\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1d71623e4e1746b6a6916c22f9d15e29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=%2BGJiqp30qSlUR71U9REHbRgG5FI%3D\" width=\"375\"><p>The page is reloaded, the pixel base code and the Pageview event is fired again, but the network log kept the previous entries from the first load. </p><p>If the \"Preserve log\" box is unchecked, we'll see that the Network log refreshes, showing the Pixel base code related JavaScripts loading and the Pageview event:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/260d1289c8f04e67abcd3193c6db5cd9.png\" height=\"147.138\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260d1289c8f04e67abcd3193c6db5cd9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=BBiYXHt595OWjP8hfIiRFYyxssU%3D\" width=\"375\"><p><br /></p><p>An overall note, is that I would highly recommend using a hard refresh instead of a regular refresh to get the most up to date version of the page each time. This can be done by either right clicking on the \"Reload\" button on your chrome browser:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png\" height=\"147.352\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=Z9QuaI%2F8%2FodpBEBB2fe5PIFSiR0%3D\" width=\"375\"><p>Windows shortcut: Ctrl + Shift + R</p><p>Mac Shortcut: Cmd + Shift + R</p><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img></img></img></img></img></img></img></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707236411,
+      "auto_close_hit": 0,
+      "id": 7332523803051917000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "pimpinhippo@gmail.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Charlie Shin",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7062284440969593857",
+      "name": "Charlie Shin",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>This is the most helpful, thorough, and easy to understand help I&#39;ve gotten. Thank you so so much. Going to check all the brand&#39;s pages.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2ac8d9bf-77f5-4a8a-9b27-9633aa872fcg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707236831,
+      "auto_close_hit": 0,
+      "id": 7332525777851793000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "pimpinhippo@gmail.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Charlie Shin",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7062284440969593857",
+      "name": "Charlie Shin",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<img alt=\"Screenshot 2024-02-06 at 10.26.35 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ea95961d755a4b5d82d5d67e36063bef.png\" height=\"198.242\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea95961d755a4b5d82d5d67e36063bef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=RLSkj7RrgYEBpatI5c%2FOmgoRTe8%3D\" width=\"375\"><p>okay so I tried adding to cart, and it looks like there are 2 things called \"pixel\" and they both say \"Add to cart\". Does this mean it's double firing? </p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2ac8d9bf-77f5-4a8a-9b27-9633aa872fcg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707237820,
+      "auto_close_hit": 0,
+      "id": 7332529936168796000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Charlie,</p><p>Yep that's correct - taking a look myself it seems like the ViewContent event fires correctly on page load when viewing a menu item:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png\" height=\"143.968\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=ZwXXF3TZM6IoecSbaQeS%2FRGMqGI%3D\" width=\"375\"><p>And yes I can see the double firing AddToCart events through the network calls and the Pixel Helper:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png\" height=\"177.527\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=pIx0503n2EBKqh6xDak7%2FxrrePI%3D\" width=\"375\"><p>ATC event 1:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0cbd83af41d14bdfbf54497bda4a0ab9.png\" height=\"225.169\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cbd83af41d14bdfbf54497bda4a0ab9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=YdMiivnRG0pL%2BRIhFxGRH1pOOcE%3D\" width=\"375\"><p>ATC Event 2:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png\" height=\"217.728\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=osL0gESAVberODI03UTZR4S51aI%3D\" width=\"375\"><p>This will more than likely be caused by the Advertiser's Event trigger settings for the AddToCart event which they will need to review</p><p>Thanks!</p><p>Robbie</p></img></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707237974,
+      "auto_close_hit": 0,
+      "id": 7332530674756223000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "pimpinhippo@gmail.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Charlie Shin",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7062284440969593857",
+      "name": "Charlie Shin",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>okay sounds good, thank you! Sorry attached the 2nd screenshot a bit late haha</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2ac8d9bf-77f5-4a8a-9b27-9633aa872fcg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707237927,
+      "auto_close_hit": 0,
+      "id": 7332530835456852000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "pimpinhippo@gmail.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Charlie Shin",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7062284440969593857",
+      "name": "Charlie Shin",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<img alt=\"Screenshot 2024-02-06 at 10.26.25 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1fd2b171f4874920a37be681ab9f846e.png\" height=\"197.966\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1fd2b171f4874920a37be681ab9f846e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=36cRX12mSrKUaV5v1IvACGJOnjM%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2ac8d9bf-77f5-4a8a-9b27-9633aa872fcg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1860081,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Pixel Event Double Fires, but when you refresh, it only fires once ",
+  "category_1_name": "Basic",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2ac8d9bf-77f5-4a8a-9b27-9633aa872fcg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1708104566,
+  "owner_name": "Charlie Shin",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Basic",
+  "archive_category_1": "1736497459354674",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7062284440969593857",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Charlie Shin",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 2669170,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Pixel Event Double Fires, but when you refresh, it only fires once ",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Arby's",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6881638747872428033"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Jacqueline Washburn - BPM, Peter Albano - CSM ",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CFSG38BC77U5NAK3NVGG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.arbys.com/menu/roast-beef/double-beef-n-cheddar/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-05",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hey Team! I go to a client's page, and it looks like an event is double-firing when looking at Pixel Helper. However, when I refresh the page, the event is just firing once. Why does this happen? If the event actually double-firing? ",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-05 at 2.44.41 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a358062beb564931b9667e2e7664d8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837735&x-signature=OLgwqVpvAuyrLArkDESrvszsFME%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a358062beb564931b9667e2e7664d8e7.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a358062beb564931b9667e2e7664d8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837735&x-signature=OLgwqVpvAuyrLArkDESrvszsFME%3D",
+          "size": 457821
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-02-05 at 2.45.11 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/22ca1a39374141b6966c580b8882b4b3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837735&x-signature=hHnuKe90obEbSuKATlsrLJjv9y0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/22ca1a39374141b6966c580b8882b4b3.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/22ca1a39374141b6966c580b8882b4b3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837735&x-signature=hHnuKe90obEbSuKATlsrLJjv9y0%3D",
+          "size": 453843
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=UPSC6TWmGF5qdhkQkzRDOr7qaN8%3D",
+          "file_name": "file_20240318_14_55_36_201040",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=UPSC6TWmGF5qdhkQkzRDOr7qaN8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=egtJK8oNmkvkwQdpO7ig4bQUf7w%3D",
+          "file_name": "file_20240318_14_55_36_201170",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=egtJK8oNmkvkwQdpO7ig4bQUf7w%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=rMNDQbwBssrbup%2FeCR12q7QrZqw%3D",
+          "file_name": "file_20240318_14_55_36_201199",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=rMNDQbwBssrbup%2FeCR12q7QrZqw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=lJDFYa0wWonxW7z0aIy3b8Livg0%3D",
+          "file_name": "file_20240318_14_55_36_201222",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=lJDFYa0wWonxW7z0aIy3b8Livg0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=aAWF7Cbenb1dXNfYx34zKdV2hCc%3D",
+          "file_name": "file_20240318_14_55_36_201242",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=aAWF7Cbenb1dXNfYx34zKdV2hCc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=gMpFQfP%2BYfIL%2F9c8BzBaDz0UN2k%3D",
+          "file_name": "file_20240318_14_55_36_201261",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=gMpFQfP%2BYfIL%2F9c8BzBaDz0UN2k%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=TpA%2BmyEz5%2BDRfjs1K0MJBcl3Tso%3D",
+          "file_name": "file_20240318_14_55_36_201280",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=TpA%2BmyEz5%2BDRfjs1K0MJBcl3Tso%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=Z9QuaI%2F8%2FodpBEBB2fe5PIFSiR0%3D",
+          "file_name": "file_20240318_14_55_36_201300",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=Z9QuaI%2F8%2FodpBEBB2fe5PIFSiR0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/621af151f4fd40c39f3598ceb8c381f8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=i1%2FlaFzAS5JAboVaVxR8NvkKHv4%3D",
+          "file_name": "file_20240318_14_55_36_201318",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/621af151f4fd40c39f3598ceb8c381f8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=i1%2FlaFzAS5JAboVaVxR8NvkKHv4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/621af151f4fd40c39f3598ceb8c381f8.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e61ab41d7e75433bac68429e66d8cdaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=Zory8VPhQWKCzJOX2ZDwix9US8w%3D",
+          "file_name": "file_20240318_14_55_36_201337",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e61ab41d7e75433bac68429e66d8cdaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=Zory8VPhQWKCzJOX2ZDwix9US8w%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e61ab41d7e75433bac68429e66d8cdaf.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1d71623e4e1746b6a6916c22f9d15e29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=%2BGJiqp30qSlUR71U9REHbRgG5FI%3D",
+          "file_name": "file_20240318_14_55_36_201355",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1d71623e4e1746b6a6916c22f9d15e29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=%2BGJiqp30qSlUR71U9REHbRgG5FI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1d71623e4e1746b6a6916c22f9d15e29.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260d1289c8f04e67abcd3193c6db5cd9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=BBiYXHt595OWjP8hfIiRFYyxssU%3D",
+          "file_name": "file_20240318_14_55_36_201374",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260d1289c8f04e67abcd3193c6db5cd9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=BBiYXHt595OWjP8hfIiRFYyxssU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/260d1289c8f04e67abcd3193c6db5cd9.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea95961d755a4b5d82d5d67e36063bef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=RLSkj7RrgYEBpatI5c%2FOmgoRTe8%3D",
+          "file_name": "file_20240318_14_55_36_284304",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea95961d755a4b5d82d5d67e36063bef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=RLSkj7RrgYEBpatI5c%2FOmgoRTe8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ea95961d755a4b5d82d5d67e36063bef.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=ZwXXF3TZM6IoecSbaQeS%2FRGMqGI%3D",
+          "file_name": "file_20240318_14_55_36_319429",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=ZwXXF3TZM6IoecSbaQeS%2FRGMqGI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=osL0gESAVberODI03UTZR4S51aI%3D",
+          "file_name": "file_20240318_14_55_36_319488",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=osL0gESAVberODI03UTZR4S51aI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=pIx0503n2EBKqh6xDak7%2FxrrePI%3D",
+          "file_name": "file_20240318_14_55_36_319505",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=pIx0503n2EBKqh6xDak7%2FxrrePI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cbd83af41d14bdfbf54497bda4a0ab9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=YdMiivnRG0pL%2BRIhFxGRH1pOOcE%3D",
+          "file_name": "file_20240318_14_55_36_319518",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cbd83af41d14bdfbf54497bda4a0ab9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=YdMiivnRG0pL%2BRIhFxGRH1pOOcE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0cbd83af41d14bdfbf54497bda4a0ab9.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1fd2b171f4874920a37be681ab9f846e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=36cRX12mSrKUaV5v1IvACGJOnjM%3D",
+          "file_name": "file_20240318_14_55_36_393533",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1fd2b171f4874920a37be681ab9f846e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=36cRX12mSrKUaV5v1IvACGJOnjM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1fd2b171f4874920a37be681ab9f846e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Basic"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

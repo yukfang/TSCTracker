@@ -1,0 +1,503 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497066245137",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_89b456bd-831d-4c73-9de2-3e5cbaf2fdhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Miguel Fernández",
+  "create_time": 1708608050,
+  "deadline": 0,
+  "archive_board_id": 1705151646989663,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1708697552,
+      "auto_close_hit": 0,
+      "id": 7338799308474548000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Miguel Fernández",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7178708618031023106",
+      "name": "Miguel Fernández",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Inbar,<br><br>Could we schedule 30 min to discuss this client next week? My calendar is up to date, feel free to send me an invite. It doens&#39;t seem that there is any technical problem, the campaing has a few clicks and there are events attributed (100 pageviews (custom event) and a 1 Complete Registration), it seems a performance issue (time, strategy, budget...) They only achieve 130 clicks</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_89b456bd-831d-4c73-9de2-3e5cbaf2fdhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708701930,
+      "auto_close_hit": 0,
+      "id": 7338818065657823000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "inbar.varshizky@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Inbar Varshizky",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7246675464797963266",
+      "name": "Inbar Varshizky",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Miguel, I will schedule a call for the beginning of the week.<br>The issue here is that this is the first event in the funnel, (click on a &#34;get started&#34; button).<br>So it doesn’t make sense, and we can&#39;t have registration without this event first.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_5a2fc296-9fa3-4c18-b9c9-db5cbb992chu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708850870,
+      "auto_close_hit": 0,
+      "id": 7339458399341412000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "inbar.varshizky@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Inbar Varshizky",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7246675464797963266",
+      "name": "Inbar Varshizky",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Miguel, </p><p>I scheduled a meeting fo tomorrow. Thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_5a2fc296-9fa3-4c18-b9c9-db5cbb992chu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708942522,
+      "auto_close_hit": 0,
+      "id": 7339851727170028000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Miguel Fernández",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7178708618031023106",
+      "name": "Miguel Fernández",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Inbar,&nbsp;<br><br>It is possible because the &#34;Complete Registration&#34; event  has been attributed probably due to advanced matching (email or phone) in a cross-device session, where &#34;click button&#34; without PII is not attributed to the campaign.<br><br>I see it has been postponed to Wednesday, let&#39;s discuss it there with the client.<br><br>Thanks!!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_89b456bd-831d-4c73-9de2-3e5cbaf2fdhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708943772,
+      "auto_close_hit": 0,
+      "id": 7339857138690425000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "inbar.varshizky@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Inbar Varshizky",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7246675464797963266",
+      "name": "Inbar Varshizky",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Yes, see you on Wednesday.<br>I agree regarding the matching issue, but because it is a click event at the very beginning of the funnel I find it hard to believe that we will have 0 events.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_5a2fc296-9fa3-4c18-b9c9-db5cbb992chu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1893575,
+  "workflow_nodes": [],
+  "board_id": 1705151646989663,
+  "employee_email": "miguel.suarez@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "IL - CST - B2B - Elementor Events API",
+  "category_1_name": "Events API - Web",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_5a2fc296-9fa3-4c18-b9c9-db5cbb992chu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1708943772,
+  "owner_name": "Inbar Varshizky",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - Web",
+  "archive_category_1": "1736497066245137",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497066245137",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882593",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882609",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883585",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883601",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400130",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400146",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400162",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400178",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401154",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401170",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401186",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401202",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548708426753",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - Web"
+    }
+  ],
+  "core_user_id": "7246675464797963266",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Inbar Varshizky",
+  "follow_employee_id": 7158055,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1831679,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "IL - CST - B2B - Elementor Events API",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Elementor",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-IL",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7251916453627150338"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "CSM- Inbar Varshizky",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "7251915058953912321",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CJ94E0BC77UDNVGR8VDG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://elementor.com/pages/elementor-hosting-get-started/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-02-22",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "The clients already implemented Events API!\n\nIt's a new KA client, the first campaign launched yesterday, conversions campaigns, optimizing towards upper funnel event (subscribe). Please see the attached images- In TTAM no events. In GA& Events Manager we can see the same amount of events, UTM campaign seems fine (see ss). please advise.\n",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "jpeg",
+          "file_name": "gtm.jpeg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/23cc39c955514913b13dac3e8f31ba1b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838201&x-signature=HvdyoybQxLBrZnAASWbJLZxGcng%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/23cc39c955514913b13dac3e8f31ba1b.jpeg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/23cc39c955514913b13dac3e8f31ba1b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838201&x-signature=HvdyoybQxLBrZnAASWbJLZxGcng%3D",
+          "size": 110476
+        },
+        {
+          "file_type": "png",
+          "file_name": "events manager.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5cee97e5ba2c4ce9a842f881820a6a30.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838201&x-signature=KgQyHyS4ExG8fZEgxtJhykOXh9s%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5cee97e5ba2c4ce9a842f881820a6a30.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5cee97e5ba2c4ce9a842f881820a6a30.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838201&x-signature=KgQyHyS4ExG8fZEgxtJhykOXh9s%3D",
+          "size": 454168
+        },
+        {
+          "file_type": "png",
+          "file_name": "ads manager.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6d8b07f9fa02422a8e561687289cd3b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838201&x-signature=JMIHhO4ZOC6h8tiHlxy9NF8A%2Bb0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6d8b07f9fa02422a8e561687289cd3b2.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6d8b07f9fa02422a8e561687289cd3b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838201&x-signature=JMIHhO4ZOC6h8tiHlxy9NF8A%2Bb0%3D",
+          "size": 1824639
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - Web-Events API - Web"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

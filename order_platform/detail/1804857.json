@@ -1,0 +1,1184 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1754600307444754",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Heidi Williams",
+  "create_time": 1704909282,
+  "deadline": 0,
+  "archive_board_id": 1705151646989733,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1704917537,
+      "auto_close_hit": 0,
+      "id": 7322564136783708000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra,</p><p><br /></p><p>I checked <a href=\"https://ads.tiktok.com/catalogs/product?id=7291385998133495554&amp;bc_id=6907306738542706690\" target=\"_blank\">catalog id 7291385998133495554</a> for <a href=\"https://www.anthropologie.com/shop/spiritual-gangster-peace-relaxed-crewneck-sweatshirt?category=all-new-arrivals&amp;color=082&amp;type=STANDARD&amp;quantity=1\" target=\"_blank\">Anthropologie.com</a>, and was able to identify the issue. When content_id from the pixel event parameter is matching up with Item Group ID from the catalog, the content_type parameter should be included as product_group. As you can see below, the client currently has the content_type parameter included as 'product':</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/93f7a5e5dab6489da45153fed480362b.png\" height=\"293.80170666666663\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93f7a5e5dab6489da45153fed480362b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832997&amp;x-signature=%2ByY9O5y12tYjvhY313RnNLF441w%3D\" width=\"580\"><p>the documentation here provides further instructions and explanation on parameter set-up:</p><p><a href=\"https://ads.tiktok.com/help/article/about-parameters?lang=en#:~:text=Release%20Notes-,About,-Parameters\" target=\"_blank\">https://ads.tiktok.com/help/article/about-parameters?lang=en#:~:text=Release%20Notes-,About,-Parameters</a></p><p>of note, specifically:</p><p style=\"text-align: left;\"><em>The content_type object property's value must be set to either \"product\", or \"product_group.\" If you use sku_id as content_id, use \"product\", if you use item_group_id as content_id, use \"product_group\".</em></p><p style=\"text-align: left;\"><em>This field is required for VSA.</em></p><p style=\"text-align: left;\"><br /></p><p>The client should change the parameter to <strong>content_type: product_group</strong>, and from there the match rate will improve. Please let me know if you have further questions!</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705427465,
+      "auto_close_hit": 0,
+      "id": 7324754750568710000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi,&nbsp;</p><p><br></p><p>My client asked &#34;<span style=\"color: #222222;\">Can you also help us determine next steps to update our tagging overall?</span>&#34;, are you able to help with this?</p><p><br></p><p>Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705427824,
+      "auto_close_hit": 0,
+      "id": 7324756257577943000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra,</p><p><br></p><p>Yes, I can help with that! It sounds like getting on a call with their developer or their internal person who manages tagging, would make the most sense. Please go ahead and put some time on my calendar here:&nbsp;<a target=\"_blank\" href=\"https://bytedance.larksuite.com/scheduler/74c8aaeecf93ed02\">https://bytedance.larksuite.com/scheduler/74c8aaeecf93ed02</a></p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705691707,
+      "auto_close_hit": 0,
+      "id": 7325888872653636000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra,&nbsp;</p><p><br></p><p>Let me take a further look now and get back to you!</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705691642,
+      "auto_close_hit": 0,
+      "id": 7325888876550029000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi, the team let me know that they made some edits to their pixel From my end, the catalog match rate appears to be better but is still in the 30% range. can you advise on how they can improve?/ maybe an outline of what would be covered if they were to schedule a call with you? Thanks in advance!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705692013,
+      "auto_close_hit": 0,
+      "id": 7325890059117363000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705699311,
+      "auto_close_hit": 0,
+      "id": 7325921989326029000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra,</p><p><br /></p><p>As you point out, the match rate here is still quite low. Due to data privacy issues, I am not able to go through the diagnostics tab in the Catalog Manager and export the data that will specify the issue. Please ask the client to go here:</p><p><a href=\"https://ads.tiktok.com/catalogs/event-sources?id=7291385998133495554&amp;bc_id=6907306738542706690&amp;issue_type=overview_tab&amp;path=event-sources-detail&amp;app_id=7128467971202170882\" target=\"_blank\">Catalog Manager diagnostics - CompletePayment</a></p><p>and choose 'Export data' (here it says 'Export Sample Data' again due to data privacy issues':</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c0fa22b01e2247a095fc93d915c0cca1.png\" height=\"207.598\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c0fa22b01e2247a095fc93d915c0cca1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=jYXrnWYm6hV7cAO%2FX5Ec7vTH5JM%3D\" width=\"375\"><p>the data exported from here will pinpoint the exact products where the content ids are not matching up. From there they should be able to fix and refresh the feed. If further questions come up, do let me know.</p><p><br /></p><p>Thanks! Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705941425,
+      "auto_close_hit": 0,
+      "id": 7326962278799114000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi heidi, I&#39;m requesting this from the client. In the meantime, would you be able tp provide context around why these match rates may have gone down? Thanks!&nbsp;</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screen Shot 2024-01-22 at 10.35.21 AM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=HYNWEsqUhZJrVyHSYv%2FGfm4aimc%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=HYNWEsqUhZJrVyHSYv%2FGfm4aimc%3D",
+              "biz_type": 2,
+              "size": 325554
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706562425,
+      "auto_close_hit": 0,
+      "id": 7329628468268876000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra,</p><p><br /></p><p>Besides the above instruction regarding <strong>product_group</strong> (which I can see they have fixed):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/10a0ac4d129647ed901eb1aaffbd07e5.png\" height=\"341.6709333333333\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/10a0ac4d129647ed901eb1aaffbd07e5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=2c9a3JQgr24yvebvDSfpMV7tXhk%3D\" width=\"280\"><p>However, when I search for the above item in the catalog, content_id: <span style=\"color: #121212;\">4141652010040, I can't find it when searching either by SKU, SPU, or Product id:</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8cfd86fbf9924346bd9b980fab2e1d58.png\" height=\"210.338\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8cfd86fbf9924346bd9b980fab2e1d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=6DZ3zVKEGH1ADTW1916rGG4sss4%3D\" width=\"375\"><p>so that means the catalog on their site and their TikTok catalog are out of sync. I will check wether the catalog is frozen for some reason, and get back to you.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706562557,
+      "auto_close_hit": 0,
+      "id": 7329629321096610000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi! Quick update here, the team tried to download but got this error but has catalog management access. Do you know why this is/ a solve?&nbsp;</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "image001 (9).png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=9CL12DgeYEkg3bt38OXXe3kBWhk%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=9CL12DgeYEkg3bt38OXXe3kBWhk%3D",
+              "biz_type": 2,
+              "size": 122758
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707326161,
+      "auto_close_hit": 0,
+      "id": 7332909527047684000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Calvin Lu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7236452529863836674",
+      "name": "Calvin Lu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi,</p><p><br></p><p>Jumping in for Zahra since she is OOO at the moment.</p><p><br></p><p>I&#39;ve attached the sample events - please let me know if they need to adjust the permissions to pull additional sample data to diagnose the matchrate/content ID issue.</p><p><br></p><p>Please feel free to ping me on Lark as well! Truly appreciate all of your help</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "csv",
+              "file_name": "sample_events.csv",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=23z0rTG1Ce5zBp5Qr29%2B%2Fs8u32Y%3D",
+              "file_key": "tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=23z0rTG1Ce5zBp5Qr29%2B%2Fs8u32Y%3D",
+              "biz_type": 2,
+              "size": 497
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_7d70e9d1-82c5-40e3-8cb6-e6ce15ab33eh~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707326285,
+      "auto_close_hit": 0,
+      "id": 7332910494711382000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Calvin Lu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7236452529863836674",
+      "name": "Calvin Lu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Also apologies for the double ping, it does look like the catalog is frozen, so I will pass on that information as well</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_7d70e9d1-82c5-40e3-8cb6-e6ce15ab33eh~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707513268,
+      "auto_close_hit": 0,
+      "id": 7333710449139106000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Calvin, yes, according to my backend tool, the catalog is frozen:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cca5f83ab8c34bceb166a2ba64cca52b.png\" height=\"127.243\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca5f83ab8c34bceb166a2ba64cca52b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=9TzW4uKvBhXQULqUW22eWq5tVTM%3D\" width=\"375\"><p>I have suggested to Zahra to submit a ticket to TPS to have the catalog unfrozen. That will allow the data to refresh, then we can see where we stand with items matching up.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707921105,
+      "auto_close_hit": 0,
+      "id": 7335465073319707000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi! Just got this from the client, can you advise next steps?</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "csv",
+              "file_name": "Anthropologie Data Pull.csv",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=0ESdJV193aF4bzab6YejVQTZVN4%3D",
+              "file_key": "tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=0ESdJV193aF4bzab6YejVQTZVN4%3D",
+              "biz_type": 2,
+              "size": 1772570
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708105327,
+      "auto_close_hit": 0,
+      "id": 7336255552672039000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra, taking a look now.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708371061,
+      "auto_close_hit": 0,
+      "id": 7337396838640681000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi,&nbsp;</p><p><br></p><p>The availability should be updated now. Can you take a look? Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708371573,
+      "auto_close_hit": 0,
+      "id": 7337398782725784000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p>Hi Zahra, checking now!</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708371582,
+      "auto_close_hit": 0,
+      "id": 7337398782725816000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #333333;\">Hi Zahra, checking now!</span></p><p><br></p><p><span style=\"color: #333333;\">Heidi</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708372145,
+      "auto_close_hit": 0,
+      "id": 7337401223471366000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you!!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708372535,
+      "auto_close_hit": 0,
+      "id": 7337402593091666000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra, I am still seeing that the catalog is frozen. Could you please <a href=\"https://ads.tiktok.com/athena/requester/boards/1692583767221250?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456\" target=\"_blank\">submit a ticket with TPS</a> and ask them to un-freeze the catalog? You can provide this screenshot:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ffdd1e9a51654de595d5c73d19da7854.png\" height=\"127.336\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ffdd1e9a51654de595d5c73d19da7854.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=ER80EsRxBubjsNxzzgYdITNvqPg%3D\" width=\"375\"><p>The correct ticket path for this is <strong>Athena &gt; Platforms &gt; TikTok Internal Tickets &gt; Commerce &gt;</strong> then scroll down and you will see an option to submit a Catalog-specific issue:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/070261c2fe424461878c94b61641359e.png\" height=\"158.736\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/070261c2fe424461878c94b61641359e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=jJO9lLIwklFouenG0PfCrCnsezU%3D\" width=\"375\"><p>Unfortunately, my team does not have permissions to un-freeze catalogs. After the catalog is unfrozen, we will need to observe the match rate over the course of a few days to really see progress. I'll keep this ticket open until we know the rates are actually improving.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708373046,
+      "auto_close_hit": 0,
+      "id": 7337405404604793000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Great! I just opened that ticket.</p><p><br></p><p>I was able to run the data feed and saw this FYI:</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screen Shot 2024-02-19 at 2.03.45 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=PphLsB4HjeYcbybVDOq7iOCRAjk%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=PphLsB4HjeYcbybVDOq7iOCRAjk%3D",
+              "biz_type": 2,
+              "size": 85669
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708441132,
+      "auto_close_hit": 0,
+      "id": 7337698096064758000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi,&nbsp;</p><p><br></p><p>I got the following response in the other ticket:</p><p><br></p><p><span style=\"color: #333333;\">Hi Zahra</span></p><p><br></p><p><span style=\"color: #333333;\">Thanks for reaching out.</span></p><p><br></p><p><span style=\"color: #333333;\">The purpose of freezing catalogs is to conserve backend resources for catalogs that are active. I can see that for this catalog id (</span><span style=\"color: #222222;\">7291385998133495554), the client has 84000+ products available for use with advertisements. Please be informed that once the client runs ads using these products,the catalog will naturally unfreeze automatically. The match rates are also unaffected by the catalog&#39;s frozen status, that would be a function of the parameters in the client&#39;s event postback and is unrelated to the catalog&#39;s status. Could you clarify if there is a reason for needing the catalog to be unfrozen manually?</span></p><p><span style=\"color: #333333;\">https://bytedance.larkoffice.com/wiki/wikcnR49e14U2GKZd9ggUfauyBd</span></p><p><br></p><p><span style=\"color: #333333;\">Can you advise?</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708457696,
+      "auto_close_hit": 0,
+      "id": 7337768773706957000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra, it is possible we don&#39;t manually un-freeze catalogs anymore unless they are in use, i.e. ads are running against the catalog content. The match rates should increase once an active campaign is started. The client should run ads, and we can observe the match rates over the course of several days and make sure they are increasing.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708458648,
+      "auto_close_hit": 0,
+      "id": 7337772272880632000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Zahra, one more note. I am seeing that some items on the web site are not in the catalog. Example:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png\" height=\"238.401\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=j2u27TaL0B2crAfsyiCvHytjHMA%3D\" width=\"375\"><p><a href=\"https://www.anthropologie.com/shop/simon-miller-axon-sleeveless-knit-dress?category=new-clothes&amp;color=060&amp;type=STANDARD&amp;quantity=1\" target=\"_blank\">SPU ID 4139954760007</a></p><p>but when I search for it in catalog, nothing comes up:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png\" height=\"232.851\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=BBDYqFU4QgIwsjPxMvRbSyD17TU%3D\" width=\"375\"><p>searching by either SPU ID or title 'Simon Miller Axon Sleeveless Knit Dress'.</p><p><br /></p><p>So there remains an issue where the site and the TikTok catalog are not synced. They should update the feed, and I can check again. </p><p><br /></p><p>But the issue also remains that they will need to create a campaign with budget against it to un-freeze the catalog. The reason for this is TikTok has over a billion items in catalogs and it is necessary to conserve data resources for catalogs linked to active campaigns. I hope this is clear for them! </p><p><br /></p><p>Heidi</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1708546014,
+      "auto_close_hit": 0,
+      "id": 7338148517581472000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>I&#39;ve passed this along! Thank you.</p><p><br></p><p>Is there a way to check how many products are missing from site?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710179728,
+      "auto_close_hit": 0,
+      "id": 7345165133477446000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra, under &#39;Diagnostics&#39; in the catalog, where will be an option to download a csv of products that are showing error messages.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1804857,
+  "workflow_nodes": [],
+  "board_id": 1705151646989733,
+  "employee_email": "heidi.williams@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Catalog Match Rate - Help",
+  "category_1_name": "Catalog Integration or Optimization",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710179727,
+  "owner_name": "Zahra Hemani",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Catalog Integration or Optimization",
+  "archive_category_1": "1754600307444754",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600307444754",
+      "cate_1_form_id": 1754532886212609,
+      "sub_cates": [],
+      "value": "Catalog Integration or Optimization"
+    }
+  ],
+  "core_user_id": "7026323662681506818",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Zahra Hemani",
+  "follow_employee_id": 5710207,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 589270,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Catalog Match Rate - Help",
+      "valid": true,
+      "item_id": 1754532886212625,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774553223789586,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774553319301153,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774553319302177,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Anthropologie",
+      "valid": true,
+      "item_id": 1754533102928897,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Retail",
+      "valid": true,
+      "key": "Retail",
+      "item_id": 1754533102928913,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1754533238535202,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1754533238537234,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1754533337491457,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": "6907306489304580097",
+      "valid": true,
+      "item_id": 1754533479391250,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P0",
+      "valid": true,
+      "key": "P0",
+      "item_id": 1754533479391266,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue impact",
+      "content": "500000",
+      "valid": true,
+      "item_id": 1754533479398417,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-10",
+      "valid": true,
+      "item_id": 1754533479398433,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What does the client need support with?",
+      "content": "Existing catalog optimization",
+      "valid": true,
+      "key": "Existing catalog optimization",
+      "item_id": 1754533479398449,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Please describe client's requirements",
+      "content": "My client has a feed in place, but I noticed the match rates per event are quite low. Can you advise on how to improve this? \n\nID:7291385998133495554\n\nCurrent rates attached.",
+      "valid": true,
+      "item_id": 1754533479399457,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot(s)",
+      "content": [
+        {
+          "file_type": "jpeg",
+          "file_name": "anthro catalog.jpeg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/58f4d09933494a629e07f29770e6ff93.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832997&x-signature=oaCEjnwMbzcxBpZUiJnrceDg%2FmA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/58f4d09933494a629e07f29770e6ff93.jpeg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/58f4d09933494a629e07f29770e6ff93.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832997&x-signature=oaCEjnwMbzcxBpZUiJnrceDg%2FmA%3D",
+          "size": 147275
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93f7a5e5dab6489da45153fed480362b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832997&x-signature=%2ByY9O5y12tYjvhY313RnNLF441w%3D",
+          "file_name": "file_20240318_13_36_37_863195",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93f7a5e5dab6489da45153fed480362b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832997&x-signature=%2ByY9O5y12tYjvhY313RnNLF441w%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/93f7a5e5dab6489da45153fed480362b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c0fa22b01e2247a095fc93d915c0cca1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=jYXrnWYm6hV7cAO%2FX5Ec7vTH5JM%3D",
+          "file_name": "file_20240318_13_36_38_055174",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c0fa22b01e2247a095fc93d915c0cca1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=jYXrnWYm6hV7cAO%2FX5Ec7vTH5JM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c0fa22b01e2247a095fc93d915c0cca1.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-01-22 at 10.35.21 AM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=HYNWEsqUhZJrVyHSYv%2FGfm4aimc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=HYNWEsqUhZJrVyHSYv%2FGfm4aimc%3D",
+          "biz_type": 2,
+          "size": 325554
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8cfd86fbf9924346bd9b980fab2e1d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=6DZ3zVKEGH1ADTW1916rGG4sss4%3D",
+          "file_name": "file_20240318_13_36_38_159103",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8cfd86fbf9924346bd9b980fab2e1d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=6DZ3zVKEGH1ADTW1916rGG4sss4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8cfd86fbf9924346bd9b980fab2e1d58.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/10a0ac4d129647ed901eb1aaffbd07e5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=2c9a3JQgr24yvebvDSfpMV7tXhk%3D",
+          "file_name": "file_20240318_13_36_38_159178",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/10a0ac4d129647ed901eb1aaffbd07e5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=2c9a3JQgr24yvebvDSfpMV7tXhk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/10a0ac4d129647ed901eb1aaffbd07e5.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "image001 (9).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=9CL12DgeYEkg3bt38OXXe3kBWhk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=9CL12DgeYEkg3bt38OXXe3kBWhk%3D",
+          "biz_type": 2,
+          "size": 122758
+        },
+        {
+          "file_type": "csv",
+          "file_name": "sample_events.csv",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=23z0rTG1Ce5zBp5Qr29%2B%2Fs8u32Y%3D",
+          "file_key": "tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=23z0rTG1Ce5zBp5Qr29%2B%2Fs8u32Y%3D",
+          "biz_type": 2,
+          "size": 497
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca5f83ab8c34bceb166a2ba64cca52b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=9TzW4uKvBhXQULqUW22eWq5tVTM%3D",
+          "file_name": "file_20240318_13_36_38_289650",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca5f83ab8c34bceb166a2ba64cca52b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=9TzW4uKvBhXQULqUW22eWq5tVTM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/cca5f83ab8c34bceb166a2ba64cca52b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "csv",
+          "file_name": "Anthropologie Data Pull.csv",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=0ESdJV193aF4bzab6YejVQTZVN4%3D",
+          "file_key": "tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=0ESdJV193aF4bzab6YejVQTZVN4%3D",
+          "biz_type": 2,
+          "size": 1772570
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ffdd1e9a51654de595d5c73d19da7854.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=ER80EsRxBubjsNxzzgYdITNvqPg%3D",
+          "file_name": "file_20240318_13_36_38_482880",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ffdd1e9a51654de595d5c73d19da7854.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=ER80EsRxBubjsNxzzgYdITNvqPg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ffdd1e9a51654de595d5c73d19da7854.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/070261c2fe424461878c94b61641359e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=jJO9lLIwklFouenG0PfCrCnsezU%3D",
+          "file_name": "file_20240318_13_36_38_482950",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/070261c2fe424461878c94b61641359e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=jJO9lLIwklFouenG0PfCrCnsezU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/070261c2fe424461878c94b61641359e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-02-19 at 2.03.45 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=PphLsB4HjeYcbybVDOq7iOCRAjk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=PphLsB4HjeYcbybVDOq7iOCRAjk%3D",
+          "biz_type": 2,
+          "size": 85669
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=BBDYqFU4QgIwsjPxMvRbSyD17TU%3D",
+          "file_name": "file_20240318_13_36_38_666494",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=BBDYqFU4QgIwsjPxMvRbSyD17TU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=j2u27TaL0B2crAfsyiCvHytjHMA%3D",
+          "file_name": "file_20240318_13_36_38_666576",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=j2u27TaL0B2crAfsyiCvHytjHMA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1754533479399473,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Catalog-Catalog Integration or Optimization"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

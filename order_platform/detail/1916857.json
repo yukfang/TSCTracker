@@ -1,0 +1,225 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1782786995587105",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Itay Filiba",
+  "create_time": 1709554588,
+  "deadline": 0,
+  "archive_board_id": 1705151646989732,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1709560202,
+      "auto_close_hit": 0,
+      "id": 7342504154549584000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "user8835603813722",
+      "editable": 0,
+      "reply_email": "itay.filiba@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Itay Filiba",
+      "reply_to_user_id": 7298632410344932000,
+      "is_hide_name": false,
+      "core_user_id": "7187710198676145154",
+      "name": "Itay Filiba",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi&nbsp;<span style=\"color: #333333;\">Varaporn,&nbsp;</span></p><p><br></p><p>Thank you for submitting this Athena ticket.&nbsp;</p><p><br></p><p>This &#39;Ask-a-Question&#39; service is for general questions&nbsp;regarding live streaming or CI to LIVE, mainly for pitching purposes, technical setup of live streams on TikTok, or how to questions.&nbsp;&nbsp;</p><p><br></p><p>For ad delivery performance, please submit a ticket using the relevant section on <a target=\"_blank\" href=\"https://ads.tiktok.com/athena/feedback/home\">Athena</a>: TikTok Internal Tickets &gt; <a target=\"_blank\" href=\"https://ads.tiktok.com/athena/requester/boards/1705151646989491?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456\">Ad Delivery Peforcmece</a> &nbsp;</p><p><br></p><p>For&nbsp;troubleshooting, or reporting a bug please submit a ticket using the relevant section on <a target=\"_blank\" href=\"https://ads.tiktok.com/athena/feedback/home\">Athena</a>: TikTok Internal Tickets <strong>&gt;</strong> Branding solutions, then under &#39;Livestream Traffic Solutions&#39; select <a target=\"_blank\" href=\"https://ads.tiktok.com/athena/requester/form/1714578217827346?board_id=1682335081414658&amp;category_1_id=1734333802199089&amp;category_2_id=1734333960620034&amp;identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456\">Community Interaction to Live</a> or <a target=\"_blank\" href=\"https://ads.tiktok.com/athena/requester/form/1714578217827346?board_id=1682335081414658&amp;category_1_id=1734333802199089&amp;category_2_id=1734333960620050&amp;identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456\">Livestream</a></p><p><br></p><p>Best regards,&nbsp;</p><p>Itay, MPO LIVE</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_adbdd8f4-12fb-4d14-bcf3-833a7a164fhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1916857,
+  "workflow_nodes": [],
+  "board_id": 1705151646989732,
+  "employee_email": "itay.filiba@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "[P1] MG Thailand - Standard Delivery but budget consume like Accelerated",
+  "category_1_name": "Livestream - Ask a Question",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_005f_1b77548e-c8e6-4931-a0f1-86dd1167a1hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1709560211,
+  "owner_name": "Varaporn Suranetinai",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Livestream - Ask a Question",
+  "archive_category_1": "1782786995587105",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1754600019392513",
+      "cate_1_form_id": 1754543111783458,
+      "sub_cates": [],
+      "value": "Livestream Consultation"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1782786995587105",
+      "cate_1_form_id": 1782788250818562,
+      "sub_cates": [],
+      "value": "Livestream - Ask a Question"
+    }
+  ],
+  "core_user_id": "7298632410344932354",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Varaporn Suranetinai",
+  "follow_employee_id": 8282921,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 1214200,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "<p spellcheck=\"true\">MPO LIVE helps advertisers go live on TikTok. Use this form to submit a general question to the MPO LIVE team regarding live streaming on TikTok. This form is not for troubleshooting and bugs. For troubleshooting and bugs please use: Athena &gt; TikTok Internal Tickets &gt; Branding solutions &gt; Livestream Traffic Solutions. ///Link to Athena Internal Tickets: https://vcp.to/atint</p>",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788572065825,
+      "type": 12,
+      "option_meaning": -1
+    },
+    {
+      "label": "Question title",
+      "content": "[P1] MG Thailand - Standard Delivery but budget consume like Accelerated",
+      "valid": true,
+      "item_id": 1782788250818578,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Region",
+      "content": "SEA-TH",
+      "valid": true,
+      "key": "SEA",
+      "item_id": 1782788281423874,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Client Name",
+      "content": "MG TH Auction",
+      "valid": true,
+      "item_id": 1782788281425938,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788344073218,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": [
+        "7019249727006867457"
+      ],
+      "valid": true,
+      "item_id": 1782788344073234,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "UID of the TikTok account",
+      "content": [
+        "6831398902861939714"
+      ],
+      "valid": true,
+      "item_id": 1782788344073250,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Handle of the TikTok account",
+      "content": "",
+      "valid": true,
+      "item_id": 1782788344073266,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Question text",
+      "content": "Hi team,\n\nWe have raised the ticket about the Standard Delivery Issue regarding the product CI to Live but did not get the answer of why the Standard Delivery delivers like an Accelerated Delivery yet. So I would like to ask here as well. Hope you can help clarify. \n\nRef. Ticket: https://ads.tiktok.com/athena/requester/ticket/list?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456&order_id=&ticket_id=1889976 \n\nContext: MG Thailand has run the CI to Live ads on 21 Feb, they selected the Delivery Type as 'Standard Delivery' but the budget consumed like 'Accelerated'. \n\n1) Ad group ID 1791389085356034's budget was consumed 100% within the first ~25 mins of the Live period out of the setup period ~1.5 hr. [Client started Live 13.13 hrs, 21 Feb]\n2) Ad group ID 1791389396525089's budget was also consumed very fast as well. [Client started Live 15.14 hrs, 21 Feb]\n\nSo it is clear that the ads did not deliver as 'Standard' definition in CommDoc 'even consumption during the whole delivery slot'. (as captured from CommDoc '[Commdoc] Community Interaction to LIVE (Beta)' attached)\n\nBoth ad groups' budget consumption was like the definition of 'Accelerated Delivery' even if they selected 'Standard'. It does not make sense and there must be something wrong with the product. If we do not fix this issue, the client may lose trust in TikTok Ads Solutions.\n\nCould you help suggest if the client would like to run the CI to Live ads with the budget evenly distributed throughout the Live period? \n\nThank you,\nKanoon",
+      "valid": true,
+      "item_id": 1782788344074242,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "File or screenshot",
+      "content": [
+        {
+          "file_type": "jpeg",
+          "file_name": "CommDoc - CI to Live Delivery Type.jpeg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7018fd40de78478a95c7b042fd6c0b2d.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838411&x-signature=1CiGt3SeJN3Tj0m7NqXE3qHHOvA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7018fd40de78478a95c7b042fd6c0b2d.jpeg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7018fd40de78478a95c7b042fd6c0b2d.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838411&x-signature=1CiGt3SeJN3Tj0m7NqXE3qHHOvA%3D",
+          "size": 47970
+        }
+      ],
+      "valid": true,
+      "item_id": 1782788344074258,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Tiktok Livestream Consultation-Livestream - Ask a Question"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

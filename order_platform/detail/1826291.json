@@ -1,0 +1,502 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497066245137",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Armando Carmona Blanco",
+  "create_time": 1705700355,
+  "deadline": 0,
+  "archive_board_id": 1705151646989663,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1705949427,
+      "auto_close_hit": 0,
+      "id": 7326996383171494000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Danniella Hernandez",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7224633435184317000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Danni,</p><p>Confirmando recibo de tu ticket.</p><p>¿Si me puedes dar un poco mas de contexto acerca del problema que el cliente esta teniendo?</p><p>Saludos,<br>Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705954353,
+      "auto_close_hit": 0,
+      "id": 7327017366372483000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "danniella.hernandez@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Danniella Hernandez",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7224633435184317441",
+      "name": "Danniella Hernandez",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Armando como vas estamos teneindo problemas porque a ellos ya les aprece correctamente instalado el EAPI pero no dispara los eventos en TikTok Ads Manager</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_ff6287a8-762f-457a-8ae6-487c0229d7hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705964240,
+      "auto_close_hit": 0,
+      "id": 7327057830005965000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Danniella Hernandez",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7224633435184317000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Danni,</p><p>Gracias por la información. </p><p>Como podemos ver aquí abajo, el cliente tiene 4 pixeles que están activos en este momento:</p><img alt=\"Screenshot 2024-01-22 at 2.31.16 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/894d0493cf6c40b2ac349caedc15184a.png\" height=\"191.962\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/894d0493cf6c40b2ac349caedc15184a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832899&amp;x-signature=NROs6dTeE%2B5ymbZs36qaSduGUxs%3D\" width=\"375\"><p>De los pixeles de arriba, la mayoría de ellos recibe eventos de API solamente. Así es como aparece cada uno:</p><p><br /></p><p><span style=\"color: #5775F9;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CI1SB7RC77UFB57TN200?start_time=2024-01-16&amp;end_time=2024-01-22&amp;from=ALL&amp;aadvid=7239376284118237186\" target=\"_blank\">BAVV_TIKTOK_CDT</a></span><br /></p><p><span style=\"color: #666666;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CI1SB7RC77UFB57TN200?start_time=2024-01-16&amp;end_time=2024-01-22&amp;from=ALL&amp;aadvid=7239376284118237186\" target=\"_blank\">Pixel ID: CI1SB7RC77UFB57TN200</a></span><br /></p><ul><li>CompleteRegistration (API)</li></ul><img alt=\"Screenshot 2024-01-22 at 2.49.11 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/13003892e8364e359d298a9ee7a0ed07.png\" height=\"191.962\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13003892e8364e359d298a9ee7a0ed07.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832899&amp;x-signature=GnDSMwJ5Y1KAGSq3P206F19PXWs%3D\" width=\"375\"><p><span style=\"color: #5775F9;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CI1SAPBC77U2H86M45QG?start_time=2024-01-16&amp;end_time=2024-01-22&amp;from=ALL&amp;aadvid=7239376284118237186\" target=\"_blank\">BAVV_TIKTOK_CLI</a></span><br /></p><p><span style=\"color: #666666;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CI1SAPBC77U2H86M45QG?start_time=2024-01-16&amp;end_time=2024-01-22&amp;from=ALL&amp;aadvid=7239376284118237186\" target=\"_blank\">Pixel ID: CI1SAPBC77U2H86M45QG</a></span><br /></p><ul><li>CompleteRegistration (API)</li></ul><img alt=\"Screenshot 2024-01-22 at 2.50.12 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b8ae468c114e437697299585d8a86b1f.png\" height=\"191.962\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8ae468c114e437697299585d8a86b1f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832899&amp;x-signature=O3qFiUmK6XE3tRPs2WTxOB8v0rU%3D\" width=\"375\"><p><span style=\"color: #5775F9;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CI1SA2RC77U441D0P82G?start_time=2024-01-16&amp;end_time=2024-01-22&amp;from=ALL&amp;aadvid=7239376284118237186\" target=\"_blank\">BAVV_TIKTOK_CDA</a></span><br /></p><p><span style=\"color: #666666;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CI1SA2RC77U441D0P82G?start_time=2024-01-16&amp;end_time=2024-01-22&amp;from=ALL&amp;aadvid=7239376284118237186\" target=\"_blank\">Pixel ID: CI1SA2RC77U441D0P82G</a></span><br /></p><ul><li>CompleteRegistration (API)</li><li>SubmitForm (API)</li><li>CompletePayment (API)</li></ul><img alt=\"Screenshot 2024-01-22 at 2.51.00 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/36ffb5a34db349f68240244fea82b7b9.png\" height=\"191.962\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36ffb5a34db349f68240244fea82b7b9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832899&amp;x-signature=L9nHg%2B4WbcrBFQ0wdntbpQggfTQ%3D\" width=\"375\"><p><span style=\"color: #5775F9;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CI1S943C77U0O25F2AS0?start_time=2024-01-16&amp;end_time=2024-01-22&amp;from=ALL&amp;aadvid=7239376284118237186\" target=\"_blank\">AVV_TIKTOK_TC</a></span><br /></p><p><span style=\"color: #666666;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CI1S943C77U0O25F2AS0?start_time=2024-01-16&amp;end_time=2024-01-22&amp;from=ALL&amp;aadvid=7239376284118237186\" target=\"_blank\">Pixel ID: CI1S943C77U0O25F2AS0</a></span><br /></p><ul><li>CompleteRegistration (Browser)</li></ul><img alt=\"Screenshot 2024-01-22 at 2.51.50 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5d576b7c34874218b05d1f5626e2e55a.png\" height=\"191.962\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5d576b7c34874218b05d1f5626e2e55a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832899&amp;x-signature=Y98zDmbBwVPoQOHfj5zz0PnCCxc%3D\" width=\"375\"><p>Como podemos ver arriba, la mayoría de los pixeles esta enviando eventos por servidor (API) solamente. Si recibiste un mensaje de que el cliente no esta en Signals Optimal aun, es porque les hace falta enviar los mismos eventos por el navegador.</p><ul><li><span style=\"color: #333333;\"><em>pero no dispara los eventos en TikTok Ads Manager</em></span></li></ul><p>Arriba podemos ver como TikTok Ads Manager reporta esta recibiendo eventos de API en 3 de los 4 pixeles. Si tienes algún pantallazo que muestre lo contrario para poder seguir investigando?</p><p>Saludos,<br>Armando</br></p></img></img></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706312839,
+      "auto_close_hit": 0,
+      "id": 7328553768176353000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Conclusion]&nbsp;</strong><br>CSM asked to QA the advertiser&#39;s implementation after advertiser claimed they were not able to see events API in their dashboard. After inspection of their event data, i was able to confirm this is being received.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1826291,
+  "workflow_nodes": [],
+  "board_id": 1705151646989663,
+  "employee_email": "armando.carmona@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Follow up Isse EAPI 0 event TTAM",
+  "category_1_name": "Events API - Web",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_ff6287a8-762f-457a-8ae6-487c0229d7hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1707079129,
+  "owner_name": "Danniella Hernandez",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - Web",
+  "archive_category_1": "1736497066245137",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497066245137",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882593",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882609",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883585",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883601",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400130",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400146",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400162",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400178",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401154",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401170",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401186",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401202",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548708426753",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - Web"
+    }
+  ],
+  "core_user_id": "7224633435184317441",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Danniella Hernandez",
+  "follow_employee_id": 1807296,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 3689769,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Follow up Isse EAPI 0 event TTAM",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": [
+        "Segment",
+        "Tealium"
+      ],
+      "valid": true,
+      "key": [
+        "Segment",
+        "Tealium"
+      ],
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Av Villas ",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Finance",
+      "valid": true,
+      "key": "Finance",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "LATAM-CO",
+      "valid": true,
+      "key": "LATAM",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7239376284118237186"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "danniella hernandez",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "7233382664093368321",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CI1S943C77U0O25F2AS0",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.avvillas.com.co/solicitar-tarjeta-credito/inicio?utm_source=TikTok&utm_medium=paid&utm_campaign=tdc-tcd-avv-nal-ttk-pad-cvr-cpa-aon-sep23-prospecting_experienciasaval00306&utm_term=AVV_SOC_Video_3_prospecting_25082023&utm_content=TikTok_TC"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-19",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8ae468c114e437697299585d8a86b1f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832899&x-signature=O3qFiUmK6XE3tRPs2WTxOB8v0rU%3D",
+          "file_name": "file_20240318_13_34_59_525344",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8ae468c114e437697299585d8a86b1f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832899&x-signature=O3qFiUmK6XE3tRPs2WTxOB8v0rU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b8ae468c114e437697299585d8a86b1f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36ffb5a34db349f68240244fea82b7b9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832899&x-signature=L9nHg%2B4WbcrBFQ0wdntbpQggfTQ%3D",
+          "file_name": "file_20240318_13_34_59_525464",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36ffb5a34db349f68240244fea82b7b9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832899&x-signature=L9nHg%2B4WbcrBFQ0wdntbpQggfTQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/36ffb5a34db349f68240244fea82b7b9.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/894d0493cf6c40b2ac349caedc15184a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832899&x-signature=NROs6dTeE%2B5ymbZs36qaSduGUxs%3D",
+          "file_name": "file_20240318_13_34_59_525491",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/894d0493cf6c40b2ac349caedc15184a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832899&x-signature=NROs6dTeE%2B5ymbZs36qaSduGUxs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/894d0493cf6c40b2ac349caedc15184a.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5d576b7c34874218b05d1f5626e2e55a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832899&x-signature=Y98zDmbBwVPoQOHfj5zz0PnCCxc%3D",
+          "file_name": "file_20240318_13_34_59_525506",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5d576b7c34874218b05d1f5626e2e55a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832899&x-signature=Y98zDmbBwVPoQOHfj5zz0PnCCxc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5d576b7c34874218b05d1f5626e2e55a.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13003892e8364e359d298a9ee7a0ed07.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832899&x-signature=GnDSMwJ5Y1KAGSq3P206F19PXWs%3D",
+          "file_name": "file_20240318_13_34_59_525520",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13003892e8364e359d298a9ee7a0ed07.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832899&x-signature=GnDSMwJ5Y1KAGSq3P206F19PXWs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/13003892e8364e359d298a9ee7a0ed07.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - Web-Events API - Web"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

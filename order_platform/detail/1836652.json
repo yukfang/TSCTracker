@@ -1,0 +1,383 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497211543601",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Chan Lim",
+  "create_time": 1706135831,
+  "deadline": 0,
+  "archive_board_id": 1705151646989665,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1706492740,
+      "auto_close_hit": 0,
+      "id": 7329328673696285000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Gabe, which threshold are you referring to? Are you talking about Privacy Threshold in SKAN?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706492986,
+      "auto_close_hit": 0,
+      "id": 7329329917479453000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "dan.crosby@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Dan Crosby",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6964197946368377858",
+      "name": "Dan Crosby",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>more so for optimisation and learnings, what are our guidelines for the below?:</p><p><br></p><p><span style=\"color: #222222;\">For some context, I’m keen to get across the most up to date TikTok guidelines regarding:</span></p><ul><li><span style=\"color: #222222;\">Threshold number</span></li><li><span style=\"color: #222222;\">Most up to date details around thresholds:</span></li><ul><li><span style=\"color: #222222;\">Does each Ad Set or Campaign have to hit these daily thresholds, or is it at an overall account level?</span></li><li><span style=\"color: #222222;\">If thresholds are met, are 100% of Reg and FTBs reported in Kochava for that day?</span></li></ul><li><span style=\"color: #222222;\">Are you able to provide the TikTok recommended best practice to approach measurement for iOS post install events?</span></li><li><span style=\"color: #222222;\">Any other callouts.</span></li></ul><p><span style=\"color: #222222;\">&nbsp;</span></p><p>ie. Threshold of 50 daily conversions for each event in app to be able to optimise towards, and is this at campaign level or ad group etc.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_e1ad8a6c-9f24-4ae7-a1ba-31b86a63e6hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706495575,
+      "auto_close_hit": 0,
+      "id": 7329341585567629000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<ul><li><span style=\"color: #222222;\">Threshold number</span></li><ul><li><span style=\"color: #222222;\">General AEO (Android / iOS non-DC)</span></li><ul><li>After 20-50 event conversions, optimization will improve, while CPA will reduce.</li><li>​After 50 event conversions, the Learning Phase will end, and you will see efficient optimization.</li></ul></ul><ul><ul><li>https://ads.tiktok.com/help/article/app-event-optimization?lang=en#anchor-11</li></ul><li>iOS DC AEO</li><ul><li>Minimum of 50 installs/day/campaign</li><li>https://bytedance.larkoffice.com/docs/doccnHl9N4SplyXSG4pg7gk30Ib#Pyk9Yy</li></ul></ul><li><span style=\"color: #222222;\">Most up to date details around thresholds:</span></li><ul><li><span style=\"color: #222222;\">Does each Ad Set or Campaign have to hit these daily thresholds, or is it at an overall account level?</span></li><ul><li>For General AEO, it is at TikTok App ID level (An app registered in an each TikTok Ad account)</li><li>For iOS DC AEO, it is a daily threshold at the campaign level.</li></ul><li><span style=\"color: #222222;\">If thresholds are met, are 100% of Reg and FTBs reported in Kochava for that day?</span></li><ul><li>I am not sure what exactly Reg and FTBs stand for. I am assuming Reg will be Registration but what does FTB stand for? First-Time Bet? I will answer your questions assuming these are type of in-app events.</li><li>All events for Android and iOS SKAN Opt-in data will be reported in Kochava regardless of TikTok's optimization threshold.</li><li>For iOS DC, there is a separate concept called 'Privacy Threshold' in Apple SKAN, not related to TikTok's optimization, which Apple will NOT report any app event until there is a number of events enough that cannot be tracked down to each individual user. If it is not met, App events will not be reported. (Exact number of Privacy threshold has never been disclosed by Apple. But, based on previous data, TikTok recommends advertisers to achieve 50+installs/campaign/day)</li><ul><li>https://bytedance.larkoffice.com/wiki/wikcnj4EwJHFbKOhINObyH6oQrg</li></ul></ul></ul><li><span style=\"color: #222222;\">Are you able to provide the TikTok recommended best practice to approach measurement for iOS post install events?</span></li><ul><li>I can see the advertiser is currently measuring Registration and First Bet only for iOS. Since there is some&nbsp; capacity to configure something additionally in SKAN Conversion Values. Maybe they can try to measure the revenue amount, or add some additional in-app events.</li><li>What to measure will depend on what the revenue model is, what the KPIs are etc. I suggest you have a look at the slide below first (the slide is internal only) so you can understand the concept, and we can discuss more on what to recommend to the client after I understand more about your client's app.</li><ul><li>https://docs.google.com/presentation/d/12gy4GiNXoBvmwdoktJ-ykav-QM9Ydaot9QlSQ6_P1zg/edit#slide=id.g22f14da8f16_0_3489</li></ul></ul><li><span style=\"color: #222222;\">Any other callouts.</span></li></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706589090,
+      "auto_close_hit": 0,
+      "id": 7329742197073461000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "dan.crosby@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Dan Crosby",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6964197946368377858",
+      "name": "Dan Crosby",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>this is amazing, thank you</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_e1ad8a6c-9f24-4ae7-a1ba-31b86a63e6hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1836652,
+  "workflow_nodes": [],
+  "board_id": 1705151646989665,
+  "employee_email": "chan.lim@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "MMP / SKAN questions from client - please advise",
+  "category_1_name": "Mobile Marketing Partner (MMP)",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 3,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_4378c8e0-744b-459c-afd5-32dcbbb5bbhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 0,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 3,
+  "business_data": [],
+  "update_time": 1707293613,
+  "owner_name": "Gabe Lam",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 5,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Mobile Marketing Partner (MMP)",
+  "archive_category_1": "1736497211543601",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497211543601",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [],
+      "value": "Mobile Marketing Partner (MMP)"
+    }
+  ],
+  "core_user_id": "7157745794584495105",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Gabe Lam",
+  "follow_employee_id": 3050890,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 3475369,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "MMP / SKAN questions from client - please advise",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Sportsbet",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "SEA-AU",
+      "valid": true,
+      "key": "SEA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7133042862987558914"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "gabe lam",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "7145720817496719361",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.sportsbet.com.au/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Mobile Measurement Partner (MMP)",
+      "valid": true,
+      "key": "Mobile Measurement Partner (MMP)",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-25",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "hello, my client is asking a few MMP/SKAN questions below and need your assistacnce please!\n\nFor some context, I’m keen to get across the most up to date TikTok guidelines regarding:\n\nThreshold number\nMost up to date details around thresholds:\nDoes each Ad Set or Campaign have to hit these daily thresholds, or is it at an overall account level?\nIf thresholds are met, are 100% of Reg and FTBs reported in Kochava for that day?\nAre you able to provide the TikTok recommended best practice to approach measurement for iOS post install events?\n\nplease advise! thank you",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Mobile Measurement Partner (MMP)-Mobile Marketing Partner (MMP)"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

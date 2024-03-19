@@ -1,0 +1,1151 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354674",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1705700521,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1705700539,
+      "auto_close_hit": 0,
+      "id": 7325925069601915000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "osayd.qatu@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Osayd Qatu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7195592249392432130",
+      "name": "Osayd Qatu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>We need this reply by early Monday if possible!!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_be23efd7-fcb6-4f94-862d-bbd98d0e73ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705938744,
+      "auto_close_hit": 0,
+      "id": 7326950844354691000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Osayd,</p><p>Apologies for the delay! Unfortunately this ticket fell through the cracks and was just assigned to me now.</p><p>There are two approaches we can take, either</p><ul><li>Submitting a request to Transfer Pixels across Buisness Center (Recommended)</li><ul><li>The client will have full ownership and control of their Pixels </li><li>Drawback is that another Athena ticket will have to be made on our Internal TPS platform to start the process (~1 week)</li></ul></ul><p> </p><ul><li>Using the Pixel Sharing function to share the existing Pixels from the Dentsu BC to the new Client owned BC </li><ul><li>The client will be easily able to do this on their own</li><li>Drawback is that the Dentsu BC must remain active and the Pixels will still remain in the Dentsu BC</li></ul></ul><p><br /></p><p>1) Recommended approach - Submit an Internal TPS ticket to Transfer Pixels Across Business Centers. This will ensure that the client has full control of the Pixel moving forward. Further details and steps can be found here: https://bytedance.larkoffice.com/docx/VuIoduNsxo3TjZxe2xZc2pWRnsh </p><ul><li>Note, the Athena Ticketing Platform is going to be different than the one you used here to submit an Implementation Ticket:</li><ul><li>Internal TPS Athena Ticketing link: https://ads.tiktok.com/athena/requester/boards?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456</li><li>Please select Buisness Center &gt; Pixel Sharing</li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/fdd7da24da87488f9e6536af1184daf5.png\" height=\"171.69\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fdd7da24da87488f9e6536af1184daf5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833366&amp;x-signature=y1Va5plCE9Fs%2BSNB8CgwVyBx8qc%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d983767094584eb08c049d35552c601e.png\" height=\"123.23\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d983767094584eb08c049d35552c601e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833366&amp;x-signature=wI2NuHUAZERL3n0DEs8Gbhv1m4A%3D\" width=\"375\"><ul><li>Sales contact to submit an Athena ticket first using the information above and get in touch with one of the scaled TPS members, so that the TPS team can record the case, conduct preliminary research, and escalate the issue accordingly. Please provide all the necessary information so that we can process your ticket:</li><ul><li>Advertiser name</li><li>BC ID (BC owning the pixel)</li><li>Pixel Id (make sure there are no duplicate pixel codes shared by the sales team)</li><li>Receiving BC ID</li><li>Receiving BC user admin (email and UID)</li></ul><li>HQ team will not process email requests without a submitted Athena ticket.</li><li>In the ticket, sales contact to specify the reason why your client needs to transfer the pixel and Who the transferer and transferee are</li><li>Process will take roughly ~1 week</li></ul><p>2) Pixel Sharing: https://ads.tiktok.com/help/article/pixel-sharing-business-center?lang=en</p><ul><li>The client is able to do this themselves but as mentioned above, the drawback here is that the Dentsu BC must remain active and the Pixels will still remain in the Dentsu BC</li><li>The client will still own the Pixel as it is theirs to begin with, but partial control will still remain with Dentsu as the Pixels will still remain in the Dentsu BC, being shared out to the client's new BC</li></ul><p><br /></p><p>Thanks for your patience and understanding here, Osayd!</p><p>Best,</p><p>Robbie</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705950393,
+      "auto_close_hit": 0,
+      "id": 7327000056261788000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "osayd.qatu@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Osayd Qatu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7195592249392432130",
+      "name": "Osayd Qatu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>client replied with attached screenshot, can you advise</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screenshot 2024-01-22 at 1.06.00 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c53f57c456e84c4d93576f9e26268ad2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833366&x-signature=YmdVtTys%2Fe1%2BtU2GqeSaT3TzPaQ%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/c53f57c456e84c4d93576f9e26268ad2.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c53f57c456e84c4d93576f9e26268ad2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833366&x-signature=YmdVtTys%2Fe1%2BtU2GqeSaT3TzPaQ%3D",
+              "biz_type": 2,
+              "size": 38456
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_be23efd7-fcb6-4f94-862d-bbd98d0e73ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705957108,
+      "auto_close_hit": 0,
+      "id": 7327029053712531000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p style=\"text-align: left;\">Hi&nbsp;<span style=\"color: #333333;\">Osayd,</span></p><p style=\"text-align: left;\"><span style=\"color: #333333;\">Would you be able to provide me with the Buisness Center IDs that contain all of the known Pixels?</span></p><p style=\"text-align: left;\"><span style=\"color: #333333;\">Thanks!</span></p><p style=\"text-align: left;\"><span style=\"color: #333333;\">Robbie</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705958318,
+      "auto_close_hit": 0,
+      "id": 7327034109576888000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "osayd.qatu@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Osayd Qatu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7195592249392432130",
+      "name": "Osayd Qatu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>just larked you as im having issues adding the screenshot</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_be23efd7-fcb6-4f94-862d-bbd98d0e73ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1705958684,
+      "auto_close_hit": 0,
+      "id": 7327035101630497000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi&nbsp;<span style=\"color: #333333;\">Osayd - would it be possible to copy and paste the actual IDs instead of sending a screenshot?</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706031531,
+      "auto_close_hit": 0,
+      "id": 7327348391543996000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "osayd.qatu@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Osayd Qatu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7195592249392432130",
+      "name": "Osayd Qatu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">Here are the IDs!&nbsp;</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p><ul><li><span style=\"color: #222222;\">KHC_UNITEDSTATES_Velveeta</span></li><ul><li><span style=\"color: #222222;\">ID: 7326969201195778050</span></li></ul><li><span style=\"color: #222222;\">KHC_UNITEDSTATES_Ore-Ida</span></li><ul><li><span style=\"color: #222222;\">ID: 7326970087515176962</span></li></ul><li><span style=\"color: #222222;\">KHC_UNITEDSTATES_Homebake</span></li><ul><li><span style=\"color: #222222;\">ID: 7326970597119131649</span></li></ul><li><span style=\"color: #500050;\">KHC_UNITEDSTATES_Just Crack An Egg</span></li><ul><li><span style=\"color: #500050;\">ID: 7309620363074453506</span></li></ul><li>KHC_UNITEDSTATES_Oscar Mayer</li><ul><li>ID: 7309619698675646465</li></ul><li>KHC_UNITEDSTATES_IHOP</li><ul><li>ID: 7309619279207464962</li></ul><li>KHC_UNITEDSTATES_Kraft M&amp;C</li><ul><li>ID: 7309618096778772481</li></ul><li>KHC_UNITEDSTATES_Philadelphia</li><ul><li>ID: 7309616508693495810</li></ul><li>KHC_UNITEDSTATES_Heinz</li><ul><li>ID: 7309613844408860674</li></ul></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_be23efd7-fcb6-4f94-862d-bbd98d0e73ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706031662,
+      "auto_close_hit": 0,
+      "id": 7327348776997896000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Osayd, this is very helpful! I&#39;ll get to work on gathering the Pixel Codes for the client</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706032188,
+      "auto_close_hit": 0,
+      "id": 7327351771825816000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi&nbsp;<span style=\"color: #333333;\">Osayd, just checking back in - I went through these Ad Accounts and there were no Pixels created in each account so there are no Pixel Codes to export!</span></p><p><br></p><p><span style=\"color: #333333;\">Would you happen to have a BC ID I could potentially look into?</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706032578,
+      "auto_close_hit": 0,
+      "id": 7327352826869449000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Osayd - apologies for the spam but there is only one Pixel present for an Ad account! KHC_UNITEDSTATES_Heinz  7309613844408860674</p><p>https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7309613844408860674</p><p><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CMNVAD3C77UB6TL33FD0?start_time=2024-01-17&amp;end_time=2024-01-23&amp;from=ALL&amp;aadvid=7309613844408860674\" target=\"_blank\">CMNVAD3C77UB6TL33FD0</a></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/69e1fe58083a44a8843b97f46ad8bf26.png\" height=\"123.429\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/69e1fe58083a44a8843b97f46ad8bf26.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833366&amp;x-signature=YNCloHgblQhb6XZIKMpjG6tf%2FZI%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706038041,
+      "auto_close_hit": 0,
+      "id": 7327376447289459000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "osayd.qatu@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Osayd Qatu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7195592249392432130",
+      "name": "Osayd Qatu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Sorry for the fast follow - if the codes are not there is thee a way we can process codes to send over to them or would they need to manually do them in TTAM?&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_be23efd7-fcb6-4f94-862d-bbd98d0e73ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706037979,
+      "auto_close_hit": 0,
+      "id": 7327376515971269000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "osayd.qatu@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Osayd Qatu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7195592249392432130",
+      "name": "Osayd Qatu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Robbie. What can we do to get them these codes ASAP?&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_be23efd7-fcb6-4f94-862d-bbd98d0e73ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706040836,
+      "auto_close_hit": 0,
+      "id": 7327388784092283000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Osayd,</p><p>This means that they've only created one Pixel <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CMNVAD3C77UB6TL33FD0?start_time=2024-01-17&amp;end_time=2024-01-23&amp;from=ALL&amp;aadvid=7309613844408860674\" target=\"_blank\">CMNVAD3C77UB6TL33FD0</a> and that is the only Pixel code we can provide them if that the list of Advertiser Accounts you have on file for the client. We cannot provide them with Pixel codes that do not exist :)</p><p><br /></p><p>They will have to create Pixels on their own in each TTEM - we do not have authorization/permission to generate Pixels on behalf of the client</p><p><br /></p><p>From the original message, it seems like they are aware of multiple Ad Accounts but have not looked into each one themselves. It seems like  a general ask along the lines of \"can you check for us, and if there are many pixels, please provide us with the Pixel Codes\"</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0e72d9be6d054f96b79177b72b10a0ce.png\" height=\"115.327\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e72d9be6d054f96b79177b72b10a0ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833367&amp;x-signature=tlJS8IPnDBYyhUsQ1W%2Bo4m1wVJU%3D\" width=\"375\"><p><br /></p><p>The 9 Ad Accounts in question do not contain a Pixel except for the KHC_UNITEDSTATES_Heinz Ad Account:</p><p><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CMNVAD3C77UB6TL33FD0?start_time=2024-01-17&amp;end_time=2024-01-23&amp;from=ALL&amp;aadvid=7309613844408860674\" target=\"_blank\">CMNVAD3C77UB6TL33FD0</a></p><p>KHC_UNITEDSTATES_Heinz</p><p>ID: 7309613844408860674</p><p>https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7309613844408860674</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ed62f63e3c594402a568e63f8ac48a97.png\" height=\"140.838\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ed62f63e3c594402a568e63f8ac48a97.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833367&amp;x-signature=Db%2BeezsJUnn0l3G0ZuPikMZF%2F3E%3D\" width=\"375\"><p><br /></p><p>Here are the rest of the Ad Accounts, showing no Pixels created:</p><p><br /></p><p>KHC_UNITEDSTATES_Velveeta</p><p>ID: 7326969201195778050</p><p><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7326969201195778050\" target=\"_blank\">https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7326969201195778050</a></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/db8d7d5370524a709fb61f6099e85444.png\" height=\"136.068\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db8d7d5370524a709fb61f6099e85444.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833367&amp;x-signature=9ULtZ9MoDeyzQQzc2%2Bfhcx3l7kk%3D\" width=\"375\"><p><br /></p><p>KHC_UNITEDSTATES_Ore-Ida</p><p>ID: 7326970087515176962</p><p><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7326970087515176962\" target=\"_blank\">https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7326970087515176962</a></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/35778945b7f04bce973b496f91c11163.png\" height=\"120.613\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35778945b7f04bce973b496f91c11163.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833367&amp;x-signature=xzzxYG8fUmhRMiJax%2F5MJNMqjFU%3D\" width=\"375\"><p><br /></p><p>KHC_UNITEDSTATES_Homebake</p><p>ID: 7326970597119131649</p><p><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7326970597119131649\" target=\"_blank\">https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7326970597119131649</a></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c88922ffe88844cebeeff1bb7d9b229b.png\" height=\"124.714\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c88922ffe88844cebeeff1bb7d9b229b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833367&amp;x-signature=fW8rR%2BQpdCSeQtmE7u2144esfZs%3D\" width=\"375\"><p><br /></p><p>KHC_UNITEDSTATES_Just Crack An Egg</p><p>ID: 7309620363074453506</p><p><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7309620363074453506\" target=\"_blank\">https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7309620363074453506</a></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/65c0d199d8f84b599f8be2cae808f04c.png\" height=\"134.45\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/65c0d199d8f84b599f8be2cae808f04c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833367&amp;x-signature=LjIMNTPqN20BmM0NA7gA8ZfzwJQ%3D\" width=\"375\"><p><br /></p><p>KHC_UNITEDSTATES_Oscar Mayer</p><p>ID: 7309619698675646465</p><p><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7309619698675646465\" target=\"_blank\">https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7309619698675646465</a></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/276287276e1f4640b2fbd8e3c2cae5ca.png\" height=\"146.945\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/276287276e1f4640b2fbd8e3c2cae5ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833367&amp;x-signature=CuiVxlo3HxDq34XrlwkHWsM4HTc%3D\" width=\"375\"><p><br /></p><p>KHC_UNITEDSTATES_IHOP</p><p>ID: 7309619279207464962</p><p><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7309619279207464962\" target=\"_blank\">https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7309619279207464962</a></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8822bf72c78b4a068e8a2b723cffaa39.png\" height=\"138.124\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8822bf72c78b4a068e8a2b723cffaa39.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833367&amp;x-signature=hVhRo1B7BBJE7UuVrGTJC83fJE4%3D\" width=\"375\"><p><br /></p><p>KHC_UNITEDSTATES_Kraft M&amp;C</p><p>ID: 7309618096778772481</p><p><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7309618096778772481\" target=\"_blank\">https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7309618096778772481</a></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8be364e08b5e4e93aa520599e7a25ce0.png\" height=\"138.316\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8be364e08b5e4e93aa520599e7a25ce0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833367&amp;x-signature=0KyPFEIE5lad1663r61yoRXjYmE%3D\" width=\"375\"><p><br /></p><p>KHC_UNITEDSTATES_Philadelphia</p><p>ID: 7309616508693495810</p><p><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7309618096778772481\" target=\"_blank\">https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7309618096778772481</a></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6297d9878a794737bf8084dd57aa9b10.png\" height=\"141.967\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6297d9878a794737bf8084dd57aa9b10.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833367&amp;x-signature=2INIO3vK4vLGFn5xOWg9JQFlMTk%3D\" width=\"375\"><p><br /></p><p>In summary, only one Pixel has been created across the 9 provided Ad Accounts. This Pixel is currently in the KHC_UNITEDSTATES_Heinz Ad Account and is the only Pixel code we can provide because none exist in the other Ad Accounts</p><p><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CMNVAD3C77UB6TL33FD0?start_time=2024-01-17&amp;end_time=2024-01-23&amp;from=ALL&amp;aadvid=7309613844408860674\" target=\"_blank\">CMNVAD3C77UB6TL33FD0</a></p><p>ID: 7309613844408860674</p><p><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7309613844408860674\" target=\"_blank\">https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7309613844408860674</a></p><p><br /></p><p>I hope this helps!</p><p>Best,</p><p>Robbie</p></img></img></img></img></img></img></img></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706043770,
+      "auto_close_hit": 0,
+      "id": 7327400777645834000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "osayd.qatu@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Osayd Qatu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7195592249392432130",
+      "name": "Osayd Qatu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Gotcha! Ill follow up with them. Appreciate the support!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_be23efd7-fcb6-4f94-862d-bbd98d0e73ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706650430,
+      "auto_close_hit": 0,
+      "id": 7330005868529893000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "osayd.qatu@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Osayd Qatu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7195592249392432130",
+      "name": "Osayd Qatu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Robbie! The client would like to meet in two weeks to walk through implmenetation, are you able to share avails for me to send over to them?&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_be23efd7-fcb6-4f94-862d-bbd98d0e73ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706651415,
+      "auto_close_hit": 0,
+      "id": 7330010622127587000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Osayd,</p><p><br></p><p>Absolutely! A quick favor - would you be able to provide me with a landing page that the client is planning on setting up with the pixel? I can prepare an Implementation documentation for them ahead of our call that they can use to assist them with setup :)</p><p><br></p><p>For the week of the 12th, I will have the following availability:</p><p>Monday 2/12: 8 AM - 2 PM PST</p><p>Tues 2/13: 7 AM - 1 PM PST</p><p>Wed 2/14: 7 AM - 9 AM PST / 10 AM - 11 AM PST / 1 PM - 2 PM PST</p><p>Thurs 2/15: 7 AM - 12 PM PST / 1 PM - 2 PM PST</p><p>Friday 2/16: 7 AM - 2 PM PST</p><p><br></p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706652179,
+      "auto_close_hit": 0,
+      "id": 7330014401749205000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "osayd.qatu@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Osayd Qatu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7195592249392432130",
+      "name": "Osayd Qatu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>we appreciate you robbie!&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_be23efd7-fcb6-4f94-862d-bbd98d0e73ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706652170,
+      "auto_close_hit": 0,
+      "id": 7330014641831068000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "osayd.qatu@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Osayd Qatu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7195592249392432130",
+      "name": "Osayd Qatu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>happy to! let me reach out and ask them for the landing page, will also share your avails and looks to schedule something&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_be23efd7-fcb6-4f94-862d-bbd98d0e73ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706652694,
+      "auto_close_hit": 0,
+      "id": 7330016643638215000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "osayd.qatu@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Osayd Qatu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7195592249392432130",
+      "name": "Osayd Qatu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>they would like to book your&nbsp;<span style=\"color: #222222;\">2/15 at 11am EST (8am PST), that still work for you?&nbsp;</span></p><p><br></p><p><span style=\"color: #222222;\">let me know and i can add you to the email chain for visibility on our convo so far and we can send the invite :-)&nbsp;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_be23efd7-fcb6-4f94-862d-bbd98d0e73ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706654990,
+      "auto_close_hit": 0,
+      "id": 7330025550372684000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Osayd</p><p>Absolutely, let&#39;s put it on the books! Good&nbsp; to go for&nbsp;<span style=\"color: #222222;\">2/15 at 11am EST (8am PST) and please feel free to loop me into the email chain for visibility.</span></p><p><span style=\"color: #222222;\">Thanks!</span></p><p><span style=\"color: #222222;\">Robbie</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706719876,
+      "auto_close_hit": 0,
+      "id": 7330305606982681000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "osayd.qatu@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Osayd Qatu",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7195592249392432130",
+      "name": "Osayd Qatu",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>scheduling this now!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_be23efd7-fcb6-4f94-862d-bbd98d0e73ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1826292,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Kraft Heinz",
+  "category_1_name": "Basic",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_be23efd7-fcb6-4f94-862d-bbd98d0e73ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 2,
+  "business_data": [],
+  "update_time": 1706719876,
+  "owner_name": "Osayd Qatu",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Basic",
+  "archive_category_1": "1736497459354674",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7195592249392432130",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Osayd Qatu",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 1,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 4114377,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Kraft Heinz",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Kraft Heinz",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "CPG",
+      "valid": true,
+      "key": "CPG",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7309618096778772481"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Hillary Kribben and Osayd Qatu",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "NA",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "kraftheinz.com"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-19",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hey team - client is looking to enable pixels across all paid media in portfolio (10+ accounts). Currently they are using Dentsu's BC but will likely move BC's to their own soon. All pixels will be tracking different sites. Client is curious about bandwidth and the easiest way to enable ASAP. See screenshot. ",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-01-19 at 3.41.30 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2089dc60fa904413a2afabaebeda77b1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833366&x-signature=EG834DFF%2BXmQHh3NoqIDvBDO0nI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2089dc60fa904413a2afabaebeda77b1.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2089dc60fa904413a2afabaebeda77b1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833366&x-signature=EG834DFF%2BXmQHh3NoqIDvBDO0nI%3D",
+          "size": 41115
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d983767094584eb08c049d35552c601e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833366&x-signature=wI2NuHUAZERL3n0DEs8Gbhv1m4A%3D",
+          "file_name": "file_20240318_13_42_46_754240",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d983767094584eb08c049d35552c601e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833366&x-signature=wI2NuHUAZERL3n0DEs8Gbhv1m4A%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d983767094584eb08c049d35552c601e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fdd7da24da87488f9e6536af1184daf5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833366&x-signature=y1Va5plCE9Fs%2BSNB8CgwVyBx8qc%3D",
+          "file_name": "file_20240318_13_42_46_754323",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fdd7da24da87488f9e6536af1184daf5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833366&x-signature=y1Va5plCE9Fs%2BSNB8CgwVyBx8qc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/fdd7da24da87488f9e6536af1184daf5.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-01-22 at 1.06.00 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c53f57c456e84c4d93576f9e26268ad2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833366&x-signature=YmdVtTys%2Fe1%2BtU2GqeSaT3TzPaQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c53f57c456e84c4d93576f9e26268ad2.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c53f57c456e84c4d93576f9e26268ad2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833366&x-signature=YmdVtTys%2Fe1%2BtU2GqeSaT3TzPaQ%3D",
+          "biz_type": 2,
+          "size": 38456
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/69e1fe58083a44a8843b97f46ad8bf26.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833366&x-signature=YNCloHgblQhb6XZIKMpjG6tf%2FZI%3D",
+          "file_name": "file_20240318_13_42_47_004373",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/69e1fe58083a44a8843b97f46ad8bf26.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833366&x-signature=YNCloHgblQhb6XZIKMpjG6tf%2FZI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/69e1fe58083a44a8843b97f46ad8bf26.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8822bf72c78b4a068e8a2b723cffaa39.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=hVhRo1B7BBJE7UuVrGTJC83fJE4%3D",
+          "file_name": "file_20240318_13_42_47_252835",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8822bf72c78b4a068e8a2b723cffaa39.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=hVhRo1B7BBJE7UuVrGTJC83fJE4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8822bf72c78b4a068e8a2b723cffaa39.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c88922ffe88844cebeeff1bb7d9b229b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=fW8rR%2BQpdCSeQtmE7u2144esfZs%3D",
+          "file_name": "file_20240318_13_42_47_252898",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c88922ffe88844cebeeff1bb7d9b229b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=fW8rR%2BQpdCSeQtmE7u2144esfZs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c88922ffe88844cebeeff1bb7d9b229b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/276287276e1f4640b2fbd8e3c2cae5ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=CuiVxlo3HxDq34XrlwkHWsM4HTc%3D",
+          "file_name": "file_20240318_13_42_47_252916",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/276287276e1f4640b2fbd8e3c2cae5ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=CuiVxlo3HxDq34XrlwkHWsM4HTc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/276287276e1f4640b2fbd8e3c2cae5ca.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/65c0d199d8f84b599f8be2cae808f04c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=LjIMNTPqN20BmM0NA7gA8ZfzwJQ%3D",
+          "file_name": "file_20240318_13_42_47_252931",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/65c0d199d8f84b599f8be2cae808f04c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=LjIMNTPqN20BmM0NA7gA8ZfzwJQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/65c0d199d8f84b599f8be2cae808f04c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8be364e08b5e4e93aa520599e7a25ce0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=0KyPFEIE5lad1663r61yoRXjYmE%3D",
+          "file_name": "file_20240318_13_42_47_252945",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8be364e08b5e4e93aa520599e7a25ce0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=0KyPFEIE5lad1663r61yoRXjYmE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8be364e08b5e4e93aa520599e7a25ce0.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e72d9be6d054f96b79177b72b10a0ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=tlJS8IPnDBYyhUsQ1W%2Bo4m1wVJU%3D",
+          "file_name": "file_20240318_13_42_47_252958",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e72d9be6d054f96b79177b72b10a0ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=tlJS8IPnDBYyhUsQ1W%2Bo4m1wVJU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0e72d9be6d054f96b79177b72b10a0ce.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ed62f63e3c594402a568e63f8ac48a97.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=Db%2BeezsJUnn0l3G0ZuPikMZF%2F3E%3D",
+          "file_name": "file_20240318_13_42_47_252971",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ed62f63e3c594402a568e63f8ac48a97.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=Db%2BeezsJUnn0l3G0ZuPikMZF%2F3E%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ed62f63e3c594402a568e63f8ac48a97.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db8d7d5370524a709fb61f6099e85444.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=9ULtZ9MoDeyzQQzc2%2Bfhcx3l7kk%3D",
+          "file_name": "file_20240318_13_42_47_252983",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db8d7d5370524a709fb61f6099e85444.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=9ULtZ9MoDeyzQQzc2%2Bfhcx3l7kk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/db8d7d5370524a709fb61f6099e85444.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6297d9878a794737bf8084dd57aa9b10.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=2INIO3vK4vLGFn5xOWg9JQFlMTk%3D",
+          "file_name": "file_20240318_13_42_47_252995",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6297d9878a794737bf8084dd57aa9b10.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=2INIO3vK4vLGFn5xOWg9JQFlMTk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6297d9878a794737bf8084dd57aa9b10.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35778945b7f04bce973b496f91c11163.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=xzzxYG8fUmhRMiJax%2F5MJNMqjFU%3D",
+          "file_name": "file_20240318_13_42_47_253010",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35778945b7f04bce973b496f91c11163.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833367&x-signature=xzzxYG8fUmhRMiJax%2F5MJNMqjFU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/35778945b7f04bce973b496f91c11163.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Basic"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

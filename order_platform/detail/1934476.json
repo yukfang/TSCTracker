@@ -1,0 +1,306 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1746926227731473",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Armando Carmona Blanco",
+  "create_time": 1710179973,
+  "deadline": 0,
+  "archive_board_id": 1705151646989721,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710200303,
+      "auto_close_hit": 0,
+      "id": 7345246388847903000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Renan,</p><p>Confirming receipt of your ticket for Plusdin App.</p><p>I added you to the&nbsp;<span style=\"color: #1F2329;\"><a target=\"_blank\" href=\"https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=f78r5410-25b6-490d-a7c3-bca766d2450n\">Signal Implementation Board - LatAm</a></span> Lark group. Please see comments there and continue the conversation there if you have any follow up questions on the recommendations provided.</p><p>Best,<br>Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710266537,
+      "auto_close_hit": 0,
+      "id": 7345536911458550000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br><br></p><p><strong>[Status Update] </strong>CSM requesting help for their advertiser implementing mobile SDK. Advertiser claims to have implemented SDK but their integration is stuck on Pending Verification. Provided a list of general troubleshooting steps, next step is to have a joint debugging session with developers to look through their code for their implementation. CSM working on scheduling the call, pending.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1934476,
+  "workflow_nodes": [],
+  "board_id": 1705151646989721,
+  "employee_email": "armando.carmona@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "王小睿 - Told me to open a Ticket - Client Needs Help to Implement SDK",
+  "category_1_name": "Mobile SDK",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_0b87b980-3197-4dc7-a2fa-4c7c384c0fdg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 5,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710266537,
+  "owner_name": "Renan Canela",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Mobile SDK",
+  "archive_category_1": "1746926227731473",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1746926227731473",
+      "cate_1_form_id": 1746925170639921,
+      "sub_cates": [],
+      "value": "Mobile SDK"
+    }
+  ],
+  "core_user_id": "7109406219845305346",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Renan Canela",
+  "follow_employee_id": 1807296,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 508026,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "王小睿 - Told me to open a Ticket - Client Needs Help to Implement SDK",
+      "valid": true,
+      "item_id": 1746925170640897,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "No, my request is only a specific question or issue about Signals",
+      "valid": true,
+      "key": "No, my request is only a specific question or issue about Signals",
+      "item_id": 1774552194962434,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774552194962482,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774552194963506,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "7309935760520675329  - PlusDin App",
+      "valid": true,
+      "item_id": 1746925170640913,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Finance",
+      "valid": true,
+      "key": "Finance",
+      "item_id": 1746925270972417,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1746925270972433,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "LATAM-BR",
+      "valid": true,
+      "key": "LATAM",
+      "item_id": 1746925270972449,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1746925270972465,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": "7309935760520675329",
+      "valid": true,
+      "item_id": 1746925270973441,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P0",
+      "valid": true,
+      "key": "P0",
+      "item_id": 1746925270973457,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Android Mobile App ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1746925270973473,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "iOS Mobile App ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1746925270973489,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does client use any mmp and mmp's name? ",
+      "content": "No",
+      "valid": true,
+      "item_id": 1746925270974465,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-11",
+      "valid": true,
+      "item_id": 1746925270974481,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "What's client's business goal of using SDK?",
+      "content": "My client (PlusDin App) implemented all data in their app SDK from this doc: https://bytedance.us.larkoffice.com/docs/doccnFCWdUryJqsFPQx1c20b8nh and it is still not working. They've followed all the steps according to them, and they still cannot check installs into the account. Do we have any updates about this specific document? Do we have any way of helping them, a support from Brazil for example to explain to them how to implement it? If we solve this issue, we'll be able to generate an extra $5k per day at least. Thanks.\n",
+      "valid": true,
+      "item_id": 1746925827345441,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "jpeg",
+          "file_name": "2cba6c3b04d24e9980eb8611a2c04ca5.jpg~tplv-6g3pebcbys-image.jpeg",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ca67929de0bb49b79c0fbf193ca0280b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838562&x-signature=8bc5FkIcXTEdsviKWJFUesaPsMo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ca67929de0bb49b79c0fbf193ca0280b.jpeg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ca67929de0bb49b79c0fbf193ca0280b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838562&x-signature=8bc5FkIcXTEdsviKWJFUesaPsMo%3D",
+          "size": 488507
+        }
+      ],
+      "valid": true,
+      "item_id": 1746925407705105,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Mobile SDK-Mobile SDK"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

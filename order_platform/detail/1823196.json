@@ -1,0 +1,631 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Κατερίνα Σάκκουλα",
+  "create_time": 1705589901,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1705913414,
+      "auto_close_hit": 0,
+      "id": 7326842018506801000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Qian,</p><p><br /></p><p>Thank you for your patience on this!</p><p><br /></p><p>The client has not implemented parameters to their event code, therefore it is expected not to see any values coming through in TTAM. We can confirm this via their GTM code that is available on their website, where they only implemented the function <em>ttq.instance('</em><em>C3DHGPITO1NMNN16MDBG').track('PlaceAnOrder');</em></p><p><br /></p><p>If parameters had been added to their code it would look like: ttq.instance('C3DHGPITO1NMNN16MDBG').track('PlaceAnOrder', {content_id: '1234', content_type: 'product', quantity: 1, value: 25.00, currency: 'GBP' });</p><p><br /></p><img alt=\"Screenshot 2024-01-22 at 08.37.28.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b2e2c32de7144e3aa4e498601d6da96c.png\" height=\"189.626\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2e2c32de7144e3aa4e498601d6da96c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832980&amp;x-signature=9UtWBPTIxf1%2BBCZVTVpldTJiwoE%3D\" width=\"375\"><p><br /></p><p>Additionally, the client has not implemented <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\" target=\"_blank\">manual Advanced Matching</a>. Could you please confirm with them if they will move forward with this recommendation?</p><p>If manual Advanced Matching was implemented, their event code would also include one more line as shown below:</p><p>ttq.identify({ email: 'example@gmail.com', phone_number: '+447518181818'); </p><p>ttq.instance('C3DHGPITO1NMNN16MDBG').track('PlaceAnOrder', {content_id: '1234', content_type: 'product', quantity: 1, value: 25.00, currency: 'GBP' });</p><p><br /></p><p>//They can either send the raw email/phone values, which will be hashed and encrypted locally on the browser before being transmitted to our servers, or send the hashed email/phones using SHA256.</p><p><br /></p><p>Please let me know if they would like to get in an implementation call.</p><p><br /></p><p>Best,</p><p>Katerina</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706284350,
+      "auto_close_hit": 0,
+      "id": 7328434672533373000,
+      "reply_role": null,
+      "staff_id": 1071736,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "liqian.lyane@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "李茜",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7013590796780733442",
+      "name": "李茜",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>hi Katerina, thanks for the feedback.</p><p><br /></p><p>/ based on your guidance, Above issues are solved!</p><p><br /></p><p>/ furthermore, client has a new question, the content ID of' place an order' is not received. can we help to check？ </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4d7966ccd22b4a4e8cdc90896b9ed0a5.png\" height=\"171.44\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d7966ccd22b4a4e8cdc90896b9ed0a5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832980&amp;x-signature=TPNm%2FcafrSJhiuin5gagQ%2Fj%2BN98%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/49f42067-d628-47d2-aea9-282e152cc07g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1706284900,
+      "auto_close_hit": 0,
+      "id": 7328437578230055000,
+      "reply_role": null,
+      "staff_id": 1071736,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "liqian.lyane@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "李茜",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7013590796780733442",
+      "name": "李茜",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>here is the screenshot of code in GTM, shared by client</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png\" height=\"186.301\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832980&amp;x-signature=9xzz7ctfInRAmyBrG1g6h838f50%3D\" width=\"375\"><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6f20ca7015134839b4e133731aaaa568.png\" height=\"65.142\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f20ca7015134839b4e133731aaaa568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832980&amp;x-signature=zbyh2S5qm3HJDbVnJLfpvXhMTPk%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5a162de843ec47238606292473353370.png\" height=\"56.338\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a162de843ec47238606292473353370.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832980&amp;x-signature=Kc8%2FvNZCiTG4hXBNxCqRPw05r%2Fk%3D\" width=\"375\" /></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/49f42067-d628-47d2-aea9-282e152cc07g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707212854,
+      "auto_close_hit": 0,
+      "id": 7332422898772165000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Qian,</p><p><br></p><p>Great news on implementing the parameters.</p><p><br></p><p>However, there are still outstanding items with their setup, initially flagged in September, as well as on this ticket:</p><ul><li>Implement Manual Advanced matching: send users&#39; email and/or phone numbers when available. Has the client commented on this recommendation? If they rejected it, could you please confirm why.</li><li>Add the Value and Currency parameters to their Complete Payment event too. This event is used for transaction events, and should be the last event in the funnel</li><li>&#39;View Content&#39; event: pass back relevant parameters (e.g. content_id, content_category, content_type)</li><li>Fire the &#39;Add to Cart&#39; event when the user clicks on &#39;Reserve Spot&#39;. Pass back relevant parameters (including content_id, content_category, content_type as well as value and currency)</li></ul><p><br></p><p>Best,</p><p>Katerina</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707229172,
+      "auto_close_hit": 0,
+      "id": 7332493273845498000,
+      "reply_role": null,
+      "staff_id": 1071736,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "liqian.lyane@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "李茜",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7013590796780733442",
+      "name": "李茜",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<ul><li>Mannual Advanced Matching:&nbsp; have communicated with client</li><li>value and currency paramters: can these parameters be set for &#39; add to &#34;? client use&#39; place an order&#39; to name the action of complete payment</li><li>&#39;view content&#39;: have informed client </li><li>&#39;add to cart&#39;: have informed client&nbsp;</li></ul><p><br></p><ul><li>Plane an order: client has implemented code for the content ID , but no data was received. can you help to check the code?</li></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/49f42067-d628-47d2-aea9-282e152cc07g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1707385211,
+      "auto_close_hit": 0,
+      "id": 7333163020627067000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><strong>[Status Update]</strong> Client call arranged on 8th Feb</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1823196,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "katerina.sakkoula@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "EventBrite - Dynamic Value is not captured ",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/49f42067-d628-47d2-aea9-282e152cc07g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1707385210,
+  "owner_name": "李茜",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7013590796780733442",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Qian Li",
+  "follow_employee_id": 9295306,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 3383769,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "EventBrite - Dynamic Value is not captured ",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch but client has more questions",
+      "valid": true,
+      "key": "Post-Pitch but client has more questions",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Eventbrite ",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Entertainment",
+      "valid": true,
+      "key": "Entertainment",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-GB",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7302035820075220994"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Qian Li",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C3DHGPITO1NMNN16MDBG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.eventbrite.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-01-18",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "event”place an order' was assigned a dynamic value.  but tiktok event manager doesn't show the value% (refer to the image attahed), is this an issue?",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "eventbrite.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f84eb87fdcc740ab88579c0f90d71d6b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=dfowcJUsnMPap2UWa5sx6nnjGPg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f84eb87fdcc740ab88579c0f90d71d6b.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f84eb87fdcc740ab88579c0f90d71d6b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=dfowcJUsnMPap2UWa5sx6nnjGPg%3D",
+          "size": 255655
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2e2c32de7144e3aa4e498601d6da96c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=9UtWBPTIxf1%2BBCZVTVpldTJiwoE%3D",
+          "file_name": "file_20240318_13_36_20_497928",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2e2c32de7144e3aa4e498601d6da96c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=9UtWBPTIxf1%2BBCZVTVpldTJiwoE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b2e2c32de7144e3aa4e498601d6da96c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d7966ccd22b4a4e8cdc90896b9ed0a5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=TPNm%2FcafrSJhiuin5gagQ%2Fj%2BN98%3D",
+          "file_name": "file_20240318_13_36_20_540564",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d7966ccd22b4a4e8cdc90896b9ed0a5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=TPNm%2FcafrSJhiuin5gagQ%2Fj%2BN98%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4d7966ccd22b4a4e8cdc90896b9ed0a5.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=9xzz7ctfInRAmyBrG1g6h838f50%3D",
+          "file_name": "file_20240318_13_36_20_575389",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=9xzz7ctfInRAmyBrG1g6h838f50%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a162de843ec47238606292473353370.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=Kc8%2FvNZCiTG4hXBNxCqRPw05r%2Fk%3D",
+          "file_name": "file_20240318_13_36_20_575451",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a162de843ec47238606292473353370.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=Kc8%2FvNZCiTG4hXBNxCqRPw05r%2Fk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5a162de843ec47238606292473353370.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f20ca7015134839b4e133731aaaa568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=zbyh2S5qm3HJDbVnJLfpvXhMTPk%3D",
+          "file_name": "file_20240318_13_36_20_575468",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f20ca7015134839b4e133731aaaa568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=zbyh2S5qm3HJDbVnJLfpvXhMTPk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6f20ca7015134839b4e133731aaaa568.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}
