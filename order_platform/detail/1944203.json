@@ -97,6 +97,64 @@
       ],
       "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_006p_29a8dd36-3a32-4206-bc60-68e46ea31ahu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710842478,
+      "auto_close_hit": 0,
+      "id": 7348011864065835000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "diana.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "최지훈",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7021096724250264578",
+      "name": "최지훈",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>혹시 수동은 어디에서 하면 될까요?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_006p_29a8dd36-3a32-4206-bc60-68e46ea31ahu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710843591,
+      "auto_close_hit": 0,
+      "id": 7348016500768342000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>지금 웹사이트에 픽셀 심으신 것과 같이 별도의 Advanced Matching용 코드를 추가로 삽입해주셔야 합니다.</p><p>광고주께서 구현 원하시면 제가 직접 광고주 개발자분과 메일로 소통 가능하니 편히 말씀해주세요!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -124,7 +182,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1710481974,
+  "update_time": 1710843590,
   "owner_name": "최지훈",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -299,7 +357,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 292705,
+  "pending_time": 366622,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [

@@ -120,7 +120,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Thanks for confirming that, Frankie!</p><p><br /></p><p>Our integration works flawlessly with templates provided by Shopify. It's not uncommon for custom or third-party themes to throw things off by not triggering the correct Shopify events, which is what eventually triggers TikTok events. For example, below is a screenshot of network calls from a Shopify test store, which uses a theme developed by Shopify that <a href=\"https://shopify.dev/docs/themes/tools/dawn\" target=\"_blank\">adheres to all their conventions</a>:</p><img alt=\"20240123-110432.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg\" height=\"181.902\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=i%2FF99yJcfxoY8nvrT3A7vcJMI%2FM%3D\" width=\"375\"><p>By contrast, Rhode's theme does not trigger any of the produce_batch objects that ultimately trigger the TikTok events, so they could possibly be using a plugin for AddToCart (or custom code), which is not following the above convention:</p><img alt=\"20240123-110717.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f4c693d0b9a8410ebe081d418807fa43.jpeg\" height=\"181.902\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c693d0b9a8410ebe081d418807fa43.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=yhVlhAXujfuJk3EEh%2FoJnnm3CiY%3D\" width=\"375\"><p><br /></p><p>I would have them find out the following:</p><ul><li>Are they using some sort of plugin, specifically, one that is used for adding items to cart? If it turns out they are using a plugin, then they should probably get in touch with the vendor about this to bring it to their attention.</li><li>Is there any custom work done on the add to cart button? If so, then they would probably want their developers to look at this and adjust the trigger/logic to adhere to  how it functions on standard themes. </li></ul><p><br /></p><p>Both of the above situations would require developers to do javascript work to get their button to work.</p></img></img>",
+          "content": "<p>Thanks for confirming that, Frankie!</p><p><br /></p><p>Our integration works flawlessly with templates provided by Shopify. It's not uncommon for custom or third-party themes to throw things off by not triggering the correct Shopify events, which is what eventually triggers TikTok events. For example, below is a screenshot of network calls from a Shopify test store, which uses a theme developed by Shopify that <a href=\"https://shopify.dev/docs/themes/tools/dawn\" target=\"_blank\">adheres to all their conventions</a>:</p><img alt=\"20240123-110432.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg\" height=\"181.902\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272987&amp;x-signature=paM59qZsK%2BjJonk6hC83IJ1CcTs%3D\" width=\"375\"><p>By contrast, Rhode's theme does not trigger any of the produce_batch objects that ultimately trigger the TikTok events, so they could possibly be using a plugin for AddToCart (or custom code), which is not following the above convention:</p><img alt=\"20240123-110717.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f4c693d0b9a8410ebe081d418807fa43.jpeg\" height=\"181.902\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c693d0b9a8410ebe081d418807fa43.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272987&amp;x-signature=QssQjIZfYNX%2BRdwOz3EnOH2iFfs%3D\" width=\"375\"><p><br /></p><p>I would have them find out the following:</p><ul><li>Are they using some sort of plugin, specifically, one that is used for adding items to cart? If it turns out they are using a plugin, then they should probably get in touch with the vendor about this to bring it to their attention.</li><li>Is there any custom work done on the add to cart button? If so, then they would probably want their developers to look at this and adjust the trigger/logic to adhere to  how it functions on standard themes. </li></ul><p><br /></p><p>Both of the above situations would require developers to do javascript work to get their button to work.</p></img></img>",
           "type": 6
         }
       ],
@@ -236,7 +236,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>We're receiving ATC events and the data within them is looking good! The only thing to call out here is that ATC events are not being deduplicated (currently at a 1% rate):</p><img alt=\"Screenshot 2024-02-12 at 11.15.34 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3aedd09324b64c2bb79d3eb95fd6acc3.png\" height=\"237.736\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3aedd09324b64c2bb79d3eb95fd6acc3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=t3wgdDx7fAGJCKODBwWcVr%2BTDgM%3D\" width=\"375\"><p>If they can share more on how they implemented ATC events, I can provide more prescriptive guidance, but generally they need to ensure event_id matches across both browser and server events for successful deduplication. </p><p>I'm currently seeing browser events firing on a much more frequent cadence compared to server-side events; ideally, these would fire on a 1:1 ratio. I attached the most recent 2,000 ATC events for their reference to help with QA. LMK if they have any questions here!</p></img>",
+          "content": "<p>We're receiving ATC events and the data within them is looking good! The only thing to call out here is that ATC events are not being deduplicated (currently at a 1% rate):</p><img alt=\"Screenshot 2024-02-12 at 11.15.34 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3aedd09324b64c2bb79d3eb95fd6acc3.png\" height=\"237.736\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3aedd09324b64c2bb79d3eb95fd6acc3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272987&amp;x-signature=TZJBqCYyKyoqQigPf%2FWssqJ%2FhcE%3D\" width=\"375\"><p>If they can share more on how they implemented ATC events, I can provide more prescriptive guidance, but generally they need to ensure event_id matches across both browser and server events for successful deduplication. </p><p>I'm currently seeing browser events firing on a much more frequent cadence compared to server-side events; ideally, these would fire on a 1:1 ratio. I attached the most recent 2,000 ATC events for their reference to help with QA. LMK if they have any questions here!</p></img>",
           "type": 6
         },
         {
@@ -244,9 +244,9 @@
             {
               "file_type": "csv",
               "file_name": "281474987327691-Useful Queries-Event Audit-Query 192.csv",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv?lk3s=cbe26b3a&x-expires=4832832614&x-signature=5LgQv9j0hi6xqKeW2zBhKodkIgg%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv?lk3s=cbe26b3a&x-expires=4833272987&x-signature=Hy1AHmXKJRfh%2BiwtsBpa2VQ7B7w%3D",
               "file_key": "tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv?lk3s=cbe26b3a&x-expires=4832832614&x-signature=5LgQv9j0hi6xqKeW2zBhKodkIgg%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv?lk3s=cbe26b3a&x-expires=4833272987&x-signature=Hy1AHmXKJRfh%2BiwtsBpa2VQ7B7w%3D",
               "biz_type": 2,
               "size": 3973526
             }
@@ -366,7 +366,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Frankie, I do see server-side events coming through for ATC events, and it does look like some of them are being deduplicated:</p><img alt=\"Screenshot 2024-02-28 at 7.33.58 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/24dcef65311d4a7fa08befaaa238322f.png\" height=\"301.807\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24dcef65311d4a7fa08befaaa238322f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=YQlGMl4yvOf%2BWKDT4d0y0PbK3Fw%3D\" width=\"375\"><p>And they are correct in that event_id is one way events can be deduplicated, and requires that the event_id value match across browser and server events. While the ttp cookie is a viable option, I would recommend that event_id since that isn't dependent on a user's cookie consent. </p><p><br /></p><p>Here are some important callouts using the ttp cookie approach:</p><ul><li><span style=\"color: #333333;\">Cookie deduplication will only drop events sent from Events API, specifically, if there is a browser pixel event of the same [</span><span style=\"color: #E45649;\">pixelCode</span>, <span style=\"color: #E45649;\">event</span>, <span style=\"color: #E45649;\">_ttp</span>] received 5 minutes or less prior to the receiving of the server event. Cookie deduplication will never drop any event sent from the browser pixel.</li><li><span style=\"color: #333333;\">Cookie deduplication will only drop Events API event when </span><span style=\"color: #E45649;\">event_id</span> is not set in the Events API payload. Therefore, if you want to leverage cookie based deduplication, do not send <span style=\"color: #E45649;\">event_id</span> in the Events API payload for an event.</li></ul></img>",
+          "content": "<p>Hey Frankie, I do see server-side events coming through for ATC events, and it does look like some of them are being deduplicated:</p><img alt=\"Screenshot 2024-02-28 at 7.33.58 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/24dcef65311d4a7fa08befaaa238322f.png\" height=\"301.807\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24dcef65311d4a7fa08befaaa238322f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272987&amp;x-signature=H%2Bw9lYv2HOO1OkjnhGTZy%2BXYTBk%3D\" width=\"375\"><p>And they are correct in that event_id is one way events can be deduplicated, and requires that the event_id value match across browser and server events. While the ttp cookie is a viable option, I would recommend that event_id since that isn't dependent on a user's cookie consent. </p><p><br /></p><p>Here are some important callouts using the ttp cookie approach:</p><ul><li><span style=\"color: #333333;\">Cookie deduplication will only drop events sent from Events API, specifically, if there is a browser pixel event of the same [</span><span style=\"color: #E45649;\">pixelCode</span>, <span style=\"color: #E45649;\">event</span>, <span style=\"color: #E45649;\">_ttp</span>] received 5 minutes or less prior to the receiving of the server event. Cookie deduplication will never drop any event sent from the browser pixel.</li><li><span style=\"color: #333333;\">Cookie deduplication will only drop Events API event when </span><span style=\"color: #E45649;\">event_id</span> is not set in the Events API payload. Therefore, if you want to leverage cookie based deduplication, do not send <span style=\"color: #E45649;\">event_id</span> in the Events API payload for an event.</li></ul></img>",
           "type": 6
         }
       ],
@@ -424,7 +424,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Joey!! From Rhode - <br><br><span style=\"color: #222222;\">My initial doubt was related to \"server side\" events since we're not doing any of them. Guessing that they're coming from the Shopify/TikTok app integration.<br>That being said, we're sending events using Javascript (client side).</br></span></br></br></p><img alt=\"unnamed.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png\" height=\"361.429\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=c%2BX97tncnN4%2BgHdHB7Vnzt0FVsI%3D\" width=\"375\"><p><span style=\"color: #222222;\">If we add the event_id param following the </span><span style=\"color: #1155CC;\"><a href=\"https://business-api.tiktok.com/portal/docs?id=1771100965992450\" target=\"_blank noopener noreferrer\">documentation instructions</a></span><span style=\"color: #222222;\">, should it work? </span><br><br /></br></p><img alt=\"unnamed-1.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/957b40a7264f4648a92f2ea30b3715a3.png\" height=\"343.575\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/957b40a7264f4648a92f2ea30b3715a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=9nnrv3PDKHZZx3yc3QdEhasOBbk%3D\" width=\"375\"><p><span style=\"color: #222222;\">Just curious to know if we might encounter any bigger issue since the <strong><em>event_id</em></strong> will be randomly generated on page load.</span><br><br><br /></br></br></p></img></img>",
+          "content": "<p>Hi Joey!! From Rhode - <br><br><span style=\"color: #222222;\">My initial doubt was related to \"server side\" events since we're not doing any of them. Guessing that they're coming from the Shopify/TikTok app integration.<br>That being said, we're sending events using Javascript (client side).</br></span></br></br></p><img alt=\"unnamed.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png\" height=\"361.429\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272987&amp;x-signature=29KRMABqmWMZPrPNErRtoQB9zj8%3D\" width=\"375\"><p><span style=\"color: #222222;\">If we add the event_id param following the </span><span style=\"color: #1155CC;\"><a href=\"https://business-api.tiktok.com/portal/docs?id=1771100965992450\" target=\"_blank noopener noreferrer\">documentation instructions</a></span><span style=\"color: #222222;\">, should it work? </span><br><br /></br></p><img alt=\"unnamed-1.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/957b40a7264f4648a92f2ea30b3715a3.png\" height=\"343.575\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/957b40a7264f4648a92f2ea30b3715a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272987&amp;x-signature=MYPLPEgI0mcSq4g%2Bc5R1%2BCGQFjU%3D\" width=\"375\"><p><span style=\"color: #222222;\">Just curious to know if we might encounter any bigger issue since the <strong><em>event_id</em></strong> will be randomly generated on page load.</span><br><br><br /></br></br></p></img></img>",
           "type": 6
         }
       ],
@@ -511,7 +511,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Frankie, I'm seeing event_id come through on their preview theme successfully:</p><img alt=\"Screenshot 2024-03-08 at 1.17.48 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d187ff40fe5b447bbdf95c3bccd1bc19.png\" height=\"168.031\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d187ff40fe5b447bbdf95c3bccd1bc19.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=bQFpKzJ210yvBE83rr3FrEL0pFw%3D\" width=\"375\"><p>Are they also sending server-side events for this preview theme as well? I'm unable to QA what the event_id is for those server-side events since the pixel helper only works for browser, but if they implemented the event_id 1:1 with the browser ATC events, then deduplication should work successfully. </p></img>",
+          "content": "<p>Hey Frankie, I'm seeing event_id come through on their preview theme successfully:</p><img alt=\"Screenshot 2024-03-08 at 1.17.48 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d187ff40fe5b447bbdf95c3bccd1bc19.png\" height=\"168.031\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d187ff40fe5b447bbdf95c3bccd1bc19.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272987&amp;x-signature=PlZygLcLv1lechdfXDZxtMnBU8I%3D\" width=\"375\"><p>Are they also sending server-side events for this preview theme as well? I'm unable to QA what the event_id is for those server-side events since the pixel helper only works for browser, but if they implemented the event_id 1:1 with the browser ATC events, then deduplication should work successfully. </p></img>",
           "type": 6
         }
       ],
@@ -569,7 +569,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Something strikes me as a bit odd since there are server-side events coming through the Shopify integration, but are coming through very infrequently. Between 3/4-3/11, there are roughly 800 deduplicated browser- and server-side events that were created from the Shopify integration. This is less than 1% of the total ATC events, and I assume the remaining 99% of ATC events were triggered from the code that their dev team set up:</p><img alt=\"Screenshot 2024-03-11 at 4.40.19 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/40524fae6d7745b88b4563d775d01a1c.png\" height=\"91.392\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40524fae6d7745b88b4563d775d01a1c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=OzkRA1lSbNNCHV6zffju%2BU7Xqjg%3D\" width=\"375\"><p>When the Shopify integration works fine but is broken in one instance (in this case, it's ATC events), this usually is a sign of erratic behavior from older Pixels created through the Shopify integration, and/or older Pixels that were created via Shopify, but shared with another advertiser account (which is the case for this advertiser):</p><img alt=\"Screenshot 2024-03-11 at 4.47.25 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/86cc9ff69d4c4ecc9fb3e7f310650713.png\" height=\"31.987\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86cc9ff69d4c4ecc9fb3e7f310650713.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832614&amp;x-signature=ofYmTiegMm5getEOck%2BCqLr2SA4%3D\" width=\"375\"><p>I'm going to chat with my team and confirm the best next steps. In this case, it's usually disconnecting and setting up a new Pixel through the Rhode advertiser account instead of continuing use of the shared Pixel, but I will follow up with confirmation on how the client should proceed.</p></img></img>",
+          "content": "<p>Something strikes me as a bit odd since there are server-side events coming through the Shopify integration, but are coming through very infrequently. Between 3/4-3/11, there are roughly 800 deduplicated browser- and server-side events that were created from the Shopify integration. This is less than 1% of the total ATC events, and I assume the remaining 99% of ATC events were triggered from the code that their dev team set up:</p><img alt=\"Screenshot 2024-03-11 at 4.40.19 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/40524fae6d7745b88b4563d775d01a1c.png\" height=\"91.392\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40524fae6d7745b88b4563d775d01a1c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272988&amp;x-signature=WqJqkYIx%2BO%2F9trTB%2FVRkwSLlIxs%3D\" width=\"375\"><p>When the Shopify integration works fine but is broken in one instance (in this case, it's ATC events), this usually is a sign of erratic behavior from older Pixels created through the Shopify integration, and/or older Pixels that were created via Shopify, but shared with another advertiser account (which is the case for this advertiser):</p><img alt=\"Screenshot 2024-03-11 at 4.47.25 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/86cc9ff69d4c4ecc9fb3e7f310650713.png\" height=\"31.987\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86cc9ff69d4c4ecc9fb3e7f310650713.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272988&amp;x-signature=r%2F0sulRF%2BZ%2F8QEJ3VU9IicJJH9s%3D\" width=\"375\"><p>I'm going to chat with my team and confirm the best next steps. In this case, it's usually disconnecting and setting up a new Pixel through the Rhode advertiser account instead of continuing use of the shared Pixel, but I will follow up with confirmation on how the client should proceed.</p></img></img>",
           "type": 6
         }
       ],
@@ -835,7 +835,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 336017,
+  "pending_time": 776390,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -1011,31 +1011,31 @@
         {
           "file_type": "png",
           "file_name": "unnamed.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f5bb21f2dc58419f8c2c06e44123706e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=KV04UQ0vyhXENJ%2F6BQ49MO2%2BX%2FU%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f5bb21f2dc58419f8c2c06e44123706e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272986&x-signature=RHKvs%2Fd7hNaiT3pb3XXZne933ms%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/f5bb21f2dc58419f8c2c06e44123706e.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f5bb21f2dc58419f8c2c06e44123706e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=KV04UQ0vyhXENJ%2F6BQ49MO2%2BX%2FU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f5bb21f2dc58419f8c2c06e44123706e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272986&x-signature=RHKvs%2Fd7hNaiT3pb3XXZne933ms%3D",
           "size": 134842
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=i%2FF99yJcfxoY8nvrT3A7vcJMI%2FM%3D",
-          "file_name": "file_20240318_13_30_14_339114",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=i%2FF99yJcfxoY8nvrT3A7vcJMI%2FM%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c693d0b9a8410ebe081d418807fa43.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=yhVlhAXujfuJk3EEh%2FoJnnm3CiY%3D",
-          "file_name": "file_20240318_13_30_14_339188",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c693d0b9a8410ebe081d418807fa43.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=yhVlhAXujfuJk3EEh%2FoJnnm3CiY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c693d0b9a8410ebe081d418807fa43.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272987&x-signature=QssQjIZfYNX%2BRdwOz3EnOH2iFfs%3D",
+          "file_name": "file_20240323_15_49_47_508570",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c693d0b9a8410ebe081d418807fa43.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272987&x-signature=QssQjIZfYNX%2BRdwOz3EnOH2iFfs%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/f4c693d0b9a8410ebe081d418807fa43.jpeg",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3aedd09324b64c2bb79d3eb95fd6acc3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=t3wgdDx7fAGJCKODBwWcVr%2BTDgM%3D",
-          "file_name": "file_20240318_13_30_14_451431",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3aedd09324b64c2bb79d3eb95fd6acc3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=t3wgdDx7fAGJCKODBwWcVr%2BTDgM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272987&x-signature=paM59qZsK%2BjJonk6hC83IJ1CcTs%3D",
+          "file_name": "file_20240323_15_49_47_508639",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272987&x-signature=paM59qZsK%2BjJonk6hC83IJ1CcTs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ce42eff1e6e046338ff1d1a7d4eac32f.jpeg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3aedd09324b64c2bb79d3eb95fd6acc3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272987&x-signature=TZJBqCYyKyoqQigPf%2FWssqJ%2FhcE%3D",
+          "file_name": "file_20240323_15_49_47_628045",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3aedd09324b64c2bb79d3eb95fd6acc3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272987&x-signature=TZJBqCYyKyoqQigPf%2FWssqJ%2FhcE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/3aedd09324b64c2bb79d3eb95fd6acc3.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -1043,56 +1043,56 @@
         {
           "file_type": "csv",
           "file_name": "281474987327691-Useful Queries-Event Audit-Query 192.csv",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv?lk3s=cbe26b3a&x-expires=4832832614&x-signature=5LgQv9j0hi6xqKeW2zBhKodkIgg%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv?lk3s=cbe26b3a&x-expires=4833272987&x-signature=Hy1AHmXKJRfh%2BiwtsBpa2VQ7B7w%3D",
           "file_key": "tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv?lk3s=cbe26b3a&x-expires=4832832614&x-signature=5LgQv9j0hi6xqKeW2zBhKodkIgg%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oU4fpRVsbAAfhIAXMKLeGJAW6urAvYQnWAGsTf.csv?lk3s=cbe26b3a&x-expires=4833272987&x-signature=Hy1AHmXKJRfh%2BiwtsBpa2VQ7B7w%3D",
           "biz_type": 2,
           "size": 3973526
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24dcef65311d4a7fa08befaaa238322f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=YQlGMl4yvOf%2BWKDT4d0y0PbK3Fw%3D",
-          "file_name": "file_20240318_13_30_14_619944",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24dcef65311d4a7fa08befaaa238322f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=YQlGMl4yvOf%2BWKDT4d0y0PbK3Fw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24dcef65311d4a7fa08befaaa238322f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272987&x-signature=H%2Bw9lYv2HOO1OkjnhGTZy%2BXYTBk%3D",
+          "file_name": "file_20240323_15_49_47_785561",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24dcef65311d4a7fa08befaaa238322f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272987&x-signature=H%2Bw9lYv2HOO1OkjnhGTZy%2BXYTBk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/24dcef65311d4a7fa08befaaa238322f.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=c%2BX97tncnN4%2BgHdHB7Vnzt0FVsI%3D",
-          "file_name": "file_20240318_13_30_14_718298",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=c%2BX97tncnN4%2BgHdHB7Vnzt0FVsI%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/957b40a7264f4648a92f2ea30b3715a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=9nnrv3PDKHZZx3yc3QdEhasOBbk%3D",
-          "file_name": "file_20240318_13_30_14_718372",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/957b40a7264f4648a92f2ea30b3715a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=9nnrv3PDKHZZx3yc3QdEhasOBbk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/957b40a7264f4648a92f2ea30b3715a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272987&x-signature=MYPLPEgI0mcSq4g%2Bc5R1%2BCGQFjU%3D",
+          "file_name": "file_20240323_15_49_47_897712",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/957b40a7264f4648a92f2ea30b3715a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272987&x-signature=MYPLPEgI0mcSq4g%2Bc5R1%2BCGQFjU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/957b40a7264f4648a92f2ea30b3715a3.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d187ff40fe5b447bbdf95c3bccd1bc19.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=bQFpKzJ210yvBE83rr3FrEL0pFw%3D",
-          "file_name": "file_20240318_13_30_14_818143",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d187ff40fe5b447bbdf95c3bccd1bc19.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=bQFpKzJ210yvBE83rr3FrEL0pFw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272987&x-signature=29KRMABqmWMZPrPNErRtoQB9zj8%3D",
+          "file_name": "file_20240323_15_49_47_897812",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272987&x-signature=29KRMABqmWMZPrPNErRtoQB9zj8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/26b2abfca03d470ab775985b7adfad91.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d187ff40fe5b447bbdf95c3bccd1bc19.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272987&x-signature=PlZygLcLv1lechdfXDZxtMnBU8I%3D",
+          "file_name": "file_20240323_15_49_48_010904",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d187ff40fe5b447bbdf95c3bccd1bc19.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272987&x-signature=PlZygLcLv1lechdfXDZxtMnBU8I%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d187ff40fe5b447bbdf95c3bccd1bc19.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86cc9ff69d4c4ecc9fb3e7f310650713.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=ofYmTiegMm5getEOck%2BCqLr2SA4%3D",
-          "file_name": "file_20240318_13_30_14_889354",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86cc9ff69d4c4ecc9fb3e7f310650713.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=ofYmTiegMm5getEOck%2BCqLr2SA4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86cc9ff69d4c4ecc9fb3e7f310650713.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272988&x-signature=r%2F0sulRF%2BZ%2F8QEJ3VU9IicJJH9s%3D",
+          "file_name": "file_20240323_15_49_48_081944",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86cc9ff69d4c4ecc9fb3e7f310650713.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272988&x-signature=r%2F0sulRF%2BZ%2F8QEJ3VU9IicJJH9s%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/86cc9ff69d4c4ecc9fb3e7f310650713.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40524fae6d7745b88b4563d775d01a1c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=OzkRA1lSbNNCHV6zffju%2BU7Xqjg%3D",
-          "file_name": "file_20240318_13_30_14_889418",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40524fae6d7745b88b4563d775d01a1c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832614&x-signature=OzkRA1lSbNNCHV6zffju%2BU7Xqjg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40524fae6d7745b88b4563d775d01a1c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272988&x-signature=WqJqkYIx%2BO%2F9trTB%2FVRkwSLlIxs%3D",
+          "file_name": "file_20240323_15_49_48_082027",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40524fae6d7745b88b4563d775d01a1c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272988&x-signature=WqJqkYIx%2BO%2F9trTB%2FVRkwSLlIxs%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/40524fae6d7745b88b4563d775d01a1c.png",
           "file_type": "jpeg",
           "biz_type": 2

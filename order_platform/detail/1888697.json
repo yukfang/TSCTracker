@@ -70,18 +70,18 @@
             {
               "file_type": "png",
               "file_name": "image (18).png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c682ebf1d1794e5eb356ef22ceb14f78.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838144&x-signature=8jC%2FQcMlm6zuypy9mLQ1xxbLWAI%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c682ebf1d1794e5eb356ef22ceb14f78.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273654&x-signature=%2BkacPbo5HW8A3yBPUo70d8TWlVc%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/c682ebf1d1794e5eb356ef22ceb14f78.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c682ebf1d1794e5eb356ef22ceb14f78.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838144&x-signature=8jC%2FQcMlm6zuypy9mLQ1xxbLWAI%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c682ebf1d1794e5eb356ef22ceb14f78.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273654&x-signature=%2BkacPbo5HW8A3yBPUo70d8TWlVc%3D",
               "biz_type": 2,
               "size": 27359
             },
             {
               "file_type": "png",
               "file_name": "image (19).png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cea666cab49a4997ae7a7e00370bf702.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838144&x-signature=JLYQgZd2O%2BprgKVNKw5iTMqA%2F%2Bs%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cea666cab49a4997ae7a7e00370bf702.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273654&x-signature=elzUvpV39CDQdooddeo2W70uW5U%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/cea666cab49a4997ae7a7e00370bf702.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cea666cab49a4997ae7a7e00370bf702.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838144&x-signature=JLYQgZd2O%2BprgKVNKw5iTMqA%2F%2Bs%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cea666cab49a4997ae7a7e00370bf702.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273654&x-signature=elzUvpV39CDQdooddeo2W70uW5U%3D",
               "biz_type": 2,
               "size": 20974
             }
@@ -114,7 +114,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Jason,</p><p><br /></p><p>So from testing their landing page, it seems that the Complete REgistration event is failing to fire:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/20cfb8254f3c463a8d7a3661e1d596f6.png\" height=\"133.558\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/20cfb8254f3c463a8d7a3661e1d596f6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838144&amp;x-signature=wgsr0Rb7vx6GfF%2BBLcYhr2Av%2FW4%3D\" width=\"375\"><p><br /></p><p>It looks like they are using our official Tiktok Pixel template to configure those events. They can try to enable a tag sequencing setting/feature to ensure that the TikTok base code loads before the events try to fire:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6cf79962a0a042edad01907d7fb73e0b.png\" height=\"419.956\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6cf79962a0a042edad01907d7fb73e0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838144&amp;x-signature=3q7hrLJywN%2BImMpimYzXevqQUA4%3D\" width=\"375\"><p><br /></p><p>Go into the event tag, advanced settings, tag sequencing, and then select the TikTok base code to fire before the event.</p><p><br /></p><p>After they make that change, we can see if that resolves the issue and we see the Complete Registration events firing. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img></img>",
+          "content": "<p>Hi Jason,</p><p><br /></p><p>So from testing their landing page, it seems that the Complete REgistration event is failing to fire:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/20cfb8254f3c463a8d7a3661e1d596f6.png\" height=\"133.558\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/20cfb8254f3c463a8d7a3661e1d596f6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273654&amp;x-signature=T%2BuhxXEwUNCLsCj5SMjaemZvEpo%3D\" width=\"375\"><p><br /></p><p>It looks like they are using our official Tiktok Pixel template to configure those events. They can try to enable a tag sequencing setting/feature to ensure that the TikTok base code loads before the events try to fire:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6cf79962a0a042edad01907d7fb73e0b.png\" height=\"419.956\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6cf79962a0a042edad01907d7fb73e0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273654&amp;x-signature=cSD8mANAx0MY%2BxOxX%2BvXjbIzKbQ%3D\" width=\"375\"><p><br /></p><p>Go into the event tag, advanced settings, tag sequencing, and then select the TikTok base code to fire before the event.</p><p><br /></p><p>After they make that change, we can see if that resolves the issue and we see the Complete Registration events firing. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img></img>",
           "type": 6
         }
       ],
@@ -172,7 +172,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Jason,</p><p><br /></p><p>I can't see the full contents of the email through Athena but from checking the page again it looks like the fix they made has the Complete Registration event firing. </p><p><br /></p><p>The Base code should be the tags in red. The Complete registration events do fire now:</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/35c2572fb75d46078539c6ecad8eeea1.png\" height=\"134.542\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35c2572fb75d46078539c6ecad8eeea1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838144&amp;x-signature=9OruLp9hXfZo7hEoyqs%2FIGqIQcU%3D\" width=\"375\"><p>Regards,</p><p>Thomas</p></img>",
+          "content": "<p>Hi Jason,</p><p><br /></p><p>I can't see the full contents of the email through Athena but from checking the page again it looks like the fix they made has the Complete Registration event firing. </p><p><br /></p><p>The Base code should be the tags in red. The Complete registration events do fire now:</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/35c2572fb75d46078539c6ecad8eeea1.png\" height=\"134.542\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35c2572fb75d46078539c6ecad8eeea1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273655&amp;x-signature=6Af407gTJ9EqburSxKglBXebwDs%3D\" width=\"375\"><p>Regards,</p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -380,7 +380,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1202764,
+  "pending_time": 1638275,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -556,49 +556,49 @@
         {
           "file_type": "jpeg",
           "file_name": "UNB pixel  (1).jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/30b1c1ff86fb46ef9e91dc24affe9781.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838143&x-signature=iySTMUTIWM2KbKO9iMFNGpnhBQc%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/30b1c1ff86fb46ef9e91dc24affe9781.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273654&x-signature=64nxHz4ECDCuOYYs0oNvW%2B0l5ek%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/30b1c1ff86fb46ef9e91dc24affe9781.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/30b1c1ff86fb46ef9e91dc24affe9781.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838143&x-signature=iySTMUTIWM2KbKO9iMFNGpnhBQc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/30b1c1ff86fb46ef9e91dc24affe9781.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273654&x-signature=64nxHz4ECDCuOYYs0oNvW%2B0l5ek%3D",
           "size": 128359
         },
         {
           "file_type": "png",
           "file_name": "image (18).png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c682ebf1d1794e5eb356ef22ceb14f78.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838144&x-signature=8jC%2FQcMlm6zuypy9mLQ1xxbLWAI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c682ebf1d1794e5eb356ef22ceb14f78.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273654&x-signature=%2BkacPbo5HW8A3yBPUo70d8TWlVc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c682ebf1d1794e5eb356ef22ceb14f78.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c682ebf1d1794e5eb356ef22ceb14f78.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838144&x-signature=8jC%2FQcMlm6zuypy9mLQ1xxbLWAI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c682ebf1d1794e5eb356ef22ceb14f78.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273654&x-signature=%2BkacPbo5HW8A3yBPUo70d8TWlVc%3D",
           "biz_type": 2,
           "size": 27359
         },
         {
           "file_type": "png",
           "file_name": "image (19).png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cea666cab49a4997ae7a7e00370bf702.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838144&x-signature=JLYQgZd2O%2BprgKVNKw5iTMqA%2F%2Bs%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cea666cab49a4997ae7a7e00370bf702.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273654&x-signature=elzUvpV39CDQdooddeo2W70uW5U%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/cea666cab49a4997ae7a7e00370bf702.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cea666cab49a4997ae7a7e00370bf702.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838144&x-signature=JLYQgZd2O%2BprgKVNKw5iTMqA%2F%2Bs%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cea666cab49a4997ae7a7e00370bf702.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273654&x-signature=elzUvpV39CDQdooddeo2W70uW5U%3D",
           "biz_type": 2,
           "size": 20974
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6cf79962a0a042edad01907d7fb73e0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838144&x-signature=3q7hrLJywN%2BImMpimYzXevqQUA4%3D",
-          "file_name": "file_20240318_15_02_24_168497",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6cf79962a0a042edad01907d7fb73e0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838144&x-signature=3q7hrLJywN%2BImMpimYzXevqQUA4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6cf79962a0a042edad01907d7fb73e0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273654&x-signature=cSD8mANAx0MY%2BxOxX%2BvXjbIzKbQ%3D",
+          "file_name": "file_20240323_16_00_54_987710",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6cf79962a0a042edad01907d7fb73e0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273654&x-signature=cSD8mANAx0MY%2BxOxX%2BvXjbIzKbQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/6cf79962a0a042edad01907d7fb73e0b.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/20cfb8254f3c463a8d7a3661e1d596f6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838144&x-signature=wgsr0Rb7vx6GfF%2BBLcYhr2Av%2FW4%3D",
-          "file_name": "file_20240318_15_02_24_168570",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/20cfb8254f3c463a8d7a3661e1d596f6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838144&x-signature=wgsr0Rb7vx6GfF%2BBLcYhr2Av%2FW4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/20cfb8254f3c463a8d7a3661e1d596f6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273654&x-signature=T%2BuhxXEwUNCLsCj5SMjaemZvEpo%3D",
+          "file_name": "file_20240323_16_00_54_987875",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/20cfb8254f3c463a8d7a3661e1d596f6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273654&x-signature=T%2BuhxXEwUNCLsCj5SMjaemZvEpo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/20cfb8254f3c463a8d7a3661e1d596f6.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35c2572fb75d46078539c6ecad8eeea1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838144&x-signature=9OruLp9hXfZo7hEoyqs%2FIGqIQcU%3D",
-          "file_name": "file_20240318_15_02_24_255623",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35c2572fb75d46078539c6ecad8eeea1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838144&x-signature=9OruLp9hXfZo7hEoyqs%2FIGqIQcU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35c2572fb75d46078539c6ecad8eeea1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273655&x-signature=6Af407gTJ9EqburSxKglBXebwDs%3D",
+          "file_name": "file_20240323_16_00_55_090798",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35c2572fb75d46078539c6ecad8eeea1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273655&x-signature=6Af407gTJ9EqburSxKglBXebwDs%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/35c2572fb75d46078539c6ecad8eeea1.png",
           "file_type": "jpeg",
           "biz_type": 2

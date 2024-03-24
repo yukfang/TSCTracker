@@ -70,9 +70,9 @@
             {
               "file_type": "mov",
               "file_name": "Screen Recording 2024-03-14 at 10.12.51.mov",
-              "file_url": "https://v16-tiktokcdn-com.akamaized.net/a5da1492411a83e069375f82ceaa4994/661fe53b/video/tos/alisg/tos-alisg-v-90231e-sg/oUgazEAvZQQtniElXeifBBgXaONPzMEh1GB3UV/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=7190&bt=3595&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&mime_type=video_mp4&qs=13&rc=M3R2cnE5cmRtcTQzOGc0NEBpM3R2cnE5cmRtcTQzOGc0NEAzLTFkMmRzZ21gLS1kMS1zYSMzLTFkMmRzZ21gLS1kMS1zcw%3D%3D&vvpl=1&l=2024031815051701021519521463888&btag=e00048000",
+              "file_url": "https://v16-tiktokcdn-com.akamaized.net/b500b9260f843e4d2c9b390e2566715a/66268a78/video/tos/alisg/tos-alisg-v-90231e-sg/oUgazEAvZQQtniElXeifBBgXaONPzMEh1GB3UV/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=7190&bt=3595&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&mime_type=video_mp4&qs=13&rc=M3R2cnE5cmRtcTQzOGc0NEBpM3R2cnE5cmRtcTQzOGc0NEAzLTFkMmRzZ21gLS1kMS1zYSMzLTFkMmRzZ21gLS1kMS1zcw%3D%3D&vvpl=1&l=2024032316035401021520121959154&btag=e00048000",
               "file_key": "v1014dg50001cnpjjavog65ngo4s0q60",
-              "url": "https://v16-tiktokcdn-com.akamaized.net/a5da1492411a83e069375f82ceaa4994/661fe53b/video/tos/alisg/tos-alisg-v-90231e-sg/oUgazEAvZQQtniElXeifBBgXaONPzMEh1GB3UV/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=7190&bt=3595&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&mime_type=video_mp4&qs=13&rc=M3R2cnE5cmRtcTQzOGc0NEBpM3R2cnE5cmRtcTQzOGc0NEAzLTFkMmRzZ21gLS1kMS1zYSMzLTFkMmRzZ21gLS1kMS1zcw%3D%3D&vvpl=1&l=2024031815051701021519521463888&btag=e00048000",
+              "url": "https://v16-tiktokcdn-com.akamaized.net/b500b9260f843e4d2c9b390e2566715a/66268a78/video/tos/alisg/tos-alisg-v-90231e-sg/oUgazEAvZQQtniElXeifBBgXaONPzMEh1GB3UV/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=7190&bt=3595&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&mime_type=video_mp4&qs=13&rc=M3R2cnE5cmRtcTQzOGc0NEBpM3R2cnE5cmRtcTQzOGc0NEAzLTFkMmRzZ21gLS1kMS1zYSMzLTFkMmRzZ21gLS1kMS1zcw%3D%3D&vvpl=1&l=2024032316035401021520121959154&btag=e00048000",
               "biz_type": 2,
               "size": 6542708
             }
@@ -111,6 +111,64 @@
       ],
       "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_89b456bd-831d-4c73-9de2-3e5cbaf2fdhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710872026,
+      "auto_close_hit": 0,
+      "id": 7348136785345544000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "carmen.donise@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Carmen DOnise",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6968411078891963393",
+      "name": "Carmen DOnise",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Miguel!</p><p><br></p><p>Follow up from client</p><p><br></p><p><span style=\"color: #500050;\"><strong><em>make sure that the new events are mapped to lower conversion values than the revenue buckets, since they happen before in the user journey. Probably you need to edit the setup to make sure the in-app-events are added 1st and then the revenue buckets.</em></strong></span></p><p><span style=\"color: #222222;\"><em>I&#39;m not sure I fully understand what you mean by that, because these events happen after the purchase event fires. Do you mean that the order in which we add these events to SKAN conversion studio&nbsp;matters?&nbsp;</em></span></p><p><br></p><p><span style=\"color: #222222;\">Can you clarify here or do you prefer to jump into a call?</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_ed29312c-a477-4d3d-b8a7-e6bd35acd19g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711031684,
+      "auto_close_hit": 0,
+      "id": 7348823994650395000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Miguel Fernández",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7178708618031023106",
+      "name": "Miguel Fernández",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Carmen,</p><p><br></p><p>The recommendation #1 was add upper funnel events, actions that happen before the purchase, to add more information in the funnel between install and purchase.<br><br>What matters is the CV associated to an event. Apple will report always the higher CV that the user reached in the specific window.<br><br>I&#39;m not sure that it makes sense to track events happening after the purchase (the event reporting the eLTV for the user). If they assign a higher CV apple will report it and we will loos the revenue reporting.<br><br>If you prefer to discuss it in a call, please do no hesitate to schedule it.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_89b456bd-831d-4c73-9de2-3e5cbaf2fdhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -138,7 +196,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1710498443,
+  "update_time": 1711031684,
   "owner_name": "Carmen DOnise",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -174,7 +232,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 275874,
+  "pending_time": 178150,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -337,17 +395,17 @@
         {
           "file_type": "png",
           "file_name": "Cleo mapping 1.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b09880c82cae40c6a29c8d9ac4acce8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838317&x-signature=9HEa%2BmAuU%2B1Og3gvhNEN%2FC%2FsXHI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b09880c82cae40c6a29c8d9ac4acce8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273833&x-signature=3wMloJJVXfh7dl%2FWoQedDQ%2BEz7U%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b09880c82cae40c6a29c8d9ac4acce8c.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b09880c82cae40c6a29c8d9ac4acce8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838317&x-signature=9HEa%2BmAuU%2B1Og3gvhNEN%2FC%2FsXHI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b09880c82cae40c6a29c8d9ac4acce8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273833&x-signature=3wMloJJVXfh7dl%2FWoQedDQ%2BEz7U%3D",
           "size": 1155725
         },
         {
           "file_type": "mov",
           "file_name": "Screen Recording 2024-03-14 at 10.12.51.mov",
-          "file_url": "https://v16-tiktokcdn-com.akamaized.net/a5da1492411a83e069375f82ceaa4994/661fe53b/video/tos/alisg/tos-alisg-v-90231e-sg/oUgazEAvZQQtniElXeifBBgXaONPzMEh1GB3UV/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=7190&bt=3595&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&mime_type=video_mp4&qs=13&rc=M3R2cnE5cmRtcTQzOGc0NEBpM3R2cnE5cmRtcTQzOGc0NEAzLTFkMmRzZ21gLS1kMS1zYSMzLTFkMmRzZ21gLS1kMS1zcw%3D%3D&vvpl=1&l=2024031815051701021519521463888&btag=e00048000",
+          "file_url": "https://v16-tiktokcdn-com.akamaized.net/b500b9260f843e4d2c9b390e2566715a/66268a78/video/tos/alisg/tos-alisg-v-90231e-sg/oUgazEAvZQQtniElXeifBBgXaONPzMEh1GB3UV/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=7190&bt=3595&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&mime_type=video_mp4&qs=13&rc=M3R2cnE5cmRtcTQzOGc0NEBpM3R2cnE5cmRtcTQzOGc0NEAzLTFkMmRzZ21gLS1kMS1zYSMzLTFkMmRzZ21gLS1kMS1zcw%3D%3D&vvpl=1&l=2024032316035401021520121959154&btag=e00048000",
           "file_key": "v1014dg50001cnpjjavog65ngo4s0q60",
-          "url": "https://v16-tiktokcdn-com.akamaized.net/a5da1492411a83e069375f82ceaa4994/661fe53b/video/tos/alisg/tos-alisg-v-90231e-sg/oUgazEAvZQQtniElXeifBBgXaONPzMEh1GB3UV/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=7190&bt=3595&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&mime_type=video_mp4&qs=13&rc=M3R2cnE5cmRtcTQzOGc0NEBpM3R2cnE5cmRtcTQzOGc0NEAzLTFkMmRzZ21gLS1kMS1zYSMzLTFkMmRzZ21gLS1kMS1zcw%3D%3D&vvpl=1&l=2024031815051701021519521463888&btag=e00048000",
+          "url": "https://v16-tiktokcdn-com.akamaized.net/b500b9260f843e4d2c9b390e2566715a/66268a78/video/tos/alisg/tos-alisg-v-90231e-sg/oUgazEAvZQQtniElXeifBBgXaONPzMEh1GB3UV/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=7190&bt=3595&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&mime_type=video_mp4&qs=13&rc=M3R2cnE5cmRtcTQzOGc0NEBpM3R2cnE5cmRtcTQzOGc0NEAzLTFkMmRzZ21gLS1kMS1zYSMzLTFkMmRzZ21gLS1kMS1zcw%3D%3D&vvpl=1&l=2024032316035401021520121959154&btag=e00048000",
           "biz_type": 2,
           "size": 6542708
         }
@@ -363,9 +421,9 @@
         {
           "file_type": "png",
           "file_name": "Cleo mapping 2.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb06caf0d7f6439598cdfe5a7b7954de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838317&x-signature=rhrRh06SLDMChcAxmn2W0yaY5u0%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb06caf0d7f6439598cdfe5a7b7954de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273833&x-signature=qZ1QFehoE0YNvUtmIHxaEJJ%2FXIA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/eb06caf0d7f6439598cdfe5a7b7954de.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb06caf0d7f6439598cdfe5a7b7954de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838317&x-signature=rhrRh06SLDMChcAxmn2W0yaY5u0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb06caf0d7f6439598cdfe5a7b7954de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273833&x-signature=qZ1QFehoE0YNvUtmIHxaEJJ%2FXIA%3D",
           "size": 249391
         }
       ],

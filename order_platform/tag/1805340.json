@@ -1,0 +1,35 @@
+[
+  {
+    "id": "38200000082",
+    "name": "Open Status",
+    "sub_tags": [
+      {
+        "id": "38300000166",
+        "name": "MPO Scoping Phase"
+      }
+    ],
+    "color": "#f5a623"
+  },
+  {
+    "id": "38200000082",
+    "name": "Open Status",
+    "sub_tags": [
+      {
+        "id": "38300000168",
+        "name": "Recommendation Pending with Client"
+      }
+    ],
+    "color": "#f5a623"
+  },
+  {
+    "id": "38200000082",
+    "name": "Open Status",
+    "sub_tags": [
+      {
+        "id": "38300000167",
+        "name": "Recommendation Pending with GBS"
+      }
+    ],
+    "color": "#f5a623"
+  }
+]

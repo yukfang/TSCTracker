@@ -1,0 +1,24 @@
+[
+  {
+    "id": "38200000084",
+    "name": "Closed  - No Adoption Improvement",
+    "sub_tags": [
+      {
+        "id": "38300000177",
+        "name": "Generic Question Answered"
+      }
+    ],
+    "color": "#f5a623"
+  },
+  {
+    "id": "38200000084",
+    "name": "Closed  - No Adoption Improvement",
+    "sub_tags": [
+      {
+        "id": "38300000178",
+        "name": "Fixed Technical Issues"
+      }
+    ],
+    "color": "#f5a623"
+  }
+]

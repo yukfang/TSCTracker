@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Gladys! Thanks for your patience:</p><p><br /></p><ol><li>Regarding the \"Play For Free\" button on this URL: https://us.shop.battle.net/en-us/product/world-of-warcraft-free-trial?p=76095</li></ol><ul><ul><li>This can actually be fired at any time, either on the click itself or on the next pop up page/tab that loads that initiates the download of the World of Warcraft client since the user stays on the domain</li><li><strong>However, to keep things simple, this event can be fired on the click itself since a popup/new tab will automatically appear that starts the WoW download</strong></li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/35dedf4cdd824985a6c5b315471a04aa.png\" height=\"206.19\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35dedf4cdd824985a6c5b315471a04aa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838149&amp;x-signature=GqxxUmh%2B8Soa%2FMEMrlaTVKQH2RQ%3D\" width=\"375\"><ul><ul><li>We can use the \"ClickButton\" event here for optimization and they can also setup a Custom Event alongside it if they so choose for reporting clarity in TTAM. For example, the custom event can be called \"WoWFreeTrialDownloadClick\"</li></ul></ul><p><br /></p><ol><li>Regarding the \"Subscribe\" button on multiple pages</li></ol><ul><ul><li><strong>They should keep the Subscribe event! The CompleteRegistration event is for tracking new battle.net accounts. This Subscribe event can specifically track WoW subscriptions.</strong></li><li><strong>However, we will likely only want to track completed Subscriptions, so this event will fire at the same time as a CompletePayment event on a completed subscription purchase:</strong></li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a32d3f6d2393498db1e897f766f39d04.png\" height=\"255.064\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a32d3f6d2393498db1e897f766f39d04.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838149&amp;x-signature=WeIW2cjfeWLPdhjTxslfJ4UITgU%3D\" width=\"375\"><p><br /></p><ol><li>Regarding the \"Pre Purchase\" click to the 3 option menu</li></ol><ul><ul><li>Yes! Let's also have them follow the recommendation for BNET to use custom events to track clicks on the specific editions. There is also no limit on Custom Event creation so we can take advantage of this. </li><li>The events can be \"BaseEditionClick\", \"HeroicEditionClick\", \"EpicEditionClick\"</li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1609892ce89c4ba39b1f96bf9aabdb74.png\" height=\"386.161\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1609892ce89c4ba39b1f96bf9aabdb74.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838149&amp;x-signature=fPjwbJmNdeZF0t2N3gyrDnvZmHg%3D\" width=\"375\"><p>Happy to talk through this with you!</p><p>Thanks!</p><p>Robbie</p></img></img></img>",
+          "content": "<p>Hi Gladys! Thanks for your patience:</p><p><br /></p><ol><li>Regarding the \"Play For Free\" button on this URL: https://us.shop.battle.net/en-us/product/world-of-warcraft-free-trial?p=76095</li></ol><ul><ul><li>This can actually be fired at any time, either on the click itself or on the next pop up page/tab that loads that initiates the download of the World of Warcraft client since the user stays on the domain</li><li><strong>However, to keep things simple, this event can be fired on the click itself since a popup/new tab will automatically appear that starts the WoW download</strong></li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/35dedf4cdd824985a6c5b315471a04aa.png\" height=\"206.19\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35dedf4cdd824985a6c5b315471a04aa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273659&amp;x-signature=0Oc2e%2B%2FfNTGtUNjU1397F6Mux1g%3D\" width=\"375\"><ul><ul><li>We can use the \"ClickButton\" event here for optimization and they can also setup a Custom Event alongside it if they so choose for reporting clarity in TTAM. For example, the custom event can be called \"WoWFreeTrialDownloadClick\"</li></ul></ul><p><br /></p><ol><li>Regarding the \"Subscribe\" button on multiple pages</li></ol><ul><ul><li><strong>They should keep the Subscribe event! The CompleteRegistration event is for tracking new battle.net accounts. This Subscribe event can specifically track WoW subscriptions.</strong></li><li><strong>However, we will likely only want to track completed Subscriptions, so this event will fire at the same time as a CompletePayment event on a completed subscription purchase:</strong></li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a32d3f6d2393498db1e897f766f39d04.png\" height=\"255.064\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a32d3f6d2393498db1e897f766f39d04.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273659&amp;x-signature=pJ6QqPuZW%2F%2F4F0GeakNZNk107TY%3D\" width=\"375\"><p><br /></p><ol><li>Regarding the \"Pre Purchase\" click to the 3 option menu</li></ol><ul><ul><li>Yes! Let's also have them follow the recommendation for BNET to use custom events to track clicks on the specific editions. There is also no limit on Custom Event creation so we can take advantage of this. </li><li>The events can be \"BaseEditionClick\", \"HeroicEditionClick\", \"EpicEditionClick\"</li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1609892ce89c4ba39b1f96bf9aabdb74.png\" height=\"386.161\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1609892ce89c4ba39b1f96bf9aabdb74.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273659&amp;x-signature=haguwpOoyshta3KVx0Vp68NVk%2FE%3D\" width=\"375\"><p>Happy to talk through this with you!</p><p>Thanks!</p><p>Robbie</p></img></img></img>",
           "type": 6
         }
       ],
@@ -117,7 +117,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_9f04c438-16e0-4f32-b939-2b28718b0f4g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_9f04c438-16e0-4f32-b939-2b28718b0f4g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 6,
   "current_role": null,
@@ -299,7 +299,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2308317,
+  "pending_time": 2743826,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -484,48 +484,48 @@
         {
           "file_type": "xlsx",
           "file_name": "Paid Social Purchase flow - dec '23.xlsx",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYAAOAAqp2lEMCq25uEkCF1U1BeDzg3QGIfG3C.xlsx?lk3s=cbe26b3a&x-expires=4832838149&x-signature=mUgjwpWkl9f3CDpa%2BwMzT%2B%2BDvLA%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYAAOAAqp2lEMCq25uEkCF1U1BeDzg3QGIfG3C.xlsx?lk3s=cbe26b3a&x-expires=4833273658&x-signature=NeHB2HP2kjgNkMsIhQ%2FAwzf1C28%3D",
           "file_key": "tos-alisg-v-90231e-sg/oYAAOAAqp2lEMCq25uEkCF1U1BeDzg3QGIfG3C.xlsx",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYAAOAAqp2lEMCq25uEkCF1U1BeDzg3QGIfG3C.xlsx?lk3s=cbe26b3a&x-expires=4832838149&x-signature=mUgjwpWkl9f3CDpa%2BwMzT%2B%2BDvLA%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYAAOAAqp2lEMCq25uEkCF1U1BeDzg3QGIfG3C.xlsx?lk3s=cbe26b3a&x-expires=4833273658&x-signature=NeHB2HP2kjgNkMsIhQ%2FAwzf1C28%3D",
           "size": 18352
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-20 at 11.02.28 AM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bf52bda2f0bc4c15a9b876de519d7ed6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838149&x-signature=1w0COkgt9tZfqGZ90JKgpQclaIU%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bf52bda2f0bc4c15a9b876de519d7ed6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273658&x-signature=6HOuqajpSMngSAicLg45jt9MOWc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/bf52bda2f0bc4c15a9b876de519d7ed6.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bf52bda2f0bc4c15a9b876de519d7ed6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838149&x-signature=1w0COkgt9tZfqGZ90JKgpQclaIU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bf52bda2f0bc4c15a9b876de519d7ed6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273658&x-signature=6HOuqajpSMngSAicLg45jt9MOWc%3D",
           "size": 1407224
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-20 at 11.02.37 AM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1571fba41f654ac2a66970508e0beb92.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838149&x-signature=GwHJh0W%2FYAOoe%2FQs7bQG55%2FbfiE%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1571fba41f654ac2a66970508e0beb92.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273658&x-signature=x8ivDumoBlWD2dEutmgI69bxJ0c%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/1571fba41f654ac2a66970508e0beb92.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1571fba41f654ac2a66970508e0beb92.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838149&x-signature=GwHJh0W%2FYAOoe%2FQs7bQG55%2FbfiE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1571fba41f654ac2a66970508e0beb92.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273658&x-signature=x8ivDumoBlWD2dEutmgI69bxJ0c%3D",
           "size": 995737
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35dedf4cdd824985a6c5b315471a04aa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838149&x-signature=GqxxUmh%2B8Soa%2FMEMrlaTVKQH2RQ%3D",
-          "file_name": "file_20240318_15_02_29_771816",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35dedf4cdd824985a6c5b315471a04aa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838149&x-signature=GqxxUmh%2B8Soa%2FMEMrlaTVKQH2RQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35dedf4cdd824985a6c5b315471a04aa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273659&x-signature=0Oc2e%2B%2FfNTGtUNjU1397F6Mux1g%3D",
+          "file_name": "file_20240323_16_00_59_149992",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/35dedf4cdd824985a6c5b315471a04aa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273659&x-signature=0Oc2e%2B%2FfNTGtUNjU1397F6Mux1g%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/35dedf4cdd824985a6c5b315471a04aa.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a32d3f6d2393498db1e897f766f39d04.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838149&x-signature=WeIW2cjfeWLPdhjTxslfJ4UITgU%3D",
-          "file_name": "file_20240318_15_02_29_771934",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a32d3f6d2393498db1e897f766f39d04.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838149&x-signature=WeIW2cjfeWLPdhjTxslfJ4UITgU%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/a32d3f6d2393498db1e897f766f39d04.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1609892ce89c4ba39b1f96bf9aabdb74.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273659&x-signature=haguwpOoyshta3KVx0Vp68NVk%2FE%3D",
+          "file_name": "file_20240323_16_00_59_150100",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1609892ce89c4ba39b1f96bf9aabdb74.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273659&x-signature=haguwpOoyshta3KVx0Vp68NVk%2FE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1609892ce89c4ba39b1f96bf9aabdb74.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1609892ce89c4ba39b1f96bf9aabdb74.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838149&x-signature=fPjwbJmNdeZF0t2N3gyrDnvZmHg%3D",
-          "file_name": "file_20240318_15_02_29_771963",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1609892ce89c4ba39b1f96bf9aabdb74.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838149&x-signature=fPjwbJmNdeZF0t2N3gyrDnvZmHg%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/1609892ce89c4ba39b1f96bf9aabdb74.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a32d3f6d2393498db1e897f766f39d04.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273659&x-signature=pJ6QqPuZW%2F%2F4F0GeakNZNk107TY%3D",
+          "file_name": "file_20240323_16_00_59_150157",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a32d3f6d2393498db1e897f766f39d04.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273659&x-signature=pJ6QqPuZW%2F%2F4F0GeakNZNk107TY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a32d3f6d2393498db1e897f766f39d04.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

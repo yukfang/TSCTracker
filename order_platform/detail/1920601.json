@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Rodrigo, I took a closer look and will provide the findings below:</p><p><br /></p><p>I ran a query for View Content events and can confirm that the event itself is firing successfully and received by TikTok for neither the Prod pixel nor the Dev pixel.  Additionally, my internal dashboard shows that TikTok Click ID (ttclid) has not been received by any event over the past 30 days:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9f358785925e4eb6a2859a45807e52a0.png\" height=\"105.469\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9f358785925e4eb6a2859a45807e52a0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875797&amp;x-signature=vjIB9FQOiK9vMFIPRIi0c26xGlM%3D\" width=\"375\"><p>I<span style=\"color: #222222;\">n the payload your developer provided, I see that an attempt to pass back ttclid is made using {TIKTOK_CLICK_ID}. For one reason or another, this has not made its way to TikTok. </span>Further testing in their dev environment may be needed to diagnose why ttclid is getting dropped from the payload altogether, or why the ttclid value is not getting picked up. </p><p><span style=\"color: #222222;\">A more pressing observation is that <strong>no</strong> <strong>URL, including any utm parameters, is being sent to TikTok</strong>:</span></p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/86411937378d4b5ebbbcc696c4d67074.png\" height=\"166.438\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86411937378d4b5ebbbcc696c4d67074.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875797&amp;x-signature=af8LKYogEFwu%2BAxMYywGmdnNQ4Q%3D\" width=\"375\"><p>This is significant because<span style=\"color: #333333;\"> the eAPI backend will parse the Click ID if it detects the presence of </span><span style=\"color: #222222;\">a ttclid parameter in the page.url. And moreover, I believe this made attribution to the ad campaigns ran in mid-February nearly impossible. Per our documentation on <a href=\"https://business-api.tiktok.com/portal/docs?id=1771100879787009\" target=\"_blank\">TikTok Click IDs here</a>, if the Web Pixel is not installed on-site (which is the case with Cerebral), then ttclid can still be sent using cookie storage or HTML5 local storage. Details and sample code on how to implement this can be found in the documentation linked above. <strong>But the easiest solution by far is to send the url in the Events API payload, and include all URL parameters. </strong></span></p></img></img>",
+          "content": "<p>Hey Rodrigo, I took a closer look and will provide the findings below:</p><p><br /></p><p>I ran a query for View Content events and can confirm that the event itself is firing successfully and received by TikTok for neither the Prod pixel nor the Dev pixel.  Additionally, my internal dashboard shows that TikTok Click ID (ttclid) has not been received by any event over the past 30 days:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9f358785925e4eb6a2859a45807e52a0.png\" height=\"105.469\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9f358785925e4eb6a2859a45807e52a0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273983&amp;x-signature=Qt4yIzPXa5AL%2BqABNsLqJxAFVvI%3D\" width=\"375\"><p>I<span style=\"color: #222222;\">n the payload your developer provided, I see that an attempt to pass back ttclid is made using {TIKTOK_CLICK_ID}. For one reason or another, this has not made its way to TikTok. </span>Further testing in their dev environment may be needed to diagnose why ttclid is getting dropped from the payload altogether, or why the ttclid value is not getting picked up. </p><p><span style=\"color: #222222;\">A more pressing observation is that <strong>no</strong> <strong>URL, including any utm parameters, is being sent to TikTok</strong>:</span></p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/86411937378d4b5ebbbcc696c4d67074.png\" height=\"166.438\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86411937378d4b5ebbbcc696c4d67074.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273983&amp;x-signature=T0G5JdKpQ%2FpQFZqaAgmm2G%2FPFpc%3D\" width=\"375\"><p>This is significant because<span style=\"color: #333333;\"> the eAPI backend will parse the Click ID if it detects the presence of </span><span style=\"color: #222222;\">a ttclid parameter in the page.url. And moreover, I believe this made attribution to the ad campaigns ran in mid-February nearly impossible. Per our documentation on <a href=\"https://business-api.tiktok.com/portal/docs?id=1771100879787009\" target=\"_blank\">TikTok Click IDs here</a>, if the Web Pixel is not installed on-site (which is the case with Cerebral), then ttclid can still be sent using cookie storage or HTML5 local storage. Details and sample code on how to implement this can be found in the documentation linked above. <strong>But the easiest solution by far is to send the url in the Events API payload, and include all URL parameters. </strong></span></p></img></img>",
           "type": 6
         }
       ],
@@ -262,7 +262,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_c3b38449-3588-43d5-b677-67672dac325h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0094_7d179809-ff35-4a68-874a-4b1466dad88h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": -1,
   "current_role": null,
@@ -371,7 +371,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 27858,
+  "pending_time": 426044,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -547,24 +547,24 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-01 at 12.20.44 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86af20d41a9c4dd4ae7beb540e241d46.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875797&x-signature=REWu57iXfirOrZJpXNJy6ALKaq0%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86af20d41a9c4dd4ae7beb540e241d46.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273982&x-signature=lxt%2F5BFuqH%2FxT2oF8tTMdUhfa%2Fk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/86af20d41a9c4dd4ae7beb540e241d46.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86af20d41a9c4dd4ae7beb540e241d46.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875797&x-signature=REWu57iXfirOrZJpXNJy6ALKaq0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86af20d41a9c4dd4ae7beb540e241d46.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273982&x-signature=lxt%2F5BFuqH%2FxT2oF8tTMdUhfa%2Fk%3D",
           "size": 30902
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86411937378d4b5ebbbcc696c4d67074.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875797&x-signature=af8LKYogEFwu%2BAxMYywGmdnNQ4Q%3D",
-          "file_name": "file_20240319_01_29_57_549383",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86411937378d4b5ebbbcc696c4d67074.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875797&x-signature=af8LKYogEFwu%2BAxMYywGmdnNQ4Q%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/86411937378d4b5ebbbcc696c4d67074.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9f358785925e4eb6a2859a45807e52a0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273983&x-signature=Qt4yIzPXa5AL%2BqABNsLqJxAFVvI%3D",
+          "file_name": "file_20240323_16_06_23_176764",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9f358785925e4eb6a2859a45807e52a0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273983&x-signature=Qt4yIzPXa5AL%2BqABNsLqJxAFVvI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/9f358785925e4eb6a2859a45807e52a0.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9f358785925e4eb6a2859a45807e52a0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875797&x-signature=vjIB9FQOiK9vMFIPRIi0c26xGlM%3D",
-          "file_name": "file_20240319_01_29_57_549509",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9f358785925e4eb6a2859a45807e52a0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875797&x-signature=vjIB9FQOiK9vMFIPRIi0c26xGlM%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/9f358785925e4eb6a2859a45807e52a0.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86411937378d4b5ebbbcc696c4d67074.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273983&x-signature=T0G5JdKpQ%2FpQFZqaAgmm2G%2FPFpc%3D",
+          "file_name": "file_20240323_16_06_23_176830",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/86411937378d4b5ebbbcc696c4d67074.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273983&x-signature=T0G5JdKpQ%2FpQFZqaAgmm2G%2FPFpc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/86411937378d4b5ebbbcc696c4d67074.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

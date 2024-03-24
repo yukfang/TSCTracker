@@ -68,12 +68,70 @@
       ],
       "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0061_0221e68f-b177-489e-bb57-c242c6d4b9hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710878224,
+      "auto_close_hit": 0,
+      "id": 7348162812293775000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Alan,</p><p><br></p><p>We do not widely support Pixel implementation via image tag. We did make an exception for AMEX UK which required a custom solution:&nbsp;https://bytedance.sg.larkoffice.com/docx/K4rndXSkposz0bxwQBKlREabgcg</p><p><br></p><p>The process took a total of six months from start to finish. I am trying to get a better understanding of the limitations of the Image Pixel Implementation from the TSC who worked on this project.&nbsp;</p><p><br></p><p>Regards,</p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710954815,
+      "auto_close_hit": 0,
+      "id": 7348494379482497000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hello team,</p><p><br></p><p>Here are the limitations based on the Amex UK image tag implementation:</p><p><br></p><p>&#34;Below are the most common limitations of this setup, which is good to share in order to manage expectations:</p><ul><li>Risk of data loss: Events can not be fired multiple times on each page load</li><li>Website load time: Cannot be loaded asynchronously</li><li>Impact in attribution: due to limitations with capturing or enabling match keys. Specifically, the TikTok Click ID (Amex was only able to capture this for the landing page, and cannot maintain it to future pages) + no option to enable 1st Party Cookies or Automatic Advanced Matching features.&#34;</li></ul><p><br></p><p>It seems there are discussions to implement the same solution in other AMEX regions and I am working with the TSC who led the initial project. Might be best for us to discuss internally next steps.&nbsp;</p><p><br></p><p>Please feel free to put 15-30 minutes on my calendar.</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
-  "pending_from_follower": true,
+  "pending_from_follower": false,
   "id": 1944005,
   "workflow_nodes": [],
   "board_id": 1705151646989662,
@@ -93,9 +151,9 @@
   "type": -1,
   "current_role": null,
   "fd_permission": 1,
-  "status": 2,
+  "status": 1,
   "business_data": [],
-  "update_time": 1710786906,
+  "update_time": 1710954815,
   "owner_name": "Aoife Brady25",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -270,7 +328,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 284253,
+  "pending_time": 255396,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [

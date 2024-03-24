@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Jessica,</p><p><br /></p><p>From reading over your client's email and reviewing their screenshots, it appears they are referring to Events Manager. </p><p><br /></p><p>The event counts they see in Events Manager are total actions on their site. In other words: they are not all attributed to advertising. </p><p><br /></p><ul><li>Beyond that I am not sure how their custom events i.e. <span style=\"color: #121212;\">Cashstar_B2C_Step1_Recipient are configured to fire on their website. </span></li><li><span style=\"color: #121212;\">I am also unsure of what time period they are looking at. For the past week, we only saw about 94 of the Cashstar_B2C_Step1_Recipient custom event. </span></li></ul><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4b536f001beb4988b7e9060d10cfe20d.png\" height=\"171.875\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b536f001beb4988b7e9060d10cfe20d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832812&amp;x-signature=rLmZuGerep%2BperB%2FYCCp9cIB3hc%3D\" width=\"375\"><p><br /></p><p>Are they concerned with the number of events they are seeing? Or do they have a different issue? </p><p><br /></p><p><span style=\"color: #121212;\">Regards,</span></p><p><span style=\"color: #121212;\">Thomas</span></p></img>",
+          "content": "<p>Hi Jessica,</p><p><br /></p><p>From reading over your client's email and reviewing their screenshots, it appears they are referring to Events Manager. </p><p><br /></p><p>The event counts they see in Events Manager are total actions on their site. In other words: they are not all attributed to advertising. </p><p><br /></p><ul><li>Beyond that I am not sure how their custom events i.e. <span style=\"color: #121212;\">Cashstar_B2C_Step1_Recipient are configured to fire on their website. </span></li><li><span style=\"color: #121212;\">I am also unsure of what time period they are looking at. For the past week, we only saw about 94 of the Cashstar_B2C_Step1_Recipient custom event. </span></li></ul><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4b536f001beb4988b7e9060d10cfe20d.png\" height=\"171.875\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b536f001beb4988b7e9060d10cfe20d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272870&amp;x-signature=U3S%2B8LGtStVLx02qho5pZaBmnzo%3D\" width=\"375\"><p><br /></p><p>Are they concerned with the number of events they are seeing? Or do they have a different issue? </p><p><br /></p><p><span style=\"color: #121212;\">Regards,</span></p><p><span style=\"color: #121212;\">Thomas</span></p></img>",
           "type": 6
         }
       ],
@@ -70,9 +70,9 @@
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-01-16 at 11.31.47 AM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/425a660e506b429594a27aacf3fefff2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832812&x-signature=ayl6lfb5EI8zh1Vi65gGAEpd9Ao%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/425a660e506b429594a27aacf3fefff2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272870&x-signature=UsfnbdSuKEsJxYLk3o1X5ORLbHw%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/425a660e506b429594a27aacf3fefff2.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/425a660e506b429594a27aacf3fefff2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832812&x-signature=ayl6lfb5EI8zh1Vi65gGAEpd9Ao%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/425a660e506b429594a27aacf3fefff2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272870&x-signature=UsfnbdSuKEsJxYLk3o1X5ORLbHw%3D",
               "biz_type": 2,
               "size": 133417
             }
@@ -105,7 +105,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Jessica,</p><p><br /></p><p>It seems that there's nothing showing up for your client's Custom Report for two reasons:</p><p>1) They last advertised on 12/4 so their date range of \"last 30 days\" will show no data</p><p>2) The metric they need to check/enable is \"Custom Events\". It does not appear to break down into the specific custom Pixel events unfortunately</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/85c6bd5ec47b4b4abad16f7081694e36.png\" height=\"158.107\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85c6bd5ec47b4b4abad16f7081694e36.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832812&amp;x-signature=cgm%2BVsoaKsRC39Kj1oksrho%2Buzg%3D\" width=\"375\"><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
+          "content": "<p>Hi Jessica,</p><p><br /></p><p>It seems that there's nothing showing up for your client's Custom Report for two reasons:</p><p>1) They last advertised on 12/4 so their date range of \"last 30 days\" will show no data</p><p>2) The metric they need to check/enable is \"Custom Events\". It does not appear to break down into the specific custom Pixel events unfortunately</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/85c6bd5ec47b4b4abad16f7081694e36.png\" height=\"158.107\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85c6bd5ec47b4b4abad16f7081694e36.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272870&amp;x-signature=MkDbMMlszAsFkhu%2BtPsBWH8tb3k%3D\" width=\"375\"><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -371,7 +371,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2735914,
+  "pending_time": 3175971,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -547,23 +547,23 @@
         {
           "file_type": "png",
           "file_name": "image001 (3).png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d884a4619ac49068f4efbdd29a21529.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832812&x-signature=x5w3VPVQeL6TLzdHXFFMdrJ0ZE4%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d884a4619ac49068f4efbdd29a21529.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272870&x-signature=eql6AE4He%2Bw%2BILJbXg27XZwqD9I%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/3d884a4619ac49068f4efbdd29a21529.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d884a4619ac49068f4efbdd29a21529.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832812&x-signature=x5w3VPVQeL6TLzdHXFFMdrJ0ZE4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d884a4619ac49068f4efbdd29a21529.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272870&x-signature=eql6AE4He%2Bw%2BILJbXg27XZwqD9I%3D",
           "size": 351735
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-11 at 2.20.23 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/37768538814c4d3f9dec4d33dc7fc9da.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832812&x-signature=aWfSAsJ%2BobBTgs901fMXbEbQWOI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/37768538814c4d3f9dec4d33dc7fc9da.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272870&x-signature=3ODTc3NYGefZKgKIkgjqLamZqQI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/37768538814c4d3f9dec4d33dc7fc9da.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/37768538814c4d3f9dec4d33dc7fc9da.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832812&x-signature=aWfSAsJ%2BobBTgs901fMXbEbQWOI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/37768538814c4d3f9dec4d33dc7fc9da.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272870&x-signature=3ODTc3NYGefZKgKIkgjqLamZqQI%3D",
           "size": 1126001
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b536f001beb4988b7e9060d10cfe20d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832812&x-signature=rLmZuGerep%2BperB%2FYCCp9cIB3hc%3D",
-          "file_name": "file_20240318_13_33_32_778976",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b536f001beb4988b7e9060d10cfe20d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832812&x-signature=rLmZuGerep%2BperB%2FYCCp9cIB3hc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b536f001beb4988b7e9060d10cfe20d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272870&x-signature=U3S%2B8LGtStVLx02qho5pZaBmnzo%3D",
+          "file_name": "file_20240323_15_47_50_650714",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b536f001beb4988b7e9060d10cfe20d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272870&x-signature=U3S%2B8LGtStVLx02qho5pZaBmnzo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4b536f001beb4988b7e9060d10cfe20d.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -571,16 +571,16 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-16 at 11.31.47 AM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/425a660e506b429594a27aacf3fefff2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832812&x-signature=ayl6lfb5EI8zh1Vi65gGAEpd9Ao%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/425a660e506b429594a27aacf3fefff2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272870&x-signature=UsfnbdSuKEsJxYLk3o1X5ORLbHw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/425a660e506b429594a27aacf3fefff2.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/425a660e506b429594a27aacf3fefff2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832812&x-signature=ayl6lfb5EI8zh1Vi65gGAEpd9Ao%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/425a660e506b429594a27aacf3fefff2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272870&x-signature=UsfnbdSuKEsJxYLk3o1X5ORLbHw%3D",
           "biz_type": 2,
           "size": 133417
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85c6bd5ec47b4b4abad16f7081694e36.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832812&x-signature=cgm%2BVsoaKsRC39Kj1oksrho%2Buzg%3D",
-          "file_name": "file_20240318_13_33_32_873043",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85c6bd5ec47b4b4abad16f7081694e36.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832812&x-signature=cgm%2BVsoaKsRC39Kj1oksrho%2Buzg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85c6bd5ec47b4b4abad16f7081694e36.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272870&x-signature=MkDbMMlszAsFkhu%2BtPsBWH8tb3k%3D",
+          "file_name": "file_20240323_15_47_50_726375",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85c6bd5ec47b4b4abad16f7081694e36.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272870&x-signature=MkDbMMlszAsFkhu%2BtPsBWH8tb3k%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/85c6bd5ec47b4b4abad16f7081694e36.png",
           "file_type": "jpeg",
           "biz_type": 2

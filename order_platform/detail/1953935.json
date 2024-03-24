@@ -1,0 +1,575 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354674",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0093_de7550e1-3677-4322-8b35-c32e08f828hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Keshav Priyadarshi",
+  "create_time": 1710850371,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710868496,
+      "auto_close_hit": 0,
+      "id": 7348122677795701000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lara Morton",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6991999636425966593",
+      "name": "Lara Morton",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Clients are wanting answers to these questions please! If we can set up a call that would be fantastic.</p><p><br></p><p>Thanks!</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "pdf",
+              "file_name": "[mercedes]Self_Assessment_v.3.4_TikTok.pdf",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/os3a4fiDAAEjz5IAKOIDytwEBPCpiAAS3BAynA.pdf?lk3s=cbe26b3a&x-expires=4833274296&x-signature=E89yk91pWe%2F%2F5NlrIAOIJwSGckA%3D",
+              "file_key": "tos-alisg-v-90231e-sg/os3a4fiDAAEjz5IAKOIDytwEBPCpiAAS3BAynA.pdf",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/os3a4fiDAAEjz5IAKOIDytwEBPCpiAAS3BAynA.pdf?lk3s=cbe26b3a&x-expires=4833274296&x-signature=E89yk91pWe%2F%2F5NlrIAOIJwSGckA%3D",
+              "biz_type": 2,
+              "size": 1274407
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/8c8f649c-73a8-42f2-b01a-1237097d6eag~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710926965,
+      "auto_close_hit": 0,
+      "id": 7348374401231995000,
+      "reply_role": "TSC",
+      "staff_id": 7890770,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "keshav.priyadarshi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user7242983724654",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7337626630103827457",
+      "name": "Keshav Priyadarshi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lara,&nbsp;<br>Investigating  this issue, will provide an update soon.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0093_de7550e1-3677-4322-8b35-c32e08f828hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711015698,
+      "auto_close_hit": 0,
+      "id": 7348755307763466000,
+      "reply_role": "TSC",
+      "staff_id": 7890770,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "keshav.priyadarshi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user7242983724654",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7337626630103827457",
+      "name": "Keshav Priyadarshi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lara,&nbsp;<br>They are in the pre-pitch stage. I would like to share this doc which is used to answer such client requests: <a target=\"_blank\" href=\"https://bytedance.sg.larkoffice.com/sheets/shtcnvdySkkqs6Ons7HznQ02Mgd?sheet=6fba33\">Global Pixel Vendor Q&amp;A</a><br>For additional support you can reach out to PSO team.<br><br>Our team (TSC) only supports Clients with a Developer team team that are pre- or mid- implementation and need tailored, specific technical advice and support on Signals solutions.&nbsp;<br>Happy to get on a call and discuss this further.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0093_de7550e1-3677-4322-8b35-c32e08f828hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711037824,
+      "auto_close_hit": 0,
+      "id": 7348849631494685000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Isabelle Pollitt",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7090415800125244418",
+      "name": "Isabelle Pollitt",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Keshav,</p><p><br></p><p>The client is pre implementation and requires tailor support on pixel implementation. Is it possible for someone from MPO to join a call with us and the client to support with this?</p><p><br></p><p>Thanks&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_fa9bd794-e662-41b3-94d3-5fadec9c2aag~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711038421,
+      "auto_close_hit": 0,
+      "id": 7348853608365965000,
+      "reply_role": "TSC",
+      "staff_id": 7890770,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "keshav.priyadarshi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user7242983724654",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7337626630103827457",
+      "name": "Keshav Priyadarshi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Sure Isabelle,&nbsp;<br>I can join the call and help with any implementation related asks. Please block any slot you find available on my calendar except for 26th March 9-10 AM and 3-4 PM.&nbsp;<br><br>Regarding the PDF shared with the questionnaire, you will have to refer the&nbsp;<a target=\"_blank\" href=\"https://bytedance.sg.larkoffice.com/sheets/shtcnvdySkkqs6Ons7HznQ02Mgd?sheet=6fba33\">Global Pixel Vendor Q&amp;A</a>&nbsp;doc and reach out to PSO for additional support.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0093_de7550e1-3677-4322-8b35-c32e08f828hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1953935,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "keshav.priyadarshi@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Mercedes - Pixel (potentially eAPI)",
+  "category_1_name": "Basic",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 2,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/8c8f649c-73a8-42f2-b01a-1237097d6eag~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1711038421,
+  "owner_name": "Lara Morton",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Basic",
+  "archive_category_1": "1736497459354674",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "6991999636425966593",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Lara Morton",
+  "follow_employee_id": 7890770,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 171875,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Mercedes - Pixel (potentially eAPI)",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Mercedes [Daimler UK]",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Auto",
+      "valid": true,
+      "key": "Auto",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Enterprise",
+      "valid": true,
+      "key": "Enterprise",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-GB",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CST",
+      "valid": true,
+      "key": "CST",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6897233828973117442"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Lara Morton - CSM // Isabelle Pollitt - CSM // Alastair Green - APM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "tbc",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://www.mercedes-benz.co.uk/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-19",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Unsure",
+      "valid": true,
+      "key": "Unsure",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "new to data connections implementation",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "pdf",
+          "file_name": "[mercedes]Self_Assessment_v.3.4_TikTok.pdf",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/os3a4fiDAAEjz5IAKOIDytwEBPCpiAAS3BAynA.pdf?lk3s=cbe26b3a&x-expires=4833274296&x-signature=E89yk91pWe%2F%2F5NlrIAOIJwSGckA%3D",
+          "file_key": "tos-alisg-v-90231e-sg/os3a4fiDAAEjz5IAKOIDytwEBPCpiAAS3BAynA.pdf",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/os3a4fiDAAEjz5IAKOIDytwEBPCpiAAS3BAynA.pdf?lk3s=cbe26b3a&x-expires=4833274296&x-signature=E89yk91pWe%2F%2F5NlrIAOIJwSGckA%3D",
+          "biz_type": 2,
+          "size": 1274407
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Basic"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

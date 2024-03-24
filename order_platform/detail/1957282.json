@@ -1,0 +1,673 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Joey Choi",
+  "create_time": 1710949551,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710952563,
+      "auto_close_hit": 0,
+      "id": 7348484840376779000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "austen.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austen Jones",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6982347769357665281",
+      "name": "Austen Jones",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>I want to provide them with recommendations for how to setup their tracking based on the flow of the site.</p><p>Essentially, you land on the site, there is a button that says &#34;customize your plan&#34; and once clicked you answer like 5-6 quick questions, then you are asked for name and email, then you get you plan and click checkout, then you finally purchase... here is what I have to recommend to them but wanted to be sure you align and im not missing anything</p><p>------</p><p><strong>Events TikTok recommends for implementation based on your website flow:</strong></p><ul><ul><li>View Content for when pages are landed on (missing), Click Button for when someone starts their plan survey (missing), Submit Form for when someone fills out &#34;tell us about yourself&#34; (missing), Initiate Checkout for when someone clicks &#34;checkout&#34; (missing), Complete Payment for when someone clicks &#34;pay now&#34;</li></ul></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0090_1cd7b199-adcb-4d16-97e3-68c2d700f6fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710953075,
+      "auto_close_hit": 0,
+      "id": 7348485893352653000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "austen.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austen Jones",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6982347769357665281",
+      "name": "Austen Jones",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>@Joey I was actually able to confirm this flow is solid and had a bit of a back and forth. I think for now I am good on action items and will just be awaiting questions from the client here.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0090_1cd7b199-adcb-4d16-97e3-68c2d700f6fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710957659,
+      "auto_close_hit": 0,
+      "id": 7348505947402256000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>For sure, feel free to respond to this ticket if there&#39;s anything else you need.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710961347,
+      "auto_close_hit": 0,
+      "id": 7348522001289478000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "austen.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austen Jones",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6982347769357665281",
+      "name": "Austen Jones",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Joey! So the client did have an immediate question for us :)</p><p><br /></p><p>\"<span style=\"color: #1F2329;\">We're connecting with our Engineering team to adjust the pixel so the CompletePayment event only fires on the Subscription Thank-You Page.</span></p><p><br /></p><p><span style=\"color: #1F2329;\">Just to double tap, we're going to deprioritize adding in a bunch of new events at the moment and focus our efforts on optimizing the event we are held to and care about i.e. Complete Payment. Once that is fully optimized via the pixel and API we can then go back and add additional events to track.</span></p><p><br /></p><p><span style=\"color: #1F2329;\">With this in mind, what parameters do we need to add in for the conversion pixel Complete Payment event that we aren't already sending back and how do we enable advanced matching? When we put in the request to adjust the CompletePayment event to only fire on Subscription purchases I'd also like to request the team adjust it so we're fully optimized and sending all necessary data back. Below is what I'm currently seeing in \"</span></p><p><br /></p><img alt=\"cpevent.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b9ee55bafc374810938f1517c9532cd3.jpeg\" height=\"257.353\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9ee55bafc374810938f1517c9532cd3.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274338&amp;x-signature=8tzqFh%2FuQ7qHbbIA%2FnZYw4kHtPc%3D\" width=\"375\"><img alt=\"cpevent1.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/eedd937289304290a4165b86a956db64.jpeg\" height=\"176.415\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eedd937289304290a4165b86a956db64.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274338&amp;x-signature=xJdmtUGwEYNNboFz3DF9I0PMKtU%3D\" width=\"375\"><p><br /></p><p>I would say contentid seems to be the most pressing but would love your help on outlining some steps for the cp event ask from the client</p></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0090_1cd7b199-adcb-4d16-97e3-68c2d700f6fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710961790,
+      "auto_close_hit": 0,
+      "id": 7348522412159402000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "austen.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austen Jones",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6982347769357665281",
+      "name": "Austen Jones",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>mostly curious on which parameters are missing and what we need added for them for complete payment giving it is mostly a subscription model - I have the advanced matching info already but if you want to include that just to be 110% sure thatd be great too&nbsp;</p><p><br></p><p>really appreciate your help</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0090_1cd7b199-adcb-4d16-97e3-68c2d700f6fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710964405,
+      "auto_close_hit": 0,
+      "id": 7348534170009764000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "austen.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austen Jones",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6982347769357665281",
+      "name": "Austen Jones",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>do they even need content_id or type? im thinking just currency and event_id would be required but correct me if im wrong lol</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0090_1cd7b199-adcb-4d16-97e3-68c2d700f6fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711038565,
+      "auto_close_hit": 0,
+      "id": 7348854045118939000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "austen.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austen Jones",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6982347769357665281",
+      "name": "Austen Jones",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>I solved the paramter piece on my side but did have a client q coming out of it--</p><p><br /></p><p>\"<span style=\"color: #1F2329;\">For Advanced Matching, I'm seeing we have the automatic toggle enabled and are allowing email and phone number to be sent, but when I drill into the Advanced Matching Coverage for the CompletePayment event it's showing 0%. </span></p><p><br /></p><p>Can you advise on the Advanced Matching piece? Do you need us to grant you access and/or share the pixel so your team can QA?\"</p><img alt=\"aamsundays.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/15db3ae0b9d44ecf8ac4b12df75308e3.jpeg\" height=\"300.719\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/15db3ae0b9d44ecf8ac4b12df75308e3.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274339&amp;x-signature=1ndfWr9s6Q%2BqvNcFP5VvJByRVHM%3D\" width=\"375\"><img alt=\"aamsundays1.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/53c557ec0bd74f119ac06a5bc141c78a.jpeg\" height=\"169.264\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/53c557ec0bd74f119ac06a5bc141c78a.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274339&amp;x-signature=AJxa5edRTFrig2%2B3zlmn1SVhu84%3D\" width=\"375\" /></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0090_1cd7b199-adcb-4d16-97e3-68c2d700f6fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711127311,
+      "auto_close_hit": 0,
+      "id": 7349234783521653000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Austen, apologies for the delay as I was out sick yesterday. Glad to hear you covered off on the parameter concern of theirs, but let me know if anything else bubbles up.&nbsp;</p><p>Automatic Advanced Matching scans a site for opportunities where a user would enter their email/phone number, but isn&#39;t guaranteed to work for every site. It&#39;s recommended to set up <a target=\"_blank\" href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\">Manual Advanced Matching</a> using code, in tandem with Automatic Advanced Matching so they can control exactly what data they want to pass back regarding customer PII with more consistency. The code that would be set up to pass back email and/or phone for each Complete Payment event would look like the following (sending pre-hashed email/phone values):</p><p><br></p><p>ttq.identify({</p><p>email: &#39;0c7e6a405862e402eb76a70f8a26fc732d07c32931e9fae9ab1582911d2e8a3b&#39;,</p><p>phone_number: &#39;9f7ec22d72092cd3c0b58726ed9c2d91b92e51a3f29837508fb2948bb22dd2fd&#39;,</p><p>external_id: &#39;936a185caaa266bb9cbe981e9e05cb78cd732b0b3280eb944412bb6f8f8f07af&#39;,</p><p>})</p><p>They can also send through raw email/phone that will be hashed automatically prior to reaching TikTok&#39;s servers.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1957282,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "joey.choi@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Sundays Measurement and Tracking",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0090_1cd7b199-adcb-4d16-97e3-68c2d700f6fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1711127311,
+  "owner_name": "Austen Jones",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "6982347769357665281",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Austen Jones",
+  "follow_employee_id": 7055631,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 83028,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Sundays Measurement and Tracking",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Sundays for Dogs",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7019325263603318785"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Austen Jones - CSM , Sam Fong - BPM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C5NI04TO3VNUQLVLEJ8G",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://sundaysfordogs.com/"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Events API - Web",
+      "valid": true,
+      "key": "Events API - Web",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-20",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "  - Complete payment is on 2 diff purchases - currently a sample AND when a user subscribes \n    - Don't want to do sample any longer - solely for subscription for the business\n    - Want complete payment to only optimize for subscription rather than both\n- their dev team is going to remove CP from samples so it only fires when someone subscribes\n\nlooking for documentation and guidance on setting up S2S tracking for complete payment/subsriptions on complete payment and guidance on what other events to setup given their flow to optimize tracking ",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9ee55bafc374810938f1517c9532cd3.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274338&x-signature=8tzqFh%2FuQ7qHbbIA%2FnZYw4kHtPc%3D",
+          "file_name": "file_20240323_16_12_18_954748",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9ee55bafc374810938f1517c9532cd3.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274338&x-signature=8tzqFh%2FuQ7qHbbIA%2FnZYw4kHtPc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b9ee55bafc374810938f1517c9532cd3.jpeg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eedd937289304290a4165b86a956db64.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274338&x-signature=xJdmtUGwEYNNboFz3DF9I0PMKtU%3D",
+          "file_name": "file_20240323_16_12_18_954815",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eedd937289304290a4165b86a956db64.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274338&x-signature=xJdmtUGwEYNNboFz3DF9I0PMKtU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/eedd937289304290a4165b86a956db64.jpeg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/53c557ec0bd74f119ac06a5bc141c78a.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274339&x-signature=AJxa5edRTFrig2%2B3zlmn1SVhu84%3D",
+          "file_name": "file_20240323_16_12_19_078147",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/53c557ec0bd74f119ac06a5bc141c78a.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274339&x-signature=AJxa5edRTFrig2%2B3zlmn1SVhu84%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/53c557ec0bd74f119ac06a5bc141c78a.jpeg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/15db3ae0b9d44ecf8ac4b12df75308e3.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274339&x-signature=1ndfWr9s6Q%2BqvNcFP5VvJByRVHM%3D",
+          "file_name": "file_20240323_16_12_19_078226",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/15db3ae0b9d44ecf8ac4b12df75308e3.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274339&x-signature=1ndfWr9s6Q%2BqvNcFP5VvJByRVHM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/15db3ae0b9d44ecf8ac4b12df75308e3.jpeg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

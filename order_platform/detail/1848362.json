@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Veronica,</p><p>Thanks for making the ticket! I've also updated our Lark chat with this information</p><p><br /></p><p>The issue here is that they can't use an underscore as a delimiter. If the link is formatted like this, our system will read it as one long underscore rather than a delineator, resulting in the macros not being populated</p><p><a href=\"https://finance.yahoo.com/try-new/?ncid=ps-tt___CAMPAIGN_ID_____AID_____CID__\" target=\"_blank\">https://finance.yahoo.com/try-new/?ncid=ps-tt___CAMPAIGN_ID_____AID_____CID__</a></p><p><a href=\"https://finance.yahoo.com/?ncid=ps-tt___CAMPAIGN_ID_____AID_____CID__&amp;.neo_opt=1&amp;utm_campaign=client_share&amp;utm_source=\" target=\"_blank\">https://finance.yahoo.com/?ncid=ps-tt___CAMPAIGN_ID_____AID_____CID__&amp;.neo_opt=1&amp;utm_campaign=client_share&amp;utm_source=</a></p><p>The macros also need only two underscores at the front and the end of the desired macro</p><img alt=\"img_v3_027k_6e40c43a-da0e-4dfe-832b-ec3294fa615h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2b839631897b447dba26a4afe99fb44b.jpg\" height=\"191.19\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b839631897b447dba26a4afe99fb44b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832798&amp;x-signature=ejwhIU8YDtHIhLarlKj2ms0wWEo%3D\" width=\"375\"><p>We'd recommend using either dashes \"-\" or pipes \"|\" like so with the correct number of underscores:</p><p><a href=\"https://finance.yahoo.com/try-new/?ncid=ps-tt\" target=\"_blank\">https://finance.yahoo.com/try-new/?ncid=ps-tt__CAMPAIGN_ID__|__AID__|__CI</a>D__</p><p>or</p><p><a href=\"https://finance.yahoo.com/try-new/?ncid=ps-tt\" target=\"_blank\">https://finance.yahoo.com/try-new/?ncid=ps-tt__CAMPAIGN_ID__-__AID__-__CI</a>D__</p><p><br /></p><p>Hope this helps!</p><p>Best,</p><p>Robbie</p></img>",
+          "content": "<p>Hi Veronica,</p><p>Thanks for making the ticket! I've also updated our Lark chat with this information</p><p><br /></p><p>The issue here is that they can't use an underscore as a delimiter. If the link is formatted like this, our system will read it as one long underscore rather than a delineator, resulting in the macros not being populated</p><p><a href=\"https://finance.yahoo.com/try-new/?ncid=ps-tt___CAMPAIGN_ID_____AID_____CID__\" target=\"_blank\">https://finance.yahoo.com/try-new/?ncid=ps-tt___CAMPAIGN_ID_____AID_____CID__</a></p><p><a href=\"https://finance.yahoo.com/?ncid=ps-tt___CAMPAIGN_ID_____AID_____CID__&amp;.neo_opt=1&amp;utm_campaign=client_share&amp;utm_source=\" target=\"_blank\">https://finance.yahoo.com/?ncid=ps-tt___CAMPAIGN_ID_____AID_____CID__&amp;.neo_opt=1&amp;utm_campaign=client_share&amp;utm_source=</a></p><p>The macros also need only two underscores at the front and the end of the desired macro</p><img alt=\"img_v3_027k_6e40c43a-da0e-4dfe-832b-ec3294fa615h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2b839631897b447dba26a4afe99fb44b.jpg\" height=\"191.19\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b839631897b447dba26a4afe99fb44b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273206&amp;x-signature=5NSuD%2FbtcOSgB4hPUpFDknLT88c%3D\" width=\"375\"><p>We'd recommend using either dashes \"-\" or pipes \"|\" like so with the correct number of underscores:</p><p><a href=\"https://finance.yahoo.com/try-new/?ncid=ps-tt\" target=\"_blank\">https://finance.yahoo.com/try-new/?ncid=ps-tt__CAMPAIGN_ID__|__AID__|__CI</a>D__</p><p>or</p><p><a href=\"https://finance.yahoo.com/try-new/?ncid=ps-tt\" target=\"_blank\">https://finance.yahoo.com/try-new/?ncid=ps-tt__CAMPAIGN_ID__-__AID__-__CI</a>D__</p><p><br /></p><p>Hope this helps!</p><p>Best,</p><p>Robbie</p></img>",
           "type": 6
         }
       ],
@@ -241,7 +241,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2663130,
+  "pending_time": 3103538,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -415,9 +415,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b839631897b447dba26a4afe99fb44b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832798&x-signature=ejwhIU8YDtHIhLarlKj2ms0wWEo%3D",
-          "file_name": "file_20240318_13_33_18_325907",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b839631897b447dba26a4afe99fb44b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832798&x-signature=ejwhIU8YDtHIhLarlKj2ms0wWEo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b839631897b447dba26a4afe99fb44b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273206&x-signature=5NSuD%2FbtcOSgB4hPUpFDknLT88c%3D",
+          "file_name": "file_20240323_15_53_26_444135",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b839631897b447dba26a4afe99fb44b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273206&x-signature=5NSuD%2FbtcOSgB4hPUpFDknLT88c%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2b839631897b447dba26a4afe99fb44b.jpg",
           "file_type": "jpeg",
           "biz_type": 2

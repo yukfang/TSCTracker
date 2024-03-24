@@ -331,6 +331,35 @@
       ],
       "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711066199,
+      "auto_close_hit": 0,
+      "id": 7348971274493821000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>[status update] Client wanted to set up pixel in the chatbot, however upon checking with the provider, it is confirmed that no scripts cannot be inserted into the 3P chatbot due to the policy on the chatbot side.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -358,7 +387,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1710124789,
+  "update_time": 1711066274,
   "owner_name": "猪川優一",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -533,7 +562,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 649560,
+  "pending_time": 143595,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [

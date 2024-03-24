@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1708467378,
   "deadline": 0,
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zahra,</p><p><br /></p><p>I see the client UGG-CA has both pixel and Event API enabled, which is great. Checking their <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CL4K5LBC77U5FRI65U5G?start_time=2024-02-16&amp;end_time=2024-02-22&amp;from=ALL&amp;aadvid=7323279826612142081\" target=\"_blank\">Events Manager</a> they have a full funnel of events set up. Checking data for <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CL4K5LBC77U5FRI65U5G?start_time=2024-02-16&amp;end_time=2024-02-22&amp;from=ALL&amp;aadvid=7323279826612142081\" target=\"_blank\">pixel id CL4K5LBC77U5FRI65U5G</a>, I am seeing:</p><p><br /></p><p>PII overall looks good, example here from CompletePayment:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5e4c6f4897614b0591c5c7fe5bc553cd.png\" height=\"81.59\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e4c6f4897614b0591c5c7fe5bc553cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838155&amp;x-signature=WfcP1G4vHElg34TljPdMEgiFMDI%3D\" width=\"375\"><p>~10% of CompletePayment events showed a NULL value for 'Email', but I believe they are still over the threshold for what we consider to be good PII coverage.</p><p><br /></p><p>ViewContent also looks good:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/db603f33e63440039f07a95e39f926ae.png\" height=\"183.603\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db603f33e63440039f07a95e39f926ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838155&amp;x-signature=PugVC7DipfE3yCb7TEW1fIfc0LQ%3D\" width=\"375\"><p>AddToCart, InitiateCheckout firing well with expected parameters attached:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d76b91bc978d4086b495dbe2efb4ebaa.png\" height=\"185.979\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d76b91bc978d4086b495dbe2efb4ebaa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838155&amp;x-signature=dGqqJzawfn85rCDBSaAkMJGM%2BEg%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bd4f90bf08394b4886c011c8a2918d98.png\" height=\"188.826\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd4f90bf08394b4886c011c8a2918d98.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838155&amp;x-signature=o1nYyArzQTlns9nj1BI3gEPa5TI%3D\" width=\"375\"><p>I am not able to check the CompletePayment event unless I have a test login or coupone code, but from the data that event is ok.</p><p><br /></p><p>They look ready to move on the Event API! Here are the <a href=\"https://docs.tealium.com/server-side-connectors/tiktok-events-connector/\" target=\"_blank\">docs for Tealium</a>, which I see they are using. I am happy to meet with them if they have any questions about getting started.</p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img>",
+          "content": "<p>Hi Zahra,</p><p><br /></p><p>I see the client UGG-CA has both pixel and Event API enabled, which is great. Checking their <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CL4K5LBC77U5FRI65U5G?start_time=2024-02-16&amp;end_time=2024-02-22&amp;from=ALL&amp;aadvid=7323279826612142081\" target=\"_blank\">Events Manager</a> they have a full funnel of events set up. Checking data for <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CL4K5LBC77U5FRI65U5G?start_time=2024-02-16&amp;end_time=2024-02-22&amp;from=ALL&amp;aadvid=7323279826612142081\" target=\"_blank\">pixel id CL4K5LBC77U5FRI65U5G</a>, I am seeing:</p><p><br /></p><p>PII overall looks good, example here from CompletePayment:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5e4c6f4897614b0591c5c7fe5bc553cd.png\" height=\"81.59\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e4c6f4897614b0591c5c7fe5bc553cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273665&amp;x-signature=qAaF3tqL4nlZ22gPgkAkex9BldU%3D\" width=\"375\"><p>~10% of CompletePayment events showed a NULL value for 'Email', but I believe they are still over the threshold for what we consider to be good PII coverage.</p><p><br /></p><p>ViewContent also looks good:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/db603f33e63440039f07a95e39f926ae.png\" height=\"183.603\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db603f33e63440039f07a95e39f926ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273665&amp;x-signature=6Ao7IWM8Hc0WPT%2Ba%2F1LAf6H%2FlMs%3D\" width=\"375\"><p>AddToCart, InitiateCheckout firing well with expected parameters attached:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d76b91bc978d4086b495dbe2efb4ebaa.png\" height=\"185.979\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d76b91bc978d4086b495dbe2efb4ebaa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273665&amp;x-signature=%2FmdjG5NqPOFDLOdpL8ptcXiSARc%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bd4f90bf08394b4886c011c8a2918d98.png\" height=\"188.826\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd4f90bf08394b4886c011c8a2918d98.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273665&amp;x-signature=aUy7WU72AOAp%2FS20SeT46S8Zh6k%3D\" width=\"375\"><p>I am not able to check the CompletePayment event unless I have a test login or coupone code, but from the data that event is ok.</p><p><br /></p><p>They look ready to move on the Event API! Here are the <a href=\"https://docs.tealium.com/server-side-connectors/tiktok-events-connector/\" target=\"_blank\">docs for Tealium</a>, which I see they are using. I am happy to meet with them if they have any questions about getting started.</p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img>",
           "type": 6
         }
       ],
@@ -175,7 +175,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 6,
   "current_role": null,
@@ -357,7 +357,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1712023,
+  "pending_time": 2147533,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -531,34 +531,34 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d76b91bc978d4086b495dbe2efb4ebaa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838155&x-signature=dGqqJzawfn85rCDBSaAkMJGM%2BEg%3D",
-          "file_name": "file_20240318_15_02_35_395681",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d76b91bc978d4086b495dbe2efb4ebaa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838155&x-signature=dGqqJzawfn85rCDBSaAkMJGM%2BEg%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/d76b91bc978d4086b495dbe2efb4ebaa.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db603f33e63440039f07a95e39f926ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838155&x-signature=PugVC7DipfE3yCb7TEW1fIfc0LQ%3D",
-          "file_name": "file_20240318_15_02_35_395747",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db603f33e63440039f07a95e39f926ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838155&x-signature=PugVC7DipfE3yCb7TEW1fIfc0LQ%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/db603f33e63440039f07a95e39f926ae.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd4f90bf08394b4886c011c8a2918d98.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838155&x-signature=o1nYyArzQTlns9nj1BI3gEPa5TI%3D",
-          "file_name": "file_20240318_15_02_35_395770",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd4f90bf08394b4886c011c8a2918d98.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838155&x-signature=o1nYyArzQTlns9nj1BI3gEPa5TI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd4f90bf08394b4886c011c8a2918d98.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273665&x-signature=aUy7WU72AOAp%2FS20SeT46S8Zh6k%3D",
+          "file_name": "file_20240323_16_01_05_232976",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd4f90bf08394b4886c011c8a2918d98.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273665&x-signature=aUy7WU72AOAp%2FS20SeT46S8Zh6k%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/bd4f90bf08394b4886c011c8a2918d98.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e4c6f4897614b0591c5c7fe5bc553cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838155&x-signature=WfcP1G4vHElg34TljPdMEgiFMDI%3D",
-          "file_name": "file_20240318_15_02_35_395790",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e4c6f4897614b0591c5c7fe5bc553cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838155&x-signature=WfcP1G4vHElg34TljPdMEgiFMDI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d76b91bc978d4086b495dbe2efb4ebaa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273665&x-signature=%2FmdjG5NqPOFDLOdpL8ptcXiSARc%3D",
+          "file_name": "file_20240323_16_01_05_233075",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d76b91bc978d4086b495dbe2efb4ebaa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273665&x-signature=%2FmdjG5NqPOFDLOdpL8ptcXiSARc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d76b91bc978d4086b495dbe2efb4ebaa.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e4c6f4897614b0591c5c7fe5bc553cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273665&x-signature=qAaF3tqL4nlZ22gPgkAkex9BldU%3D",
+          "file_name": "file_20240323_16_01_05_233119",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e4c6f4897614b0591c5c7fe5bc553cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273665&x-signature=qAaF3tqL4nlZ22gPgkAkex9BldU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5e4c6f4897614b0591c5c7fe5bc553cd.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db603f33e63440039f07a95e39f926ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273665&x-signature=6Ao7IWM8Hc0WPT%2Ba%2F1LAf6H%2FlMs%3D",
+          "file_name": "file_20240323_16_01_05_233142",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db603f33e63440039f07a95e39f926ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273665&x-signature=6Ao7IWM8Hc0WPT%2Ba%2F1LAf6H%2FlMs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/db603f33e63440039f07a95e39f926ae.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

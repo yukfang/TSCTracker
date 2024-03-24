@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1709225675,
   "deadline": 0,
@@ -120,7 +120,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Kyle,</p><p><br /></p><p>For <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CNCFDR3C77U2RKNCIN70?start_time=2024-02-24&amp;end_time=2024-03-01&amp;aadvid=7338835787410243586\" target=\"_blank\">pixel id CNCFDR3C77U2RKNCIN70</a>  I am seeing that AddToCart is firing multiple times, example from <a href=\"https://www.saucony.com/en/ride-17/58858W.html?dwvar_58858W_color=S10924-130#cgid=womens-gift-guide-for-working-out&amp;prefn1=isOnSale&amp;prefv1=false&amp;start=1\" target=\"_blank\">Saucony.com</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/130779f7f2664bd5803f10006361d232.png\" height=\"179.007\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/130779f7f2664bd5803f10006361d232.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838358&amp;x-signature=OoUOmwah6MeSmhomeJEIp5pxSg8%3D\" width=\"375\"><p>Also, the value parameter is returning as 'undefined':</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e9d2e0e763c84df5a6c92fcc185b369c.png\" height=\"491.72341600000004\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e9d2e0e763c84df5a6c92fcc185b369c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838358&amp;x-signature=GmsJUQxjRiUCFw9XG%2F5Sc6sttjk%3D\" width=\"327\"><p>could they please check the 'value' parameter and verify they are only passing in a number with no special characters?</p><p><br /></p><p>Checking 'CompletePayment' I am not seeing <a href=\"https://ads.tiktok.com/help/article/advanced-matching-web?lang=en\" target=\"_blank\">Automatic or Manual Advanced Matching</a> in place:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/271ff884fc0341439b1ef86cba5ac87d.png\" height=\"41.247\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/271ff884fc0341439b1ef86cba5ac87d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838358&amp;x-signature=%2BGfWqMhBKrtIdI24QlDrNSwu1pc%3D\" width=\"375\"><p>I would recommend they address the 1) event multiple fires 2) value parameter possible format issue and 3) advanced matching issues in that order. Please let me know if I can be of further help!</p><p><br /></p><p>Heidi</p></img></img></img>",
+          "content": "<p>Hi Kyle,</p><p><br /></p><p>For <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CNCFDR3C77U2RKNCIN70?start_time=2024-02-24&amp;end_time=2024-03-01&amp;aadvid=7338835787410243586\" target=\"_blank\">pixel id CNCFDR3C77U2RKNCIN70</a>  I am seeing that AddToCart is firing multiple times, example from <a href=\"https://www.saucony.com/en/ride-17/58858W.html?dwvar_58858W_color=S10924-130#cgid=womens-gift-guide-for-working-out&amp;prefn1=isOnSale&amp;prefv1=false&amp;start=1\" target=\"_blank\">Saucony.com</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/130779f7f2664bd5803f10006361d232.png\" height=\"179.007\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/130779f7f2664bd5803f10006361d232.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273876&amp;x-signature=5zSrTXgTrtHJFPG%2FfmHY0ch9FLY%3D\" width=\"375\"><p>Also, the value parameter is returning as 'undefined':</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e9d2e0e763c84df5a6c92fcc185b369c.png\" height=\"491.72341600000004\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e9d2e0e763c84df5a6c92fcc185b369c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273876&amp;x-signature=xtbPLZ7PX3Wdgi1GCro3gmJYJa0%3D\" width=\"327\"><p>could they please check the 'value' parameter and verify they are only passing in a number with no special characters?</p><p><br /></p><p>Checking 'CompletePayment' I am not seeing <a href=\"https://ads.tiktok.com/help/article/advanced-matching-web?lang=en\" target=\"_blank\">Automatic or Manual Advanced Matching</a> in place:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/271ff884fc0341439b1ef86cba5ac87d.png\" height=\"41.247\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/271ff884fc0341439b1ef86cba5ac87d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273876&amp;x-signature=jY0yNVAGtj%2F%2BbXa7LJc6dSIkuUY%3D\" width=\"375\"><p>I would recommend they address the 1) event multiple fires 2) value parameter possible format issue and 3) advanced matching issues in that order. Please let me know if I can be of further help!</p><p><br /></p><p>Heidi</p></img></img></img>",
           "type": 6
         }
       ],
@@ -357,7 +357,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1452296,
+  "pending_time": 1887814,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -531,25 +531,25 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/271ff884fc0341439b1ef86cba5ac87d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838358&x-signature=%2BGfWqMhBKrtIdI24QlDrNSwu1pc%3D",
-          "file_name": "file_20240318_15_05_58_785927",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/271ff884fc0341439b1ef86cba5ac87d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838358&x-signature=%2BGfWqMhBKrtIdI24QlDrNSwu1pc%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/271ff884fc0341439b1ef86cba5ac87d.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e9d2e0e763c84df5a6c92fcc185b369c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838358&x-signature=GmsJUQxjRiUCFw9XG%2F5Sc6sttjk%3D",
-          "file_name": "file_20240318_15_05_58_786043",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e9d2e0e763c84df5a6c92fcc185b369c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838358&x-signature=GmsJUQxjRiUCFw9XG%2F5Sc6sttjk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e9d2e0e763c84df5a6c92fcc185b369c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273876&x-signature=xtbPLZ7PX3Wdgi1GCro3gmJYJa0%3D",
+          "file_name": "file_20240323_16_04_36_485553",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e9d2e0e763c84df5a6c92fcc185b369c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273876&x-signature=xtbPLZ7PX3Wdgi1GCro3gmJYJa0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e9d2e0e763c84df5a6c92fcc185b369c.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/130779f7f2664bd5803f10006361d232.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838358&x-signature=OoUOmwah6MeSmhomeJEIp5pxSg8%3D",
-          "file_name": "file_20240318_15_05_58_786088",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/130779f7f2664bd5803f10006361d232.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838358&x-signature=OoUOmwah6MeSmhomeJEIp5pxSg8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/271ff884fc0341439b1ef86cba5ac87d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273876&x-signature=jY0yNVAGtj%2F%2BbXa7LJc6dSIkuUY%3D",
+          "file_name": "file_20240323_16_04_36_485641",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/271ff884fc0341439b1ef86cba5ac87d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273876&x-signature=jY0yNVAGtj%2F%2BbXa7LJc6dSIkuUY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/271ff884fc0341439b1ef86cba5ac87d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/130779f7f2664bd5803f10006361d232.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273876&x-signature=5zSrTXgTrtHJFPG%2FfmHY0ch9FLY%3D",
+          "file_name": "file_20240323_16_04_36_485658",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/130779f7f2664bd5803f10006361d232.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273876&x-signature=5zSrTXgTrtHJFPG%2FfmHY0ch9FLY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/130779f7f2664bd5803f10006361d232.png",
           "file_type": "jpeg",
           "biz_type": 2

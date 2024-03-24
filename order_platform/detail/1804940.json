@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Brooke, happy to take a look.</p><p><br /></p><p>Using their product <span style=\"color: #8A8A8A;\"><a href=\"https://ads.tiktok.com/catalogs/product?id=7262738807856940802&amp;bc_id=7091027137678917634\" target=\"_blank\">React Health Rio II Replacement Nasal Pillow for CPAP | CPAP Supplies</a> </span><span style=\"color: #222222;\">as an example, we're looking for a content_id value of 13075:</span></p><img alt=\"Screenshot 2024-01-10 at 1.02.32 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ad275f89f0c842ab9f22d653cc7f109d.png\" height=\"215.852\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ad275f89f0c842ab9f22d653cc7f109d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833258&amp;x-signature=62%2FRqppa1C4FfYDMdIRjvFpyvc8%3D\" width=\"375\"><p>The web Pixel event that takes place when I added this item to cart did capture <strong>value</strong> successfully, but <strong>content_id</strong> is still missing. I do however, see the correct content_id value we're looking for, 13075,  pushed to their GTM datalayer in the form of a variable called \"item_id\":</p><img alt=\"Screenshot 2024-01-10 at 1.00.25 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/03cae993002d4a03a49b0344ef632a8d.png\" height=\"142.633\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03cae993002d4a03a49b0344ef632a8d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833258&amp;x-signature=JW%2F2bcpCmIYJEoXbhOGUIxtJHOo%3D\" width=\"375\"><p>If this advertiser set up the Pixel and Events API through GTM, then they can pass through the {{item_id}} variable as the content_id parameter for AddToCart events. They can also use the <a href=\"https://github.com/tiktok/gtm-template-pixel\" target=\"_blank\">GTM template</a> that we have available to easily pick up values like content_id  from their E-Commerce datalayer at the time of the event. When using the template, this option can be selected like shown below:</p><img alt=\"68747470733a2f2f656c6567616e742d636972636c652d3334323730382e61732e722e61707073706f742e636f6d2f7374617469632f696d672f342d65655f312e706e67.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/40391386be964082b8827c5ebd0d1a04.png\" height=\"142.031\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40391386be964082b8827c5ebd0d1a04.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833258&amp;x-signature=F1NmvCN3Di4r2tT%2B1Ru22cv7KZQ%3D\" width=\"375\"><p>Let me know if they have any questions. Thanks!</p></img></img></img>",
+          "content": "<p>Hey Brooke, happy to take a look.</p><p><br /></p><p>Using their product <span style=\"color: #8A8A8A;\"><a href=\"https://ads.tiktok.com/catalogs/product?id=7262738807856940802&amp;bc_id=7091027137678917634\" target=\"_blank\">React Health Rio II Replacement Nasal Pillow for CPAP | CPAP Supplies</a> </span><span style=\"color: #222222;\">as an example, we're looking for a content_id value of 13075:</span></p><img alt=\"Screenshot 2024-01-10 at 1.02.32 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ad275f89f0c842ab9f22d653cc7f109d.png\" height=\"215.852\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ad275f89f0c842ab9f22d653cc7f109d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272848&amp;x-signature=LtWMP8Gu16TEvmNdPC%2FZZbjkGkQ%3D\" width=\"375\"><p>The web Pixel event that takes place when I added this item to cart did capture <strong>value</strong> successfully, but <strong>content_id</strong> is still missing. I do however, see the correct content_id value we're looking for, 13075,  pushed to their GTM datalayer in the form of a variable called \"item_id\":</p><img alt=\"Screenshot 2024-01-10 at 1.00.25 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/03cae993002d4a03a49b0344ef632a8d.png\" height=\"142.633\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03cae993002d4a03a49b0344ef632a8d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272848&amp;x-signature=QaBZSlE1Q3VQOQWU5oSZyiG%2FS%2F8%3D\" width=\"375\"><p>If this advertiser set up the Pixel and Events API through GTM, then they can pass through the {{item_id}} variable as the content_id parameter for AddToCart events. They can also use the <a href=\"https://github.com/tiktok/gtm-template-pixel\" target=\"_blank\">GTM template</a> that we have available to easily pick up values like content_id  from their E-Commerce datalayer at the time of the event. When using the template, this option can be selected like shown below:</p><img alt=\"68747470733a2f2f656c6567616e742d636972636c652d3334323730382e61732e722e61707073706f742e636f6d2f7374617469632f696d672f342d65655f312e706e67.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/40391386be964082b8827c5ebd0d1a04.png\" height=\"142.031\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40391386be964082b8827c5ebd0d1a04.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272848&amp;x-signature=TW1uh3reSBqAthnfr0OMqgQc3KY%3D\" width=\"375\"><p>Let me know if they have any questions. Thanks!</p></img></img></img>",
           "type": 6
         }
       ],
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Thank you Joey! This is the response. Looks like they fixed a couple things! Could you do a quick QA to make sure what they said they fixed, they did? </p><p><br /></p><p>See response here:</p><img alt=\"Screenshot 2024-01-12 at 3.15.29 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b7dd236280f1483fb25115d1f0b2bbb1.png\" height=\"89.402\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b7dd236280f1483fb25115d1f0b2bbb1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833258&amp;x-signature=2yiNaCvasqF9FT5UG%2BXm2CocgBE%3D\" width=\"375\" />",
+          "content": "<p>Thank you Joey! This is the response. Looks like they fixed a couple things! Could you do a quick QA to make sure what they said they fixed, they did? </p><p><br /></p><p>See response here:</p><img alt=\"Screenshot 2024-01-12 at 3.15.29 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b7dd236280f1483fb25115d1f0b2bbb1.png\" height=\"89.402\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b7dd236280f1483fb25115d1f0b2bbb1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272848&amp;x-signature=BNn4vvOZkwr1BUKEvlYblpHww9o%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Brooke, I see content_id coming through for the item example I used:</p><img alt=\"Screenshot 2024-01-12 at 4.36.20 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/94aa22dc4f6a43bb86a3638057e42a1d.png\" height=\"188.946\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94aa22dc4f6a43bb86a3638057e42a1d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833258&amp;x-signature=Vws%2FNQ8frfOujRP07PUxOJTC1SY%3D\" width=\"375\"><p>I'll do a more thorough QA when we come back next Tuesday, but we should expect to see match rates rise by then.</p></img>",
+          "content": "<p>Hey Brooke, I see content_id coming through for the item example I used:</p><img alt=\"Screenshot 2024-01-12 at 4.36.20 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/94aa22dc4f6a43bb86a3638057e42a1d.png\" height=\"188.946\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94aa22dc4f6a43bb86a3638057e42a1d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272848&amp;x-signature=Z8CkNt9PALkQGTZ6gepFnEEeMj4%3D\" width=\"375\"><p>I'll do a more thorough QA when we come back next Tuesday, but we should expect to see match rates rise by then.</p></img>",
           "type": 6
         }
       ],
@@ -149,7 +149,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Their match rates are at 93% for ATC events, which is optimal!</p><img alt=\"Screenshot 2024-01-17 at 1.08.30 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2b786b8a817844cc88d7332e7c777467.png\" height=\"165.911\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b786b8a817844cc88d7332e7c777467.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833258&amp;x-signature=mlgMnZAnRFOgwAK1xrCSnGpaCEs%3D\" width=\"375\"><p>They don't have anything for VC or CompletePayment which I think is intentional, but let me know if otherwise.</p></img>",
+          "content": "<p>Their match rates are at 93% for ATC events, which is optimal!</p><img alt=\"Screenshot 2024-01-17 at 1.08.30 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2b786b8a817844cc88d7332e7c777467.png\" height=\"165.911\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b786b8a817844cc88d7332e7c777467.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272848&amp;x-signature=KOuv6RedpRKNc2fzJTOC9DtsJ3g%3D\" width=\"375\"><p>They don't have anything for VC or CompletePayment which I think is intentional, but let me know if otherwise.</p></img>",
           "type": 6
         }
       ],
@@ -344,7 +344,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 4477872,
+  "pending_time": 4917462,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -526,49 +526,49 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40391386be964082b8827c5ebd0d1a04.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833258&x-signature=F1NmvCN3Di4r2tT%2B1Ru22cv7KZQ%3D",
-          "file_name": "file_20240318_13_40_58_308864",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40391386be964082b8827c5ebd0d1a04.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833258&x-signature=F1NmvCN3Di4r2tT%2B1Ru22cv7KZQ%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/40391386be964082b8827c5ebd0d1a04.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ad275f89f0c842ab9f22d653cc7f109d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833258&x-signature=62%2FRqppa1C4FfYDMdIRjvFpyvc8%3D",
-          "file_name": "file_20240318_13_40_58_309028",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ad275f89f0c842ab9f22d653cc7f109d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833258&x-signature=62%2FRqppa1C4FfYDMdIRjvFpyvc8%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/ad275f89f0c842ab9f22d653cc7f109d.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03cae993002d4a03a49b0344ef632a8d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833258&x-signature=JW%2F2bcpCmIYJEoXbhOGUIxtJHOo%3D",
-          "file_name": "file_20240318_13_40_58_309071",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03cae993002d4a03a49b0344ef632a8d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833258&x-signature=JW%2F2bcpCmIYJEoXbhOGUIxtJHOo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03cae993002d4a03a49b0344ef632a8d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272848&x-signature=QaBZSlE1Q3VQOQWU5oSZyiG%2FS%2F8%3D",
+          "file_name": "file_20240323_15_47_28_232292",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03cae993002d4a03a49b0344ef632a8d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272848&x-signature=QaBZSlE1Q3VQOQWU5oSZyiG%2FS%2F8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/03cae993002d4a03a49b0344ef632a8d.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b7dd236280f1483fb25115d1f0b2bbb1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833258&x-signature=2yiNaCvasqF9FT5UG%2BXm2CocgBE%3D",
-          "file_name": "file_20240318_13_40_58_356934",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b7dd236280f1483fb25115d1f0b2bbb1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833258&x-signature=2yiNaCvasqF9FT5UG%2BXm2CocgBE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40391386be964082b8827c5ebd0d1a04.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272848&x-signature=TW1uh3reSBqAthnfr0OMqgQc3KY%3D",
+          "file_name": "file_20240323_15_47_28_232363",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40391386be964082b8827c5ebd0d1a04.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272848&x-signature=TW1uh3reSBqAthnfr0OMqgQc3KY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/40391386be964082b8827c5ebd0d1a04.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ad275f89f0c842ab9f22d653cc7f109d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272848&x-signature=LtWMP8Gu16TEvmNdPC%2FZZbjkGkQ%3D",
+          "file_name": "file_20240323_15_47_28_232388",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ad275f89f0c842ab9f22d653cc7f109d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272848&x-signature=LtWMP8Gu16TEvmNdPC%2FZZbjkGkQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ad275f89f0c842ab9f22d653cc7f109d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b7dd236280f1483fb25115d1f0b2bbb1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272848&x-signature=BNn4vvOZkwr1BUKEvlYblpHww9o%3D",
+          "file_name": "file_20240323_15_47_28_297998",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b7dd236280f1483fb25115d1f0b2bbb1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272848&x-signature=BNn4vvOZkwr1BUKEvlYblpHww9o%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b7dd236280f1483fb25115d1f0b2bbb1.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94aa22dc4f6a43bb86a3638057e42a1d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833258&x-signature=Vws%2FNQ8frfOujRP07PUxOJTC1SY%3D",
-          "file_name": "file_20240318_13_40_58_387239",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94aa22dc4f6a43bb86a3638057e42a1d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833258&x-signature=Vws%2FNQ8frfOujRP07PUxOJTC1SY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94aa22dc4f6a43bb86a3638057e42a1d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272848&x-signature=Z8CkNt9PALkQGTZ6gepFnEEeMj4%3D",
+          "file_name": "file_20240323_15_47_28_329068",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94aa22dc4f6a43bb86a3638057e42a1d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272848&x-signature=Z8CkNt9PALkQGTZ6gepFnEEeMj4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/94aa22dc4f6a43bb86a3638057e42a1d.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b786b8a817844cc88d7332e7c777467.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833258&x-signature=mlgMnZAnRFOgwAK1xrCSnGpaCEs%3D",
-          "file_name": "file_20240318_13_40_58_442337",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b786b8a817844cc88d7332e7c777467.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833258&x-signature=mlgMnZAnRFOgwAK1xrCSnGpaCEs%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b786b8a817844cc88d7332e7c777467.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272848&x-signature=KOuv6RedpRKNc2fzJTOC9DtsJ3g%3D",
+          "file_name": "file_20240323_15_47_28_387916",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b786b8a817844cc88d7332e7c777467.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272848&x-signature=KOuv6RedpRKNc2fzJTOC9DtsJ3g%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2b786b8a817844cc88d7332e7c777467.png",
           "file_type": "jpeg",
           "biz_type": 2

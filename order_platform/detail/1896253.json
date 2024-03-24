@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1708704723,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Maria, </p><p><br /></p><p>I am not seeing an issue with the phone number formats when I check the data here:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ce3b7f2c4d094207a905054e0f104625.png\" height=\"94.012\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce3b7f2c4d094207a905054e0f104625.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838232&amp;x-signature=iH9ZsraUntUpkt9p%2BPdONRAtbcU%3D\" width=\"375\"><p>I also see the Event Health modal indicates PII including phone number is being passed correctly:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5058ea1fe65c4169b36ecb9184bb1e08.png\" height=\"351.293\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5058ea1fe65c4169b36ecb9184bb1e08.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838232&amp;x-signature=5Xe1uVbAUgCMvYkc%2FAiPNGHmHOA%3D\" width=\"375\"><p><br /></p><p>where are they seeing that the number isn't passed properly? Are they getting an error somewhere?</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "content": "<p>Hi Maria, </p><p><br /></p><p>I am not seeing an issue with the phone number formats when I check the data here:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ce3b7f2c4d094207a905054e0f104625.png\" height=\"94.012\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce3b7f2c4d094207a905054e0f104625.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273746&amp;x-signature=MDQThniXlcjnSS0QTsBgldSGkWI%3D\" width=\"375\"><p>I also see the Event Health modal indicates PII including phone number is being passed correctly:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5058ea1fe65c4169b36ecb9184bb1e08.png\" height=\"351.293\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5058ea1fe65c4169b36ecb9184bb1e08.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273746&amp;x-signature=jsnHV2jg%2Bz%2BTb90vePRY0iZakq8%3D\" width=\"375\"><p><br /></p><p>where are they seeing that the number isn't passed properly? Are they getting an error somewhere?</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
           "type": 6
         }
       ],
@@ -270,7 +270,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1024036,
+  "pending_time": 1459550,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -444,17 +444,17 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5058ea1fe65c4169b36ecb9184bb1e08.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838232&x-signature=5Xe1uVbAUgCMvYkc%2FAiPNGHmHOA%3D",
-          "file_name": "file_20240318_15_03_52_989158",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5058ea1fe65c4169b36ecb9184bb1e08.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838232&x-signature=5Xe1uVbAUgCMvYkc%2FAiPNGHmHOA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5058ea1fe65c4169b36ecb9184bb1e08.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273746&x-signature=jsnHV2jg%2Bz%2BTb90vePRY0iZakq8%3D",
+          "file_name": "file_20240323_16_02_26_961437",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5058ea1fe65c4169b36ecb9184bb1e08.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273746&x-signature=jsnHV2jg%2Bz%2BTb90vePRY0iZakq8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5058ea1fe65c4169b36ecb9184bb1e08.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce3b7f2c4d094207a905054e0f104625.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838232&x-signature=iH9ZsraUntUpkt9p%2BPdONRAtbcU%3D",
-          "file_name": "file_20240318_15_03_52_989219",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce3b7f2c4d094207a905054e0f104625.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838232&x-signature=iH9ZsraUntUpkt9p%2BPdONRAtbcU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce3b7f2c4d094207a905054e0f104625.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273746&x-signature=MDQThniXlcjnSS0QTsBgldSGkWI%3D",
+          "file_name": "file_20240323_16_02_26_961506",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ce3b7f2c4d094207a905054e0f104625.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273746&x-signature=MDQThniXlcjnSS0QTsBgldSGkWI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ce3b7f2c4d094207a905054e0f104625.png",
           "file_type": "jpeg",
           "biz_type": 2

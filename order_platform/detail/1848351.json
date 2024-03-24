@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1706636812,
   "deadline": 0,
@@ -64,7 +64,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Tess, each Athena ticket can be tied to only 1 adv account.</p><p>Please raise multiple athena ticket , 1 for each account.</p><p>For this ticket lets focus on optimum nutrition: Adv id : <span style=\"color: #3A61EE;\">7197549978762379265</span></p><p><span style=\"color: #222222;\">Currently they are at a signal score of 10, as they are sending only 2 events (view content and AddTocart)</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f745046a5f354730960d8cfbd16310c2.png\" height=\"166.082\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f745046a5f354730960d8cfbd16310c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832870&amp;x-signature=iB0MfLSsx2MQwrpOC4qHKsIRk8E%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a22a56ca82db4d62b3361ff419b02198.png\" height=\"187.162\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a22a56ca82db4d62b3361ff419b02198.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832870&amp;x-signature=G54Ve%2BGh1RMpBgNwaq10cFQu8X0%3D\" width=\"375\"><p><span style=\"color: #3A61EE;\"> </span></p><p><span style=\"color: #222222;\">Recommendation :</span></p><ol><li>Implement full funnel ViewContent, AddToCart, InitiateCheckout and CompetePayment</li><li>Send email/phone with every signal</li><li>implement events api. </li></ol><p>This would get them to 100 score.</p><p><br /></p><p>If possible schedule a call with dev team and I can brief them the process for above steps</p></img></img>",
+          "content": "<p>Hi Tess, each Athena ticket can be tied to only 1 adv account.</p><p>Please raise multiple athena ticket , 1 for each account.</p><p>For this ticket lets focus on optimum nutrition: Adv id : <span style=\"color: #3A61EE;\">7197549978762379265</span></p><p><span style=\"color: #222222;\">Currently they are at a signal score of 10, as they are sending only 2 events (view content and AddTocart)</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f745046a5f354730960d8cfbd16310c2.png\" height=\"166.082\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f745046a5f354730960d8cfbd16310c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273205&amp;x-signature=XA1INA%2FhM8A390oCmNdaUgucqIU%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a22a56ca82db4d62b3361ff419b02198.png\" height=\"187.162\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a22a56ca82db4d62b3361ff419b02198.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273205&amp;x-signature=BnMRCtEaatMohT5q09wzvTsD13M%3D\" width=\"375\"><p><span style=\"color: #3A61EE;\"> </span></p><p><span style=\"color: #222222;\">Recommendation :</span></p><ol><li>Implement full funnel ViewContent, AddToCart, InitiateCheckout and CompetePayment</li><li>Send email/phone with every signal</li><li>implement events api. </li></ol><p>This would get them to 100 score.</p><p><br /></p><p>If possible schedule a call with dev team and I can brief them the process for above steps</p></img></img>",
           "type": 6
         }
       ],
@@ -388,7 +388,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3521107,
+  "pending_time": 3961442,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -570,18 +570,18 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f745046a5f354730960d8cfbd16310c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832870&x-signature=iB0MfLSsx2MQwrpOC4qHKsIRk8E%3D",
-          "file_name": "file_20240318_13_34_30_274652",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f745046a5f354730960d8cfbd16310c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832870&x-signature=iB0MfLSsx2MQwrpOC4qHKsIRk8E%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/f745046a5f354730960d8cfbd16310c2.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a22a56ca82db4d62b3361ff419b02198.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273205&x-signature=BnMRCtEaatMohT5q09wzvTsD13M%3D",
+          "file_name": "file_20240323_15_53_25_351571",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a22a56ca82db4d62b3361ff419b02198.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273205&x-signature=BnMRCtEaatMohT5q09wzvTsD13M%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a22a56ca82db4d62b3361ff419b02198.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a22a56ca82db4d62b3361ff419b02198.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832870&x-signature=G54Ve%2BGh1RMpBgNwaq10cFQu8X0%3D",
-          "file_name": "file_20240318_13_34_30_274797",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a22a56ca82db4d62b3361ff419b02198.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832870&x-signature=G54Ve%2BGh1RMpBgNwaq10cFQu8X0%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/a22a56ca82db4d62b3361ff419b02198.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f745046a5f354730960d8cfbd16310c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273205&x-signature=XA1INA%2FhM8A390oCmNdaUgucqIU%3D",
+          "file_name": "file_20240323_15_53_25_351704",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f745046a5f354730960d8cfbd16310c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273205&x-signature=XA1INA%2FhM8A390oCmNdaUgucqIU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f745046a5f354730960d8cfbd16310c2.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

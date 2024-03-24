@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hello again Avery!</p><p><br /></p><p>I was able to take a look at their catalog and Pixel setup and found the following~</p><p>The good news here is that their ViewContent and AddToCart events are passing through a content_id almost 100% of the time, but our catalog match rate is very very low:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/21496dc61e0e4da2a57e86c16991eca2.png\" height=\"111.111\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21496dc61e0e4da2a57e86c16991eca2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837842&amp;x-signature=%2BkMrsJCQiqJ5luFzdWWaJvYs19Q%3D\" width=\"375\"><p>Let's have them refresh and update their catalogs, this may resolve these low match rates for the ViewContent and AddToCart event.</p><p><br /></p><p>However, the most important action item to address here is making sure that they're passing us back the mandatory VSA parameters for the CompletePayment event. They are only passing us back the value parameter for their CompletePayment event!</p><p><br /></p><p>Please let the advertiser know that they will need to update their CompletePayment to pass us back the same product information similar to what they are sending for the ViewContent and CompletePayment event.</p><p><br /></p><p>Example of a CompletePayment event with the required VSA parameters for a single item purchase:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/82ec189c86e74b33920a699522a8000e.png\" height=\"180.246\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82ec189c86e74b33920a699522a8000e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837842&amp;x-signature=Uq1sQLJ7qdGu%2B%2FpITLgkcwg%2FVDI%3D\" width=\"375\"><p>Example of a CompletePayment event with the required VSA parameters for a multi-item purchase:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/dc3919ea7408435298acf815271d2f02.png\" height=\"272.532\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc3919ea7408435298acf815271d2f02.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837842&amp;x-signature=KKFRmrf8MiXsviPRZWr4Jm36Pr4%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img></img></img>",
+          "content": "<p>Hello again Avery!</p><p><br /></p><p>I was able to take a look at their catalog and Pixel setup and found the following~</p><p>The good news here is that their ViewContent and AddToCart events are passing through a content_id almost 100% of the time, but our catalog match rate is very very low:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/21496dc61e0e4da2a57e86c16991eca2.png\" height=\"111.111\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21496dc61e0e4da2a57e86c16991eca2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273416&amp;x-signature=XzJLnzmpBrvsBjasdrYj3qjV9dE%3D\" width=\"375\"><p>Let's have them refresh and update their catalogs, this may resolve these low match rates for the ViewContent and AddToCart event.</p><p><br /></p><p>However, the most important action item to address here is making sure that they're passing us back the mandatory VSA parameters for the CompletePayment event. They are only passing us back the value parameter for their CompletePayment event!</p><p><br /></p><p>Please let the advertiser know that they will need to update their CompletePayment to pass us back the same product information similar to what they are sending for the ViewContent and CompletePayment event.</p><p><br /></p><p>Example of a CompletePayment event with the required VSA parameters for a single item purchase:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/82ec189c86e74b33920a699522a8000e.png\" height=\"180.246\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82ec189c86e74b33920a699522a8000e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273416&amp;x-signature=wZ1T6wg%2BPNeNg5%2FcodbEN2nXJos%3D\" width=\"375\"><p>Example of a CompletePayment event with the required VSA parameters for a multi-item purchase:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/dc3919ea7408435298acf815271d2f02.png\" height=\"272.532\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc3919ea7408435298acf815271d2f02.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273416&amp;x-signature=s9g2bQuKEP2NcaeA7Uf2xtt7mH8%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img></img></img>",
           "type": 6
         }
       ],
@@ -149,7 +149,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Avery,</p><p>Unfortunately they will need to make the changes to the Pixel and eAPI for their CompletePayment event. Without the required VSA parameters for the CompletePayment event, they will have almost a 0% match rate for this critical event:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/47bd08da0edc4ac38ff0a82c91907f01.png\" height=\"21.2\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/47bd08da0edc4ac38ff0a82c91907f01.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837842&amp;x-signature=cS0%2BI1cl8wYI%2F1S05eBBKck%2FVx4%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
+          "content": "<p>Hi Avery,</p><p>Unfortunately they will need to make the changes to the Pixel and eAPI for their CompletePayment event. Without the required VSA parameters for the CompletePayment event, they will have almost a 0% match rate for this critical event:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/47bd08da0edc4ac38ff0a82c91907f01.png\" height=\"21.2\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/47bd08da0edc4ac38ff0a82c91907f01.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273416&amp;x-signature=aYD1nOMzd93OEMOVM2rcopuE70g%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
           "type": 6
         }
       ],
@@ -204,7 +204,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_3e22227c-874f-445f-994e-058b6316303g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_3e22227c-874f-445f-994e-058b6316303g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 6,
   "current_role": null,
@@ -247,7 +247,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1124229,
+  "pending_time": 1559804,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -384,33 +384,33 @@
       "label": "Screenshot(s)",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21496dc61e0e4da2a57e86c16991eca2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837842&x-signature=%2BkMrsJCQiqJ5luFzdWWaJvYs19Q%3D",
-          "file_name": "file_20240318_14_57_22_283307",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21496dc61e0e4da2a57e86c16991eca2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837842&x-signature=%2BkMrsJCQiqJ5luFzdWWaJvYs19Q%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/21496dc61e0e4da2a57e86c16991eca2.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc3919ea7408435298acf815271d2f02.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837842&x-signature=KKFRmrf8MiXsviPRZWr4Jm36Pr4%3D",
-          "file_name": "file_20240318_14_57_22_283431",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc3919ea7408435298acf815271d2f02.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837842&x-signature=KKFRmrf8MiXsviPRZWr4Jm36Pr4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc3919ea7408435298acf815271d2f02.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273416&x-signature=s9g2bQuKEP2NcaeA7Uf2xtt7mH8%3D",
+          "file_name": "file_20240323_15_56_56_665030",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc3919ea7408435298acf815271d2f02.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273416&x-signature=s9g2bQuKEP2NcaeA7Uf2xtt7mH8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/dc3919ea7408435298acf815271d2f02.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82ec189c86e74b33920a699522a8000e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837842&x-signature=Uq1sQLJ7qdGu%2B%2FpITLgkcwg%2FVDI%3D",
-          "file_name": "file_20240318_14_57_22_283461",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82ec189c86e74b33920a699522a8000e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837842&x-signature=Uq1sQLJ7qdGu%2B%2FpITLgkcwg%2FVDI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21496dc61e0e4da2a57e86c16991eca2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273416&x-signature=XzJLnzmpBrvsBjasdrYj3qjV9dE%3D",
+          "file_name": "file_20240323_15_56_56_665094",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21496dc61e0e4da2a57e86c16991eca2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273416&x-signature=XzJLnzmpBrvsBjasdrYj3qjV9dE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/21496dc61e0e4da2a57e86c16991eca2.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82ec189c86e74b33920a699522a8000e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273416&x-signature=wZ1T6wg%2BPNeNg5%2FcodbEN2nXJos%3D",
+          "file_name": "file_20240323_15_56_56_665121",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82ec189c86e74b33920a699522a8000e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273416&x-signature=wZ1T6wg%2BPNeNg5%2FcodbEN2nXJos%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/82ec189c86e74b33920a699522a8000e.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/47bd08da0edc4ac38ff0a82c91907f01.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837842&x-signature=cS0%2BI1cl8wYI%2F1S05eBBKck%2FVx4%3D",
-          "file_name": "file_20240318_14_57_22_415441",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/47bd08da0edc4ac38ff0a82c91907f01.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837842&x-signature=cS0%2BI1cl8wYI%2F1S05eBBKck%2FVx4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/47bd08da0edc4ac38ff0a82c91907f01.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273416&x-signature=aYD1nOMzd93OEMOVM2rcopuE70g%3D",
+          "file_name": "file_20240323_15_56_56_863654",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/47bd08da0edc4ac38ff0a82c91907f01.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273416&x-signature=aYD1nOMzd93OEMOVM2rcopuE70g%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/47bd08da0edc4ac38ff0a82c91907f01.png",
           "file_type": "jpeg",
           "biz_type": 2

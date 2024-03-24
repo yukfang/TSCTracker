@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Hayley,</p><p>Thanks for reaching out! Happy to look into this for you. It seems like they've just got things setup and things are looking a bit bare:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5a11201d2e9f404aa368ff22d7ad10e8.png\" height=\"166.93\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a11201d2e9f404aa368ff22d7ad10e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832981&amp;x-signature=05Gc2bOeyLgInF1Lx2yRG8bSpp4%3D\" width=\"375\"><p>Their configured events also are not passing us back Hashed PII-</p><p>AddToCart:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/76bc4beebb18457a82164f74f5a6073a.png\" height=\"305.702\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/76bc4beebb18457a82164f74f5a6073a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832981&amp;x-signature=fywBmF9wrgepWvrBj6ffqinFYg0%3D\" width=\"375\"><p>CompletePayment:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c5dc254b63794656b322814647f60868.png\" height=\"305.556\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5dc254b63794656b322814647f60868.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832981&amp;x-signature=25EtRSotGA%2FCFFSJb0UCQlLnzxs%3D\" width=\"375\"><p>I've went ahead and created an Implementation Guide that you can share with the client directly. It will instuct them to add additional funnel events (ViewContent, AddToCart, CompleteRegistration, InitiateCheckout, AddPaymentInfo, CompletePayment) for a Web Pixel + eAPI with Manual Advanced Matching setup: <a href=\"https://bytedance.us.larkoffice.com/docx/LLvQd2dfpo0vPhxI3F2u836yszc\" target=\"_blank\">https://bytedance.us.larkoffice.com/docx/LLvQd2dfpo0vPhxI3F2u836yszc</a></p><p><br /></p><p>I'd also be more than happy to hop on a call with the Keurig team to address any questions they may have regarding setup.</p><p>Thanks!</p><p>Robbie</p></img></img></img>",
+          "content": "<p>Hi Hayley,</p><p>Thanks for reaching out! Happy to look into this for you. It seems like they've just got things setup and things are looking a bit bare:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5a11201d2e9f404aa368ff22d7ad10e8.png\" height=\"166.93\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a11201d2e9f404aa368ff22d7ad10e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273064&amp;x-signature=8BS7NZd4eyP5YnspkVFs9%2BNFQz4%3D\" width=\"375\"><p>Their configured events also are not passing us back Hashed PII-</p><p>AddToCart:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/76bc4beebb18457a82164f74f5a6073a.png\" height=\"305.702\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/76bc4beebb18457a82164f74f5a6073a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273064&amp;x-signature=wH37TD17wnIYl0CmIBBbY0IMgYY%3D\" width=\"375\"><p>CompletePayment:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c5dc254b63794656b322814647f60868.png\" height=\"305.556\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5dc254b63794656b322814647f60868.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273064&amp;x-signature=fYDnjQ5Pt7YEKzY1jY3L%2B5AEt5U%3D\" width=\"375\"><p>I've went ahead and created an Implementation Guide that you can share with the client directly. It will instuct them to add additional funnel events (ViewContent, AddToCart, CompleteRegistration, InitiateCheckout, AddPaymentInfo, CompletePayment) for a Web Pixel + eAPI with Manual Advanced Matching setup: <a href=\"https://bytedance.us.larkoffice.com/docx/LLvQd2dfpo0vPhxI3F2u836yszc\" target=\"_blank\">https://bytedance.us.larkoffice.com/docx/LLvQd2dfpo0vPhxI3F2u836yszc</a></p><p><br /></p><p>I'd also be more than happy to hop on a call with the Keurig team to address any questions they may have regarding setup.</p><p>Thanks!</p><p>Robbie</p></img></img></img>",
           "type": 6
         }
       ],
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Robbie - confirming your implementation guide was shared with clients last week + they jumped into the doc right away, so thanks again for that! I haven't heard anything else from that team since it was shared, but it does look like there's been some activity in TTAM (see below). Could 'Access Token Generated' mean they're beginning eAPI integration?</p><p><br /></p><img alt=\"Screenshot 2024-01-29 at 3.38.31 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bfc8e21131674ff4b8e3e0af9730c1e0.png\" height=\"88.915\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bfc8e21131674ff4b8e3e0af9730c1e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832981&amp;x-signature=h3b9uWsUKEJBZ9%2FM2joW1M5CXR8%3D\" width=\"375\" />",
+          "content": "<p>Robbie - confirming your implementation guide was shared with clients last week + they jumped into the doc right away, so thanks again for that! I haven't heard anything else from that team since it was shared, but it does look like there's been some activity in TTAM (see below). Could 'Access Token Generated' mean they're beginning eAPI integration?</p><p><br /></p><img alt=\"Screenshot 2024-01-29 at 3.38.31 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bfc8e21131674ff4b8e3e0af9730c1e0.png\" height=\"88.915\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bfc8e21131674ff4b8e3e0af9730c1e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273064&amp;x-signature=M1P5NzwMYeder4eH%2F84dmnaMKj0%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -120,7 +120,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Hayley,</p><p>Yes that's correct! This likely means that they have opened up their Tealium configuration pages and have generated an Access Token to provide in the eAPI Tealium Connector settings pages:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/90c1c7da592f49909259d8e454d4659f.png\" height=\"105.213\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/90c1c7da592f49909259d8e454d4659f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832981&amp;x-signature=%2FD7eG2MaXeISfl90%2B%2FqmIvlbGKM%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
+          "content": "<p>Hi Hayley,</p><p>Yes that's correct! This likely means that they have opened up their Tealium configuration pages and have generated an Access Token to provide in the eAPI Tealium Connector settings pages:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/90c1c7da592f49909259d8e454d4659f.png\" height=\"105.213\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/90c1c7da592f49909259d8e454d4659f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273064&amp;x-signature=DTPowJVTateSUh1%2BPwbL8zsRZ2Y%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
           "type": 6
         }
       ],
@@ -149,7 +149,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Amazing, I'll keep an eye on it for any updates.  Could that be why there's been a decline in events tracked since it was first set up?</p><p><br /></p><img alt=\"Screenshot 2024-01-29 at 5.49.21 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/965109d773c245d59ba056a7c9c4e7be.png\" height=\"130.963\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/965109d773c245d59ba056a7c9c4e7be.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832981&amp;x-signature=zSCLTQpsn%2BSWieOke1luPtxp8R0%3D\" width=\"375\" />",
+          "content": "<p>Amazing, I'll keep an eye on it for any updates.  Could that be why there's been a decline in events tracked since it was first set up?</p><p><br /></p><img alt=\"Screenshot 2024-01-29 at 5.49.21 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/965109d773c245d59ba056a7c9c4e7be.png\" height=\"130.963\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/965109d773c245d59ba056a7c9c4e7be.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273064&amp;x-signature=QI19vAb4xkgJUsaAvOqOsIDMqdc%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -207,7 +207,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Hayley,</p><p>Regarding the Pixel Sharing resource, yep! That is the best customer facing doc we can provide: https://ads.tiktok.com/help/article/pixel-sharing-business-center?lang=en</p><p>Unfortunately It does not look like they've completed implementation or have done so properly :(</p><p>But even more unfortunately it looks like we're also dealing with TTEM issues internally, this should hopefully be addressed in the next few hours. Currently cannot access the Event Health information for the Pixel to check for PII and Deduplication rates </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c62f9b0a41cc46aa9318e14c7382777f.png\" height=\"179.706\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c62f9b0a41cc46aa9318e14c7382777f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832981&amp;x-signature=P%2FJnNImQyBD%2BLOXDHU7XJpbAjLI%3D\" width=\"375\"><p>But from what is available for us to see in the meantime, we'll want to make sure they to address these items</p><ol><li>Ensure that Deduplication is setup correctly</li></ol><ul><ul><li>TikTok Developer documentation for reference: https://business-api.tiktok.com/portal/docs?id=1739584864945154</li><li>Tealium x TikTok Event Connector for API: https://docs.tealium.com/server-side-connectors/tiktok-events-connector/</li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5e0f43282cfa4b938d12027cc7238500.png\" height=\"261.613\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e0f43282cfa4b938d12027cc7238500.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832981&amp;x-signature=mnPDqKQXAJgKXdEXYJhZVgbeop8%3D\" width=\"375\"><ul><ul><li>Tealium x TikTok Client side tags: https://docs.tealium.com/client-side-tags/tiktok-pixel-tag/</li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/45400a298d0d40ada3457021c9480fb0.png\" height=\"140.792\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/45400a298d0d40ada3457021c9480fb0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832981&amp;x-signature=8lBFOxNub5YBCu2UIjDmbGT%2Bsvs%3D\" width=\"375\"><ol><li>Ensure that the CompletePayment event is used instead of PlaceAnOrder</li></ol><ul><ul><li>VBO (Value Based Optimization) activation relies on the CompletePayment event and the value parameter: https://ads.tiktok.com/help/article/value-based-optimization-web?lang=en</li><li>This will ensure the best possible future proofing for any Purchase conversion event related feature</li></ul></ul><ol><li>Setup a ViewContent event for PDP page view events</li><li>Add the remainder of the payment funnel events, InitiateCheckout and AddToCart</li></ol><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img>",
+          "content": "<p>Hi Hayley,</p><p>Regarding the Pixel Sharing resource, yep! That is the best customer facing doc we can provide: https://ads.tiktok.com/help/article/pixel-sharing-business-center?lang=en</p><p>Unfortunately It does not look like they've completed implementation or have done so properly :(</p><p>But even more unfortunately it looks like we're also dealing with TTEM issues internally, this should hopefully be addressed in the next few hours. Currently cannot access the Event Health information for the Pixel to check for PII and Deduplication rates </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c62f9b0a41cc46aa9318e14c7382777f.png\" height=\"179.706\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c62f9b0a41cc46aa9318e14c7382777f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273065&amp;x-signature=b%2Fo4FplH%2Bkg3nKflaU8UqNwwUJw%3D\" width=\"375\"><p>But from what is available for us to see in the meantime, we'll want to make sure they to address these items</p><ol><li>Ensure that Deduplication is setup correctly</li></ol><ul><ul><li>TikTok Developer documentation for reference: https://business-api.tiktok.com/portal/docs?id=1739584864945154</li><li>Tealium x TikTok Event Connector for API: https://docs.tealium.com/server-side-connectors/tiktok-events-connector/</li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5e0f43282cfa4b938d12027cc7238500.png\" height=\"261.613\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e0f43282cfa4b938d12027cc7238500.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273065&amp;x-signature=KQ1nInWyMcCKPZR5t6qCehI%2FlCk%3D\" width=\"375\"><ul><ul><li>Tealium x TikTok Client side tags: https://docs.tealium.com/client-side-tags/tiktok-pixel-tag/</li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/45400a298d0d40ada3457021c9480fb0.png\" height=\"140.792\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/45400a298d0d40ada3457021c9480fb0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273065&amp;x-signature=vyvvvsDXzx1Lvv%2FtwgK1Sm0kK3s%3D\" width=\"375\"><ol><li>Ensure that the CompletePayment event is used instead of PlaceAnOrder</li></ol><ul><ul><li>VBO (Value Based Optimization) activation relies on the CompletePayment event and the value parameter: https://ads.tiktok.com/help/article/value-based-optimization-web?lang=en</li><li>This will ensure the best possible future proofing for any Purchase conversion event related feature</li></ul></ul><ol><li>Setup a ViewContent event for PDP page view events</li><li>Add the remainder of the payment funnel events, InitiateCheckout and AddToCart</li></ol><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img>",
           "type": 6
         }
       ],
@@ -291,7 +291,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_5b513b28-66e8-4230-abe8-7dc8ced892bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_5b513b28-66e8-4230-abe8-7dc8ced892bg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 6,
   "current_role": null,
@@ -473,7 +473,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3434177,
+  "pending_time": 3874260,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -647,74 +647,74 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5dc254b63794656b322814647f60868.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=25EtRSotGA%2FCFFSJb0UCQlLnzxs%3D",
-          "file_name": "file_20240318_13_36_21_751862",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5dc254b63794656b322814647f60868.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=25EtRSotGA%2FCFFSJb0UCQlLnzxs%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/c5dc254b63794656b322814647f60868.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/76bc4beebb18457a82164f74f5a6073a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=fywBmF9wrgepWvrBj6ffqinFYg0%3D",
-          "file_name": "file_20240318_13_36_21_751946",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/76bc4beebb18457a82164f74f5a6073a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=fywBmF9wrgepWvrBj6ffqinFYg0%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/76bc4beebb18457a82164f74f5a6073a.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a11201d2e9f404aa368ff22d7ad10e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=05Gc2bOeyLgInF1Lx2yRG8bSpp4%3D",
-          "file_name": "file_20240318_13_36_21_751973",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a11201d2e9f404aa368ff22d7ad10e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=05Gc2bOeyLgInF1Lx2yRG8bSpp4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a11201d2e9f404aa368ff22d7ad10e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273064&x-signature=8BS7NZd4eyP5YnspkVFs9%2BNFQz4%3D",
+          "file_name": "file_20240323_15_51_04_823723",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a11201d2e9f404aa368ff22d7ad10e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273064&x-signature=8BS7NZd4eyP5YnspkVFs9%2BNFQz4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5a11201d2e9f404aa368ff22d7ad10e8.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bfc8e21131674ff4b8e3e0af9730c1e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=h3b9uWsUKEJBZ9%2FM2joW1M5CXR8%3D",
-          "file_name": "file_20240318_13_36_21_825169",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bfc8e21131674ff4b8e3e0af9730c1e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=h3b9uWsUKEJBZ9%2FM2joW1M5CXR8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/76bc4beebb18457a82164f74f5a6073a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273064&x-signature=wH37TD17wnIYl0CmIBBbY0IMgYY%3D",
+          "file_name": "file_20240323_15_51_04_823791",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/76bc4beebb18457a82164f74f5a6073a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273064&x-signature=wH37TD17wnIYl0CmIBBbY0IMgYY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/76bc4beebb18457a82164f74f5a6073a.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5dc254b63794656b322814647f60868.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273064&x-signature=fYDnjQ5Pt7YEKzY1jY3L%2B5AEt5U%3D",
+          "file_name": "file_20240323_15_51_04_823808",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5dc254b63794656b322814647f60868.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273064&x-signature=fYDnjQ5Pt7YEKzY1jY3L%2B5AEt5U%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c5dc254b63794656b322814647f60868.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bfc8e21131674ff4b8e3e0af9730c1e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273064&x-signature=M1P5NzwMYeder4eH%2F84dmnaMKj0%3D",
+          "file_name": "file_20240323_15_51_04_914008",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bfc8e21131674ff4b8e3e0af9730c1e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273064&x-signature=M1P5NzwMYeder4eH%2F84dmnaMKj0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/bfc8e21131674ff4b8e3e0af9730c1e0.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/90c1c7da592f49909259d8e454d4659f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=%2FD7eG2MaXeISfl90%2B%2FqmIvlbGKM%3D",
-          "file_name": "file_20240318_13_36_21_853776",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/90c1c7da592f49909259d8e454d4659f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=%2FD7eG2MaXeISfl90%2B%2FqmIvlbGKM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/90c1c7da592f49909259d8e454d4659f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273064&x-signature=DTPowJVTateSUh1%2BPwbL8zsRZ2Y%3D",
+          "file_name": "file_20240323_15_51_04_940993",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/90c1c7da592f49909259d8e454d4659f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273064&x-signature=DTPowJVTateSUh1%2BPwbL8zsRZ2Y%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/90c1c7da592f49909259d8e454d4659f.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/965109d773c245d59ba056a7c9c4e7be.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=zSCLTQpsn%2BSWieOke1luPtxp8R0%3D",
-          "file_name": "file_20240318_13_36_21_896100",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/965109d773c245d59ba056a7c9c4e7be.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=zSCLTQpsn%2BSWieOke1luPtxp8R0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/965109d773c245d59ba056a7c9c4e7be.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273064&x-signature=QI19vAb4xkgJUsaAvOqOsIDMqdc%3D",
+          "file_name": "file_20240323_15_51_04_985180",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/965109d773c245d59ba056a7c9c4e7be.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273064&x-signature=QI19vAb4xkgJUsaAvOqOsIDMqdc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/965109d773c245d59ba056a7c9c4e7be.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/45400a298d0d40ada3457021c9480fb0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=8lBFOxNub5YBCu2UIjDmbGT%2Bsvs%3D",
-          "file_name": "file_20240318_13_36_22_006528",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/45400a298d0d40ada3457021c9480fb0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=8lBFOxNub5YBCu2UIjDmbGT%2Bsvs%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/45400a298d0d40ada3457021c9480fb0.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e0f43282cfa4b938d12027cc7238500.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=mnPDqKQXAJgKXdEXYJhZVgbeop8%3D",
-          "file_name": "file_20240318_13_36_22_006612",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e0f43282cfa4b938d12027cc7238500.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=mnPDqKQXAJgKXdEXYJhZVgbeop8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e0f43282cfa4b938d12027cc7238500.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273065&x-signature=KQ1nInWyMcCKPZR5t6qCehI%2FlCk%3D",
+          "file_name": "file_20240323_15_51_05_093852",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5e0f43282cfa4b938d12027cc7238500.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273065&x-signature=KQ1nInWyMcCKPZR5t6qCehI%2FlCk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5e0f43282cfa4b938d12027cc7238500.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c62f9b0a41cc46aa9318e14c7382777f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=P%2FJnNImQyBD%2BLOXDHU7XJpbAjLI%3D",
-          "file_name": "file_20240318_13_36_22_006639",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c62f9b0a41cc46aa9318e14c7382777f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832981&x-signature=P%2FJnNImQyBD%2BLOXDHU7XJpbAjLI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c62f9b0a41cc46aa9318e14c7382777f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273065&x-signature=b%2Fo4FplH%2Bkg3nKflaU8UqNwwUJw%3D",
+          "file_name": "file_20240323_15_51_05_093970",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c62f9b0a41cc46aa9318e14c7382777f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273065&x-signature=b%2Fo4FplH%2Bkg3nKflaU8UqNwwUJw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c62f9b0a41cc46aa9318e14c7382777f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/45400a298d0d40ada3457021c9480fb0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273065&x-signature=vyvvvsDXzx1Lvv%2FtwgK1Sm0kK3s%3D",
+          "file_name": "file_20240323_15_51_05_093991",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/45400a298d0d40ada3457021c9480fb0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273065&x-signature=vyvvvsDXzx1Lvv%2FtwgK1Sm0kK3s%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/45400a298d0d40ada3457021c9480fb0.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

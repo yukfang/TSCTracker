@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1706213980,
   "deadline": 0,
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Isabel,</p><p><br /></p><p>I am not sure what problem they had with setting up the Events API, as their <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C282PTIQV140ORDI1N9G?start_time=2024-01-20&amp;end_time=2024-01-26&amp;from=ALL&amp;aadvid=6940286827949522945\" target=\"_blank\">pixel setup</a> looks mostly complete. I would highly suggest they set up Manual Advanced Matching as a good number of CompletePayment events are reporting without email, phone_number, or other way to match the action to the user (such as click_id):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7c772c902154451181ff49f40eab016b.png\" height=\"117.119\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7c772c902154451181ff49f40eab016b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832717&amp;x-signature=Vynh8HUOoGQmDLuF%2BN1GvP0JMOg%3D\" width=\"375\"><p>The CompletePayment events I've indicated with the smaller red boxes will be lost attributions for TikTok.</p><p><br /></p><p>The Google Tag Manager Events API template can be found here:</p><p><a href=\"https://github.com/tiktok/gtm-template-eapi\" target=\"_blank\">https://github.com/tiktok/gtm-template-eapi</a></p><p>Please pass this along to them in case they were not using it before, it will make the process easier.</p><p><br /></p><p>As for the offline events, they can get started here:</p><p><a href=\"https://business-api.tiktok.com/portal/docs?id=1758049779688450\" target=\"_blank\">https://business-api.tiktok.com/portal/docs?id=1758049779688450</a></p><p>Due to data privacy reasons, I would not be able to see their offline events or troubleshoot those. But I'm happy to get on a call and answer any Events API questions they have.</p><p><br /></p><p>Feel free to schedule time here: <a href=\"https://bytedance.larksuite.com/scheduler/74c8aaeecf93ed02\" target=\"_blank\">https://bytedance.larksuite.com/scheduler/74c8aaeecf93ed02</a></p><p>or create a Zoom meeting on your own as some clients are not able to join Lark meetings.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Isabel,</p><p><br /></p><p>I am not sure what problem they had with setting up the Events API, as their <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C282PTIQV140ORDI1N9G?start_time=2024-01-20&amp;end_time=2024-01-26&amp;from=ALL&amp;aadvid=6940286827949522945\" target=\"_blank\">pixel setup</a> looks mostly complete. I would highly suggest they set up Manual Advanced Matching as a good number of CompletePayment events are reporting without email, phone_number, or other way to match the action to the user (such as click_id):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7c772c902154451181ff49f40eab016b.png\" height=\"117.119\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7c772c902154451181ff49f40eab016b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273116&amp;x-signature=FHu%2BFxrWKhp9sYmelJh%2BGkP4nrc%3D\" width=\"375\"><p>The CompletePayment events I've indicated with the smaller red boxes will be lost attributions for TikTok.</p><p><br /></p><p>The Google Tag Manager Events API template can be found here:</p><p><a href=\"https://github.com/tiktok/gtm-template-eapi\" target=\"_blank\">https://github.com/tiktok/gtm-template-eapi</a></p><p>Please pass this along to them in case they were not using it before, it will make the process easier.</p><p><br /></p><p>As for the offline events, they can get started here:</p><p><a href=\"https://business-api.tiktok.com/portal/docs?id=1758049779688450\" target=\"_blank\">https://business-api.tiktok.com/portal/docs?id=1758049779688450</a></p><p>Due to data privacy reasons, I would not be able to see their offline events or troubleshoot those. But I'm happy to get on a call and answer any Events API questions they have.</p><p><br /></p><p>Feel free to schedule time here: <a href=\"https://bytedance.larksuite.com/scheduler/74c8aaeecf93ed02\" target=\"_blank\">https://bytedance.larksuite.com/scheduler/74c8aaeecf93ed02</a></p><p>or create a Zoom meeting on your own as some clients are not able to join Lark meetings.</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -128,9 +128,9 @@
             {
               "file_type": "pdf",
               "file_name": "[API for Business] - Marketing API Onboarding Guide.pdf",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ooJv8EgAMAYhAAkD2VAaWB2iBcVFZFWoi4LNB.pdf?lk3s=cbe26b3a&x-expires=4832832717&x-signature=jVLauOD7chZMeofpGYPHzpPpoZk%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ooJv8EgAMAYhAAkD2VAaWB2iBcVFZFWoi4LNB.pdf?lk3s=cbe26b3a&x-expires=4833273116&x-signature=teiHh97%2B4vWer5LWsVw9m8A3Hpk%3D",
               "file_key": "tos-alisg-v-90231e-sg/ooJv8EgAMAYhAAkD2VAaWB2iBcVFZFWoi4LNB.pdf",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ooJv8EgAMAYhAAkD2VAaWB2iBcVFZFWoi4LNB.pdf?lk3s=cbe26b3a&x-expires=4832832717&x-signature=jVLauOD7chZMeofpGYPHzpPpoZk%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ooJv8EgAMAYhAAkD2VAaWB2iBcVFZFWoi4LNB.pdf?lk3s=cbe26b3a&x-expires=4833273116&x-signature=teiHh97%2B4vWer5LWsVw9m8A3Hpk%3D",
               "biz_type": 2,
               "size": 0
             }
@@ -331,7 +331,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 499647,
+  "pending_time": 940047,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -505,9 +505,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7c772c902154451181ff49f40eab016b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832717&x-signature=Vynh8HUOoGQmDLuF%2BN1GvP0JMOg%3D",
-          "file_name": "file_20240318_13_31_57_719229",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7c772c902154451181ff49f40eab016b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832717&x-signature=Vynh8HUOoGQmDLuF%2BN1GvP0JMOg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7c772c902154451181ff49f40eab016b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273116&x-signature=FHu%2BFxrWKhp9sYmelJh%2BGkP4nrc%3D",
+          "file_name": "file_20240323_15_51_56_894701",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7c772c902154451181ff49f40eab016b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273116&x-signature=FHu%2BFxrWKhp9sYmelJh%2BGkP4nrc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7c772c902154451181ff49f40eab016b.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -515,9 +515,9 @@
         {
           "file_type": "pdf",
           "file_name": "[API for Business] - Marketing API Onboarding Guide.pdf",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ooJv8EgAMAYhAAkD2VAaWB2iBcVFZFWoi4LNB.pdf?lk3s=cbe26b3a&x-expires=4832832717&x-signature=jVLauOD7chZMeofpGYPHzpPpoZk%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ooJv8EgAMAYhAAkD2VAaWB2iBcVFZFWoi4LNB.pdf?lk3s=cbe26b3a&x-expires=4833273116&x-signature=teiHh97%2B4vWer5LWsVw9m8A3Hpk%3D",
           "file_key": "tos-alisg-v-90231e-sg/ooJv8EgAMAYhAAkD2VAaWB2iBcVFZFWoi4LNB.pdf",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ooJv8EgAMAYhAAkD2VAaWB2iBcVFZFWoi4LNB.pdf?lk3s=cbe26b3a&x-expires=4832832717&x-signature=jVLauOD7chZMeofpGYPHzpPpoZk%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ooJv8EgAMAYhAAkD2VAaWB2iBcVFZFWoi4LNB.pdf?lk3s=cbe26b3a&x-expires=4833273116&x-signature=teiHh97%2B4vWer5LWsVw9m8A3Hpk%3D",
           "biz_type": 2,
           "size": 0
         }

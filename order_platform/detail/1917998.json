@@ -72,12 +72,122 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710871276,
+      "auto_close_hit": 0,
+      "id": 7348135349203386000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Edgar Contreras",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7191880630828483586",
+      "name": "Edgar Contreras",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi, Client has the following questions to Install the API, can you please help us to send the response?</p><p><br></p><p><br><span style=\"color: #1F1F1F;\">For the idfa and idfv parameters, reading the documentation it is a data for the IOS platform, in the case of Android it sent them empty or they are not added to the Request And the following parameters, where will we obtain them?</span></p><p><br></p><p><span style=\"color: #1F1F1F;\">I stay Tuned</span></p><p><br></p><p><span style=\"color: #1F1F1F;\">edgar</span></p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Captura de pantalla 2024-03-15 a la(s) 11.37.37 a.m..png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/103b6b10a93c4c818af95a382ad01c11.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273951&x-signature=tnyTWxrQCtP1tTmrwq6IZWAkZ0Y%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/103b6b10a93c4c818af95a382ad01c11.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/103b6b10a93c4c818af95a382ad01c11.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273951&x-signature=tnyTWxrQCtP1tTmrwq6IZWAkZ0Y%3D",
+              "biz_type": 2,
+              "size": 53526
+            },
+            {
+              "file_type": "png",
+              "file_name": "Captura de pantalla 2024-03-15 a la(s) 11.40.21 a.m..png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a25d6348f545a9a8542f0136d72deb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273951&x-signature=cwEfchLCekoMX2YIRgtAeBYfsaI%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/83a25d6348f545a9a8542f0136d72deb.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a25d6348f545a9a8542f0136d72deb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273951&x-signature=cwEfchLCekoMX2YIRgtAeBYfsaI%3D",
+              "biz_type": 2,
+              "size": 63202
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_afed2353-b773-48be-9f5f-f7f98f79cdhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710966567,
+      "auto_close_hit": 0,
+      "id": 7348540759013999000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Edgar,</p><p>IDFA &amp; IDFV son datos que están disponibles para aplicaciones de iOS. Mientras que GAID es el equivalente para aplicaciones de Android.</p><p>La <a target=\"_blank\" href=\"https://business-api.tiktok.com/portal/docs?id=1771101111730178#item-link-Sample%20payload\">plantilla de muestra que vez aquí </a>incluye todos los parámetros que pueden ser usados, pero Coppel debe adaptarlo dependiendo su caso. Es decir:</p><ul><li>si están enviando los eventos directamente desde su aplicación de iOS, la carga incluirá solamente los parámetros relacionados con iOS, pero no los de Android.</li><li>Y por el otro lado, en los eventos provenientes de su aplicación Android, no incluirán parámetros de iOS.</li></ul><p>Con respecto a el objeto de Ad en la segunda imagen que pegaste, ellos pueden eliminar eso por completo de sus eventos ya que eso solo aplica cuando los eventos provienen de algún servidor de MMP.</p><p>Avisame si tienes alguna otra duda.<br>~Armando</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711134206,
+      "auto_close_hit": 0,
+      "id": 7349264566968271000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Edgar Contreras",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7191880630828483586",
+      "name": "Edgar Contreras",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hola Armand, buenas tardes!</p><p><br></p><p>Te paso la ultima duda de cliente:</p><p><br></p><p><span style=\"color: #222222;\">&#34;Revisando los parametros, en el apartado de user, me surgió la duda del siguiente parámetro:</span></p><p><br></p><p><br></p><p><span style=\"color: #222222;\">Me podrían ayudar para ver de dónde obtenerlo o si es necesario enviarlo.&#34;</span></p><p><br></p><p><span style=\"color: #222222;\">Sabes que le podría contestar a Coppel?</span></p><p><br></p><p><span style=\"color: #222222;\">Saludos</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_afed2353-b773-48be-9f5f-f7f98f79cdhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
-  "pending_from_follower": false,
+  "pending_from_follower": true,
   "id": 1917998,
   "workflow_nodes": [],
   "board_id": 1705151646989721,
@@ -97,9 +207,9 @@
   "type": 6,
   "current_role": null,
   "fd_permission": 1,
-  "status": 1,
+  "status": 2,
   "business_data": [],
-  "update_time": 1710370940,
+  "update_time": 1711134206,
   "owner_name": "Edgar Contreras",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -135,7 +245,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 403488,
+  "pending_time": 243385,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -277,7 +387,26 @@
     },
     {
       "label": "Screenshot",
-      "content": [],
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Captura de pantalla 2024-03-15 a la(s) 11.37.37 a.m..png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/103b6b10a93c4c818af95a382ad01c11.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273951&x-signature=tnyTWxrQCtP1tTmrwq6IZWAkZ0Y%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/103b6b10a93c4c818af95a382ad01c11.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/103b6b10a93c4c818af95a382ad01c11.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273951&x-signature=tnyTWxrQCtP1tTmrwq6IZWAkZ0Y%3D",
+          "biz_type": 2,
+          "size": 53526
+        },
+        {
+          "file_type": "png",
+          "file_name": "Captura de pantalla 2024-03-15 a la(s) 11.40.21 a.m..png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a25d6348f545a9a8542f0136d72deb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273951&x-signature=cwEfchLCekoMX2YIRgtAeBYfsaI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/83a25d6348f545a9a8542f0136d72deb.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a25d6348f545a9a8542f0136d72deb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273951&x-signature=cwEfchLCekoMX2YIRgtAeBYfsaI%3D",
+          "biz_type": 2,
+          "size": 63202
+        }
+      ],
       "valid": true,
       "item_id": 1746925407705105,
       "type": 5,

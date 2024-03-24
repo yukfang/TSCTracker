@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1754600307444754",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1708460210,
   "deadline": 0,
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Hailey,</p><p><br /></p><p>Checking <a href=\"https://ads.tiktok.com/catalogs/overview?id=7322881431863117569&amp;bc_id=7058019524053942273&amp;app_id=7058021113762168833\" target=\"_blank\">catalog id 7322881431863117569</a><span style=\"color: #333333;\"> </span>for <a href=\"https://bruntworkwear.com/\" target=\"_blank\">Brunt</a> I see the match rates for ViewContent (80%) and AddToCart (66%) are pretty good, while CompletePayment is excellent (96%):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png\" height=\"195.091\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838152&amp;x-signature=8nQGUjW3LM381fLbjYxa0NQvWN4%3D\" width=\"375\"><p>I also see the trajectory for event matching across events has vastly increased in the last week or so (see <a href=\"https://ads.tiktok.com/catalogs/event-sources?id=7322881431863117569&amp;bc_id=7058019524053942273&amp;path=event-sources-detail&amp;app_id=7058021113762168833\" target=\"_blank\">Event sources tab</a>):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0067093b7df1490d853052384368552b.png\" height=\"192.582\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0067093b7df1490d853052384368552b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838152&amp;x-signature=lfqGb4hhmfgcmccvRw97dfX3%2FAM%3D\" width=\"375\"><p>This is a great sign and we should continue to monitor their progress for ViewContent and AddToCart.</p><p><br /></p><p>I see a couple of issues the client should address:</p><p>The ViewContent and AddToCart events are firing twice</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png\" height=\"198.264\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838152&amp;x-signature=AJQCy42f6OWZdCauYM76KEojmyU%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png\" height=\"185.717\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838152&amp;x-signature=ROa2ZYU7%2F3ONyOIKU%2BTe1vZcev0%3D\" width=\"375\"><p>they should check their setup and make sure they do not have the events set to fire from two different places. </p><p><br /></p><p>Searching to make sure the products on the web site are also in the Catalog, I see some of the items on the site are not in Catalog, <a href=\"https://bruntworkwear.com/products/the-martin-pant-pack-2ch1br?variant=43074596733086\" target=\"_blank\">example</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c352547db6c74cfebaf39a034ce2e6e3.png\" height=\"193.036\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c352547db6c74cfebaf39a034ce2e6e3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838152&amp;x-signature=q%2Bprr3QlrailfLeBzpFRfixvQjc%3D\" width=\"375\"><p>They should update their catalog to make it is synced, and that will help match rates.</p><p><br /></p><p>Please let me know if there are further questions, and thanks for your patience!</p><p><br /></p><p>Heidi</p></img></img></img></img></img>",
+          "content": "<p>Hi Hailey,</p><p><br /></p><p>Checking <a href=\"https://ads.tiktok.com/catalogs/overview?id=7322881431863117569&amp;bc_id=7058019524053942273&amp;app_id=7058021113762168833\" target=\"_blank\">catalog id 7322881431863117569</a><span style=\"color: #333333;\"> </span>for <a href=\"https://bruntworkwear.com/\" target=\"_blank\">Brunt</a> I see the match rates for ViewContent (80%) and AddToCart (66%) are pretty good, while CompletePayment is excellent (96%):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png\" height=\"195.091\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273662&amp;x-signature=DDowYxOiCcbtZKrWzCGq07sQ1dE%3D\" width=\"375\"><p>I also see the trajectory for event matching across events has vastly increased in the last week or so (see <a href=\"https://ads.tiktok.com/catalogs/event-sources?id=7322881431863117569&amp;bc_id=7058019524053942273&amp;path=event-sources-detail&amp;app_id=7058021113762168833\" target=\"_blank\">Event sources tab</a>):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0067093b7df1490d853052384368552b.png\" height=\"192.582\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0067093b7df1490d853052384368552b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273662&amp;x-signature=q3c9tZRkqiugg01IfbYg3gd0coE%3D\" width=\"375\"><p>This is a great sign and we should continue to monitor their progress for ViewContent and AddToCart.</p><p><br /></p><p>I see a couple of issues the client should address:</p><p>The ViewContent and AddToCart events are firing twice</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png\" height=\"198.264\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273662&amp;x-signature=57O%2FGhUQArqUZ0%2B38BLZM6UYkZ0%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png\" height=\"185.717\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273662&amp;x-signature=uIeX7R%2FjJBZZPwAOKLhPl9cvgyA%3D\" width=\"375\"><p>they should check their setup and make sure they do not have the events set to fire from two different places. </p><p><br /></p><p>Searching to make sure the products on the web site are also in the Catalog, I see some of the items on the site are not in Catalog, <a href=\"https://bruntworkwear.com/products/the-martin-pant-pack-2ch1br?variant=43074596733086\" target=\"_blank\">example</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c352547db6c74cfebaf39a034ce2e6e3.png\" height=\"193.036\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c352547db6c74cfebaf39a034ce2e6e3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273662&amp;x-signature=AQ3I0BlY5PlV%2Fn%2FuHAOnqx8U2F0%3D\" width=\"375\"><p>They should update their catalog to make it is synced, and that will help match rates.</p><p><br /></p><p>Please let me know if there are further questions, and thanks for your patience!</p><p><br /></p><p>Heidi</p></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -99,18 +99,18 @@
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-03-01 at 3.07.09 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=iMbokqq0m4XEsBf1OXv6WACj3I8%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=7CTaehn3NtqCTKgWmBuofXGZTRY%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=iMbokqq0m4XEsBf1OXv6WACj3I8%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=7CTaehn3NtqCTKgWmBuofXGZTRY%3D",
               "biz_type": 2,
               "size": 430478
             },
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-03-01 at 3.08.14 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=gncokmbOj3aTyYo9YYW1T5OhkLw%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=bW3G4ywYJ4Wpwd9cFfOT1MNNRBM%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=gncokmbOj3aTyYo9YYW1T5OhkLw%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=bW3G4ywYJ4Wpwd9cFfOT1MNNRBM%3D",
               "biz_type": 2,
               "size": 95124
             }
@@ -172,7 +172,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Hailey, </p><p><br /></p><p>I see they are using Elevar as well as Shopify. Could you please confirm they did not create the pixel using the Shopify method? Per the documentation here, when using Elevar, the pixel should not be created by the Shopify method:</p><p><a href=\"https://docs.getelevar.com/docs/how-to-configure-tiktok-events-api-via-elevar-server-side-destination\" target=\"_blank\">https://docs.getelevar.com/docs/how-to-configure-tiktok-events-api-via-elevar-server-side-destination</a></p><p>I would not recommend they remove the pixel from the Shopify implementation. </p><p><br /></p><p>Regarding the concerns that CompletePayment events are firing multiple times as well, I pulled data for 5k events over the last two days, and I was not able to find any duplicate timestamps indicating this is the case:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/65873f8195644876b5b0ef5cbc94ce54.png\" height=\"82.627\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/65873f8195644876b5b0ef5cbc94ce54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838153&amp;x-signature=E7QqDX4igz8CKQv5ZX9Pah1NQbk%3D\" width=\"375\"><p>I would also expect to find that other match points, like Email, would repeat for those transactions, but I did not see that, either.</p><p><br /></p><p>With regards to the catalog, I see that the match rate has greatly increased in the last week or so:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/dc63d3cbf14d4463a31a270e8fa1c9c9.png\" height=\"214.286\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc63d3cbf14d4463a31a270e8fa1c9c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838153&amp;x-signature=ikmFDgiu%2BrHHh1u8UA3ajYNNLQA%3D\" width=\"375\"><p>For now, everything looks good with the catalog and the signals (browser- and server-side), with the exception of the event multiple fires. Let me investigate the issue further with my team and update you later on today.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "content": "<p>Hi Hailey, </p><p><br /></p><p>I see they are using Elevar as well as Shopify. Could you please confirm they did not create the pixel using the Shopify method? Per the documentation here, when using Elevar, the pixel should not be created by the Shopify method:</p><p><a href=\"https://docs.getelevar.com/docs/how-to-configure-tiktok-events-api-via-elevar-server-side-destination\" target=\"_blank\">https://docs.getelevar.com/docs/how-to-configure-tiktok-events-api-via-elevar-server-side-destination</a></p><p>I would not recommend they remove the pixel from the Shopify implementation. </p><p><br /></p><p>Regarding the concerns that CompletePayment events are firing multiple times as well, I pulled data for 5k events over the last two days, and I was not able to find any duplicate timestamps indicating this is the case:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/65873f8195644876b5b0ef5cbc94ce54.png\" height=\"82.627\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/65873f8195644876b5b0ef5cbc94ce54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273662&amp;x-signature=GET7%2BtJRpOxT5ND5hlWS9WEm%2BNw%3D\" width=\"375\"><p>I would also expect to find that other match points, like Email, would repeat for those transactions, but I did not see that, either.</p><p><br /></p><p>With regards to the catalog, I see that the match rate has greatly increased in the last week or so:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/dc63d3cbf14d4463a31a270e8fa1c9c9.png\" height=\"214.286\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc63d3cbf14d4463a31a270e8fa1c9c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273662&amp;x-signature=PS%2F9h6iU2U5IKd8eTUzN4Fwm%2F2o%3D\" width=\"375\"><p>For now, everything looks good with the catalog and the signals (browser- and server-side), with the exception of the event multiple fires. Let me investigate the issue further with my team and update you later on today.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
           "type": 6
         }
       ],
@@ -209,18 +209,18 @@
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-03-07 at 11.26.43 AM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=S8ds3NILp3tWdR517NoAgdN5H%2F8%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=8AZjeAWgu2R7A%2B3TxsPXerUY%2B%2BA%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=S8ds3NILp3tWdR517NoAgdN5H%2F8%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=8AZjeAWgu2R7A%2B3TxsPXerUY%2B%2BA%3D",
               "biz_type": 2,
               "size": 92908
             },
             {
               "file_type": "png",
               "file_name": "Screen Shot 2024-03-01 at 2.38.14 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=bSdE3JxxBk851d85IPZAEGXUxow%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=AZPlUj8619LV0Ycap57B6Ab3Zsw%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=bSdE3JxxBk851d85IPZAEGXUxow%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=AZPlUj8619LV0Ycap57B6Ab3Zsw%3D",
               "biz_type": 2,
               "size": 398304
             }
@@ -353,7 +353,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1016115,
+  "pending_time": 1451625,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -490,75 +490,75 @@
       "label": "Screenshot(s)",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=ROa2ZYU7%2F3ONyOIKU%2BTe1vZcev0%3D",
-          "file_name": "file_20240318_15_02_32_994091",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=ROa2ZYU7%2F3ONyOIKU%2BTe1vZcev0%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c352547db6c74cfebaf39a034ce2e6e3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=q%2Bprr3QlrailfLeBzpFRfixvQjc%3D",
-          "file_name": "file_20240318_15_02_32_994161",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c352547db6c74cfebaf39a034ce2e6e3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=q%2Bprr3QlrailfLeBzpFRfixvQjc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c352547db6c74cfebaf39a034ce2e6e3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=AQ3I0BlY5PlV%2Fn%2FuHAOnqx8U2F0%3D",
+          "file_name": "file_20240323_16_01_02_678711",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c352547db6c74cfebaf39a034ce2e6e3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=AQ3I0BlY5PlV%2Fn%2FuHAOnqx8U2F0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c352547db6c74cfebaf39a034ce2e6e3.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0067093b7df1490d853052384368552b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=lfqGb4hhmfgcmccvRw97dfX3%2FAM%3D",
-          "file_name": "file_20240318_15_02_32_994184",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0067093b7df1490d853052384368552b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=lfqGb4hhmfgcmccvRw97dfX3%2FAM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=uIeX7R%2FjJBZZPwAOKLhPl9cvgyA%3D",
+          "file_name": "file_20240323_16_01_02_678800",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=uIeX7R%2FjJBZZPwAOKLhPl9cvgyA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/fb2b2b26bece4c05bbb4fe9f2f97201e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0067093b7df1490d853052384368552b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=q3c9tZRkqiugg01IfbYg3gd0coE%3D",
+          "file_name": "file_20240323_16_01_02_678829",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0067093b7df1490d853052384368552b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=q3c9tZRkqiugg01IfbYg3gd0coE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0067093b7df1490d853052384368552b.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=AJQCy42f6OWZdCauYM76KEojmyU%3D",
-          "file_name": "file_20240318_15_02_32_994199",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=AJQCy42f6OWZdCauYM76KEojmyU%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=DDowYxOiCcbtZKrWzCGq07sQ1dE%3D",
+          "file_name": "file_20240323_16_01_02_678850",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=DDowYxOiCcbtZKrWzCGq07sQ1dE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=8nQGUjW3LM381fLbjYxa0NQvWN4%3D",
-          "file_name": "file_20240318_15_02_32_994213",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838152&x-signature=8nQGUjW3LM381fLbjYxa0NQvWN4%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/014b7af3d556450793c39809f8e2bad0.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=57O%2FGhUQArqUZ0%2B38BLZM6UYkZ0%3D",
+          "file_name": "file_20240323_16_01_02_678871",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=57O%2FGhUQArqUZ0%2B38BLZM6UYkZ0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/cd4c8dffa35c472aa203bceb6229a088.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-01 at 3.07.09 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=iMbokqq0m4XEsBf1OXv6WACj3I8%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=7CTaehn3NtqCTKgWmBuofXGZTRY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=iMbokqq0m4XEsBf1OXv6WACj3I8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2de9f49ed87145f99f6dcc525f91b881.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=7CTaehn3NtqCTKgWmBuofXGZTRY%3D",
           "biz_type": 2,
           "size": 430478
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-01 at 3.08.14 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=gncokmbOj3aTyYo9YYW1T5OhkLw%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=bW3G4ywYJ4Wpwd9cFfOT1MNNRBM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=gncokmbOj3aTyYo9YYW1T5OhkLw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0912cad7c9024ac9ab70c22c7a66c236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=bW3G4ywYJ4Wpwd9cFfOT1MNNRBM%3D",
           "biz_type": 2,
           "size": 95124
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc63d3cbf14d4463a31a270e8fa1c9c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=ikmFDgiu%2BrHHh1u8UA3ajYNNLQA%3D",
-          "file_name": "file_20240318_15_02_33_158674",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc63d3cbf14d4463a31a270e8fa1c9c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=ikmFDgiu%2BrHHh1u8UA3ajYNNLQA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc63d3cbf14d4463a31a270e8fa1c9c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=PS%2F9h6iU2U5IKd8eTUzN4Fwm%2F2o%3D",
+          "file_name": "file_20240323_16_01_02_835995",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc63d3cbf14d4463a31a270e8fa1c9c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=PS%2F9h6iU2U5IKd8eTUzN4Fwm%2F2o%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/dc63d3cbf14d4463a31a270e8fa1c9c9.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/65873f8195644876b5b0ef5cbc94ce54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=E7QqDX4igz8CKQv5ZX9Pah1NQbk%3D",
-          "file_name": "file_20240318_15_02_33_158743",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/65873f8195644876b5b0ef5cbc94ce54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=E7QqDX4igz8CKQv5ZX9Pah1NQbk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/65873f8195644876b5b0ef5cbc94ce54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=GET7%2BtJRpOxT5ND5hlWS9WEm%2BNw%3D",
+          "file_name": "file_20240323_16_01_02_836060",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/65873f8195644876b5b0ef5cbc94ce54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=GET7%2BtJRpOxT5ND5hlWS9WEm%2BNw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/65873f8195644876b5b0ef5cbc94ce54.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -566,18 +566,18 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-07 at 11.26.43 AM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=S8ds3NILp3tWdR517NoAgdN5H%2F8%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=8AZjeAWgu2R7A%2B3TxsPXerUY%2B%2BA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=S8ds3NILp3tWdR517NoAgdN5H%2F8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e24b5995093e409186540b08a4d3f98b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=8AZjeAWgu2R7A%2B3TxsPXerUY%2B%2BA%3D",
           "biz_type": 2,
           "size": 92908
         },
         {
           "file_type": "png",
           "file_name": "Screen Shot 2024-03-01 at 2.38.14 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=bSdE3JxxBk851d85IPZAEGXUxow%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=AZPlUj8619LV0Ycap57B6Ab3Zsw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838153&x-signature=bSdE3JxxBk851d85IPZAEGXUxow%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/00b53aa6013342b88c350cf72c308d63.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273662&x-signature=AZPlUj8619LV0Ycap57B6Ab3Zsw%3D",
           "biz_type": 2,
           "size": 398304
         }

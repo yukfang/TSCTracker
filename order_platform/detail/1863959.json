@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1707328127,
   "deadline": 0,
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Alexeus,</p><p><br /></p><p>When I check the PII for Daily Look <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C91VC69HLSUPN04HJ6KG?start_time=2024-02-03&amp;end_time=2024-02-09&amp;from=ALL&amp;aadvid=7071283919798239233\" target=\"_blank\">pixel id C91VC69HLSUPN04HJ6KG</a> I am seeing great PII coverage for 'CompletePayment':</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/48388086ca5648ff9e7c3f64c493ab89.png\" height=\"77.201\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48388086ca5648ff9e7c3f64c493ab89.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837797&amp;x-signature=KiwCgGGhz5hDt4siN62Qr7DRmFY%3D\" width=\"375\"><p>I see lesser coverage for the other lower-funnel events, but as we know many purchase flows don't ask for Email until the final payment step, so this is expected. </p><p><br /></p><p>I think it's the new measurement for PII that is throwing off the numbers. We should not be looking for Email to be reporting for all events like AddToCart, ViewContent, or PageView. </p><p><br /></p><p>Is there a way you can raise this feedback regarding the PII measurement?</p><p><br /></p><p>Other than that, I see that the client is using both client- and server-side events, which is great:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/954df7b9332e4243b0a3c3b9f40fa5d2.png\" height=\"393.62\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/954df7b9332e4243b0a3c3b9f40fa5d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837797&amp;x-signature=y1fWm8q2RJGyAwJk4ZB1ORehwXk%3D\" width=\"375\"><p>almost all of the CompletePayment events are coming from server-only, which is ok:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f79fa7b9471d44449405d88eb9f001b8.png\" height=\"81.683\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f79fa7b9471d44449405d88eb9f001b8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837797&amp;x-signature=%2BG506BHlOroLnwUQD0J0qpOw%2F8k%3D\" width=\"375\"><p>as the server events are much more reliable for tracking and this should increase the signal score more than pixel.</p><p><br /></p><p>Please let me know about the above question and let me know how I can be of further help!</p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
+          "content": "<p>Hi Alexeus,</p><p><br /></p><p>When I check the PII for Daily Look <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C91VC69HLSUPN04HJ6KG?start_time=2024-02-03&amp;end_time=2024-02-09&amp;from=ALL&amp;aadvid=7071283919798239233\" target=\"_blank\">pixel id C91VC69HLSUPN04HJ6KG</a> I am seeing great PII coverage for 'CompletePayment':</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/48388086ca5648ff9e7c3f64c493ab89.png\" height=\"77.201\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48388086ca5648ff9e7c3f64c493ab89.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273379&amp;x-signature=11VNI8zNi6oV%2B8Fm4%2Btu9owpXDM%3D\" width=\"375\"><p>I see lesser coverage for the other lower-funnel events, but as we know many purchase flows don't ask for Email until the final payment step, so this is expected. </p><p><br /></p><p>I think it's the new measurement for PII that is throwing off the numbers. We should not be looking for Email to be reporting for all events like AddToCart, ViewContent, or PageView. </p><p><br /></p><p>Is there a way you can raise this feedback regarding the PII measurement?</p><p><br /></p><p>Other than that, I see that the client is using both client- and server-side events, which is great:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/954df7b9332e4243b0a3c3b9f40fa5d2.png\" height=\"393.62\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/954df7b9332e4243b0a3c3b9f40fa5d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273379&amp;x-signature=MxSYemfgW3%2FkoYH375Xxf%2FNn5%2BE%3D\" width=\"375\"><p>almost all of the CompletePayment events are coming from server-only, which is ok:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f79fa7b9471d44449405d88eb9f001b8.png\" height=\"81.683\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f79fa7b9471d44449405d88eb9f001b8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273379&amp;x-signature=mbAjO%2Bf%2FactI1UaHuMk1d%2Bzq3rI%3D\" width=\"375\"><p>as the server events are much more reliable for tracking and this should increase the signal score more than pixel.</p><p><br /></p><p>Please let me know about the above question and let me know how I can be of further help!</p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
           "type": 6
         }
       ],
@@ -120,7 +120,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Heidi,</p><p><br /></p><p>Thank you for your response. </p><p><br /></p><p>I did escalate this up to our team however it is still showing on our end that the client's PII Coverage is only at 51%. I've included the screenshot below.  Do you know what steps the client can take to increase this? They have both manual and auto advanced matching turned on. Any other insights would be extremely helpful. </p><p><br /></p><img alt=\"Screenshot 2024-02-20 at 11.21.18 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/835daee3f2f742baa0c3567f69913028.png\" height=\"500.799\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/835daee3f2f742baa0c3567f69913028.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837797&amp;x-signature=QnyxWZU7U9Akbg5YV9pU7iFy91E%3D\" width=\"375\"><p><br /></p><p>Thanks!</p><p>Alexues</p></img>",
+          "content": "<p>Hey Heidi,</p><p><br /></p><p>Thank you for your response. </p><p><br /></p><p>I did escalate this up to our team however it is still showing on our end that the client's PII Coverage is only at 51%. I've included the screenshot below.  Do you know what steps the client can take to increase this? They have both manual and auto advanced matching turned on. Any other insights would be extremely helpful. </p><p><br /></p><img alt=\"Screenshot 2024-02-20 at 11.21.18 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/835daee3f2f742baa0c3567f69913028.png\" height=\"500.799\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/835daee3f2f742baa0c3567f69913028.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273379&amp;x-signature=8s3WoRgvenSx0yG6RwaL9ZfGBH8%3D\" width=\"375\"><p><br /></p><p>Thanks!</p><p>Alexues</p></img>",
           "type": 6
         }
       ],
@@ -576,7 +576,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1634942,
+  "pending_time": 2070525,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -750,33 +750,33 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48388086ca5648ff9e7c3f64c493ab89.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837797&x-signature=KiwCgGGhz5hDt4siN62Qr7DRmFY%3D",
-          "file_name": "file_20240318_14_56_37_372893",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48388086ca5648ff9e7c3f64c493ab89.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837797&x-signature=KiwCgGGhz5hDt4siN62Qr7DRmFY%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/48388086ca5648ff9e7c3f64c493ab89.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f79fa7b9471d44449405d88eb9f001b8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837797&x-signature=%2BG506BHlOroLnwUQD0J0qpOw%2F8k%3D",
-          "file_name": "file_20240318_14_56_37_372969",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f79fa7b9471d44449405d88eb9f001b8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837797&x-signature=%2BG506BHlOroLnwUQD0J0qpOw%2F8k%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/f79fa7b9471d44449405d88eb9f001b8.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/954df7b9332e4243b0a3c3b9f40fa5d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837797&x-signature=y1fWm8q2RJGyAwJk4ZB1ORehwXk%3D",
-          "file_name": "file_20240318_14_56_37_372989",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/954df7b9332e4243b0a3c3b9f40fa5d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837797&x-signature=y1fWm8q2RJGyAwJk4ZB1ORehwXk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/954df7b9332e4243b0a3c3b9f40fa5d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273379&x-signature=MxSYemfgW3%2FkoYH375Xxf%2FNn5%2BE%3D",
+          "file_name": "file_20240323_15_56_19_564289",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/954df7b9332e4243b0a3c3b9f40fa5d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273379&x-signature=MxSYemfgW3%2FkoYH375Xxf%2FNn5%2BE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/954df7b9332e4243b0a3c3b9f40fa5d2.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/835daee3f2f742baa0c3567f69913028.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837797&x-signature=QnyxWZU7U9Akbg5YV9pU7iFy91E%3D",
-          "file_name": "file_20240318_14_56_37_423441",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/835daee3f2f742baa0c3567f69913028.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837797&x-signature=QnyxWZU7U9Akbg5YV9pU7iFy91E%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48388086ca5648ff9e7c3f64c493ab89.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273379&x-signature=11VNI8zNi6oV%2B8Fm4%2Btu9owpXDM%3D",
+          "file_name": "file_20240323_15_56_19_564393",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48388086ca5648ff9e7c3f64c493ab89.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273379&x-signature=11VNI8zNi6oV%2B8Fm4%2Btu9owpXDM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/48388086ca5648ff9e7c3f64c493ab89.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f79fa7b9471d44449405d88eb9f001b8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273379&x-signature=mbAjO%2Bf%2FactI1UaHuMk1d%2Bzq3rI%3D",
+          "file_name": "file_20240323_15_56_19_564417",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f79fa7b9471d44449405d88eb9f001b8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273379&x-signature=mbAjO%2Bf%2FactI1UaHuMk1d%2Bzq3rI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f79fa7b9471d44449405d88eb9f001b8.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/835daee3f2f742baa0c3567f69913028.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273379&x-signature=8s3WoRgvenSx0yG6RwaL9ZfGBH8%3D",
+          "file_name": "file_20240323_15_56_19_616659",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/835daee3f2f742baa0c3567f69913028.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273379&x-signature=8s3WoRgvenSx0yG6RwaL9ZfGBH8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/835daee3f2f742baa0c3567f69913028.png",
           "file_type": "jpeg",
           "biz_type": 2

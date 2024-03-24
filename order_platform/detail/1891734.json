@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Neil,</p><p><br /></p><p>From checking the client's website and Pixel setup, it does appear that they have a Pixel that is firing events through Google Tag Manager:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e802c7eb05a34f81b18e26d886cb98e6.png\" height=\"153.476\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e802c7eb05a34f81b18e26d886cb98e6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838188&amp;x-signature=4myLxIsX64mx%2B0UBnR5R9JmO%2Bc0%3D\" width=\"375\"><p>Pixel ID: CN2E1O3C77U706ONVI9G</p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/CN2E1O3C77U706ONVI9G?start_time=2024-02-16&amp;end_time=2024-02-22&amp;from=ALL&amp;aadvid=7319971150753251330</p><p><br /></p><p>Were they trying to set up a new/different Pixel or were they able to make things work on their own?</p><p><br /></p><p>Thomas</p></img>",
+          "content": "<p>Hi Neil,</p><p><br /></p><p>From checking the client's website and Pixel setup, it does appear that they have a Pixel that is firing events through Google Tag Manager:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e802c7eb05a34f81b18e26d886cb98e6.png\" height=\"153.476\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e802c7eb05a34f81b18e26d886cb98e6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273699&amp;x-signature=h2r2WKTdjb5dteGA75t2cG88v0w%3D\" width=\"375\"><p>Pixel ID: CN2E1O3C77U706ONVI9G</p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/CN2E1O3C77U706ONVI9G?start_time=2024-02-16&amp;end_time=2024-02-22&amp;from=ALL&amp;aadvid=7319971150753251330</p><p><br /></p><p>Were they trying to set up a new/different Pixel or were they able to make things work on their own?</p><p><br /></p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -241,7 +241,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2133917,
+  "pending_time": 2569428,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -417,15 +417,15 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-21 at 4.12.03 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5a73c0d4f304b9d988e440362bfbc68.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838188&x-signature=kqMnaHIBCHKr8xchkuhvOVBK3kw%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5a73c0d4f304b9d988e440362bfbc68.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273699&x-signature=RJCvv8uO4T%2BcdfF8B6Ue7uM0arw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c5a73c0d4f304b9d988e440362bfbc68.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5a73c0d4f304b9d988e440362bfbc68.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838188&x-signature=kqMnaHIBCHKr8xchkuhvOVBK3kw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5a73c0d4f304b9d988e440362bfbc68.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273699&x-signature=RJCvv8uO4T%2BcdfF8B6Ue7uM0arw%3D",
           "size": 100723
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e802c7eb05a34f81b18e26d886cb98e6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838188&x-signature=4myLxIsX64mx%2B0UBnR5R9JmO%2Bc0%3D",
-          "file_name": "file_20240318_15_03_08_445679",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e802c7eb05a34f81b18e26d886cb98e6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838188&x-signature=4myLxIsX64mx%2B0UBnR5R9JmO%2Bc0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e802c7eb05a34f81b18e26d886cb98e6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273699&x-signature=h2r2WKTdjb5dteGA75t2cG88v0w%3D",
+          "file_name": "file_20240323_16_01_39_454379",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e802c7eb05a34f81b18e26d886cb98e6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273699&x-signature=h2r2WKTdjb5dteGA75t2cG88v0w%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e802c7eb05a34f81b18e26d886cb98e6.png",
           "file_type": "jpeg",
           "biz_type": 2

@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Aparna,</p><p><br /></p><p>After checking our data table samples it looks like the figures we are showing in Events Manager are accurate:</p><ul><li>Server Complete Payment events are not passing back email at all</li><li>Browser Complete Payment events are passing back email pretty consistently at around 88%. I've looked at the samples that don't have email and I don't detect any noticeable patterns.</li><li>One thing I did see is that they are passing back invalid content_type parameter. They are passing back essentially product descriptions e.g. \"monitor\" or \"mobile\". The accepted values are product or product_group. We can recommend they use the content_category parameter to pass back the product categories instead. They would need to address this for all of their Pixel events and not just Complete Payment. (see screenshot 2)</li></ul><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/aab0f12b2a7a4179be7f3b2cac04b0a2.png\" height=\"302.109\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aab0f12b2a7a4179be7f3b2cac04b0a2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875808&amp;x-signature=DCnCleoVj7Ac527WOSIg1XvdCRU%3D\" width=\"375\"><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3460fb6cc6cd40ea82c242323e4d2ea2.png\" height=\"556.159\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3460fb6cc6cd40ea82c242323e4d2ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875808&amp;x-signature=RGW%2BBYiS5AImIv%2B5egDCo9mMzIk%3D\" width=\"375\"><p><br /></p><p>Regards,</p><p>Thomas</p></img></img>",
+          "content": "<p>Hi Aparna,</p><p><br /></p><p>After checking our data table samples it looks like the figures we are showing in Events Manager are accurate:</p><ul><li>Server Complete Payment events are not passing back email at all</li><li>Browser Complete Payment events are passing back email pretty consistently at around 88%. I've looked at the samples that don't have email and I don't detect any noticeable patterns.</li><li>One thing I did see is that they are passing back invalid content_type parameter. They are passing back essentially product descriptions e.g. \"monitor\" or \"mobile\". The accepted values are product or product_group. We can recommend they use the content_category parameter to pass back the product categories instead. They would need to address this for all of their Pixel events and not just Complete Payment. (see screenshot 2)</li></ul><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/aab0f12b2a7a4179be7f3b2cac04b0a2.png\" height=\"302.109\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aab0f12b2a7a4179be7f3b2cac04b0a2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274152&amp;x-signature=ZMjWQONO5JuhwpPIkyJJFUGTjHk%3D\" width=\"375\"><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3460fb6cc6cd40ea82c242323e4d2ea2.png\" height=\"556.159\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3460fb6cc6cd40ea82c242323e4d2ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274152&amp;x-signature=G24ClXmO9oQAHPhtGJkuxDysQM4%3D\" width=\"375\"><p><br /></p><p>Regards,</p><p>Thomas</p></img></img>",
           "type": 6
         }
       ],
@@ -357,7 +357,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 17115,
+  "pending_time": 415459,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -533,23 +533,23 @@
         {
           "file_type": "jpeg",
           "file_name": "20240313-131439.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c25b273c6321483a9dfc0c25a038a1eb.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875808&x-signature=pHjS7KbfyGeWZlZkoKKJxN%2FqjFg%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c25b273c6321483a9dfc0c25a038a1eb.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274152&x-signature=WsjZaXtK54IqdOZ9fdGqibQ5Jhk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c25b273c6321483a9dfc0c25a038a1eb.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c25b273c6321483a9dfc0c25a038a1eb.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875808&x-signature=pHjS7KbfyGeWZlZkoKKJxN%2FqjFg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c25b273c6321483a9dfc0c25a038a1eb.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274152&x-signature=WsjZaXtK54IqdOZ9fdGqibQ5Jhk%3D",
           "size": 103747
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aab0f12b2a7a4179be7f3b2cac04b0a2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875808&x-signature=DCnCleoVj7Ac527WOSIg1XvdCRU%3D",
-          "file_name": "file_20240319_01_30_09_011609",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aab0f12b2a7a4179be7f3b2cac04b0a2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875808&x-signature=DCnCleoVj7Ac527WOSIg1XvdCRU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aab0f12b2a7a4179be7f3b2cac04b0a2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274152&x-signature=ZMjWQONO5JuhwpPIkyJJFUGTjHk%3D",
+          "file_name": "file_20240323_16_09_12_952897",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aab0f12b2a7a4179be7f3b2cac04b0a2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274152&x-signature=ZMjWQONO5JuhwpPIkyJJFUGTjHk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/aab0f12b2a7a4179be7f3b2cac04b0a2.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3460fb6cc6cd40ea82c242323e4d2ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875808&x-signature=RGW%2BBYiS5AImIv%2B5egDCo9mMzIk%3D",
-          "file_name": "file_20240319_01_30_09_011690",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3460fb6cc6cd40ea82c242323e4d2ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875808&x-signature=RGW%2BBYiS5AImIv%2B5egDCo9mMzIk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3460fb6cc6cd40ea82c242323e4d2ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274152&x-signature=G24ClXmO9oQAHPhtGJkuxDysQM4%3D",
+          "file_name": "file_20240323_16_09_12_952950",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3460fb6cc6cd40ea82c242323e4d2ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274152&x-signature=G24ClXmO9oQAHPhtGJkuxDysQM4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/3460fb6cc6cd40ea82c242323e4d2ea2.png",
           "file_type": "jpeg",
           "biz_type": 2

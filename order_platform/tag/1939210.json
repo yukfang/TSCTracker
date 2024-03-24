@@ -1,0 +1,13 @@
+[
+  {
+    "id": "38200000017",
+    "name": "Assigned to Vendor",
+    "sub_tags": [
+      {
+        "id": "38300000186",
+        "name": "SignalSight"
+      }
+    ],
+    "color": "#f5a623"
+  }
+]

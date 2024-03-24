@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Brooke, confirming receipt. Can you confirm that they set up the SFMC CRM integration?</p><p>They can do so by going to their SFMC interface and going to AppExchange &gt; TikTok Lead Ads:</p><p>And this will prompt them to the TikTok SFMC app within Salesforce to grant authorization and connect the ad account:</p><img alt=\"Screenshot 2024-02-13 at 11.03.52 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f0673f6700bd4b29937f163cd9bd953a.png\" height=\"170.05\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f0673f6700bd4b29937f163cd9bd953a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837930&amp;x-signature=zF6LAGKRAbF8f6eOJ1npwI6L9KI%3D\" width=\"375\"><p>If they confirm that they've followed the entire connection flow above, I can then jump in to help further.</p></img>",
+          "content": "<p>Hey Brooke, confirming receipt. Can you confirm that they set up the SFMC CRM integration?</p><p>They can do so by going to their SFMC interface and going to AppExchange &gt; TikTok Lead Ads:</p><p>And this will prompt them to the TikTok SFMC app within Salesforce to grant authorization and connect the ad account:</p><img alt=\"Screenshot 2024-02-13 at 11.03.52 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f0673f6700bd4b29937f163cd9bd953a.png\" height=\"170.05\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f0673f6700bd4b29937f163cd9bd953a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273477&amp;x-signature=tWIKCojrZhHpWePUHpM4DMuHYrk%3D\" width=\"375\"><p>If they confirm that they've followed the entire connection flow above, I can then jump in to help further.</p></img>",
           "type": 6
         }
       ],
@@ -178,7 +178,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Joey - Invisalign did a custom integration so they've already gone through the flow you sent through. </p><p><br>This is what they just sent back: </br></p><p><span style=\"color: #222222;\">Quick follow up. I’ve been trying to submit a few test leads for both of our forms the past hour and am having difficulty both in platform and via the QR code.</span></p><p><span style=\"color: #222222;\"> </span></p><p><span style=\"color: #222222;\">When using the QR code:</span></p><p><span style=\"color: #222222;\"> </span></p><p><span style=\"color: #222222;\">The control form will not let me submit the test lead due to not being logged in, however, does not give me an option to log in anywhere. The question card form appears to get stuck on the image selection card and will not progress.</span></p><p><span style=\"color: #222222;\"> </span></p><p><span style=\"color: #222222;\">And when trying to submit via web platform – neither form will let me write in any values for email etc, so we cannot verify either at this point.</span></p><p><span style=\"color: #222222;\"> </span></p><p><span style=\"color: #222222;\">Can your team take a look, or perhaps submit test leads on your end and relay the email addresses used so that we can look up n SFDC?</span></p><p><span style=\"color: #222222;\"> </span></p><img alt=\"image001 (5).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/26a4af35b41a4d7b80d02136c6839669.png\" height=\"812.977\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26a4af35b41a4d7b80d02136c6839669.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837930&amp;x-signature=T3%2Fvyz29qqQz9WngwkAz4hvrywY%3D\" width=\"375\" />",
+          "content": "<p>Hi Joey - Invisalign did a custom integration so they've already gone through the flow you sent through. </p><p><br>This is what they just sent back: </br></p><p><span style=\"color: #222222;\">Quick follow up. I’ve been trying to submit a few test leads for both of our forms the past hour and am having difficulty both in platform and via the QR code.</span></p><p><span style=\"color: #222222;\"> </span></p><p><span style=\"color: #222222;\">When using the QR code:</span></p><p><span style=\"color: #222222;\"> </span></p><p><span style=\"color: #222222;\">The control form will not let me submit the test lead due to not being logged in, however, does not give me an option to log in anywhere. The question card form appears to get stuck on the image selection card and will not progress.</span></p><p><span style=\"color: #222222;\"> </span></p><p><span style=\"color: #222222;\">And when trying to submit via web platform – neither form will let me write in any values for email etc, so we cannot verify either at this point.</span></p><p><span style=\"color: #222222;\"> </span></p><p><span style=\"color: #222222;\">Can your team take a look, or perhaps submit test leads on your end and relay the email addresses used so that we can look up n SFDC?</span></p><p><span style=\"color: #222222;\"> </span></p><img alt=\"image001 (5).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/26a4af35b41a4d7b80d02136c6839669.png\" height=\"812.977\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26a4af35b41a4d7b80d02136c6839669.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273478&amp;x-signature=G9tG35Ac99eYijy4j3znAWnhruU%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -271,6 +271,37 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710882871,
+      "auto_close_hit": 0,
+      "id": 7348185162510877000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Brooke Baldwin716",
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": 7109093028779230000,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Brooke! I&#39;m going to close this ticket out due to inactivity.</p><p>If they have any implementation-related questions, please create a new ticket under <a target=\"_blank\" href=\"https://ads.tiktok.com/athena/requester/boards?identify_key=56482366f70c4340bdc6fef12d2624f32043c69ae748816427c4faaec4d33531\">MPO Technical Implementation</a>. Specific product/troubleshooting requests can be filed as a <a target=\"_blank\" href=\"1823610\">TPS ticket</a>. Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -296,13 +327,13 @@
   "type": -1,
   "current_role": null,
   "fd_permission": 1,
-  "status": 1,
+  "status": 3,
   "business_data": [],
-  "update_time": 1708631539,
+  "update_time": 1710882895,
   "owner_name": "Brooke Baldwin",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
-  "swim_lane_status": 4,
+  "swim_lane_status": 5,
   "enable_forced_order_tag": 1,
   "satisfied": 0,
   "category_2_name": "",
@@ -341,7 +372,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2142390,
+  "pending_time": 326583,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -504,23 +535,23 @@
         {
           "file_type": "png",
           "file_name": "image001 (4).png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95b33ab5f2ee47868a7fb4fe67a5bc32.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837930&x-signature=0ZpsmZW0olX5OfwdkMKZbZEu%2FkM%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95b33ab5f2ee47868a7fb4fe67a5bc32.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273477&x-signature=0n7n5hB1dw9Riw6w9Eq0MxspACw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/95b33ab5f2ee47868a7fb4fe67a5bc32.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95b33ab5f2ee47868a7fb4fe67a5bc32.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837930&x-signature=0ZpsmZW0olX5OfwdkMKZbZEu%2FkM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95b33ab5f2ee47868a7fb4fe67a5bc32.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273477&x-signature=0n7n5hB1dw9Riw6w9Eq0MxspACw%3D",
           "size": 1384844
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f0673f6700bd4b29937f163cd9bd953a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837930&x-signature=zF6LAGKRAbF8f6eOJ1npwI6L9KI%3D",
-          "file_name": "file_20240318_14_58_50_255167",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f0673f6700bd4b29937f163cd9bd953a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837930&x-signature=zF6LAGKRAbF8f6eOJ1npwI6L9KI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f0673f6700bd4b29937f163cd9bd953a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273477&x-signature=tWIKCojrZhHpWePUHpM4DMuHYrk%3D",
+          "file_name": "file_20240323_15_57_57_991985",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f0673f6700bd4b29937f163cd9bd953a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273477&x-signature=tWIKCojrZhHpWePUHpM4DMuHYrk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/f0673f6700bd4b29937f163cd9bd953a.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26a4af35b41a4d7b80d02136c6839669.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837930&x-signature=T3%2Fvyz29qqQz9WngwkAz4hvrywY%3D",
-          "file_name": "file_20240318_14_58_50_520250",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26a4af35b41a4d7b80d02136c6839669.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837930&x-signature=T3%2Fvyz29qqQz9WngwkAz4hvrywY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26a4af35b41a4d7b80d02136c6839669.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273478&x-signature=G9tG35Ac99eYijy4j3znAWnhruU%3D",
+          "file_name": "file_20240323_15_57_58_124020",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/26a4af35b41a4d7b80d02136c6839669.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273478&x-signature=G9tG35Ac99eYijy4j3znAWnhruU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/26a4af35b41a4d7b80d02136c6839669.png",
           "file_type": "jpeg",
           "biz_type": 2

@@ -39,6 +39,37 @@
       ],
       "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_0162c1d8-09aa-4ff3-8f25-99db332d7bhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710830870,
+      "auto_close_hit": 0,
+      "id": 7347960868350509000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "فانيسا شربل نجم",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7163931413875328002",
+      "name": "فانيسا شربل نجم",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><strong>[Status Update]</strong></p><p><br></p><p>Client Call Mar 19</p><ul><li>We relayed the above points to the client</li><li>They didn&#39;t have access to GTM but they will relay the recommendations to the relevant person</li></ul><ul><li>For Manual AM, they will need to save that in the datalayer so we can capture it in GTM</li><li>For eAPI, this is the <a target=\"_blank\" href=\"https://business-api.tiktok.com/portal/docs?id=1772372080226305\">documentation</a> they can check beforehand. They will need a server container, a tagging server, and GA4 tags. Then I can assist in the server events tags implementation</li></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_0162c1d8-09aa-4ff3-8f25-99db332d7bhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -66,7 +97,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1710772691,
+  "update_time": 1710830870,
   "owner_name": "يارا فؤاد سعد",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -168,7 +199,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1995,
+  "pending_time": 379352,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [

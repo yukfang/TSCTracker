@@ -39,6 +39,37 @@
       ],
       "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_0162c1d8-09aa-4ff3-8f25-99db332d7bhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710854026,
+      "auto_close_hit": 0,
+      "id": 7348060829985604000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "فانيسا شربل نجم",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7163931413875328002",
+      "name": "فانيسا شربل نجم",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><strong>[Status Update]</strong></p><p><br></p><p>Client call 19 March</p><p><br></p><p>SAN transition setup in MMP done</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_0162c1d8-09aa-4ff3-8f25-99db332d7bhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -61,14 +92,14 @@
     0
   ],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_23d62077-d5fd-496d-9caf-24cd60b6edeg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_23d62077-d5fd-496d-9caf-24cd60b6edeg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 6,
   "current_role": null,
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1710774475,
+  "update_time": 1710854026,
   "owner_name": "Nicole Frenn",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -104,7 +135,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 246,
+  "pending_time": 356233,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [

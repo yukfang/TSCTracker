@@ -294,7 +294,65 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Ronny, I don't see any server-side events coming through:</p><img alt=\"Screenshot 2024-03-13 at 2.16.18 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/deb5508d61e6483dbccbf26f19a1159b.png\" height=\"155.679\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/deb5508d61e6483dbccbf26f19a1159b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838054&amp;x-signature=Ya2CSY%2FYdkJAyiL9e7r1GxujXZo%3D\" width=\"375\"><p>When did they say they pushed the updates to prod?</p></img>",
+          "content": "<p>Hey Ronny, I don't see any server-side events coming through:</p><img alt=\"Screenshot 2024-03-13 at 2.16.18 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/deb5508d61e6483dbccbf26f19a1159b.png\" height=\"155.679\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/deb5508d61e6483dbccbf26f19a1159b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273577&amp;x-signature=lmkUQcRgJhaFTjVzSpxX7okwi4I%3D\" width=\"375\"><p>When did they say they pushed the updates to prod?</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710891322,
+      "auto_close_hit": 0,
+      "id": 7348213352897888000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ronny Latimore",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7121762342183076865",
+      "name": "Ronny Latimore",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Joey,</p><p><br></p><p>Sorry for the late response. I thought I sent over their response and I am just realizing this.</p><p><br></p><p>Connected with the client back then and they jumped the gun when telling me they went live in production. They said what Tuesday (today) is the scheduled day when they are going live. If you don&#39;t mind, could you check to see if this is reflected on their end?</p><p><br></p><p>Thank you</p><p><br></p><p>Ronny</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_241de643-1f4c-4cb9-9b4a-02e47537702g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711125610,
+      "auto_close_hit": 0,
+      "id": 7349226997421326000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #222222;\">Hey Ronny, I still don&#39;t see any inbound EAPI events received. If they pushed to prod, can you make sure they&#39;re using the right Pixel code (CBG2QCJC77UEDSB4A2F0) as well as confirm how they&#39;ve tested the EAPI events prior to pushing to prod?</span></p>",
           "type": 6
         }
       ],
@@ -322,14 +380,14 @@
     0
   ],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/288ae658-7dca-45ea-aad8-d72686ab180g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_b747e87a-46b5-4d66-9e99-d91c6c2295ch~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": -1,
   "current_role": null,
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1710364616,
+  "update_time": 1711125610,
   "owner_name": "Darby Alexander",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -431,7 +489,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 409438,
+  "pending_time": 83968,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -605,9 +663,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/deb5508d61e6483dbccbf26f19a1159b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838054&x-signature=Ya2CSY%2FYdkJAyiL9e7r1GxujXZo%3D",
-          "file_name": "file_20240318_15_00_54_680342",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/deb5508d61e6483dbccbf26f19a1159b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838054&x-signature=Ya2CSY%2FYdkJAyiL9e7r1GxujXZo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/deb5508d61e6483dbccbf26f19a1159b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273577&x-signature=lmkUQcRgJhaFTjVzSpxX7okwi4I%3D",
+          "file_name": "file_20240323_15_59_38_009001",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/deb5508d61e6483dbccbf26f19a1159b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273577&x-signature=lmkUQcRgJhaFTjVzSpxX7okwi4I%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/deb5508d61e6483dbccbf26f19a1159b.png",
           "file_type": "jpeg",
           "biz_type": 2

@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Cassie,</p><p>Would you be able to provide me with the Business Center and Catalog IDs in question?</p><p>Is there also any Feedonomics catalog feed documentation they can share with us?</p><p><br /></p><p>For reference, Timberland is passing us back the following through the Pixel:</p><ul><li>ViewContent:</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5331b52c53c9433a8931b4ffc98d7316.png\" height=\"172.032\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5331b52c53c9433a8931b4ffc98d7316.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838242&amp;x-signature=4pFXvHPaf70%2FpoJqq5apsBTeonA%3D\" width=\"375\"><ul><li>AddToCart</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cac648254c8945f58e7776949358df02.png\" height=\"96.047\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cac648254c8945f58e7776949358df02.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838242&amp;x-signature=UiFbFLqFEZH7pnMJytDEdB5LXsw%3D\" width=\"375\"><p>What they can do is make sure since content_type is likely going to equal \"product\" throughout the entire funnel, is to ensure that the SKU they're passing back through the Pixel is present in the \"sku_id\" column equivalent in the Feedonomics catalog feed. Below are examples for a CSV upload or a XML product feed which may closely reflect what they have setup in Feedonomics:</p><p><br /></p><p>Example - CSV file:</p><ul><li>If content_type = \"product\", we will look at the sku_id column</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/eb1389fb065242efa0fb4e38144d7d58.png\" height=\"51.993\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb1389fb065242efa0fb4e38144d7d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838242&amp;x-signature=cAXjzNKy1oL8jS%2F5Ar8vYoKsTnc%3D\" width=\"375\"><ul><li>If content_type = \"product_group\", we will look at the item_group_id column</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/024abbd8903446538f8a16a73e4369f7.png\" height=\"32.383\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/024abbd8903446538f8a16a73e4369f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838242&amp;x-signature=i3a5jpvIzY2NOUPWOzQksoO5KsE%3D\" width=\"375\"><p>Example - XML product feed:</p><ul><li>If content_type = \"product\", we will match on the &lt;g:id&gt;&lt;/g:id&gt; field</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/947569f062f44ab385df39fed4b3f5a9.png\" height=\"295.902\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947569f062f44ab385df39fed4b3f5a9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838242&amp;x-signature=3HuUujeNPD2Tot68fiICutXz2Jw%3D\" width=\"375\"><ul><li>If content_type = \"product_group\", we will match on the &lt;g:item_group_id&gt;&lt;g:item_group_id&gt; field</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/74cfcd79d1ca4464bfb173cd650a9d2c.png\" height=\"266.373\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74cfcd79d1ca4464bfb173cd650a9d2c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838242&amp;x-signature=fEBf9laEAsgwcoUSIXIenQ36E2I%3D\" width=\"375\"><p>Hope this helps!</p><p>Thanks!</p><p>Robbie</p></img></img></img></img></img></img>",
+          "content": "<p>Hi Cassie,</p><p>Would you be able to provide me with the Business Center and Catalog IDs in question?</p><p>Is there also any Feedonomics catalog feed documentation they can share with us?</p><p><br /></p><p>For reference, Timberland is passing us back the following through the Pixel:</p><ul><li>ViewContent:</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5331b52c53c9433a8931b4ffc98d7316.png\" height=\"172.032\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5331b52c53c9433a8931b4ffc98d7316.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273757&amp;x-signature=0k2pYJa3xbc0Ra6etBMsT0yXW%2BI%3D\" width=\"375\"><ul><li>AddToCart</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cac648254c8945f58e7776949358df02.png\" height=\"96.047\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cac648254c8945f58e7776949358df02.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273757&amp;x-signature=zcz%2BQdjGh1Xh%2Faxv37y33g3RYR8%3D\" width=\"375\"><p>What they can do is make sure since content_type is likely going to equal \"product\" throughout the entire funnel, is to ensure that the SKU they're passing back through the Pixel is present in the \"sku_id\" column equivalent in the Feedonomics catalog feed. Below are examples for a CSV upload or a XML product feed which may closely reflect what they have setup in Feedonomics:</p><p><br /></p><p>Example - CSV file:</p><ul><li>If content_type = \"product\", we will look at the sku_id column</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/eb1389fb065242efa0fb4e38144d7d58.png\" height=\"51.993\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb1389fb065242efa0fb4e38144d7d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273757&amp;x-signature=PeZu2UdwkxCQvDT80ib0V3DDqRU%3D\" width=\"375\"><ul><li>If content_type = \"product_group\", we will look at the item_group_id column</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/024abbd8903446538f8a16a73e4369f7.png\" height=\"32.383\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/024abbd8903446538f8a16a73e4369f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273757&amp;x-signature=As5nnQhYCgJ583o4JOhZBfQkrd8%3D\" width=\"375\"><p>Example - XML product feed:</p><ul><li>If content_type = \"product\", we will match on the &lt;g:id&gt;&lt;/g:id&gt; field</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/947569f062f44ab385df39fed4b3f5a9.png\" height=\"295.902\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947569f062f44ab385df39fed4b3f5a9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273757&amp;x-signature=CQg6J6S1xhmKEfMV7SBPVbBWybc%3D\" width=\"375\"><ul><li>If content_type = \"product_group\", we will match on the &lt;g:item_group_id&gt;&lt;g:item_group_id&gt; field</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/74cfcd79d1ca4464bfb173cd650a9d2c.png\" height=\"266.373\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74cfcd79d1ca4464bfb173cd650a9d2c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273757&amp;x-signature=oc6U3KIDwvy9nizFM2dGJEbXb9k%3D\" width=\"375\"><p>Hope this helps!</p><p>Thanks!</p><p>Robbie</p></img></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -70,9 +70,9 @@
             {
               "file_type": "csv",
               "file_name": "112695_375539_f47c8fc2fe5421c052d7ec7bf537a72369909907403bbcbcdzibNHc.csv",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEEy5A1UIBEflAGeAlAgWuXvQCFZ4J3DiLYcyq.csv?lk3s=cbe26b3a&x-expires=4832838242&x-signature=zYKd9lvGVJsAlBQKJP6uB15WAOU%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEEy5A1UIBEflAGeAlAgWuXvQCFZ4J3DiLYcyq.csv?lk3s=cbe26b3a&x-expires=4833273757&x-signature=BLDZog%2B%2BfJ9jAtcyJsVEAuu1HGQ%3D",
               "file_key": "tos-alisg-v-90231e-sg/oEEy5A1UIBEflAGeAlAgWuXvQCFZ4J3DiLYcyq.csv",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEEy5A1UIBEflAGeAlAgWuXvQCFZ4J3DiLYcyq.csv?lk3s=cbe26b3a&x-expires=4832838242&x-signature=zYKd9lvGVJsAlBQKJP6uB15WAOU%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEEy5A1UIBEflAGeAlAgWuXvQCFZ4J3DiLYcyq.csv?lk3s=cbe26b3a&x-expires=4833273757&x-signature=BLDZog%2B%2BfJ9jAtcyJsVEAuu1HGQ%3D",
               "biz_type": 2,
               "size": 17987061
             }
@@ -105,7 +105,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Cassie,</p><p>Thanks for sending it over! They can resolve this issue by making sure that \"content_type\" : \"product_group\" across all of their Pixel events.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/fcfd0100430f41c0ac394e7663c6d21d.png\" height=\"172.727\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcfd0100430f41c0ac394e7663c6d21d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838242&amp;x-signature=MgYmAbgktH17bxCMQm4FzsXZupI%3D\" width=\"375\"><p>In the file they sent, the SKUs that we're looking to match on is being passed in the item_group_id column:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b990588eb9794f40924028ac73dabdcc.png\" height=\"144.197\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b990588eb9794f40924028ac73dabdcc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838242&amp;x-signature=jJNfQYAYczi%2FynhuTjNizvflttA%3D\" width=\"375\"><p>By changing the content_type parameter to \"product_group\" across all of their Pixel events, they will not have to make any changes to the catalog feed. Our system will then match the content_id captured by the Pixel against the values in the \"item_group_id\" column.</p><p>Please let me know if there are any further questions!</p><p>Thanks!</p><p>Robbie</p></img></img>",
+          "content": "<p>Hi Cassie,</p><p>Thanks for sending it over! They can resolve this issue by making sure that \"content_type\" : \"product_group\" across all of their Pixel events.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/fcfd0100430f41c0ac394e7663c6d21d.png\" height=\"172.727\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcfd0100430f41c0ac394e7663c6d21d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273757&amp;x-signature=i2W2u77pTmqcMmd5PzmR8h31Gl4%3D\" width=\"375\"><p>In the file they sent, the SKUs that we're looking to match on is being passed in the item_group_id column:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b990588eb9794f40924028ac73dabdcc.png\" height=\"144.197\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b990588eb9794f40924028ac73dabdcc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273757&amp;x-signature=okrN6c8xqg5Mp6D9MAn%2FZkNaGi4%3D\" width=\"375\"><p>By changing the content_type parameter to \"product_group\" across all of their Pixel events, they will not have to make any changes to the catalog feed. Our system will then match the content_id captured by the Pixel against the values in the \"item_group_id\" column.</p><p>Please let me know if there are any further questions!</p><p>Thanks!</p><p>Robbie</p></img></img>",
           "type": 6
         }
       ],
@@ -203,7 +203,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1708307,
+  "pending_time": 2143822,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -340,75 +340,75 @@
       "label": "Screenshot(s)",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947569f062f44ab385df39fed4b3f5a9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=3HuUujeNPD2Tot68fiICutXz2Jw%3D",
-          "file_name": "file_20240318_15_04_02_379850",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947569f062f44ab385df39fed4b3f5a9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=3HuUujeNPD2Tot68fiICutXz2Jw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947569f062f44ab385df39fed4b3f5a9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=CQg6J6S1xhmKEfMV7SBPVbBWybc%3D",
+          "file_name": "file_20240323_16_02_37_540047",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947569f062f44ab385df39fed4b3f5a9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=CQg6J6S1xhmKEfMV7SBPVbBWybc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/947569f062f44ab385df39fed4b3f5a9.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb1389fb065242efa0fb4e38144d7d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=cAXjzNKy1oL8jS%2F5Ar8vYoKsTnc%3D",
-          "file_name": "file_20240318_15_04_02_379999",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb1389fb065242efa0fb4e38144d7d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=cAXjzNKy1oL8jS%2F5Ar8vYoKsTnc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb1389fb065242efa0fb4e38144d7d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=PeZu2UdwkxCQvDT80ib0V3DDqRU%3D",
+          "file_name": "file_20240323_16_02_37_540241",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb1389fb065242efa0fb4e38144d7d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=PeZu2UdwkxCQvDT80ib0V3DDqRU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/eb1389fb065242efa0fb4e38144d7d58.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cac648254c8945f58e7776949358df02.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=UiFbFLqFEZH7pnMJytDEdB5LXsw%3D",
-          "file_name": "file_20240318_15_04_02_380026",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cac648254c8945f58e7776949358df02.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=UiFbFLqFEZH7pnMJytDEdB5LXsw%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/cac648254c8945f58e7776949358df02.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5331b52c53c9433a8931b4ffc98d7316.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=0k2pYJa3xbc0Ra6etBMsT0yXW%2BI%3D",
+          "file_name": "file_20240323_16_02_37_540282",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5331b52c53c9433a8931b4ffc98d7316.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=0k2pYJa3xbc0Ra6etBMsT0yXW%2BI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5331b52c53c9433a8931b4ffc98d7316.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74cfcd79d1ca4464bfb173cd650a9d2c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=fEBf9laEAsgwcoUSIXIenQ36E2I%3D",
-          "file_name": "file_20240318_15_04_02_380040",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74cfcd79d1ca4464bfb173cd650a9d2c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=fEBf9laEAsgwcoUSIXIenQ36E2I%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74cfcd79d1ca4464bfb173cd650a9d2c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=oc6U3KIDwvy9nizFM2dGJEbXb9k%3D",
+          "file_name": "file_20240323_16_02_37_540302",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74cfcd79d1ca4464bfb173cd650a9d2c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=oc6U3KIDwvy9nizFM2dGJEbXb9k%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/74cfcd79d1ca4464bfb173cd650a9d2c.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/024abbd8903446538f8a16a73e4369f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=i3a5jpvIzY2NOUPWOzQksoO5KsE%3D",
-          "file_name": "file_20240318_15_04_02_380053",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/024abbd8903446538f8a16a73e4369f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=i3a5jpvIzY2NOUPWOzQksoO5KsE%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/024abbd8903446538f8a16a73e4369f7.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cac648254c8945f58e7776949358df02.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=zcz%2BQdjGh1Xh%2Faxv37y33g3RYR8%3D",
+          "file_name": "file_20240323_16_02_37_540321",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cac648254c8945f58e7776949358df02.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=zcz%2BQdjGh1Xh%2Faxv37y33g3RYR8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/cac648254c8945f58e7776949358df02.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5331b52c53c9433a8931b4ffc98d7316.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=4pFXvHPaf70%2FpoJqq5apsBTeonA%3D",
-          "file_name": "file_20240318_15_04_02_380079",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5331b52c53c9433a8931b4ffc98d7316.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=4pFXvHPaf70%2FpoJqq5apsBTeonA%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/5331b52c53c9433a8931b4ffc98d7316.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/024abbd8903446538f8a16a73e4369f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=As5nnQhYCgJ583o4JOhZBfQkrd8%3D",
+          "file_name": "file_20240323_16_02_37_540338",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/024abbd8903446538f8a16a73e4369f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=As5nnQhYCgJ583o4JOhZBfQkrd8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/024abbd8903446538f8a16a73e4369f7.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
           "file_type": "csv",
           "file_name": "112695_375539_f47c8fc2fe5421c052d7ec7bf537a72369909907403bbcbcdzibNHc.csv",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEEy5A1UIBEflAGeAlAgWuXvQCFZ4J3DiLYcyq.csv?lk3s=cbe26b3a&x-expires=4832838242&x-signature=zYKd9lvGVJsAlBQKJP6uB15WAOU%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEEy5A1UIBEflAGeAlAgWuXvQCFZ4J3DiLYcyq.csv?lk3s=cbe26b3a&x-expires=4833273757&x-signature=BLDZog%2B%2BfJ9jAtcyJsVEAuu1HGQ%3D",
           "file_key": "tos-alisg-v-90231e-sg/oEEy5A1UIBEflAGeAlAgWuXvQCFZ4J3DiLYcyq.csv",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEEy5A1UIBEflAGeAlAgWuXvQCFZ4J3DiLYcyq.csv?lk3s=cbe26b3a&x-expires=4832838242&x-signature=zYKd9lvGVJsAlBQKJP6uB15WAOU%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEEy5A1UIBEflAGeAlAgWuXvQCFZ4J3DiLYcyq.csv?lk3s=cbe26b3a&x-expires=4833273757&x-signature=BLDZog%2B%2BfJ9jAtcyJsVEAuu1HGQ%3D",
           "biz_type": 2,
           "size": 17987061
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcfd0100430f41c0ac394e7663c6d21d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=MgYmAbgktH17bxCMQm4FzsXZupI%3D",
-          "file_name": "file_20240318_15_04_02_473623",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcfd0100430f41c0ac394e7663c6d21d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=MgYmAbgktH17bxCMQm4FzsXZupI%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/fcfd0100430f41c0ac394e7663c6d21d.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b990588eb9794f40924028ac73dabdcc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=okrN6c8xqg5Mp6D9MAn%2FZkNaGi4%3D",
+          "file_name": "file_20240323_16_02_37_636979",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b990588eb9794f40924028ac73dabdcc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=okrN6c8xqg5Mp6D9MAn%2FZkNaGi4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b990588eb9794f40924028ac73dabdcc.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b990588eb9794f40924028ac73dabdcc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=jJNfQYAYczi%2FynhuTjNizvflttA%3D",
-          "file_name": "file_20240318_15_04_02_473715",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b990588eb9794f40924028ac73dabdcc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838242&x-signature=jJNfQYAYczi%2FynhuTjNizvflttA%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/b990588eb9794f40924028ac73dabdcc.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcfd0100430f41c0ac394e7663c6d21d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=i2W2u77pTmqcMmd5PzmR8h31Gl4%3D",
+          "file_name": "file_20240323_16_02_37_637057",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcfd0100430f41c0ac394e7663c6d21d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273757&x-signature=i2W2u77pTmqcMmd5PzmR8h31Gl4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/fcfd0100430f41c0ac394e7663c6d21d.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

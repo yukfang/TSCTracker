@@ -9,7 +9,7 @@
   "follower": "Κατερίνα Σάκκουλα",
   "create_time": 1710249080,
   "deadline": 0,
-  "archive_board_id": 1705151646989733,
+  "archive_board_id": 1705151646989665,
   "replies": [
     {
       "is_hide_reply": false,
@@ -41,9 +41,9 @@
             {
               "file_type": "png",
               "file_name": "image001 (1).png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875805&x-signature=Jrlx7d%2FByTndKXaH0QQlHynX2Hw%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274115&x-signature=83icBwl3WMQAWchzrCDkXRXtyPI%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875805&x-signature=Jrlx7d%2FByTndKXaH0QQlHynX2Hw%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274115&x-signature=83icBwl3WMQAWchzrCDkXRXtyPI%3D",
               "biz_type": 2,
               "size": 46369
             }
@@ -82,6 +82,35 @@
       ],
       "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711018121,
+      "auto_close_hit": 0,
+      "id": 7348765450661626000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Dante,</p><p><br /></p><p>Thank you for your time on the call just now.</p><p><br /></p><p>Please find below the recommended actions:</p><ul><li>In the <strong>Partner selection</strong> screen in Adjust, please ensure that you have selected <strong>TikTok For Business (SAN)</strong>, which is the new TikTok integration.<br><br /></br></li><li>Please  ensure that the right TikTok App ID has been added to their Adjust configuration for each App. Below is a screenshot showing where the TikTok App ID can be found under <a href=\"https://ads.tiktok.com/i18n/events_manager/app?aadvid=7078229405281124353\" target=\"_blank\">Events Manager</a>:</li></ul><img alt=\"Screenshot 2024-03-21 at 10.26.03.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/469fa4e35d9d4adf8156c7a75fa91a60.png\" height=\"130.241\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/469fa4e35d9d4adf8156c7a75fa91a60.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274115&amp;x-signature=TTu5tbAY9dH3g2B6FEI51KCXPV0%3D\" width=\"375\"><ul><li>Map the Purchase event under both iOS and Android apps in Adjust + configure the parameters  'content_id' and 'value' for revenue reporting</li></ul><p><br /></p><p>Best,</p><p>Katerina</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -109,7 +138,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1710791780,
+  "update_time": 1711018120,
   "owner_name": "Dante Morales",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -120,8 +149,8 @@
   "reply_name": " MPO Technical Implementation  Team",
   "is_guest": false,
   "archive_category_2": "",
-  "archive_category_1_name": "Catalog Integration or Optimization",
-  "archive_category_1": "1754600307444754",
+  "archive_category_1_name": "Mobile Marketing Partner (MMP)",
+  "archive_category_1": "1736497211543601",
   "allow_reopen": 0,
   "categories": [
     {
@@ -145,7 +174,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 20025,
+  "pending_time": 191995,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -284,19 +313,27 @@
         {
           "file_type": "png",
           "file_name": "image.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef1009a962f84a2baa049641aa7809c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875805&x-signature=eXom6ga9Nq69lbzYVKc6llfZoes%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef1009a962f84a2baa049641aa7809c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274115&x-signature=S7N7pm21M9X7ktNP9Oc5WgUfuug%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ef1009a962f84a2baa049641aa7809c2.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef1009a962f84a2baa049641aa7809c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875805&x-signature=eXom6ga9Nq69lbzYVKc6llfZoes%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef1009a962f84a2baa049641aa7809c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274115&x-signature=S7N7pm21M9X7ktNP9Oc5WgUfuug%3D",
           "size": 706260
         },
         {
           "file_type": "png",
           "file_name": "image001 (1).png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875805&x-signature=Jrlx7d%2FByTndKXaH0QQlHynX2Hw%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274115&x-signature=83icBwl3WMQAWchzrCDkXRXtyPI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875805&x-signature=Jrlx7d%2FByTndKXaH0QQlHynX2Hw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4ba83db4b8a484b86ec64d5ead13ddc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274115&x-signature=83icBwl3WMQAWchzrCDkXRXtyPI%3D",
           "biz_type": 2,
           "size": 46369
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/469fa4e35d9d4adf8156c7a75fa91a60.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274115&x-signature=TTu5tbAY9dH3g2B6FEI51KCXPV0%3D",
+          "file_name": "file_20240323_16_08_36_025678",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/469fa4e35d9d4adf8156c7a75fa91a60.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274115&x-signature=TTu5tbAY9dH3g2B6FEI51KCXPV0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/469fa4e35d9d4adf8156c7a75fa91a60.png",
+          "file_type": "jpeg",
+          "biz_type": 2
         }
       ],
       "valid": true,
@@ -307,7 +344,7 @@
     {
       "label": "categorization",
       "content": {
-        "category_1_name": "Catalog-Catalog Integration or Optimization"
+        "category_1_name": "Mobile Measurement Partner (MMP)-Mobile Marketing Partner (MMP)"
       },
       "valid": true,
       "item_id": 0,

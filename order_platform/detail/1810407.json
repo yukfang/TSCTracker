@@ -93,7 +93,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zoe,</p><p>Confirming receipt of your ticket and following up from our call with SquareSpace earlier today.</p><p>Please comments between the lines below. Feel free to copy/paste these and share with the team at SquareSpace.</p><p><br /></p><hr><p><a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en\" target=\"_blank\">Standard VS Custom Events</a></p><p>There are two categories of events on TikTok:</p><ul><li>Standard Events: These are actions with predefined names created by TikTok. Standard events are supported across all TikTok integration tools today and can be used for reporting, optimizing for conversions and building audiences. </li><li>Custom Events: These are actions that TikTok partners can define themselves beyond the predefined standard events list. Custom events can be set up with Event Builder in Events Manager or reported directly via the Pixel and Web Events API. Custom events are available for reporting and audience creation purposes. Optimization is not supported at this time.</li></ul><p><strong>Implementation</strong></p><p>Given that custom events are available for reporting an audience creation but do not have the option to optimize, the recommendation is to implement a standard event along with a custom event. The purpose of this redundant setup is to give you the ability to generate reporting and create audiences based on the custom event, while the standard event will provide a general event to optimize your campaigns at the time of campaign setup.</p><p>Example - <a href=\"https://www.collection.squarespace.com/rickrubin\" target=\"_blank\">https://www.collection.squarespace.com/rickrubin</a> <br>To implement the above setup at the microsite located above, we will use AddToWishlist as our standard event. Since we want to track page landings on our microsite, we can name our custom event RickRubin_PageLanding (see <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-4\" target=\"_blank\">Additional considerations &amp; specifications</a> section). Assuming the base pixel (<span style=\"color: #666666;\">C2ENC2QQV140ORDIO960</span>) has already been added to the microsite, the AddToWishlist event should be fired as shown below:</br></p><img alt=\"Screenshot 2024-01-16 at 4.49.58 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1e3dbd9d8a4c4c48b5a154caf1a02f8c.png\" height=\"44\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e3dbd9d8a4c4c48b5a154caf1a02f8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832749&amp;x-signature=hz2iqnY%2FLnkG%2Bz18LmWgdz4HQdM%3D\" width=\"231\"><p>Followed by their custom event:</p><img alt=\"Screenshot 2024-01-16 at 4.50.39 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ec58cac5bf694364bbaa2051fb48e234.png\" height=\"44\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec58cac5bf694364bbaa2051fb48e234.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832749&amp;x-signature=9rg7FR%2F7KnZxiaHaeK7oE%2BxwvjY%3D\" width=\"280\"><p>The above events should be set up in their own separate GTM tags. You can replicate this setup for any other microsites in the future. You can use the same standard event but update the name of your custom event to reflect your new microsite.</p><p><strong>Audience Creation</strong></p><p>Once you have implemented your custom and standard event side-by-side, and you have recorded over 1,000 custom events, you will be able to create an audience from your custom events. <a href=\"https://ads.tiktok.com/help/article/website-traffic?lang=en\" target=\"_blank\">See here</a> for more information on audience creation.</p><p><strong>Custom Event Reporting</strong></p><p>Because of the nature of custom event reporting, we need to create a custom report in order to be able to access these metrics.</p><ol><li>To generate a report for your custom events, from your Ads Manager account, navigate to <strong>Analytics</strong> &gt; <strong>Custom Reports</strong>. </li><li>Next, click the <strong>Create</strong> button, followed by <strong>Custom report</strong>.</li><li>Click the <strong>Metrics</strong> tab and deselect all checkboxes for now.</li><li>Click the <strong>Dimensions</strong> tab</li><li>Under <strong>Campaign</strong>, make sure to select <strong>Campaign name</strong> and <strong>Campaign ID</strong></li></ol><img alt=\"Campaign.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b8c5b5bb68af4d65a06b4bd40551d9c0.png\" height=\"94\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8c5b5bb68af4d65a06b4bd40551d9c0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832749&amp;x-signature=7UmeKWAYMlxORshOQ0tW2VQmHaA%3D\" width=\"222\"><ol><li>Under <strong>AdGroup</strong>, make sure to select <strong>Ad Group name</strong></li></ol><img alt=\"Adgroup.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/15db5aaade634a6fb572c15f8df2b169.png\" height=\"94\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/15db5aaade634a6fb572c15f8df2b169.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832749&amp;x-signature=5IU%2FOIF7vpVUb8oYhzDPdGNNaBo%3D\" width=\"222\"><ol><li>Under <strong>Assets</strong>, make sure to select<strong> Custom Event Type</strong></li></ol><img alt=\"Assets.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/398bf05767334227a55c8a1681085eea.png\" height=\"94\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/398bf05767334227a55c8a1681085eea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832749&amp;x-signature=dVeHrbqGWzZvBPMEqwmmG5xHdyA%3D\" width=\"222\"><p>Lastly, go back to the <strong>Metrics</strong> tab and scroll down to <strong>Page event</strong> and select it. This will begin populating your report. You should see a row for each of the custom events captured under the pixel on your site and within the campaign and ad group specified.</p><img alt=\"Screenshot 2024-01-16 at 3.12.35 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a2c2745b475b4724aa4cc31f243ddbd8.png\" height=\"151.84\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a2c2745b475b4724aa4cc31f243ddbd8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832749&amp;x-signature=qhYeUo0%2Fe8ugbZc4o9EZkLVW2Lo%3D\" width=\"375\"><p>Regarding your recap/follow-up questions:</p><ul><li><em><u>If same exact event code is on two microsites, if there’s a way to isolate URLs/sources to break out data. (If not or not sure, we can recommend for now they keep that event/code isolated)</u></em></li></ul><p>I took a look at the TTAM dashboard, currently, the dashboard can break down event source by top-level domain, which means any and all events coming from subdomains of squarespace.com, would rollup to this top-level domain.</p><p>They can follow the implementation steps above for any microsite. By doing so, they can use a new custom event name to keep separate from previous microsite but still leverage the learnings captured by the same shared base pixel.</p><ul><li>How to set up Standard event with GTM (they'll likely start with Add To Wishlist for this setup, as of their last email)</li></ul><p>See implementation section above.</p><ul><li>How to setup a custom event and pair a Standard event with a custom one.</li></ul><p>Step 1 - ensure the base pixel is firing on the microsite/landing page</p><p>Step 2 - fire the standard event</p><p>Step 3 - fire the custom event</p><p>Step 4 - create custom report to see custom event metrics</p><ul><li>Creating audiences off of custom events?</li></ul><p>See link under audience creation section above.</p><p><br /></p><p>During the call, the team asked about Optimization for custom events. As of today, there is no ETA available for this feature. Please <a href=\"https://bytedance.us.larkoffice.com/docx/doxusNujTido2oLgSlAaC9wFZCe#part-DQWZdxRhUo81nSx80p1u1EmhsJe\" target=\"_blank\">check this document</a> periodically for updates on this topic.</p><p><br /></p><hr><p><br /></p><p>I will close this ticket for now since we had the call with the advertiser and we provided our recommendations. Please feel free to reopen if they have any other questions regarding technical implementation.</p><p>Best,<br>Armando</br></p></hr></img></img></img></img></img></img></hr>",
+          "content": "<p>Hi Zoe,</p><p>Confirming receipt of your ticket and following up from our call with SquareSpace earlier today.</p><p>Please comments between the lines below. Feel free to copy/paste these and share with the team at SquareSpace.</p><p><br /></p><hr><p><a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en\" target=\"_blank\">Standard VS Custom Events</a></p><p>There are two categories of events on TikTok:</p><ul><li>Standard Events: These are actions with predefined names created by TikTok. Standard events are supported across all TikTok integration tools today and can be used for reporting, optimizing for conversions and building audiences. </li><li>Custom Events: These are actions that TikTok partners can define themselves beyond the predefined standard events list. Custom events can be set up with Event Builder in Events Manager or reported directly via the Pixel and Web Events API. Custom events are available for reporting and audience creation purposes. Optimization is not supported at this time.</li></ul><p><strong>Implementation</strong></p><p>Given that custom events are available for reporting an audience creation but do not have the option to optimize, the recommendation is to implement a standard event along with a custom event. The purpose of this redundant setup is to give you the ability to generate reporting and create audiences based on the custom event, while the standard event will provide a general event to optimize your campaigns at the time of campaign setup.</p><p>Example - <a href=\"https://www.collection.squarespace.com/rickrubin\" target=\"_blank\">https://www.collection.squarespace.com/rickrubin</a> <br>To implement the above setup at the microsite located above, we will use AddToWishlist as our standard event. Since we want to track page landings on our microsite, we can name our custom event RickRubin_PageLanding (see <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-4\" target=\"_blank\">Additional considerations &amp; specifications</a> section). Assuming the base pixel (<span style=\"color: #666666;\">C2ENC2QQV140ORDIO960</span>) has already been added to the microsite, the AddToWishlist event should be fired as shown below:</br></p><img alt=\"Screenshot 2024-01-16 at 4.49.58 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1e3dbd9d8a4c4c48b5a154caf1a02f8c.png\" height=\"44\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e3dbd9d8a4c4c48b5a154caf1a02f8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272884&amp;x-signature=5YsSICxtVNGE2qvzjv54MvK2HXU%3D\" width=\"231\"><p>Followed by their custom event:</p><img alt=\"Screenshot 2024-01-16 at 4.50.39 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ec58cac5bf694364bbaa2051fb48e234.png\" height=\"44\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec58cac5bf694364bbaa2051fb48e234.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272884&amp;x-signature=BzKivC92p9D1TPhl42mSmlrADF4%3D\" width=\"280\"><p>The above events should be set up in their own separate GTM tags. You can replicate this setup for any other microsites in the future. You can use the same standard event but update the name of your custom event to reflect your new microsite.</p><p><strong>Audience Creation</strong></p><p>Once you have implemented your custom and standard event side-by-side, and you have recorded over 1,000 custom events, you will be able to create an audience from your custom events. <a href=\"https://ads.tiktok.com/help/article/website-traffic?lang=en\" target=\"_blank\">See here</a> for more information on audience creation.</p><p><strong>Custom Event Reporting</strong></p><p>Because of the nature of custom event reporting, we need to create a custom report in order to be able to access these metrics.</p><ol><li>To generate a report for your custom events, from your Ads Manager account, navigate to <strong>Analytics</strong> &gt; <strong>Custom Reports</strong>. </li><li>Next, click the <strong>Create</strong> button, followed by <strong>Custom report</strong>.</li><li>Click the <strong>Metrics</strong> tab and deselect all checkboxes for now.</li><li>Click the <strong>Dimensions</strong> tab</li><li>Under <strong>Campaign</strong>, make sure to select <strong>Campaign name</strong> and <strong>Campaign ID</strong></li></ol><img alt=\"Campaign.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b8c5b5bb68af4d65a06b4bd40551d9c0.png\" height=\"94\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8c5b5bb68af4d65a06b4bd40551d9c0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272884&amp;x-signature=FAL3PQtnULYtFb5F1i66N%2FBE%2F3E%3D\" width=\"222\"><ol><li>Under <strong>AdGroup</strong>, make sure to select <strong>Ad Group name</strong></li></ol><img alt=\"Adgroup.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/15db5aaade634a6fb572c15f8df2b169.png\" height=\"94\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/15db5aaade634a6fb572c15f8df2b169.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272884&amp;x-signature=oMvQVtl3hZ0QJ1THyETx7rmKOmo%3D\" width=\"222\"><ol><li>Under <strong>Assets</strong>, make sure to select<strong> Custom Event Type</strong></li></ol><img alt=\"Assets.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/398bf05767334227a55c8a1681085eea.png\" height=\"94\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/398bf05767334227a55c8a1681085eea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272884&amp;x-signature=L0R8QBB1y0LP3D2JdkpysY419TI%3D\" width=\"222\"><p>Lastly, go back to the <strong>Metrics</strong> tab and scroll down to <strong>Page event</strong> and select it. This will begin populating your report. You should see a row for each of the custom events captured under the pixel on your site and within the campaign and ad group specified.</p><img alt=\"Screenshot 2024-01-16 at 3.12.35 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a2c2745b475b4724aa4cc31f243ddbd8.png\" height=\"151.84\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a2c2745b475b4724aa4cc31f243ddbd8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272884&amp;x-signature=px7XF%2B6QVgHmpeG6nTjFYviMJEU%3D\" width=\"375\"><p>Regarding your recap/follow-up questions:</p><ul><li><em><u>If same exact event code is on two microsites, if there’s a way to isolate URLs/sources to break out data. (If not or not sure, we can recommend for now they keep that event/code isolated)</u></em></li></ul><p>I took a look at the TTAM dashboard, currently, the dashboard can break down event source by top-level domain, which means any and all events coming from subdomains of squarespace.com, would rollup to this top-level domain.</p><p>They can follow the implementation steps above for any microsite. By doing so, they can use a new custom event name to keep separate from previous microsite but still leverage the learnings captured by the same shared base pixel.</p><ul><li>How to set up Standard event with GTM (they'll likely start with Add To Wishlist for this setup, as of their last email)</li></ul><p>See implementation section above.</p><ul><li>How to setup a custom event and pair a Standard event with a custom one.</li></ul><p>Step 1 - ensure the base pixel is firing on the microsite/landing page</p><p>Step 2 - fire the standard event</p><p>Step 3 - fire the custom event</p><p>Step 4 - create custom report to see custom event metrics</p><ul><li>Creating audiences off of custom events?</li></ul><p>See link under audience creation section above.</p><p><br /></p><p>During the call, the team asked about Optimization for custom events. As of today, there is no ETA available for this feature. Please <a href=\"https://bytedance.us.larkoffice.com/docx/doxusNujTido2oLgSlAaC9wFZCe#part-DQWZdxRhUo81nSx80p1u1EmhsJe\" target=\"_blank\">check this document</a> periodically for updates on this topic.</p><p><br /></p><hr><p><br /></p><p>I will close this ticket for now since we had the call with the advertiser and we provided our recommendations. Please feel free to reopen if they have any other questions regarding technical implementation.</p><p>Best,<br>Armando</br></p></hr></img></img></img></img></img></img></hr>",
           "type": 6
         }
       ],
@@ -192,18 +192,18 @@
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-01-18 at 3.38.39 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/59befa8fb8844db78b20ed75fef015b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=Z3ujfx9AJtirmLIrYU8IewAul9w%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/59befa8fb8844db78b20ed75fef015b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=LY3onFWKSOwGZSYxZnWqrrjpMMc%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/59befa8fb8844db78b20ed75fef015b2.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/59befa8fb8844db78b20ed75fef015b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=Z3ujfx9AJtirmLIrYU8IewAul9w%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/59befa8fb8844db78b20ed75fef015b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=LY3onFWKSOwGZSYxZnWqrrjpMMc%3D",
               "biz_type": 2,
               "size": 1529893
             },
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-01-18 at 3.39.52 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f10a09d72f52423b86841479779bfcc1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=H2rdMQxlswfZWf2khfBauhhKMmI%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f10a09d72f52423b86841479779bfcc1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=pbyqOZoxvMxvYXZZwAIJzrRFz%2FM%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/f10a09d72f52423b86841479779bfcc1.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f10a09d72f52423b86841479779bfcc1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=H2rdMQxlswfZWf2khfBauhhKMmI%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f10a09d72f52423b86841479779bfcc1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=pbyqOZoxvMxvYXZZwAIJzrRFz%2FM%3D",
               "biz_type": 2,
               "size": 1414793
             }
@@ -354,7 +354,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zoe,</p><p>Confirming receipt of your follow up.</p><p>For the purpose of troubleshooting, I would want to ask them the following:</p><p><span style=\"color: #333333;\"><em>As we wrapped up our Collection campaign with Rick Rubin, a directional metric we look at is # of Trials. When exporting data for the standard event \"Submit Form\" (tied to our internal trial event) we noticed that only the UK campaign yielded trials.</em></span></p><ul><li>Where was this data exported from? The TTAM dashboard? Is there a screenshot of the report they are comparing TikTok's report to?</li></ul><p><span style=\"color: #333333;\"><em>We checked with our team to understand if it was a set-up issue on our end, but we're seeing that the flow in staging and the trial event fires properly and should be firing for all countries.</em></span></p><ul><li>How was the TikTok pixel set up to fire? And are they using the same pixel for all countries? If the answer to the 2nd question is yes, then our reporting would not be able to provide them a break down by country. The only way to have such breakdown would be to have a pixel for each country, which is not practical.<br>I took a look at their event data. The pixel page referrer tells us  the visitors' previous page prior to the event being fired from the page under the pixel_page_url. We can see here that there were some visitors from other countries (the green cells), but they were then redirected to the template pages and their taxonomy is <span style=\"color: #999999;\"><strong>&lt;template-name&gt;</strong></span><strong>.squarespace.com/config</strong>. </br></li></ul><img alt=\"Screenshot 2024-02-08 at 3.51.01 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/903548bc0c7548d2979778e462169a10.png\" height=\"156.152\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/903548bc0c7548d2979778e462169a10.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832750&amp;x-signature=AuMdg5EPda99lFw%2FPlT8xiQ2K%2BA%3D\" width=\"375\"><p>From TikTok's reporting POV, everything is rolling up into <strong>squarespace.com</strong>.</p><p><span style=\"color: #333333;\"><em>Would you be able to look into if this reporting is correct or if there is an issue?</em></span></p><ul><li>Please forward the report they are referring to above once you have this info.</li></ul><p>Thanks,<br>Armando</br></p></img>",
+          "content": "<p>Hi Zoe,</p><p>Confirming receipt of your follow up.</p><p>For the purpose of troubleshooting, I would want to ask them the following:</p><p><span style=\"color: #333333;\"><em>As we wrapped up our Collection campaign with Rick Rubin, a directional metric we look at is # of Trials. When exporting data for the standard event \"Submit Form\" (tied to our internal trial event) we noticed that only the UK campaign yielded trials.</em></span></p><ul><li>Where was this data exported from? The TTAM dashboard? Is there a screenshot of the report they are comparing TikTok's report to?</li></ul><p><span style=\"color: #333333;\"><em>We checked with our team to understand if it was a set-up issue on our end, but we're seeing that the flow in staging and the trial event fires properly and should be firing for all countries.</em></span></p><ul><li>How was the TikTok pixel set up to fire? And are they using the same pixel for all countries? If the answer to the 2nd question is yes, then our reporting would not be able to provide them a break down by country. The only way to have such breakdown would be to have a pixel for each country, which is not practical.<br>I took a look at their event data. The pixel page referrer tells us  the visitors' previous page prior to the event being fired from the page under the pixel_page_url. We can see here that there were some visitors from other countries (the green cells), but they were then redirected to the template pages and their taxonomy is <span style=\"color: #999999;\"><strong>&lt;template-name&gt;</strong></span><strong>.squarespace.com/config</strong>. </br></li></ul><img alt=\"Screenshot 2024-02-08 at 3.51.01 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/903548bc0c7548d2979778e462169a10.png\" height=\"156.152\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/903548bc0c7548d2979778e462169a10.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272885&amp;x-signature=8dH%2BUb1dgpl5rHwqD%2B8UEr6FiPk%3D\" width=\"375\"><p>From TikTok's reporting POV, everything is rolling up into <strong>squarespace.com</strong>.</p><p><span style=\"color: #333333;\"><em>Would you be able to look into if this reporting is correct or if there is an issue?</em></span></p><ul><li>Please forward the report they are referring to above once you have this info.</li></ul><p>Thanks,<br>Armando</br></p></img>",
           "type": 6
         }
       ],
@@ -391,27 +391,27 @@
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-02-12 at 10.45.39 AM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18b49edb9a474db3888c60cd15594a9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=3iQZMSlenzqbg%2FvGkku7xi1lMm4%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18b49edb9a474db3888c60cd15594a9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=aRwpthOslOn%2FrLomezrT2B%2FvKuo%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/18b49edb9a474db3888c60cd15594a9d.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18b49edb9a474db3888c60cd15594a9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=3iQZMSlenzqbg%2FvGkku7xi1lMm4%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18b49edb9a474db3888c60cd15594a9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=aRwpthOslOn%2FrLomezrT2B%2FvKuo%3D",
               "biz_type": 2,
               "size": 997436
             },
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-02-12 at 1.16.49 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb190536d72148c29b74571c83b9fcd7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=KEOpadKGrsBTbtr5cpoJ%2BYv%2FrUo%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb190536d72148c29b74571c83b9fcd7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=9EYh1BTA0ADoh8RVp5cymQsh1FM%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/eb190536d72148c29b74571c83b9fcd7.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb190536d72148c29b74571c83b9fcd7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=KEOpadKGrsBTbtr5cpoJ%2BYv%2FrUo%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb190536d72148c29b74571c83b9fcd7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=9EYh1BTA0ADoh8RVp5cymQsh1FM%3D",
               "biz_type": 2,
               "size": 206168
             },
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-02-12 at 1.17.27 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06a21639dab74377a750a00916e817d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=8do2I1yEwhU9KOgwh2n7wBLXtN0%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06a21639dab74377a750a00916e817d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=EhRiYc2TMwwCRmUIhBGQPGAK7ac%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/06a21639dab74377a750a00916e817d4.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06a21639dab74377a750a00916e817d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=8do2I1yEwhU9KOgwh2n7wBLXtN0%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06a21639dab74377a750a00916e817d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=EhRiYc2TMwwCRmUIhBGQPGAK7ac%3D",
               "biz_type": 2,
               "size": 560114
             }
@@ -448,27 +448,27 @@
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-02-12 at 1.17.45 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c04e85be4e92473781b9f33069e55aa3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=7YcZVI65XAbRF9XWUf5gne%2FYHXM%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c04e85be4e92473781b9f33069e55aa3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=S2JBF8U3xiPSEI18OVPo2MaH60Y%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/c04e85be4e92473781b9f33069e55aa3.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c04e85be4e92473781b9f33069e55aa3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=7YcZVI65XAbRF9XWUf5gne%2FYHXM%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c04e85be4e92473781b9f33069e55aa3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=S2JBF8U3xiPSEI18OVPo2MaH60Y%3D",
               "biz_type": 2,
               "size": 90939
             },
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-02-12 at 1.18.02 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83b7a3340e8e49e7b37b3f02ab83e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=XMzONGKM337xwYZlbqrM51o2sZM%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83b7a3340e8e49e7b37b3f02ab83e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=gdc3ekNwpR3aDV5ryWm1asVtBbc%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/83b7a3340e8e49e7b37b3f02ab83e8e7.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83b7a3340e8e49e7b37b3f02ab83e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=XMzONGKM337xwYZlbqrM51o2sZM%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83b7a3340e8e49e7b37b3f02ab83e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=gdc3ekNwpR3aDV5ryWm1asVtBbc%3D",
               "biz_type": 2,
               "size": 1206076
             },
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-02-12 at 1.18.13 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a20364721d2453e807cda9dcf42740a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=xjCEErxfOBPiL0WOM%2BXN1%2FSjFTs%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a20364721d2453e807cda9dcf42740a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=l9NgsWDx0M%2BvcaWgOSFJTWw4SVQ%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/5a20364721d2453e807cda9dcf42740a.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a20364721d2453e807cda9dcf42740a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=xjCEErxfOBPiL0WOM%2BXN1%2FSjFTs%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a20364721d2453e807cda9dcf42740a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=l9NgsWDx0M%2BvcaWgOSFJTWw4SVQ%3D",
               "biz_type": 2,
               "size": 1644994
             }
@@ -509,9 +509,9 @@
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-02-12 at 1.18.46 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9129b6dcd194abb8ba3e139bfe160a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=1NNyPcBaGxPegUg1KsSPRq1rtQE%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9129b6dcd194abb8ba3e139bfe160a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=XBh9RoOhuMLZOrpqYJrcV7w9GIc%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/c9129b6dcd194abb8ba3e139bfe160a3.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9129b6dcd194abb8ba3e139bfe160a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=1NNyPcBaGxPegUg1KsSPRq1rtQE%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9129b6dcd194abb8ba3e139bfe160a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=XBh9RoOhuMLZOrpqYJrcV7w9GIc%3D",
               "biz_type": 2,
               "size": 1298716
             }
@@ -631,7 +631,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Zoe,</p><p>Thank you for providing the info above!<br>You actually got this right from the notes you attached to the ticket yesterday! ?????</br></p><p>I just went through the flow and indeed, the SubmitForm event is not firing at all.</p><img alt=\"Screenshot 2024-02-13 at 11.06.13 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/875423c0e25d423693fc01dd7450613e.png\" height=\"198.391\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/875423c0e25d423693fc01dd7450613e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832750&amp;x-signature=f93kc1XiAo1nFwHBhbRiyPyMnWA%3D\" width=\"375\"><p>The reason for that is because the base pixel is not being loaded on that page. Without the base pixel, you cannot use any of the functions to fire the event and implement advanced matching.</p><p>So this means that if this is the US site, then it makes sense that no SubmitForm events were ever captured because none were ever fired.</p><p>Good news is the fix is as simple as adding the TikTok base pixel back on the page.</p><p>If you could relay this information to them that would be great. I am still good to join a call with them as scheduled if they want to discuss it.</p><p>Best,<br>Armando<br><br /></br></br></p></img>",
+          "content": "<p>Hey Zoe,</p><p>Thank you for providing the info above!<br>You actually got this right from the notes you attached to the ticket yesterday! ?????</br></p><p>I just went through the flow and indeed, the SubmitForm event is not firing at all.</p><img alt=\"Screenshot 2024-02-13 at 11.06.13 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/875423c0e25d423693fc01dd7450613e.png\" height=\"198.391\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/875423c0e25d423693fc01dd7450613e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272885&amp;x-signature=VtREzYfksNKNCW1tzSOw0BVaZqA%3D\" width=\"375\"><p>The reason for that is because the base pixel is not being loaded on that page. Without the base pixel, you cannot use any of the functions to fire the event and implement advanced matching.</p><p>So this means that if this is the US site, then it makes sense that no SubmitForm events were ever captured because none were ever fired.</p><p>Good news is the fix is as simple as adding the TikTok base pixel back on the page.</p><p>If you could relay this information to them that would be great. I am still good to join a call with them as scheduled if they want to discuss it.</p><p>Best,<br>Armando<br><br /></br></br></p></img>",
           "type": 6
         }
       ],
@@ -870,7 +870,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1191342,
+  "pending_time": 1631477,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -1044,75 +1044,75 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8c5b5bb68af4d65a06b4bd40551d9c0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832749&x-signature=7UmeKWAYMlxORshOQ0tW2VQmHaA%3D",
-          "file_name": "file_20240318_13_32_30_100568",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8c5b5bb68af4d65a06b4bd40551d9c0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832749&x-signature=7UmeKWAYMlxORshOQ0tW2VQmHaA%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/b8c5b5bb68af4d65a06b4bd40551d9c0.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/398bf05767334227a55c8a1681085eea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832749&x-signature=dVeHrbqGWzZvBPMEqwmmG5xHdyA%3D",
-          "file_name": "file_20240318_13_32_30_100648",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/398bf05767334227a55c8a1681085eea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832749&x-signature=dVeHrbqGWzZvBPMEqwmmG5xHdyA%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/398bf05767334227a55c8a1681085eea.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec58cac5bf694364bbaa2051fb48e234.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832749&x-signature=9rg7FR%2F7KnZxiaHaeK7oE%2BxwvjY%3D",
-          "file_name": "file_20240318_13_32_30_100667",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec58cac5bf694364bbaa2051fb48e234.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832749&x-signature=9rg7FR%2F7KnZxiaHaeK7oE%2BxwvjY%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/ec58cac5bf694364bbaa2051fb48e234.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/15db5aaade634a6fb572c15f8df2b169.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832749&x-signature=5IU%2FOIF7vpVUb8oYhzDPdGNNaBo%3D",
-          "file_name": "file_20240318_13_32_30_100684",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/15db5aaade634a6fb572c15f8df2b169.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832749&x-signature=5IU%2FOIF7vpVUb8oYhzDPdGNNaBo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/15db5aaade634a6fb572c15f8df2b169.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272884&x-signature=oMvQVtl3hZ0QJ1THyETx7rmKOmo%3D",
+          "file_name": "file_20240323_15_48_05_120540",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/15db5aaade634a6fb572c15f8df2b169.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272884&x-signature=oMvQVtl3hZ0QJ1THyETx7rmKOmo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/15db5aaade634a6fb572c15f8df2b169.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a2c2745b475b4724aa4cc31f243ddbd8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832749&x-signature=qhYeUo0%2Fe8ugbZc4o9EZkLVW2Lo%3D",
-          "file_name": "file_20240318_13_32_30_100699",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a2c2745b475b4724aa4cc31f243ddbd8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832749&x-signature=qhYeUo0%2Fe8ugbZc4o9EZkLVW2Lo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8c5b5bb68af4d65a06b4bd40551d9c0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272884&x-signature=FAL3PQtnULYtFb5F1i66N%2FBE%2F3E%3D",
+          "file_name": "file_20240323_15_48_05_120662",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8c5b5bb68af4d65a06b4bd40551d9c0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272884&x-signature=FAL3PQtnULYtFb5F1i66N%2FBE%2F3E%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b8c5b5bb68af4d65a06b4bd40551d9c0.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a2c2745b475b4724aa4cc31f243ddbd8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272884&x-signature=px7XF%2B6QVgHmpeG6nTjFYviMJEU%3D",
+          "file_name": "file_20240323_15_48_05_120687",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a2c2745b475b4724aa4cc31f243ddbd8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272884&x-signature=px7XF%2B6QVgHmpeG6nTjFYviMJEU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/a2c2745b475b4724aa4cc31f243ddbd8.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e3dbd9d8a4c4c48b5a154caf1a02f8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832749&x-signature=hz2iqnY%2FLnkG%2Bz18LmWgdz4HQdM%3D",
-          "file_name": "file_20240318_13_32_30_100714",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e3dbd9d8a4c4c48b5a154caf1a02f8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832749&x-signature=hz2iqnY%2FLnkG%2Bz18LmWgdz4HQdM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e3dbd9d8a4c4c48b5a154caf1a02f8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272884&x-signature=5YsSICxtVNGE2qvzjv54MvK2HXU%3D",
+          "file_name": "file_20240323_15_48_05_120701",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e3dbd9d8a4c4c48b5a154caf1a02f8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272884&x-signature=5YsSICxtVNGE2qvzjv54MvK2HXU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/1e3dbd9d8a4c4c48b5a154caf1a02f8c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/398bf05767334227a55c8a1681085eea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272884&x-signature=L0R8QBB1y0LP3D2JdkpysY419TI%3D",
+          "file_name": "file_20240323_15_48_05_120715",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/398bf05767334227a55c8a1681085eea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272884&x-signature=L0R8QBB1y0LP3D2JdkpysY419TI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/398bf05767334227a55c8a1681085eea.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec58cac5bf694364bbaa2051fb48e234.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272884&x-signature=BzKivC92p9D1TPhl42mSmlrADF4%3D",
+          "file_name": "file_20240323_15_48_05_120728",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec58cac5bf694364bbaa2051fb48e234.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272884&x-signature=BzKivC92p9D1TPhl42mSmlrADF4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ec58cac5bf694364bbaa2051fb48e234.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-18 at 3.38.39 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/59befa8fb8844db78b20ed75fef015b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=Z3ujfx9AJtirmLIrYU8IewAul9w%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/59befa8fb8844db78b20ed75fef015b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=LY3onFWKSOwGZSYxZnWqrrjpMMc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/59befa8fb8844db78b20ed75fef015b2.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/59befa8fb8844db78b20ed75fef015b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=Z3ujfx9AJtirmLIrYU8IewAul9w%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/59befa8fb8844db78b20ed75fef015b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=LY3onFWKSOwGZSYxZnWqrrjpMMc%3D",
           "biz_type": 2,
           "size": 1529893
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-18 at 3.39.52 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f10a09d72f52423b86841479779bfcc1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=H2rdMQxlswfZWf2khfBauhhKMmI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f10a09d72f52423b86841479779bfcc1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=pbyqOZoxvMxvYXZZwAIJzrRFz%2FM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/f10a09d72f52423b86841479779bfcc1.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f10a09d72f52423b86841479779bfcc1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=H2rdMQxlswfZWf2khfBauhhKMmI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f10a09d72f52423b86841479779bfcc1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=pbyqOZoxvMxvYXZZwAIJzrRFz%2FM%3D",
           "biz_type": 2,
           "size": 1414793
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/903548bc0c7548d2979778e462169a10.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=AuMdg5EPda99lFw%2FPlT8xiQ2K%2BA%3D",
-          "file_name": "file_20240318_13_32_30_381801",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/903548bc0c7548d2979778e462169a10.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=AuMdg5EPda99lFw%2FPlT8xiQ2K%2BA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/903548bc0c7548d2979778e462169a10.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=8dH%2BUb1dgpl5rHwqD%2B8UEr6FiPk%3D",
+          "file_name": "file_20240323_15_48_05_412791",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/903548bc0c7548d2979778e462169a10.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=8dH%2BUb1dgpl5rHwqD%2B8UEr6FiPk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/903548bc0c7548d2979778e462169a10.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -1120,70 +1120,70 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-12 at 10.45.39 AM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18b49edb9a474db3888c60cd15594a9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=3iQZMSlenzqbg%2FvGkku7xi1lMm4%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18b49edb9a474db3888c60cd15594a9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=aRwpthOslOn%2FrLomezrT2B%2FvKuo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/18b49edb9a474db3888c60cd15594a9d.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18b49edb9a474db3888c60cd15594a9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=3iQZMSlenzqbg%2FvGkku7xi1lMm4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18b49edb9a474db3888c60cd15594a9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=aRwpthOslOn%2FrLomezrT2B%2FvKuo%3D",
           "biz_type": 2,
           "size": 997436
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-12 at 1.16.49 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb190536d72148c29b74571c83b9fcd7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=KEOpadKGrsBTbtr5cpoJ%2BYv%2FrUo%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb190536d72148c29b74571c83b9fcd7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=9EYh1BTA0ADoh8RVp5cymQsh1FM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/eb190536d72148c29b74571c83b9fcd7.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb190536d72148c29b74571c83b9fcd7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=KEOpadKGrsBTbtr5cpoJ%2BYv%2FrUo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eb190536d72148c29b74571c83b9fcd7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=9EYh1BTA0ADoh8RVp5cymQsh1FM%3D",
           "biz_type": 2,
           "size": 206168
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-12 at 1.17.27 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06a21639dab74377a750a00916e817d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=8do2I1yEwhU9KOgwh2n7wBLXtN0%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06a21639dab74377a750a00916e817d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=EhRiYc2TMwwCRmUIhBGQPGAK7ac%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/06a21639dab74377a750a00916e817d4.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06a21639dab74377a750a00916e817d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=8do2I1yEwhU9KOgwh2n7wBLXtN0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06a21639dab74377a750a00916e817d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=EhRiYc2TMwwCRmUIhBGQPGAK7ac%3D",
           "biz_type": 2,
           "size": 560114
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-12 at 1.17.45 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c04e85be4e92473781b9f33069e55aa3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=7YcZVI65XAbRF9XWUf5gne%2FYHXM%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c04e85be4e92473781b9f33069e55aa3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=S2JBF8U3xiPSEI18OVPo2MaH60Y%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c04e85be4e92473781b9f33069e55aa3.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c04e85be4e92473781b9f33069e55aa3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=7YcZVI65XAbRF9XWUf5gne%2FYHXM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c04e85be4e92473781b9f33069e55aa3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=S2JBF8U3xiPSEI18OVPo2MaH60Y%3D",
           "biz_type": 2,
           "size": 90939
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-12 at 1.18.02 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83b7a3340e8e49e7b37b3f02ab83e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=XMzONGKM337xwYZlbqrM51o2sZM%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83b7a3340e8e49e7b37b3f02ab83e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=gdc3ekNwpR3aDV5ryWm1asVtBbc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/83b7a3340e8e49e7b37b3f02ab83e8e7.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83b7a3340e8e49e7b37b3f02ab83e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=XMzONGKM337xwYZlbqrM51o2sZM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83b7a3340e8e49e7b37b3f02ab83e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=gdc3ekNwpR3aDV5ryWm1asVtBbc%3D",
           "biz_type": 2,
           "size": 1206076
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-12 at 1.18.13 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a20364721d2453e807cda9dcf42740a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=xjCEErxfOBPiL0WOM%2BXN1%2FSjFTs%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a20364721d2453e807cda9dcf42740a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=l9NgsWDx0M%2BvcaWgOSFJTWw4SVQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5a20364721d2453e807cda9dcf42740a.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a20364721d2453e807cda9dcf42740a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=xjCEErxfOBPiL0WOM%2BXN1%2FSjFTs%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a20364721d2453e807cda9dcf42740a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=l9NgsWDx0M%2BvcaWgOSFJTWw4SVQ%3D",
           "biz_type": 2,
           "size": 1644994
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-12 at 1.18.46 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9129b6dcd194abb8ba3e139bfe160a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=1NNyPcBaGxPegUg1KsSPRq1rtQE%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9129b6dcd194abb8ba3e139bfe160a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=XBh9RoOhuMLZOrpqYJrcV7w9GIc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c9129b6dcd194abb8ba3e139bfe160a3.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9129b6dcd194abb8ba3e139bfe160a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=1NNyPcBaGxPegUg1KsSPRq1rtQE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9129b6dcd194abb8ba3e139bfe160a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=XBh9RoOhuMLZOrpqYJrcV7w9GIc%3D",
           "biz_type": 2,
           "size": 1298716
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/875423c0e25d423693fc01dd7450613e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=f93kc1XiAo1nFwHBhbRiyPyMnWA%3D",
-          "file_name": "file_20240318_13_32_30_672830",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/875423c0e25d423693fc01dd7450613e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832750&x-signature=f93kc1XiAo1nFwHBhbRiyPyMnWA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/875423c0e25d423693fc01dd7450613e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=VtREzYfksNKNCW1tzSOw0BVaZqA%3D",
+          "file_name": "file_20240323_15_48_05_703037",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/875423c0e25d423693fc01dd7450613e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272885&x-signature=VtREzYfksNKNCW1tzSOw0BVaZqA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/875423c0e25d423693fc01dd7450613e.png",
           "file_type": "jpeg",
           "biz_type": 2

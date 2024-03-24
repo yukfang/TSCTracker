@@ -35,7 +35,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Christina,</p><p>Confirming receipt of your ticket.</p><p>I took a look at this advertiser's setup and I could confirm they have not implemented the SubmitForm event in their production site. </p><img alt=\"Screenshot 2024-02-05 at 11.30.50 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ad007b5e5e784309a78a7058865acdeb.png\" height=\"176.562\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ad007b5e5e784309a78a7058865acdeb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837734&amp;x-signature=vy4T1Yzt7sERQu6MbAelahnYNdI%3D\" width=\"375\"><p>The pixel was created almost 3 years ago and it appears the lone SubmitForm event came from what looks like a staging environment - jsaspanishstg.wpenginepowered.com. </p><img alt=\"Screenshot 2024-02-05 at 11.40.57 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/61d1061a84014d1a8dda29cacc999d74.png\" height=\"188.672\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61d1061a84014d1a8dda29cacc999d74.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837734&amp;x-signature=085is9ZKAR8DwQJGtvc61un1P1E%3D\" width=\"375\"><p>Recommended Funnel - based on their page, these are the recommended events to implement:</p><p><strong>Subscribe</strong> - whenever someone subscribes to their bulletin</p><img alt=\"subscribe.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/682135152c514eaa9117eed7df53c8e0.png\" height=\"113.356\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/682135152c514eaa9117eed7df53c8e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837734&amp;x-signature=o9FreBQfQLK8T6a2TjpD0lSu8Uo%3D\" width=\"375\"><p><em>Event Code</em></p><p>// add this before event code to all pages where PII data postback is expected and appropriate </p><p>ttq.identify({</p><p>    \"email\": \"&lt;hashed_email_address&gt;\",</p><p>});</p><p>ttq.track('Subscribe');</p><p><br /></p><p><strong>SubmitForm</strong> - whenever a visitor fills out the form for a free consultation</p><img alt=\"submitform.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e2fdd39ac7a94eb9901e2f6bf6fb2160.png\" height=\"221.043\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2fdd39ac7a94eb9901e2f6bf6fb2160.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837734&amp;x-signature=Doa1OCSLeqG71fTP2txS%2BDkTf%2FA%3D\" width=\"375\"><p><em>Event Code</em></p><p>// add this before event code to all pages where PII data postback is expected and appropriate </p><p>ttq.identify({</p><p>    \"email\": \"&lt;hashed_email_address&gt;\",</p><p>});</p><p>ttq.track('SubmitForm');</p><p><br /></p><p><strong>Contact</strong> - whenever a visitor clicks the Contactanos button or the phone number.</p><img alt=\"contact.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/521cdfc672bf4453b8c908d0c1e82e93.png\" height=\"45.592\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/521cdfc672bf4453b8c908d0c1e82e93.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837734&amp;x-signature=5yy1HBQZQfMo4XJ%2B2FIL7rodDQc%3D\" width=\"375\"><p><em>Event Code</em></p><p>ttq.track('Contact');</p><p>Their setup is rather simple given they do not offer any pricing on their services online, so no opportunity to send the usual parameters (i.e. value, currency, content_id, etc).</p><p>Let me know if you have any follow ups on the above.</p><p>Best,<br>Armando</br></p></img></img></img></img></img>",
+          "content": "<p>Hi Christina,</p><p>Confirming receipt of your ticket.</p><p>I took a look at this advertiser's setup and I could confirm they have not implemented the SubmitForm event in their production site. </p><img alt=\"Screenshot 2024-02-05 at 11.30.50 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ad007b5e5e784309a78a7058865acdeb.png\" height=\"176.562\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ad007b5e5e784309a78a7058865acdeb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273318&amp;x-signature=MKrudUTBGHcCNRYtvP0AplGWqGk%3D\" width=\"375\"><p>The pixel was created almost 3 years ago and it appears the lone SubmitForm event came from what looks like a staging environment - jsaspanishstg.wpenginepowered.com. </p><img alt=\"Screenshot 2024-02-05 at 11.40.57 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/61d1061a84014d1a8dda29cacc999d74.png\" height=\"188.672\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61d1061a84014d1a8dda29cacc999d74.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273318&amp;x-signature=9YjIB7YOLGQHEipdRRS1xfx3R0o%3D\" width=\"375\"><p>Recommended Funnel - based on their page, these are the recommended events to implement:</p><p><strong>Subscribe</strong> - whenever someone subscribes to their bulletin</p><img alt=\"subscribe.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/682135152c514eaa9117eed7df53c8e0.png\" height=\"113.356\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/682135152c514eaa9117eed7df53c8e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273318&amp;x-signature=M5xsy6wZrsqYCCs40Ki6SqeSD%2BA%3D\" width=\"375\"><p><em>Event Code</em></p><p>// add this before event code to all pages where PII data postback is expected and appropriate </p><p>ttq.identify({</p><p>    \"email\": \"&lt;hashed_email_address&gt;\",</p><p>});</p><p>ttq.track('Subscribe');</p><p><br /></p><p><strong>SubmitForm</strong> - whenever a visitor fills out the form for a free consultation</p><img alt=\"submitform.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e2fdd39ac7a94eb9901e2f6bf6fb2160.png\" height=\"221.043\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2fdd39ac7a94eb9901e2f6bf6fb2160.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273318&amp;x-signature=G26ve0jo8JEn75lvfCfnez%2By5G8%3D\" width=\"375\"><p><em>Event Code</em></p><p>// add this before event code to all pages where PII data postback is expected and appropriate </p><p>ttq.identify({</p><p>    \"email\": \"&lt;hashed_email_address&gt;\",</p><p>});</p><p>ttq.track('SubmitForm');</p><p><br /></p><p><strong>Contact</strong> - whenever a visitor clicks the Contactanos button or the phone number.</p><img alt=\"contact.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/521cdfc672bf4453b8c908d0c1e82e93.png\" height=\"45.592\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/521cdfc672bf4453b8c908d0c1e82e93.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273318&amp;x-signature=g3%2Fw5cvIPgekNPGYJ%2FFUWeE1Ff0%3D\" width=\"375\"><p><em>Event Code</em></p><p>ttq.track('Contact');</p><p>Their setup is rather simple given they do not offer any pricing on their services online, so no opportunity to send the usual parameters (i.e. value, currency, content_id, etc).</p><p>Let me know if you have any follow ups on the above.</p><p>Best,<br>Armando</br></p></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -274,7 +274,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2917357,
+  "pending_time": 3352941,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -450,56 +450,56 @@
         {
           "file_type": "png",
           "file_name": "JAApixel.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5b38ad7248e46719dc24791215f502e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837733&x-signature=Be5p%2By7kV415dimvJzIUcA%2B2j6M%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5b38ad7248e46719dc24791215f502e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273318&x-signature=eBxrJLBQKeKDUccpwm%2BlYZwA7So%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d5b38ad7248e46719dc24791215f502e.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5b38ad7248e46719dc24791215f502e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837733&x-signature=Be5p%2By7kV415dimvJzIUcA%2B2j6M%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5b38ad7248e46719dc24791215f502e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273318&x-signature=eBxrJLBQKeKDUccpwm%2BlYZwA7So%3D",
           "size": 986128
         },
         {
           "file_type": "png",
           "file_name": "JAA2.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ceecdfa26d864512bfe3ab1ced455755.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837733&x-signature=gytR%2F89yZXItiDxjeAZy5n8RYJI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ceecdfa26d864512bfe3ab1ced455755.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273318&x-signature=dwvLSne65%2F5qJjquoxoo%2BdjzTEc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ceecdfa26d864512bfe3ab1ced455755.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ceecdfa26d864512bfe3ab1ced455755.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837733&x-signature=gytR%2F89yZXItiDxjeAZy5n8RYJI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ceecdfa26d864512bfe3ab1ced455755.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273318&x-signature=dwvLSne65%2F5qJjquoxoo%2BdjzTEc%3D",
           "size": 342048
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2fdd39ac7a94eb9901e2f6bf6fb2160.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837734&x-signature=Doa1OCSLeqG71fTP2txS%2BDkTf%2FA%3D",
-          "file_name": "file_20240318_14_55_34_068724",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2fdd39ac7a94eb9901e2f6bf6fb2160.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837734&x-signature=Doa1OCSLeqG71fTP2txS%2BDkTf%2FA%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/e2fdd39ac7a94eb9901e2f6bf6fb2160.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61d1061a84014d1a8dda29cacc999d74.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273318&x-signature=9YjIB7YOLGQHEipdRRS1xfx3R0o%3D",
+          "file_name": "file_20240323_15_55_18_754100",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61d1061a84014d1a8dda29cacc999d74.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273318&x-signature=9YjIB7YOLGQHEipdRRS1xfx3R0o%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/61d1061a84014d1a8dda29cacc999d74.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/521cdfc672bf4453b8c908d0c1e82e93.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837734&x-signature=5yy1HBQZQfMo4XJ%2B2FIL7rodDQc%3D",
-          "file_name": "file_20240318_14_55_34_068786",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/521cdfc672bf4453b8c908d0c1e82e93.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837734&x-signature=5yy1HBQZQfMo4XJ%2B2FIL7rodDQc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/521cdfc672bf4453b8c908d0c1e82e93.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273318&x-signature=g3%2Fw5cvIPgekNPGYJ%2FFUWeE1Ff0%3D",
+          "file_name": "file_20240323_15_55_18_754183",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/521cdfc672bf4453b8c908d0c1e82e93.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273318&x-signature=g3%2Fw5cvIPgekNPGYJ%2FFUWeE1Ff0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/521cdfc672bf4453b8c908d0c1e82e93.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/682135152c514eaa9117eed7df53c8e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837734&x-signature=o9FreBQfQLK8T6a2TjpD0lSu8Uo%3D",
-          "file_name": "file_20240318_14_55_34_068802",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/682135152c514eaa9117eed7df53c8e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837734&x-signature=o9FreBQfQLK8T6a2TjpD0lSu8Uo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2fdd39ac7a94eb9901e2f6bf6fb2160.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273318&x-signature=G26ve0jo8JEn75lvfCfnez%2By5G8%3D",
+          "file_name": "file_20240323_15_55_18_754200",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2fdd39ac7a94eb9901e2f6bf6fb2160.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273318&x-signature=G26ve0jo8JEn75lvfCfnez%2By5G8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e2fdd39ac7a94eb9901e2f6bf6fb2160.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/682135152c514eaa9117eed7df53c8e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273318&x-signature=M5xsy6wZrsqYCCs40Ki6SqeSD%2BA%3D",
+          "file_name": "file_20240323_15_55_18_754214",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/682135152c514eaa9117eed7df53c8e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273318&x-signature=M5xsy6wZrsqYCCs40Ki6SqeSD%2BA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/682135152c514eaa9117eed7df53c8e0.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ad007b5e5e784309a78a7058865acdeb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837734&x-signature=vy4T1Yzt7sERQu6MbAelahnYNdI%3D",
-          "file_name": "file_20240318_14_55_34_068816",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ad007b5e5e784309a78a7058865acdeb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837734&x-signature=vy4T1Yzt7sERQu6MbAelahnYNdI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ad007b5e5e784309a78a7058865acdeb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273318&x-signature=MKrudUTBGHcCNRYtvP0AplGWqGk%3D",
+          "file_name": "file_20240323_15_55_18_754227",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ad007b5e5e784309a78a7058865acdeb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273318&x-signature=MKrudUTBGHcCNRYtvP0AplGWqGk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ad007b5e5e784309a78a7058865acdeb.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61d1061a84014d1a8dda29cacc999d74.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837734&x-signature=085is9ZKAR8DwQJGtvc61un1P1E%3D",
-          "file_name": "file_20240318_14_55_34_068828",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61d1061a84014d1a8dda29cacc999d74.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837734&x-signature=085is9ZKAR8DwQJGtvc61un1P1E%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/61d1061a84014d1a8dda29cacc999d74.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>단비님 안녕하세요.</p><p>페이지 확인 결과 현재 중복 설정을 하신 것으로 보입니다.</p><p><br /></p><p>픽셀 설정시에는 이벤트 매니저에서 URL 지정 (이벤트 빌더) <strong>또는</strong> 페이지 내 직접 코드삽입 (커스텀 코드) 을 해주셔야 하며,</p><p>현재 두가지 모두 세팅해두셨기 때문에 중복해서 트리거되고 있습니다.</p><p><br /></p><p>중복집계를 막기 위해서는 이벤트빌더에서 설정하신 내용을 삭제해주시면 되겠습니다.</p><p><br /></p><img alt=\"Screenshot 2024-01-19 at 14.43.05.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6a40aa0ad7564aff874fea4bc9b73566.png\" height=\"182.857\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6a40aa0ad7564aff874fea4bc9b73566.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832864&amp;x-signature=skAk6SXXHhjoKLQ1X9dNFW%2BmerQ%3D\" width=\"375\" />",
+          "content": "<p>단비님 안녕하세요.</p><p>페이지 확인 결과 현재 중복 설정을 하신 것으로 보입니다.</p><p><br /></p><p>픽셀 설정시에는 이벤트 매니저에서 URL 지정 (이벤트 빌더) <strong>또는</strong> 페이지 내 직접 코드삽입 (커스텀 코드) 을 해주셔야 하며,</p><p>현재 두가지 모두 세팅해두셨기 때문에 중복해서 트리거되고 있습니다.</p><p><br /></p><p>중복집계를 막기 위해서는 이벤트빌더에서 설정하신 내용을 삭제해주시면 되겠습니다.</p><p><br /></p><img alt=\"Screenshot 2024-01-19 at 14.43.05.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6a40aa0ad7564aff874fea4bc9b73566.png\" height=\"182.857\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6a40aa0ad7564aff874fea4bc9b73566.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272972&amp;x-signature=u2E7Nl%2BkYunjS1eATtEQzu74myk%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -299,7 +299,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3475887,
+  "pending_time": 3915995,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -481,15 +481,15 @@
         {
           "file_type": "png",
           "file_name": "락앤락 중복집계.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fb75b8d2dc40464f83f494f4a9ee98d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832863&x-signature=X5jKtuwYMkMUD9roGWnU46ajGco%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fb75b8d2dc40464f83f494f4a9ee98d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272972&x-signature=Opakl9ExJqf96o989JLe9AwmHsk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/fb75b8d2dc40464f83f494f4a9ee98d2.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fb75b8d2dc40464f83f494f4a9ee98d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832863&x-signature=X5jKtuwYMkMUD9roGWnU46ajGco%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fb75b8d2dc40464f83f494f4a9ee98d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272972&x-signature=Opakl9ExJqf96o989JLe9AwmHsk%3D",
           "size": 87072
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6a40aa0ad7564aff874fea4bc9b73566.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832864&x-signature=skAk6SXXHhjoKLQ1X9dNFW%2BmerQ%3D",
-          "file_name": "file_20240318_13_34_24_132849",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6a40aa0ad7564aff874fea4bc9b73566.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832864&x-signature=skAk6SXXHhjoKLQ1X9dNFW%2BmerQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6a40aa0ad7564aff874fea4bc9b73566.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272972&x-signature=u2E7Nl%2BkYunjS1eATtEQzu74myk%3D",
+          "file_name": "file_20240323_15_49_32_633353",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6a40aa0ad7564aff874fea4bc9b73566.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272972&x-signature=u2E7Nl%2BkYunjS1eATtEQzu74myk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/6a40aa0ad7564aff874fea4bc9b73566.png",
           "file_type": "jpeg",
           "biz_type": 2

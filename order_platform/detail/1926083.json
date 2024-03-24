@@ -186,18 +186,18 @@
             {
               "file_type": "png",
               "file_name": "Screen Shot 2024-03-14 at 2.14.50 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=N5Xqm9QNOdLpqkwaUocL2Eelyn0%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=RG8vcLu%2Bltt8sKcLh4kcxNnhNlA%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=N5Xqm9QNOdLpqkwaUocL2Eelyn0%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=RG8vcLu%2Bltt8sKcLh4kcxNnhNlA%3D",
               "biz_type": 2,
               "size": 467420
             },
             {
               "file_type": "png",
               "file_name": "Screen Shot 2024-03-14 at 2.16.06 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=wUGimYqyzvzeDcUNXERPNgoiTiA%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=wkk0lymKl41rrZ2LPgq52HsBHkU%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=wUGimYqyzvzeDcUNXERPNgoiTiA%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=wkk0lymKl41rrZ2LPgq52HsBHkU%3D",
               "biz_type": 2,
               "size": 536482
             }
@@ -207,12 +207,359 @@
       ],
       "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/b1503c23-6205-402e-b8ff-be407815879g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710954694,
+      "auto_close_hit": 0,
+      "id": 7348493069458735000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Brianna Cook",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6831207483526448133",
+      "name": "Brianna Cook",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Robbie,</p><p><br></p><p>Have you been able to check out my reply?</p><p><br></p><p>Thank you!</p><p>Brianna</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/b1503c23-6205-402e-b8ff-be407815879g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710965817,
+      "auto_close_hit": 0,
+      "id": 7348540490456842000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Brianna,</p><p>Apologies! I have been on PTO since Thursday last week but I&#39;ll make sure to address this as soon as I can.</p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710966352,
+      "auto_close_hit": 0,
+      "id": 7348543151164097000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Brianna Cook",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6831207483526448133",
+      "name": "Brianna Cook",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Oh shoot! Sorry, Robbie! Welcome back.</p><p><br></p><p>Thanks for your help!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/b1503c23-6205-402e-b8ff-be407815879g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711034493,
+      "auto_close_hit": 0,
+      "id": 7348834681581847000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Brianna,</p><p>Thanks so much for your patience here!</p><p>I was able to try out the new driver flow and it looks like the website only goes as far as gathering an Email address and a phone number, ending in this screen:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e0142be98d2646e6937436bdf105c1c5.png\" height=\"275.205\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0142be98d2646e6937436bdf105c1c5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274046&amp;x-signature=ayaIRrip1IuNoG9XD8KYcdd1gPI%3D\" width=\"375\"><p>Then when I head over to the Dasher app to continue the application, it asks for this same information when you select the \"Sign up to Dash\" and \"Already started signing up?\" button - email address and phone number.</p><p>Within the app, the background check process is then loaded into a Webview in the app itself.</p><p>I think I may have found our culprit here - it seems like a fair amount of Submit Form events are coming in without an Email address:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f69898cfbc774008ae269e4b77b1f236.png\" height=\"150\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f69898cfbc774008ae269e4b77b1f236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274046&amp;x-signature=HIUEvyU37KgdYnlGAz9rTBVWnco%3D\" width=\"375\"><p>Here are a sampling of URLs without hashed PII</p><ul><li>https://dasher.doordash.com/en-au?source=dx_signup_cx_ios&amp;internal-referrer=legacy-signup</li><li>https://dasher.doordash.com/en-us?utm_platform=ios&amp;utm_source=sms&amp;internal-referrer=legacy-signup&amp;referrer_id=22234991&amp;referral_campaign_id=282782</li><li>https://dasher.doordash.com/en-au?utm_source=google-sem-brand&amp;utm_medium=semb&amp;utm_campaign=dx_au_se_sb_go_acq_cauxxx_13954459593_%2Bbr_acq_xxxxx_catchxxxxxxxx_evg_cpax_epx_coaus_en_en_x_dash_go_se_txt_catchallxx&amp;utm_term=drive%20with%20doordash&amp;utm_content=694026765837_._EAIaIQobChMI3anjv4yChQMVhGwPAh1m-Q1kEAAYASAAEgLSb_D_BwE&amp;kclickid=_k_EAIaIQobChMI3anjv4yChQMVhGwPAh1m-Q1kEAAYASAAEgLSb_D_BwE_k_&amp;utm_id=go_cmp-13954459593_adg-154990218148_ad-694026765837_kwd-781817134982_dev-m_ext-_prd-_mca-_sig-EAIaIQobChMI3anjv4yChQMVhGwPAh1m-Q1kEAAYASAAEgLSb_D_BwE&amp;gad_source=1&amp;gbraid=0AAAAADACs0RWvhr8c8PTpG9ol6d_XRzIv&amp;gclid=EAIaIQobChMI3anjv4yChQMVhGwPAh1m-Q1kEAAYASAAEgLSb_D_BwE</li><li>https://dasher.doordash.com/en-us</li></ul><p><br /></p><p>Interestingly, we also see that these same URLs will receive hashed PII as well:</p><ul><li>https://dasher.doordash.com/es-us?source=dx_app_iOS</li><li>https://dasher.doordash.com/fr-ca?source=apply_android&amp;intl=fr-CA</li><li>https://dasher.doordash.com/en-us?campaign=dundee-mi&amp;rx_c=amp_1710347218563&amp;rx_campaign=Indeed1&amp;rx_ch=jobp4p&amp;rx_group=349201&amp;rx_job=notier-dddnen-dundee-mi-48131-20240201&amp;rx_medium=cpc&amp;rx_r=none&amp;rx_source=Indeed&amp;rx_ts=20240320T000541Z&amp;rx_vp=cpc&amp;utm_campaign=dx_us_jb_rc_re_acq_5768xx_11111_%2B_Dundee%2C%20MI_5768&amp;utm_content=recruitics&amp;utm_medium=indeed&amp;utm_source=recruitics&amp;rx_p=CWN8ZSC4VF&amp;rx_viewer=a70ea152b3f411eeb187f1d296e6b63010098fe347d34240a6941cead7264799</li><li>https://dasher.doordash.com/en-us?utm_source=Kepler-TikTok&amp;utm_medium=TikTok_Lead_Acquisition&amp;utm_campaign=dx_us_ps_tt_tk_acq_d517xx_11111_%2B&amp;utm_term=charlotte&amp;utm_content=TikTokLeadForm&amp;ttclid=E_C_P_CsoBDssFBvS-h4zltSnbO0lH355q_KUU1SyVVqEK5h93PtdDwu78W1lUae2RLYpCFqJeCeHFqckDfbYN_PH3jzekOZGSLIYPsZPQ8F9J2I6zzuRVm_VZ9GkHzpvBCXPD3dgK2An5x3U-S6wNzqjzcSZ_8ADzwCXPO5b1pQp53XrXGqRhEG7mvbJvxpgHXuI184F-xlBDA6-YeJn-b99FtjeXuYaDZ9xnro0LQO3iirKv0yMqDcSE7Cf7vQtPF58AwotqfyXyrqYJ6CmSNRIEdjIuMBogABIFgULiRmDPCStM_PNSORTa57T17AjMnoTW1zmH8P8&amp;is_from_prerender=0</li></ul><p><br /></p><p>I would assume this may be in part of new privacy implementations in iOS and Android platforms, but it would also be worth having the DoorDash team look into this as it is difficult for us to debug and look into the network calls from within Mobile apps. I've attached a CSV output of SubmitForm events for 3/20 that may help with an investigation on their end.</p><p>Thanks and I really appreciate your patience here!</p><p>Best,</p><p>Robbie</p></img></img>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "csv",
+              "file_name": "doordash submit form events 3_20.csv",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oM0AADeI5kAnGLXGpFJpT6EA4DheflRQWAJfHA.csv?lk3s=cbe26b3a&x-expires=4833274046&x-signature=bOtaixEAshh31lVEZIwh11pU4XU%3D",
+              "file_key": "tos-alisg-v-90231e-sg/oM0AADeI5kAnGLXGpFJpT6EA4DheflRQWAJfHA.csv",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oM0AADeI5kAnGLXGpFJpT6EA4DheflRQWAJfHA.csv?lk3s=cbe26b3a&x-expires=4833274046&x-signature=bOtaixEAshh31lVEZIwh11pU4XU%3D",
+              "biz_type": 2,
+              "size": 29635297
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711039337,
+      "auto_close_hit": 0,
+      "id": 7348856365986644000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kat.ketzler@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user7438346733011",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7075377045979743233",
+      "name": "user7438346733011",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,</p><p>Thank you for the thorough investigation! Jumping in here as Bri is OOO for the rest of the week. I am the Measurement Partner on the account and have been closely involved in the process. </p><p>To clarify, re: user flow, can you confirm that my understanding is correct? After filling out Instant Form on TikTok, you then was directed to the Dasher website and was able to go through filling Email and Phone information on web before being prompted with &#34;Time to download..&#34; screen. If so, this should be the flow we expect as we believe Form web event fires after users successfully input email and phone.</p><p>Re: email missing from Form event. Confirming the data you showed here are from 3/20. Our SE POC was able to confirm 100% coverage for email with 100% formatting accuracy a few days ago. Does this mean certain PIIs fall off in the last few days? and/or may be related to the new privacy implementation on IOS and Android you mentioned? Is it missing at a large scale that we should be worried? Should we reach out to SE to triple check again?</p><p>Thanks again for your help, Robbie!</p><p>Kat</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_70341aa5-44e2-4a25-996b-77414717f04g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711051517,
+      "auto_close_hit": 0,
+      "id": 7348909068616090000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kat!</p><p>Regarding the user flow, that is correct:</p><ul><li>Enter Name, Phone number, and zipcode, the Email address is automatically populated </li><li>Thanks for your response! page appears - user is invited to click on the \"Click to continue sign up\" button</li><li>Then from within the in app browser, the dasher.doordash.com page is loaded and the user continues to sign up and is eventually directed to download the Dasher app</li></ul><p>That is interesting! They may be seeing something I am not but I would definitely go back and have SE to check again based off of the data from 3/20 in the CSV file I provided yesterday - highlighting these specifically:</p><ul><li>PixelAdLog means that the data came onsite, from the Instant Form on the TT app</li><li>Presence of a Click ID and an ad_id value also validates the user came from the Instant Form</li><li>However, if we look at the Email and Phone columns, some are empty</li><li>Note regarding the query is that it was ran with a limit of 10000 rows</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9a041de45ba04f3b8283c2b8d00a3216.png\" height=\"104.248\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9a041de45ba04f3b8283c2b8d00a3216.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274046&amp;x-signature=HBwbaPOST57ma3LXH7axnji8r9w%3D\" width=\"375\"><p>The assumption is that every Instant Form submission would have a hashed email and/or phone number tied with it as it is coming from the TT app.</p><p>Thanks!</p><p>Robbie</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711052380,
+      "auto_close_hit": 0,
+      "id": 7348912689512497000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kat.ketzler@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user7438346733011",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7075377045979743233",
+      "name": "user7438346733011",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,</p><p>Thank you so much for the quick follow-up and the detailed call outs. Sounds good on user flow! I have reached out to&nbsp; SE to investigate further regarding missing emails/phones and the information you provide will certainly be helpful. </p><p>It is indeed interesting especially for Instant Form, we would expect Instant Form to capture email and phone, right? Email is auto-filled already. Does this imply the instant form is not working properly or mean users just did not fill out the instant form but somehow bypassed and trigged the event?&nbsp;</p><p>Thanks,</p><p>Kat</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_70341aa5-44e2-4a25-996b-77414717f04g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711053633,
+      "auto_close_hit": 0,
+      "id": 7348913804283068000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kat,</p><p>I've previewed the Ad a few times and tried to input invalid values and it would not let me proceed to submit the instant form. If we take a closer look at the data and drill down - we can see that the Instant Form submission events with null PII are coming from iPhone/iOS devices:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/761437d0c2b6483b9791ec56edfb300a.png\" height=\"60.445\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/761437d0c2b6483b9791ec56edfb300a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274046&amp;x-signature=H%2BNxFWkoa%2F5J2H7NQKP9%2B2Hfzdg%3D\" width=\"375\"><p>It's hard to say specifically what might be causing this, but if I were to hazard a guess of any kind (I would not put any money on this by any means), these may be from users that have declined the ATT prompt for the TikTok app. The App Transparency Tracking prompt explicitly mentions tracking across other apps and websites but I'm not sure if it prevents the outgoing webview traffic from within the app potentially containing PII. I will do some further research on this</p><p>If we look at it from the mobile app, event tracking SKAD network perspective, it would make some sense since event data becomes aggregated and we lose granularity when it comes to parameters. Almost everything ends up being obfuscated and translated into Conversion Values.</p><p>I will run another query that will pull all SubmitForm events for 3/20 and see if this hypothesis still stands up if it is exclusively only for iOS users.</p><p>Thanks!</p><p>Robbie</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711058747,
+      "auto_close_hit": 0,
+      "id": 7348938752565330000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kat - it does look like it is only occurring for iOS users. I've attached an updated CSV file showing all SubmitForm events for 3/20</p><p>Out of&nbsp;24693 tracked SubmitForm events for 3/20</p><ul><li>72 submitted through the Instant Form</li><li>28 with NULL values for email/phone and all through iPhone/iOS devices</li><li>For non-instant form SubmitForm events, 214 have come in with NULL values with email/phone</li><ul><li>These have all come in through the user agent 'UA-name:iOSDasherWebView (iPhone); client-version: 2.315.0.82904' which I would assume indicates that these are applications submitted through the iOS Dasher app</li></ul></ul><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "csv",
+              "file_name": "doordash all submitform events 3_20.csv",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0K8wtwfvCELgtDMABayAcB7riAIiKABiyAAE3.csv?lk3s=cbe26b3a&x-expires=4833274046&x-signature=KFoWbr8oUu7650sx%2BPhb9ooNyS4%3D",
+              "file_key": "tos-alisg-v-90231e-sg/o0K8wtwfvCELgtDMABayAcB7riAIiKABiyAAE3.csv",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0K8wtwfvCELgtDMABayAcB7riAIiKABiyAAE3.csv?lk3s=cbe26b3a&x-expires=4833274046&x-signature=KFoWbr8oUu7650sx%2BPhb9ooNyS4%3D",
+              "biz_type": 2,
+              "size": 0
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711121892,
+      "auto_close_hit": 0,
+      "id": 7349212167171736000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kat.ketzler@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user7438346733011",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7075377045979743233",
+      "name": "user7438346733011",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie,</p><p>Thank you for the insights! This is very clear and helpful. Excellent investigation. You are right that certain browsers may face tracking limitations with IOS devices. I will get more information on this as well.&nbsp;</p><p>To understand the scale of null PIIs and gauge the implications, I did some simple filtering and calculations based on the file. Can you confirm this is in line with your understanding? Out of ~25K tracked SubmitForm web events, ~63% events were from OS devices and among those, 5% of events return null PIIs. Overall, we have ~3% PIIs missing.&nbsp;</p><p>Thanks,<br>Kat</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_70341aa5-44e2-4a25-996b-77414717f04g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711141709,
+      "auto_close_hit": 0,
+      "id": 7349295627945132000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kat,</p><p>Yes those numbers do align with what I am seeing as well. Not necessarily a large amount but is definitely worth looking into.</p><p>Referring back to the original question, would you happen to have any Campaigns and/or Ad Group IDs that are using the native forms where we&#39;re not seeing attributions for?</p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
-  "pending_from_follower": true,
+  "pending_from_follower": false,
   "id": 1926083,
   "workflow_nodes": [],
   "board_id": 1705151646989706,
@@ -232,9 +579,9 @@
   "type": 6,
   "current_role": null,
   "fd_permission": 1,
-  "status": 2,
+  "status": 1,
   "business_data": [],
-  "update_time": 1710450999,
+  "update_time": 1711141709,
   "owner_name": "Brianna Cook",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -277,7 +624,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 496334,
+  "pending_time": 68337,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -405,20 +752,70 @@
         {
           "file_type": "png",
           "file_name": "Screen Shot 2024-03-14 at 2.14.50 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=N5Xqm9QNOdLpqkwaUocL2Eelyn0%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=RG8vcLu%2Bltt8sKcLh4kcxNnhNlA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=N5Xqm9QNOdLpqkwaUocL2Eelyn0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83a7f3bafbb14ae3a825e85752c4befd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=RG8vcLu%2Bltt8sKcLh4kcxNnhNlA%3D",
           "biz_type": 2,
           "size": 467420
         },
         {
           "file_type": "png",
           "file_name": "Screen Shot 2024-03-14 at 2.16.06 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=wUGimYqyzvzeDcUNXERPNgoiTiA%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=wkk0lymKl41rrZ2LPgq52HsBHkU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838518&x-signature=wUGimYqyzvzeDcUNXERPNgoiTiA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcde0920a7e04f5ea0ee0fdaa88f7b67.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=wkk0lymKl41rrZ2LPgq52HsBHkU%3D",
           "biz_type": 2,
           "size": 536482
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f69898cfbc774008ae269e4b77b1f236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=HIUEvyU37KgdYnlGAz9rTBVWnco%3D",
+          "file_name": "file_20240323_16_07_26_410996",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f69898cfbc774008ae269e4b77b1f236.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=HIUEvyU37KgdYnlGAz9rTBVWnco%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f69898cfbc774008ae269e4b77b1f236.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0142be98d2646e6937436bdf105c1c5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=ayaIRrip1IuNoG9XD8KYcdd1gPI%3D",
+          "file_name": "file_20240323_16_07_26_411046",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0142be98d2646e6937436bdf105c1c5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=ayaIRrip1IuNoG9XD8KYcdd1gPI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e0142be98d2646e6937436bdf105c1c5.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "csv",
+          "file_name": "doordash submit form events 3_20.csv",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oM0AADeI5kAnGLXGpFJpT6EA4DheflRQWAJfHA.csv?lk3s=cbe26b3a&x-expires=4833274046&x-signature=bOtaixEAshh31lVEZIwh11pU4XU%3D",
+          "file_key": "tos-alisg-v-90231e-sg/oM0AADeI5kAnGLXGpFJpT6EA4DheflRQWAJfHA.csv",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oM0AADeI5kAnGLXGpFJpT6EA4DheflRQWAJfHA.csv?lk3s=cbe26b3a&x-expires=4833274046&x-signature=bOtaixEAshh31lVEZIwh11pU4XU%3D",
+          "biz_type": 2,
+          "size": 29635297
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9a041de45ba04f3b8283c2b8d00a3216.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=HBwbaPOST57ma3LXH7axnji8r9w%3D",
+          "file_name": "file_20240323_16_07_26_507536",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9a041de45ba04f3b8283c2b8d00a3216.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=HBwbaPOST57ma3LXH7axnji8r9w%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/9a041de45ba04f3b8283c2b8d00a3216.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/761437d0c2b6483b9791ec56edfb300a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=H%2BNxFWkoa%2F5J2H7NQKP9%2B2Hfzdg%3D",
+          "file_name": "file_20240323_16_07_26_579958",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/761437d0c2b6483b9791ec56edfb300a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274046&x-signature=H%2BNxFWkoa%2F5J2H7NQKP9%2B2Hfzdg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/761437d0c2b6483b9791ec56edfb300a.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "csv",
+          "file_name": "doordash all submitform events 3_20.csv",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0K8wtwfvCELgtDMABayAcB7riAIiKABiyAAE3.csv?lk3s=cbe26b3a&x-expires=4833274046&x-signature=KFoWbr8oUu7650sx%2BPhb9ooNyS4%3D",
+          "file_key": "tos-alisg-v-90231e-sg/o0K8wtwfvCELgtDMABayAcB7riAIiKABiyAAE3.csv",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0K8wtwfvCELgtDMABayAcB7riAIiKABiyAAE3.csv?lk3s=cbe26b3a&x-expires=4833274046&x-signature=KFoWbr8oUu7650sx%2BPhb9ooNyS4%3D",
+          "biz_type": 2,
+          "size": 0
         }
       ],
       "valid": true,

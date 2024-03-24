@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354674",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1709676207,
   "deadline": 0,
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Alexandra, </p><p><br /></p><p>If the advertiser were using <a href=\"https://ads.tiktok.com/help/article/shopify-set-up-guide?lang=en\" target=\"_blank\">Shopify One-click</a>, the full funnel of events:</p><p>ViewContent</p><p>AddToCart</p><p>Search</p><p>InitiateCheckout</p><p>AddPaymentInfo</p><p>CompletePayment</p><p>would have been set up by default. Because we can see that two <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CN77GLBC77UBGB37QAL0?start_time=2024-03-01&amp;end_time=2024-03-07&amp;aadvid=7335931544399478785\" target=\"_blank\">lower-funnel events</a> are missing or not performing well:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/762b002524ac40099b6ba5d2c76c30e1.png\" height=\"42.182\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/762b002524ac40099b6ba5d2c76c30e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838461&amp;x-signature=QfaeYojcNWOEbDFJoyOAlrPTx1U%3D\" width=\"375\"><p>they should take the following troubleshooting steps in the attached documentation under 'Disconnect From A Pixel' and 'Reconnect To A Pixel'. Disconnecting and re-connecting a pixel will solve almost any problem with Shopify.</p><p><br /></p><p>In conjunction with disconnecting and re-connecting the pixel, the advertiser can create a new pixel per the instructions at the top of the document <span style=\"color: #222222;\">'Create Pixel Through TikTok/Shopify Integration'. Their current pixel is not performing well, so if they object to creating a new pixel you could point out that creating a new pixel can only improve their campaign performance on TikTok. This will also give us a way to compare the new and old pixel, and further understand the issues that have come up recently.</span></p><p><br /></p><p><span style=\"color: #222222;\">I'll keep this ticket open for now in case there are questions!</span></p><p><br /></p><p><span style=\"color: #222222;\">Thanks, Heidi</span></p></img>",
+          "content": "<p>Hi Alexandra, </p><p><br /></p><p>If the advertiser were using <a href=\"https://ads.tiktok.com/help/article/shopify-set-up-guide?lang=en\" target=\"_blank\">Shopify One-click</a>, the full funnel of events:</p><p>ViewContent</p><p>AddToCart</p><p>Search</p><p>InitiateCheckout</p><p>AddPaymentInfo</p><p>CompletePayment</p><p>would have been set up by default. Because we can see that two <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CN77GLBC77UBGB37QAL0?start_time=2024-03-01&amp;end_time=2024-03-07&amp;aadvid=7335931544399478785\" target=\"_blank\">lower-funnel events</a> are missing or not performing well:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/762b002524ac40099b6ba5d2c76c30e1.png\" height=\"42.182\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/762b002524ac40099b6ba5d2c76c30e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273986&amp;x-signature=OBpdptSDXYH98ODkgfqFN50y5bM%3D\" width=\"375\"><p>they should take the following troubleshooting steps in the attached documentation under 'Disconnect From A Pixel' and 'Reconnect To A Pixel'. Disconnecting and re-connecting a pixel will solve almost any problem with Shopify.</p><p><br /></p><p>In conjunction with disconnecting and re-connecting the pixel, the advertiser can create a new pixel per the instructions at the top of the document <span style=\"color: #222222;\">'Create Pixel Through TikTok/Shopify Integration'. Their current pixel is not performing well, so if they object to creating a new pixel you could point out that creating a new pixel can only improve their campaign performance on TikTok. This will also give us a way to compare the new and old pixel, and further understand the issues that have come up recently.</span></p><p><br /></p><p><span style=\"color: #222222;\">I'll keep this ticket open for now in case there are questions!</span></p><p><br /></p><p><span style=\"color: #222222;\">Thanks, Heidi</span></p></img>",
           "type": 6
         },
         {
@@ -99,9 +99,9 @@
             {
               "file_type": "pdf",
               "file_name": "Shopify Integration Hub Implementation and Troubleshooting.pdf",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf?lk3s=cbe26b3a&x-expires=4832838461&x-signature=06eXdxfbqvz79b26azMGP%2Fs%2FHLw%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf?lk3s=cbe26b3a&x-expires=4833273986&x-signature=t16Q328%2FeQpVP%2BwRw1G70%2F97Z5s%3D",
               "file_key": "tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf?lk3s=cbe26b3a&x-expires=4832838461&x-signature=06eXdxfbqvz79b26azMGP%2Fs%2FHLw%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf?lk3s=cbe26b3a&x-expires=4833273986&x-signature=t16Q328%2FeQpVP%2BwRw1G70%2F97Z5s%3D",
               "biz_type": 2,
               "size": 0
             }
@@ -371,7 +371,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 834653,
+  "pending_time": 1270178,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -547,31 +547,31 @@
         {
           "file_type": "png",
           "file_name": "Screen Shot 2024-03-05 at 4.01.50 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c8258bb757427a9413865f851a4e80.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=3dIp4riJfuQptO2P9inyUa%2F32gc%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c8258bb757427a9413865f851a4e80.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273986&x-signature=R1arnXumBEjMa6DszB0Lpbt%2FrAA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/f4c8258bb757427a9413865f851a4e80.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c8258bb757427a9413865f851a4e80.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=3dIp4riJfuQptO2P9inyUa%2F32gc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4c8258bb757427a9413865f851a4e80.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273986&x-signature=R1arnXumBEjMa6DszB0Lpbt%2FrAA%3D",
           "size": 448228
         },
         {
           "file_type": "png",
           "file_name": "unnamed-1.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4400c54a57a9467ca38afebd241216f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=wXl0x2CJlnY5oFECIUokjgi%2F7Ek%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4400c54a57a9467ca38afebd241216f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273986&x-signature=2crK5z000LGrGQciuQmXXSzESDg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4400c54a57a9467ca38afebd241216f2.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4400c54a57a9467ca38afebd241216f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=wXl0x2CJlnY5oFECIUokjgi%2F7Ek%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4400c54a57a9467ca38afebd241216f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273986&x-signature=2crK5z000LGrGQciuQmXXSzESDg%3D",
           "size": 30381
         },
         {
           "file_type": "png",
           "file_name": "unnamed.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8575a9c3f5b54fd88e37d71339dd14ab.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=LAiEc5PNvkY5ZEZdwVQzoGZmb%2Bc%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8575a9c3f5b54fd88e37d71339dd14ab.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273986&x-signature=ywsP4Zw%2Bb9ulIxdxz6Ls0dz32GY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8575a9c3f5b54fd88e37d71339dd14ab.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8575a9c3f5b54fd88e37d71339dd14ab.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=LAiEc5PNvkY5ZEZdwVQzoGZmb%2Bc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8575a9c3f5b54fd88e37d71339dd14ab.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273986&x-signature=ywsP4Zw%2Bb9ulIxdxz6Ls0dz32GY%3D",
           "size": 59773
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/762b002524ac40099b6ba5d2c76c30e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=QfaeYojcNWOEbDFJoyOAlrPTx1U%3D",
-          "file_name": "file_20240318_15_07_42_061389",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/762b002524ac40099b6ba5d2c76c30e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838461&x-signature=QfaeYojcNWOEbDFJoyOAlrPTx1U%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/762b002524ac40099b6ba5d2c76c30e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273986&x-signature=OBpdptSDXYH98ODkgfqFN50y5bM%3D",
+          "file_name": "file_20240323_16_06_26_768710",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/762b002524ac40099b6ba5d2c76c30e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273986&x-signature=OBpdptSDXYH98ODkgfqFN50y5bM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/762b002524ac40099b6ba5d2c76c30e1.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -579,9 +579,9 @@
         {
           "file_type": "pdf",
           "file_name": "Shopify Integration Hub Implementation and Troubleshooting.pdf",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf?lk3s=cbe26b3a&x-expires=4832838461&x-signature=06eXdxfbqvz79b26azMGP%2Fs%2FHLw%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf?lk3s=cbe26b3a&x-expires=4833273986&x-signature=t16Q328%2FeQpVP%2BwRw1G70%2F97Z5s%3D",
           "file_key": "tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf?lk3s=cbe26b3a&x-expires=4832838461&x-signature=06eXdxfbqvz79b26azMGP%2Fs%2FHLw%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYHrDEAVImLAL5prAEUAigFAQ14AXDfFpfIx6e.pdf?lk3s=cbe26b3a&x-expires=4833273986&x-signature=t16Q328%2FeQpVP%2BwRw1G70%2F97Z5s%3D",
           "biz_type": 2,
           "size": 0
         }

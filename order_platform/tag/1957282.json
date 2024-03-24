@@ -1,0 +1,13 @@
+[
+  {
+    "id": "38200000082",
+    "name": "Open Status",
+    "sub_tags": [
+      {
+        "id": "38300000169",
+        "name": "On-Hold / Delayed"
+      }
+    ],
+    "color": "#f5a623"
+  }
+]

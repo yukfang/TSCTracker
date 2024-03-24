@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Kayla,</p><p><br /></p><p>Notes on their current/new setup below:</p><ul><li>Overall event volume seems to be much lower starting on 3/12. We went from 203K events on 3/11 to 23K on 3/12. </li><li>Pageview events don't seem to be firing on many of the pages. In fact, view content events now outnumber pageview events. </li><li>View Content events are missing value and currency parameters. Content_ID coverage is roughly only half of the events. </li><li>Add to Cart events are firing through a manual Pixel implementation. Contents parameters coverage is 100%. </li><li>Initiate checkout events are firing through Google Tag Manager templates. There appears to be a double firing issue. I would recommend they check the triggers in GTM for this event. Contents parameters coverage is also 100%. </li><li>Complete Payment events are firing through both Google Tag Manager and a Manual Pixel implementation. The events coming from the Manual Pixel implementation seem to be lacking content_type which is also reflected in Events Manager. (see second screenshot) Why are there Complete Payment events firing through two separate methods?</li></ul><p><br /></p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3bea578950564086af071a097c21253a.png\" height=\"321.558\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3bea578950564086af071a097c21253a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838559&amp;x-signature=lM4joAg0kSpOslBEiQswzzr00Ao%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6b3cc52e8b194d22bc248f8014c65b3b.png\" height=\"353.834\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b3cc52e8b194d22bc248f8014c65b3b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838559&amp;x-signature=VWrKZxJP7hTVhRe70tVpLQt5UMA%3D\" width=\"375\"><p>Regards,</p><p>Thomas</p></img></img>",
+          "content": "<p>Hi Kayla,</p><p><br /></p><p>Notes on their current/new setup below:</p><ul><li>Overall event volume seems to be much lower starting on 3/12. We went from 203K events on 3/11 to 23K on 3/12. </li><li>Pageview events don't seem to be firing on many of the pages. In fact, view content events now outnumber pageview events. </li><li>View Content events are missing value and currency parameters. Content_ID coverage is roughly only half of the events. </li><li>Add to Cart events are firing through a manual Pixel implementation. Contents parameters coverage is 100%. </li><li>Initiate checkout events are firing through Google Tag Manager templates. There appears to be a double firing issue. I would recommend they check the triggers in GTM for this event. Contents parameters coverage is also 100%. </li><li>Complete Payment events are firing through both Google Tag Manager and a Manual Pixel implementation. The events coming from the Manual Pixel implementation seem to be lacking content_type which is also reflected in Events Manager. (see second screenshot) Why are there Complete Payment events firing through two separate methods?</li></ul><p><br /></p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3bea578950564086af071a097c21253a.png\" height=\"321.558\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3bea578950564086af071a097c21253a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274090&amp;x-signature=AyQ8VYCAwMKWdJtIPpO6zA%2BubTg%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6b3cc52e8b194d22bc248f8014c65b3b.png\" height=\"353.834\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b3cc52e8b194d22bc248f8014c65b3b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274090&amp;x-signature=EnZEdySs2x8NBcQnsReUsD3w8Ss%3D\" width=\"375\"><p>Regards,</p><p>Thomas</p></img></img>",
           "type": 6
         }
       ],
@@ -357,7 +357,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 328295,
+  "pending_time": 763825,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -531,18 +531,18 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b3cc52e8b194d22bc248f8014c65b3b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838559&x-signature=VWrKZxJP7hTVhRe70tVpLQt5UMA%3D",
-          "file_name": "file_20240318_15_09_19_900521",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b3cc52e8b194d22bc248f8014c65b3b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838559&x-signature=VWrKZxJP7hTVhRe70tVpLQt5UMA%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/6b3cc52e8b194d22bc248f8014c65b3b.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3bea578950564086af071a097c21253a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274090&x-signature=AyQ8VYCAwMKWdJtIPpO6zA%2BubTg%3D",
+          "file_name": "file_20240323_16_08_10_714439",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3bea578950564086af071a097c21253a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274090&x-signature=AyQ8VYCAwMKWdJtIPpO6zA%2BubTg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/3bea578950564086af071a097c21253a.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3bea578950564086af071a097c21253a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838559&x-signature=lM4joAg0kSpOslBEiQswzzr00Ao%3D",
-          "file_name": "file_20240318_15_09_19_900596",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3bea578950564086af071a097c21253a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838559&x-signature=lM4joAg0kSpOslBEiQswzzr00Ao%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/3bea578950564086af071a097c21253a.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b3cc52e8b194d22bc248f8014c65b3b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274090&x-signature=EnZEdySs2x8NBcQnsReUsD3w8Ss%3D",
+          "file_name": "file_20240323_16_08_10_714509",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b3cc52e8b194d22bc248f8014c65b3b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274090&x-signature=EnZEdySs2x8NBcQnsReUsD3w8Ss%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6b3cc52e8b194d22bc248f8014c65b3b.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

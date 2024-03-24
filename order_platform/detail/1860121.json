@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_a1acfe06-d128-4d32-ae8b-a7e0264e37fg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a1acfe06-d128-4d32-ae8b-a7e0264e37fg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Carly Gillingham",
   "create_time": 1707170798,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Tess, we can definitely help the client to improve their signal score.</p><p>Looks like client does not have dev resource and no expertise to impement events api.</p><p>They can however put browser events using GTM.</p><p><strong>We can get on a call with the client </strong> (my calendar: http://tinyurl.com/Saurabh-scheduler) to install more browser events (currently there is only 1 event)</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8afcfecb208c4f59aa622393c6822117.png\" height=\"132.468\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8afcfecb208c4f59aa622393c6822117.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837739&amp;x-signature=p5TCkQC3rMm7tiDihlTPB8wH3ug%3D\" width=\"375\"><p>If they want to implement eapi and dont have resource than we can leverage our 3rd party dev program who can write for them </p></img>",
+          "content": "<p>Hi Tess, we can definitely help the client to improve their signal score.</p><p>Looks like client does not have dev resource and no expertise to impement events api.</p><p>They can however put browser events using GTM.</p><p><strong>We can get on a call with the client </strong> (my calendar: http://tinyurl.com/Saurabh-scheduler) to install more browser events (currently there is only 1 event)</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8afcfecb208c4f59aa622393c6822117.png\" height=\"132.468\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8afcfecb208c4f59aa622393c6822117.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273324&amp;x-signature=s4O6rPCmV041tYHHv3qIIDcNzlQ%3D\" width=\"375\"><p>If they want to implement eapi and dont have resource than we can leverage our 3rd party dev program who can write for them </p></img>",
           "type": 6
         }
       ],
@@ -328,7 +328,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3454323,
+  "pending_time": 3889908,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -502,9 +502,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8afcfecb208c4f59aa622393c6822117.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837739&x-signature=p5TCkQC3rMm7tiDihlTPB8wH3ug%3D",
-          "file_name": "file_20240318_14_55_39_426277",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8afcfecb208c4f59aa622393c6822117.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837739&x-signature=p5TCkQC3rMm7tiDihlTPB8wH3ug%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8afcfecb208c4f59aa622393c6822117.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273324&x-signature=s4O6rPCmV041tYHHv3qIIDcNzlQ%3D",
+          "file_name": "file_20240323_15_55_24_354520",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8afcfecb208c4f59aa622393c6822117.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273324&x-signature=s4O6rPCmV041tYHHv3qIIDcNzlQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8afcfecb208c4f59aa622393c6822117.png",
           "file_type": "jpeg",
           "biz_type": 2

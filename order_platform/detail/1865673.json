@@ -35,7 +35,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zoe,</p><p>Confirming receipt of your ticket. See comments below.</p><p><span style=\"color: #333333;\"><em><u>- I'm not seeing their Pixel as live on their site currently, so I assume it still needs to be reactivated. Thank you!</u></em></span></p><p>Correct. They have not added a pixel to their web page.</p><p><span style=\"color: #333333;\"><em><u>- How to replace a GTM event (Place an Order) with another standard event (Complete Purchase)... this isn't critical, but said if it's an easy swap, they'd consider it. Or also consider setting up Comp. Purchase and 'pausing' Place an Order'.</u></em></span></p><p><span style=\"color: #222222;\">It feels I am missing the context behind these questions. I am a bit confused about their asking for GTM steps specifically, when they are only sending server (API) events and it does not appear they are using GTM S2S for these. </span></p><img alt=\"Screenshot 2024-02-08 at 10.47.29 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ea1ae45a8cc44904a8db4dc3778dc869.png\" height=\"128.538\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea1ae45a8cc44904a8db4dc3778dc869.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837831&amp;x-signature=obORfBHI3piFmflUSrLX4P4qG80%3D\" width=\"375\"><p>Unless, I am misunderstanding, I think the question is how to switch the current PlaceAnOrder server event they are sending to CompletePayment. If this is the case, they simply need to update the name in whatever platform they are using. Their platform should give them the option to update the name from their dashboard. Once the name is changed in their tool from PlaceAnOrder to CompletePayment this will be reflected in their TTAM dashboard.</p><p><span style=\"color: #333333;\"><em><u>- How to add value/currency parameter to the event Place An Order in GTM. (Asked for detailed instructions/article with detailed instructions)</u></em></span></p><p>I ran a query on their event data and it appears they already send value and currency in the current server events they are sending.</p><img alt=\"Screenshot 2024-02-08 at 11.06.26 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d66cc5c611474172aa9107cf77e54610.png\" height=\"22.702\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d66cc5c611474172aa9107cf77e54610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837831&amp;x-signature=ZEtfzt7IhhHBsR4lczJoFPmXeBU%3D\" width=\"375\"><p>I have a feeling the GTM questions came about because we asked them to implement the web pixel in addition to their server setup. If so, I am including two links to GTM tagging videos for the TikTok pixel and the standard events. They are not TikTok-official videos, but other advertisers I have worked with in the past have found these very useful. These will answer all their questions on how to setup TikTok standard events in GTM along with the recommended parameters.</p><ul><li><a href=\"https://www.youtube.com/watch?v=qgRnprDra2E&amp;t=434s\" target=\"_blank\">Introductory video</a> to standard event implementation via GTM and how to enable advanced matching.</li><li><a href=\"https://www.youtube.com/watch?v=XMZeZVQeU7g\" target=\"_blank\">More advanced video</a> that has step-by-step on how to use TikTok's GTM templates to leverage the dataLayer object and include all of TikTok's recommended parameters.</li></ul><p><span style=\"color: #333333;\"><em><u>- Anything else we'd recommend for better tracking here.</u></em></span></p><p>Enable advanced matching. See linked video above.</p><p>Let me know if the above answers your questions.</p><p>Best,<br>Armando</br></p><p> </p></img></img>",
+          "content": "<p>Hi Zoe,</p><p>Confirming receipt of your ticket. See comments below.</p><p><span style=\"color: #333333;\"><em><u>- I'm not seeing their Pixel as live on their site currently, so I assume it still needs to be reactivated. Thank you!</u></em></span></p><p>Correct. They have not added a pixel to their web page.</p><p><span style=\"color: #333333;\"><em><u>- How to replace a GTM event (Place an Order) with another standard event (Complete Purchase)... this isn't critical, but said if it's an easy swap, they'd consider it. Or also consider setting up Comp. Purchase and 'pausing' Place an Order'.</u></em></span></p><p><span style=\"color: #222222;\">It feels I am missing the context behind these questions. I am a bit confused about their asking for GTM steps specifically, when they are only sending server (API) events and it does not appear they are using GTM S2S for these. </span></p><img alt=\"Screenshot 2024-02-08 at 10.47.29 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ea1ae45a8cc44904a8db4dc3778dc869.png\" height=\"128.538\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea1ae45a8cc44904a8db4dc3778dc869.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273410&amp;x-signature=7mUQoLK9F3ZIE%2BLKXTFTuCVTlx0%3D\" width=\"375\"><p>Unless, I am misunderstanding, I think the question is how to switch the current PlaceAnOrder server event they are sending to CompletePayment. If this is the case, they simply need to update the name in whatever platform they are using. Their platform should give them the option to update the name from their dashboard. Once the name is changed in their tool from PlaceAnOrder to CompletePayment this will be reflected in their TTAM dashboard.</p><p><span style=\"color: #333333;\"><em><u>- How to add value/currency parameter to the event Place An Order in GTM. (Asked for detailed instructions/article with detailed instructions)</u></em></span></p><p>I ran a query on their event data and it appears they already send value and currency in the current server events they are sending.</p><img alt=\"Screenshot 2024-02-08 at 11.06.26 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d66cc5c611474172aa9107cf77e54610.png\" height=\"22.702\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d66cc5c611474172aa9107cf77e54610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273410&amp;x-signature=T17qyCxhDBRubNoL0hM6XI9NqjI%3D\" width=\"375\"><p>I have a feeling the GTM questions came about because we asked them to implement the web pixel in addition to their server setup. If so, I am including two links to GTM tagging videos for the TikTok pixel and the standard events. They are not TikTok-official videos, but other advertisers I have worked with in the past have found these very useful. These will answer all their questions on how to setup TikTok standard events in GTM along with the recommended parameters.</p><ul><li><a href=\"https://www.youtube.com/watch?v=qgRnprDra2E&amp;t=434s\" target=\"_blank\">Introductory video</a> to standard event implementation via GTM and how to enable advanced matching.</li><li><a href=\"https://www.youtube.com/watch?v=XMZeZVQeU7g\" target=\"_blank\">More advanced video</a> that has step-by-step on how to use TikTok's GTM templates to leverage the dataLayer object and include all of TikTok's recommended parameters.</li></ul><p><span style=\"color: #333333;\"><em><u>- Anything else we'd recommend for better tracking here.</u></em></span></p><p>Enable advanced matching. See linked video above.</p><p>Let me know if the above answers your questions.</p><p>Best,<br>Armando</br></p><p> </p></img></img>",
           "type": 6
         }
       ],
@@ -186,18 +186,18 @@
             {
               "file_type": "png",
               "file_name": "GoDaddy 2.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0b2dec3f6d794d878c1cced15160be99.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837832&x-signature=Dd7ZVzi2ylJt8KoSuWG7q92dAwk%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0b2dec3f6d794d878c1cced15160be99.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273411&x-signature=eTyOaT4vCcG6zYcYYjsItrBCOvM%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/0b2dec3f6d794d878c1cced15160be99.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0b2dec3f6d794d878c1cced15160be99.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837832&x-signature=Dd7ZVzi2ylJt8KoSuWG7q92dAwk%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0b2dec3f6d794d878c1cced15160be99.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273411&x-signature=eTyOaT4vCcG6zYcYYjsItrBCOvM%3D",
               "biz_type": 2,
               "size": 66144
             },
             {
               "file_type": "png",
               "file_name": "GoDaddy 1.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6ccbef5105cf4eccbb804da528de6a92.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837832&x-signature=65N8RCgcTKfSePqp9iLKfPNFiDg%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6ccbef5105cf4eccbb804da528de6a92.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273411&x-signature=%2BVBZz9f56erZyXmVx19WAV4LOpo%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/6ccbef5105cf4eccbb804da528de6a92.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6ccbef5105cf4eccbb804da528de6a92.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837832&x-signature=65N8RCgcTKfSePqp9iLKfPNFiDg%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6ccbef5105cf4eccbb804da528de6a92.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273411&x-signature=%2BVBZz9f56erZyXmVx19WAV4LOpo%3D",
               "biz_type": 2,
               "size": 537269
             }
@@ -545,7 +545,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 254249,
+  "pending_time": 689828,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -719,36 +719,36 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea1ae45a8cc44904a8db4dc3778dc869.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837831&x-signature=obORfBHI3piFmflUSrLX4P4qG80%3D",
-          "file_name": "file_20240318_14_57_12_011755",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea1ae45a8cc44904a8db4dc3778dc869.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837831&x-signature=obORfBHI3piFmflUSrLX4P4qG80%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/ea1ae45a8cc44904a8db4dc3778dc869.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d66cc5c611474172aa9107cf77e54610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273410&x-signature=T17qyCxhDBRubNoL0hM6XI9NqjI%3D",
+          "file_name": "file_20240323_15_56_51_007268",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d66cc5c611474172aa9107cf77e54610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273410&x-signature=T17qyCxhDBRubNoL0hM6XI9NqjI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d66cc5c611474172aa9107cf77e54610.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d66cc5c611474172aa9107cf77e54610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837831&x-signature=ZEtfzt7IhhHBsR4lczJoFPmXeBU%3D",
-          "file_name": "file_20240318_14_57_12_011822",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d66cc5c611474172aa9107cf77e54610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837831&x-signature=ZEtfzt7IhhHBsR4lczJoFPmXeBU%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/d66cc5c611474172aa9107cf77e54610.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea1ae45a8cc44904a8db4dc3778dc869.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273410&x-signature=7mUQoLK9F3ZIE%2BLKXTFTuCVTlx0%3D",
+          "file_name": "file_20240323_15_56_51_007336",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea1ae45a8cc44904a8db4dc3778dc869.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273410&x-signature=7mUQoLK9F3ZIE%2BLKXTFTuCVTlx0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ea1ae45a8cc44904a8db4dc3778dc869.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
           "file_type": "png",
           "file_name": "GoDaddy 2.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0b2dec3f6d794d878c1cced15160be99.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837832&x-signature=Dd7ZVzi2ylJt8KoSuWG7q92dAwk%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0b2dec3f6d794d878c1cced15160be99.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273411&x-signature=eTyOaT4vCcG6zYcYYjsItrBCOvM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0b2dec3f6d794d878c1cced15160be99.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0b2dec3f6d794d878c1cced15160be99.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837832&x-signature=Dd7ZVzi2ylJt8KoSuWG7q92dAwk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0b2dec3f6d794d878c1cced15160be99.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273411&x-signature=eTyOaT4vCcG6zYcYYjsItrBCOvM%3D",
           "biz_type": 2,
           "size": 66144
         },
         {
           "file_type": "png",
           "file_name": "GoDaddy 1.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6ccbef5105cf4eccbb804da528de6a92.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837832&x-signature=65N8RCgcTKfSePqp9iLKfPNFiDg%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6ccbef5105cf4eccbb804da528de6a92.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273411&x-signature=%2BVBZz9f56erZyXmVx19WAV4LOpo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/6ccbef5105cf4eccbb804da528de6a92.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6ccbef5105cf4eccbb804da528de6a92.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837832&x-signature=65N8RCgcTKfSePqp9iLKfPNFiDg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6ccbef5105cf4eccbb804da528de6a92.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273411&x-signature=%2BVBZz9f56erZyXmVx19WAV4LOpo%3D",
           "biz_type": 2,
           "size": 537269
         }

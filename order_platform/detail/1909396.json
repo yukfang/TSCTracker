@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497211543601",
-  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/2aef10da-478a-4d3d-87a3-fbf45239a55g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/2aef10da-478a-4d3d-87a3-fbf45239a55g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Jason Schnack",
   "create_time": 1709247360,
   "deadline": 0,
@@ -102,7 +102,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1197243,
+  "pending_time": 1632761,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -278,9 +278,9 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-29 at 4.49.37 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3066b0c73cd5447a8f3e94435e137fe0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838371&x-signature=q9PGIhTOy77mBOlsTOv1z4oJ1Aw%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3066b0c73cd5447a8f3e94435e137fe0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273890&x-signature=2Yg3ethkcv9thSC3BzlNbyDwB%2B8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/3066b0c73cd5447a8f3e94435e137fe0.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3066b0c73cd5447a8f3e94435e137fe0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838371&x-signature=q9PGIhTOy77mBOlsTOv1z4oJ1Aw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3066b0c73cd5447a8f3e94435e137fe0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273890&x-signature=2Yg3ethkcv9thSC3BzlNbyDwB%2B8%3D",
           "size": 1091795
         }
       ],

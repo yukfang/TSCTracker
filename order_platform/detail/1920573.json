@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1709670043,
   "deadline": 0,
@@ -62,18 +62,412 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Kyle,</p><p><br /></p><p>Checking <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CG8VPQJC77UA9DC1OML0?start_time=2024-03-08&amp;end_time=2024-03-14&amp;aadvid=7015295489704787969\" target=\"_blank\">pixel id CG8VPQJC77UA9DC1OML0</a>, I am seeing four events set up:</p><p>InitiateCheckout</p><p>AddToCart</p><p>ViewContent</p><p>CompletePayment</p><p>However, I am not seeing events for that pixel id fire on the US site at all. The transactions are all coming from their Japan site:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7b614b4b400941398e5d4019f6acea91.png\" height=\"184.976\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b614b4b400941398e5d4019f6acea91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838455&amp;x-signature=3US1nBvBqdqbFuA3uqVRvGmKh10%3D\" width=\"375\"><p>and multiple ViewContent events are firing for one action, which explains why in the funnel, there are more ViewContent than PageView events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/13425cba9c1d4c40838bdb6a8e796a61.png\" height=\"155.354\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13425cba9c1d4c40838bdb6a8e796a61.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838455&amp;x-signature=%2BXB6brVbWelMWac7gpi6I8Qs1Y0%3D\" width=\"375\"><p>The Asics US (and Canada) site is using <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CBR82U3C77U963VQ5IS0?start_time=2024-03-08&amp;end_time=2024-03-14&amp;aadvid=7127714647787995138\" target=\"_blank\">pixel id CBR82U3C77U963VQ5IS0</a> which is associated with advertiser id <a href=\"https://ads.tiktok.com/i18n/dashboard?aadvid=7127714647787995138\" target=\"_blank\">7127714647787995138</a>, where I am seeing pixel-only (no Event API):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ec6de72ec9914e99a3594413caf8372c.png\" height=\"196.782\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec6de72ec9914e99a3594413caf8372c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838455&amp;x-signature=%2FoYOT4M5II4zCSA6Swvyy2d02fE%3D\" width=\"375\"><p> and no Advanced Matching for events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7e378f9336b94f458091cbf6f4496879.png\" height=\"103.861\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e378f9336b94f458091cbf6f4496879.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838455&amp;x-signature=6W1egY4a80mhbJRutvIhqK3jn%2BY%3D\" width=\"375\"><p>I'll leave these notes here for now, can you confirm that it is the Event API for the Japan site that they want to QA?</p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img>",
+          "content": "<p>Hi Kyle,</p><p><br /></p><p>Checking <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CG8VPQJC77UA9DC1OML0?start_time=2024-03-08&amp;end_time=2024-03-14&amp;aadvid=7015295489704787969\" target=\"_blank\">pixel id CG8VPQJC77UA9DC1OML0</a>, I am seeing four events set up:</p><p>InitiateCheckout</p><p>AddToCart</p><p>ViewContent</p><p>CompletePayment</p><p>However, I am not seeing events for that pixel id fire on the US site at all. The transactions are all coming from their Japan site:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7b614b4b400941398e5d4019f6acea91.png\" height=\"184.976\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b614b4b400941398e5d4019f6acea91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273979&amp;x-signature=nPzbFDp%2F8EqVXkYNxfiBtKw8Ovc%3D\" width=\"375\"><p>and multiple ViewContent events are firing for one action, which explains why in the funnel, there are more ViewContent than PageView events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/13425cba9c1d4c40838bdb6a8e796a61.png\" height=\"155.354\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13425cba9c1d4c40838bdb6a8e796a61.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273979&amp;x-signature=jTtPzv2rvad0EKlcQpXzs0KycHc%3D\" width=\"375\"><p>The Asics US (and Canada) site is using <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CBR82U3C77U963VQ5IS0?start_time=2024-03-08&amp;end_time=2024-03-14&amp;aadvid=7127714647787995138\" target=\"_blank\">pixel id CBR82U3C77U963VQ5IS0</a> which is associated with advertiser id <a href=\"https://ads.tiktok.com/i18n/dashboard?aadvid=7127714647787995138\" target=\"_blank\">7127714647787995138</a>, where I am seeing pixel-only (no Event API):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ec6de72ec9914e99a3594413caf8372c.png\" height=\"196.782\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec6de72ec9914e99a3594413caf8372c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273979&amp;x-signature=YgPV5oroGGWNrsUCqlsfwePnq%2FE%3D\" width=\"375\"><p> and no Advanced Matching for events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7e378f9336b94f458091cbf6f4496879.png\" height=\"103.861\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e378f9336b94f458091cbf6f4496879.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273979&amp;x-signature=Nr5GkOf7ZaR3AL5IHjRLC0kfE2I%3D\" width=\"375\"><p>I'll leave these notes here for now, can you confirm that it is the Event API for the Japan site that they want to QA?</p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img>",
           "type": 6
         }
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710824693,
+      "auto_close_hit": 0,
+      "id": 7347934822742180000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi <span style=\"color: #333333;\">Heidi, thank you for looking into this..all super helpful! We would want to check for events API on all sites for with this being the global account.&nbsp;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710824967,
+      "auto_close_hit": 0,
+      "id": 7347936095932875000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>For this audit, we will only want to be looking at this pixel for global: <span style=\"color: #666666;\">IDCG8VPQJC77UA9DC1OML0. </span></p><img alt=\"Screenshot 2024-03-19 at 12.08.31 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d2287cad7e434d8fa566a7c23cc25111.png\" height=\"206.909\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2287cad7e434d8fa566a7c23cc25111.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273979&amp;x-signature=1ldJqBcvZHZM3Q0ZhsuY3YeGVlU%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710825101,
+      "auto_close_hit": 0,
+      "id": 7347936345400066000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>So essentially, they need to deploy this pixel across all domains and ensure that the Events API is set up for all events and firing correctly, right?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710859420,
+      "auto_close_hit": 0,
+      "id": 7348084775359382000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Kyle Schonefeld",
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": 7109396259878094000,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span></span>understood. Will send feedback for all regions.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710861745,
+      "auto_close_hit": 0,
+      "id": 7348094715650212000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Read your above question again. I think the first course of action is to find out what the advertiser wants to do, then we can direct them. </p><p><br></p><p>If they want to go with&nbsp;<a target=\"_blank\" href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CG8VPQJC77UA9DC1OML0?start_time=2024-03-08&amp;end_time=2024-03-14&amp;aadvid=7015295489704787969\">pixel id&nbsp;CG8VPQJC77UA9DC1OML0</a>&nbsp;full speed ahead, then they should either add this pixel to the US, CA, and other sites, which they can use alongside&nbsp;<a target=\"_blank\" href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CBR82U3C77U963VQ5IS0?start_time=2024-03-08&amp;end_time=2024-03-14&amp;aadvid=7127714647787995138\">pixel id&nbsp;CBR82U3C77U963VQ5IS0</a>&nbsp;if they want to (no harm). I also see (and sent a note through Lark regarding) the removal of the server-side ViewContent event. Do you know why they did that?&nbsp;</p><p><br></p><p>I&#39;m happy to get on a call and we can walk through things as they now send, if you think that will help.</p><p><br></p><p>If they could also look at plugins in use for the Japan site and check whether that could be the cause of the multiple event fires (especially ViewContent).</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710875457,
+      "auto_close_hit": 0,
+      "id": 7348151901764010000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi, thanks for the call today..if you can send </p><ul><li>Domains the global pixel is firing</li><li>Where API is firing </li><li>PII - If manual advanced matching is setup for global...looks like it is according to the below screenshot. </li></ul><p><br /></p><p><br /></p><img alt=\"Screenshot 2024-03-19 at 2.02.37 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bd0f4e87056f4d748678f6b8818dd745.png\" height=\"470.745\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd0f4e87056f4d748678f6b8818dd745.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273979&amp;x-signature=E87mgeZL2CCeD8cMYZx3SjD1AMU%3D\" width=\"375\"><p> </p><p>Thanks so much for your help! </p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710899241,
+      "auto_close_hit": 0,
+      "id": 7348254984590377000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle, per our call this morning, will attach data shortly!</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710904385,
+      "auto_close_hit": 0,
+      "id": 7348277605210046000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><br></p><p>Hi Kyle,</p><p><br></p><p>Please see spreadsheet where I have broken domains out into tabs by event name. There is one tab for Event API&nbsp; only and one with Pixel only, with event type (pixel or s2s) and domains highlighted in yellow.</p><p><br></p><p>4947 events out of a sample of 5000 missing <strong>Email</strong></p><p>similar number also missing <strong>Phone number</strong></p><p><br></p><p>In the spreadsheet, you can filter 'Email' column and deselect all options, then scroll to the bottom of the filter and choose 'NULL'. That will display all events with NULL for Email (they might want to do this in their troubleshooting).</p><p><br></p><p>Server-to-server implementation looks to be most successful at including PII. They should replicate whatever they are doing there in Tealium with the US-CA site.</p><p><br></p><p>If you need anything else before your call, let me know.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "xlsx",
+              "file_name": "Asics International All Events 03-19-24.xlsx",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oQfpafl0cAtrDdAAA13EI7EgqDeFIVkXLMXEAH.xlsx?lk3s=cbe26b3a&x-expires=4833273979&x-signature=l5ODWfGhO%2BiKCcAYQXnezqjQ8LY%3D",
+              "file_key": "tos-alisg-v-90231e-sg/oQfpafl0cAtrDdAAA13EI7EgqDeFIVkXLMXEAH.xlsx",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oQfpafl0cAtrDdAAA13EI7EgqDeFIVkXLMXEAH.xlsx?lk3s=cbe26b3a&x-expires=4833273979&x-signature=l5ODWfGhO%2BiKCcAYQXnezqjQ8LY%3D",
+              "biz_type": 2,
+              "file_size": 3844645,
+              "size": 3844645
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711044613,
+      "auto_close_hit": 0,
+      "id": 7348878213419893000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi!&nbsp;</p><p><br></p><p>Can you confirm the Zeno pixel is setup through Tealium as well?&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711044733,
+      "auto_close_hit": 0,
+      "id": 7348878271242600000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<img alt=\"Screenshot 2024-03-21 at 1.11.37 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6e9082cc46da4e43bb0aa6eb7362a673.png\" height=\"170.892\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6e9082cc46da4e43bb0aa6eb7362a673.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273979&amp;x-signature=dm6PT61FXE0hGOo53KwVHlQ9c34%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711044755,
+      "auto_close_hit": 0,
+      "id": 7348878515665633000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Kyle, yes I can do that. But Aeolus is down right now! As soon as I am able to run queries, I&#39;ll get this for you.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711044878,
+      "auto_close_hit": 0,
+      "id": 7348880072142504000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you! I looked at&nbsp;<span style=\"color: #333333;\">Aeolus but it pulls on the parent 3M ID level and not ad account so thats where I was having truble figuring this out. :)</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711123673,
+      "auto_close_hit": 0,
+      "id": 7349218315438473000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kyle.schonefeld@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kyle Schonefeld",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109396259878093825",
+      "name": "Kyle Schonefeld",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi, is&nbsp;<span style=\"color: #333333;\">Aeolus back up and running?&nbsp;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_006i_16652747-a8f6-42b0-a6dd-27741892ee8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
     }
   ],
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
-  "pending_from_follower": false,
+  "pending_from_follower": true,
   "id": 1920573,
   "workflow_nodes": [],
   "board_id": 1705151646989663,
@@ -93,9 +487,9 @@
   "type": 6,
   "current_role": null,
   "fd_permission": 1,
-  "status": 1,
+  "status": 2,
   "business_data": [],
-  "update_time": 1710433957,
+  "update_time": 1711123672,
   "owner_name": "Kyle Schonefeld",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -197,7 +591,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 340498,
+  "pending_time": 165225,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -371,34 +765,68 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13425cba9c1d4c40838bdb6a8e796a61.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838455&x-signature=%2BXB6brVbWelMWac7gpi6I8Qs1Y0%3D",
-          "file_name": "file_20240318_15_07_35_284856",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13425cba9c1d4c40838bdb6a8e796a61.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838455&x-signature=%2BXB6brVbWelMWac7gpi6I8Qs1Y0%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/13425cba9c1d4c40838bdb6a8e796a61.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e378f9336b94f458091cbf6f4496879.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838455&x-signature=6W1egY4a80mhbJRutvIhqK3jn%2BY%3D",
-          "file_name": "file_20240318_15_07_35_284945",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e378f9336b94f458091cbf6f4496879.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838455&x-signature=6W1egY4a80mhbJRutvIhqK3jn%2BY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e378f9336b94f458091cbf6f4496879.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273979&x-signature=Nr5GkOf7ZaR3AL5IHjRLC0kfE2I%3D",
+          "file_name": "file_20240323_16_06_19_696983",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e378f9336b94f458091cbf6f4496879.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273979&x-signature=Nr5GkOf7ZaR3AL5IHjRLC0kfE2I%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7e378f9336b94f458091cbf6f4496879.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b614b4b400941398e5d4019f6acea91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838455&x-signature=3US1nBvBqdqbFuA3uqVRvGmKh10%3D",
-          "file_name": "file_20240318_15_07_35_284962",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b614b4b400941398e5d4019f6acea91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838455&x-signature=3US1nBvBqdqbFuA3uqVRvGmKh10%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13425cba9c1d4c40838bdb6a8e796a61.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273979&x-signature=jTtPzv2rvad0EKlcQpXzs0KycHc%3D",
+          "file_name": "file_20240323_16_06_19_697053",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13425cba9c1d4c40838bdb6a8e796a61.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273979&x-signature=jTtPzv2rvad0EKlcQpXzs0KycHc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/13425cba9c1d4c40838bdb6a8e796a61.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec6de72ec9914e99a3594413caf8372c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273979&x-signature=YgPV5oroGGWNrsUCqlsfwePnq%2FE%3D",
+          "file_name": "file_20240323_16_06_19_697070",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec6de72ec9914e99a3594413caf8372c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273979&x-signature=YgPV5oroGGWNrsUCqlsfwePnq%2FE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ec6de72ec9914e99a3594413caf8372c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b614b4b400941398e5d4019f6acea91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273979&x-signature=nPzbFDp%2F8EqVXkYNxfiBtKw8Ovc%3D",
+          "file_name": "file_20240323_16_06_19_697083",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b614b4b400941398e5d4019f6acea91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273979&x-signature=nPzbFDp%2F8EqVXkYNxfiBtKw8Ovc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7b614b4b400941398e5d4019f6acea91.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec6de72ec9914e99a3594413caf8372c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838455&x-signature=%2FoYOT4M5II4zCSA6Swvyy2d02fE%3D",
-          "file_name": "file_20240318_15_07_35_284975",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec6de72ec9914e99a3594413caf8372c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838455&x-signature=%2FoYOT4M5II4zCSA6Swvyy2d02fE%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/ec6de72ec9914e99a3594413caf8372c.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2287cad7e434d8fa566a7c23cc25111.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273979&x-signature=1ldJqBcvZHZM3Q0ZhsuY3YeGVlU%3D",
+          "file_name": "file_20240323_16_06_19_769884",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2287cad7e434d8fa566a7c23cc25111.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273979&x-signature=1ldJqBcvZHZM3Q0ZhsuY3YeGVlU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d2287cad7e434d8fa566a7c23cc25111.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd0f4e87056f4d748678f6b8818dd745.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273979&x-signature=E87mgeZL2CCeD8cMYZx3SjD1AMU%3D",
+          "file_name": "file_20240323_16_06_19_887209",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd0f4e87056f4d748678f6b8818dd745.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273979&x-signature=E87mgeZL2CCeD8cMYZx3SjD1AMU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/bd0f4e87056f4d748678f6b8818dd745.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "xlsx",
+          "file_name": "Asics International All Events 03-19-24.xlsx",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oQfpafl0cAtrDdAAA13EI7EgqDeFIVkXLMXEAH.xlsx?lk3s=cbe26b3a&x-expires=4833273979&x-signature=l5ODWfGhO%2BiKCcAYQXnezqjQ8LY%3D",
+          "file_key": "tos-alisg-v-90231e-sg/oQfpafl0cAtrDdAAA13EI7EgqDeFIVkXLMXEAH.xlsx",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oQfpafl0cAtrDdAAA13EI7EgqDeFIVkXLMXEAH.xlsx?lk3s=cbe26b3a&x-expires=4833273979&x-signature=l5ODWfGhO%2BiKCcAYQXnezqjQ8LY%3D",
+          "biz_type": 2,
+          "file_size": 3844645,
+          "size": 3844645
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6e9082cc46da4e43bb0aa6eb7362a673.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273979&x-signature=dm6PT61FXE0hGOo53KwVHlQ9c34%3D",
+          "file_name": "file_20240323_16_06_20_002587",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6e9082cc46da4e43bb0aa6eb7362a673.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273979&x-signature=dm6PT61FXE0hGOo53KwVHlQ9c34%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6e9082cc46da4e43bb0aa6eb7362a673.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

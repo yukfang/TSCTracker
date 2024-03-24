@@ -97,6 +97,122 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710865429,
+      "auto_close_hit": 0,
+      "id": 7348110388573061000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "danielle.hotzwik@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Danielle Hotzwik",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7255008144065250306",
+      "name": "Danielle Hotzwik",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Thomas,</p><p><br></p><p>TD is asking if it&#39;s &#34;normal to only have TTclid but no UTM despite we&#39;ve added UTM to the final url?&#34;&nbsp;</p><p><br></p><p>Any insight here?&nbsp;</p><p><br></p><p><br></p><p>Thanks!</p><p>Danielle</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_01270517-a407-4fbe-b3b9-fc4e74a02fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710866339,
+      "auto_close_hit": 0,
+      "id": 7348114299929330000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>What are they referring to? If it&#39;s a landing page url it should reflect whatever is set in Ads Manager.&nbsp;</p><p><br></p><p>The other thing is they may be asking about what they are seeing in Google Analytics.&nbsp;</p><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710872093,
+      "auto_close_hit": 0,
+      "id": 7348138370570256000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "danielle.hotzwik@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Danielle Hotzwik",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7255008144065250306",
+      "name": "Danielle Hotzwik",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>I believe they are still asking about UTM implementation specifics (our last chat about this via Lark you had suggested they to speak to their GA reps).&nbsp;</p><p>They are asking if we can have a call with them &amp; their GA reps. Is that possible?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_01270517-a407-4fbe-b3b9-fc4e74a02fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710873949,
+      "auto_close_hit": 0,
+      "id": 7348145537734001000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>I would need some clarity on what/where they are referring to.&nbsp;</p><ul><li>If they have screenshots or a report, would appreciate if they can share it. (in Google Analytics or some other platform)</li><li>If they are referring to a specific campaign, please have them link it. For potential issues related to campaigns, TPS should also be consulted.&nbsp;</li></ul><p><br></p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -124,7 +240,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1709933332,
+  "update_time": 1710873949,
   "owner_name": "Danielle Hotzwik",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -299,7 +415,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 841183,
+  "pending_time": 336094,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1706035369,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Ryan,</p><p><br /></p><p>I checked <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CBR5AOJC77U40OTR6G30?start_time=2024-01-17&amp;end_time=2024-01-23&amp;from=ALL&amp;aadvid=6816339933343514630&amp;type=overview\" target=\"_blank\">pixel id CBR5AOJC77U40OTR6G30</a><span style=\"color: #333333;\"> </span>for Chubbies and I see a few issues that will need to be fixed:</p><p>First, I get an error at the top of their site when I go to the home page. I'm not sure if they are aware but this could be breaking other functionality:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e7ef79c4ff9f4ba6a14782148a9da4cd.png\" height=\"196.089\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e7ef79c4ff9f4ba6a14782148a9da4cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832797&amp;x-signature=3MNrwvBa3Bi7jOkPXSwR2wQI4CY%3D\" width=\"375\"><p>Second, the pixel fires inconsistently when I try to observe 'ViewContent' or 'AddToCart' (I only checked these I would need a test login or coupon code to see 'CompletePayment'):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/758fe8715b0a4fac91bb713f7daad5a6.png\" height=\"155.324\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/758fe8715b0a4fac91bb713f7daad5a6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832797&amp;x-signature=8zfpRZlPjESUapnnBxHsEi3dw08%3D\" width=\"375\"><p>In the network tab you can see there is a PageView event firing but the Pixel Helper doesn't see an action. I would also expect to see 'ViewContent' here. Sometimes a pixel is ok even if Pixel Helper doesn't display it, but it often points to something blocking the action from being tracked, which is something the client should look into (whatever trigger they have set up is not working).</p><p><br /></p><p>Please note when I filter my data report to check which events are reporting, I don't see any AddToCart at all:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/aee9daca18154a9b98da48d6ad55ff71.png\" height=\"459\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aee9daca18154a9b98da48d6ad55ff71.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832797&amp;x-signature=pSsn7qz0ffvLQ7540wOtD8etAxQ%3D\" width=\"268\"><p>In my back-end reporting this is called 'on_web_cart'. This is a pretty important lower-funnel event to include so they should add that when they can.</p><p><br /></p><p>I do see that Automatic Advanced Matching is set up <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CBR5AOJC77U40OTR6G30?start_time=2024-01-17&amp;end_time=2024-01-23&amp;from=ALL&amp;aadvid=6816339933343514630&amp;type=S2SSetting\" target=\"_blank\">in the dashboard</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d2fb5ca400bc4158877e6462f4a11862.png\" height=\"385.989\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2fb5ca400bc4158877e6462f4a11862.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832797&amp;x-signature=TlxHMM5naS3BuGFW5eegvKDH%2FSU%3D\" width=\"375\"><p>However when I do a data pull of 3000 events from 1-22 through 1-23, I am not seeing any PII reporting:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/114cf79a46704bd0bfe6e96e237f6c1f.png\" height=\"100.488\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/114cf79a46704bd0bfe6e96e237f6c1f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832797&amp;x-signature=6yFRK5GXlhDy3WC0IZ7%2Bo1x9w9U%3D\" width=\"375\"><p>Please note above, although they have both browser- and server-side events implemented, they have no event ids. Therefore, between no PII, no event_ids, and no other matching keys like click_id (recommended), we are not able to match up TikTok users with actions on their site, therefore the attributions will look quite low or non-existent. We always recommended adding <a href=\"https://ads.tiktok.com/help/article/advanced-matching-web?lang=en\" target=\"_blank\">Manual Advanced Matching</a> to further guarantee email or ideally email and phone will report for lower-funnel transactions (most importantly, CompletePayment, where PII are <strong>required</strong>).</p><p><br /></p><p>I see they have a Meta pixel installed as well, but with that pixel, I see it firing and there are events_ids showing up:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/df7c742d9d4e4d95a56d6ab782ce1d53.png\" height=\"549.505\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/df7c742d9d4e4d95a56d6ab782ce1d53.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832797&amp;x-signature=X7N5Qx2v6eHy0gbvm94tKoWxK04%3D\" width=\"375\"><p>the way TikTok parameters are set up is very much the same, so they should just duplicate what they are doing for Meta, and that will solve a few issues for sure.</p><p><br /></p><p>I'm happy to get on a call or answer further questions, should they come up!</p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img></img></img>",
+          "content": "<p>Hi Ryan,</p><p><br /></p><p>I checked <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CBR5AOJC77U40OTR6G30?start_time=2024-01-17&amp;end_time=2024-01-23&amp;from=ALL&amp;aadvid=6816339933343514630&amp;type=overview\" target=\"_blank\">pixel id CBR5AOJC77U40OTR6G30</a><span style=\"color: #333333;\"> </span>for Chubbies and I see a few issues that will need to be fixed:</p><p>First, I get an error at the top of their site when I go to the home page. I'm not sure if they are aware but this could be breaking other functionality:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e7ef79c4ff9f4ba6a14782148a9da4cd.png\" height=\"196.089\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e7ef79c4ff9f4ba6a14782148a9da4cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273063&amp;x-signature=gTGWPTEY3rxPCgFKqfPZ7L8ZRno%3D\" width=\"375\"><p>Second, the pixel fires inconsistently when I try to observe 'ViewContent' or 'AddToCart' (I only checked these I would need a test login or coupon code to see 'CompletePayment'):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/758fe8715b0a4fac91bb713f7daad5a6.png\" height=\"155.324\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/758fe8715b0a4fac91bb713f7daad5a6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273063&amp;x-signature=7VSDbUNgoiYzfv5NusF72qEIPuQ%3D\" width=\"375\"><p>In the network tab you can see there is a PageView event firing but the Pixel Helper doesn't see an action. I would also expect to see 'ViewContent' here. Sometimes a pixel is ok even if Pixel Helper doesn't display it, but it often points to something blocking the action from being tracked, which is something the client should look into (whatever trigger they have set up is not working).</p><p><br /></p><p>Please note when I filter my data report to check which events are reporting, I don't see any AddToCart at all:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/aee9daca18154a9b98da48d6ad55ff71.png\" height=\"459\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aee9daca18154a9b98da48d6ad55ff71.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273063&amp;x-signature=ofCDn376myU%2BfjS5mS0zBcGqmGg%3D\" width=\"268\"><p>In my back-end reporting this is called 'on_web_cart'. This is a pretty important lower-funnel event to include so they should add that when they can.</p><p><br /></p><p>I do see that Automatic Advanced Matching is set up <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CBR5AOJC77U40OTR6G30?start_time=2024-01-17&amp;end_time=2024-01-23&amp;from=ALL&amp;aadvid=6816339933343514630&amp;type=S2SSetting\" target=\"_blank\">in the dashboard</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d2fb5ca400bc4158877e6462f4a11862.png\" height=\"385.989\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2fb5ca400bc4158877e6462f4a11862.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273063&amp;x-signature=KQUceE%2FD5Bv0KYRlyRMWGbcFfug%3D\" width=\"375\"><p>However when I do a data pull of 3000 events from 1-22 through 1-23, I am not seeing any PII reporting:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/114cf79a46704bd0bfe6e96e237f6c1f.png\" height=\"100.488\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/114cf79a46704bd0bfe6e96e237f6c1f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273063&amp;x-signature=82p3V8M4oIOFIX4NMlWGHN7r%2Bs4%3D\" width=\"375\"><p>Please note above, although they have both browser- and server-side events implemented, they have no event ids. Therefore, between no PII, no event_ids, and no other matching keys like click_id (recommended), we are not able to match up TikTok users with actions on their site, therefore the attributions will look quite low or non-existent. We always recommended adding <a href=\"https://ads.tiktok.com/help/article/advanced-matching-web?lang=en\" target=\"_blank\">Manual Advanced Matching</a> to further guarantee email or ideally email and phone will report for lower-funnel transactions (most importantly, CompletePayment, where PII are <strong>required</strong>).</p><p><br /></p><p>I see they have a Meta pixel installed as well, but with that pixel, I see it firing and there are events_ids showing up:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/df7c742d9d4e4d95a56d6ab782ce1d53.png\" height=\"549.505\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/df7c742d9d4e4d95a56d6ab782ce1d53.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273063&amp;x-signature=cls2P%2Bg4EHhiZT6nszOebjFU5pE%3D\" width=\"375\"><p>the way TikTok parameters are set up is very much the same, so they should just duplicate what they are doing for Meta, and that will solve a few issues for sure.</p><p><br /></p><p>I'm happy to get on a call or answer further questions, should they come up!</p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -270,7 +270,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2658962,
+  "pending_time": 3099228,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -446,56 +446,56 @@
         {
           "file_type": "png",
           "file_name": "chubbies signals.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/792d8424875c4480a7f4514197cf241a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832796&x-signature=6oBHyd%2BCsbAjw8zzHlB8bRnBaIw%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/792d8424875c4480a7f4514197cf241a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273063&x-signature=PCjtoJoJmAyJW8%2BCKFiYimAdz3Y%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/792d8424875c4480a7f4514197cf241a.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/792d8424875c4480a7f4514197cf241a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832796&x-signature=6oBHyd%2BCsbAjw8zzHlB8bRnBaIw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/792d8424875c4480a7f4514197cf241a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273063&x-signature=PCjtoJoJmAyJW8%2BCKFiYimAdz3Y%3D",
           "size": 264133
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/df7c742d9d4e4d95a56d6ab782ce1d53.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832797&x-signature=X7N5Qx2v6eHy0gbvm94tKoWxK04%3D",
-          "file_name": "file_20240318_13_33_17_205388",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/df7c742d9d4e4d95a56d6ab782ce1d53.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832797&x-signature=X7N5Qx2v6eHy0gbvm94tKoWxK04%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/df7c742d9d4e4d95a56d6ab782ce1d53.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2fb5ca400bc4158877e6462f4a11862.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273063&x-signature=KQUceE%2FD5Bv0KYRlyRMWGbcFfug%3D",
+          "file_name": "file_20240323_15_51_03_780305",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2fb5ca400bc4158877e6462f4a11862.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273063&x-signature=KQUceE%2FD5Bv0KYRlyRMWGbcFfug%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d2fb5ca400bc4158877e6462f4a11862.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e7ef79c4ff9f4ba6a14782148a9da4cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832797&x-signature=3MNrwvBa3Bi7jOkPXSwR2wQI4CY%3D",
-          "file_name": "file_20240318_13_33_17_205464",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e7ef79c4ff9f4ba6a14782148a9da4cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832797&x-signature=3MNrwvBa3Bi7jOkPXSwR2wQI4CY%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/e7ef79c4ff9f4ba6a14782148a9da4cd.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/114cf79a46704bd0bfe6e96e237f6c1f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832797&x-signature=6yFRK5GXlhDy3WC0IZ7%2Bo1x9w9U%3D",
-          "file_name": "file_20240318_13_33_17_205490",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/114cf79a46704bd0bfe6e96e237f6c1f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832797&x-signature=6yFRK5GXlhDy3WC0IZ7%2Bo1x9w9U%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/114cf79a46704bd0bfe6e96e237f6c1f.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/758fe8715b0a4fac91bb713f7daad5a6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832797&x-signature=8zfpRZlPjESUapnnBxHsEi3dw08%3D",
-          "file_name": "file_20240318_13_33_17_205505",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/758fe8715b0a4fac91bb713f7daad5a6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832797&x-signature=8zfpRZlPjESUapnnBxHsEi3dw08%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/758fe8715b0a4fac91bb713f7daad5a6.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aee9daca18154a9b98da48d6ad55ff71.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832797&x-signature=pSsn7qz0ffvLQ7540wOtD8etAxQ%3D",
-          "file_name": "file_20240318_13_33_17_205518",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aee9daca18154a9b98da48d6ad55ff71.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832797&x-signature=pSsn7qz0ffvLQ7540wOtD8etAxQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aee9daca18154a9b98da48d6ad55ff71.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273063&x-signature=ofCDn376myU%2BfjS5mS0zBcGqmGg%3D",
+          "file_name": "file_20240323_15_51_03_780398",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aee9daca18154a9b98da48d6ad55ff71.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273063&x-signature=ofCDn376myU%2BfjS5mS0zBcGqmGg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/aee9daca18154a9b98da48d6ad55ff71.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2fb5ca400bc4158877e6462f4a11862.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832797&x-signature=TlxHMM5naS3BuGFW5eegvKDH%2FSU%3D",
-          "file_name": "file_20240318_13_33_17_205532",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2fb5ca400bc4158877e6462f4a11862.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832797&x-signature=TlxHMM5naS3BuGFW5eegvKDH%2FSU%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/d2fb5ca400bc4158877e6462f4a11862.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/114cf79a46704bd0bfe6e96e237f6c1f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273063&x-signature=82p3V8M4oIOFIX4NMlWGHN7r%2Bs4%3D",
+          "file_name": "file_20240323_15_51_03_780424",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/114cf79a46704bd0bfe6e96e237f6c1f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273063&x-signature=82p3V8M4oIOFIX4NMlWGHN7r%2Bs4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/114cf79a46704bd0bfe6e96e237f6c1f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/758fe8715b0a4fac91bb713f7daad5a6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273063&x-signature=7VSDbUNgoiYzfv5NusF72qEIPuQ%3D",
+          "file_name": "file_20240323_15_51_03_780439",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/758fe8715b0a4fac91bb713f7daad5a6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273063&x-signature=7VSDbUNgoiYzfv5NusF72qEIPuQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/758fe8715b0a4fac91bb713f7daad5a6.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e7ef79c4ff9f4ba6a14782148a9da4cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273063&x-signature=gTGWPTEY3rxPCgFKqfPZ7L8ZRno%3D",
+          "file_name": "file_20240323_15_51_03_780452",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e7ef79c4ff9f4ba6a14782148a9da4cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273063&x-signature=gTGWPTEY3rxPCgFKqfPZ7L8ZRno%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e7ef79c4ff9f4ba6a14782148a9da4cd.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/df7c742d9d4e4d95a56d6ab782ce1d53.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273063&x-signature=cls2P%2Bg4EHhiZT6nszOebjFU5pE%3D",
+          "file_name": "file_20240323_15_51_03_780466",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/df7c742d9d4e4d95a56d6ab782ce1d53.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273063&x-signature=cls2P%2Bg4EHhiZT6nszOebjFU5pE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/df7c742d9d4e4d95a56d6ab782ce1d53.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

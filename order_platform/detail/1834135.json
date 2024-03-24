@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1754600307444754",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1706047228,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Yes, the catalog needs to be connected with the pixel running on their website.</p><p>They should go to the event source section of catalog and connect the pixel C7LA6TPT5S0045R54TMG</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8ede004cf60c4568a5c594be5dc06cd2.png\" height=\"152.036\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ede004cf60c4568a5c594be5dc06cd2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833004&amp;x-signature=qr2hM4wAbHNkA0n3ZkBYO5169wU%3D\" width=\"375\"><p><br /></p><p>Currently they have 2 catalog and both are linked to old pixel which do not exist.  </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3a62ac6e9cc74a189a6a17f8662abcb4.png\" height=\"105.381\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3a62ac6e9cc74a189a6a17f8662abcb4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833004&amp;x-signature=v4UktEj7crunsJVs%2Fk5tg1B%2BoQM%3D\" width=\"375\" /></img>",
+          "content": "<p>Yes, the catalog needs to be connected with the pixel running on their website.</p><p>They should go to the event source section of catalog and connect the pixel C7LA6TPT5S0045R54TMG</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8ede004cf60c4568a5c594be5dc06cd2.png\" height=\"152.036\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ede004cf60c4568a5c594be5dc06cd2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273068&amp;x-signature=0WPzELesWui1A%2BdIa2wCCluJhX4%3D\" width=\"375\"><p><br /></p><p>Currently they have 2 catalog and both are linked to old pixel which do not exist.  </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3a62ac6e9cc74a189a6a17f8662abcb4.png\" height=\"105.381\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3a62ac6e9cc74a189a6a17f8662abcb4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273068&amp;x-signature=nl6iwY4aZbdQPHzqAroS2b71VOc%3D\" width=\"375\" /></img>",
           "type": 6
         }
       ],
@@ -120,7 +120,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Saurabh, I got them to connect the catalog. However, upon investigation it looks like their matchrates are HORRIBLE. This is a P1 client so I really need support and explicit instructions on how this client specifically can improve this. It seems the contentid is not matching up between the event tracking and their catalog. Can you identify on your end what needs to be changed to get a better match here?</p><p><br /></p><img alt=\"Screenshot 2024-01-29 at 10.27.48 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/284c69cc049a4c03afeec9ea5770f457.png\" height=\"120.039\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/284c69cc049a4c03afeec9ea5770f457.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833004&amp;x-signature=TIEN%2FRKsmYWm3n%2FexKCqeuxOwuQ%3D\" width=\"375\"><img alt=\"Screenshot 2024-01-29 at 10.29.42 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a6d4ffe2271d4dc4ae34a7376572304c.png\" height=\"166.586\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a6d4ffe2271d4dc4ae34a7376572304c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833004&amp;x-signature=k%2FOy%2F%2FjrIyFZvMGC5Ji3aP5h%2B2g%3D\" width=\"375\" /></img>",
+          "content": "<p>Hi Saurabh, I got them to connect the catalog. However, upon investigation it looks like their matchrates are HORRIBLE. This is a P1 client so I really need support and explicit instructions on how this client specifically can improve this. It seems the contentid is not matching up between the event tracking and their catalog. Can you identify on your end what needs to be changed to get a better match here?</p><p><br /></p><img alt=\"Screenshot 2024-01-29 at 10.27.48 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/284c69cc049a4c03afeec9ea5770f457.png\" height=\"120.039\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/284c69cc049a4c03afeec9ea5770f457.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273068&amp;x-signature=V8cGK8%2FGItXQYSdmMe%2BOYGFuolU%3D\" width=\"375\"><img alt=\"Screenshot 2024-01-29 at 10.29.42 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a6d4ffe2271d4dc4ae34a7376572304c.png\" height=\"166.586\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a6d4ffe2271d4dc4ae34a7376572304c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273068&amp;x-signature=2c6NVFSABwdwG1aocACBdei%2BCz0%3D\" width=\"375\" /></img>",
           "type": 6
         }
       ],
@@ -209,7 +209,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi the catalog match rate is low, because not all the items that are listed on website are available in tiktok catalog.</p><p>TT cataog needs to be updated to include all the items available on their website (there are 100s of product on litter robot website, while only 39 are there in catalog).</p><p>following is an example of item that is on website but missing in catalog:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8fe0e02164aa455cb663287bd639976a.png\" height=\"146.739\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8fe0e02164aa455cb663287bd639976a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833004&amp;x-signature=n7LKERXtZ8CqcQy50LR8NSVBypo%3D\" width=\"375\" />",
+          "content": "<p>Hi the catalog match rate is low, because not all the items that are listed on website are available in tiktok catalog.</p><p>TT cataog needs to be updated to include all the items available on their website (there are 100s of product on litter robot website, while only 39 are there in catalog).</p><p>following is an example of item that is on website but missing in catalog:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8fe0e02164aa455cb663287bd639976a.png\" height=\"146.739\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8fe0e02164aa455cb663287bd639976a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273068&amp;x-signature=wEkqZD1O2QQ8pAZJJcRdvhPtybk%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -235,7 +235,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_f4d8d6a1-b006-4c61-b1be-d93be5c0d5ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0090_1cd7b199-adcb-4d16-97e3-68c2d700f6fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 6,
   "current_role": null,
@@ -278,7 +278,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 891468,
+  "pending_time": 1331532,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -415,41 +415,41 @@
       "label": "Screenshot(s)",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3a62ac6e9cc74a189a6a17f8662abcb4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833004&x-signature=v4UktEj7crunsJVs%2Fk5tg1B%2BoQM%3D",
-          "file_name": "file_20240318_13_36_44_338699",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3a62ac6e9cc74a189a6a17f8662abcb4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833004&x-signature=v4UktEj7crunsJVs%2Fk5tg1B%2BoQM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3a62ac6e9cc74a189a6a17f8662abcb4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273068&x-signature=nl6iwY4aZbdQPHzqAroS2b71VOc%3D",
+          "file_name": "file_20240323_15_51_08_155376",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3a62ac6e9cc74a189a6a17f8662abcb4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273068&x-signature=nl6iwY4aZbdQPHzqAroS2b71VOc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/3a62ac6e9cc74a189a6a17f8662abcb4.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ede004cf60c4568a5c594be5dc06cd2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833004&x-signature=qr2hM4wAbHNkA0n3ZkBYO5169wU%3D",
-          "file_name": "file_20240318_13_36_44_338831",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ede004cf60c4568a5c594be5dc06cd2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833004&x-signature=qr2hM4wAbHNkA0n3ZkBYO5169wU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ede004cf60c4568a5c594be5dc06cd2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273068&x-signature=0WPzELesWui1A%2BdIa2wCCluJhX4%3D",
+          "file_name": "file_20240323_15_51_08_155454",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ede004cf60c4568a5c594be5dc06cd2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273068&x-signature=0WPzELesWui1A%2BdIa2wCCluJhX4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8ede004cf60c4568a5c594be5dc06cd2.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a6d4ffe2271d4dc4ae34a7376572304c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833004&x-signature=k%2FOy%2F%2FjrIyFZvMGC5Ji3aP5h%2B2g%3D",
-          "file_name": "file_20240318_13_36_44_470216",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a6d4ffe2271d4dc4ae34a7376572304c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833004&x-signature=k%2FOy%2F%2FjrIyFZvMGC5Ji3aP5h%2B2g%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/a6d4ffe2271d4dc4ae34a7376572304c.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/284c69cc049a4c03afeec9ea5770f457.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833004&x-signature=TIEN%2FRKsmYWm3n%2FexKCqeuxOwuQ%3D",
-          "file_name": "file_20240318_13_36_44_470290",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/284c69cc049a4c03afeec9ea5770f457.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833004&x-signature=TIEN%2FRKsmYWm3n%2FexKCqeuxOwuQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/284c69cc049a4c03afeec9ea5770f457.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273068&x-signature=V8cGK8%2FGItXQYSdmMe%2BOYGFuolU%3D",
+          "file_name": "file_20240323_15_51_08_271069",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/284c69cc049a4c03afeec9ea5770f457.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273068&x-signature=V8cGK8%2FGItXQYSdmMe%2BOYGFuolU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/284c69cc049a4c03afeec9ea5770f457.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8fe0e02164aa455cb663287bd639976a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833004&x-signature=n7LKERXtZ8CqcQy50LR8NSVBypo%3D",
-          "file_name": "file_20240318_13_36_44_543095",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8fe0e02164aa455cb663287bd639976a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833004&x-signature=n7LKERXtZ8CqcQy50LR8NSVBypo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a6d4ffe2271d4dc4ae34a7376572304c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273068&x-signature=2c6NVFSABwdwG1aocACBdei%2BCz0%3D",
+          "file_name": "file_20240323_15_51_08_271148",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a6d4ffe2271d4dc4ae34a7376572304c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273068&x-signature=2c6NVFSABwdwG1aocACBdei%2BCz0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a6d4ffe2271d4dc4ae34a7376572304c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8fe0e02164aa455cb663287bd639976a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273068&x-signature=wEkqZD1O2QQ8pAZJJcRdvhPtybk%3D",
+          "file_name": "file_20240323_15_51_08_360776",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8fe0e02164aa455cb663287bd639976a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273068&x-signature=wEkqZD1O2QQ8pAZJJcRdvhPtybk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8fe0e02164aa455cb663287bd639976a.png",
           "file_type": "jpeg",
           "biz_type": 2

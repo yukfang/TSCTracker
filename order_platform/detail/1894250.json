@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1708634690,
   "deadline": 0,
@@ -270,7 +270,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1723124,
+  "pending_time": 2158638,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -446,9 +446,9 @@
         {
           "file_type": "png",
           "file_name": "image.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5885f36382ea4889aa6d3518d6f0eabb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838213&x-signature=BaAUXMHr6vS7tdhgEn3zuZAH2uw%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5885f36382ea4889aa6d3518d6f0eabb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273727&x-signature=X3GidwgPzVuvyxsLYqfs%2FXRIGsQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5885f36382ea4889aa6d3518d6f0eabb.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5885f36382ea4889aa6d3518d6f0eabb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838213&x-signature=BaAUXMHr6vS7tdhgEn3zuZAH2uw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5885f36382ea4889aa6d3518d6f0eabb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273727&x-signature=X3GidwgPzVuvyxsLYqfs%2FXRIGsQ%3D",
           "size": 75468
         }
       ],

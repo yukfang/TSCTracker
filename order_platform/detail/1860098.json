@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1707169313,
   "deadline": 0,
@@ -121,7 +121,7 @@
     0
   ],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_9c901acb-4584-488e-8647-329f975106cg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_9c901acb-4584-488e-8647-329f975106cg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": -1,
   "current_role": null,
@@ -303,7 +303,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3080261,
+  "pending_time": 3515846,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [

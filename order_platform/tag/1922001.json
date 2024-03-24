@@ -1,0 +1,13 @@
+[
+  {
+    "id": "38200000084",
+    "name": "Closed  - No Adoption Improvement",
+    "sub_tags": [
+      {
+        "id": "38300000175",
+        "name": "No response from Client (>60D)"
+      }
+    ],
+    "color": "#f5a623"
+  }
+]

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1709830478,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Isabel, </p><p><br /></p><p>To your questions: </p><p><span style=\"color: #333333;\"><em>Is the missing and non matching of email/phone due to the pixel or server API Data?</em></span></p><p><span style=\"color: #333333;\">I am not seeing missing PII diagnostics [<a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CJFQ2GJC77U2TQ1CT0H0?start_time=2024-03-05&amp;end_time=2024-03-11&amp;aadvid=6927087815570309122\" target=\"_blank\">TTEM</a>] for their events:</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/659bcba84fc9469da8bbd2c113123706.png\" height=\"279.531\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/659bcba84fc9469da8bbd2c113123706.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838508&amp;x-signature=jl%2FoihQsXOOrGxzOpnysqd6avoQ%3D\" width=\"375\"><p>where do you see that message coming through?</p><p><br /></p><p><span style=\"color: #333333;\"><em>Is the pixel code ttq.identify() function what is used for pixel for matching email/phone.</em></span></p><p><span style=\"color: #333333;\">Yes, please see the documentation <a href=\"https://ads.tiktok.com/gateway/docs/index?identify_key=2b9b4278e47b275f36e7c39a4af4ba067d088e031d5f5fe45d381559ac89ba48&amp;language=ENGLISH&amp;doc_id=1701890972946433\" target=\"_blank\">here</a></span><br /></p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Isabel, </p><p><br /></p><p>To your questions: </p><p><span style=\"color: #333333;\"><em>Is the missing and non matching of email/phone due to the pixel or server API Data?</em></span></p><p><span style=\"color: #333333;\">I am not seeing missing PII diagnostics [<a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CJFQ2GJC77U2TQ1CT0H0?start_time=2024-03-05&amp;end_time=2024-03-11&amp;aadvid=6927087815570309122\" target=\"_blank\">TTEM</a>] for their events:</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/659bcba84fc9469da8bbd2c113123706.png\" height=\"279.531\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/659bcba84fc9469da8bbd2c113123706.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274035&amp;x-signature=m3vsoR4TOBmoNtmotyq08C9ilBY%3D\" width=\"375\"><p>where do you see that message coming through?</p><p><br /></p><p><span style=\"color: #333333;\"><em>Is the pixel code ttq.identify() function what is used for pixel for matching email/phone.</em></span></p><p><span style=\"color: #333333;\">Yes, please see the documentation <a href=\"https://ads.tiktok.com/gateway/docs/index?identify_key=2b9b4278e47b275f36e7c39a4af4ba067d088e031d5f5fe45d381559ac89ba48&amp;language=ENGLISH&amp;doc_id=1701890972946433\" target=\"_blank\">here</a></span><br /></p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -126,6 +126,116 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_b2d58971-fc1a-42df-9e17-0e6e3cd54a4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710870936,
+      "auto_close_hit": 0,
+      "id": 7348133321777496000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "isabelpavone@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Isabel Pavone27",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7252418741102740482",
+      "name": "Isabel Pavone27",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi There,&nbsp;</p><p><br></p><p>Were you able to recheck for the account threadbeast? Instead of Fresh Clean Threads:?&nbsp;&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_b2d58971-fc1a-42df-9e17-0e6e3cd54a4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710871515,
+      "auto_close_hit": 0,
+      "id": 7348135680188367000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "isabelpavone@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Isabel Pavone27",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7252418741102740482",
+      "name": "Isabel Pavone27",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>They followed up with 2 Questions:&nbsp;</p><p><span style=\"color: #222222;\"><strong>1. Is the missing and non-matching email/phone number from the pixel or server? </strong>I am unable to locate this via the diagnostics details steps you recommended. Can you help in identifying which data source is causing the miss-match?? Documentation mentions parameter details, is it referencing this page for pixel events?</span></p><p><br></p><p><span style=\"color: #222222;\"><strong>2. Is the pixel code ttq.identify() function what is used for pixel for matching email/phone. </strong>After reading the documentation, it looks like &#34;yes&#34; - can you help in double confirming with an internal Dev resource at TikTok please?</span></p><p><br></p><p><span style=\"color: #222222;\">I noticed that he is looking at event data instead of event health and the % of what the match rates that he is missing. But it seems we need a stronger link or description to provide him.&nbsp;</span></p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screen Shot 2024-03-18 at 4.13.19 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b6084c9c8ac24a8b8ab00e4c7a6cd4c1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274035&x-signature=aO81%2B0NWaQdXZI9544A2g%2FKbYN8%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/b6084c9c8ac24a8b8ab00e4c7a6cd4c1.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b6084c9c8ac24a8b8ab00e4c7a6cd4c1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274035&x-signature=aO81%2B0NWaQdXZI9544A2g%2FKbYN8%3D",
+              "biz_type": 2,
+              "size": 913610
+            },
+            {
+              "file_type": "png",
+              "file_name": "Screen Shot 2024-03-18 at 4.03.03 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e67314dbddf4479bb24a5f69fdab15bf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274035&x-signature=K2%2FTYCfn683cPBk2marqSIfi5EM%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/e67314dbddf4479bb24a5f69fdab15bf.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e67314dbddf4479bb24a5f69fdab15bf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274035&x-signature=K2%2FTYCfn683cPBk2marqSIfi5EM%3D",
+              "biz_type": 2,
+              "size": 304745
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_b2d58971-fc1a-42df-9e17-0e6e3cd54a4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711031666,
+      "auto_close_hit": 0,
+      "id": 7348823994650362000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kristen.edge@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kristen Edge",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6994350439588430849",
+      "name": "Kristen Edge",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi team! Following up on Isabel&#39;s previous message with more context from the ThreadBeast team.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9bcefe62-a258-4f69-a0a4-0b05cef01dbh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -153,7 +263,7 @@
   "fd_permission": 1,
   "status": 2,
   "business_data": [],
-  "update_time": 1710263126,
+  "update_time": 1711031666,
   "owner_name": "Isabel Pavone",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -255,7 +365,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 517962,
+  "pending_time": 953488,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -429,12 +539,30 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/659bcba84fc9469da8bbd2c113123706.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838508&x-signature=jl%2FoihQsXOOrGxzOpnysqd6avoQ%3D",
-          "file_name": "file_20240318_15_08_28_720061",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/659bcba84fc9469da8bbd2c113123706.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838508&x-signature=jl%2FoihQsXOOrGxzOpnysqd6avoQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/659bcba84fc9469da8bbd2c113123706.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274035&x-signature=m3vsoR4TOBmoNtmotyq08C9ilBY%3D",
+          "file_name": "file_20240323_16_07_15_247796",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/659bcba84fc9469da8bbd2c113123706.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274035&x-signature=m3vsoR4TOBmoNtmotyq08C9ilBY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/659bcba84fc9469da8bbd2c113123706.png",
           "file_type": "jpeg",
           "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-03-18 at 4.13.19 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b6084c9c8ac24a8b8ab00e4c7a6cd4c1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274035&x-signature=aO81%2B0NWaQdXZI9544A2g%2FKbYN8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b6084c9c8ac24a8b8ab00e4c7a6cd4c1.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b6084c9c8ac24a8b8ab00e4c7a6cd4c1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274035&x-signature=aO81%2B0NWaQdXZI9544A2g%2FKbYN8%3D",
+          "biz_type": 2,
+          "size": 913610
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screen Shot 2024-03-18 at 4.03.03 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e67314dbddf4479bb24a5f69fdab15bf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274035&x-signature=K2%2FTYCfn683cPBk2marqSIfi5EM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e67314dbddf4479bb24a5f69fdab15bf.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e67314dbddf4479bb24a5f69fdab15bf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274035&x-signature=K2%2FTYCfn683cPBk2marqSIfi5EM%3D",
+          "biz_type": 2,
+          "size": 304745
         }
       ],
       "valid": true,

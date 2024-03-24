@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Fernanda,</p><p>Nice to hear from you again! I believe your question here is if catalogs can be shared. If this is the case then yes! We are able to share catalogs. </p><ul><li>Here is our Help Center documentation for Catalog Sharing: https://ads.tiktok.com/help/article/manage-catalog-business-center?lang=en</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/860044ae559e43fb9d311e12680028f1.png\" height=\"52.333\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/860044ae559e43fb9d311e12680028f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832857&amp;x-signature=vr%2F8Fp%2Br7H%2B4Fb2K%2BHUcsVCvx1o%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/85f964f71f3541519142c379b930bcef.png\" height=\"206.335\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85f964f71f3541519142c379b930bcef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832857&amp;x-signature=mjsVEuULEZ1k3swpF2zStlAJkWI%3D\" width=\"375\"><ul><li>Catalog Best Practices: https://ads.tiktok.com/help/article/create-manage-catalogs?lang=en</li><ul><li>The doc provides details regarding the different catalog upload methods</li></ul></ul><p><br /></p><p>Would you be able to provide this to the client team to see if this addresses their questions? </p><p>Thanks!</p><p>Robbie</p></img></img>",
+          "content": "<p>Hi Fernanda,</p><p>Nice to hear from you again! I believe your question here is if catalogs can be shared. If this is the case then yes! We are able to share catalogs. </p><ul><li>Here is our Help Center documentation for Catalog Sharing: https://ads.tiktok.com/help/article/manage-catalog-business-center?lang=en</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/860044ae559e43fb9d311e12680028f1.png\" height=\"52.333\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/860044ae559e43fb9d311e12680028f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273133&amp;x-signature=rpIwDhJ%2F2vsA5MSKtKnmVPqS3jo%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/85f964f71f3541519142c379b930bcef.png\" height=\"206.335\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85f964f71f3541519142c379b930bcef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273133&amp;x-signature=yQGA8orDUxl%2FNEiiLAiL9L%2FS8T0%3D\" width=\"375\"><ul><li>Catalog Best Practices: https://ads.tiktok.com/help/article/create-manage-catalogs?lang=en</li><ul><li>The doc provides details regarding the different catalog upload methods</li></ul></ul><p><br /></p><p>Would you be able to provide this to the client team to see if this addresses their questions? </p><p>Thanks!</p><p>Robbie</p></img></img>",
           "type": 6
         }
       ],
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Fernanda,</p><p><br /></p><p>Do you have this background information Fernanda?</p><ul><li>I do not know how Digitas plans to handle tracking capabilities when Ecomm is responsible for submitting the catalog</li><li>I do not have context into what the Digitas team is doing</li><li>I do not know who is part of the Ecomm team </li><li>I do not have the context with what Digitas and the Ecomm team is doing with Adobe</li></ul><p><br /></p><p><br /></p><p>With regards to our tracking link capabilities, we offer the following functionalities:</p><p>There are two ways to add UTM in bulk/ dynamically to your ads. <strong>Please note that only one method is needed, not both.</strong></p><p><strong>Option 1: Add UTM parameters at the ad-level</strong></p><p>Advertisers can now add UTM parameters at ad level to their product catalogs explicitly on TTAM instead of creating a separate catalog for every different UTM parameter. With this feature, advertisers can better track campaign performance via 3rd party analytics platforms.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/52ef72b4816a4ad09a644bc2e849eb4f.png\" height=\"208.803\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/52ef72b4816a4ad09a644bc2e849eb4f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832858&amp;x-signature=DpesSzxXa1yZtyIMVFIy3zqiPEY%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c403155a807f47bf964805cd218c66ec.png\" height=\"250.493\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c403155a807f47bf964805cd218c66ec.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832858&amp;x-signature=fW1fKq6mHSXdUyFs%2FU1yDMO9if0%3D\" width=\"375\"><p><br /></p><p><strong>Option 2: add UTM parameters at the catalog level</strong></p><p>For advertisers who implement rules at the catalog level, please<strong><u> keep in mind that they will still need to add UTMs to 'Custom Link' at the ad level.</u></strong></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8bc4f7fda4594ced80d12f786992ea56.png\" height=\"194.914\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8bc4f7fda4594ced80d12f786992ea56.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832858&amp;x-signature=VUas0cxp3WiklY72plYonyVRogU%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8c25a1d6d9444bdc84aa796b59a605c4.png\" height=\"191.188\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c25a1d6d9444bdc84aa796b59a605c4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832858&amp;x-signature=AcsY9bu8k09Nbt9ySVIKTVli3Ow%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2aabc37325604af9bc93008b201f6660.png\" height=\"196.016\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2aabc37325604af9bc93008b201f6660.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832858&amp;x-signature=H8DEgFIr70Gu1N0b5y2HeGJiEyQ%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e948baba64bf477f9e5c79fe9452af49.png\" height=\"289.595\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e948baba64bf477f9e5c79fe9452af49.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832858&amp;x-signature=QdVUHkgwke%2BUznr8X8xoqNj5CIc%3D\" width=\"375\"><p><span style=\"color: #245BDB;\"><strong>Do UTMs pull through if my advertiser implements Dynamic Destination (ie. on the PLP)?</strong></span></p><p>Yes, the UTMs implemented (see previous question for more details) will pull through automatically, no additional work is required.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/57362d65c78f42ef93b30c2f447d21de.png\" height=\"272.382\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/57362d65c78f42ef93b30c2f447d21de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832858&amp;x-signature=FC1xXV61puOEkVAxYcSXrhYe02w%3D\" width=\"375\"><p>With regards to recommendations:</p><ul><li>For advertisers with more than 100+ products we recommend using either the Data Feed method or a Manual File Upload</li><ul><li>The limit for a Manual File upload is 100 MB, which can roughly come out to about 50k rows</li></ul><li>For our larger, high volume/enterprise advertisers, we highly recommend utilizing the Data Feed method</li><ul><li>The limit for a Data Feed upload is 50G, which may roughly come out close to ~1M rows</li><li>We have advertisers who have uploaded ~1M products as it came under the 50G threshold but resulted in a less than responsive catalog</li><li>Our recommendation is keeping the number of products to a max of 700k to ensure stable usability</li></ul></ul><p><br /></p><p>Hope this helps!</p><p>Best,</p><p>Robbie</p></img></img></img></img></img></img></img>",
+          "content": "<p>Hi Fernanda,</p><p><br /></p><p>Do you have this background information Fernanda?</p><ul><li>I do not know how Digitas plans to handle tracking capabilities when Ecomm is responsible for submitting the catalog</li><li>I do not have context into what the Digitas team is doing</li><li>I do not know who is part of the Ecomm team </li><li>I do not have the context with what Digitas and the Ecomm team is doing with Adobe</li></ul><p><br /></p><p><br /></p><p>With regards to our tracking link capabilities, we offer the following functionalities:</p><p>There are two ways to add UTM in bulk/ dynamically to your ads. <strong>Please note that only one method is needed, not both.</strong></p><p><strong>Option 1: Add UTM parameters at the ad-level</strong></p><p>Advertisers can now add UTM parameters at ad level to their product catalogs explicitly on TTAM instead of creating a separate catalog for every different UTM parameter. With this feature, advertisers can better track campaign performance via 3rd party analytics platforms.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/52ef72b4816a4ad09a644bc2e849eb4f.png\" height=\"208.803\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/52ef72b4816a4ad09a644bc2e849eb4f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273133&amp;x-signature=IJvp9wiG5454N8sQjTu5q1LlV2g%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c403155a807f47bf964805cd218c66ec.png\" height=\"250.493\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c403155a807f47bf964805cd218c66ec.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273133&amp;x-signature=clBML7Ryk7WrGCMUOX9TR96tOPQ%3D\" width=\"375\"><p><br /></p><p><strong>Option 2: add UTM parameters at the catalog level</strong></p><p>For advertisers who implement rules at the catalog level, please<strong><u> keep in mind that they will still need to add UTMs to 'Custom Link' at the ad level.</u></strong></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8bc4f7fda4594ced80d12f786992ea56.png\" height=\"194.914\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8bc4f7fda4594ced80d12f786992ea56.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273133&amp;x-signature=XcNrdVMqEmuBQk6z1orW%2FCHA4dY%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8c25a1d6d9444bdc84aa796b59a605c4.png\" height=\"191.188\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c25a1d6d9444bdc84aa796b59a605c4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273133&amp;x-signature=QMOZqgnFH1bHvO85Xdsd7fMrZ7c%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2aabc37325604af9bc93008b201f6660.png\" height=\"196.016\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2aabc37325604af9bc93008b201f6660.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273133&amp;x-signature=7zD5UbzT4%2BFHw7vwlKs36o%2FG4eQ%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e948baba64bf477f9e5c79fe9452af49.png\" height=\"289.595\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e948baba64bf477f9e5c79fe9452af49.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273133&amp;x-signature=0vg1yfzvbrreGeyxcsLQmzKePfE%3D\" width=\"375\"><p><span style=\"color: #245BDB;\"><strong>Do UTMs pull through if my advertiser implements Dynamic Destination (ie. on the PLP)?</strong></span></p><p>Yes, the UTMs implemented (see previous question for more details) will pull through automatically, no additional work is required.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/57362d65c78f42ef93b30c2f447d21de.png\" height=\"272.382\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/57362d65c78f42ef93b30c2f447d21de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273133&amp;x-signature=%2BppW1QZ%2BJ8kvo6%2F1mLO0J9plyUc%3D\" width=\"375\"><p>With regards to recommendations:</p><ul><li>For advertisers with more than 100+ products we recommend using either the Data Feed method or a Manual File Upload</li><ul><li>The limit for a Manual File upload is 100 MB, which can roughly come out to about 50k rows</li></ul><li>For our larger, high volume/enterprise advertisers, we highly recommend utilizing the Data Feed method</li><ul><li>The limit for a Data Feed upload is 50G, which may roughly come out close to ~1M rows</li><li>We have advertisers who have uploaded ~1M products as it came under the 50G threshold but resulted in a less than responsive catalog</li><li>Our recommendation is keeping the number of products to a max of 700k to ensure stable usability</li></ul></ul><p><br /></p><p>Hope this helps!</p><p>Best,</p><p>Robbie</p></img></img></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -189,7 +189,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3411743,
+  "pending_time": 3852019,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -326,74 +326,74 @@
       "label": "Screenshot(s)",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85f964f71f3541519142c379b930bcef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832857&x-signature=mjsVEuULEZ1k3swpF2zStlAJkWI%3D",
-          "file_name": "file_20240318_13_34_18_006009",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85f964f71f3541519142c379b930bcef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832857&x-signature=mjsVEuULEZ1k3swpF2zStlAJkWI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85f964f71f3541519142c379b930bcef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=yQGA8orDUxl%2FNEiiLAiL9L%2FS8T0%3D",
+          "file_name": "file_20240323_15_52_13_667467",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85f964f71f3541519142c379b930bcef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=yQGA8orDUxl%2FNEiiLAiL9L%2FS8T0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/85f964f71f3541519142c379b930bcef.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/860044ae559e43fb9d311e12680028f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832857&x-signature=vr%2F8Fp%2Br7H%2B4Fb2K%2BHUcsVCvx1o%3D",
-          "file_name": "file_20240318_13_34_18_006082",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/860044ae559e43fb9d311e12680028f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832857&x-signature=vr%2F8Fp%2Br7H%2B4Fb2K%2BHUcsVCvx1o%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/860044ae559e43fb9d311e12680028f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=rpIwDhJ%2F2vsA5MSKtKnmVPqS3jo%3D",
+          "file_name": "file_20240323_15_52_13_667696",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/860044ae559e43fb9d311e12680028f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=rpIwDhJ%2F2vsA5MSKtKnmVPqS3jo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/860044ae559e43fb9d311e12680028f1.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c25a1d6d9444bdc84aa796b59a605c4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832858&x-signature=AcsY9bu8k09Nbt9ySVIKTVli3Ow%3D",
-          "file_name": "file_20240318_13_34_18_255974",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c25a1d6d9444bdc84aa796b59a605c4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832858&x-signature=AcsY9bu8k09Nbt9ySVIKTVli3Ow%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c25a1d6d9444bdc84aa796b59a605c4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=QMOZqgnFH1bHvO85Xdsd7fMrZ7c%3D",
+          "file_name": "file_20240323_15_52_13_874314",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c25a1d6d9444bdc84aa796b59a605c4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=QMOZqgnFH1bHvO85Xdsd7fMrZ7c%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8c25a1d6d9444bdc84aa796b59a605c4.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c403155a807f47bf964805cd218c66ec.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832858&x-signature=fW1fKq6mHSXdUyFs%2FU1yDMO9if0%3D",
-          "file_name": "file_20240318_13_34_18_256064",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c403155a807f47bf964805cd218c66ec.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832858&x-signature=fW1fKq6mHSXdUyFs%2FU1yDMO9if0%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/c403155a807f47bf964805cd218c66ec.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2aabc37325604af9bc93008b201f6660.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832858&x-signature=H8DEgFIr70Gu1N0b5y2HeGJiEyQ%3D",
-          "file_name": "file_20240318_13_34_18_256085",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2aabc37325604af9bc93008b201f6660.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832858&x-signature=H8DEgFIr70Gu1N0b5y2HeGJiEyQ%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/2aabc37325604af9bc93008b201f6660.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e948baba64bf477f9e5c79fe9452af49.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832858&x-signature=QdVUHkgwke%2BUznr8X8xoqNj5CIc%3D",
-          "file_name": "file_20240318_13_34_18_256100",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e948baba64bf477f9e5c79fe9452af49.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832858&x-signature=QdVUHkgwke%2BUznr8X8xoqNj5CIc%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/e948baba64bf477f9e5c79fe9452af49.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/52ef72b4816a4ad09a644bc2e849eb4f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832858&x-signature=DpesSzxXa1yZtyIMVFIy3zqiPEY%3D",
-          "file_name": "file_20240318_13_34_18_256126",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/52ef72b4816a4ad09a644bc2e849eb4f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832858&x-signature=DpesSzxXa1yZtyIMVFIy3zqiPEY%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/52ef72b4816a4ad09a644bc2e849eb4f.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8bc4f7fda4594ced80d12f786992ea56.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832858&x-signature=VUas0cxp3WiklY72plYonyVRogU%3D",
-          "file_name": "file_20240318_13_34_18_256148",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8bc4f7fda4594ced80d12f786992ea56.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832858&x-signature=VUas0cxp3WiklY72plYonyVRogU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8bc4f7fda4594ced80d12f786992ea56.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=XcNrdVMqEmuBQk6z1orW%2FCHA4dY%3D",
+          "file_name": "file_20240323_15_52_13_874425",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8bc4f7fda4594ced80d12f786992ea56.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=XcNrdVMqEmuBQk6z1orW%2FCHA4dY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8bc4f7fda4594ced80d12f786992ea56.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/57362d65c78f42ef93b30c2f447d21de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832858&x-signature=FC1xXV61puOEkVAxYcSXrhYe02w%3D",
-          "file_name": "file_20240318_13_34_18_256166",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/57362d65c78f42ef93b30c2f447d21de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832858&x-signature=FC1xXV61puOEkVAxYcSXrhYe02w%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/57362d65c78f42ef93b30c2f447d21de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=%2BppW1QZ%2BJ8kvo6%2F1mLO0J9plyUc%3D",
+          "file_name": "file_20240323_15_52_13_874453",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/57362d65c78f42ef93b30c2f447d21de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=%2BppW1QZ%2BJ8kvo6%2F1mLO0J9plyUc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/57362d65c78f42ef93b30c2f447d21de.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2aabc37325604af9bc93008b201f6660.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=7zD5UbzT4%2BFHw7vwlKs36o%2FG4eQ%3D",
+          "file_name": "file_20240323_15_52_13_874477",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2aabc37325604af9bc93008b201f6660.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=7zD5UbzT4%2BFHw7vwlKs36o%2FG4eQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2aabc37325604af9bc93008b201f6660.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/52ef72b4816a4ad09a644bc2e849eb4f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=IJvp9wiG5454N8sQjTu5q1LlV2g%3D",
+          "file_name": "file_20240323_15_52_13_874496",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/52ef72b4816a4ad09a644bc2e849eb4f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=IJvp9wiG5454N8sQjTu5q1LlV2g%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/52ef72b4816a4ad09a644bc2e849eb4f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e948baba64bf477f9e5c79fe9452af49.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=0vg1yfzvbrreGeyxcsLQmzKePfE%3D",
+          "file_name": "file_20240323_15_52_13_874519",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e948baba64bf477f9e5c79fe9452af49.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=0vg1yfzvbrreGeyxcsLQmzKePfE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e948baba64bf477f9e5c79fe9452af49.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c403155a807f47bf964805cd218c66ec.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=clBML7Ryk7WrGCMUOX9TR96tOPQ%3D",
+          "file_name": "file_20240323_15_52_13_874535",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c403155a807f47bf964805cd218c66ec.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273133&x-signature=clBML7Ryk7WrGCMUOX9TR96tOPQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c403155a807f47bf964805cd218c66ec.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

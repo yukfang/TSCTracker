@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1708622742,
   "deadline": 0,
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zahra, </p><p><br /></p><p>Checking the data and the <a href=\"https://www.rebag.com/\" target=\"_blank\">rebag.com</a> site, I am seeing:</p><p><br /></p><p>They are using two pixels<span style=\"color: #121212;\"> </span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/de66bb884dd64f81918c37583d072e0d.png\" height=\"168.911\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/de66bb884dd64f81918c37583d072e0d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838208&amp;x-signature=BIzh6eP7%2F83NIJc0VkCo7694L5g%3D\" width=\"375\"><p><span style=\"color: #121212;\"><strong>[Rebag] website</strong></span> <span style=\"color: #222222;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/BTVGRO8RQH54JI5RODDG?start_time=2024-02-17&amp;end_time=2024-02-23&amp;from=ALL&amp;aadvid=6880926295660691457\" target=\"_blank\">BTVGRO8RQH54JI5RODDG</a> - pixel only</span></p><p><span style=\"color: #222222;\">Funnel:</span></p><p><span style=\"color: #222222;\">Button click</span></p><p><span style=\"color: #222222;\">AddToCart</span></p><p><span style=\"color: #222222;\">ViewContent</span></p><p><span style=\"color: #222222;\">PlaceAnOrder</span></p><p><span style=\"color: #222222;\">CompleteRegistration</span></p><p><span style=\"color: #222222;\"><strong>This pixel has no CompletePayment event set up - action item as this is needed for VSA, VBO, calculating ROAS</strong></span></p><p><span style=\"color: #222222;\">-and-</span></p><p><span style=\"color: #121212;\"><strong>[Rebag] website - Developer Mode</strong></span><span style=\"color: #222222;\"><strong> </strong><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C04TFADBB3R16RD9388G?start_time=2024-02-17&amp;end_time=2024-02-23&amp;from=ALL&amp;aadvid=6880926295660691457\" target=\"_blank\">C04TFADBB3R16RD9388G</a> - pixel and Event API</span></p><p>Funnel:</p><p><span style=\"color: #222222;\">Button click</span></p><p><span style=\"color: #222222;\">InitiateCheckout</span></p><p><span style=\"color: #222222;\">AddToCart</span></p><p><span style=\"color: #222222;\">ViewContent</span></p><p><span style=\"color: #222222;\">CompleteRegistration</span></p><p><span style=\"color: #222222;\">Search</span></p><p><span style=\"color: #222222;\">CompletePayment</span></p><p>If they wanted to choose one setup to use, I would recommend this one, as it includes browser and server.</p><p><br /></p><p>There are a couple of issues to address:</p><p>Event ids between pixel and server are not matching up. I have pulled a report and broken out the lower-funnel events into tabs. There, you can see that only 1 event is reporting for each event id, when ideally there would be 2, in order for deduplication to work, example from 'CompletePayment':</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ff02ba1d504248d8abdd350e711408dc.png\" height=\"238.286\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff02ba1d504248d8abdd350e711408dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838208&amp;x-signature=M9RTnE2XSP3clSeQVt9G901YBds%3D\" width=\"375\"><p>I am not able to check this event from the browser as I would need a test login or coupon code. If they only intend to use server events for CompletePayment, that is ok.</p><p><br /></p><p>ViewContent is firing twice for <span style=\"color: #222222;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/BTVGRO8RQH54JI5RODDG?start_time=2024-02-17&amp;end_time=2024-02-23&amp;from=ALL&amp;aadvid=6880926295660691457\" target=\"_blank\">BTVGRO8RQH54JI5RODDG</a> , which will throw off their metrics. They should fix this as soon as they can. The 'Browse' event is deprecated, so they should remove it.</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/005d1edc394c451c9a47f682ce2cfb17.png\" height=\"194.083\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/005d1edc394c451c9a47f682ce2cfb17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838208&amp;x-signature=z%2FebG%2BF1YNPoqTv8nJY7jxQ4Slk%3D\" width=\"375\"><p>'PlaceAnOrder' is firing twice:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7963da07d9f9471083636d748a1eb045.png\" height=\"198.395\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7963da07d9f9471083636d748a1eb045.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838208&amp;x-signature=BO811lWCf88qwa2sg5bVj3zKLpM%3D\" width=\"375\"><p><br /></p><p>they should fix this so it only fires once. </p><p><br /></p><p>PII looks good for lower-funnel events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5188cf55ea6f4a399788c07da1c46f0a.png\" height=\"116.598\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5188cf55ea6f4a399788c07da1c46f0a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838208&amp;x-signature=MHJ0uiXUx0IMZLcqFube6w1yBak%3D\" width=\"375\"><p>They should enable Automatic Advanced Matching to make up for the NULL values reporting in the Email/Phone column.</p><p><br /></p><p>I am attaching a guide for removing the lower-performing pixel only from Events Manager.</p><p><br /></p><p>Please let me know if there are further questions, and thanks for your patience!</p><p><br /></p><p>Heidi</p></img></img></img></img></img>",
+          "content": "<p>Hi Zahra, </p><p><br /></p><p>Checking the data and the <a href=\"https://www.rebag.com/\" target=\"_blank\">rebag.com</a> site, I am seeing:</p><p><br /></p><p>They are using two pixels<span style=\"color: #121212;\"> </span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/de66bb884dd64f81918c37583d072e0d.png\" height=\"168.911\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/de66bb884dd64f81918c37583d072e0d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273721&amp;x-signature=OL8bKh6YT4PDFH17xTj2A96J5JQ%3D\" width=\"375\"><p><span style=\"color: #121212;\"><strong>[Rebag] website</strong></span> <span style=\"color: #222222;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/BTVGRO8RQH54JI5RODDG?start_time=2024-02-17&amp;end_time=2024-02-23&amp;from=ALL&amp;aadvid=6880926295660691457\" target=\"_blank\">BTVGRO8RQH54JI5RODDG</a> - pixel only</span></p><p><span style=\"color: #222222;\">Funnel:</span></p><p><span style=\"color: #222222;\">Button click</span></p><p><span style=\"color: #222222;\">AddToCart</span></p><p><span style=\"color: #222222;\">ViewContent</span></p><p><span style=\"color: #222222;\">PlaceAnOrder</span></p><p><span style=\"color: #222222;\">CompleteRegistration</span></p><p><span style=\"color: #222222;\"><strong>This pixel has no CompletePayment event set up - action item as this is needed for VSA, VBO, calculating ROAS</strong></span></p><p><span style=\"color: #222222;\">-and-</span></p><p><span style=\"color: #121212;\"><strong>[Rebag] website - Developer Mode</strong></span><span style=\"color: #222222;\"><strong> </strong><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C04TFADBB3R16RD9388G?start_time=2024-02-17&amp;end_time=2024-02-23&amp;from=ALL&amp;aadvid=6880926295660691457\" target=\"_blank\">C04TFADBB3R16RD9388G</a> - pixel and Event API</span></p><p>Funnel:</p><p><span style=\"color: #222222;\">Button click</span></p><p><span style=\"color: #222222;\">InitiateCheckout</span></p><p><span style=\"color: #222222;\">AddToCart</span></p><p><span style=\"color: #222222;\">ViewContent</span></p><p><span style=\"color: #222222;\">CompleteRegistration</span></p><p><span style=\"color: #222222;\">Search</span></p><p><span style=\"color: #222222;\">CompletePayment</span></p><p>If they wanted to choose one setup to use, I would recommend this one, as it includes browser and server.</p><p><br /></p><p>There are a couple of issues to address:</p><p>Event ids between pixel and server are not matching up. I have pulled a report and broken out the lower-funnel events into tabs. There, you can see that only 1 event is reporting for each event id, when ideally there would be 2, in order for deduplication to work, example from 'CompletePayment':</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ff02ba1d504248d8abdd350e711408dc.png\" height=\"238.286\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff02ba1d504248d8abdd350e711408dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273721&amp;x-signature=ZE%2BlBcAvzyRtcJ%2BeHy0lXhAS55o%3D\" width=\"375\"><p>I am not able to check this event from the browser as I would need a test login or coupon code. If they only intend to use server events for CompletePayment, that is ok.</p><p><br /></p><p>ViewContent is firing twice for <span style=\"color: #222222;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/BTVGRO8RQH54JI5RODDG?start_time=2024-02-17&amp;end_time=2024-02-23&amp;from=ALL&amp;aadvid=6880926295660691457\" target=\"_blank\">BTVGRO8RQH54JI5RODDG</a> , which will throw off their metrics. They should fix this as soon as they can. The 'Browse' event is deprecated, so they should remove it.</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/005d1edc394c451c9a47f682ce2cfb17.png\" height=\"194.083\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/005d1edc394c451c9a47f682ce2cfb17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273721&amp;x-signature=upIjCBldJstoycbw5%2F%2BujuzZTpk%3D\" width=\"375\"><p>'PlaceAnOrder' is firing twice:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7963da07d9f9471083636d748a1eb045.png\" height=\"198.395\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7963da07d9f9471083636d748a1eb045.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273721&amp;x-signature=0fYOKxjoQxeCllqjtOACkn7BXHg%3D\" width=\"375\"><p><br /></p><p>they should fix this so it only fires once. </p><p><br /></p><p>PII looks good for lower-funnel events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5188cf55ea6f4a399788c07da1c46f0a.png\" height=\"116.598\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5188cf55ea6f4a399788c07da1c46f0a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273721&amp;x-signature=rn5%2F0O70soHXPkrvwpkaoshPCac%3D\" width=\"375\"><p>They should enable Automatic Advanced Matching to make up for the NULL values reporting in the Email/Phone column.</p><p><br /></p><p>I am attaching a guide for removing the lower-performing pixel only from Events Manager.</p><p><br /></p><p>Please let me know if there are further questions, and thanks for your patience!</p><p><br /></p><p>Heidi</p></img></img></img></img></img>",
           "type": 6
         },
         {
@@ -70,9 +70,9 @@
             {
               "file_type": "pdf",
               "file_name": "TikTok Pixel Event Builder Deletion Guide (1).pdf",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0pFwUCkI71QGtALLfhcxAPZl0AeEDt02AEgEB.pdf?lk3s=cbe26b3a&x-expires=4832838208&x-signature=v%2B3HaE3Xm%2FhlROZDyf9noXQEhbI%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0pFwUCkI71QGtALLfhcxAPZl0AeEDt02AEgEB.pdf?lk3s=cbe26b3a&x-expires=4833273721&x-signature=l58vkjA0sT8lb3USIV1uyMOXv0M%3D",
               "file_key": "tos-alisg-v-90231e-sg/o0pFwUCkI71QGtALLfhcxAPZl0AeEDt02AEgEB.pdf",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0pFwUCkI71QGtALLfhcxAPZl0AeEDt02AEgEB.pdf?lk3s=cbe26b3a&x-expires=4832838208&x-signature=v%2B3HaE3Xm%2FhlROZDyf9noXQEhbI%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0pFwUCkI71QGtALLfhcxAPZl0AeEDt02AEgEB.pdf?lk3s=cbe26b3a&x-expires=4833273721&x-signature=l58vkjA0sT8lb3USIV1uyMOXv0M%3D",
               "biz_type": 2,
               "size": 268459
             }
@@ -102,7 +102,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 6,
   "current_role": null,
@@ -284,7 +284,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2055272,
+  "pending_time": 2490785,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -458,51 +458,51 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/de66bb884dd64f81918c37583d072e0d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838208&x-signature=BIzh6eP7%2F83NIJc0VkCo7694L5g%3D",
-          "file_name": "file_20240318_15_03_28_355109",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/de66bb884dd64f81918c37583d072e0d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838208&x-signature=BIzh6eP7%2F83NIJc0VkCo7694L5g%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/de66bb884dd64f81918c37583d072e0d.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5188cf55ea6f4a399788c07da1c46f0a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838208&x-signature=MHJ0uiXUx0IMZLcqFube6w1yBak%3D",
-          "file_name": "file_20240318_15_03_28_355233",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5188cf55ea6f4a399788c07da1c46f0a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838208&x-signature=MHJ0uiXUx0IMZLcqFube6w1yBak%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/5188cf55ea6f4a399788c07da1c46f0a.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7963da07d9f9471083636d748a1eb045.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838208&x-signature=BO811lWCf88qwa2sg5bVj3zKLpM%3D",
-          "file_name": "file_20240318_15_03_28_355259",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7963da07d9f9471083636d748a1eb045.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838208&x-signature=BO811lWCf88qwa2sg5bVj3zKLpM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7963da07d9f9471083636d748a1eb045.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273721&x-signature=0fYOKxjoQxeCllqjtOACkn7BXHg%3D",
+          "file_name": "file_20240323_16_02_01_749628",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7963da07d9f9471083636d748a1eb045.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273721&x-signature=0fYOKxjoQxeCllqjtOACkn7BXHg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7963da07d9f9471083636d748a1eb045.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff02ba1d504248d8abdd350e711408dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838208&x-signature=M9RTnE2XSP3clSeQVt9G901YBds%3D",
-          "file_name": "file_20240318_15_03_28_355273",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff02ba1d504248d8abdd350e711408dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838208&x-signature=M9RTnE2XSP3clSeQVt9G901YBds%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/de66bb884dd64f81918c37583d072e0d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273721&x-signature=OL8bKh6YT4PDFH17xTj2A96J5JQ%3D",
+          "file_name": "file_20240323_16_02_01_749744",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/de66bb884dd64f81918c37583d072e0d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273721&x-signature=OL8bKh6YT4PDFH17xTj2A96J5JQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/de66bb884dd64f81918c37583d072e0d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff02ba1d504248d8abdd350e711408dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273721&x-signature=ZE%2BlBcAvzyRtcJ%2BeHy0lXhAS55o%3D",
+          "file_name": "file_20240323_16_02_01_749773",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff02ba1d504248d8abdd350e711408dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273721&x-signature=ZE%2BlBcAvzyRtcJ%2BeHy0lXhAS55o%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ff02ba1d504248d8abdd350e711408dc.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/005d1edc394c451c9a47f682ce2cfb17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838208&x-signature=z%2FebG%2BF1YNPoqTv8nJY7jxQ4Slk%3D",
-          "file_name": "file_20240318_15_03_28_355286",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/005d1edc394c451c9a47f682ce2cfb17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838208&x-signature=z%2FebG%2BF1YNPoqTv8nJY7jxQ4Slk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/005d1edc394c451c9a47f682ce2cfb17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273721&x-signature=upIjCBldJstoycbw5%2F%2BujuzZTpk%3D",
+          "file_name": "file_20240323_16_02_01_749794",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/005d1edc394c451c9a47f682ce2cfb17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273721&x-signature=upIjCBldJstoycbw5%2F%2BujuzZTpk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/005d1edc394c451c9a47f682ce2cfb17.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5188cf55ea6f4a399788c07da1c46f0a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273721&x-signature=rn5%2F0O70soHXPkrvwpkaoshPCac%3D",
+          "file_name": "file_20240323_16_02_01_749814",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5188cf55ea6f4a399788c07da1c46f0a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273721&x-signature=rn5%2F0O70soHXPkrvwpkaoshPCac%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5188cf55ea6f4a399788c07da1c46f0a.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
           "file_type": "pdf",
           "file_name": "TikTok Pixel Event Builder Deletion Guide (1).pdf",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0pFwUCkI71QGtALLfhcxAPZl0AeEDt02AEgEB.pdf?lk3s=cbe26b3a&x-expires=4832838208&x-signature=v%2B3HaE3Xm%2FhlROZDyf9noXQEhbI%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0pFwUCkI71QGtALLfhcxAPZl0AeEDt02AEgEB.pdf?lk3s=cbe26b3a&x-expires=4833273721&x-signature=l58vkjA0sT8lb3USIV1uyMOXv0M%3D",
           "file_key": "tos-alisg-v-90231e-sg/o0pFwUCkI71QGtALLfhcxAPZl0AeEDt02AEgEB.pdf",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0pFwUCkI71QGtALLfhcxAPZl0AeEDt02AEgEB.pdf?lk3s=cbe26b3a&x-expires=4832838208&x-signature=v%2B3HaE3Xm%2FhlROZDyf9noXQEhbI%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0pFwUCkI71QGtALLfhcxAPZl0AeEDt02AEgEB.pdf?lk3s=cbe26b3a&x-expires=4833273721&x-signature=l58vkjA0sT8lb3USIV1uyMOXv0M%3D",
           "biz_type": 2,
           "size": 268459
         }

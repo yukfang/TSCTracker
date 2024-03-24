@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1707172495,
   "deadline": 0,
@@ -93,7 +93,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>It seems like user is taking about the deuplication issue due to mismatched event_id</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/848a67fbada84d7186ae1868fb96c2cc.png\" height=\"206.683\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/848a67fbada84d7186ae1868fb96c2cc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837740&amp;x-signature=fPRwVl%2BGW6YoaG1fijH0ozCMhzM%3D\" width=\"375\"><p>Please note, the user first created a woocomerce pixel using plugin and then added events using the event builder (Tiktok UI) which does not have event_id</p><img alt=\"img_v3_027r_965e9410-0072-4099-8492-e08861b3882h.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/05a392753a054f89b7a69d454f8c8249.png\" height=\"236.401\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/05a392753a054f89b7a69d454f8c8249.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837740&amp;x-signature=tV55hEIBTDkaitG%2FK2KrKB70ULw%3D\" width=\"375\"><p>I'm not sure why they did that but that needs to be removed</p><img alt=\"img_v3_027r_8d6f81d3-617f-4656-9818-847d47f515bh.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e09158500e6643ef87020c995e1438d6.png\" height=\"487.15\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09158500e6643ef87020c995e1438d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837740&amp;x-signature=CRQnw%2Br6R0YfTXBTjCj8eDL6isQ%3D\" width=\"375\" /></img></img>",
+          "content": "<p>It seems like user is taking about the deuplication issue due to mismatched event_id</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/848a67fbada84d7186ae1868fb96c2cc.png\" height=\"206.683\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/848a67fbada84d7186ae1868fb96c2cc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273325&amp;x-signature=ksYUyC584mK8c4rYrLjH%2FFq48Z4%3D\" width=\"375\"><p>Please note, the user first created a woocomerce pixel using plugin and then added events using the event builder (Tiktok UI) which does not have event_id</p><img alt=\"img_v3_027r_965e9410-0072-4099-8492-e08861b3882h.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/05a392753a054f89b7a69d454f8c8249.png\" height=\"236.401\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/05a392753a054f89b7a69d454f8c8249.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273325&amp;x-signature=Xo2gbzcUbeefJ89t7wGxQxOkPR0%3D\" width=\"375\"><p>I'm not sure why they did that but that needs to be removed</p><img alt=\"img_v3_027r_8d6f81d3-617f-4656-9818-847d47f515bh.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e09158500e6643ef87020c995e1438d6.png\" height=\"487.15\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09158500e6643ef87020c995e1438d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273325&amp;x-signature=4Uw9l5cceEXRAyPMHs%2BxbIsC0ME%3D\" width=\"375\" /></img></img>",
           "type": 6
         }
       ],
@@ -359,7 +359,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1712196,
+  "pending_time": 2147781,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -533,25 +533,25 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/05a392753a054f89b7a69d454f8c8249.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837740&x-signature=tV55hEIBTDkaitG%2FK2KrKB70ULw%3D",
-          "file_name": "file_20240318_14_55_40_465493",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/05a392753a054f89b7a69d454f8c8249.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837740&x-signature=tV55hEIBTDkaitG%2FK2KrKB70ULw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/05a392753a054f89b7a69d454f8c8249.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273325&x-signature=Xo2gbzcUbeefJ89t7wGxQxOkPR0%3D",
+          "file_name": "file_20240323_15_55_25_481213",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/05a392753a054f89b7a69d454f8c8249.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273325&x-signature=Xo2gbzcUbeefJ89t7wGxQxOkPR0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/05a392753a054f89b7a69d454f8c8249.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/848a67fbada84d7186ae1868fb96c2cc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837740&x-signature=fPRwVl%2BGW6YoaG1fijH0ozCMhzM%3D",
-          "file_name": "file_20240318_14_55_40_465561",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/848a67fbada84d7186ae1868fb96c2cc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837740&x-signature=fPRwVl%2BGW6YoaG1fijH0ozCMhzM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/848a67fbada84d7186ae1868fb96c2cc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273325&x-signature=ksYUyC584mK8c4rYrLjH%2FFq48Z4%3D",
+          "file_name": "file_20240323_15_55_25_481279",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/848a67fbada84d7186ae1868fb96c2cc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273325&x-signature=ksYUyC584mK8c4rYrLjH%2FFq48Z4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/848a67fbada84d7186ae1868fb96c2cc.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09158500e6643ef87020c995e1438d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837740&x-signature=CRQnw%2Br6R0YfTXBTjCj8eDL6isQ%3D",
-          "file_name": "file_20240318_14_55_40_465578",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09158500e6643ef87020c995e1438d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837740&x-signature=CRQnw%2Br6R0YfTXBTjCj8eDL6isQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09158500e6643ef87020c995e1438d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273325&x-signature=4Uw9l5cceEXRAyPMHs%2BxbIsC0ME%3D",
+          "file_name": "file_20240323_15_55_25_481295",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09158500e6643ef87020c995e1438d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273325&x-signature=4Uw9l5cceEXRAyPMHs%2BxbIsC0ME%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e09158500e6643ef87020c995e1438d6.png",
           "file_type": "jpeg",
           "biz_type": 2

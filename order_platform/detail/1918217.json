@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354674",
-  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_22ca50ed-6326-411c-841f-fa3ca409b5hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0091_b18b114f-85bf-4ec2-abea-d57b30980dhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Murugan Chellappan",
   "create_time": 1709608577,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi George,</p><p><br /></p><p>Hope you are well and thanks for raising the request.</p><p><br /></p><p>I have checked and below are the feedbacks,</p><p><br /></p><ul><li><strong>ViewContent</strong> - event is not firing on the product detail pages. ( Kindly ask the client team to check on the event implementation)</li></ul><p><br /></p><ul><li><strong>AddToCart</strong> - event is firing fine.</li></ul><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/258692175d344583873d00ba933540a1.png\" height=\"171.702072\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/258692175d344583873d00ba933540a1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838433&amp;x-signature=UaHKNPPR0qp7dDJAF5xFpa5VE6o%3D\" width=\"250.99999999999997\"><ul><li><strong>InitiateCheckout</strong> - Looks like they haven't implemented initiatecheckout event as i dont see any activity.</li></ul><p><br /></p><ul><li><strong>CompletePayment</strong> -  [Based on the backend check] the event is firing fine with the required parameters. However we are flagged for Wrong email and phone_number format. </li></ul><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e82dcf0db030455a87405f106ad2655c.png\" height=\"116.57945600000001\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e82dcf0db030455a87405f106ad2655c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838433&amp;x-signature=%2BOuStSwB4WbpnYhtWFDP5EpYJ7o%3D\" width=\"322\"><p><br /></p><p>Kindly ask client to check on the issues. Feel free to schedule a call if need any support.</p><p><br /></p><p>Thanks,</p><p>Murugan C</p></img></img>",
+          "content": "<p>Hi George,</p><p><br /></p><p>Hope you are well and thanks for raising the request.</p><p><br /></p><p>I have checked and below are the feedbacks,</p><p><br /></p><ul><li><strong>ViewContent</strong> - event is not firing on the product detail pages. ( Kindly ask the client team to check on the event implementation)</li></ul><p><br /></p><ul><li><strong>AddToCart</strong> - event is firing fine.</li></ul><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/258692175d344583873d00ba933540a1.png\" height=\"171.702072\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/258692175d344583873d00ba933540a1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273956&amp;x-signature=EpvQEHUAcNcH0sgQqj70jFUdutA%3D\" width=\"250.99999999999997\"><ul><li><strong>InitiateCheckout</strong> - Looks like they haven't implemented initiatecheckout event as i dont see any activity.</li></ul><p><br /></p><ul><li><strong>CompletePayment</strong> -  [Based on the backend check] the event is firing fine with the required parameters. However we are flagged for Wrong email and phone_number format. </li></ul><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e82dcf0db030455a87405f106ad2655c.png\" height=\"116.57945600000001\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e82dcf0db030455a87405f106ad2655c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273956&amp;x-signature=UjZD9rMWCIxLsRuZCM1tsM7MKjQ%3D\" width=\"322\"><p><br /></p><p>Kindly ask client to check on the issues. Feel free to schedule a call if need any support.</p><p><br /></p><p>Thanks,</p><p>Murugan C</p></img></img>",
           "type": 6
         }
       ],
@@ -301,7 +301,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 454578,
+  "pending_time": 890102,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -477,24 +477,24 @@
         {
           "file_type": "mov",
           "file_name": "Screen Recording 2024-03-04 at 11.07.59 AM.mov",
-          "file_url": "https://v16-tiktokcdn-com.akamaized.net/b40802747c34f0e615bb7c3e98cda53e/661fe5d7/video/tos/alisg/tos-alisg-v-90231e-sg/oEiCIhEIIBgl4z5fRjFQmWfMYn5lNUEcDBo1hr/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=14800&bt=7400&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&mime_type=video_mp4&qs=13&rc=MzdkNW85cng7cTQzOGc0NEBpMzdkNW85cng7cTQzOGc0NEAzYDNrMmQ0cGdgLS1kMS1zYSMzYDNrMmQ0cGdgLS1kMS1zcw%3D%3D&vvpl=1&l=2024031815071301024403804937852&btag=e00048000",
+          "file_url": "https://v16-tiktokcdn-com.akamaized.net/5bbcdedd32ce280852ce66f0885e8811/66268b1a/video/tos/alisg/tos-alisg-v-90231e-sg/oEiCIhEIIBgl4z5fRjFQmWfMYn5lNUEcDBo1hr/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=14800&bt=7400&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&mime_type=video_mp4&qs=13&rc=MzdkNW85cng7cTQzOGc0NEBpMzdkNW85cng7cTQzOGc0NEAzYDNrMmQ0cGdgLS1kMS1zYSMzYDNrMmQ0cGdgLS1kMS1zcw%3D%3D&vvpl=1&l=2024032316055601021520121978959&btag=e00048000",
           "file_key": "v1014dg50001cnj8su7og65ln26ac460",
-          "url": "https://v16-tiktokcdn-com.akamaized.net/b40802747c34f0e615bb7c3e98cda53e/661fe5d7/video/tos/alisg/tos-alisg-v-90231e-sg/oEiCIhEIIBgl4z5fRjFQmWfMYn5lNUEcDBo1hr/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=14800&bt=7400&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&mime_type=video_mp4&qs=13&rc=MzdkNW85cng7cTQzOGc0NEBpMzdkNW85cng7cTQzOGc0NEAzYDNrMmQ0cGdgLS1kMS1zYSMzYDNrMmQ0cGdgLS1kMS1zcw%3D%3D&vvpl=1&l=2024031815071301024403804937852&btag=e00048000",
+          "url": "https://v16-tiktokcdn-com.akamaized.net/5bbcdedd32ce280852ce66f0885e8811/66268b1a/video/tos/alisg/tos-alisg-v-90231e-sg/oEiCIhEIIBgl4z5fRjFQmWfMYn5lNUEcDBo1hr/?a=2960&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=14800&bt=7400&bti=ZnVqbGhmd2V3MWRmbVxrcWhmKzFxYTo%3D&cs=0&mime_type=video_mp4&qs=13&rc=MzdkNW85cng7cTQzOGc0NEBpMzdkNW85cng7cTQzOGc0NEAzYDNrMmQ0cGdgLS1kMS1zYSMzYDNrMmQ0cGdgLS1kMS1zcw%3D%3D&vvpl=1&l=2024032316055601021520121978959&btag=e00048000",
           "size": 51404632
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e82dcf0db030455a87405f106ad2655c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838433&x-signature=%2BOuStSwB4WbpnYhtWFDP5EpYJ7o%3D",
-          "file_name": "file_20240318_15_07_13_663817",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e82dcf0db030455a87405f106ad2655c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838433&x-signature=%2BOuStSwB4WbpnYhtWFDP5EpYJ7o%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/e82dcf0db030455a87405f106ad2655c.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/258692175d344583873d00ba933540a1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273956&x-signature=EpvQEHUAcNcH0sgQqj70jFUdutA%3D",
+          "file_name": "file_20240323_16_05_56_911811",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/258692175d344583873d00ba933540a1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273956&x-signature=EpvQEHUAcNcH0sgQqj70jFUdutA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/258692175d344583873d00ba933540a1.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/258692175d344583873d00ba933540a1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838433&x-signature=UaHKNPPR0qp7dDJAF5xFpa5VE6o%3D",
-          "file_name": "file_20240318_15_07_13_663892",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/258692175d344583873d00ba933540a1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838433&x-signature=UaHKNPPR0qp7dDJAF5xFpa5VE6o%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/258692175d344583873d00ba933540a1.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e82dcf0db030455a87405f106ad2655c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273956&x-signature=UjZD9rMWCIxLsRuZCM1tsM7MKjQ%3D",
+          "file_name": "file_20240323_16_05_56_911882",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e82dcf0db030455a87405f106ad2655c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273956&x-signature=UjZD9rMWCIxLsRuZCM1tsM7MKjQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e82dcf0db030455a87405f106ad2655c.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

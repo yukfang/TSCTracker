@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Tyler,</p><p>Happy to look into this for you! They will need to address the following action items in order to provide the best possible results/performance, especially if they are planning to launch any VSA/Catalog campaigns in the future.</p><p>I am also more than happy to hop on a call with the advertiser to expedite this process! </p><p>Billie, Inc. using Pixel C20UI7N3GOD0LQGCGKG0 Action Items:</p><ul><li>ViewContent event is firing inconsistently and double firing.</li><ul><li>Proper ViewContent setup is critical - it is a mandatory event for Catalog/VSA campaigns</li><li>If a user directly navigates to the product URL, the ViewContent event does not fire</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png\" height=\"172.88\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=PWfGBrXBD33Ga8kGMohNdzXRk3w%3D\" width=\"375\"><ul><ul><li>However, if a user navigates away from the page or comes from the CDP page, the ViewContent event is triggered and fires twice:</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png\" height=\"202.368\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=%2BC6SEFX%2BowzQQtK5EGxGBnvEnno%3D\" width=\"375\"><ul><ul><li>Please pass back Product Information Parameters. This will be critical for successful VSA/Catalog campaigns. Your Custom Code payload should look like the following:</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/74c5706ef8e1436d8f28645be2615922.png\" height=\"282\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74c5706ef8e1436d8f28645be2615922.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=ZmkaMi0G34Iaf5v8oscfD0f5BM0%3D\" width=\"330\"><ul><ul><ul><li>For reference, you will be able to use the same variables for the product information that are being used for the Meta Pixel:</li></ul></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png\" height=\"218.182\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=J7awJL1phOaCpfWObc%2FA5JZz3Xk%3D\" width=\"375\"><ul><ul><ul><li>You can also leverage your existing Google Tag Manager data layer variables/events for ease of use:</li></ul></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0782c494e1ab4ca494ead4d5761b74d7.png\" height=\"207.906\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0782c494e1ab4ca494ead4d5761b74d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=3638fxuAvuPPoVymeXbQIkNhooE%3D\" width=\"375\"><ul><ul><li>Must only fire on PDP pages and not on Category Display Pages</li><ul><li>The ViewContent event must only fire on PDP pages only. The ViewContent event only accepts one content_id in order to make a match to a corresponding entry in your catalog</li><li>A ViewContent event should not fire on this page: https://mybillie.com/products</li></ul></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png\" height=\"169.551\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=Mv87FgAzHjzvfkjBIz%2FRDzcgN20%3D\" width=\"375\"><ul><li>AddToCart event is double firing and is missing product parameters </li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png\" height=\"180.267\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=3wGghQsxUk72ywaVcVyzkqL7sXc%3D\" width=\"375\"><ul><li>Please pass back Product Information Parameters. This will be critical for successful VSA/Catalog campaigns. AddToCart is a mandatory event for VSA/Catalog campaigns</li><li>Your AddToCart custom code should look like the following, note the similarity to the ViewContent event</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png\" height=\"294\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=gpeA5hYY2rtAUFJrJ2PhWBn8%2B1o%3D\" width=\"334\"><ul><li>You can also leverage the available Data Layer variables through GTM for ease of use and setup</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png\" height=\"250.299\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=8tbcYGuvcOOPOS9ZOCBugMRfIGw%3D\" width=\"375\"><ul><li>InitiateCheckout event, currently StartCheckout</li><ul><li>Correctly fires on the start of the checkout flow but is fired under the event name \"StartCheckout\". This is currently being translated to \"InitiateCheckout\" in the Events Manager UI for the Pixel</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png\" height=\"174.284\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=m1VCunYekKn%2BNncCaEhhJh6AWRg%3D\" width=\"375\"><ul><ul><li>Please change the event name to \"InitiateCheckout\" to ensure future compatibility</li></ul><li>I am unable to fully test the CompletePayment and PlaceAnOrder events but from what I can see in our database, these events do not appear to be double firing</li><ul><li>We are receiving the value parameter but are missing the product information for the transaction</li><li>Parameter/product information is incomplete</li><li>Proper setup and configuration for the CompletePayment event is critical for successful VSA/Catalog campaigns. The CompletePayment event parameters should include all of the items in a given transaction. </li><li>Sample code below:</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d679182f8cd84a08b270e8a7f3eb04b9.png\" height=\"627.273\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d679182f8cd84a08b270e8a7f3eb04b9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832918&amp;x-signature=zKkT5PE36yraI9xG2K7q4JhMf88%3D\" width=\"375\"><p>I know this is a lot! They will likely want to hop on a call to discuss these updates. Here are my avails for the rest of the week and next:</p><p><span style=\"color: #1F2329;\">Tomorrow, Thurs 2/1: 9 AM - 10 AM PST / 1 PM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Friday, 2/2: 7 AM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Monday 2/5: 8 AM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Tues 2/6: 7 AM - 2 PM PST</span></p><p>Thanks!</p><p>Robbie</p></img></img></img></img></img></img></img></img></img></img></img>",
+          "content": "<p>Hi Tyler,</p><p>Happy to look into this for you! They will need to address the following action items in order to provide the best possible results/performance, especially if they are planning to launch any VSA/Catalog campaigns in the future.</p><p>I am also more than happy to hop on a call with the advertiser to expedite this process! </p><p>Billie, Inc. using Pixel C20UI7N3GOD0LQGCGKG0 Action Items:</p><ul><li>ViewContent event is firing inconsistently and double firing.</li><ul><li>Proper ViewContent setup is critical - it is a mandatory event for Catalog/VSA campaigns</li><li>If a user directly navigates to the product URL, the ViewContent event does not fire</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png\" height=\"172.88\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273212&amp;x-signature=f%2F3EBuv3MTAevmr6JHw4xVo5Vm0%3D\" width=\"375\"><ul><ul><li>However, if a user navigates away from the page or comes from the CDP page, the ViewContent event is triggered and fires twice:</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png\" height=\"202.368\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273212&amp;x-signature=CS%2F7xhSuFFTtvimudF4kGy2sBCE%3D\" width=\"375\"><ul><ul><li>Please pass back Product Information Parameters. This will be critical for successful VSA/Catalog campaigns. Your Custom Code payload should look like the following:</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/74c5706ef8e1436d8f28645be2615922.png\" height=\"282\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74c5706ef8e1436d8f28645be2615922.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273212&amp;x-signature=8e0exbAAKWfv3f7VRKcqYg%2Bx%2B0Q%3D\" width=\"330\"><ul><ul><ul><li>For reference, you will be able to use the same variables for the product information that are being used for the Meta Pixel:</li></ul></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png\" height=\"218.182\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273212&amp;x-signature=0d2Ekg73%2BidOno1Nr2txel7wL6U%3D\" width=\"375\"><ul><ul><ul><li>You can also leverage your existing Google Tag Manager data layer variables/events for ease of use:</li></ul></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0782c494e1ab4ca494ead4d5761b74d7.png\" height=\"207.906\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0782c494e1ab4ca494ead4d5761b74d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273212&amp;x-signature=9qRWhS3QE2rXxGVHHzY0cxcDkCE%3D\" width=\"375\"><ul><ul><li>Must only fire on PDP pages and not on Category Display Pages</li><ul><li>The ViewContent event must only fire on PDP pages only. The ViewContent event only accepts one content_id in order to make a match to a corresponding entry in your catalog</li><li>A ViewContent event should not fire on this page: https://mybillie.com/products</li></ul></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png\" height=\"169.551\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273212&amp;x-signature=7%2FgC%2FRGBR8lEU3va1H5FhDaRaGI%3D\" width=\"375\"><ul><li>AddToCart event is double firing and is missing product parameters </li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png\" height=\"180.267\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273212&amp;x-signature=oxydUGNbJ87NCsXoMptBI6L2wqI%3D\" width=\"375\"><ul><li>Please pass back Product Information Parameters. This will be critical for successful VSA/Catalog campaigns. AddToCart is a mandatory event for VSA/Catalog campaigns</li><li>Your AddToCart custom code should look like the following, note the similarity to the ViewContent event</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png\" height=\"294\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273212&amp;x-signature=VENXfwz9vG7Div2z1q5Db%2B96s6I%3D\" width=\"334\"><ul><li>You can also leverage the available Data Layer variables through GTM for ease of use and setup</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png\" height=\"250.299\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273212&amp;x-signature=FIdwCy%2BkHOeOb1ecqNhUOGr1bBE%3D\" width=\"375\"><ul><li>InitiateCheckout event, currently StartCheckout</li><ul><li>Correctly fires on the start of the checkout flow but is fired under the event name \"StartCheckout\". This is currently being translated to \"InitiateCheckout\" in the Events Manager UI for the Pixel</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png\" height=\"174.284\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273212&amp;x-signature=vqTbUtMv6pNObm9pHTVNgT9no7E%3D\" width=\"375\"><ul><ul><li>Please change the event name to \"InitiateCheckout\" to ensure future compatibility</li></ul><li>I am unable to fully test the CompletePayment and PlaceAnOrder events but from what I can see in our database, these events do not appear to be double firing</li><ul><li>We are receiving the value parameter but are missing the product information for the transaction</li><li>Parameter/product information is incomplete</li><li>Proper setup and configuration for the CompletePayment event is critical for successful VSA/Catalog campaigns. The CompletePayment event parameters should include all of the items in a given transaction. </li><li>Sample code below:</li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d679182f8cd84a08b270e8a7f3eb04b9.png\" height=\"627.273\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d679182f8cd84a08b270e8a7f3eb04b9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273212&amp;x-signature=7Dtmi%2FkWdTV%2FigrLmnks4G11aB4%3D\" width=\"375\"><p>I know this is a lot! They will likely want to hop on a call to discuss these updates. Here are my avails for the rest of the week and next:</p><p><span style=\"color: #1F2329;\">Tomorrow, Thurs 2/1: 9 AM - 10 AM PST / 1 PM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Friday, 2/2: 7 AM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Monday 2/5: 8 AM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Tues 2/6: 7 AM - 2 PM PST</span></p><p>Thanks!</p><p>Robbie</p></img></img></img></img></img></img></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -99,9 +99,9 @@
             {
               "file_type": "pdf",
               "file_name": "Advanced Matching Setup and Best Practices - Latest (3).pdf",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf?lk3s=cbe26b3a&x-expires=4832832918&x-signature=hbU62vN9aAP9k4gLUy%2F3BQ4J6gg%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf?lk3s=cbe26b3a&x-expires=4833273212&x-signature=YdOehrz0pU68UbMmBt%2Ft6%2Bn%2FHvY%3D",
               "file_key": "tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf?lk3s=cbe26b3a&x-expires=4832832918&x-signature=hbU62vN9aAP9k4gLUy%2F3BQ4J6gg%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf?lk3s=cbe26b3a&x-expires=4833273212&x-signature=YdOehrz0pU68UbMmBt%2Ft6%2Bn%2FHvY%3D",
               "biz_type": 2,
               "size": 500562
             }
@@ -315,7 +315,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3971170,
+  "pending_time": 4411464,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -489,99 +489,99 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=Mv87FgAzHjzvfkjBIz%2FRDzcgN20%3D",
-          "file_name": "file_20240318_13_35_18_529407",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=Mv87FgAzHjzvfkjBIz%2FRDzcgN20%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=8tbcYGuvcOOPOS9ZOCBugMRfIGw%3D",
-          "file_name": "file_20240318_13_35_18_529546",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=8tbcYGuvcOOPOS9ZOCBugMRfIGw%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=gpeA5hYY2rtAUFJrJ2PhWBn8%2B1o%3D",
-          "file_name": "file_20240318_13_35_18_529595",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=gpeA5hYY2rtAUFJrJ2PhWBn8%2B1o%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=3wGghQsxUk72ywaVcVyzkqL7sXc%3D",
-          "file_name": "file_20240318_13_35_18_529621",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=3wGghQsxUk72ywaVcVyzkqL7sXc%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=%2BC6SEFX%2BowzQQtK5EGxGBnvEnno%3D",
-          "file_name": "file_20240318_13_35_18_529647",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=%2BC6SEFX%2BowzQQtK5EGxGBnvEnno%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=m1VCunYekKn%2BNncCaEhhJh6AWRg%3D",
-          "file_name": "file_20240318_13_35_18_529668",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=m1VCunYekKn%2BNncCaEhhJh6AWRg%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=J7awJL1phOaCpfWObc%2FA5JZz3Xk%3D",
-          "file_name": "file_20240318_13_35_18_529687",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=J7awJL1phOaCpfWObc%2FA5JZz3Xk%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d679182f8cd84a08b270e8a7f3eb04b9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=zKkT5PE36yraI9xG2K7q4JhMf88%3D",
-          "file_name": "file_20240318_13_35_18_529708",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d679182f8cd84a08b270e8a7f3eb04b9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=zKkT5PE36yraI9xG2K7q4JhMf88%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d679182f8cd84a08b270e8a7f3eb04b9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=7Dtmi%2FkWdTV%2FigrLmnks4G11aB4%3D",
+          "file_name": "file_20240323_15_53_32_672194",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d679182f8cd84a08b270e8a7f3eb04b9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=7Dtmi%2FkWdTV%2FigrLmnks4G11aB4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d679182f8cd84a08b270e8a7f3eb04b9.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0782c494e1ab4ca494ead4d5761b74d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=3638fxuAvuPPoVymeXbQIkNhooE%3D",
-          "file_name": "file_20240318_13_35_18_529727",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0782c494e1ab4ca494ead4d5761b74d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=3638fxuAvuPPoVymeXbQIkNhooE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=CS%2F7xhSuFFTtvimudF4kGy2sBCE%3D",
+          "file_name": "file_20240323_15_53_32_672290",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=CS%2F7xhSuFFTtvimudF4kGy2sBCE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/49ec72df9a7e433ba512558adc3eda06.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=vqTbUtMv6pNObm9pHTVNgT9no7E%3D",
+          "file_name": "file_20240323_15_53_32_672308",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=vqTbUtMv6pNObm9pHTVNgT9no7E%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b336ed1a48b14260b34fb6ba353fa78a.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=VENXfwz9vG7Div2z1q5Db%2B96s6I%3D",
+          "file_name": "file_20240323_15_53_32_672325",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=VENXfwz9vG7Div2z1q5Db%2B96s6I%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/78a62a606f964407b031d8c0f4fb40ce.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=7%2FgC%2FRGBR8lEU3va1H5FhDaRaGI%3D",
+          "file_name": "file_20240323_15_53_32_672338",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=7%2FgC%2FRGBR8lEU3va1H5FhDaRaGI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/201934ad95ac46fe83b1ab0087d6f8f3.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=0d2Ekg73%2BidOno1Nr2txel7wL6U%3D",
+          "file_name": "file_20240323_15_53_32_672354",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=0d2Ekg73%2BidOno1Nr2txel7wL6U%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/50b3c685490d4bf1abcda15c7f972dd5.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=oxydUGNbJ87NCsXoMptBI6L2wqI%3D",
+          "file_name": "file_20240323_15_53_32_672366",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=oxydUGNbJ87NCsXoMptBI6L2wqI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/947a73fdea484957a369a14e1df7d64d.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=f%2F3EBuv3MTAevmr6JHw4xVo5Vm0%3D",
+          "file_name": "file_20240323_15_53_32_672382",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=f%2F3EBuv3MTAevmr6JHw4xVo5Vm0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=FIdwCy%2BkHOeOb1ecqNhUOGr1bBE%3D",
+          "file_name": "file_20240323_15_53_32_672394",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=FIdwCy%2BkHOeOb1ecqNhUOGr1bBE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/61e54411e0ae4da28fea3e0985c0d2fa.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0782c494e1ab4ca494ead4d5761b74d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=9qRWhS3QE2rXxGVHHzY0cxcDkCE%3D",
+          "file_name": "file_20240323_15_53_32_672410",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0782c494e1ab4ca494ead4d5761b74d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=9qRWhS3QE2rXxGVHHzY0cxcDkCE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0782c494e1ab4ca494ead4d5761b74d7.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74c5706ef8e1436d8f28645be2615922.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=ZmkaMi0G34Iaf5v8oscfD0f5BM0%3D",
-          "file_name": "file_20240318_13_35_18_529745",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74c5706ef8e1436d8f28645be2615922.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=ZmkaMi0G34Iaf5v8oscfD0f5BM0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74c5706ef8e1436d8f28645be2615922.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=8e0exbAAKWfv3f7VRKcqYg%2Bx%2B0Q%3D",
+          "file_name": "file_20240323_15_53_32_672468",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74c5706ef8e1436d8f28645be2615922.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273212&x-signature=8e0exbAAKWfv3f7VRKcqYg%2Bx%2B0Q%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/74c5706ef8e1436d8f28645be2615922.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=PWfGBrXBD33Ga8kGMohNdzXRk3w%3D",
-          "file_name": "file_20240318_13_35_18_529762",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832918&x-signature=PWfGBrXBD33Ga8kGMohNdzXRk3w%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/1a82c019106e4f18a3cb38f0a35cd313.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
           "file_type": "pdf",
           "file_name": "Advanced Matching Setup and Best Practices - Latest (3).pdf",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf?lk3s=cbe26b3a&x-expires=4832832918&x-signature=hbU62vN9aAP9k4gLUy%2F3BQ4J6gg%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf?lk3s=cbe26b3a&x-expires=4833273212&x-signature=YdOehrz0pU68UbMmBt%2Ft6%2Bn%2FHvY%3D",
           "file_key": "tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf?lk3s=cbe26b3a&x-expires=4832832918&x-signature=hbU62vN9aAP9k4gLUy%2F3BQ4J6gg%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o41pfdACiF4wIEgAxLzerDAAQEEmfDCDA7qh6r.pdf?lk3s=cbe26b3a&x-expires=4833273212&x-signature=YdOehrz0pU68UbMmBt%2Ft6%2Bn%2FHvY%3D",
           "biz_type": 2,
           "size": 500562
         }

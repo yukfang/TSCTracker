@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Camille,</p><p>Just wanted to make sure, we are seeing events come in for the Pixel</p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/C5MSROL1T98720E0C02G?start_time=2024-01-30&amp;end_time=2024-01-31&amp;from=ALL&amp;aadvid=1639804213321733</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/16f831663ba344d3b55eb3c042fb71d7.png\" height=\"207.455\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/16f831663ba344d3b55eb3c042fb71d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838183&amp;x-signature=Dde1TklyFAi8Vt8XOz%2BwloyDBu4%3D\" width=\"375\"><p>Did they want to have both enabled at the same time?</p><p><br /></p><p>To address the question the token permission and the v1.2 to v1.3 endpoint upgrade messages:</p><p>Would the main admin be able to generate a new token for the Pixel in question <span style=\"color: #333333;\">CG4A49RC77UDBVQ97GRG. This can then replace the current token they're using that is throwing this error. </span></p><p><span style=\"color: #333333;\">In their Events Manager, they will need to click on the \"Settings\" tab:</span></p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/CG4A49RC77UDBVQ97GRG?start_time=2024-02-01&amp;end_time=2024-02-05&amp;from=ALL&amp;aadvid=1639804213321733</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png\" height=\"134.072\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838183&amp;x-signature=E5JGju3ZBkE1geAaTJU58TifUf0%3D\" width=\"375\"><p>On the \"Settings\" tab, scroll down to the \"Events API\" section and click on \"Generate Access Token\"</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png\" height=\"208.123\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838183&amp;x-signature=RxB0hkSbbzgTnegcHL2d8%2BT8drM%3D\" width=\"375\"><p>There may have been a change in permission settings at the BC/Ad Account/Pixel level but regenerating a token through an individual with Admin account will resolve this issue. A user with full admin access on the Buisness Center and Ad Account should generate this token to prevent any permission related errors in the future.</p><p><br /></p><p>The Tealium connector should have the updated URL to reflect the change from 1.2 to 1.3. Would it be possible to update/refresh the Tealium x TikTok connector for this specific pixel?</p><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img>",
+          "content": "<p>Hi Camille,</p><p>Just wanted to make sure, we are seeing events come in for the Pixel</p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/C5MSROL1T98720E0C02G?start_time=2024-01-30&amp;end_time=2024-01-31&amp;from=ALL&amp;aadvid=1639804213321733</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/16f831663ba344d3b55eb3c042fb71d7.png\" height=\"207.455\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/16f831663ba344d3b55eb3c042fb71d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273693&amp;x-signature=20MVMOuK07Ia0YV6ycDbRHzL3Sw%3D\" width=\"375\"><p>Did they want to have both enabled at the same time?</p><p><br /></p><p>To address the question the token permission and the v1.2 to v1.3 endpoint upgrade messages:</p><p>Would the main admin be able to generate a new token for the Pixel in question <span style=\"color: #333333;\">CG4A49RC77UDBVQ97GRG. This can then replace the current token they're using that is throwing this error. </span></p><p><span style=\"color: #333333;\">In their Events Manager, they will need to click on the \"Settings\" tab:</span></p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/CG4A49RC77UDBVQ97GRG?start_time=2024-02-01&amp;end_time=2024-02-05&amp;from=ALL&amp;aadvid=1639804213321733</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png\" height=\"134.072\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273693&amp;x-signature=gSmp%2F2Cd%2FV%2BRt%2Bu4I78%2BdDaj5es%3D\" width=\"375\"><p>On the \"Settings\" tab, scroll down to the \"Events API\" section and click on \"Generate Access Token\"</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png\" height=\"208.123\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273693&amp;x-signature=yKwkOns7b5fUO7arvgp%2By90FRtU%3D\" width=\"375\"><p>There may have been a change in permission settings at the BC/Ad Account/Pixel level but regenerating a token through an individual with Admin account will resolve this issue. A user with full admin access on the Buisness Center and Ad Account should generate this token to prevent any permission related errors in the future.</p><p><br /></p><p>The Tealium connector should have the updated URL to reflect the change from 1.2 to 1.3. Would it be possible to update/refresh the Tealium x TikTok connector for this specific pixel?</p><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img>",
           "type": 6
         }
       ],
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Camille,</p><p>Yes that's correct! Especially since there hasn't been any known changes for the pixel. It could be that the individual who originally generated the token either had left the company or had their permissions changed in the Business Center and/or Ad Account (which is a common scenario we see).</p><p>I would just ensure that the individual who generates the token for the Pixel in question has full admin permissions across the Business Center and Ad Account.</p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/CG4A49RC77UDBVQ97GRG?start_time=2024-02-16&amp;end_time=2024-02-22&amp;from=ALL&amp;aadvid=1639804213321733&amp;type=S2SSetting</p><ol><li>Click on the \"Settings\" tab in the Pixel's Event Manager</li></ol><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/43d3702d9b7a4817a3a02e9ad46c5adf.png\" height=\"180.693\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43d3702d9b7a4817a3a02e9ad46c5adf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838183&amp;x-signature=i2yRzc843hAFhMFBUZ2CYv1DlVQ%3D\" width=\"375\"><ol><li>Scroll down to the \"Events API\" section and click on \"Generate Access Token\"</li></ol><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png\" height=\"182.745\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838183&amp;x-signature=ISvZwDShQPgS28qARKZ3TVtWYqU%3D\" width=\"375\"><ol><li>This token will then replace the current one that is throwing the permission error in their server side setup</li></ol><p>Thanks!</p><p>Robbie</p></img></img>",
+          "content": "<p>Hi Camille,</p><p>Yes that's correct! Especially since there hasn't been any known changes for the pixel. It could be that the individual who originally generated the token either had left the company or had their permissions changed in the Business Center and/or Ad Account (which is a common scenario we see).</p><p>I would just ensure that the individual who generates the token for the Pixel in question has full admin permissions across the Business Center and Ad Account.</p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/CG4A49RC77UDBVQ97GRG?start_time=2024-02-16&amp;end_time=2024-02-22&amp;from=ALL&amp;aadvid=1639804213321733&amp;type=S2SSetting</p><ol><li>Click on the \"Settings\" tab in the Pixel's Event Manager</li></ol><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/43d3702d9b7a4817a3a02e9ad46c5adf.png\" height=\"180.693\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43d3702d9b7a4817a3a02e9ad46c5adf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273694&amp;x-signature=yLKRczVna9tQMA%2FNCZUIayWQYSo%3D\" width=\"375\"><ol><li>Scroll down to the \"Events API\" section and click on \"Generate Access Token\"</li></ol><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png\" height=\"182.745\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273694&amp;x-signature=jdSD4fT7FCCyV5aGhd5%2BQGUXEGE%3D\" width=\"375\"><ol><li>This token will then replace the current one that is throwing the permission error in their server side setup</li></ol><p>Thanks!</p><p>Robbie</p></img></img>",
           "type": 6
         }
       ],
@@ -178,7 +178,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Camille,</p><p>Once they've generated their new token, they will need to go into their Events API integration with Tealium and update the Access Token field with this newly generated token:</p><p>https://docs.tealium.com/server-side-connectors/tiktok-events-connector/</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7b19dbd2ec884b2ebddcabb2c6fed4f4.png\" height=\"101.396\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b19dbd2ec884b2ebddcabb2c6fed4f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838184&amp;x-signature=SnfnL16Yi3cwEhWeoS9%2BEYXqqYE%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
+          "content": "<p>Hi Camille,</p><p>Once they've generated their new token, they will need to go into their Events API integration with Tealium and update the Access Token field with this newly generated token:</p><p>https://docs.tealium.com/server-side-connectors/tiktok-events-connector/</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7b19dbd2ec884b2ebddcabb2c6fed4f4.png\" height=\"101.396\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b19dbd2ec884b2ebddcabb2c6fed4f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273694&amp;x-signature=LegWkMdOU22o9EvkBh9ntMid7I8%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
           "type": 6
         }
       ],
@@ -344,7 +344,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2066497,
+  "pending_time": 2502007,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -520,63 +520,63 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-21 at 12.44.39 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6a6d8e6f027542bcb99cfdd1a9f88e2b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=VrqyZARqrNGFTkU4qahhr7TU5XI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6a6d8e6f027542bcb99cfdd1a9f88e2b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273693&x-signature=TcJFlgot4pq1lrx2ofDgoVDHu1g%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/6a6d8e6f027542bcb99cfdd1a9f88e2b.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6a6d8e6f027542bcb99cfdd1a9f88e2b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=VrqyZARqrNGFTkU4qahhr7TU5XI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6a6d8e6f027542bcb99cfdd1a9f88e2b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273693&x-signature=TcJFlgot4pq1lrx2ofDgoVDHu1g%3D",
           "size": 76973
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-21 at 12.44.52 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36a6dd327f4c4bcea03d5d690b06ffe8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=ez%2ByZlwvXb9uS6B%2BT1dBoq19%2F60%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36a6dd327f4c4bcea03d5d690b06ffe8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273693&x-signature=gkhMdW4cZGUkA1LIgFCYRAAL%2BXU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/36a6dd327f4c4bcea03d5d690b06ffe8.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36a6dd327f4c4bcea03d5d690b06ffe8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=ez%2ByZlwvXb9uS6B%2BT1dBoq19%2F60%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36a6dd327f4c4bcea03d5d690b06ffe8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273693&x-signature=gkhMdW4cZGUkA1LIgFCYRAAL%2BXU%3D",
           "size": 353340
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=E5JGju3ZBkE1geAaTJU58TifUf0%3D",
-          "file_name": "file_20240318_15_03_03_851978",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=E5JGju3ZBkE1geAaTJU58TifUf0%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=RxB0hkSbbzgTnegcHL2d8%2BT8drM%3D",
-          "file_name": "file_20240318_15_03_03_852041",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=RxB0hkSbbzgTnegcHL2d8%2BT8drM%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/16f831663ba344d3b55eb3c042fb71d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=Dde1TklyFAi8Vt8XOz%2BwloyDBu4%3D",
-          "file_name": "file_20240318_15_03_03_852058",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/16f831663ba344d3b55eb3c042fb71d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=Dde1TklyFAi8Vt8XOz%2BwloyDBu4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/16f831663ba344d3b55eb3c042fb71d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273693&x-signature=20MVMOuK07Ia0YV6ycDbRHzL3Sw%3D",
+          "file_name": "file_20240323_16_01_34_037736",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/16f831663ba344d3b55eb3c042fb71d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273693&x-signature=20MVMOuK07Ia0YV6ycDbRHzL3Sw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/16f831663ba344d3b55eb3c042fb71d7.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=ISvZwDShQPgS28qARKZ3TVtWYqU%3D",
-          "file_name": "file_20240318_15_03_03_940210",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=ISvZwDShQPgS28qARKZ3TVtWYqU%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273693&x-signature=yKwkOns7b5fUO7arvgp%2By90FRtU%3D",
+          "file_name": "file_20240323_16_01_34_037812",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273693&x-signature=yKwkOns7b5fUO7arvgp%2By90FRtU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d9cf96b45e244b8db94b433eed7401f5.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43d3702d9b7a4817a3a02e9ad46c5adf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=i2yRzc843hAFhMFBUZ2CYv1DlVQ%3D",
-          "file_name": "file_20240318_15_03_03_940273",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43d3702d9b7a4817a3a02e9ad46c5adf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838183&x-signature=i2yRzc843hAFhMFBUZ2CYv1DlVQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273693&x-signature=gSmp%2F2Cd%2FV%2BRt%2Bu4I78%2BdDaj5es%3D",
+          "file_name": "file_20240323_16_01_34_037835",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273693&x-signature=gSmp%2F2Cd%2FV%2BRt%2Bu4I78%2BdDaj5es%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/666da1e543e845a989bb42e4febaf000.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43d3702d9b7a4817a3a02e9ad46c5adf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273694&x-signature=yLKRczVna9tQMA%2FNCZUIayWQYSo%3D",
+          "file_name": "file_20240323_16_01_34_114689",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/43d3702d9b7a4817a3a02e9ad46c5adf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273694&x-signature=yLKRczVna9tQMA%2FNCZUIayWQYSo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/43d3702d9b7a4817a3a02e9ad46c5adf.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b19dbd2ec884b2ebddcabb2c6fed4f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838184&x-signature=SnfnL16Yi3cwEhWeoS9%2BEYXqqYE%3D",
-          "file_name": "file_20240318_15_03_04_031754",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b19dbd2ec884b2ebddcabb2c6fed4f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838184&x-signature=SnfnL16Yi3cwEhWeoS9%2BEYXqqYE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273694&x-signature=jdSD4fT7FCCyV5aGhd5%2BQGUXEGE%3D",
+          "file_name": "file_20240323_16_01_34_114750",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273694&x-signature=jdSD4fT7FCCyV5aGhd5%2BQGUXEGE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f468333ccb544c1db7d757c8feed5637.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b19dbd2ec884b2ebddcabb2c6fed4f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273694&x-signature=LegWkMdOU22o9EvkBh9ntMid7I8%3D",
+          "file_name": "file_20240323_16_01_34_191080",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7b19dbd2ec884b2ebddcabb2c6fed4f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273694&x-signature=LegWkMdOU22o9EvkBh9ntMid7I8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7b19dbd2ec884b2ebddcabb2c6fed4f4.png",
           "file_type": "jpeg",
           "biz_type": 2

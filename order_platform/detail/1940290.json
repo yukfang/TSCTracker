@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Jaime, Place an Order isn't a standard event supported with the <a href=\"https://ads.tiktok.com/help/article/tiktok-pixel-shopify?redirected=2\" target=\"_blank\">Shopify integration</a>. Those standard events include:</p><ul><li><strong>Add Payment Info</strong>: When a visitor adds their payment information in the checkout flow.</li><li><strong>Add to Cart</strong>: When a visitor adds an item to the shopping cart.</li><li><strong>Complete Payment</strong>: When a visitor makes a payment. This is considered a type of purchase event.</li><li><strong>Initiate Checkout</strong>: When a visitor is ready to make a purchase and is checking out.</li><li><strong>Search</strong>: When a visitor makes a search.</li><li><strong>View Content</strong>: When a visitor views an important page. We recommend tracking the important pages of your website that matter to your business. Examples can include a product comparison page, announcements or releases, etc.</li></ul><p>They have Complete Payment set up which is good; did they have a different use case for Place an Order?</p><p><br /></p><p>Regarding the missing % of value/content_id parameters for Complete Payment events, they're strikingly consistent between 45-49% coverage across all parameters:</p><img alt=\"Screenshot 2024-03-14 at 11.27.34 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4867c134088d48969bc329971bab19af.png\" height=\"241.168\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4867c134088d48969bc329971bab19af.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838624&amp;x-signature=GtPmXHJ5jhtlV3yVWGGQ4Q4K4gE%3D\" width=\"375\"><p>When I see this, this usually means that there are events unexpectedly triggering ~50% of the time, which don't contain value, currency, content_id, or content_type. The Shopify integration alone should be able to capture and report events to TikTok with all of those parameters included, and would recommend that they look into and remove other methods they used to set up Complete Payment events, which seem to include Custom Code and a direct EAPI implementation:</p><img alt=\"Screenshot 2024-03-14 at 11.27.23 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/eade9bccd750467a8b7fdc4aee662797.png\" height=\"349.337\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eade9bccd750467a8b7fdc4aee662797.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838624&amp;x-signature=tm3s2THfyk0Pz4CXkB9cjZ9mSXI%3D\" width=\"375\" /></img>",
+          "content": "<p>Hey Jaime, Place an Order isn't a standard event supported with the <a href=\"https://ads.tiktok.com/help/article/tiktok-pixel-shopify?redirected=2\" target=\"_blank\">Shopify integration</a>. Those standard events include:</p><ul><li><strong>Add Payment Info</strong>: When a visitor adds their payment information in the checkout flow.</li><li><strong>Add to Cart</strong>: When a visitor adds an item to the shopping cart.</li><li><strong>Complete Payment</strong>: When a visitor makes a payment. This is considered a type of purchase event.</li><li><strong>Initiate Checkout</strong>: When a visitor is ready to make a purchase and is checking out.</li><li><strong>Search</strong>: When a visitor makes a search.</li><li><strong>View Content</strong>: When a visitor views an important page. We recommend tracking the important pages of your website that matter to your business. Examples can include a product comparison page, announcements or releases, etc.</li></ul><p>They have Complete Payment set up which is good; did they have a different use case for Place an Order?</p><p><br /></p><p>Regarding the missing % of value/content_id parameters for Complete Payment events, they're strikingly consistent between 45-49% coverage across all parameters:</p><img alt=\"Screenshot 2024-03-14 at 11.27.34 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4867c134088d48969bc329971bab19af.png\" height=\"241.168\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4867c134088d48969bc329971bab19af.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274155&amp;x-signature=P8vQStuID18dRrFlsDaP9y59smA%3D\" width=\"375\"><p>When I see this, this usually means that there are events unexpectedly triggering ~50% of the time, which don't contain value, currency, content_id, or content_type. The Shopify integration alone should be able to capture and report events to TikTok with all of those parameters included, and would recommend that they look into and remove other methods they used to set up Complete Payment events, which seem to include Custom Code and a direct EAPI implementation:</p><img alt=\"Screenshot 2024-03-14 at 11.27.23 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/eade9bccd750467a8b7fdc4aee662797.png\" height=\"349.337\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eade9bccd750467a8b7fdc4aee662797.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274155&amp;x-signature=QvI7gkxtyb8w8Gp%2FunNQxxLdtBg%3D\" width=\"375\" /></img>",
           "type": 6
         }
       ],
@@ -207,7 +207,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Jaime, yes <a href=\"https://bytedance.larksuite.com/scheduler/d1eb4780491863eb\" target=\"_blank\">here are my avails</a> for next week; Monday-Wednesday usually works best for me. And the Pixel on their <span style=\"color: #333333;\">https://shop.a24films.com/ site is</span> C3JIT9HRTJSI6IKVK550, which is the one I was referring to earlier:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5f2fee4577b844f68c62202b5191df0c.png\" height=\"196.941\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f2fee4577b844f68c62202b5191df0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838624&amp;x-signature=PToN72Sn0FsJ0REbsTGpTgEvVNM%3D\" width=\"375\" />",
+          "content": "<p>Hey Jaime, yes <a href=\"https://bytedance.larksuite.com/scheduler/d1eb4780491863eb\" target=\"_blank\">here are my avails</a> for next week; Monday-Wednesday usually works best for me. And the Pixel on their <span style=\"color: #333333;\">https://shop.a24films.com/ site is</span> C3JIT9HRTJSI6IKVK550, which is the one I was referring to earlier:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5f2fee4577b844f68c62202b5191df0c.png\" height=\"196.941\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f2fee4577b844f68c62202b5191df0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274155&amp;x-signature=1feHoEVdvXQ2PpnJeIGFbnUfMVE%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -342,7 +342,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 241807,
+  "pending_time": 677338,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -516,25 +516,25 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eade9bccd750467a8b7fdc4aee662797.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838624&x-signature=tm3s2THfyk0Pz4CXkB9cjZ9mSXI%3D",
-          "file_name": "file_20240318_15_10_24_373053",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eade9bccd750467a8b7fdc4aee662797.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838624&x-signature=tm3s2THfyk0Pz4CXkB9cjZ9mSXI%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/eade9bccd750467a8b7fdc4aee662797.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4867c134088d48969bc329971bab19af.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838624&x-signature=GtPmXHJ5jhtlV3yVWGGQ4Q4K4gE%3D",
-          "file_name": "file_20240318_15_10_24_373105",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4867c134088d48969bc329971bab19af.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838624&x-signature=GtPmXHJ5jhtlV3yVWGGQ4Q4K4gE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4867c134088d48969bc329971bab19af.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274155&x-signature=P8vQStuID18dRrFlsDaP9y59smA%3D",
+          "file_name": "file_20240323_16_09_15_513021",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4867c134088d48969bc329971bab19af.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274155&x-signature=P8vQStuID18dRrFlsDaP9y59smA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4867c134088d48969bc329971bab19af.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f2fee4577b844f68c62202b5191df0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838624&x-signature=PToN72Sn0FsJ0REbsTGpTgEvVNM%3D",
-          "file_name": "file_20240318_15_10_24_549675",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f2fee4577b844f68c62202b5191df0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838624&x-signature=PToN72Sn0FsJ0REbsTGpTgEvVNM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eade9bccd750467a8b7fdc4aee662797.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274155&x-signature=QvI7gkxtyb8w8Gp%2FunNQxxLdtBg%3D",
+          "file_name": "file_20240323_16_09_15_513078",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eade9bccd750467a8b7fdc4aee662797.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274155&x-signature=QvI7gkxtyb8w8Gp%2FunNQxxLdtBg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/eade9bccd750467a8b7fdc4aee662797.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f2fee4577b844f68c62202b5191df0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274155&x-signature=1feHoEVdvXQ2PpnJeIGFbnUfMVE%3D",
+          "file_name": "file_20240323_16_09_15_689068",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f2fee4577b844f68c62202b5191df0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274155&x-signature=1feHoEVdvXQ2PpnJeIGFbnUfMVE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5f2fee4577b844f68c62202b5191df0c.png",
           "file_type": "jpeg",
           "biz_type": 2

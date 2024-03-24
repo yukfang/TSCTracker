@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Sage,</p><p><br /></p><p>May I confirm you are talking about iOS? (I see zero event for Android)</p><p><br /></p><p>I see the client only has Installs tracking for iOS which is configured by default. and I do not see any additional in-app event.</p><img alt=\"Screenshot 2024-02-27 at 11.32.24.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b2fa6bf64fee430a86dcc55a5731c197.png\" height=\"120.413\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2fa6bf64fee430a86dcc55a5731c197.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838249&amp;x-signature=9G2%2FNIHd6LwnQnGWB66XC1zLpqA%3D\" width=\"375\"><p><br /></p><p>Also, please confirm what your campaign objective would be. Would it be AppInstalls? or AEO or VBO?</p></img>",
+          "content": "<p>Hi Sage,</p><p><br /></p><p>May I confirm you are talking about iOS? (I see zero event for Android)</p><p><br /></p><p>I see the client only has Installs tracking for iOS which is configured by default. and I do not see any additional in-app event.</p><img alt=\"Screenshot 2024-02-27 at 11.32.24.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b2fa6bf64fee430a86dcc55a5731c197.png\" height=\"120.413\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2fa6bf64fee430a86dcc55a5731c197.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273764&amp;x-signature=NHNUHwcCglIXmNMAhaC2jEJbf0M%3D\" width=\"375\"><p><br /></p><p>Also, please confirm what your campaign objective would be. Would it be AppInstalls? or AEO or VBO?</p></img>",
           "type": 6
         }
       ],
@@ -126,6 +126,35 @@
       ],
       "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710995265,
+      "auto_close_hit": 0,
+      "id": 7348666835467911000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #333333;\">[status update] GBS meeting with the client has been pushed to mid April. Next update expected after the meeting.</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -153,7 +182,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1710124580,
+  "update_time": 1710996720,
   "owner_name": "Sage Cuevas",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -189,7 +218,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 649670,
+  "pending_time": 214500,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -335,15 +364,15 @@
         {
           "file_type": "png",
           "file_name": "02-26_Gcash MSO support.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/429dd5fe9345420e8038557321647fef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838249&x-signature=giPE4uExHHjsvBpqx1IVbBdqxIw%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/429dd5fe9345420e8038557321647fef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273764&x-signature=gzS97nX2G5qNPLBBw5NdCydrBSA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/429dd5fe9345420e8038557321647fef.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/429dd5fe9345420e8038557321647fef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838249&x-signature=giPE4uExHHjsvBpqx1IVbBdqxIw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/429dd5fe9345420e8038557321647fef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273764&x-signature=gzS97nX2G5qNPLBBw5NdCydrBSA%3D",
           "size": 174188
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2fa6bf64fee430a86dcc55a5731c197.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838249&x-signature=9G2%2FNIHd6LwnQnGWB66XC1zLpqA%3D",
-          "file_name": "file_20240318_15_04_09_879977",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2fa6bf64fee430a86dcc55a5731c197.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838249&x-signature=9G2%2FNIHd6LwnQnGWB66XC1zLpqA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2fa6bf64fee430a86dcc55a5731c197.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273764&x-signature=NHNUHwcCglIXmNMAhaC2jEJbf0M%3D",
+          "file_name": "file_20240323_16_02_45_004063",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2fa6bf64fee430a86dcc55a5731c197.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273764&x-signature=NHNUHwcCglIXmNMAhaC2jEJbf0M%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b2fa6bf64fee430a86dcc55a5731c197.png",
           "file_type": "jpeg",
           "biz_type": 2

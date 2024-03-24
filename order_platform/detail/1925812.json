@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Alison, I see a couple of custom events that resemble a Click Button event, <strong>DME-Click (custom)</strong> and <span style=\"color: #121212;\"><strong>Aeroflow CTA button click (custom):</strong></span><br><br /></br></p><img alt=\"Screenshot 2024-03-11 at 10.18.14 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/122986183ba1436aa921f4c44dd4e670.png\" height=\"95.151\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/122986183ba1436aa921f4c44dd4e670.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838513&amp;x-signature=WdpiWwWuC5FLrJ%2FsD5ut9FmVDsk%3D\" width=\"375\"><p><span style=\"color: #222222;\">It looks like they set up the <strong>DME-Click (custom) </strong>event through Custom Code and we're receiving those browser events successfully. However, custom events can't be optimized at this time and would recommend that they go back and change the event code to \"Click Button\" to allow for optimization of this standard event (i.e. the function called would be <em>ttq.track('ClickButton')</em>, and more documentation can be found <a href=\"https://business-api.tiktok.com/portal/docs?rid=oyn7lhbo6ar&amp;id=1739585702922241\" target=\"_blank\">here</a> on setting this up with Custom Code). </span></p></img>",
+          "content": "<p>Hey Alison, I see a couple of custom events that resemble a Click Button event, <strong>DME-Click (custom)</strong> and <span style=\"color: #121212;\"><strong>Aeroflow CTA button click (custom):</strong></span><br><br /></br></p><img alt=\"Screenshot 2024-03-11 at 10.18.14 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/122986183ba1436aa921f4c44dd4e670.png\" height=\"95.151\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/122986183ba1436aa921f4c44dd4e670.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274041&amp;x-signature=0jxpKONj1WDRgbQF1YBVXnGvEn0%3D\" width=\"375\"><p><span style=\"color: #222222;\">It looks like they set up the <strong>DME-Click (custom) </strong>event through Custom Code and we're receiving those browser events successfully. However, custom events can't be optimized at this time and would recommend that they go back and change the event code to \"Click Button\" to allow for optimization of this standard event (i.e. the function called would be <em>ttq.track('ClickButton')</em>, and more documentation can be found <a href=\"https://business-api.tiktok.com/portal/docs?rid=oyn7lhbo6ar&amp;id=1739585702922241\" target=\"_blank\">here</a> on setting this up with Custom Code). </span></p></img>",
           "type": 6
         }
       ],
@@ -299,7 +299,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 583562,
+  "pending_time": 1019090,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -475,23 +475,23 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-07 at 1.29.00 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3ce790f330c2481e8ad1ffa6da59d3f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838513&x-signature=%2F1kumtOEfsh8OspchfQKl4RN8O0%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3ce790f330c2481e8ad1ffa6da59d3f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274041&x-signature=SROrNt%2FTTq3A5XeXzA81qj8Y4XQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/3ce790f330c2481e8ad1ffa6da59d3f1.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3ce790f330c2481e8ad1ffa6da59d3f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838513&x-signature=%2F1kumtOEfsh8OspchfQKl4RN8O0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3ce790f330c2481e8ad1ffa6da59d3f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274041&x-signature=SROrNt%2FTTq3A5XeXzA81qj8Y4XQ%3D",
           "size": 46130
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-07 at 1.29.19 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a5839cddb6842f4b281857c5357fe6b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838513&x-signature=J2yfsjk95BoeT8Mx2kG2K2nDEd4%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a5839cddb6842f4b281857c5357fe6b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274041&x-signature=xeh7rMNsEuALSsM5hynmUIxIsis%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0a5839cddb6842f4b281857c5357fe6b.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a5839cddb6842f4b281857c5357fe6b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838513&x-signature=J2yfsjk95BoeT8Mx2kG2K2nDEd4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a5839cddb6842f4b281857c5357fe6b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274041&x-signature=xeh7rMNsEuALSsM5hynmUIxIsis%3D",
           "size": 29953
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/122986183ba1436aa921f4c44dd4e670.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838513&x-signature=WdpiWwWuC5FLrJ%2FsD5ut9FmVDsk%3D",
-          "file_name": "file_20240318_15_08_33_503379",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/122986183ba1436aa921f4c44dd4e670.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838513&x-signature=WdpiWwWuC5FLrJ%2FsD5ut9FmVDsk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/122986183ba1436aa921f4c44dd4e670.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274041&x-signature=0jxpKONj1WDRgbQF1YBVXnGvEn0%3D",
+          "file_name": "file_20240323_16_07_21_250608",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/122986183ba1436aa921f4c44dd4e670.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274041&x-signature=0jxpKONj1WDRgbQF1YBVXnGvEn0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/122986183ba1436aa921f4c44dd4e670.png",
           "file_type": "jpeg",
           "biz_type": 2

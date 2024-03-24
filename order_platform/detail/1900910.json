@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Arjun,</p><p><br /></p><p>It looks like they have leftover code from prior to their Shopify implementation still firing on their site. It is coded into the HTML of the page and is firing separately from the Shopify integration, causing a \"double firing\" scenario that could affect the metrics of parameter coverage and/or user matching. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e09d6b92d5ef4836ba615bffd92802f1.png\" height=\"148.792\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09d6b92d5ef4836ba615bffd92802f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838260&amp;x-signature=qvQyXY32HUMQv80OKRj7mHiNrqo%3D\" width=\"375\"><p><br /></p><p>My recommendation is that they remove the old manual code that is on their site and just let Shopify handle all the Pixel events moving forward. They will likely need to contact the webmaster/dev team that handles their site to get that done.</p><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
+          "content": "<p>Hi Arjun,</p><p><br /></p><p>It looks like they have leftover code from prior to their Shopify implementation still firing on their site. It is coded into the HTML of the page and is firing separately from the Shopify integration, causing a \"double firing\" scenario that could affect the metrics of parameter coverage and/or user matching. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e09d6b92d5ef4836ba615bffd92802f1.png\" height=\"148.792\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09d6b92d5ef4836ba615bffd92802f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273776&amp;x-signature=zgPiXvEHWgP3Hdu31Y%2BVpFXfsXw%3D\" width=\"375\"><p><br /></p><p>My recommendation is that they remove the old manual code that is on their site and just let Shopify handle all the Pixel events moving forward. They will likely need to contact the webmaster/dev team that handles their site to get that done.</p><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -149,7 +149,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Arjun,</p><p><br /></p><p>If the client made changes to their website and removed the old Pixel code yesterday, it will take some time for the changes to be reflected in Events Manager as there is a delay in the look back window: </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c795ab7b884a4ccc8caa9d33d1e32f0e.png\" height=\"347.886\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c795ab7b884a4ccc8caa9d33d1e32f0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838260&amp;x-signature=smqlPDcKqUUIqLqn5FXcAEqpKvM%3D\" width=\"375\"><p><br /></p><p>Currently the data that Events Manager is surfacing along with associated metrics is based on 2-26 to 2-27. </p><p><br /></p><p>We will need to give it some time before the changes they made are properly reflected in the metrics. </p><p><br /></p><p>Thomas</p></img>",
+          "content": "<p>Hi Arjun,</p><p><br /></p><p>If the client made changes to their website and removed the old Pixel code yesterday, it will take some time for the changes to be reflected in Events Manager as there is a delay in the look back window: </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c795ab7b884a4ccc8caa9d33d1e32f0e.png\" height=\"347.886\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c795ab7b884a4ccc8caa9d33d1e32f0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273776&amp;x-signature=1A%2Bou%2FcT%2FtPehsQCUFUtYf9LfNQ%3D\" width=\"375\"><p><br /></p><p>Currently the data that Events Manager is surfacing along with associated metrics is based on 2-26 to 2-27. </p><p><br /></p><p>We will need to give it some time before the changes they made are properly reflected in the metrics. </p><p><br /></p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -265,7 +265,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Thomas - just had a call with the client, on Pixel helper they are still seing ATC double fire!</p><p><br /></p><p>They are getting worried about the implementation, may I please have you take a look</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c2bd896c96894d9fb19966c94ab9fd73.png\" height=\"317.157\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c2bd896c96894d9fb19966c94ab9fd73.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838260&amp;x-signature=bdlkT65UPfh9ZRvxISS5b49Ag%2BA%3D\" width=\"375\" />",
+          "content": "<p>Hi Thomas - just had a call with the client, on Pixel helper they are still seing ATC double fire!</p><p><br /></p><p>They are getting worried about the implementation, may I please have you take a look</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c2bd896c96894d9fb19966c94ab9fd73.png\" height=\"317.157\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c2bd896c96894d9fb19966c94ab9fd73.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273776&amp;x-signature=BvkHicbh2yZmeurlD5B69Xv6UXQ%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -323,7 +323,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>All three events mention Shopify as the Event Source - there is no mention of GTM, could you please share a screenshot if you are seeing it.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7739349d26df42e0b1fdc0bc0c16fc35.png\" height=\"511.905\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7739349d26df42e0b1fdc0bc0c16fc35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838260&amp;x-signature=yThxdE5nZwfcD2yt%2FUoQ6yG1whk%3D\" width=\"375\" />",
+          "content": "<p>All three events mention Shopify as the Event Source - there is no mention of GTM, could you please share a screenshot if you are seeing it.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7739349d26df42e0b1fdc0bc0c16fc35.png\" height=\"511.905\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7739349d26df42e0b1fdc0bc0c16fc35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273776&amp;x-signature=6%2FDhmLOI99SLu3f3u6IaoloIeDA%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -352,7 +352,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Arjun,</p><p><br /></p><p>The Pixel Helper isn't always accurate in the \"Setup Method\" field. I am using a different plugin that can check where the events are going towards and there seems to be signs they are firing in GTM:</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/31cc1473c47e4adaa4ad52e6246ca09e.png\" height=\"288.679\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/31cc1473c47e4adaa4ad52e6246ca09e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838260&amp;x-signature=XpwmhxpCWbjmpNrvLBfG3t5KBFA%3D\" width=\"375\"><p><br /></p><p>Please check with the client on how they have their Pixel currently setup.</p><p><br /></p><p>Thomas</p></img>",
+          "content": "<p>Hi Arjun,</p><p><br /></p><p>The Pixel Helper isn't always accurate in the \"Setup Method\" field. I am using a different plugin that can check where the events are going towards and there seems to be signs they are firing in GTM:</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/31cc1473c47e4adaa4ad52e6246ca09e.png\" height=\"288.679\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/31cc1473c47e4adaa4ad52e6246ca09e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273776&amp;x-signature=wcO9BriscGEEhEf6IXzarruSUkY%3D\" width=\"375\"><p><br /></p><p>Please check with the client on how they have their Pixel currently setup.</p><p><br /></p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -410,7 +410,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Thomas,</p><p><br /></p><p>When we test using events manager ATC is not always triple firing - however do we know how the Shopify setup would miss Value parameter which is an issue. </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/73336bdb42ec4fb18050c5b1ca0f3189.png\" height=\"176.161\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/73336bdb42ec4fb18050c5b1ca0f3189.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838261&amp;x-signature=4eXTASAx63lBthUKPOX5g6tRsrI%3D\" width=\"375\" />",
+          "content": "<p>Hi Thomas,</p><p><br /></p><p>When we test using events manager ATC is not always triple firing - however do we know how the Shopify setup would miss Value parameter which is an issue. </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/73336bdb42ec4fb18050c5b1ca0f3189.png\" height=\"176.161\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/73336bdb42ec4fb18050c5b1ca0f3189.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273776&amp;x-signature=EYoUn7DrJZrykL33gmLMEfGQ3kw%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -439,7 +439,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Arjun,</p><p><br /></p><p>It is not all products that have an over firing issue. One example are the sheets:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bb4a1522f7904a0ca93c8792d0de7ea2.png\" height=\"87.606\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bb4a1522f7904a0ca93c8792d0de7ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838261&amp;x-signature=sr%2F%2FL37itSqwTKUs%2F%2F7HMRCZUKM%3D\" width=\"375\"><p>https://hush.ca/products/hush-sheets?view=sl-78798E0B</p><p><br /></p><p>The fact that only some products face the issue points to a likely culprit that they are probably not using Shopify for their Pixel.</p><p><br /></p><p>Thomas</p></img>",
+          "content": "<p>Hi Arjun,</p><p><br /></p><p>It is not all products that have an over firing issue. One example are the sheets:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bb4a1522f7904a0ca93c8792d0de7ea2.png\" height=\"87.606\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bb4a1522f7904a0ca93c8792d0de7ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273776&amp;x-signature=zl9wSKuLyP3V28mBOBcn3DmH%2FzA%3D\" width=\"375\"><p>https://hush.ca/products/hush-sheets?view=sl-78798E0B</p><p><br /></p><p>The fact that only some products face the issue points to a likely culprit that they are probably not using Shopify for their Pixel.</p><p><br /></p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -497,7 +497,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>I audited all their products and only one product has the firing issue - HUSH ICED BAMBOO COOLING SHEETS AND PILLOWCASE SET</p><p><br><br /></br></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a611696e808e4d8790dce06948f7024b.png\" height=\"251.966\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a611696e808e4d8790dce06948f7024b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838261&amp;x-signature=tzfKS6n6ZlY3oGTAod497S7%2BpvA%3D\" width=\"375\" />",
+          "content": "<p>I audited all their products and only one product has the firing issue - HUSH ICED BAMBOO COOLING SHEETS AND PILLOWCASE SET</p><p><br><br /></br></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a611696e808e4d8790dce06948f7024b.png\" height=\"251.966\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a611696e808e4d8790dce06948f7024b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273776&amp;x-signature=2i8hWtqk6drmTYRmXqva8rz%2F1Ac%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -663,7 +663,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1021163,
+  "pending_time": 1456679,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -837,65 +837,65 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09d6b92d5ef4836ba615bffd92802f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=qvQyXY32HUMQv80OKRj7mHiNrqo%3D",
-          "file_name": "file_20240318_15_04_20_592071",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09d6b92d5ef4836ba615bffd92802f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=qvQyXY32HUMQv80OKRj7mHiNrqo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09d6b92d5ef4836ba615bffd92802f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=zgPiXvEHWgP3Hdu31Y%2BVpFXfsXw%3D",
+          "file_name": "file_20240323_16_02_56_389493",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e09d6b92d5ef4836ba615bffd92802f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=zgPiXvEHWgP3Hdu31Y%2BVpFXfsXw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e09d6b92d5ef4836ba615bffd92802f1.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c795ab7b884a4ccc8caa9d33d1e32f0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=smqlPDcKqUUIqLqn5FXcAEqpKvM%3D",
-          "file_name": "file_20240318_15_04_20_741643",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c795ab7b884a4ccc8caa9d33d1e32f0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=smqlPDcKqUUIqLqn5FXcAEqpKvM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c795ab7b884a4ccc8caa9d33d1e32f0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=1A%2Bou%2FcT%2FtPehsQCUFUtYf9LfNQ%3D",
+          "file_name": "file_20240323_16_02_56_524427",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c795ab7b884a4ccc8caa9d33d1e32f0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=1A%2Bou%2FcT%2FtPehsQCUFUtYf9LfNQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c795ab7b884a4ccc8caa9d33d1e32f0e.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c2bd896c96894d9fb19966c94ab9fd73.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=bdlkT65UPfh9ZRvxISS5b49Ag%2BA%3D",
-          "file_name": "file_20240318_15_04_20_868958",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c2bd896c96894d9fb19966c94ab9fd73.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=bdlkT65UPfh9ZRvxISS5b49Ag%2BA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c2bd896c96894d9fb19966c94ab9fd73.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=BvkHicbh2yZmeurlD5B69Xv6UXQ%3D",
+          "file_name": "file_20240323_16_02_56_632847",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c2bd896c96894d9fb19966c94ab9fd73.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=BvkHicbh2yZmeurlD5B69Xv6UXQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c2bd896c96894d9fb19966c94ab9fd73.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7739349d26df42e0b1fdc0bc0c16fc35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=yThxdE5nZwfcD2yt%2FUoQ6yG1whk%3D",
-          "file_name": "file_20240318_15_04_20_937499",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7739349d26df42e0b1fdc0bc0c16fc35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=yThxdE5nZwfcD2yt%2FUoQ6yG1whk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7739349d26df42e0b1fdc0bc0c16fc35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=6%2FDhmLOI99SLu3f3u6IaoloIeDA%3D",
+          "file_name": "file_20240323_16_02_56_692481",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7739349d26df42e0b1fdc0bc0c16fc35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=6%2FDhmLOI99SLu3f3u6IaoloIeDA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7739349d26df42e0b1fdc0bc0c16fc35.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/31cc1473c47e4adaa4ad52e6246ca09e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=XpwmhxpCWbjmpNrvLBfG3t5KBFA%3D",
-          "file_name": "file_20240318_15_04_20_986555",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/31cc1473c47e4adaa4ad52e6246ca09e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838260&x-signature=XpwmhxpCWbjmpNrvLBfG3t5KBFA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/31cc1473c47e4adaa4ad52e6246ca09e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=wcO9BriscGEEhEf6IXzarruSUkY%3D",
+          "file_name": "file_20240323_16_02_56_721495",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/31cc1473c47e4adaa4ad52e6246ca09e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=wcO9BriscGEEhEf6IXzarruSUkY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/31cc1473c47e4adaa4ad52e6246ca09e.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/73336bdb42ec4fb18050c5b1ca0f3189.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=4eXTASAx63lBthUKPOX5g6tRsrI%3D",
-          "file_name": "file_20240318_15_04_21_049383",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/73336bdb42ec4fb18050c5b1ca0f3189.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=4eXTASAx63lBthUKPOX5g6tRsrI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/73336bdb42ec4fb18050c5b1ca0f3189.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=EYoUn7DrJZrykL33gmLMEfGQ3kw%3D",
+          "file_name": "file_20240323_16_02_56_790059",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/73336bdb42ec4fb18050c5b1ca0f3189.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=EYoUn7DrJZrykL33gmLMEfGQ3kw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/73336bdb42ec4fb18050c5b1ca0f3189.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bb4a1522f7904a0ca93c8792d0de7ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=sr%2F%2FL37itSqwTKUs%2F%2F7HMRCZUKM%3D",
-          "file_name": "file_20240318_15_04_21_099072",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bb4a1522f7904a0ca93c8792d0de7ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=sr%2F%2FL37itSqwTKUs%2F%2F7HMRCZUKM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bb4a1522f7904a0ca93c8792d0de7ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=zl9wSKuLyP3V28mBOBcn3DmH%2FzA%3D",
+          "file_name": "file_20240323_16_02_56_820674",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bb4a1522f7904a0ca93c8792d0de7ea2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=zl9wSKuLyP3V28mBOBcn3DmH%2FzA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/bb4a1522f7904a0ca93c8792d0de7ea2.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a611696e808e4d8790dce06948f7024b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=tzfKS6n6ZlY3oGTAod497S7%2BpvA%3D",
-          "file_name": "file_20240318_15_04_21_167788",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a611696e808e4d8790dce06948f7024b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=tzfKS6n6ZlY3oGTAod497S7%2BpvA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a611696e808e4d8790dce06948f7024b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=2i8hWtqk6drmTYRmXqva8rz%2F1Ac%3D",
+          "file_name": "file_20240323_16_02_56_891924",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a611696e808e4d8790dce06948f7024b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273776&x-signature=2i8hWtqk6drmTYRmXqva8rz%2F1Ac%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/a611696e808e4d8790dce06948f7024b.png",
           "file_type": "jpeg",
           "biz_type": 2

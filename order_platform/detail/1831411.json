@@ -35,7 +35,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Nicol,</p><p>Confirming receipt of your ticket. Please see comments below.</p><p>I took a look at the advertiser's account and can tell we are actively receiving ViewContent, AddToCart, and CompletePayment events.</p><img alt=\"Screenshot 2024-01-22 at 3.19.16 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8c61d7ad618b496180e7a5732060a060.png\" height=\"181.515\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c61d7ad618b496180e7a5732060a060.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832893&amp;x-signature=YXsUn9d6PUga2kMAk3zQvrg1duk%3D\" width=\"375\"><p>When I inspect their implementation, I am able to see the above events trigger correctly on their site, so we can be sure that the issue is not with the TikTok GTM template for which you attached screenshots.</p><p><strong>ViewContent</strong> - this event is firing correctly and with all recommended parameters.</p><img alt=\"Screenshot 2024-01-22 at 3.50.39 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/38667b7efe264cbe9ade454dbf10a7cf.png\" height=\"197.017\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/38667b7efe264cbe9ade454dbf10a7cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832893&amp;x-signature=Z0vB9TyrFSV%2FgUKFpnjDVN%2B459w%3D\" width=\"375\"><p><strong>AddToCart</strong> - similarly, the event is firing as expected with all recommended parameters.</p><img alt=\"AddToCart.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ddfcf432127044fbbba16a1c90b7d1d0.png\" height=\"197.017\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddfcf432127044fbbba16a1c90b7d1d0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832893&amp;x-signature=Yw6dwoVW0B62KzjFAUexlr0kXR8%3D\" width=\"375\"><p><strong>CompletePayment</strong> - I was not able to trigger this event in real-time due to not being able to place a test order, but by looking at the dashboard and the event data in the backend, I can see we are also receiving this event.</p><p>After a more in-depth investigation, I was able to determine the issue is due to the fact the landing pages they specified in their creatives <u>do not exist on their website</u>. Below is a step-by-step of what is happening:</p><ol><li>TikTok shows ad to TikTok user</li><li>TikTok user taps the ad </li><li>TikTok redirects user to landing page specified by advertiser in destination landing page portion of the creative and builds the referrer link, which contains the landing page URL, the click ID that tells our pixel the user is coming from a TikTok ad, and the UTM parameters specified by the advertiser in their landing page URL.</li></ol><img alt=\"Screenshot 2024-01-22 at 4.13.33 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1e383db89f6b4550bf899179f75e9e6d.png\" height=\"182.104\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e383db89f6b4550bf899179f75e9e6d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832893&amp;x-signature=mj9Fm7F9DqyZdDpcmOER7THyezk%3D\" width=\"375\"><ol><li>Their server receives the request to serve the landing page, and the first item to be processed is the URL of the page (which doesn't exist). So it returns a 404 - page not found.</li></ol><img alt=\"Screenshot 2024-01-22 at 4.53.37 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/da556acc286f4f418faa335b6a1f9d44.png\" height=\"205.595\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/da556acc286f4f418faa335b6a1f9d44.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832893&amp;x-signature=vl9ADH57SwnVihNhGZfBeGbSOgk%3D\" width=\"375\"><ol><li>Due to the landing page not being found on their site, UTM parameters are never processed, so GA never records any visits and this is where and why their tracking is broken.</li></ol><p><strong>Steps to Correct Issue:</strong></p><ul><li>Verify that the correct URL is being used for the landing pages</li></ul><p>I was able to see all the URLs used in their creatives say fashionspark.com, but their site is redirecting to a subdomain - new.fashionspark.com.</p><p><a href=\"https://bytedance.sg.larkoffice.com/docx/IG8Ad3iLboIqPsxxt7IlioNMg3e\" target=\"_blank\">I am sharing this resource</a>, which includes a checklist for the advertiser to follow to ensure they have properly setup their campaigns for tracking correctly in their GA instance.</p><p>Let me know if you have any other questions.</p><p>Best,<br>Armando</br></p></img></img></img></img></img>",
+          "content": "<p>Hi Nicol,</p><p>Confirming receipt of your ticket. Please see comments below.</p><p>I took a look at the advertiser's account and can tell we are actively receiving ViewContent, AddToCart, and CompletePayment events.</p><img alt=\"Screenshot 2024-01-22 at 3.19.16 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8c61d7ad618b496180e7a5732060a060.png\" height=\"181.515\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c61d7ad618b496180e7a5732060a060.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273041&amp;x-signature=pBc7VE26kppYuoVJ0BRC0QSsxws%3D\" width=\"375\"><p>When I inspect their implementation, I am able to see the above events trigger correctly on their site, so we can be sure that the issue is not with the TikTok GTM template for which you attached screenshots.</p><p><strong>ViewContent</strong> - this event is firing correctly and with all recommended parameters.</p><img alt=\"Screenshot 2024-01-22 at 3.50.39 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/38667b7efe264cbe9ade454dbf10a7cf.png\" height=\"197.017\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/38667b7efe264cbe9ade454dbf10a7cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273041&amp;x-signature=8%2FVYRG1A6gLCKkW9lHpq9RXGpV8%3D\" width=\"375\"><p><strong>AddToCart</strong> - similarly, the event is firing as expected with all recommended parameters.</p><img alt=\"AddToCart.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ddfcf432127044fbbba16a1c90b7d1d0.png\" height=\"197.017\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddfcf432127044fbbba16a1c90b7d1d0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273041&amp;x-signature=h1KoZNUHVHfQ2fGtHrn7B%2By5Hxc%3D\" width=\"375\"><p><strong>CompletePayment</strong> - I was not able to trigger this event in real-time due to not being able to place a test order, but by looking at the dashboard and the event data in the backend, I can see we are also receiving this event.</p><p>After a more in-depth investigation, I was able to determine the issue is due to the fact the landing pages they specified in their creatives <u>do not exist on their website</u>. Below is a step-by-step of what is happening:</p><ol><li>TikTok shows ad to TikTok user</li><li>TikTok user taps the ad </li><li>TikTok redirects user to landing page specified by advertiser in destination landing page portion of the creative and builds the referrer link, which contains the landing page URL, the click ID that tells our pixel the user is coming from a TikTok ad, and the UTM parameters specified by the advertiser in their landing page URL.</li></ol><img alt=\"Screenshot 2024-01-22 at 4.13.33 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1e383db89f6b4550bf899179f75e9e6d.png\" height=\"182.104\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e383db89f6b4550bf899179f75e9e6d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273041&amp;x-signature=X2kJVe2En9gNdy232TMfWqH2odY%3D\" width=\"375\"><ol><li>Their server receives the request to serve the landing page, and the first item to be processed is the URL of the page (which doesn't exist). So it returns a 404 - page not found.</li></ol><img alt=\"Screenshot 2024-01-22 at 4.53.37 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/da556acc286f4f418faa335b6a1f9d44.png\" height=\"205.595\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/da556acc286f4f418faa335b6a1f9d44.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273041&amp;x-signature=xPICAutnTt3nYX2WPNS8bi0Sx5Y%3D\" width=\"375\"><ol><li>Due to the landing page not being found on their site, UTM parameters are never processed, so GA never records any visits and this is where and why their tracking is broken.</li></ol><p><strong>Steps to Correct Issue:</strong></p><ul><li>Verify that the correct URL is being used for the landing pages</li></ul><p>I was able to see all the URLs used in their creatives say fashionspark.com, but their site is redirecting to a subdomain - new.fashionspark.com.</p><p><a href=\"https://bytedance.sg.larkoffice.com/docx/IG8Ad3iLboIqPsxxt7IlioNMg3e\" target=\"_blank\">I am sharing this resource</a>, which includes a checklist for the advertiser to follow to ensure they have properly setup their campaigns for tracking correctly in their GA instance.</p><p>Let me know if you have any other questions.</p><p>Best,<br>Armando</br></p></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -132,9 +132,9 @@
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-01-23 at 2.13.37 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0617eef300e74cabbb6ea370ca4d5b97.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=yY0OxK4sgARtqdcQM7LmDNlc9W4%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0617eef300e74cabbb6ea370ca4d5b97.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=hhl3R%2FTdwYyDj8MQVA9Dl%2B7PKIA%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/0617eef300e74cabbb6ea370ca4d5b97.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0617eef300e74cabbb6ea370ca4d5b97.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=yY0OxK4sgARtqdcQM7LmDNlc9W4%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0617eef300e74cabbb6ea370ca4d5b97.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=hhl3R%2FTdwYyDj8MQVA9Dl%2B7PKIA%3D",
               "biz_type": 2,
               "size": 1159210
             }
@@ -169,7 +169,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Nicol,</p><p>As long as their landing page URLs contain the following domain fragment - <span style=\"color: #8A8A8A;\">https://fashionspark.com - </span>I am afraid they will continue to have issues with their GA tracking. The screenshot you attached is using this same URL.</p><p>Have the advertiser confirm with their IT team which domain they should use - whether it is  <span style=\"color: #8A8A8A;\"><a href=\"https://fashionspark.com\" target=\"_blank\">https://fashionspark.com</a></span> or <a href=\"https://new.fashionspark.com\" target=\"_blank\">https://new.fashionspark.com</a> (I strongly suspect it is this 2nd one since it does not cause redirections). Then, update that URL for every campaign that uses it.</p><img alt=\"0617eef300e74cabbb6ea370ca4d5b97.png~tplv-6g3pebcbys-image.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9e15fcb443ce41af824b5a72c03aea3f.jpeg\" height=\"472.169\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9e15fcb443ce41af824b5a72c03aea3f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832893&amp;x-signature=IgoEK6JsuqNtkSGS1GIfL6HGA3I%3D\" width=\"375\"><p>Let me know if you have any other questions on the above.</p><p>Best,<br>Armando</br></p></img>",
+          "content": "<p>Hi Nicol,</p><p>As long as their landing page URLs contain the following domain fragment - <span style=\"color: #8A8A8A;\">https://fashionspark.com - </span>I am afraid they will continue to have issues with their GA tracking. The screenshot you attached is using this same URL.</p><p>Have the advertiser confirm with their IT team which domain they should use - whether it is  <span style=\"color: #8A8A8A;\"><a href=\"https://fashionspark.com\" target=\"_blank\">https://fashionspark.com</a></span> or <a href=\"https://new.fashionspark.com\" target=\"_blank\">https://new.fashionspark.com</a> (I strongly suspect it is this 2nd one since it does not cause redirections). Then, update that URL for every campaign that uses it.</p><img alt=\"0617eef300e74cabbb6ea370ca4d5b97.png~tplv-6g3pebcbys-image.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9e15fcb443ce41af824b5a72c03aea3f.jpeg\" height=\"472.169\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9e15fcb443ce41af824b5a72c03aea3f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273041&amp;x-signature=ah0Hp1hfD55ToWbk0LC25qLyvos%3D\" width=\"375\"><p>Let me know if you have any other questions on the above.</p><p>Best,<br>Armando</br></p></img>",
           "type": 6
         }
       ],
@@ -200,7 +200,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Nicol,</p><p>I forgot to paste this on my previous email.</p><img alt=\"Screenshot 2024-01-23 at 4.06.00 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cfbf752d782149d7b3dd8397af2f7d05.png\" height=\"187.598\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cfbf752d782149d7b3dd8397af2f7d05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832893&amp;x-signature=tM5u8Wcb3uj7dmr1AvLWqpD9DFo%3D\" width=\"375\" />",
+          "content": "<p>Hi Nicol,</p><p>I forgot to paste this on my previous email.</p><img alt=\"Screenshot 2024-01-23 at 4.06.00 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cfbf752d782149d7b3dd8397af2f7d05.png\" height=\"187.598\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cfbf752d782149d7b3dd8397af2f7d05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273041&amp;x-signature=jBOSjaE5jsVp6ucT0mmluhZiBc8%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -258,7 +258,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Nicol,</p><p>Sure, no problem.</p><p>Comparing the screenshot you sent to <a href=\"https://bytedance.sg.larkoffice.com/docs/doccnTLhJ9iLFgLDnwbbkY2jLXd\" target=\"_blank\">this internal document</a>, it appears the advertiser is correctly building the utm parameters.</p><img alt=\"Screenshot 2024-01-25 at 1.57.05 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e0c233b2f3064df19fa3e275e158f38d.png\" height=\"252.039\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0c233b2f3064df19fa3e275e158f38d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832893&amp;x-signature=KC5bR%2B6L3xIrds6LFLK%2FWzWkZTk%3D\" width=\"375\"><p>We can also share this <a href=\"https://ads.tiktok.com/help/preview?content_id=3Gfz8OwV9SCHZvOnvYeWZN&amp;lang=en#anchor-0\" target=\"_blank\">customer-facing document</a> with the advertiser so they can have it as reference.</p><p>Best,<br>Armando</br></p></img>",
+          "content": "<p>Hi Nicol,</p><p>Sure, no problem.</p><p>Comparing the screenshot you sent to <a href=\"https://bytedance.sg.larkoffice.com/docs/doccnTLhJ9iLFgLDnwbbkY2jLXd\" target=\"_blank\">this internal document</a>, it appears the advertiser is correctly building the utm parameters.</p><img alt=\"Screenshot 2024-01-25 at 1.57.05 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e0c233b2f3064df19fa3e275e158f38d.png\" height=\"252.039\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0c233b2f3064df19fa3e275e158f38d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273041&amp;x-signature=nH1ZMTT0uvHv%2F1F%2FFT29RUrHAOg%3D\" width=\"375\"><p>We can also share this <a href=\"https://ads.tiktok.com/help/preview?content_id=3Gfz8OwV9SCHZvOnvYeWZN&amp;lang=en#anchor-0\" target=\"_blank\">customer-facing document</a> with the advertiser so they can have it as reference.</p><p>Best,<br>Armando</br></p></img>",
           "type": 6
         }
       ],
@@ -497,7 +497,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3611601,
+  "pending_time": 4051749,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -673,55 +673,55 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-22 at 2.23.55 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50fdbff611ed47b19abb08808953cde7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832892&x-signature=TkAF%2BI8DiiItY6n%2F6MJNg0Tm5UI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50fdbff611ed47b19abb08808953cde7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273040&x-signature=ahiLYNtoc%2B7cKQcelulik6RGOas%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/50fdbff611ed47b19abb08808953cde7.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50fdbff611ed47b19abb08808953cde7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832892&x-signature=TkAF%2BI8DiiItY6n%2F6MJNg0Tm5UI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50fdbff611ed47b19abb08808953cde7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273040&x-signature=ahiLYNtoc%2B7cKQcelulik6RGOas%3D",
           "size": 305109
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-22 at 2.24.11 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/da3580294392411bba82ebf9b9f003bf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832892&x-signature=%2FlxrK7N%2Bma9Q%2BlzWmmrzfXZgGiw%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/da3580294392411bba82ebf9b9f003bf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273040&x-signature=YulmnMG2%2FnOeECcHKibjIk2RPV8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/da3580294392411bba82ebf9b9f003bf.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/da3580294392411bba82ebf9b9f003bf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832892&x-signature=%2FlxrK7N%2Bma9Q%2BlzWmmrzfXZgGiw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/da3580294392411bba82ebf9b9f003bf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273040&x-signature=YulmnMG2%2FnOeECcHKibjIk2RPV8%3D",
           "size": 93983
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c61d7ad618b496180e7a5732060a060.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=YXsUn9d6PUga2kMAk3zQvrg1duk%3D",
-          "file_name": "file_20240318_13_34_53_307835",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c61d7ad618b496180e7a5732060a060.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=YXsUn9d6PUga2kMAk3zQvrg1duk%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/8c61d7ad618b496180e7a5732060a060.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/da556acc286f4f418faa335b6a1f9d44.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=vl9ADH57SwnVihNhGZfBeGbSOgk%3D",
-          "file_name": "file_20240318_13_34_53_307908",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/da556acc286f4f418faa335b6a1f9d44.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=vl9ADH57SwnVihNhGZfBeGbSOgk%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/da556acc286f4f418faa335b6a1f9d44.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddfcf432127044fbbba16a1c90b7d1d0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=Yw6dwoVW0B62KzjFAUexlr0kXR8%3D",
-          "file_name": "file_20240318_13_34_53_307925",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddfcf432127044fbbba16a1c90b7d1d0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=Yw6dwoVW0B62KzjFAUexlr0kXR8%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/ddfcf432127044fbbba16a1c90b7d1d0.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e383db89f6b4550bf899179f75e9e6d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=mj9Fm7F9DqyZdDpcmOER7THyezk%3D",
-          "file_name": "file_20240318_13_34_53_307938",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e383db89f6b4550bf899179f75e9e6d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=mj9Fm7F9DqyZdDpcmOER7THyezk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e383db89f6b4550bf899179f75e9e6d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=X2kJVe2En9gNdy232TMfWqH2odY%3D",
+          "file_name": "file_20240323_15_50_41_187585",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e383db89f6b4550bf899179f75e9e6d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=X2kJVe2En9gNdy232TMfWqH2odY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/1e383db89f6b4550bf899179f75e9e6d.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/38667b7efe264cbe9ade454dbf10a7cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=Z0vB9TyrFSV%2FgUKFpnjDVN%2B459w%3D",
-          "file_name": "file_20240318_13_34_53_307951",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/38667b7efe264cbe9ade454dbf10a7cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=Z0vB9TyrFSV%2FgUKFpnjDVN%2B459w%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c61d7ad618b496180e7a5732060a060.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=pBc7VE26kppYuoVJ0BRC0QSsxws%3D",
+          "file_name": "file_20240323_15_50_41_187650",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c61d7ad618b496180e7a5732060a060.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=pBc7VE26kppYuoVJ0BRC0QSsxws%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8c61d7ad618b496180e7a5732060a060.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/da556acc286f4f418faa335b6a1f9d44.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=xPICAutnTt3nYX2WPNS8bi0Sx5Y%3D",
+          "file_name": "file_20240323_15_50_41_187667",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/da556acc286f4f418faa335b6a1f9d44.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=xPICAutnTt3nYX2WPNS8bi0Sx5Y%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/da556acc286f4f418faa335b6a1f9d44.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddfcf432127044fbbba16a1c90b7d1d0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=h1KoZNUHVHfQ2fGtHrn7B%2By5Hxc%3D",
+          "file_name": "file_20240323_15_50_41_187681",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddfcf432127044fbbba16a1c90b7d1d0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=h1KoZNUHVHfQ2fGtHrn7B%2By5Hxc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ddfcf432127044fbbba16a1c90b7d1d0.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/38667b7efe264cbe9ade454dbf10a7cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=8%2FVYRG1A6gLCKkW9lHpq9RXGpV8%3D",
+          "file_name": "file_20240323_15_50_41_187695",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/38667b7efe264cbe9ade454dbf10a7cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=8%2FVYRG1A6gLCKkW9lHpq9RXGpV8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/38667b7efe264cbe9ade454dbf10a7cf.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -729,32 +729,32 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-23 at 2.13.37 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0617eef300e74cabbb6ea370ca4d5b97.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=yY0OxK4sgARtqdcQM7LmDNlc9W4%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0617eef300e74cabbb6ea370ca4d5b97.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=hhl3R%2FTdwYyDj8MQVA9Dl%2B7PKIA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0617eef300e74cabbb6ea370ca4d5b97.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0617eef300e74cabbb6ea370ca4d5b97.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=yY0OxK4sgARtqdcQM7LmDNlc9W4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0617eef300e74cabbb6ea370ca4d5b97.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=hhl3R%2FTdwYyDj8MQVA9Dl%2B7PKIA%3D",
           "biz_type": 2,
           "size": 1159210
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9e15fcb443ce41af824b5a72c03aea3f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=IgoEK6JsuqNtkSGS1GIfL6HGA3I%3D",
-          "file_name": "file_20240318_13_34_53_453679",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9e15fcb443ce41af824b5a72c03aea3f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=IgoEK6JsuqNtkSGS1GIfL6HGA3I%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9e15fcb443ce41af824b5a72c03aea3f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=ah0Hp1hfD55ToWbk0LC25qLyvos%3D",
+          "file_name": "file_20240323_15_50_41_331909",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9e15fcb443ce41af824b5a72c03aea3f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=ah0Hp1hfD55ToWbk0LC25qLyvos%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/9e15fcb443ce41af824b5a72c03aea3f.jpeg",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cfbf752d782149d7b3dd8397af2f7d05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=tM5u8Wcb3uj7dmr1AvLWqpD9DFo%3D",
-          "file_name": "file_20240318_13_34_53_487299",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cfbf752d782149d7b3dd8397af2f7d05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=tM5u8Wcb3uj7dmr1AvLWqpD9DFo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cfbf752d782149d7b3dd8397af2f7d05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=jBOSjaE5jsVp6ucT0mmluhZiBc8%3D",
+          "file_name": "file_20240323_15_50_41_371007",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cfbf752d782149d7b3dd8397af2f7d05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=jBOSjaE5jsVp6ucT0mmluhZiBc8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/cfbf752d782149d7b3dd8397af2f7d05.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0c233b2f3064df19fa3e275e158f38d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=KC5bR%2B6L3xIrds6LFLK%2FWzWkZTk%3D",
-          "file_name": "file_20240318_13_34_53_564007",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0c233b2f3064df19fa3e275e158f38d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832893&x-signature=KC5bR%2B6L3xIrds6LFLK%2FWzWkZTk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0c233b2f3064df19fa3e275e158f38d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=nH1ZMTT0uvHv%2F1F%2FFT29RUrHAOg%3D",
+          "file_name": "file_20240323_15_50_41_426188",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0c233b2f3064df19fa3e275e158f38d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273041&x-signature=nH1ZMTT0uvHv%2F1F%2FFT29RUrHAOg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e0c233b2f3064df19fa3e275e158f38d.png",
           "file_type": "jpeg",
           "biz_type": 2

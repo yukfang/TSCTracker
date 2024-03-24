@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Alessandro,</p><p><br /></p><p>Hope you are well.</p><p><br /></p><p>Please find below the steps the client should follow to ensure that only up-to-date feed products are included in the catalog, and old products are removed. </p><p><br /></p><p>The client should navigate to their Product Sources &gt; select the active Product Source &gt; Settings &gt; Edit &gt; Update the 'Update Method' to 'Replace your data Feed'. This will ensure that old products are removed, and only the products that are found within the feed are maintained:</p><img alt=\"Screenshot 2024-03-07 at 11.40.34.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5ed6ca3a24b24cb4919ffbc046736b3a.png\" height=\"263.874\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5ed6ca3a24b24cb4919ffbc046736b3a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838481&amp;x-signature=XsKKZib6aatUdvf0E39ydsQkDRE%3D\" width=\"375\"><p><br /></p><p>Regarding the client's signals implementation, we can see that they enabled Events API on top of their Pixel, but have not implemented <strong>deduplication</strong>. Additionally, their PII coverage is lower than expected. Could you please confirm if you would like our team to support the client with troubleshooting these issues?</p><p><br /></p><p>Best,</p><p>Katerina</p></img>",
+          "content": "<p>Hi Alessandro,</p><p><br /></p><p>Hope you are well.</p><p><br /></p><p>Please find below the steps the client should follow to ensure that only up-to-date feed products are included in the catalog, and old products are removed. </p><p><br /></p><p>The client should navigate to their Product Sources &gt; select the active Product Source &gt; Settings &gt; Edit &gt; Update the 'Update Method' to 'Replace your data Feed'. This will ensure that old products are removed, and only the products that are found within the feed are maintained:</p><img alt=\"Screenshot 2024-03-07 at 11.40.34.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5ed6ca3a24b24cb4919ffbc046736b3a.png\" height=\"263.874\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5ed6ca3a24b24cb4919ffbc046736b3a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274007&amp;x-signature=shUtWk8gV1BcYlVI2ogj9Xco90E%3D\" width=\"375\"><p><br /></p><p>Regarding the client's signals implementation, we can see that they enabled Events API on top of their Pixel, but have not implemented <strong>deduplication</strong>. Additionally, their PII coverage is lower than expected. Could you please confirm if you would like our team to support the client with troubleshooting these issues?</p><p><br /></p><p>Best,</p><p>Katerina</p></img>",
           "type": 6
         }
       ],
@@ -104,7 +104,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 962465,
+  "pending_time": 1397991,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -241,9 +241,9 @@
       "label": "Screenshot(s)",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5ed6ca3a24b24cb4919ffbc046736b3a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838481&x-signature=XsKKZib6aatUdvf0E39ydsQkDRE%3D",
-          "file_name": "file_20240318_15_08_01_799339",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5ed6ca3a24b24cb4919ffbc046736b3a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838481&x-signature=XsKKZib6aatUdvf0E39ydsQkDRE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5ed6ca3a24b24cb4919ffbc046736b3a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274007&x-signature=shUtWk8gV1BcYlVI2ogj9Xco90E%3D",
+          "file_name": "file_20240323_16_06_47_231871",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5ed6ca3a24b24cb4919ffbc046736b3a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274007&x-signature=shUtWk8gV1BcYlVI2ogj9Xco90E%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5ed6ca3a24b24cb4919ffbc046736b3a.png",
           "file_type": "jpeg",
           "biz_type": 2

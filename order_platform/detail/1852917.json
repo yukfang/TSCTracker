@@ -35,7 +35,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Lauren,</p><p>Confirming receipt of your ticket. I have a follow up question.</p><p>Before a catalog can be used, it must first be bound to a pixel/app as it needs an event source. Do you know which of the catalogs below is the one the advertiser intends to use for this campaign?</p><p><br /></p><img alt=\"Screenshot 2024-02-01 at 11.55.17 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1055665178ff49828e09aca3f133926d.png\" height=\"554\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1055665178ff49828e09aca3f133926d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837667&amp;x-signature=f3jr9DyiQSt5oXPQLe6woN5xl%2Fc%3D\" width=\"372\"><p>Best,<br>Armando</br></p></img>",
+          "content": "<p>Hi Lauren,</p><p>Confirming receipt of your ticket. I have a follow up question.</p><p>Before a catalog can be used, it must first be bound to a pixel/app as it needs an event source. Do you know which of the catalogs below is the one the advertiser intends to use for this campaign?</p><p><br /></p><img alt=\"Screenshot 2024-02-01 at 11.55.17 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1055665178ff49828e09aca3f133926d.png\" height=\"554\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1055665178ff49828e09aca3f133926d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273257&amp;x-signature=SeQWgnBCpg0nSGZZWxMr%2FbLYIr4%3D\" width=\"372\"><p>Best,<br>Armando</br></p></img>",
           "type": 6
         }
       ],
@@ -182,7 +182,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Lauren!</p><p>Thank you for following up on this.</p><p>This one is outside our event implementation scope, but I did some digging around and found this doc that guides you through the setup.</p><p>It sounds like they created a catalog for all the apartments they have, along with a video they would like to play for the entire duration, but the video keeps getting cut short by the product card below.</p><img alt=\"Screenshot 2024-02-05 at 10.48.39 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/97cece044b114c7ca3b9ba01c140b378.png\" height=\"536\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97cece044b114c7ca3b9ba01c140b378.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837667&amp;x-signature=mmz24aZrUIuCMECkoKBVDb3Ficc%3D\" width=\"344\"><p>It appears they would like to show the entire video while having the product cards shown at the bottom throughout the video. This behavior sounds like that of a TikTok Shop where products have been created and requires the creation of product cards before they can be shown (<a href=\"https://ads.tiktok.com/help/article/getting-started-video-shopping-ads#anchor-2\" target=\"_blank\">see steps 1-3 here</a>).</p><p>For VSA Catalog, please check the sections linked below for settings required to enable this:</p><ul><li><strong><a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-PjSQd8XaUoWnHhxoPUilDwFfgke\" target=\"_blank\">What are Product &amp; Display Cards?</a></strong><br /></li><li><strong><a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-Gt1bdYfy7oywLRx1emklBlXcgqf\" target=\"_blank\">How do Product &amp; Display Cards work?</a></strong><br /></li><li><strong><a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-EqMgdIneyoS2o7xXS5qlB7oigBg\" target=\"_blank\">When will Product &amp; Display Cards show up in the ad?</a></strong><br /></li><li><strong><a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-D1t6dBailoWy0HxrJ0zlGubmgSd\" target=\"_blank\">How do Product &amp; Display Cards appear in Ads Manager?</a></strong><br /></li></ul><p>Specifically, we need to ensure in their settings that <a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-TnwZdpeXPoFVyVxjvEBl7AyJg3g\" target=\"_blank\">Dynamic Format IS NOT switched on.</a></p><img alt=\"Screenshot 2024-02-05 at 12.46.48 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png\" height=\"283.578\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837667&amp;x-signature=xIgjEmiA6qXqTbJMOrQkWUzaiKU%3D\" width=\"375\"><p><br /></p><p><strong>Catalog</strong></p><p>There are some issues with the catalog itself that may prevent them from using the catalog itself in the ads. This is separate from the issues they are describing above. Please ask them to address all the issues <a href=\"https://ads.tiktok.com/catalogs/diagnostics?id=7287998504818001665&amp;bc_id=7148129409948549122\" target=\"_blank\">within the Diagnostics tab</a> before launching their campaign.</p><img alt=\"Screenshot 2024-02-05 at 10.49.41 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png\" height=\"138.212\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837667&amp;x-signature=VerjGGTayD3jA0vhiGwfSApSJgw%3D\" width=\"375\"><img alt=\"Screenshot 2024-02-05 at 10.47.01 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/466b4909688a446eba0b970ea6920d0f.png\" height=\"189.657\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/466b4909688a446eba0b970ea6920d0f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837667&amp;x-signature=5BonlM6s55GecgO13o3QPFMlPXo%3D\" width=\"375\"><p>Best,<br>Armando</br></p></img></img></img></img>",
+          "content": "<p>Hi Lauren!</p><p>Thank you for following up on this.</p><p>This one is outside our event implementation scope, but I did some digging around and found this doc that guides you through the setup.</p><p>It sounds like they created a catalog for all the apartments they have, along with a video they would like to play for the entire duration, but the video keeps getting cut short by the product card below.</p><img alt=\"Screenshot 2024-02-05 at 10.48.39 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/97cece044b114c7ca3b9ba01c140b378.png\" height=\"536\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97cece044b114c7ca3b9ba01c140b378.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273257&amp;x-signature=6Z03Id5pJnQC7M9xj8yOc%2FQpgK4%3D\" width=\"344\"><p>It appears they would like to show the entire video while having the product cards shown at the bottom throughout the video. This behavior sounds like that of a TikTok Shop where products have been created and requires the creation of product cards before they can be shown (<a href=\"https://ads.tiktok.com/help/article/getting-started-video-shopping-ads#anchor-2\" target=\"_blank\">see steps 1-3 here</a>).</p><p>For VSA Catalog, please check the sections linked below for settings required to enable this:</p><ul><li><strong><a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-PjSQd8XaUoWnHhxoPUilDwFfgke\" target=\"_blank\">What are Product &amp; Display Cards?</a></strong><br /></li><li><strong><a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-Gt1bdYfy7oywLRx1emklBlXcgqf\" target=\"_blank\">How do Product &amp; Display Cards work?</a></strong><br /></li><li><strong><a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-EqMgdIneyoS2o7xXS5qlB7oigBg\" target=\"_blank\">When will Product &amp; Display Cards show up in the ad?</a></strong><br /></li><li><strong><a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-D1t6dBailoWy0HxrJ0zlGubmgSd\" target=\"_blank\">How do Product &amp; Display Cards appear in Ads Manager?</a></strong><br /></li></ul><p>Specifically, we need to ensure in their settings that <a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh#part-TnwZdpeXPoFVyVxjvEBl7AyJg3g\" target=\"_blank\">Dynamic Format IS NOT switched on.</a></p><img alt=\"Screenshot 2024-02-05 at 12.46.48 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png\" height=\"283.578\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273257&amp;x-signature=ITZf7wicwh91f6GzV5lc1plhVl0%3D\" width=\"375\"><p><br /></p><p><strong>Catalog</strong></p><p>There are some issues with the catalog itself that may prevent them from using the catalog itself in the ads. This is separate from the issues they are describing above. Please ask them to address all the issues <a href=\"https://ads.tiktok.com/catalogs/diagnostics?id=7287998504818001665&amp;bc_id=7148129409948549122\" target=\"_blank\">within the Diagnostics tab</a> before launching their campaign.</p><img alt=\"Screenshot 2024-02-05 at 10.49.41 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png\" height=\"138.212\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273257&amp;x-signature=CSGGGg73KRbvdsXaqWp0OvIPMUw%3D\" width=\"375\"><img alt=\"Screenshot 2024-02-05 at 10.47.01 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/466b4909688a446eba0b970ea6920d0f.png\" height=\"189.657\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/466b4909688a446eba0b970ea6920d0f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273257&amp;x-signature=9snZVI1jlCElmC7j8jjwSK94nQc%3D\" width=\"375\"><p>Best,<br>Armando</br></p></img></img></img></img>",
           "type": 6
         }
       ],
@@ -342,7 +342,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1452669,
+  "pending_time": 1888260,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -481,48 +481,48 @@
         {
           "file_type": "png",
           "file_name": "Screen Shot 2024-02-01 at 11.03.15 AM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/697ac06872a14e419bf782a31a6ed036.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=7hSSH7sNSSpZtBqqZoh2q345UTk%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/697ac06872a14e419bf782a31a6ed036.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273257&x-signature=m9sbKzm6ArV906TgcSZwUqtmeyI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/697ac06872a14e419bf782a31a6ed036.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/697ac06872a14e419bf782a31a6ed036.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=7hSSH7sNSSpZtBqqZoh2q345UTk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/697ac06872a14e419bf782a31a6ed036.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273257&x-signature=m9sbKzm6ArV906TgcSZwUqtmeyI%3D",
           "size": 194060
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1055665178ff49828e09aca3f133926d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=f3jr9DyiQSt5oXPQLe6woN5xl%2Fc%3D",
-          "file_name": "file_20240318_14_54_27_378557",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1055665178ff49828e09aca3f133926d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=f3jr9DyiQSt5oXPQLe6woN5xl%2Fc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1055665178ff49828e09aca3f133926d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273257&x-signature=SeQWgnBCpg0nSGZZWxMr%2FbLYIr4%3D",
+          "file_name": "file_20240323_15_54_17_522646",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1055665178ff49828e09aca3f133926d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273257&x-signature=SeQWgnBCpg0nSGZZWxMr%2FbLYIr4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/1055665178ff49828e09aca3f133926d.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=xIgjEmiA6qXqTbJMOrQkWUzaiKU%3D",
-          "file_name": "file_20240318_14_54_27_611136",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=xIgjEmiA6qXqTbJMOrQkWUzaiKU%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/466b4909688a446eba0b970ea6920d0f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=5BonlM6s55GecgO13o3QPFMlPXo%3D",
-          "file_name": "file_20240318_14_54_27_611236",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/466b4909688a446eba0b970ea6920d0f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=5BonlM6s55GecgO13o3QPFMlPXo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/466b4909688a446eba0b970ea6920d0f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273257&x-signature=9snZVI1jlCElmC7j8jjwSK94nQc%3D",
+          "file_name": "file_20240323_15_54_17_750282",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/466b4909688a446eba0b970ea6920d0f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273257&x-signature=9snZVI1jlCElmC7j8jjwSK94nQc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/466b4909688a446eba0b970ea6920d0f.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97cece044b114c7ca3b9ba01c140b378.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=mmz24aZrUIuCMECkoKBVDb3Ficc%3D",
-          "file_name": "file_20240318_14_54_27_611254",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97cece044b114c7ca3b9ba01c140b378.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=mmz24aZrUIuCMECkoKBVDb3Ficc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273257&x-signature=CSGGGg73KRbvdsXaqWp0OvIPMUw%3D",
+          "file_name": "file_20240323_15_54_17_750350",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273257&x-signature=CSGGGg73KRbvdsXaqWp0OvIPMUw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97cece044b114c7ca3b9ba01c140b378.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273257&x-signature=6Z03Id5pJnQC7M9xj8yOc%2FQpgK4%3D",
+          "file_name": "file_20240323_15_54_17_750368",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97cece044b114c7ca3b9ba01c140b378.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273257&x-signature=6Z03Id5pJnQC7M9xj8yOc%2FQpgK4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/97cece044b114c7ca3b9ba01c140b378.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=VerjGGTayD3jA0vhiGwfSApSJgw%3D",
-          "file_name": "file_20240318_14_54_27_611267",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837667&x-signature=VerjGGTayD3jA0vhiGwfSApSJgw%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/c1ec81dc923742ae9cad449eb4d4954f.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273257&x-signature=ITZf7wicwh91f6GzV5lc1plhVl0%3D",
+          "file_name": "file_20240323_15_54_17_750381",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273257&x-signature=ITZf7wicwh91f6GzV5lc1plhVl0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e3cd5717c9ae4c6e913d4e322b093253.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354674",
-  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/2aef10da-478a-4d3d-87a3-fbf45239a55g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/2aef10da-478a-4d3d-87a3-fbf45239a55g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Jason Schnack",
   "create_time": 1710345637,
   "deadline": 0,
@@ -272,7 +272,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 425082,
+  "pending_time": 860612,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [

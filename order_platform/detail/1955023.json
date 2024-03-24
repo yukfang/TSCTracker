@@ -1,0 +1,542 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497066245137",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1710880305,
+  "deadline": 0,
+  "archive_board_id": 1705151646989663,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710881233,
+      "auto_close_hit": 0,
+      "id": 7348176285471982000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "pimpinhippo@gmail.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Charlie Shin",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7062284440969593857",
+      "name": "Charlie Shin",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<ul><li><span style=\"color: #222222;\">Campaign ID: 1789732500303921</span></li><li><span style=\"color: #222222;\">Mercedes-Benz USA RCP: ID: 7246807652058005505</span></li><li><span style=\"color: #222222;\">Optimization event: Complete registration</span></li><li><span style=\"color: #222222;\">Tracks when a user hits the submit button after providing their information requesting dealer contact from this page </span><span style=\"color: #1155CC;\"><a href=\"https://www.mbusa.com/en/inventory\" target=\"_blank noopener noreferrer\">https://www.mbusa.com/en/inventory</a></span><br /></li></ul><p><br /></p><p><span style=\"color: #222222;\">Looks like only server events are firing, not the pixel:</span></p><img alt=\"Screenshot 2024-03-19 at 3.46.39 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1ed2cfab55dc4d7fb011573042feab17.png\" height=\"365.699\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1ed2cfab55dc4d7fb011573042feab17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274317&amp;x-signature=Q9BfDfabqhTNwVNoSX0N05LlRRk%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2ac8d9bf-77f5-4a8a-9b27-9633aa872fcg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710883454,
+      "auto_close_hit": 0,
+      "id": 7348186744740676000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "pimpinhippo@gmail.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Charlie Shin",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7062284440969593857",
+      "name": "Charlie Shin",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Further context from client:</p><p><span style=\"color: #222222;\">&#34;We are using Adobe Event Forwarding as a server-side solution. Specifically, for TikTok we are using the extension that Adobe provides, TikTok Web Events API Extension. It seems like clicks and impressions are captured with the server side implementation but conversions are not. We are including both ttclid and ttp whenever available in the server side traffic. Is there other essential attribute for tracking conversion that you think we are missing?&#34;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2ac8d9bf-77f5-4a8a-9b27-9633aa872fcg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710958716,
+      "auto_close_hit": 0,
+      "id": 7348510523283063000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "pimpinhippo@gmail.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Charlie Shin",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7062284440969593857",
+      "name": "Charlie Shin",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Also, for their Search Ads campaign, optimized towards view content, it looks like their cost per view content went from ~$4 to above $11 when they implemented eAPI. Can we look into this as well?</p><p>Campaign ID:&nbsp;<span style=\"color: #222222;\">1789559314914354</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2ac8d9bf-77f5-4a8a-9b27-9633aa872fcg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710962180,
+      "auto_close_hit": 0,
+      "id": 7348523337896837000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "pimpinhippo@gmail.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Charlie Shin",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7062284440969593857",
+      "name": "Charlie Shin",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>So are there no conversions showing for the campaign because they are literally not able to match any conversions to users?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2ac8d9bf-77f5-4a8a-9b27-9633aa872fcg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710962017,
+      "auto_close_hit": 0,
+      "id": 7348524209708007000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Charlie,</p><p>Thanks for making the ticket! We will be meeting with the client tomorrow at 10 AM PST to review the current Events API setup issue.</p><p>Confirmed via Email that they were planning to migrate to track using Events API only and will be dropping browser side tracking. We can ask tomorrow if they're be able to keep both Web + eAPI tracking for best results </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d257e941a55141948571505191f7c3cf.png\" height=\"263.986\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d257e941a55141948571505191f7c3cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274317&amp;x-signature=BTyPUy18TBZmpP7C5eKJ3pKsdWs%3D\" width=\"375\"><p>The likely culprit here is that they are missing IP and User Agent from their Events API setup which is critical for making a deterministic match. They also lose out on the Automatic Advanced Matching feature if they go the Events API only route:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c6452f02d688458f9d1d924d70714fe3.png\" height=\"286.493\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c6452f02d688458f9d1d924d70714fe3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274317&amp;x-signature=yIMPmp8r3oUcE526WsjwXZjMijo%3D\" width=\"375\"><p>Automatic Advanced Matching only works with the Web Pixel and will not work with those Events API only advertisers. Automatic Advanced Matching relies on the Web Pixel being able to scan the page that a user is on and finding fields like 'email' and/or 'phone' and then grabbing that data automatically: <a href=\"https://ads.tiktok.com/help/article/advanced-matching-web?lang=en\" target=\"_blank\">https://ads.tiktok.com/help/article/advanced-matching-web?lang=en</a></p><img alt=\"img_v3_0295_7a2f22ec-cb3d-40a4-a56c-1f63bccc094h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6320fb2edbe641b98d80066542c74696.jpg\" height=\"31.353\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6320fb2edbe641b98d80066542c74696.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274317&amp;x-signature=%2Bt2fWA85%2Bcn4kpmHDMAnd8eDoLk%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710962563,
+      "auto_close_hit": 0,
+      "id": 7348526444357681000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Correct, unless they convert in Single session we're tracking them in these cases. However, without IP/UA, hashed PII, and Automatic Advanced Matching, it will be very difficult for us to make a match.</p><p>We will also take a look at their event triggers for the CompleteRegistration event on tomorrow's call to verify to see if it is correct and matches the previously setup Web Browser event</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1955023,
+  "workflow_nodes": [],
+  "board_id": 1705151646989663,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Mercedes Benz Pixel event not firing after eAPI implementation ",
+  "category_1_name": "Events API - Web",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": 0,
+  "inner": 1,
+  "vip_types": [
+    0
+  ],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2ac8d9bf-77f5-4a8a-9b27-9633aa872fcg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710962607,
+  "owner_name": "Charlie Shin",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Events API - Web",
+  "archive_category_1": "1736497066245137",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497066245137",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882593",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714882609",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883585",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385714883601",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400130",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400146",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400162",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748400178",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401154",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401170",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401186",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385748401202",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548708426753",
+          "value": "TSC"
+        }
+      ],
+      "value": "Events API - Web"
+    }
+  ],
+  "core_user_id": "7062284440969593857",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Charlie Shin",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 247754,
+  "debug_permission": 1,
+  "is_vip": 1,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Mercedes Benz Pixel event not firing after eAPI implementation ",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Unsure (Do Not Know)",
+      "valid": true,
+      "key": "Unsure (Do Not Know)",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Mecedes Benz ",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Auto",
+      "valid": true,
+      "key": "Auto",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7246807652058005505"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Susana Perez - CSM ",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "C35QDKNG09F9GHJSMKBG",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "mbusa.com"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-19",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "After implementing Events API, client realized tjhe ADBA lead gen campaign pixel is no longer firing. The client's team has tried to revive it but hasn’t had luck yet.\n\n",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1ed2cfab55dc4d7fb011573042feab17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274317&x-signature=Q9BfDfabqhTNwVNoSX0N05LlRRk%3D",
+          "file_name": "file_20240323_16_11_57_443890",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1ed2cfab55dc4d7fb011573042feab17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274317&x-signature=Q9BfDfabqhTNwVNoSX0N05LlRRk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1ed2cfab55dc4d7fb011573042feab17.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c6452f02d688458f9d1d924d70714fe3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274317&x-signature=yIMPmp8r3oUcE526WsjwXZjMijo%3D",
+          "file_name": "file_20240323_16_11_57_646105",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c6452f02d688458f9d1d924d70714fe3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274317&x-signature=yIMPmp8r3oUcE526WsjwXZjMijo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c6452f02d688458f9d1d924d70714fe3.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d257e941a55141948571505191f7c3cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274317&x-signature=BTyPUy18TBZmpP7C5eKJ3pKsdWs%3D",
+          "file_name": "file_20240323_16_11_57_646179",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d257e941a55141948571505191f7c3cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274317&x-signature=BTyPUy18TBZmpP7C5eKJ3pKsdWs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d257e941a55141948571505191f7c3cf.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6320fb2edbe641b98d80066542c74696.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274317&x-signature=%2Bt2fWA85%2Bcn4kpmHDMAnd8eDoLk%3D",
+          "file_name": "file_20240323_16_11_57_646197",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6320fb2edbe641b98d80066542c74696.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274317&x-signature=%2Bt2fWA85%2Bcn4kpmHDMAnd8eDoLk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6320fb2edbe641b98d80066542c74696.jpg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Events API - Web-Events API - Web"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

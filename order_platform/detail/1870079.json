@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>1) Parameter coverage - you should be able to see the contents parameters coverage if you click on the \"View Data\" link for each event: </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/62638129acfb431a8aa4568a3c8686ca.png\" height=\"153.826\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62638129acfb431a8aa4568a3c8686ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875789&amp;x-signature=7P%2FI5lo8VkOyYnCSlS5hGltoSQw%3D\" width=\"375\"><p>2) I can look into the dedupe issue but will take some time. Will revert back with notes soon. ETA 1-2 days if you want to wait. </p><p><br /></p><p>Thomas</p></img>",
+          "content": "<p>1) Parameter coverage - you should be able to see the contents parameters coverage if you click on the \"View Data\" link for each event: </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/62638129acfb431a8aa4568a3c8686ca.png\" height=\"153.826\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62638129acfb431a8aa4568a3c8686ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273455&amp;x-signature=Oiz3QbH9kRs3gJBorrnbkm%2B2ros%3D\" width=\"375\"><p>2) I can look into the dedupe issue but will take some time. Will revert back with notes soon. ETA 1-2 days if you want to wait. </p><p><br /></p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -236,7 +236,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Client call 2-29:</p><ul><li>Client dev agreed to fix the double firing ATC event</li><li>Client is using GTM to fire most events on page, with the exception of Complete Payment which fires through Shopify</li><li>They set up a server event to fire with order ID as the event_id to dedupe against the Complete Payment event fired through Shopify browse side</li></ul><p><br /></p><p>Post call actins:</p><ul><li>Client dev resolved the ATC double firing issue</li><li>Client dev added an Initiate checkout event which seems to fire when a user clicks the \"continue to checkout\" button on the cart pop out</li><ul><li>Initiate Checkout event is not passing back contents parameters</li></ul><li>Complete Payment event is hitting 82% dedupe for two reasons:</li><ul><li>About 7% of Complete Payment events are missing event_id(s) fired through Browser channel</li><li>About 20% of Complete Payment events are firing with event_id(s) but not matching to a corresponding event on the other channel (Browser vs. EAPI)</li></ul></ul><p><br /></p><p>Next steps: need to relay the above notes regarding Initiate Checkout and Complete Payment event to dev to troubleshoot on their end. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/78ed4ef4356b4bceb72d348781d0281c.png\" height=\"642.251\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78ed4ef4356b4bceb72d348781d0281c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875790&amp;x-signature=lPFpfgTfDArxmxgmRprIGTYNvqM%3D\" width=\"375\" />",
+          "content": "<p>Client call 2-29:</p><ul><li>Client dev agreed to fix the double firing ATC event</li><li>Client is using GTM to fire most events on page, with the exception of Complete Payment which fires through Shopify</li><li>They set up a server event to fire with order ID as the event_id to dedupe against the Complete Payment event fired through Shopify browse side</li></ul><p><br /></p><p>Post call actins:</p><ul><li>Client dev resolved the ATC double firing issue</li><li>Client dev added an Initiate checkout event which seems to fire when a user clicks the \"continue to checkout\" button on the cart pop out</li><ul><li>Initiate Checkout event is not passing back contents parameters</li></ul><li>Complete Payment event is hitting 82% dedupe for two reasons:</li><ul><li>About 7% of Complete Payment events are missing event_id(s) fired through Browser channel</li><li>About 20% of Complete Payment events are firing with event_id(s) but not matching to a corresponding event on the other channel (Browser vs. EAPI)</li></ul></ul><p><br /></p><p>Next steps: need to relay the above notes regarding Initiate Checkout and Complete Payment event to dev to troubleshoot on their end. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/78ed4ef4356b4bceb72d348781d0281c.png\" height=\"642.251\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78ed4ef4356b4bceb72d348781d0281c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273456&amp;x-signature=hqL97e%2BRe%2FQR1ONS%2Bp9oo1NQZyo%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -294,7 +294,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Rebecca had a question regarding why their VSA for Complete Payment was so low. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png\" height=\"93.053\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875790&amp;x-signature=8hXI5B0G5hzj57Q3c9YTYZiwAV0%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png\" height=\"58.792\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875790&amp;x-signature=%2FxzL5gzDFunXfrXqCP7c0IWpfIE%3D\" width=\"375\" /></img>",
+          "content": "<p>Rebecca had a question regarding why their VSA for Complete Payment was so low. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png\" height=\"93.053\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273456&amp;x-signature=rKSvG63Tg79enu615TH8iUZPdiI%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png\" height=\"58.792\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273456&amp;x-signature=da8%2BQD8PWTaTI%2FhY6%2F2rIID%2FvJY%3D\" width=\"375\" /></img>",
           "type": 6
         }
       ],
@@ -533,7 +533,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 23921,
+  "pending_time": 421587,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -707,34 +707,34 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62638129acfb431a8aa4568a3c8686ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875789&x-signature=7P%2FI5lo8VkOyYnCSlS5hGltoSQw%3D",
-          "file_name": "file_20240319_01_29_49_862381",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62638129acfb431a8aa4568a3c8686ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875789&x-signature=7P%2FI5lo8VkOyYnCSlS5hGltoSQw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62638129acfb431a8aa4568a3c8686ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273455&x-signature=Oiz3QbH9kRs3gJBorrnbkm%2B2ros%3D",
+          "file_name": "file_20240323_15_57_35_882367",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62638129acfb431a8aa4568a3c8686ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273455&x-signature=Oiz3QbH9kRs3gJBorrnbkm%2B2ros%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/62638129acfb431a8aa4568a3c8686ca.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78ed4ef4356b4bceb72d348781d0281c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875790&x-signature=lPFpfgTfDArxmxgmRprIGTYNvqM%3D",
-          "file_name": "file_20240319_01_29_50_059173",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78ed4ef4356b4bceb72d348781d0281c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875790&x-signature=lPFpfgTfDArxmxgmRprIGTYNvqM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78ed4ef4356b4bceb72d348781d0281c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273456&x-signature=hqL97e%2BRe%2FQR1ONS%2Bp9oo1NQZyo%3D",
+          "file_name": "file_20240323_15_57_36_061700",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/78ed4ef4356b4bceb72d348781d0281c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273456&x-signature=hqL97e%2BRe%2FQR1ONS%2Bp9oo1NQZyo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/78ed4ef4356b4bceb72d348781d0281c.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875790&x-signature=8hXI5B0G5hzj57Q3c9YTYZiwAV0%3D",
-          "file_name": "file_20240319_01_29_50_121935",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875790&x-signature=8hXI5B0G5hzj57Q3c9YTYZiwAV0%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273456&x-signature=da8%2BQD8PWTaTI%2FhY6%2F2rIID%2FvJY%3D",
+          "file_name": "file_20240323_15_57_36_144383",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273456&x-signature=da8%2BQD8PWTaTI%2FhY6%2F2rIID%2FvJY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875790&x-signature=%2FxzL5gzDFunXfrXqCP7c0IWpfIE%3D",
-          "file_name": "file_20240319_01_29_50_122004",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875790&x-signature=%2FxzL5gzDFunXfrXqCP7c0IWpfIE%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/cca14dff249d4ed88b5aa72107e29c4d.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273456&x-signature=rKSvG63Tg79enu615TH8iUZPdiI%3D",
+          "file_name": "file_20240323_15_57_36_144458",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273456&x-signature=rKSvG63Tg79enu615TH8iUZPdiI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a25385fb9c8440ea9ab7085bf33f67de.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

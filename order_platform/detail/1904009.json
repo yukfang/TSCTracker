@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1709076073,
   "deadline": 0,
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Emma, </p><p><br /></p><p>I am seeing a Tealium implementation for their pixel and multiple redundant pixel fires for some of events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/58bf9a3675d149e5a4a514b1ab1703df.png\" height=\"182.452\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/58bf9a3675d149e5a4a514b1ab1703df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838306&amp;x-signature=TMc6srioSlCgHJSZQ2AWGYPhQJQ%3D\" width=\"375\"><p>The advertiser should check how they have the triggers set up in Tealium, as it looks like however it is set up now, it is not working as expected. I would expect to see just one AddToCart event fire here.</p><p><br /></p><p>The content id missing message is most likely due to the multiple events firing.</p><p><br /></p><p>Please ask them to fix this issue, and I will keep this ticket open in case there are further questions.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Emma, </p><p><br /></p><p>I am seeing a Tealium implementation for their pixel and multiple redundant pixel fires for some of events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/58bf9a3675d149e5a4a514b1ab1703df.png\" height=\"182.452\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/58bf9a3675d149e5a4a514b1ab1703df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273823&amp;x-signature=5K1pmfrvK7W8mMMjlnfghJA%2FFhw%3D\" width=\"375\"><p>The advertiser should check how they have the triggers set up in Tealium, as it looks like however it is set up now, it is not working as expected. I would expect to see just one AddToCart event fire here.</p><p><br /></p><p>The content id missing message is most likely due to the multiple events firing.</p><p><br /></p><p>Please ask them to fix this issue, and I will keep this ticket open in case there are further questions.</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -120,7 +120,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Emma,</p><p>Answers to your questions from Lark below:</p><p>I could use clarification on what the current issues are. I’ll summarize what I understood:</p><ol><li>There are some Complete Payment events where the product Content_Id and Currency parameter values are missing. These are intermittent and constitute a small fraction of Complete Payment events? I’d think all Complete Payment events would be missing the parameter values, so I’m unclear on how best to further investigate. Could you filter the worksheet on only the problematic events?</li></ol><p>Where are they seeing that diagnostic message? I am not seeing any message in diagnostics, <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CA7TVPBC77U59N94T6CG?start_time=2024-03-05&amp;end_time=2024-03-11&amp;aadvid=7101379994357645314&amp;type=diagnostics\" target=\"_blank\">in TTEM</a> or otherwise, pointing to currency or content_id not reporting for CompletePayment events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/24b6fc2e3a1e4936b4b7c686798b6ae6.png\" height=\"204.181\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24b6fc2e3a1e4936b4b7c686798b6ae6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838306&amp;x-signature=L%2BmNtb%2BD7CticIIsm1YbSisNfjU%3D\" width=\"375\"><p><br /></p><ol><li>There are cases where View Content and AddToCart events are firing multiple times. I can confirm we <em>are</em> using Adobe Launch currently as our tag manager, so that aligns with your comment about other advertisers seeing the same issue.</li></ol><p>Has the client had a chance to check in Tealium and find out how ViewContent and AddToCart are firing multiple times for one action?</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/990196136ca44c5f90e2e6008e25b0da.png\" height=\"207.48\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/990196136ca44c5f90e2e6008e25b0da.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838306&amp;x-signature=7%2BxuzXlEjmBRbRZrSXiwTBwH3r4%3D\" width=\"375\"><ol><li>Missing Email and Phone is a known issue with our site and we can ignore, Automatic matching is working well with high match rates.</li></ol><p>Yes, this is fine. I see Email reporting at 100% for 'CompletePayment' events which is great.</p><p><br /></p><p>Please let me know if further questions come up!</p><p><br /></p><p>Heidi</p></img></img>",
+          "content": "<p>Hi Emma,</p><p>Answers to your questions from Lark below:</p><p>I could use clarification on what the current issues are. I’ll summarize what I understood:</p><ol><li>There are some Complete Payment events where the product Content_Id and Currency parameter values are missing. These are intermittent and constitute a small fraction of Complete Payment events? I’d think all Complete Payment events would be missing the parameter values, so I’m unclear on how best to further investigate. Could you filter the worksheet on only the problematic events?</li></ol><p>Where are they seeing that diagnostic message? I am not seeing any message in diagnostics, <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CA7TVPBC77U59N94T6CG?start_time=2024-03-05&amp;end_time=2024-03-11&amp;aadvid=7101379994357645314&amp;type=diagnostics\" target=\"_blank\">in TTEM</a> or otherwise, pointing to currency or content_id not reporting for CompletePayment events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/24b6fc2e3a1e4936b4b7c686798b6ae6.png\" height=\"204.181\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24b6fc2e3a1e4936b4b7c686798b6ae6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273823&amp;x-signature=lFOg643v90X71say3Qxjovndgik%3D\" width=\"375\"><p><br /></p><ol><li>There are cases where View Content and AddToCart events are firing multiple times. I can confirm we <em>are</em> using Adobe Launch currently as our tag manager, so that aligns with your comment about other advertisers seeing the same issue.</li></ol><p>Has the client had a chance to check in Tealium and find out how ViewContent and AddToCart are firing multiple times for one action?</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/990196136ca44c5f90e2e6008e25b0da.png\" height=\"207.48\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/990196136ca44c5f90e2e6008e25b0da.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273823&amp;x-signature=ZNdzRoi3UTKbDJYTxGFmEPcwO2Q%3D\" width=\"375\"><ol><li>Missing Email and Phone is a known issue with our site and we can ignore, Automatic matching is working well with high match rates.</li></ol><p>Yes, this is fine. I see Email reporting at 100% for 'CompletePayment' events which is great.</p><p><br /></p><p>Please let me know if further questions come up!</p><p><br /></p><p>Heidi</p></img></img>",
           "type": 6
         }
       ],
@@ -359,7 +359,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 581073,
+  "pending_time": 1016590,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -533,26 +533,26 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/58bf9a3675d149e5a4a514b1ab1703df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838306&x-signature=TMc6srioSlCgHJSZQ2AWGYPhQJQ%3D",
-          "file_name": "file_20240318_15_05_06_631983",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/58bf9a3675d149e5a4a514b1ab1703df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838306&x-signature=TMc6srioSlCgHJSZQ2AWGYPhQJQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/58bf9a3675d149e5a4a514b1ab1703df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273823&x-signature=5K1pmfrvK7W8mMMjlnfghJA%2FFhw%3D",
+          "file_name": "file_20240323_16_03_43_088448",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/58bf9a3675d149e5a4a514b1ab1703df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273823&x-signature=5K1pmfrvK7W8mMMjlnfghJA%2FFhw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/58bf9a3675d149e5a4a514b1ab1703df.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/990196136ca44c5f90e2e6008e25b0da.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838306&x-signature=7%2BxuzXlEjmBRbRZrSXiwTBwH3r4%3D",
-          "file_name": "file_20240318_15_05_06_741694",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/990196136ca44c5f90e2e6008e25b0da.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838306&x-signature=7%2BxuzXlEjmBRbRZrSXiwTBwH3r4%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/990196136ca44c5f90e2e6008e25b0da.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24b6fc2e3a1e4936b4b7c686798b6ae6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273823&x-signature=lFOg643v90X71say3Qxjovndgik%3D",
+          "file_name": "file_20240323_16_03_43_221214",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24b6fc2e3a1e4936b4b7c686798b6ae6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273823&x-signature=lFOg643v90X71say3Qxjovndgik%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/24b6fc2e3a1e4936b4b7c686798b6ae6.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24b6fc2e3a1e4936b4b7c686798b6ae6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838306&x-signature=L%2BmNtb%2BD7CticIIsm1YbSisNfjU%3D",
-          "file_name": "file_20240318_15_05_06_741768",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/24b6fc2e3a1e4936b4b7c686798b6ae6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838306&x-signature=L%2BmNtb%2BD7CticIIsm1YbSisNfjU%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/24b6fc2e3a1e4936b4b7c686798b6ae6.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/990196136ca44c5f90e2e6008e25b0da.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273823&x-signature=ZNdzRoi3UTKbDJYTxGFmEPcwO2Q%3D",
+          "file_name": "file_20240323_16_03_43_221300",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/990196136ca44c5f90e2e6008e25b0da.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273823&x-signature=ZNdzRoi3UTKbDJYTxGFmEPcwO2Q%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/990196136ca44c5f90e2e6008e25b0da.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

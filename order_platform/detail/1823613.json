@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Laura, confirming receipt!</p><p><br /></p><p>The pixel isn't loading on their front-end site and only loads once checkout is started. You can see that all of the events are lower-funnel events mid- or post-checkout:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2a1e59acad504d4da6e8854afce1eafc.png\" height=\"105.501\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2a1e59acad504d4da6e8854afce1eafc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832901&amp;x-signature=%2Fm8PoBID8r6%2BoaLGrHNuqyyfrCc%3D\" width=\"375\"><p>This is common for advertisers who run a headless Shopify site, which utilizes Shopify for checkout and order fulfillment on the back-end, but does not use Shopify for their front-end product description pages, home page, etc.</p><p><br /></p><p>Because the advertiser is only using Shopify for their checkout process, they should implement another Pixel to cover for the upper funnel events they're missing. They can use any of our <a href=\"https://ads.tiktok.com/help/article/partner-integrations-for-web-tracking?redirected=2\" target=\"_blank\">partner integrations</a> like <a href=\"https://github.com/tiktok/gtm-template-pixel\" target=\"_blank\">GTM</a> to implement browser or server events for the missing events in question, or use the <a href=\"https://business-api.tiktok.com/portal/docs?rid=oyn7lhbo6ar&amp;id=1739585702922241\" target=\"_blank\">Custom Code</a> method by placing code in their site's HTML.</p></img>",
+          "content": "<p>Hey Laura, confirming receipt!</p><p><br /></p><p>The pixel isn't loading on their front-end site and only loads once checkout is started. You can see that all of the events are lower-funnel events mid- or post-checkout:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2a1e59acad504d4da6e8854afce1eafc.png\" height=\"105.501\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2a1e59acad504d4da6e8854afce1eafc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272983&amp;x-signature=XbzpVOP7Eoh3ogakwZOllG6gbvk%3D\" width=\"375\"><p>This is common for advertisers who run a headless Shopify site, which utilizes Shopify for checkout and order fulfillment on the back-end, but does not use Shopify for their front-end product description pages, home page, etc.</p><p><br /></p><p>Because the advertiser is only using Shopify for their checkout process, they should implement another Pixel to cover for the upper funnel events they're missing. They can use any of our <a href=\"https://ads.tiktok.com/help/article/partner-integrations-for-web-tracking?redirected=2\" target=\"_blank\">partner integrations</a> like <a href=\"https://github.com/tiktok/gtm-template-pixel\" target=\"_blank\">GTM</a> to implement browser or server events for the missing events in question, or use the <a href=\"https://business-api.tiktok.com/portal/docs?rid=oyn7lhbo6ar&amp;id=1739585702922241\" target=\"_blank\">Custom Code</a> method by placing code in their site's HTML.</p></img>",
           "type": 6
         }
       ],
@@ -149,7 +149,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p><br /></p><img alt=\"image005.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0653d1fe5b004f7a86ce819c6fd39920.png\" height=\"190.333\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0653d1fe5b004f7a86ce819c6fd39920.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832902&amp;x-signature=Z3BKyYkov8YNQOcdXdfgPPtVwT4%3D\" width=\"375\" />",
+          "content": "<p><br /></p><img alt=\"image005.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0653d1fe5b004f7a86ce819c6fd39920.png\" height=\"190.333\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0653d1fe5b004f7a86ce819c6fd39920.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272983&amp;x-signature=jsrTYbfYLpDqg6t4zd0WBYcUi8o%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -352,7 +352,38 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Laura, I can see that server-side events started to pass back to TikTok via Shopify since 1/20:</p><img alt=\"Screenshot 2024-02-02 at 2.05.55 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c734bf011b1743ebb62fe2905f25589f.png\" height=\"89.994\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c734bf011b1743ebb62fe2905f25589f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832902&amp;x-signature=dhCq0Uef6opHBpdGvsJ%2BDjQojag%3D\" width=\"375\"><p>Only the individual who initially generated the access token has access to it (there is a pop-up that shows the token and prompts the user to copy it before the window closes). If it's been lost, it can be generated again in the Settings tab within Event Manager.</p></img>",
+          "content": "<p>Hey Laura, I can see that server-side events started to pass back to TikTok via Shopify since 1/20:</p><img alt=\"Screenshot 2024-02-02 at 2.05.55 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c734bf011b1743ebb62fe2905f25589f.png\" height=\"89.994\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c734bf011b1743ebb62fe2905f25589f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272983&amp;x-signature=vOla0aQV3VFfO6PTM98MPDvB0vc%3D\" width=\"375\"><p>Only the individual who initially generated the access token has access to it (there is a pop-up that shows the token and prompts the user to copy it before the window closes). If it's been lost, it can be generated again in the Settings tab within Event Manager.</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710882615,
+      "auto_close_hit": 0,
+      "id": 7348183153187553000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Laura Campos353",
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": 7259767406213891000,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Laura, closing this one out due to inactivity.</p><p>They&#39;re at a Signal score of 100/100 and has been fully implemented with the Pixel + EAPI. If they have any implementation-related questions, please create a new ticket under <a target=\"_blank\" href=\"https://ads.tiktok.com/athena/requester/boards?identify_key=56482366f70c4340bdc6fef12d2624f32043c69ae748816427c4faaec4d33531\">MPO Technical Implementation</a>. Specific product/troubleshooting requests can be filed as a <a target=\"_blank\" href=\"1823610\">TPS ticket</a>. Thanks!</p>",
           "type": 6
         }
       ],
@@ -383,13 +414,13 @@
   "type": -1,
   "current_role": null,
   "fd_permission": 1,
-  "status": 1,
+  "status": 3,
   "business_data": [],
-  "update_time": 1706911800,
+  "update_time": 1710882637,
   "owner_name": "Laura Campos",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
-  "swim_lane_status": 4,
+  "swim_lane_status": 5,
   "enable_forced_order_tag": 1,
   "satisfied": 0,
   "category_2_name": "",
@@ -560,7 +591,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3857102,
+  "pending_time": 326346,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -734,25 +765,25 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2a1e59acad504d4da6e8854afce1eafc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832901&x-signature=%2Fm8PoBID8r6%2BoaLGrHNuqyyfrCc%3D",
-          "file_name": "file_20240318_13_35_01_930928",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2a1e59acad504d4da6e8854afce1eafc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832901&x-signature=%2Fm8PoBID8r6%2BoaLGrHNuqyyfrCc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2a1e59acad504d4da6e8854afce1eafc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272983&x-signature=XbzpVOP7Eoh3ogakwZOllG6gbvk%3D",
+          "file_name": "file_20240323_15_49_43_301633",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2a1e59acad504d4da6e8854afce1eafc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272983&x-signature=XbzpVOP7Eoh3ogakwZOllG6gbvk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2a1e59acad504d4da6e8854afce1eafc.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0653d1fe5b004f7a86ce819c6fd39920.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832902&x-signature=Z3BKyYkov8YNQOcdXdfgPPtVwT4%3D",
-          "file_name": "file_20240318_13_35_02_114663",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0653d1fe5b004f7a86ce819c6fd39920.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832902&x-signature=Z3BKyYkov8YNQOcdXdfgPPtVwT4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0653d1fe5b004f7a86ce819c6fd39920.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272983&x-signature=jsrTYbfYLpDqg6t4zd0WBYcUi8o%3D",
+          "file_name": "file_20240323_15_49_43_406747",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0653d1fe5b004f7a86ce819c6fd39920.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272983&x-signature=jsrTYbfYLpDqg6t4zd0WBYcUi8o%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0653d1fe5b004f7a86ce819c6fd39920.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c734bf011b1743ebb62fe2905f25589f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832902&x-signature=dhCq0Uef6opHBpdGvsJ%2BDjQojag%3D",
-          "file_name": "file_20240318_13_35_02_315448",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c734bf011b1743ebb62fe2905f25589f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832902&x-signature=dhCq0Uef6opHBpdGvsJ%2BDjQojag%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c734bf011b1743ebb62fe2905f25589f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272983&x-signature=vOla0aQV3VFfO6PTM98MPDvB0vc%3D",
+          "file_name": "file_20240323_15_49_43_614396",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c734bf011b1743ebb62fe2905f25589f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272983&x-signature=vOla0aQV3VFfO6PTM98MPDvB0vc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c734bf011b1743ebb62fe2905f25589f.png",
           "file_type": "jpeg",
           "biz_type": 2

@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Danielle,</p><p><br /></p><p>So it seems like your client is interested in using Adobe to send web events and potentially audiences. </p><p><br /></p><p>We do have integrations through Adobe that cover sending web events through Events API as well as audiences.</p><p><br /></p><p>Events API - https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/server/tiktok/overview.html?lang=en</p><p>Audiences - https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/social/tiktok.html</p><p><br /></p><p>We have an internal document that fully covers the Adobe integrations and can be accessed here: https://bytedance.us.larkoffice.com/docx/XynydX2a6ohEnDx26Geus0sksub</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/08acb05f4aa548868da84ee9dcb7d90c.png\" height=\"159.305\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/08acb05f4aa548868da84ee9dcb7d90c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838425&amp;x-signature=h5DDujU4hjSlxPaBqF2eJuaOGRs%3D\" width=\"375\"><p><br /></p><p>Please let me know if your client has any other questions. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
+          "content": "<p>Hi Danielle,</p><p><br /></p><p>So it seems like your client is interested in using Adobe to send web events and potentially audiences. </p><p><br /></p><p>We do have integrations through Adobe that cover sending web events through Events API as well as audiences.</p><p><br /></p><p>Events API - https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/server/tiktok/overview.html?lang=en</p><p>Audiences - https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/social/tiktok.html</p><p><br /></p><p>We have an internal document that fully covers the Adobe integrations and can be accessed here: https://bytedance.us.larkoffice.com/docx/XynydX2a6ohEnDx26Geus0sksub</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/08acb05f4aa548868da84ee9dcb7d90c.png\" height=\"159.305\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/08acb05f4aa548868da84ee9dcb7d90c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273947&amp;x-signature=1cSrnqUvce3dQpSst0naeRSbPGM%3D\" width=\"375\"><p><br /></p><p>Please let me know if your client has any other questions. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -329,6 +329,35 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710877893,
+      "auto_close_hit": 0,
+      "id": 7348163007140119000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Client had additional questions on March 18th:</p><p>Hi Tomas,</p><p>I hope you had a great weekend.</p><p>Thank you for sharing its all really helpful info, but I still have some additional questions.</p><p>TikTok currently connect to Google&#39;s PA API or planning to connect sometime this year ?</p><p>If not, would Events API solution work for retargeting for traffic that is not coming from ad clicks (i.e. view-through traffic) ?</p><p>After chrome deprecates 3P cookies, can Events API work for view-through real-time conversion optimization without hashed email/phone data or would it only be available for click-through traffic ?</p><p><br></p><p>---</p><p><br></p><p>Addressed via email on March 19th:</p><p><span style=\"color: #500050;\">Hi Alexandra,</span></p><p>Answers to your questions below:</p><ul><li><span style=\"color: #222222;\">TikTok connecting to Google&#39;s Protected Audience API - <strong>from reading the link you provided this seems to be a solution that Google is providing directly to advertisers. I do not believe they would enable the API for platforms like TikTok.&nbsp;</strong></span></li><li><span style=\"color: #222222;\">Events API solution work for retargeting for traffic that is not coming from ad clicks (i.e. view-through traffic) - <strong>Yes, data from Events API does provide value for organic traffic. This is assuming we have enough parameters to perform matching. We are able to match based on data such as ip address, user agent, external ID, email/phone (where available) and of course click ID. With enough events, our algorithm&nbsp;is able to make matches to users based on some combination of the aforementioned parameters.&nbsp;</strong></span></li><li><span style=\"color: #222222;\">After chrome deprecates 3P cookies, can Events API work for view-through real-time conversion optimization without hashed email/phone data or would it only be available for click-through traffic ? <strong>In the absence of hashed user data, we would still be able to attribute conversions (including view through) using a combination of the other parameters (IP, user agent, external ID, etc.) Chrome&#39;s deprecation of 3P cookies should not have an effect on Events API performance as we do not utilize or collect data from 3rd party cookies through that channel.&nbsp;</strong></span></li></ul><p><span style=\"color: #222222;\">Regards,</span></p><p><span style=\"color: #222222;\">Thomas</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -356,7 +385,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1710451448,
+  "update_time": 1710877893,
   "owner_name": "Danielle Hotzwik",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -458,7 +487,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 322977,
+  "pending_time": 332055,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -641,15 +670,15 @@
         {
           "file_type": "png",
           "file_name": "image002.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d934f19d329477ebb4f64c2bf3f0caf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838424&x-signature=oRPyrF2Z3j21Xqvu%2FQyka5Tm%2FD8%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d934f19d329477ebb4f64c2bf3f0caf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273947&x-signature=nDPiFgnE3co0GawIdQvT3ra4r7g%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4d934f19d329477ebb4f64c2bf3f0caf.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d934f19d329477ebb4f64c2bf3f0caf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838424&x-signature=oRPyrF2Z3j21Xqvu%2FQyka5Tm%2FD8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d934f19d329477ebb4f64c2bf3f0caf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273947&x-signature=nDPiFgnE3co0GawIdQvT3ra4r7g%3D",
           "size": 103790
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/08acb05f4aa548868da84ee9dcb7d90c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838425&x-signature=h5DDujU4hjSlxPaBqF2eJuaOGRs%3D",
-          "file_name": "file_20240318_15_07_05_081209",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/08acb05f4aa548868da84ee9dcb7d90c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838425&x-signature=h5DDujU4hjSlxPaBqF2eJuaOGRs%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/08acb05f4aa548868da84ee9dcb7d90c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273947&x-signature=1cSrnqUvce3dQpSst0naeRSbPGM%3D",
+          "file_name": "file_20240323_16_05_47_644904",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/08acb05f4aa548868da84ee9dcb7d90c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273947&x-signature=1cSrnqUvce3dQpSst0naeRSbPGM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/08acb05f4aa548868da84ee9dcb7d90c.png",
           "file_type": "jpeg",
           "biz_type": 2

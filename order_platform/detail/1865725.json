@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1707411605,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Matt,</p><p>confirming  receipt  of ticket. In the description, you have mentioned about some screenshot, could you provide them ?</p><p>Also, for Roas reporting,  value and currency is requried in ViewContent, AddToCart and CompletePayment.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6db356ec84874f71b3628a52b57ac050.png\" height=\"119.734\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6db356ec84874f71b3628a52b57ac050.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837836&amp;x-signature=%2FdnWB%2FkbatX7rAT%2FZ36XQMHwl18%3D\" width=\"375\"><p>Not only client is missing CompletePayment, the PalceAnOrder event is incorrectly named.</p><ol><li><strong>Place_an_order </strong>should be replaced with<strong> PlaceAnOrder</strong></li><li><strong>and CompletePayment event must also be added or swapped with PlaceAnOrder</strong></li></ol></img>",
+          "content": "<p>Hi Matt,</p><p>confirming  receipt  of ticket. In the description, you have mentioned about some screenshot, could you provide them ?</p><p>Also, for Roas reporting,  value and currency is requried in ViewContent, AddToCart and CompletePayment.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6db356ec84874f71b3628a52b57ac050.png\" height=\"119.734\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6db356ec84874f71b3628a52b57ac050.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273414&amp;x-signature=WLsfrKEcj%2BDGxN5kMPXYwCdASFw%3D\" width=\"375\"><p>Not only client is missing CompletePayment, the PalceAnOrder event is incorrectly named.</p><ol><li><strong>Place_an_order </strong>should be replaced with<strong> PlaceAnOrder</strong></li><li><strong>and CompletePayment event must also be added or swapped with PlaceAnOrder</strong></li></ol></img>",
           "type": 6
         }
       ],
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi value is one of the parameters in pixel </p><p>It can be passed in pixel like this in your code or event tag (in case they are using tag manager like GTM)</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8c1ed330a2d44b409da326bdaff3715e.png\" height=\"282.857\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c1ed330a2d44b409da326bdaff3715e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837836&amp;x-signature=dMYb7wQFKVMNSvCt6F8%2Fhix0Pgo%3D\" width=\"375\"><p>Here is the<strong> pixel doc</strong>: https://business-api.tiktok.com/portal/docs?id=1739585702922241</p><p>Here is the <strong>events api doc</strong>: https://business-api.tiktok.com/portal/docs?id=1771100865818625</p><p>Also the fastest way to  fix it woud be over<strong> call with client's dev team </strong></p><p><br><strong>Use this link to schedule meeting on my calendar</strong></br></p><p>http://tinyurl.com/Saurabh-scheduler</p></img>",
+          "content": "<p>Hi value is one of the parameters in pixel </p><p>It can be passed in pixel like this in your code or event tag (in case they are using tag manager like GTM)</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8c1ed330a2d44b409da326bdaff3715e.png\" height=\"282.857\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c1ed330a2d44b409da326bdaff3715e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273414&amp;x-signature=uFc9QTXbC4WsxVhhzFalMRTdJd0%3D\" width=\"375\"><p>Here is the<strong> pixel doc</strong>: https://business-api.tiktok.com/portal/docs?id=1739585702922241</p><p>Here is the <strong>events api doc</strong>: https://business-api.tiktok.com/portal/docs?id=1771100865818625</p><p>Also the fastest way to  fix it woud be over<strong> call with client's dev team </strong></p><p><br><strong>Use this link to schedule meeting on my calendar</strong></br></p><p>http://tinyurl.com/Saurabh-scheduler</p></img>",
           "type": 6
         }
       ],
@@ -357,7 +357,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2675920,
+  "pending_time": 3111498,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -531,17 +531,17 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6db356ec84874f71b3628a52b57ac050.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837836&x-signature=%2FdnWB%2FkbatX7rAT%2FZ36XQMHwl18%3D",
-          "file_name": "file_20240318_14_57_16_058317",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6db356ec84874f71b3628a52b57ac050.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837836&x-signature=%2FdnWB%2FkbatX7rAT%2FZ36XQMHwl18%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6db356ec84874f71b3628a52b57ac050.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273414&x-signature=WLsfrKEcj%2BDGxN5kMPXYwCdASFw%3D",
+          "file_name": "file_20240323_15_56_54_369797",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6db356ec84874f71b3628a52b57ac050.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273414&x-signature=WLsfrKEcj%2BDGxN5kMPXYwCdASFw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/6db356ec84874f71b3628a52b57ac050.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c1ed330a2d44b409da326bdaff3715e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837836&x-signature=dMYb7wQFKVMNSvCt6F8%2Fhix0Pgo%3D",
-          "file_name": "file_20240318_14_57_16_161285",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c1ed330a2d44b409da326bdaff3715e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837836&x-signature=dMYb7wQFKVMNSvCt6F8%2Fhix0Pgo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c1ed330a2d44b409da326bdaff3715e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273414&x-signature=uFc9QTXbC4WsxVhhzFalMRTdJd0%3D",
+          "file_name": "file_20240323_15_56_54_444067",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c1ed330a2d44b409da326bdaff3715e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273414&x-signature=uFc9QTXbC4WsxVhhzFalMRTdJd0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8c1ed330a2d44b409da326bdaff3715e.png",
           "file_type": "jpeg",
           "biz_type": 2

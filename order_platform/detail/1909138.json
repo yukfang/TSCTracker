@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Monetha,</p><p>Happy to look into this for you! Just a heads up - I have been speaking with Gabor Petlyanszki about Bath and Body Work's Pixel issue. </p><p>As of 3/1/2024, the TikTok Pixel or other partner pixels are loading on the https://www.bathandbodyworks.com/ site:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/179a5ff853c1492f98d29c0bee45b2d7.png\" height=\"71.109\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/179a5ff853c1492f98d29c0bee45b2d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838365&amp;x-signature=DWVrgDZ0dqI1p0bpkl0qbZUQy4Q%3D\" width=\"375\"><p>However, in the Pixel's Events Manager - we appear to be still receiving Browser and Server events in a limited basis:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ca92e3240bee44d599b475cb0f2de429.png\" height=\"234.031\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ca92e3240bee44d599b475cb0f2de429.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838365&amp;x-signature=gXmJLOXC1i7uJOkVVVKKzPkuQhM%3D\" width=\"375\"><p>We've instructed them to reach out to their Tealium support reps to help determine the cause of the drop in signals. </p><p><br /></p><p>In the meantime, here are my results from the signals we have been able to gather from them:</p><p><br /></p><p>ViewContent:</p><ul><li>content_id OK</li><li>content_type OK</li><li>price OK</li><li>quantity OK</li><li>value OK</li><li>Hashed Email address when available OK</li><li>Deduplication rate: 94%</li><li>Ensure that escape slashes are removed from product information payloads for the Server side ViewContent Event</li></ul><p>AddtoCart:</p><ul><li>content_id OK</li><li>content_type OK</li><li>price OK</li><li>quantity OK</li><li>value OK</li><li>Hashed Email address when available OK</li><li>Deduplication rate: 98%</li><li>Ensure that escape slashes are removed from product information payloads for the Server side AddToCart Event</li></ul><p>CompletePayment:</p><ul><li>content_id OK</li><li>content_type OK</li><li>price OK</li><li>quantity OK</li><li>value OK</li><li>Hashed Email address when available OK</li><li>Deduplication rate: 85%</li><li>Ensure that escape slashes are removed from product information payloads for the Server side CompletePayment Event</li></ul><p><br /></p><p>Action items:</p><ul><li><strong>ViewContent, AddToCart, and CompletePayment Events API events:</strong></li><ul><li><span style=\"color: #333333;\"><strong>Please ensure that escape slashes are not present in Events API payloads. Escape slashes will prevent proper catalog matches and negatively impact VSA performance</strong></span></li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c1e377c877ca44fc9a8af3f07e87702f.png\" height=\"129.31\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1e377c877ca44fc9a8af3f07e87702f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838365&amp;x-signature=3gDUuqb8yv2HLzptV9any0ZtQ2U%3D\" width=\"375\"><ul><li><strong>Please ensure that both a Server side and eAPI CompletePayment event are arriving together consistently with the same Event ID to achieve a higher Deduplication rate. 85% is a satisfactory Dedupliation rate but it can be higher with ensuring proper event and event Id configuration.  Documentation for reference: https://business-api.tiktok.com/portal/docs?id=1771100965992450</strong></li><li><strong>Current Pixel issue referenced at the start of this ticket must be addressed before proceeding with any launches</strong></li></ul><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img>",
+          "content": "<p>Hi Monetha,</p><p>Happy to look into this for you! Just a heads up - I have been speaking with Gabor Petlyanszki about Bath and Body Work's Pixel issue. </p><p>As of 3/1/2024, the TikTok Pixel or other partner pixels are loading on the https://www.bathandbodyworks.com/ site:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/179a5ff853c1492f98d29c0bee45b2d7.png\" height=\"71.109\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/179a5ff853c1492f98d29c0bee45b2d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273882&amp;x-signature=O0G1xjnNzRCYn5KY6aMIEIqlovE%3D\" width=\"375\"><p>However, in the Pixel's Events Manager - we appear to be still receiving Browser and Server events in a limited basis:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ca92e3240bee44d599b475cb0f2de429.png\" height=\"234.031\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ca92e3240bee44d599b475cb0f2de429.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273882&amp;x-signature=xgXR3tNNtHmh%2Bik3y5NzsOQWv%2Fs%3D\" width=\"375\"><p>We've instructed them to reach out to their Tealium support reps to help determine the cause of the drop in signals. </p><p><br /></p><p>In the meantime, here are my results from the signals we have been able to gather from them:</p><p><br /></p><p>ViewContent:</p><ul><li>content_id OK</li><li>content_type OK</li><li>price OK</li><li>quantity OK</li><li>value OK</li><li>Hashed Email address when available OK</li><li>Deduplication rate: 94%</li><li>Ensure that escape slashes are removed from product information payloads for the Server side ViewContent Event</li></ul><p>AddtoCart:</p><ul><li>content_id OK</li><li>content_type OK</li><li>price OK</li><li>quantity OK</li><li>value OK</li><li>Hashed Email address when available OK</li><li>Deduplication rate: 98%</li><li>Ensure that escape slashes are removed from product information payloads for the Server side AddToCart Event</li></ul><p>CompletePayment:</p><ul><li>content_id OK</li><li>content_type OK</li><li>price OK</li><li>quantity OK</li><li>value OK</li><li>Hashed Email address when available OK</li><li>Deduplication rate: 85%</li><li>Ensure that escape slashes are removed from product information payloads for the Server side CompletePayment Event</li></ul><p><br /></p><p>Action items:</p><ul><li><strong>ViewContent, AddToCart, and CompletePayment Events API events:</strong></li><ul><li><span style=\"color: #333333;\"><strong>Please ensure that escape slashes are not present in Events API payloads. Escape slashes will prevent proper catalog matches and negatively impact VSA performance</strong></span></li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c1e377c877ca44fc9a8af3f07e87702f.png\" height=\"129.31\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1e377c877ca44fc9a8af3f07e87702f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273882&amp;x-signature=E3ONySyrleBRgWsg7acG6eCZJCc%3D\" width=\"375\"><ul><li><strong>Please ensure that both a Server side and eAPI CompletePayment event are arriving together consistently with the same Event ID to achieve a higher Deduplication rate. 85% is a satisfactory Dedupliation rate but it can be higher with ensuring proper event and event Id configuration.  Documentation for reference: https://business-api.tiktok.com/portal/docs?id=1771100965992450</strong></li><li><strong>Current Pixel issue referenced at the start of this ticket must be addressed before proceeding with any launches</strong></li></ul><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img>",
           "type": 6
         }
       ],
@@ -168,7 +168,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1457386,
+  "pending_time": 1892904,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -342,26 +342,26 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ca92e3240bee44d599b475cb0f2de429.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838365&x-signature=gXmJLOXC1i7uJOkVVVKKzPkuQhM%3D",
-          "file_name": "file_20240318_15_06_05_192496",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ca92e3240bee44d599b475cb0f2de429.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838365&x-signature=gXmJLOXC1i7uJOkVVVKKzPkuQhM%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/ca92e3240bee44d599b475cb0f2de429.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/179a5ff853c1492f98d29c0bee45b2d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838365&x-signature=DWVrgDZ0dqI1p0bpkl0qbZUQy4Q%3D",
-          "file_name": "file_20240318_15_06_05_192569",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/179a5ff853c1492f98d29c0bee45b2d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838365&x-signature=DWVrgDZ0dqI1p0bpkl0qbZUQy4Q%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/179a5ff853c1492f98d29c0bee45b2d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273882&x-signature=O0G1xjnNzRCYn5KY6aMIEIqlovE%3D",
+          "file_name": "file_20240323_16_04_43_011756",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/179a5ff853c1492f98d29c0bee45b2d7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273882&x-signature=O0G1xjnNzRCYn5KY6aMIEIqlovE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/179a5ff853c1492f98d29c0bee45b2d7.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1e377c877ca44fc9a8af3f07e87702f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838365&x-signature=3gDUuqb8yv2HLzptV9any0ZtQ2U%3D",
-          "file_name": "file_20240318_15_06_05_192586",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1e377c877ca44fc9a8af3f07e87702f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838365&x-signature=3gDUuqb8yv2HLzptV9any0ZtQ2U%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1e377c877ca44fc9a8af3f07e87702f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273882&x-signature=E3ONySyrleBRgWsg7acG6eCZJCc%3D",
+          "file_name": "file_20240323_16_04_43_011888",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1e377c877ca44fc9a8af3f07e87702f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273882&x-signature=E3ONySyrleBRgWsg7acG6eCZJCc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c1e377c877ca44fc9a8af3f07e87702f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ca92e3240bee44d599b475cb0f2de429.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273882&x-signature=xgXR3tNNtHmh%2Bik3y5NzsOQWv%2Fs%3D",
+          "file_name": "file_20240323_16_04_43_011907",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ca92e3240bee44d599b475cb0f2de429.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273882&x-signature=xgXR3tNNtHmh%2Bik3y5NzsOQWv%2Fs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ca92e3240bee44d599b475cb0f2de429.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

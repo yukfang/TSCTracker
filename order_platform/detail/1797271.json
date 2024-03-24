@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497211543601",
-  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_22ca50ed-6326-411c-841f-fa3ca409b5hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0091_b18b114f-85bf-4ec2-abea-d57b30980dhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Murugan Chellappan",
   "create_time": 1704685969,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Gabe,</p><p><br /></p><p>Thanks for raising the request. </p><p><br /></p><p>Upon checking at the backend, it looks like they are using the wrong APP ID. The below APP ID is what integrated within the MMP platform.</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1894b68de364488eb40c26b53b3212ca.png\" height=\"304.191\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1894b68de364488eb40c26b53b3212ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833218&amp;x-signature=qNFx4SiayA5mZTCcywg3GCgJ8xI%3D\" width=\"375\"><p><br /></p><p>However, the correct Tiktok App ID is 7317408978210717698. Kindly ask them to update the APP ID to the correct one. ( They can refer to this document for adding the APP ID : <a href=\"https://ads.tiktok.com/help/article?aid=10001060\" target=\"_blank\">https://ads.tiktok.com/help/article?aid=10001060</a> )</p><p><br /></p><p>Thanks,</p><p>Murugan C</p></img>",
+          "content": "<p>Hi Gabe,</p><p><br /></p><p>Thanks for raising the request. </p><p><br /></p><p>Upon checking at the backend, it looks like they are using the wrong APP ID. The below APP ID is what integrated within the MMP platform.</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1894b68de364488eb40c26b53b3212ca.png\" height=\"304.191\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1894b68de364488eb40c26b53b3212ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272178&amp;x-signature=6ELvAE16lS3d0atwW7JvbofzHk8%3D\" width=\"375\"><p><br /></p><p>However, the correct Tiktok App ID is 7317408978210717698. Kindly ask them to update the APP ID to the correct one. ( They can refer to this document for adding the APP ID : <a href=\"https://ads.tiktok.com/help/article?aid=10001060\" target=\"_blank\">https://ads.tiktok.com/help/article?aid=10001060</a> )</p><p><br /></p><p>Thanks,</p><p>Murugan C</p></img>",
           "type": 6
         }
       ],
@@ -218,7 +218,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 5988552,
+  "pending_time": 6427512,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -394,15 +394,15 @@
         {
           "file_type": "png",
           "file_name": "screenshot-20240108-145231.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e72cbfdc24444f68898e6b5d315bf614.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833218&x-signature=SRklmm6siE5xrntMfy7bpjaFNf0%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e72cbfdc24444f68898e6b5d315bf614.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272178&x-signature=hvp4LXqAD5ITy%2B7ovWADTQfbedM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e72cbfdc24444f68898e6b5d315bf614.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e72cbfdc24444f68898e6b5d315bf614.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833218&x-signature=SRklmm6siE5xrntMfy7bpjaFNf0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e72cbfdc24444f68898e6b5d315bf614.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272178&x-signature=hvp4LXqAD5ITy%2B7ovWADTQfbedM%3D",
           "size": 126123
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1894b68de364488eb40c26b53b3212ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833218&x-signature=qNFx4SiayA5mZTCcywg3GCgJ8xI%3D",
-          "file_name": "file_20240318_13_40_18_915509",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1894b68de364488eb40c26b53b3212ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833218&x-signature=qNFx4SiayA5mZTCcywg3GCgJ8xI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1894b68de364488eb40c26b53b3212ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272178&x-signature=6ELvAE16lS3d0atwW7JvbofzHk8%3D",
+          "file_name": "file_20240323_15_36_18_981992",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1894b68de364488eb40c26b53b3212ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272178&x-signature=6ELvAE16lS3d0atwW7JvbofzHk8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/1894b68de364488eb40c26b53b3212ca.png",
           "file_type": "jpeg",
           "biz_type": 2

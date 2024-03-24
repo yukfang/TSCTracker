@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1709055078,
   "deadline": 0,
@@ -233,7 +233,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/3c52b2b5-af16-44b6-b44a-5dfe9da1ae8g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/3c52b2b5-af16-44b6-b44a-5dfe9da1ae8g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 6,
   "current_role": null,
@@ -415,7 +415,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 940580,
+  "pending_time": 1376096,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -599,17 +599,17 @@
         {
           "file_type": "xlsx",
           "file_name": "Pixel Implementation Request_HGSW_TikTok_2024.xlsx",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIhlCeLAEWFFtGHEygvI3uUA1x7xDBA9UfbAFQ.xlsx?lk3s=cbe26b3a&x-expires=4832838293&x-signature=kNMfyKqkfE6sTBGLbCinMxiUcmU%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIhlCeLAEWFFtGHEygvI3uUA1x7xDBA9UfbAFQ.xlsx?lk3s=cbe26b3a&x-expires=4833273808&x-signature=Y2QKcpM3V6M7jBUJz9zFbTuVADo%3D",
           "file_key": "tos-alisg-v-90231e-sg/oIhlCeLAEWFFtGHEygvI3uUA1x7xDBA9UfbAFQ.xlsx",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIhlCeLAEWFFtGHEygvI3uUA1x7xDBA9UfbAFQ.xlsx?lk3s=cbe26b3a&x-expires=4832838293&x-signature=kNMfyKqkfE6sTBGLbCinMxiUcmU%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIhlCeLAEWFFtGHEygvI3uUA1x7xDBA9UfbAFQ.xlsx?lk3s=cbe26b3a&x-expires=4833273808&x-signature=Y2QKcpM3V6M7jBUJz9zFbTuVADo%3D",
           "size": 16906
         },
         {
           "file_type": "xlsx",
           "file_name": "Pixel Implementation Request_Valspar_TikTok_2024.xlsx",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYIn21ClV3eHxFnwqaGDFgAUQ2BfEd3AgAAvEh.xlsx?lk3s=cbe26b3a&x-expires=4832838293&x-signature=eHsMfFEYZ3Tn4QnstJf3W6vHzWc%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYIn21ClV3eHxFnwqaGDFgAUQ2BfEd3AgAAvEh.xlsx?lk3s=cbe26b3a&x-expires=4833273808&x-signature=b1oouTsS9x4U2Ra7xwg%2BGk0mK7o%3D",
           "file_key": "tos-alisg-v-90231e-sg/oYIn21ClV3eHxFnwqaGDFgAUQ2BfEd3AgAAvEh.xlsx",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYIn21ClV3eHxFnwqaGDFgAUQ2BfEd3AgAAvEh.xlsx?lk3s=cbe26b3a&x-expires=4832838293&x-signature=eHsMfFEYZ3Tn4QnstJf3W6vHzWc%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYIn21ClV3eHxFnwqaGDFgAUQ2BfEd3AgAAvEh.xlsx?lk3s=cbe26b3a&x-expires=4833273808&x-signature=b1oouTsS9x4U2Ra7xwg%2BGk0mK7o%3D",
           "size": 16952
         }
       ],

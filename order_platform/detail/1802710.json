@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>다린님 안녕하세요~</p><p>일단 문의주신 진단 내역 중 event_id를 제외한 나머지는, 진단일을 보시면 몇개월 전이기 때문에 Dismiss를 눌러서 제거해주셔도 됩니다.</p><p>event_id (중복제거처리)의 경우 우려되기는 합니다만, 현재 추이를 보니 1월 7일까지는 크게 이상이 없고 1월 8일부터 중복제거처리가 잘 되지 않는 것으로 보아 단순한 딜레이가 아닌가 싶습니다.</p><p>만약 내일이나 모레 다시 확인하셔서 첨부 스크린샷의 good 부분처럼 색상이 나타난다면 event_id 에러도 무시해주셔도 됩니다.</p><img alt=\"Screenshot 2024-01-10 at 12.05.57.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7f604144812b42d4a6e44be36eba0e8e.png\" height=\"130.411\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f604144812b42d4a6e44be36eba0e8e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833246&amp;x-signature=G6iJgYuVh6Gmw3msApVFeSnGTPg%3D\" width=\"375\" />",
+          "content": "<p>다린님 안녕하세요~</p><p>일단 문의주신 진단 내역 중 event_id를 제외한 나머지는, 진단일을 보시면 몇개월 전이기 때문에 Dismiss를 눌러서 제거해주셔도 됩니다.</p><p>event_id (중복제거처리)의 경우 우려되기는 합니다만, 현재 추이를 보니 1월 7일까지는 크게 이상이 없고 1월 8일부터 중복제거처리가 잘 되지 않는 것으로 보아 단순한 딜레이가 아닌가 싶습니다.</p><p>만약 내일이나 모레 다시 확인하셔서 첨부 스크린샷의 good 부분처럼 색상이 나타난다면 event_id 에러도 무시해주셔도 됩니다.</p><img alt=\"Screenshot 2024-01-10 at 12.05.57.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7f604144812b42d4a6e44be36eba0e8e.png\" height=\"130.411\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f604144812b42d4a6e44be36eba0e8e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272828&amp;x-signature=rNP5WFifeyPsrOJuxY1PphGxhkw%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -328,7 +328,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 5903525,
+  "pending_time": 6343108,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -504,31 +504,31 @@
         {
           "file_type": "png",
           "file_name": "event manager.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b5cbcb91a9d450f81102fbf35199ef7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=7beQYRK8nb8xfX8y5DbOtxAeBKM%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b5cbcb91a9d450f81102fbf35199ef7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272828&x-signature=LScuAhJX%2BLy886XjUkkCqPbcB5Y%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4b5cbcb91a9d450f81102fbf35199ef7.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b5cbcb91a9d450f81102fbf35199ef7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=7beQYRK8nb8xfX8y5DbOtxAeBKM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b5cbcb91a9d450f81102fbf35199ef7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272828&x-signature=LScuAhJX%2BLy886XjUkkCqPbcB5Y%3D",
           "size": 185193
         },
         {
           "file_type": "jpg",
           "file_name": "script.jpg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a97a78180a264bf581ba9970eefeaad6.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=ZdjdD%2BepEoXetjXTizx9FMH62wk%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a97a78180a264bf581ba9970eefeaad6.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272828&x-signature=6yQHZfwXacZn9z2iuEynZfxe680%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/a97a78180a264bf581ba9970eefeaad6.jpg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a97a78180a264bf581ba9970eefeaad6.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=ZdjdD%2BepEoXetjXTizx9FMH62wk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a97a78180a264bf581ba9970eefeaad6.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272828&x-signature=6yQHZfwXacZn9z2iuEynZfxe680%3D",
           "size": 294791
         },
         {
           "file_type": "jpg",
           "file_name": "helper.jpg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/60c0787818e24084877bf40690aa7df1.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=5Vp79FswZVjwBEp3li4DRa0D7WU%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/60c0787818e24084877bf40690aa7df1.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272828&x-signature=1ee90Y1A%2FfWcDPfTu7etdjSSUko%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/60c0787818e24084877bf40690aa7df1.jpg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/60c0787818e24084877bf40690aa7df1.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=5Vp79FswZVjwBEp3li4DRa0D7WU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/60c0787818e24084877bf40690aa7df1.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272828&x-signature=1ee90Y1A%2FfWcDPfTu7etdjSSUko%3D",
           "size": 82355
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f604144812b42d4a6e44be36eba0e8e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=G6iJgYuVh6Gmw3msApVFeSnGTPg%3D",
-          "file_name": "file_20240318_13_40_46_522871",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f604144812b42d4a6e44be36eba0e8e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833246&x-signature=G6iJgYuVh6Gmw3msApVFeSnGTPg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f604144812b42d4a6e44be36eba0e8e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272828&x-signature=rNP5WFifeyPsrOJuxY1PphGxhkw%3D",
+          "file_name": "file_20240323_15_47_08_631142",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f604144812b42d4a6e44be36eba0e8e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272828&x-signature=rNP5WFifeyPsrOJuxY1PphGxhkw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7f604144812b42d4a6e44be36eba0e8e.png",
           "file_type": "jpeg",
           "biz_type": 2

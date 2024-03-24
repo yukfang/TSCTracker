@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1709835841,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Jordy,</p><p><br /></p><p>I am seeing good performance for the Server-side events since implementation:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4c4af07d60744fddb41ab69cf50d70d9.png\" height=\"204.012\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4c4af07d60744fddb41ab69cf50d70d9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838510&amp;x-signature=nSVtLoT8aH2rWkRy%2FrAuaTKRg7g%3D\" width=\"375\"><p>the pixel is not firing because they removed it. You are not able to see server-side events in the browser. Where are they getting the information that their performance is declining? I do not see that in the data. I will attach a report of 5000 events I was able to pull. </p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Jordy,</p><p><br /></p><p>I am seeing good performance for the Server-side events since implementation:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4c4af07d60744fddb41ab69cf50d70d9.png\" height=\"204.012\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4c4af07d60744fddb41ab69cf50d70d9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274037&amp;x-signature=q%2BXHqi7dTglj8yzYHcc2D6ZSfFU%3D\" width=\"375\"><p>the pixel is not firing because they removed it. You are not able to see server-side events in the browser. Where are they getting the information that their performance is declining? I do not see that in the data. I will attach a report of 5000 events I was able to pull. </p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         },
         {
@@ -41,9 +41,9 @@
             {
               "file_type": "xlsx",
               "file_name": "Redbubble All Events 03-07-24.xlsx",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYzApBfEpg6Tl4kQyAC01wEtAiEjFeUADiDjPq.xlsx?lk3s=cbe26b3a&x-expires=4832838510&x-signature=Crhp8jsrVbgdFlkQPaHbZxoUaO8%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYzApBfEpg6Tl4kQyAC01wEtAiEjFeUADiDjPq.xlsx?lk3s=cbe26b3a&x-expires=4833274037&x-signature=NynSA%2BXVIoPBO7vEEA63B5pICJQ%3D",
               "file_key": "tos-alisg-v-90231e-sg/oYzApBfEpg6Tl4kQyAC01wEtAiEjFeUADiDjPq.xlsx",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYzApBfEpg6Tl4kQyAC01wEtAiEjFeUADiDjPq.xlsx?lk3s=cbe26b3a&x-expires=4832838510&x-signature=Crhp8jsrVbgdFlkQPaHbZxoUaO8%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYzApBfEpg6Tl4kQyAC01wEtAiEjFeUADiDjPq.xlsx?lk3s=cbe26b3a&x-expires=4833274037&x-signature=NynSA%2BXVIoPBO7vEEA63B5pICJQ%3D",
               "biz_type": 2,
               "size": 1735828
             }
@@ -76,7 +76,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Heidi, </p><p><br /></p><p>Thank you for the response! Their ROAS has steadily been declining since this change (no surprise). They just informed me that they decided to remove the pixel on 2/15. I sent them all of the info on why they need to have the pixel in place as a performance advertiser and they had the following questions. mind helping me answer? appreciate your help! </p><p><br /></p><ol><li><span style=\"color: #222222;\">Do you have any guidance as to why the event match quality for the Complete Payment event is so poor when we are sending a hashed email for all of these events? </span></li><li><span style=\"color: #222222;\">Is there any way to test this quantitatively without relying on individual event debug testing? </span></li><li><span style=\"color: #222222;\">Is it possible to view a longer lookback window than one month in the Events Manager to see how historical match rates have improved/declined over time?</span></li></ol><img alt=\"image (9).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b9a61714078b424b8c01cb59fa48a11d.png\" height=\"446.016\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9a61714078b424b8c01cb59fa48a11d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838510&amp;x-signature=l3shVlx6G74UbHTDMuYVnUHxMeM%3D\" width=\"375\" />",
+          "content": "<p>Hi Heidi, </p><p><br /></p><p>Thank you for the response! Their ROAS has steadily been declining since this change (no surprise). They just informed me that they decided to remove the pixel on 2/15. I sent them all of the info on why they need to have the pixel in place as a performance advertiser and they had the following questions. mind helping me answer? appreciate your help! </p><p><br /></p><ol><li><span style=\"color: #222222;\">Do you have any guidance as to why the event match quality for the Complete Payment event is so poor when we are sending a hashed email for all of these events? </span></li><li><span style=\"color: #222222;\">Is there any way to test this quantitatively without relying on individual event debug testing? </span></li><li><span style=\"color: #222222;\">Is it possible to view a longer lookback window than one month in the Events Manager to see how historical match rates have improved/declined over time?</span></li></ol><img alt=\"image (9).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b9a61714078b424b8c01cb59fa48a11d.png\" height=\"446.016\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9a61714078b424b8c01cb59fa48a11d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274037&amp;x-signature=tRZl7c%2BXMt3m25JTc2%2BCfisMIvs%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -373,7 +373,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 836523,
+  "pending_time": 1272050,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -549,23 +549,23 @@
         {
           "file_type": "png",
           "file_name": "image (8).png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/51c30e2607ef4a2e80eba6651f01bc64.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838510&x-signature=0o4hb11BS5EbGya2BNLvbx3dN1o%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/51c30e2607ef4a2e80eba6651f01bc64.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274037&x-signature=oYLRq%2FH2NxY%2Bf%2FRue%2BoJCMtEY1Y%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/51c30e2607ef4a2e80eba6651f01bc64.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/51c30e2607ef4a2e80eba6651f01bc64.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838510&x-signature=0o4hb11BS5EbGya2BNLvbx3dN1o%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/51c30e2607ef4a2e80eba6651f01bc64.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274037&x-signature=oYLRq%2FH2NxY%2Bf%2FRue%2BoJCMtEY1Y%3D",
           "size": 153412
         },
         {
           "file_type": "png",
           "file_name": "image (7).png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2076759d942946f79fbfddb5ca6ba09b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838510&x-signature=uNOkmoTazkjYdkILp6aQKbabDOA%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2076759d942946f79fbfddb5ca6ba09b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274037&x-signature=SItgWNMysHimbCd3GU%2BAFRT%2BXuI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2076759d942946f79fbfddb5ca6ba09b.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2076759d942946f79fbfddb5ca6ba09b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838510&x-signature=uNOkmoTazkjYdkILp6aQKbabDOA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2076759d942946f79fbfddb5ca6ba09b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274037&x-signature=SItgWNMysHimbCd3GU%2BAFRT%2BXuI%3D",
           "size": 127079
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4c4af07d60744fddb41ab69cf50d70d9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838510&x-signature=nSVtLoT8aH2rWkRy%2FrAuaTKRg7g%3D",
-          "file_name": "file_20240318_15_08_30_769624",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4c4af07d60744fddb41ab69cf50d70d9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838510&x-signature=nSVtLoT8aH2rWkRy%2FrAuaTKRg7g%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4c4af07d60744fddb41ab69cf50d70d9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274037&x-signature=q%2BXHqi7dTglj8yzYHcc2D6ZSfFU%3D",
+          "file_name": "file_20240323_16_07_17_743264",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4c4af07d60744fddb41ab69cf50d70d9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274037&x-signature=q%2BXHqi7dTglj8yzYHcc2D6ZSfFU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4c4af07d60744fddb41ab69cf50d70d9.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -573,16 +573,16 @@
         {
           "file_type": "xlsx",
           "file_name": "Redbubble All Events 03-07-24.xlsx",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYzApBfEpg6Tl4kQyAC01wEtAiEjFeUADiDjPq.xlsx?lk3s=cbe26b3a&x-expires=4832838510&x-signature=Crhp8jsrVbgdFlkQPaHbZxoUaO8%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYzApBfEpg6Tl4kQyAC01wEtAiEjFeUADiDjPq.xlsx?lk3s=cbe26b3a&x-expires=4833274037&x-signature=NynSA%2BXVIoPBO7vEEA63B5pICJQ%3D",
           "file_key": "tos-alisg-v-90231e-sg/oYzApBfEpg6Tl4kQyAC01wEtAiEjFeUADiDjPq.xlsx",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYzApBfEpg6Tl4kQyAC01wEtAiEjFeUADiDjPq.xlsx?lk3s=cbe26b3a&x-expires=4832838510&x-signature=Crhp8jsrVbgdFlkQPaHbZxoUaO8%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYzApBfEpg6Tl4kQyAC01wEtAiEjFeUADiDjPq.xlsx?lk3s=cbe26b3a&x-expires=4833274037&x-signature=NynSA%2BXVIoPBO7vEEA63B5pICJQ%3D",
           "biz_type": 2,
           "size": 1735828
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9a61714078b424b8c01cb59fa48a11d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838510&x-signature=l3shVlx6G74UbHTDMuYVnUHxMeM%3D",
-          "file_name": "file_20240318_15_08_30_824943",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9a61714078b424b8c01cb59fa48a11d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838510&x-signature=l3shVlx6G74UbHTDMuYVnUHxMeM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9a61714078b424b8c01cb59fa48a11d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274037&x-signature=tRZl7c%2BXMt3m25JTc2%2BCfisMIvs%3D",
+          "file_name": "file_20240323_16_07_17_812839",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9a61714078b424b8c01cb59fa48a11d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274037&x-signature=tRZl7c%2BXMt3m25JTc2%2BCfisMIvs%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b9a61714078b424b8c01cb59fa48a11d.png",
           "file_type": "jpeg",
           "biz_type": 2

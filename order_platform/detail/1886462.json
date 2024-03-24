@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/2aef10da-478a-4d3d-87a3-fbf45239a55g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/2aef10da-478a-4d3d-87a3-fbf45239a55g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Jason Schnack",
   "create_time": 1708385639,
   "deadline": 0,
@@ -140,7 +140,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2388477,
+  "pending_time": 2823987,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -316,9 +316,9 @@
         {
           "file_type": "csv",
           "file_name": "tiktok-24-01-14.csv",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ocTNAYFdUAUAqlci15wZskBlAVlDBPi7PAEDw.csv?lk3s=cbe26b3a&x-expires=4832838119&x-signature=qjpxY51Sr9xv7IrAMzhdRR5UBLE%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ocTNAYFdUAUAqlci15wZskBlAVlDBPi7PAEDw.csv?lk3s=cbe26b3a&x-expires=4833273628&x-signature=GK%2FSIKO1IqxqK0Wkcr23FH5H7oo%3D",
           "file_key": "tos-alisg-v-90231e-sg/ocTNAYFdUAUAqlci15wZskBlAVlDBPi7PAEDw.csv",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ocTNAYFdUAUAqlci15wZskBlAVlDBPi7PAEDw.csv?lk3s=cbe26b3a&x-expires=4832838119&x-signature=qjpxY51Sr9xv7IrAMzhdRR5UBLE%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ocTNAYFdUAUAqlci15wZskBlAVlDBPi7PAEDw.csv?lk3s=cbe26b3a&x-expires=4833273628&x-signature=GK%2FSIKO1IqxqK0Wkcr23FH5H7oo%3D",
           "size": 20441201
         }
       ],

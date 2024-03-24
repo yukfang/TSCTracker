@@ -1,8 +1,8 @@
 const fs = require('fs');
 const Koa = require('koa');
 const koaApp = new Koa();
-const getTicketInfo = require('./getTicketInfo');
-const refreshTicketInfo = require('./refreshTicketInfo');
+const startRefresh = require('./refreshTicketABC')
+const getTicketInfo = require(`./getTicketInfo`)
 
 // logger
 koaApp.use(async (ctx, next) => {
@@ -27,13 +27,13 @@ koaApp.use(async (ctx, next) => {
     } else if (ctx.path === '/') {
         if(ctx.method === 'POST') {
             console.log('Timer Trigger to refresh data...')
-            await refreshTicketInfo();
+            await startRefresh();
             ctx.body = 'OK';
         } else {
             ctx.body = fs.readFileSync('index.html', {encoding:'utf8', flag:'r'});
         }
     } else if(ctx.path === '/refresh'){ 
-        ctx.body = await refreshTicketInfo(); 
+        ctx.body = await startRefresh(); 
     } else {
         // console.log('falls into here as ctx/path = ' + ctx.path)
         // ctx.throw(415, 'images only!');
@@ -55,7 +55,7 @@ async function init() {
             fs.mkdirSync(`../order_platform/detail`);
         }
         if (!fs.existsSync(`../order_platform/tags`)){
-            fs.mkdirSync(`../order_platform/tags`);
+            fs.mkdirSync(`../order_platform/tag`);
         }
     }
 
@@ -64,6 +64,22 @@ async function init() {
     {
         const src = `./order_platform/order_list.json`
         const dst = `../order_platform/order_list.json`
+        fs.copyFileSync(src, dst)
+    }
+
+    /** Copy snapsht file */
+    if(process.env.PLATFORM == 'FAAS')
+    {
+        const src = `./order_platform/snapshot.json`
+        const dst = `../order_platform/snapshot.json`
+        fs.copyFileSync(src, dst)
+    }
+
+    /** Copy tag index file */
+    if(process.env.PLATFORM == 'FAAS')
+    {
+        const src = `./order_platform/tag_index.json`
+        const dst = `../order_platform/tag_index.json`
         fs.copyFileSync(src, dst)
     }
 
@@ -81,8 +97,8 @@ async function init() {
     /** Copy order tags folder */
     if(process.env.PLATFORM == 'FAAS')
     {
-        const src = `./order_platform/tags`
-        const dst = `../order_platform/tags`
+        const src = `./order_platform/tag`
+        const dst = `../order_platform/tag`
 
         fs.readdirSync(src).forEach(file => {
             fs.copyFileSync(`${src}/${file}`, `${dst}/${file}`)
@@ -92,11 +108,10 @@ async function init() {
     /** Auto Refresh Every x Minutes */
     if(process.env.PLATFORM == 'FAAS') {
         console.log("Init FAAS ENV ....");
-        setTimeout(refreshTicketInfo,   1000 * 60 * 20)
+        startRefresh()
     } else {
         console.log("Init Local ENV ....");
-        refreshTicketInfo()
-        setTimeout(refreshTicketInfo,   1000 * 60 * 5)
+        startRefresh()
     }
 }
 

@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Alia,</p><p><br /></p><p>So from lookin gat their feed file it seems that they have something like this for additional_image_link:</p><p>https://www.garageclothing.com/dw/image/v2/BDRP_PRD/on/demandware.static/-/Sites-root_garage_catalog/default/dw988fefb3/images/100061751/100061751_06V_alt1_1920x2880.jpg?sw=1200&amp;sh=1800,https://www.garageclothing.com/dw/image/v2/BDRP_PRD/on/demandware.static/-/Sites-root_garage_catalog/default/dwc433292d/images/100061751/100061751_06V_alt2_1920x2880.jpg?sw=1200&amp;sh=1800,https://www.garageclothing.com/dw/image/v2/BDRP_PRD/on/demandware.static/-/Sites-root_garage_catalog/default/dw1073b06e/images/100061751/100061751_06V_alt3_1920x2880.jpg?sw=1200&amp;sh=1800</p><p><br /></p><p>I think when our catalog tries to parse it, it isn't correctly formatted. They can try adding \"\" around each URL and then separating them with a comma, e.g.</p><p><br /></p><p>\"www.url1.com\",\"www.url2.com\",\"www.url3.com\"</p><p><br /></p><p>That seems to be what the documentation is indicating: </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7d154b1730e949afaa647e8e3d5de7f7.png\" height=\"200.964\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d154b1730e949afaa647e8e3d5de7f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838379&amp;x-signature=FD8dVdWxBT1Y8N6Zz6RMTySyX6w%3D\" width=\"375\"><p>You can also check with TPS as they should be more well versed in troubleshooting catalog feed issues. </p><p><br /></p><p>Thomas</p></img>",
+          "content": "<p>Hi Alia,</p><p><br /></p><p>So from lookin gat their feed file it seems that they have something like this for additional_image_link:</p><p>https://www.garageclothing.com/dw/image/v2/BDRP_PRD/on/demandware.static/-/Sites-root_garage_catalog/default/dw988fefb3/images/100061751/100061751_06V_alt1_1920x2880.jpg?sw=1200&amp;sh=1800,https://www.garageclothing.com/dw/image/v2/BDRP_PRD/on/demandware.static/-/Sites-root_garage_catalog/default/dwc433292d/images/100061751/100061751_06V_alt2_1920x2880.jpg?sw=1200&amp;sh=1800,https://www.garageclothing.com/dw/image/v2/BDRP_PRD/on/demandware.static/-/Sites-root_garage_catalog/default/dw1073b06e/images/100061751/100061751_06V_alt3_1920x2880.jpg?sw=1200&amp;sh=1800</p><p><br /></p><p>I think when our catalog tries to parse it, it isn't correctly formatted. They can try adding \"\" around each URL and then separating them with a comma, e.g.</p><p><br /></p><p>\"www.url1.com\",\"www.url2.com\",\"www.url3.com\"</p><p><br /></p><p>That seems to be what the documentation is indicating: </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7d154b1730e949afaa647e8e3d5de7f7.png\" height=\"200.964\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d154b1730e949afaa647e8e3d5de7f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273899&amp;x-signature=o8mfSGad3YjeuaFa5SlxVBviawI%3D\" width=\"375\"><p>You can also check with TPS as they should be more well versed in troubleshooting catalog feed issues. </p><p><br /></p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -104,7 +104,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1449157,
+  "pending_time": 1884676,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -243,23 +243,23 @@
         {
           "file_type": "png",
           "file_name": "image.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/411f7f5234e84e2980c9138e996a443c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838379&x-signature=ql9LVEBDzrJ8bY4DvpoC4RIv%2F2o%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/411f7f5234e84e2980c9138e996a443c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273899&x-signature=L1UEywl1wAhJxqldmcSXZDKQMjM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/411f7f5234e84e2980c9138e996a443c.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/411f7f5234e84e2980c9138e996a443c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838379&x-signature=ql9LVEBDzrJ8bY4DvpoC4RIv%2F2o%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/411f7f5234e84e2980c9138e996a443c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273899&x-signature=L1UEywl1wAhJxqldmcSXZDKQMjM%3D",
           "size": 677531
         },
         {
           "file_type": "png",
           "file_name": "image copy.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/014d7770b42f4e39973514692552cd62.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838379&x-signature=XGzAXSLILZyD4Q0OuJbCvENPL1Y%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/014d7770b42f4e39973514692552cd62.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273899&x-signature=t1AzjiJ4WiNlmL22NGZ6hw0SmTw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/014d7770b42f4e39973514692552cd62.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/014d7770b42f4e39973514692552cd62.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838379&x-signature=XGzAXSLILZyD4Q0OuJbCvENPL1Y%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/014d7770b42f4e39973514692552cd62.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273899&x-signature=t1AzjiJ4WiNlmL22NGZ6hw0SmTw%3D",
           "size": 399535
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d154b1730e949afaa647e8e3d5de7f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838379&x-signature=FD8dVdWxBT1Y8N6Zz6RMTySyX6w%3D",
-          "file_name": "file_20240318_15_06_19_989409",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d154b1730e949afaa647e8e3d5de7f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838379&x-signature=FD8dVdWxBT1Y8N6Zz6RMTySyX6w%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d154b1730e949afaa647e8e3d5de7f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273899&x-signature=o8mfSGad3YjeuaFa5SlxVBviawI%3D",
+          "file_name": "file_20240323_16_04_59_457031",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d154b1730e949afaa647e8e3d5de7f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273899&x-signature=o8mfSGad3YjeuaFa5SlxVBviawI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7d154b1730e949afaa647e8e3d5de7f7.png",
           "file_type": "jpeg",
           "biz_type": 2

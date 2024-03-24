@@ -5,8 +5,8 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497211543601",
-  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/2aef10da-478a-4d3d-87a3-fbf45239a55g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
-  "follower": "Jason Schnack",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
   "create_time": 1710515494,
   "deadline": 0,
   "archive_board_id": 1705151646989665,
@@ -155,6 +155,333 @@
       ],
       "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/dfa7fed6-ebe6-496d-95e0-5d89ddbb1d8g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710862296,
+      "auto_close_hit": 0,
+      "id": 7348096531838386000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Elizabeth Sam",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6981324107837375490",
+      "name": "Elizabeth Sam",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Jason!&nbsp;</p><p><br></p><p>Update here from the agency team. They all have attempted to toggle on this SAN button, and although they all have admin access are unable to do so. Is this something we can do on our end? I am also unable to select TikTok SAN&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/dfa7fed6-ebe6-496d-95e0-5d89ddbb1d8g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710862461,
+      "auto_close_hit": 0,
+      "id": 7348096820494598000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Elizabeth Sam",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6981324107837375490",
+      "name": "Elizabeth Sam",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<img alt=\"Screenshot 2024-03-19 at 11.27.41 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a70782dbcb09486da0836558cacb0546.png\" height=\"253.967\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a70782dbcb09486da0836558cacb0546.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274234&amp;x-signature=GqOdPXsSX9eXcbXHWY8yimUtrE0%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/dfa7fed6-ebe6-496d-95e0-5d89ddbb1d8g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710862574,
+      "auto_close_hit": 0,
+      "id": 7348098058757931000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jason Schnack",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6802982804659569670",
+      "name": "Jason Schnack",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Elizabeth - digging in here! Will have some answers for you later today.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/2aef10da-478a-4d3d-87a3-fbf45239a55g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710862654,
+      "auto_close_hit": 0,
+      "id": 7348098509121356000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Elizabeth Sam",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6981324107837375490",
+      "name": "Elizabeth Sam",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Awesome thanks so much Jason for your help!!&nbsp;?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/dfa7fed6-ebe6-496d-95e0-5d89ddbb1d8g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710886993,
+      "auto_close_hit": 0,
+      "id": 7348200837296030000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Jason Schnack",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6802982804659569670",
+      "name": "Jason Schnack",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Elizabeth - have some follow ups here. It sounds like we&#39;ll need to do an allowlist process as they&#39;re considered a new advertiser. That&#39;s why they&#39;re unable to click into those settings.</p><p><br></p><p>We&#39;ll need a screenshot of Partner Management page to ensure they&#39;ve set this up (screenshot attached of what that page looks like). We&#39;ll also want them to click &#34;all events&#34; to ensure we&#39;re also receiving unattributed data. This is in the &#34;postback config&#34; section of the event-level screenshot they sent.</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "branch partner management.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5197bc810f1642a19caef2dc3287bf5f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=JnbCbYhKkHLirOX6oP7UUNWfMcI%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/5197bc810f1642a19caef2dc3287bf5f.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5197bc810f1642a19caef2dc3287bf5f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=JnbCbYhKkHLirOX6oP7UUNWfMcI%3D",
+              "biz_type": 2,
+              "size": 117100
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/2aef10da-478a-4d3d-87a3-fbf45239a55g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710944922,
+      "auto_close_hit": 0,
+      "id": 7348451271197721000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Elizabeth Sam",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6981324107837375490",
+      "name": "Elizabeth Sam",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Got it! Getting those screenshots now. Appreciate you helping us get to the bottom of this!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/dfa7fed6-ebe6-496d-95e0-5d89ddbb1d8g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710947572,
+      "auto_close_hit": 0,
+      "id": 7348463000006722000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Elizabeth,</p><p>I'll be taking over for Jason here! It looks like they did send over screenshots - to verify, were the screenshots sent along with the ticket initially? </p><p>Regardless, would they be able to take a screenshot of what the \"Account Settings\" tab shows for the TikTok SAN integration?</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1618f318c229407daeff6bc0338fe085.png\" height=\"200.941\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1618f318c229407daeff6bc0338fe085.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274234&amp;x-signature=lpnHOA%2FfaxvJUY1GUrCfy31yM88%3D\" width=\"375\"><p>And if possible, would they be able to take a direct screenshot of the page instead of using a phone to take a picture of the screen?</p><p>Thanks!</p><p>Robbie</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710954579,
+      "auto_close_hit": 0,
+      "id": 7348493039175844000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Elizabeth Sam",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6981324107837375490",
+      "name": "Elizabeth Sam",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Robbie! Sharing through a note from the Branch MMP rep - to catch you up we&#39;re also working internally with our PSO support Maikao on this and are working on streamlining our client comms to avoid much more back and forth. It sounds like they are good to go from what their Branch rep shared so they should be cleared for the allowlist it sounds like. Wanted to run this by you as well.&nbsp;</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Screenshot 2024-03-20 at 1.07.45 PM.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8fb075e763f34d51955d6d108e3f0540.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=MsaNMM1aWHKfb4loQqYvUB24tHg%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/8fb075e763f34d51955d6d108e3f0540.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8fb075e763f34d51955d6d108e3f0540.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=MsaNMM1aWHKfb4loQqYvUB24tHg%3D",
+              "biz_type": 2,
+              "size": 261738
+            },
+            {
+              "file_type": "png",
+              "file_name": "Q97JbfXo3o9HCaxCfLxuZBt4sud.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9acd02f5b92a41e6a899e12b81645b58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=wZzrjJkmSs1Jz4kRISGc8RI%2F9bc%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/9acd02f5b92a41e6a899e12b81645b58.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9acd02f5b92a41e6a899e12b81645b58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=wZzrjJkmSs1Jz4kRISGc8RI%2F9bc%3D",
+              "biz_type": 2,
+              "size": 223386
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/dfa7fed6-ebe6-496d-95e0-5d89ddbb1d8g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710962095,
+      "auto_close_hit": 0,
+      "id": 7348524490080453000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Elizabeth,</p><p>Thanks for following up! And yes that looks perfect - it looks like they&#39;d have to be cleared for the allowlist at this point. If there is already a Lark group regarding this topic with Maikao, would it be possible to loop me in?</p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710962744,
+      "auto_close_hit": 0,
+      "id": 7348526608578855000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Elizabeth Sam",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6981324107837375490",
+      "name": "Elizabeth Sam",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Absolutely! I can loop you in now :)</p><p><br></p><p>Best,</p><p>Liz</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/dfa7fed6-ebe6-496d-95e0-5d89ddbb1d8g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -164,7 +491,7 @@
   "id": 1945453,
   "workflow_nodes": [],
   "board_id": 1705151646989665,
-  "employee_email": "jason.schnack@bytedance.com",
+  "employee_email": "robbie.santos@bytedance.com",
   "is_support_suggestion": 0,
   "title": "KFC MMP Setup Issue",
   "category_1_name": "Mobile Marketing Partner (MMP)",
@@ -182,7 +509,7 @@
   "fd_permission": 1,
   "status": 2,
   "business_data": [],
-  "update_time": 1710796831,
+  "update_time": 1710962743,
   "owner_name": "Elizabeth Sam",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -212,13 +539,13 @@
   "show_auto_assign": false,
   "is_overtime": 0,
   "creater_lark_name": "Elizabeth Sam",
-  "follow_employee_id": 9709099,
+  "follow_employee_id": 6713518,
   "is_order_top": 0,
   "urged": 0,
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 278249,
+  "pending_time": 248140,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -394,34 +721,77 @@
         {
           "file_type": "png",
           "file_name": "Tbb2PcyfjV.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83924bd8af064a6a96184d4d39b15122.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875817&x-signature=yUGv98OHhEE4nK5lSVB7uWhKBvI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83924bd8af064a6a96184d4d39b15122.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=ga5sjm4at1FqrJknl%2BL%2ByyRn63Q%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/83924bd8af064a6a96184d4d39b15122.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83924bd8af064a6a96184d4d39b15122.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875817&x-signature=yUGv98OHhEE4nK5lSVB7uWhKBvI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83924bd8af064a6a96184d4d39b15122.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=ga5sjm4at1FqrJknl%2BL%2ByyRn63Q%3D",
           "size": 123891
         },
         {
           "file_type": "png",
           "file_name": "73214940606__55DAA09F-DB31-4E38-9EA1-50ED16A2E971.fullsizerender.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/23df73a31b8e45c6a8f9df822be9305f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875817&x-signature=LTONjrE7lebymiCg0iTRtZazQSI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/23df73a31b8e45c6a8f9df822be9305f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=91bCW%2BQfiQHf4NG7nAHQrtuShwU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/23df73a31b8e45c6a8f9df822be9305f.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/23df73a31b8e45c6a8f9df822be9305f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875817&x-signature=LTONjrE7lebymiCg0iTRtZazQSI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/23df73a31b8e45c6a8f9df822be9305f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=91bCW%2BQfiQHf4NG7nAHQrtuShwU%3D",
           "size": 14447762
         },
         {
           "file_type": "png",
           "file_name": "73214942842__822387D1-C0FF-4D5E-8DF3-3CD261873931.fullsizerender.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cb4ffdeafa86410baceb796aca4ce09e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875817&x-signature=RDM33fOw1skZ8utSm%2Ftp9jJJBTE%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cb4ffdeafa86410baceb796aca4ce09e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=4D0%2BGT26JkWy4n9yUxh3mjhRZTc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/cb4ffdeafa86410baceb796aca4ce09e.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cb4ffdeafa86410baceb796aca4ce09e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875817&x-signature=RDM33fOw1skZ8utSm%2Ftp9jJJBTE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cb4ffdeafa86410baceb796aca4ce09e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=4D0%2BGT26JkWy4n9yUxh3mjhRZTc%3D",
           "size": 11605294
         },
         {
           "file_type": "png",
           "file_name": "73214437529__FE67EE63-D075-4793-B387-8BBF8E919EF5.fullsizerender.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6ddc6500948e42e8b024b66d3339fc40.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875817&x-signature=zJjgLkGbzjNhltTnFL4Yym%2B2vTQ%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6ddc6500948e42e8b024b66d3339fc40.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=eOQj5NfZjlnyS9HGV0d8VrHBWX8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/6ddc6500948e42e8b024b66d3339fc40.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6ddc6500948e42e8b024b66d3339fc40.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875817&x-signature=zJjgLkGbzjNhltTnFL4Yym%2B2vTQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6ddc6500948e42e8b024b66d3339fc40.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=eOQj5NfZjlnyS9HGV0d8VrHBWX8%3D",
           "size": 10648407
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a70782dbcb09486da0836558cacb0546.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=GqOdPXsSX9eXcbXHWY8yimUtrE0%3D",
+          "file_name": "file_20240323_16_10_34_512558",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a70782dbcb09486da0836558cacb0546.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=GqOdPXsSX9eXcbXHWY8yimUtrE0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a70782dbcb09486da0836558cacb0546.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "branch partner management.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5197bc810f1642a19caef2dc3287bf5f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=JnbCbYhKkHLirOX6oP7UUNWfMcI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5197bc810f1642a19caef2dc3287bf5f.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5197bc810f1642a19caef2dc3287bf5f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=JnbCbYhKkHLirOX6oP7UUNWfMcI%3D",
+          "biz_type": 2,
+          "size": 117100
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1618f318c229407daeff6bc0338fe085.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=lpnHOA%2FfaxvJUY1GUrCfy31yM88%3D",
+          "file_name": "file_20240323_16_10_34_686432",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1618f318c229407daeff6bc0338fe085.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=lpnHOA%2FfaxvJUY1GUrCfy31yM88%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1618f318c229407daeff6bc0338fe085.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-20 at 1.07.45 PM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8fb075e763f34d51955d6d108e3f0540.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=MsaNMM1aWHKfb4loQqYvUB24tHg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8fb075e763f34d51955d6d108e3f0540.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8fb075e763f34d51955d6d108e3f0540.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=MsaNMM1aWHKfb4loQqYvUB24tHg%3D",
+          "biz_type": 2,
+          "size": 261738
+        },
+        {
+          "file_type": "png",
+          "file_name": "Q97JbfXo3o9HCaxCfLxuZBt4sud.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9acd02f5b92a41e6a899e12b81645b58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=wZzrjJkmSs1Jz4kRISGc8RI%2F9bc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/9acd02f5b92a41e6a899e12b81645b58.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9acd02f5b92a41e6a899e12b81645b58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274234&x-signature=wZzrjJkmSs1Jz4kRISGc8RI%2F9bc%3D",
+          "biz_type": 2,
+          "size": 223386
         }
       ],
       "valid": true,

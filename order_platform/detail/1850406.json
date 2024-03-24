@@ -93,7 +93,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hola Ale,</p><p>Estuve revisando la página de este cliente y al parecer la razón por la cual nuestro pixel no carga es porque tienen una <span style=\"color: #202124;\">política de seguridad de contenidos - </span>Content Security Policy (CSP) - en su sitio web.</p><img alt=\"Screenshot 2024-02-06 at 4.18.06 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/008e310c708548fcbd624f4fe02f6886.png\" height=\"188.479\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/008e310c708548fcbd624f4fe02f6886.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832611&amp;x-signature=6xaJhx%2FLPjACmcXaOKmPXW7VPD8%3D\" width=\"375\"><p>Para resolver este problema, deben de <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585704427522\" target=\"_blank\">agregar esta información a su CSP.</a> Esto es algo que su equipo de IT debe hacer.</p><p>Puedes enviar la información de arriba al cliente y tal vez no sea necesario programar la llamada.</p><p>Quedo atento.</p><p>Armando</p></img>",
+          "content": "<p>Hola Ale,</p><p>Estuve revisando la página de este cliente y al parecer la razón por la cual nuestro pixel no carga es porque tienen una <span style=\"color: #202124;\">política de seguridad de contenidos - </span>Content Security Policy (CSP) - en su sitio web.</p><img alt=\"Screenshot 2024-02-06 at 4.18.06 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/008e310c708548fcbd624f4fe02f6886.png\" height=\"188.479\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/008e310c708548fcbd624f4fe02f6886.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273229&amp;x-signature=mE344qKth6XaCVhFOa1YwZQpocg%3D\" width=\"375\"><p>Para resolver este problema, deben de <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585704427522\" target=\"_blank\">agregar esta información a su CSP.</a> Esto es algo que su equipo de IT debe hacer.</p><p>Puedes enviar la información de arriba al cliente y tal vez no sea necesario programar la llamada.</p><p>Quedo atento.</p><p>Armando</p></img>",
           "type": 6
         }
       ],
@@ -153,7 +153,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>hola Armando, ya me contestaron lo siguiente, me ayudas a revisar por favor? </p><img alt=\"W0VZb6urdoERlsxqh6RlyQlhgae.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ab5cc8e432104be0929145c65c722510.png\" height=\"172.658\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab5cc8e432104be0929145c65c722510.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832611&amp;x-signature=4zUgBM0hX7NOl%2BPpJ3lG%2FAc7LYk%3D\" width=\"375\"><p><span style=\"color: #1F2329;\"><br>En el CSP evaluator marca si ya está dado de alta, no se porque podría no estar disparándose. Comparto todos los CSPs: </br></span><span style=\"color: #0000FF;\"><a href=\"https://csper.io/evaluations/65a5634b73eb9d58ab9f5e9f\" target=\"_blank noopener noreferrer\">https://csper.io/evaluations/65a5634b73eb9d58ab9f5e9f</a></span><br /></p></img>",
+          "content": "<p>hola Armando, ya me contestaron lo siguiente, me ayudas a revisar por favor? </p><img alt=\"W0VZb6urdoERlsxqh6RlyQlhgae.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ab5cc8e432104be0929145c65c722510.png\" height=\"172.658\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab5cc8e432104be0929145c65c722510.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273229&amp;x-signature=5ESecmx7IEMtaOYie94SGi%2BRKgk%3D\" width=\"375\"><p><span style=\"color: #1F2329;\"><br>En el CSP evaluator marca si ya está dado de alta, no se porque podría no estar disparándose. Comparto todos los CSPs: </br></span><span style=\"color: #0000FF;\"><a href=\"https://csper.io/evaluations/65a5634b73eb9d58ab9f5e9f\" target=\"_blank noopener noreferrer\">https://csper.io/evaluations/65a5634b73eb9d58ab9f5e9f</a></span><br /></p></img>",
           "type": 6
         }
       ],
@@ -184,7 +184,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hola Ale,</p><p>La documentación oficial de TikTok dice que se debe de agregar el dominio<em> analytics.tiktok.com</em> a los siguientes directivos:</p><ul><li><span style=\"color: #E45649;\">script-src</span></li><li><span style=\"color: #E45649;\">img-src</span></li><li><span style=\"color: #E45649;\">connect-src</span></li></ul><p>Cuando voy a su página en <span style=\"color: #093057;\"><a href=\"https://onboarding.santander.com.mx/cuenta-digital-lite/personal-data\" target=\"_blank\">https://onboarding.santander.com.mx/cuenta-digital-lite/personal-data</a>, </span>me muestra que el pixel es blockeado por la CSP debido al directivo de <strong>connect-src</strong>.</p><img alt=\"Screenshot 2024-02-07 at 2.13.12 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c645ee5813294cd49dafa0fa1902e296.png\" height=\"188.479\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c645ee5813294cd49dafa0fa1902e296.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832611&amp;x-signature=5UT7ZwpxUcIbs2hQyBViYRoVxbA%3D\" width=\"375\"><p>Cuando verifico esto en el <a href=\"https://csper.io/evaluations/65a5634b73eb9d58ab9f5e9f\" target=\"_blank\">CSP evaluator</a> que nos enviaron, puedo ver lo siguiente:</p><img alt=\"Screenshot 2024-02-07 at 2.22.11 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/144145353267444ead94af9e652fc30e.png\" height=\"188.479\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/144145353267444ead94af9e652fc30e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832611&amp;x-signature=tZd%2Fgkn5%2B%2Bkr4y7Yw8DOzXkBjJ0%3D\" width=\"375\"><p>Les hizo falta agregar el dominio de TikTok a el directivo de<strong> connect-src</strong>.</p><p>Con este último cambio se detonará el pixel. Avísame si hay alguna otra pregunta.</p><p>Saludos,<br>Armando</br></p></img></img>",
+          "content": "<p>Hola Ale,</p><p>La documentación oficial de TikTok dice que se debe de agregar el dominio<em> analytics.tiktok.com</em> a los siguientes directivos:</p><ul><li><span style=\"color: #E45649;\">script-src</span></li><li><span style=\"color: #E45649;\">img-src</span></li><li><span style=\"color: #E45649;\">connect-src</span></li></ul><p>Cuando voy a su página en <span style=\"color: #093057;\"><a href=\"https://onboarding.santander.com.mx/cuenta-digital-lite/personal-data\" target=\"_blank\">https://onboarding.santander.com.mx/cuenta-digital-lite/personal-data</a>, </span>me muestra que el pixel es blockeado por la CSP debido al directivo de <strong>connect-src</strong>.</p><img alt=\"Screenshot 2024-02-07 at 2.13.12 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c645ee5813294cd49dafa0fa1902e296.png\" height=\"188.479\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c645ee5813294cd49dafa0fa1902e296.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273229&amp;x-signature=GeidkHfqNy3TeDFSYjSSAcZWyQs%3D\" width=\"375\"><p>Cuando verifico esto en el <a href=\"https://csper.io/evaluations/65a5634b73eb9d58ab9f5e9f\" target=\"_blank\">CSP evaluator</a> que nos enviaron, puedo ver lo siguiente:</p><img alt=\"Screenshot 2024-02-07 at 2.22.11 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/144145353267444ead94af9e652fc30e.png\" height=\"188.479\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/144145353267444ead94af9e652fc30e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273229&amp;x-signature=wYZ6fsX%2FH9wvb7v5w1dyXIZ6nmI%3D\" width=\"375\"><p>Les hizo falta agregar el dominio de TikTok a el directivo de<strong> connect-src</strong>.</p><p>Con este último cambio se detonará el pixel. Avísame si hay alguna otra pregunta.</p><p>Saludos,<br>Armando</br></p></img></img>",
           "type": 6
         }
       ],
@@ -557,7 +557,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 238961,
+  "pending_time": 679579,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -734,39 +734,39 @@
         {
           "file_type": "png",
           "file_name": "Captura de pantalla 2024-01-31 a la(s) 10.02.02.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2469067ed26c440c855d62ed6b868718.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=oYHMqHAYk0Hd74DL5UP8OQZPH7M%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2469067ed26c440c855d62ed6b868718.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273229&x-signature=lt2GV5RgU%2BTmy5RSZuVP%2F9yj1S0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2469067ed26c440c855d62ed6b868718.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2469067ed26c440c855d62ed6b868718.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=oYHMqHAYk0Hd74DL5UP8OQZPH7M%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2469067ed26c440c855d62ed6b868718.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273229&x-signature=lt2GV5RgU%2BTmy5RSZuVP%2F9yj1S0%3D",
           "size": 328748
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/008e310c708548fcbd624f4fe02f6886.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=6xaJhx%2FLPjACmcXaOKmPXW7VPD8%3D",
-          "file_name": "file_20240318_13_30_11_521845",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/008e310c708548fcbd624f4fe02f6886.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=6xaJhx%2FLPjACmcXaOKmPXW7VPD8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/008e310c708548fcbd624f4fe02f6886.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273229&x-signature=mE344qKth6XaCVhFOa1YwZQpocg%3D",
+          "file_name": "file_20240323_15_53_49_529462",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/008e310c708548fcbd624f4fe02f6886.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273229&x-signature=mE344qKth6XaCVhFOa1YwZQpocg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/008e310c708548fcbd624f4fe02f6886.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab5cc8e432104be0929145c65c722510.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=4zUgBM0hX7NOl%2BPpJ3lG%2FAc7LYk%3D",
-          "file_name": "file_20240318_13_30_11_607795",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab5cc8e432104be0929145c65c722510.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=4zUgBM0hX7NOl%2BPpJ3lG%2FAc7LYk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab5cc8e432104be0929145c65c722510.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273229&x-signature=5ESecmx7IEMtaOYie94SGi%2BRKgk%3D",
+          "file_name": "file_20240323_15_53_49_608952",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab5cc8e432104be0929145c65c722510.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273229&x-signature=5ESecmx7IEMtaOYie94SGi%2BRKgk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ab5cc8e432104be0929145c65c722510.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/144145353267444ead94af9e652fc30e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=tZd%2Fgkn5%2B%2Bkr4y7Yw8DOzXkBjJ0%3D",
-          "file_name": "file_20240318_13_30_11_676883",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/144145353267444ead94af9e652fc30e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=tZd%2Fgkn5%2B%2Bkr4y7Yw8DOzXkBjJ0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/144145353267444ead94af9e652fc30e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273229&x-signature=wYZ6fsX%2FH9wvb7v5w1dyXIZ6nmI%3D",
+          "file_name": "file_20240323_15_53_49_653945",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/144145353267444ead94af9e652fc30e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273229&x-signature=wYZ6fsX%2FH9wvb7v5w1dyXIZ6nmI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/144145353267444ead94af9e652fc30e.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c645ee5813294cd49dafa0fa1902e296.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=5UT7ZwpxUcIbs2hQyBViYRoVxbA%3D",
-          "file_name": "file_20240318_13_30_11_676953",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c645ee5813294cd49dafa0fa1902e296.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832611&x-signature=5UT7ZwpxUcIbs2hQyBViYRoVxbA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c645ee5813294cd49dafa0fa1902e296.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273229&x-signature=GeidkHfqNy3TeDFSYjSSAcZWyQs%3D",
+          "file_name": "file_20240323_15_53_49_654009",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c645ee5813294cd49dafa0fa1902e296.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273229&x-signature=GeidkHfqNy3TeDFSYjSSAcZWyQs%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c645ee5813294cd49dafa0fa1902e296.png",
           "file_type": "jpeg",
           "biz_type": 2

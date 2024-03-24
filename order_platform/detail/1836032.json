@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Jennifer, they're integrated with Shopify correctly so we can rule that out. It looks like the % of missing parameters are very consistent across several key properties, not just value:</p><img alt=\"Screenshot 2024-01-24 at 9.08.35 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8c2a55498a844d7eab8dac720dd6e91d.png\" height=\"312.229\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c2a55498a844d7eab8dac720dd6e91d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832993&amp;x-signature=l5skhaUPpL6asEUhHrRn08mYk70%3D\" width=\"375\"><p>This leads me to believe that it's not an issue with value specifically, but rather events that are firing unexpectedly. And this only happens for browser events specifically, and not every time (looking at the numbers, it occurs 35% of the time).</p><p><br /></p><p>The screenshot below shows pairs of Complete Payment events from the Pixel: one that contains all the correct properties (highlighted green), and one that is essentially empty (highlighted yellow):</p><img alt=\"Screenshot 2024-01-24 at 10.56.48 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bdeb6ed55fe44771b25b924092079f31.png\" height=\"158.014\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bdeb6ed55fe44771b25b924092079f31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832993&amp;x-signature=CQG%2F%2Bi2OnQkS37tzNSlHCRc8ysk%3D\" width=\"375\"><p>You'll also notice that each pair of events occurred on the same URL and within the same second, indicating that the yellow event is a duplicate event occurring shortly after the green one.</p><p><br /></p><p>They may have previously set up code that fires the Complete Payment event on their site's HTML or Shopify code. If so, they should delete it since it's causing events to double fire and we're already capturing them perfectly through the integration.</p></img></img>",
+          "content": "<p>Hey Jennifer, they're integrated with Shopify correctly so we can rule that out. It looks like the % of missing parameters are very consistent across several key properties, not just value:</p><img alt=\"Screenshot 2024-01-24 at 9.08.35 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8c2a55498a844d7eab8dac720dd6e91d.png\" height=\"312.229\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c2a55498a844d7eab8dac720dd6e91d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273085&amp;x-signature=lIzihBPotn2KEqcvSdCj5lM1984%3D\" width=\"375\"><p>This leads me to believe that it's not an issue with value specifically, but rather events that are firing unexpectedly. And this only happens for browser events specifically, and not every time (looking at the numbers, it occurs 35% of the time).</p><p><br /></p><p>The screenshot below shows pairs of Complete Payment events from the Pixel: one that contains all the correct properties (highlighted green), and one that is essentially empty (highlighted yellow):</p><img alt=\"Screenshot 2024-01-24 at 10.56.48 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bdeb6ed55fe44771b25b924092079f31.png\" height=\"158.014\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bdeb6ed55fe44771b25b924092079f31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273085&amp;x-signature=JrcHxvxqm0SpNwD8t3zQafHKeI0%3D\" width=\"375\"><p>You'll also notice that each pair of events occurred on the same URL and within the same second, indicating that the yellow event is a duplicate event occurring shortly after the green one.</p><p><br /></p><p>They may have previously set up code that fires the Complete Payment event on their site's HTML or Shopify code. If so, they should delete it since it's causing events to double fire and we're already capturing them perfectly through the integration.</p></img></img>",
           "type": 6
         }
       ],
@@ -120,7 +120,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Jennifer, I touched base with Nina and found that the advertiser has set up events through multiple methods, in addition to their Shopify integration:</p><img alt=\"Screenshot 2024-03-12 at 11.37.45 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/654dda18adcf4aacbe2fe192f4dcb3c3.png\" height=\"436.321\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/654dda18adcf4aacbe2fe192f4dcb3c3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832993&amp;x-signature=3JdWQjIUuo3LXh7dz7lnhKPjRbA%3D\" width=\"375\"><p>I would recommend that they remove the methods that aren't integral or supplemental to their Shopify integration to decrease the number of duplicated events.</p></img>",
+          "content": "<p>Hey Jennifer, I touched base with Nina and found that the advertiser has set up events through multiple methods, in addition to their Shopify integration:</p><img alt=\"Screenshot 2024-03-12 at 11.37.45 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/654dda18adcf4aacbe2fe192f4dcb3c3.png\" height=\"436.321\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/654dda18adcf4aacbe2fe192f4dcb3c3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273085&amp;x-signature=5W1FbREMzTzsfRwBL7SuNiAY%2FRs%3D\" width=\"375\"><p>I would recommend that they remove the methods that aren't integral or supplemental to their Shopify integration to decrease the number of duplicated events.</p></img>",
           "type": 6
         }
       ],
@@ -328,7 +328,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 499226,
+  "pending_time": 939317,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -502,25 +502,25 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bdeb6ed55fe44771b25b924092079f31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832993&x-signature=CQG%2F%2Bi2OnQkS37tzNSlHCRc8ysk%3D",
-          "file_name": "file_20240318_13_36_33_880489",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bdeb6ed55fe44771b25b924092079f31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832993&x-signature=CQG%2F%2Bi2OnQkS37tzNSlHCRc8ysk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bdeb6ed55fe44771b25b924092079f31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273085&x-signature=JrcHxvxqm0SpNwD8t3zQafHKeI0%3D",
+          "file_name": "file_20240323_15_51_25_155777",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bdeb6ed55fe44771b25b924092079f31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273085&x-signature=JrcHxvxqm0SpNwD8t3zQafHKeI0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/bdeb6ed55fe44771b25b924092079f31.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c2a55498a844d7eab8dac720dd6e91d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832993&x-signature=l5skhaUPpL6asEUhHrRn08mYk70%3D",
-          "file_name": "file_20240318_13_36_33_880557",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c2a55498a844d7eab8dac720dd6e91d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832993&x-signature=l5skhaUPpL6asEUhHrRn08mYk70%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c2a55498a844d7eab8dac720dd6e91d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273085&x-signature=lIzihBPotn2KEqcvSdCj5lM1984%3D",
+          "file_name": "file_20240323_15_51_25_155848",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c2a55498a844d7eab8dac720dd6e91d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273085&x-signature=lIzihBPotn2KEqcvSdCj5lM1984%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8c2a55498a844d7eab8dac720dd6e91d.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/654dda18adcf4aacbe2fe192f4dcb3c3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832993&x-signature=3JdWQjIUuo3LXh7dz7lnhKPjRbA%3D",
-          "file_name": "file_20240318_13_36_33_983023",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/654dda18adcf4aacbe2fe192f4dcb3c3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832993&x-signature=3JdWQjIUuo3LXh7dz7lnhKPjRbA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/654dda18adcf4aacbe2fe192f4dcb3c3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273085&x-signature=5W1FbREMzTzsfRwBL7SuNiAY%2FRs%3D",
+          "file_name": "file_20240323_15_51_25_255680",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/654dda18adcf4aacbe2fe192f4dcb3c3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273085&x-signature=5W1FbREMzTzsfRwBL7SuNiAY%2FRs%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/654dda18adcf4aacbe2fe192f4dcb3c3.png",
           "file_type": "jpeg",
           "biz_type": 2

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1754600307444754",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1705696660,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zahra,</p><p><br /></p><p>Would there be a test login or coupon code I could use to troubleshoot the CompletePayment event? I am seeing a <a href=\"84398023\" target=\"_blank\">diagnostic message</a> where there is an invalid content_type reporting for almost 50 percent of either CompletePayment or PlaceAnOrder events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f20bea236da34717ac6ecc78fc7411d6.png\" height=\"98.606\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f20bea236da34717ac6ecc78fc7411d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832975&amp;x-signature=qxuBEJpjuZEC5orhCqnVP9EHIi0%3D\" width=\"375\"><p>I am also seeing the issue where the products from the catalog match on item_group_id, so the content_type should be 'product_group', not 'product', as it is now:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1b0bb3adb89f4708bba19502a42b235c.png\" height=\"176.413\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1b0bb3adb89f4708bba19502a42b235c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832975&amp;x-signature=uOOMQwIxW6JcDjfjYS6oijKUTHo%3D\" width=\"375\"><p>Please note that after fixes are made, it takes 7 days for the changes be visible in the Catalog diagnostics.</p><p><br /></p><p>I also see they have both client- and server-side tracking set up in Tealium. However, the deduplication rate for AddToCart and ViewContent are being negatively impacted by the fact that  server-side events are missing for a high percentage of those events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/53543424e9f845afb3df811f2cd2c600.png\" height=\"138.366\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/53543424e9f845afb3df811f2cd2c600.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832975&amp;x-signature=T7J2xxcpLlnXTdTEUYNx8x3yJlg%3D\" width=\"375\"><p><br /></p><p>The content_id parameter is missing for 100% of events for InitiateCheckout:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d8b1a787eb7840cb87b122d1d723cc4a.png\" height=\"112.5\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d8b1a787eb7840cb87b122d1d723cc4a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832975&amp;x-signature=ULlO8oPzMMCCmz95ai7lyPqH4HU%3D\" width=\"375\"><p>content_id is required, as noted above, for Video Shopping Ads, so they should add that in Tealium as soon as possible. </p><p><br /></p><p>Please let me know if further questions come up!</p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img>",
+          "content": "<p>Hi Zahra,</p><p><br /></p><p>Would there be a test login or coupon code I could use to troubleshoot the CompletePayment event? I am seeing a <a href=\"84398023\" target=\"_blank\">diagnostic message</a> where there is an invalid content_type reporting for almost 50 percent of either CompletePayment or PlaceAnOrder events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f20bea236da34717ac6ecc78fc7411d6.png\" height=\"98.606\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f20bea236da34717ac6ecc78fc7411d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273009&amp;x-signature=GzLtCNiAZPOM1kjb9ci9G1hXwFg%3D\" width=\"375\"><p>I am also seeing the issue where the products from the catalog match on item_group_id, so the content_type should be 'product_group', not 'product', as it is now:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1b0bb3adb89f4708bba19502a42b235c.png\" height=\"176.413\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1b0bb3adb89f4708bba19502a42b235c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273009&amp;x-signature=7soU40bG92cvMoSiqcHLdL2N%2FjM%3D\" width=\"375\"><p>Please note that after fixes are made, it takes 7 days for the changes be visible in the Catalog diagnostics.</p><p><br /></p><p>I also see they have both client- and server-side tracking set up in Tealium. However, the deduplication rate for AddToCart and ViewContent are being negatively impacted by the fact that  server-side events are missing for a high percentage of those events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/53543424e9f845afb3df811f2cd2c600.png\" height=\"138.366\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/53543424e9f845afb3df811f2cd2c600.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273009&amp;x-signature=1ECiyFGE3Cbgm2X9FFn4o4a2X0Y%3D\" width=\"375\"><p><br /></p><p>The content_id parameter is missing for 100% of events for InitiateCheckout:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d8b1a787eb7840cb87b122d1d723cc4a.png\" height=\"112.5\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d8b1a787eb7840cb87b122d1d723cc4a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273009&amp;x-signature=iV5LuMOcYsjH1u9T2wjK7mjy8U8%3D\" width=\"375\"><p>content_id is required, as noted above, for Video Shopping Ads, so they should add that in Tealium as soon as possible. </p><p><br /></p><p>Please let me know if further questions come up!</p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img>",
           "type": 6
         }
       ],
@@ -70,9 +70,9 @@
             {
               "file_type": "xlsx",
               "file_name": "Urban Outfitters properties column 1-22-24.xlsx",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ocBpC2u1FiCATKfAEyiB1lv2AAa6waBsAIvV7a.xlsx?lk3s=cbe26b3a&x-expires=4832832975&x-signature=8%2FBYVHO%2Bv9HEuKhzG2Zy6rl%2BZ0o%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ocBpC2u1FiCATKfAEyiB1lv2AAa6waBsAIvV7a.xlsx?lk3s=cbe26b3a&x-expires=4833273009&x-signature=xyhBH%2BvG8KgoR424MLoNwtI340k%3D",
               "file_key": "tos-alisg-v-90231e-sg/ocBpC2u1FiCATKfAEyiB1lv2AAa6waBsAIvV7a.xlsx",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ocBpC2u1FiCATKfAEyiB1lv2AAa6waBsAIvV7a.xlsx?lk3s=cbe26b3a&x-expires=4832832975&x-signature=8%2FBYVHO%2Bv9HEuKhzG2Zy6rl%2BZ0o%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ocBpC2u1FiCATKfAEyiB1lv2AAa6waBsAIvV7a.xlsx?lk3s=cbe26b3a&x-expires=4833273009&x-signature=xyhBH%2BvG8KgoR424MLoNwtI340k%3D",
               "biz_type": 2,
               "size": 0
             }
@@ -191,7 +191,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 5,
   "current_role": null,
@@ -234,7 +234,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2928725,
+  "pending_time": 3368760,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -373,49 +373,49 @@
         {
           "file_type": "jpeg",
           "file_name": "UO catalog match.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2a707b4f7333488680b4befc2a3b1625.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832975&x-signature=zcPMICnqk2JKWppLDwXpOPE9f9c%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2a707b4f7333488680b4befc2a3b1625.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273009&x-signature=HzVxffQdQp9qSF8%2BIokqPyI%2FchY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2a707b4f7333488680b4befc2a3b1625.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2a707b4f7333488680b4befc2a3b1625.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832975&x-signature=zcPMICnqk2JKWppLDwXpOPE9f9c%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2a707b4f7333488680b4befc2a3b1625.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273009&x-signature=HzVxffQdQp9qSF8%2BIokqPyI%2FchY%3D",
           "size": 140074
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1b0bb3adb89f4708bba19502a42b235c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832975&x-signature=uOOMQwIxW6JcDjfjYS6oijKUTHo%3D",
-          "file_name": "file_20240318_13_36_15_652970",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1b0bb3adb89f4708bba19502a42b235c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832975&x-signature=uOOMQwIxW6JcDjfjYS6oijKUTHo%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/1b0bb3adb89f4708bba19502a42b235c.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/53543424e9f845afb3df811f2cd2c600.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832975&x-signature=T7J2xxcpLlnXTdTEUYNx8x3yJlg%3D",
-          "file_name": "file_20240318_13_36_15_653048",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/53543424e9f845afb3df811f2cd2c600.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832975&x-signature=T7J2xxcpLlnXTdTEUYNx8x3yJlg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/53543424e9f845afb3df811f2cd2c600.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273009&x-signature=1ECiyFGE3Cbgm2X9FFn4o4a2X0Y%3D",
+          "file_name": "file_20240323_15_50_09_648210",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/53543424e9f845afb3df811f2cd2c600.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273009&x-signature=1ECiyFGE3Cbgm2X9FFn4o4a2X0Y%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/53543424e9f845afb3df811f2cd2c600.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f20bea236da34717ac6ecc78fc7411d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832975&x-signature=qxuBEJpjuZEC5orhCqnVP9EHIi0%3D",
-          "file_name": "file_20240318_13_36_15_653071",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f20bea236da34717ac6ecc78fc7411d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832975&x-signature=qxuBEJpjuZEC5orhCqnVP9EHIi0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f20bea236da34717ac6ecc78fc7411d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273009&x-signature=GzLtCNiAZPOM1kjb9ci9G1hXwFg%3D",
+          "file_name": "file_20240323_15_50_09_648286",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f20bea236da34717ac6ecc78fc7411d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273009&x-signature=GzLtCNiAZPOM1kjb9ci9G1hXwFg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/f20bea236da34717ac6ecc78fc7411d6.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d8b1a787eb7840cb87b122d1d723cc4a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832975&x-signature=ULlO8oPzMMCCmz95ai7lyPqH4HU%3D",
-          "file_name": "file_20240318_13_36_15_653089",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d8b1a787eb7840cb87b122d1d723cc4a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832975&x-signature=ULlO8oPzMMCCmz95ai7lyPqH4HU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d8b1a787eb7840cb87b122d1d723cc4a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273009&x-signature=iV5LuMOcYsjH1u9T2wjK7mjy8U8%3D",
+          "file_name": "file_20240323_15_50_09_648310",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d8b1a787eb7840cb87b122d1d723cc4a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273009&x-signature=iV5LuMOcYsjH1u9T2wjK7mjy8U8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d8b1a787eb7840cb87b122d1d723cc4a.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1b0bb3adb89f4708bba19502a42b235c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273009&x-signature=7soU40bG92cvMoSiqcHLdL2N%2FjM%3D",
+          "file_name": "file_20240323_15_50_09_648330",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1b0bb3adb89f4708bba19502a42b235c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273009&x-signature=7soU40bG92cvMoSiqcHLdL2N%2FjM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1b0bb3adb89f4708bba19502a42b235c.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
           "file_type": "xlsx",
           "file_name": "Urban Outfitters properties column 1-22-24.xlsx",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ocBpC2u1FiCATKfAEyiB1lv2AAa6waBsAIvV7a.xlsx?lk3s=cbe26b3a&x-expires=4832832975&x-signature=8%2FBYVHO%2Bv9HEuKhzG2Zy6rl%2BZ0o%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ocBpC2u1FiCATKfAEyiB1lv2AAa6waBsAIvV7a.xlsx?lk3s=cbe26b3a&x-expires=4833273009&x-signature=xyhBH%2BvG8KgoR424MLoNwtI340k%3D",
           "file_key": "tos-alisg-v-90231e-sg/ocBpC2u1FiCATKfAEyiB1lv2AAa6waBsAIvV7a.xlsx",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ocBpC2u1FiCATKfAEyiB1lv2AAa6waBsAIvV7a.xlsx?lk3s=cbe26b3a&x-expires=4832832975&x-signature=8%2FBYVHO%2Bv9HEuKhzG2Zy6rl%2BZ0o%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ocBpC2u1FiCATKfAEyiB1lv2AAa6waBsAIvV7a.xlsx?lk3s=cbe26b3a&x-expires=4833273009&x-signature=xyhBH%2BvG8KgoR424MLoNwtI340k%3D",
           "biz_type": 2,
           "size": 0
         }

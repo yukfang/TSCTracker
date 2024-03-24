@@ -10,7 +10,66 @@
   "create_time": 1710520957,
   "deadline": 0,
   "archive_board_id": 1705151646989663,
-  "replies": [],
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710871001,
+      "auto_close_hit": 0,
+      "id": 7348133757452354000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Leslie, their Shopify integration looks set up correctly to me, but I noticed that they set up events in several other ways on top of the Shopify integration. For example, View Content was set up via Events API and Custom Code in tandem with the Shopify integration:</p><img alt=\"Screenshot 2024-03-19 at 10.53.33 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4b184b5a39334a1393c79f2c17ca78fa.png\" height=\"379.649\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b184b5a39334a1393c79f2c17ca78fa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274241&amp;x-signature=j3CxNczZpz66MMEFCgrrqC%2FejqM%3D\" width=\"375\"><p>I would recommend that they review the implementation methods for each event and remove any that are not essential to server- or browser-side event reporting, or are not supplementing the Shopify integration's current event reporting. This may be causing an overreporting of some events, which then impacts dedupe rate. I can then perform another audit once they consolidate their event implementation methods. </p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711051842,
+      "auto_close_hit": 0,
+      "id": 7348907657815654000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "leslie.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Leslie Jones",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6964461386039182337",
+      "name": "Leslie Jones",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Joey! I passed this along to the client and they sent back the following response  - The &#34;view content&#34; event triggers on our Product Detail Pages (PDPs) and is sent via Google Tag Manager (GTM). Our Shopify integration captures this event on the manage.skylightframe site where we don&#39;t direct traffic. We need to check between the events API and custom code. Maybe it&#39;s possible those both look like they are turned on but only one is configured. For quality assurance of the pixel, we utilize the TikTok pixel helper, and haven&#39;t observed the event firing twice.</p><p><br></p><p>Based on this, it seems to me like the Shopify pixel isn&#39;t actually on the main site, just custom code on the main site? Would that mean their implementation is okay and we aren&#39;t really getting events on the Shopify pixel?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/dc4fda6f-0180-4ef9-9f54-75a3b29151cg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
@@ -36,13 +95,13 @@
   "type": -1,
   "current_role": null,
   "fd_permission": 1,
-  "status": 0,
+  "status": 2,
   "business_data": [],
-  "update_time": 1710523175,
+  "update_time": 1711051842,
   "owner_name": "Leslie Jones",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
-  "swim_lane_status": 1,
+  "swim_lane_status": 4,
   "enable_forced_order_tag": 1,
   "satisfied": 0,
   "category_2_name": "",
@@ -140,7 +199,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 251529,
+  "pending_time": 339240,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -312,7 +371,16 @@
     },
     {
       "label": "Screenshot",
-      "content": [],
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b184b5a39334a1393c79f2c17ca78fa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274241&x-signature=j3CxNczZpz66MMEFCgrrqC%2FejqM%3D",
+          "file_name": "file_20240323_16_10_41_668024",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b184b5a39334a1393c79f2c17ca78fa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274241&x-signature=j3CxNczZpz66MMEFCgrrqC%2FejqM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4b184b5a39334a1393c79f2c17ca78fa.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
       "valid": true,
       "item_id": 1740206947357746,
       "type": 5,

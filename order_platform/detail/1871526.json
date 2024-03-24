@@ -41,9 +41,9 @@
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-02-12 at 5.51.13 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e979047cf12b47dfa4f19e854e5b6dff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837921&x-signature=PU8fyfgk3LBee4dZzppMwStSx24%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e979047cf12b47dfa4f19e854e5b6dff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273471&x-signature=IBB5yZssCQp4OA1N1pZR3LfBeog%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/e979047cf12b47dfa4f19e854e5b6dff.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e979047cf12b47dfa4f19e854e5b6dff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837921&x-signature=PU8fyfgk3LBee4dZzppMwStSx24%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e979047cf12b47dfa4f19e854e5b6dff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273471&x-signature=IBB5yZssCQp4OA1N1pZR3LfBeog%3D",
               "biz_type": 2,
               "size": 119623
             }
@@ -87,7 +87,7 @@
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
-  "pending_from_follower": true,
+  "pending_from_follower": false,
   "id": 1871526,
   "workflow_nodes": [],
   "board_id": 1705151646989662,
@@ -102,7 +102,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/5e819f6c-1089-4b44-89fe-9ac3fef6427g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/5e819f6c-1089-4b44-89fe-9ac3fef6427g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": -1,
   "current_role": null,
@@ -284,7 +284,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2862892,
+  "pending_time": 3298442,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -460,9 +460,9 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-12 at 5.51.13 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e979047cf12b47dfa4f19e854e5b6dff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837921&x-signature=PU8fyfgk3LBee4dZzppMwStSx24%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e979047cf12b47dfa4f19e854e5b6dff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273471&x-signature=IBB5yZssCQp4OA1N1pZR3LfBeog%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e979047cf12b47dfa4f19e854e5b6dff.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e979047cf12b47dfa4f19e854e5b6dff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837921&x-signature=PU8fyfgk3LBee4dZzppMwStSx24%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e979047cf12b47dfa4f19e854e5b6dff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273471&x-signature=IBB5yZssCQp4OA1N1pZR3LfBeog%3D",
           "biz_type": 2,
           "size": 119623
         }

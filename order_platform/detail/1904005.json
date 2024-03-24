@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1709075891,
   "deadline": 0,
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Emma, it's getting pretty late for me, but I'm seeing the same issue for Champion that I am seeing for several other clients today. The parameters here are not using standard names and that will cause content_id and other parameters to not report properly:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4b47e56e150042aabe3df42c41648877.png\" height=\"187.39\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b47e56e150042aabe3df42c41648877.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838305&amp;x-signature=qSWOOoM%2FY2NdLdfNVC%2FBUjIy6qU%3D\" width=\"375\"><p>Please see the instructions for correct parameter setup <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en\" target=\"_blank\">here</a>.</p><p><br /></p><p>Are all these clients using the same agency as well as Adobe Tag Manager?</p><p><br /></p><p>Will check in with this tomorrow!</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Emma, it's getting pretty late for me, but I'm seeing the same issue for Champion that I am seeing for several other clients today. The parameters here are not using standard names and that will cause content_id and other parameters to not report properly:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4b47e56e150042aabe3df42c41648877.png\" height=\"187.39\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b47e56e150042aabe3df42c41648877.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273822&amp;x-signature=LQOQVfnpzJweiv40VyacGNNarRw%3D\" width=\"375\"><p>Please see the instructions for correct parameter setup <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en\" target=\"_blank\">here</a>.</p><p><br /></p><p>Are all these clients using the same agency as well as Adobe Tag Manager?</p><p><br /></p><p>Will check in with this tomorrow!</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -301,7 +301,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1519070,
+  "pending_time": 1954587,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -475,9 +475,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b47e56e150042aabe3df42c41648877.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838305&x-signature=qSWOOoM%2FY2NdLdfNVC%2FBUjIy6qU%3D",
-          "file_name": "file_20240318_15_05_05_690243",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b47e56e150042aabe3df42c41648877.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838305&x-signature=qSWOOoM%2FY2NdLdfNVC%2FBUjIy6qU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b47e56e150042aabe3df42c41648877.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273822&x-signature=LQOQVfnpzJweiv40VyacGNNarRw%3D",
+          "file_name": "file_20240323_16_03_42_089836",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b47e56e150042aabe3df42c41648877.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273822&x-signature=LQOQVfnpzJweiv40VyacGNNarRw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4b47e56e150042aabe3df42c41648877.png",
           "file_type": "jpeg",
           "biz_type": 2

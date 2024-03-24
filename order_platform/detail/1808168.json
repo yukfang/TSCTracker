@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Mike,</p><p>Happy New Year and great hearing from you again! I'd be happy to check on the catalog match rates for A&amp;F.</p><p>At the moment it looks like we're seeing less than optimal match rates. Screenshot for the date 2024-01-12</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/03efa2b5be394288b7c7dbf184732615.png\" height=\"83.387\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03efa2b5be394288b7c7dbf184732615.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833274&amp;x-signature=xVWg3miGIAHMbNMNBTCZ2jKdpwM%3D\" width=\"375\"><p>Our culprit for the low match rates is the incorrect formatting of the received parameter data, most importantly content_id and content_type. The parameter data for Events API/S2S Events contain escape characters which will cause issues with matching:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0e4ec0f31c0e488c965a028b49c4d8cb.png\" height=\"234.919\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e4ec0f31c0e488c965a028b49c4d8cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833274&amp;x-signature=KQ2IiXX%2BvHuSxzYlflE2jVRSgLo%3D\" width=\"375\"><p>The Client Side/Web Pixel events are passing back correctly formatted parameters:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7f0e960d35724b408134c5ad4e2046f9.png\" height=\"206.651\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f0e960d35724b408134c5ad4e2046f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833274&amp;x-signature=SO1Eyp2PXo9gP34BILU%2FzVZY4GU%3D\" width=\"375\"><p>Would they be able to make sure that escape characters are not used in the Events API payloads? This should resolve the current low match rates.</p><p>Thanks!</p><p>Robbie</p></img></img></img>",
+          "content": "<p>Hi Mike,</p><p>Happy New Year and great hearing from you again! I'd be happy to check on the catalog match rates for A&amp;F.</p><p>At the moment it looks like we're seeing less than optimal match rates. Screenshot for the date 2024-01-12</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/03efa2b5be394288b7c7dbf184732615.png\" height=\"83.387\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03efa2b5be394288b7c7dbf184732615.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272872&amp;x-signature=YSlzn4UNrO6nankQ6AuQDlAEy7o%3D\" width=\"375\"><p>Our culprit for the low match rates is the incorrect formatting of the received parameter data, most importantly content_id and content_type. The parameter data for Events API/S2S Events contain escape characters which will cause issues with matching:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0e4ec0f31c0e488c965a028b49c4d8cb.png\" height=\"234.919\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e4ec0f31c0e488c965a028b49c4d8cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272872&amp;x-signature=dQ70%2F2oUdjB1O6d4bGJ1cEZYASw%3D\" width=\"375\"><p>The Client Side/Web Pixel events are passing back correctly formatted parameters:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7f0e960d35724b408134c5ad4e2046f9.png\" height=\"206.651\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f0e960d35724b408134c5ad4e2046f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272872&amp;x-signature=%2BQzN2xGnHYaRe0yRMX8XeAs3oMQ%3D\" width=\"375\"><p>Would they be able to make sure that escape characters are not used in the Events API payloads? This should resolve the current low match rates.</p><p>Thanks!</p><p>Robbie</p></img></img></img>",
           "type": 6
         }
       ],
@@ -131,7 +131,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 5674301,
+  "pending_time": 6113900,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -268,25 +268,25 @@
       "label": "Screenshot(s)",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e4ec0f31c0e488c965a028b49c4d8cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833274&x-signature=KQ2IiXX%2BvHuSxzYlflE2jVRSgLo%3D",
-          "file_name": "file_20240318_13_41_14_271856",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e4ec0f31c0e488c965a028b49c4d8cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833274&x-signature=KQ2IiXX%2BvHuSxzYlflE2jVRSgLo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e4ec0f31c0e488c965a028b49c4d8cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272872&x-signature=dQ70%2F2oUdjB1O6d4bGJ1cEZYASw%3D",
+          "file_name": "file_20240323_15_47_52_782672",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e4ec0f31c0e488c965a028b49c4d8cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272872&x-signature=dQ70%2F2oUdjB1O6d4bGJ1cEZYASw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0e4ec0f31c0e488c965a028b49c4d8cb.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03efa2b5be394288b7c7dbf184732615.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833274&x-signature=xVWg3miGIAHMbNMNBTCZ2jKdpwM%3D",
-          "file_name": "file_20240318_13_41_14_271910",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03efa2b5be394288b7c7dbf184732615.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833274&x-signature=xVWg3miGIAHMbNMNBTCZ2jKdpwM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03efa2b5be394288b7c7dbf184732615.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272872&x-signature=YSlzn4UNrO6nankQ6AuQDlAEy7o%3D",
+          "file_name": "file_20240323_15_47_52_782724",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/03efa2b5be394288b7c7dbf184732615.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272872&x-signature=YSlzn4UNrO6nankQ6AuQDlAEy7o%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/03efa2b5be394288b7c7dbf184732615.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f0e960d35724b408134c5ad4e2046f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833274&x-signature=SO1Eyp2PXo9gP34BILU%2FzVZY4GU%3D",
-          "file_name": "file_20240318_13_41_14_271928",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f0e960d35724b408134c5ad4e2046f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833274&x-signature=SO1Eyp2PXo9gP34BILU%2FzVZY4GU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f0e960d35724b408134c5ad4e2046f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272872&x-signature=%2BQzN2xGnHYaRe0yRMX8XeAs3oMQ%3D",
+          "file_name": "file_20240323_15_47_52_782741",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f0e960d35724b408134c5ad4e2046f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272872&x-signature=%2BQzN2xGnHYaRe0yRMX8XeAs3oMQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7f0e960d35724b408134c5ad4e2046f9.png",
           "file_type": "jpeg",
           "biz_type": 2

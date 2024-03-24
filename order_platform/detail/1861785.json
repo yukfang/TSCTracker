@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354674",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1707236250,
   "deadline": 0,
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Maria,</p><p><br /></p><p>I checked the data and I am seeing that on Feb 4th, about 8,925 non-pageview events fired for this pixel <span style=\"color: #333333;\">C5JJ3T0KEA1K3CGJFJQ0. On Feb 5th and 6th, I see about half as many (4,626 and 4,644 respectively):</span></p><p><br /></p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d5a4b4ed887a47cb81d9bd698b9207a8.png\" height=\"156.03\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5a4b4ed887a47cb81d9bd698b9207a8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837763&amp;x-signature=yMmkRrb%2FbjGLBi4LbVsvu8KsB00%3D\" width=\"375\"><p><span style=\"color: #333333;\">I am going to get this escalated and find out why this is happening. Please also note I am only able to pull a sample of data for privacy reasons, and this does not include the actual number of events fired during that time.</span></p><p><br /></p><p><span style=\"color: #333333;\">In the meantime, I want to confirm: do you know if the client made any notable changes on their end, to either the pixel or the website?</span></p><p><br /></p><p><span style=\"color: #333333;\">Thanks, Heidi</span></p></img>",
+          "content": "<p>Hi Maria,</p><p><br /></p><p>I checked the data and I am seeing that on Feb 4th, about 8,925 non-pageview events fired for this pixel <span style=\"color: #333333;\">C5JJ3T0KEA1K3CGJFJQ0. On Feb 5th and 6th, I see about half as many (4,626 and 4,644 respectively):</span></p><p><br /></p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d5a4b4ed887a47cb81d9bd698b9207a8.png\" height=\"156.03\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5a4b4ed887a47cb81d9bd698b9207a8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273345&amp;x-signature=gS%2FENc9MumyATGRkNJybnRMbrTw%3D\" width=\"375\"><p><span style=\"color: #333333;\">I am going to get this escalated and find out why this is happening. Please also note I am only able to pull a sample of data for privacy reasons, and this does not include the actual number of events fired during that time.</span></p><p><br /></p><p><span style=\"color: #333333;\">In the meantime, I want to confirm: do you know if the client made any notable changes on their end, to either the pixel or the website?</span></p><p><br /></p><p><span style=\"color: #333333;\">Thanks, Heidi</span></p></img>",
           "type": 6
         }
       ],
@@ -178,7 +178,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Maria,</p><p><br /></p><p>Thanks for confirming! I see the performance is improving as of today:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d6928e7d496243d39e115a60039aeb0b.png\" height=\"186.772\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d6928e7d496243d39e115a60039aeb0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837763&amp;x-signature=WkyKHBfwEtgsMjbDM%2BeX9bJd7Oc%3D\" width=\"375\"><p>But I will investigate and find out what may have happened earlier this week, now that I know the client did not change anything.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Maria,</p><p><br /></p><p>Thanks for confirming! I see the performance is improving as of today:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d6928e7d496243d39e115a60039aeb0b.png\" height=\"186.772\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d6928e7d496243d39e115a60039aeb0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273345&amp;x-signature=qfCqGBN8SZZVZZVElWsruTjCVOo%3D\" width=\"375\"><p>But I will investigate and find out what may have happened earlier this week, now that I know the client did not change anything.</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -386,7 +386,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2142724,
+  "pending_time": 2578306,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -562,23 +562,23 @@
         {
           "file_type": "png",
           "file_name": "Screen Shot 2024-02-06 at 10.06.16 AM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4dfd8ad529414650b8dc1e721f052293.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837762&x-signature=tq%2BcCA2Ijgar8TFa2IGDToebCv4%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4dfd8ad529414650b8dc1e721f052293.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273345&x-signature=s7tuSII8Lvpna3Iv6VoSkGEnfp8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4dfd8ad529414650b8dc1e721f052293.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4dfd8ad529414650b8dc1e721f052293.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837762&x-signature=tq%2BcCA2Ijgar8TFa2IGDToebCv4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4dfd8ad529414650b8dc1e721f052293.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273345&x-signature=s7tuSII8Lvpna3Iv6VoSkGEnfp8%3D",
           "size": 84261
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5a4b4ed887a47cb81d9bd698b9207a8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837763&x-signature=yMmkRrb%2FbjGLBi4LbVsvu8KsB00%3D",
-          "file_name": "file_20240318_14_56_03_143002",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5a4b4ed887a47cb81d9bd698b9207a8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837763&x-signature=yMmkRrb%2FbjGLBi4LbVsvu8KsB00%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5a4b4ed887a47cb81d9bd698b9207a8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273345&x-signature=gS%2FENc9MumyATGRkNJybnRMbrTw%3D",
+          "file_name": "file_20240323_15_55_45_335537",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5a4b4ed887a47cb81d9bd698b9207a8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273345&x-signature=gS%2FENc9MumyATGRkNJybnRMbrTw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d5a4b4ed887a47cb81d9bd698b9207a8.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d6928e7d496243d39e115a60039aeb0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837763&x-signature=WkyKHBfwEtgsMjbDM%2BeX9bJd7Oc%3D",
-          "file_name": "file_20240318_14_56_03_274416",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d6928e7d496243d39e115a60039aeb0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837763&x-signature=WkyKHBfwEtgsMjbDM%2BeX9bJd7Oc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d6928e7d496243d39e115a60039aeb0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273345&x-signature=qfCqGBN8SZZVZZVElWsruTjCVOo%3D",
+          "file_name": "file_20240323_15_55_45_458797",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d6928e7d496243d39e115a60039aeb0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273345&x-signature=qfCqGBN8SZZVZZVElWsruTjCVOo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d6928e7d496243d39e115a60039aeb0b.png",
           "file_type": "jpeg",
           "biz_type": 2

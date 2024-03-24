@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1742593790901282",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Ganesh Radhakrishnan",
   "create_time": 1707453639,
   "deadline": 0,
@@ -138,7 +138,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1012,
+  "pending_time": 398653,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -266,9 +266,9 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-09 at 3.38.37 pm.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8f49a804875a49d083a0f1859b3d688a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875787&x-signature=Wl4XtKbk16f4Zh9t8eruTLYMGCY%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8f49a804875a49d083a0f1859b3d688a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273428&x-signature=I3x7KZd63AHuOY7jnsN4Yi55N7Y%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8f49a804875a49d083a0f1859b3d688a.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8f49a804875a49d083a0f1859b3d688a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875787&x-signature=Wl4XtKbk16f4Zh9t8eruTLYMGCY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8f49a804875a49d083a0f1859b3d688a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273428&x-signature=I3x7KZd63AHuOY7jnsN4Yi55N7Y%3D",
           "size": 255408
         }
       ],

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497211543601",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1709052246,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Christopher,</p><p>Following Apps have no tracking setup:</p><p><span style=\"color: #666666;\">ID : com.golfnow.compete</span></p><p><span style=\"color: #666666;\">ID: 1451640918</span></p><p><span style=\"color: #666666;\">Please ask user to configure it properly, there is no app tracking set up for these.</span></p><p><span style=\"color: #666666;\">If they are new apps, they can create a new SAN app integration. https://ads.tiktok.com/help/article/integrate-to-san-for-new-apps</span></p><p><br /></p><p><span style=\"color: #666666;\">For </span><span style=\"color: #333333;\">Android: Golf Tee Times</span></p><p><span style=\"color: #666666;\">ID: com.golfnow.android.teetimes</span></p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png\" height=\"49.923\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838290&amp;x-signature=MX49g5nfZ1VHRmw7hdKZqZmiQiw%3D\" width=\"375\"><p>This App is ready for transition, just wait for few more days (until next Monday) for the transition to be complete.</p><p><br /></p><p>For : Ios App - <span style=\"color: #333333;\">Book TeeTimes Golf GPS</span></p><p><span style=\"color: #333333;\">I</span><span style=\"color: #666666;\">D: 411930498</span></p><p><span style=\"color: #666666;\">User has not completed the set up</span></p><p>Please ask user to complete set up  <em>Doc</em>: https://support.kochava.com/campaign-management/create-a-tiktok-for-business-campaign/?scrollto=marker_9</p><p> and send screenshot of integration settings</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png\" height=\"75.348\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838290&amp;x-signature=v5kD3NYAsbrw6%2FWrQi2WpNKeuMY%3D\" width=\"375\" /></img>",
+          "content": "<p>Hi Christopher,</p><p>Following Apps have no tracking setup:</p><p><span style=\"color: #666666;\">ID : com.golfnow.compete</span></p><p><span style=\"color: #666666;\">ID: 1451640918</span></p><p><span style=\"color: #666666;\">Please ask user to configure it properly, there is no app tracking set up for these.</span></p><p><span style=\"color: #666666;\">If they are new apps, they can create a new SAN app integration. https://ads.tiktok.com/help/article/integrate-to-san-for-new-apps</span></p><p><br /></p><p><span style=\"color: #666666;\">For </span><span style=\"color: #333333;\">Android: Golf Tee Times</span></p><p><span style=\"color: #666666;\">ID: com.golfnow.android.teetimes</span></p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png\" height=\"49.923\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273806&amp;x-signature=psU6mx0QPXb5dj5n%2Buw0I2EQH0c%3D\" width=\"375\"><p>This App is ready for transition, just wait for few more days (until next Monday) for the transition to be complete.</p><p><br /></p><p>For : Ios App - <span style=\"color: #333333;\">Book TeeTimes Golf GPS</span></p><p><span style=\"color: #333333;\">I</span><span style=\"color: #666666;\">D: 411930498</span></p><p><span style=\"color: #666666;\">User has not completed the set up</span></p><p>Please ask user to complete set up  <em>Doc</em>: https://support.kochava.com/campaign-management/create-a-tiktok-for-business-campaign/?scrollto=marker_9</p><p> and send screenshot of integration settings</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png\" height=\"75.348\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273806&amp;x-signature=UW6CA3Bu4MwPhY9TFion%2FjJXZ4M%3D\" width=\"375\" /></img>",
           "type": 6
         }
       ],
@@ -131,7 +131,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 926591,
+  "pending_time": 1362107,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -307,24 +307,24 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-27 at 8.43.30 AM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/357e8b1a4b4a4fd98031ca65803fcd2e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838290&x-signature=dRTWbmfLay1EDw13Cf3k6LPLhSQ%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/357e8b1a4b4a4fd98031ca65803fcd2e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273805&x-signature=IjGYzQgXam3HsBTz5MKv3SFTcU8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/357e8b1a4b4a4fd98031ca65803fcd2e.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/357e8b1a4b4a4fd98031ca65803fcd2e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838290&x-signature=dRTWbmfLay1EDw13Cf3k6LPLhSQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/357e8b1a4b4a4fd98031ca65803fcd2e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273805&x-signature=IjGYzQgXam3HsBTz5MKv3SFTcU8%3D",
           "size": 87589
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838290&x-signature=MX49g5nfZ1VHRmw7hdKZqZmiQiw%3D",
-          "file_name": "file_20240318_15_04_50_567170",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838290&x-signature=MX49g5nfZ1VHRmw7hdKZqZmiQiw%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273806&x-signature=UW6CA3Bu4MwPhY9TFion%2FjJXZ4M%3D",
+          "file_name": "file_20240323_16_03_26_046541",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273806&x-signature=UW6CA3Bu4MwPhY9TFion%2FjJXZ4M%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838290&x-signature=v5kD3NYAsbrw6%2FWrQi2WpNKeuMY%3D",
-          "file_name": "file_20240318_15_04_50_567265",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838290&x-signature=v5kD3NYAsbrw6%2FWrQi2WpNKeuMY%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/48c6f92436a747538c59ffa4576a7fd5.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273806&x-signature=psU6mx0QPXb5dj5n%2Buw0I2EQH0c%3D",
+          "file_name": "file_20240323_16_03_26_046639",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273806&x-signature=psU6mx0QPXb5dj5n%2Buw0I2EQH0c%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c36f7ac7afc841b29f7de39953c9285d.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

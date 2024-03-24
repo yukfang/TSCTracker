@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1707860525,
   "deadline": 0,
@@ -178,7 +178,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Heidi! added you to the email chain but resurfacing here so we can side bar if needed. LMK if you have any idea what the issue could be. thank you!</p><p><br /></p><p>\"<span style=\"color: #222222;\">So Tim needs a business account to create a developer account? When I’m logged into my business account and click the link you sent I see the attached. Still need some help here\"</span></p><p><br /></p><img alt=\"image (30).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2dbeda8ff6a14b069ad3136f7d073067.png\" height=\"152.934\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2dbeda8ff6a14b069ad3136f7d073067.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837951&amp;x-signature=dAySo%2FF%2F9LH3hB2N0RyNi8VqvuI%3D\" width=\"375\" />",
+          "content": "<p>Hi Heidi! added you to the email chain but resurfacing here so we can side bar if needed. LMK if you have any idea what the issue could be. thank you!</p><p><br /></p><p>\"<span style=\"color: #222222;\">So Tim needs a business account to create a developer account? When I’m logged into my business account and click the link you sent I see the attached. Still need some help here\"</span></p><p><br /></p><img alt=\"image (30).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2dbeda8ff6a14b069ad3136f7d073067.png\" height=\"152.934\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2dbeda8ff6a14b069ad3136f7d073067.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273493&amp;x-signature=Qvic859gUoS8IqCR2zXNFnWE2AI%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -271,12 +271,41 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710969285,
+      "auto_close_hit": 0,
+      "id": 7348553303912890000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>HI Megan, I found the correct doc that should solve their problems, and have sent it to them:</p><p><a target=\"_blank\" href=\"https://developer.salesforce.com/docs/commerce/b2c-commerce/guide/b2c-third-party.html#tiktok-for-business-integration\">https://developer.salesforce.com/docs/commerce/b2c-commerce/guide/b2c-third-party.html#tiktok-for-business-integration</a></p><p>it describes the various ids and secrets I think they were confused about.</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
-  "pending_from_follower": false,
+  "pending_from_follower": true,
   "id": 1874082,
   "workflow_nodes": [],
   "board_id": 1705151646989663,
@@ -300,7 +329,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1710358602,
+  "update_time": 1710969284,
   "owner_name": "Megan Ogrinc",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -402,7 +431,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 415349,
+  "pending_time": 240209,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -576,9 +605,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2dbeda8ff6a14b069ad3136f7d073067.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837951&x-signature=dAySo%2FF%2F9LH3hB2N0RyNi8VqvuI%3D",
-          "file_name": "file_20240318_14_59_11_372771",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2dbeda8ff6a14b069ad3136f7d073067.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837951&x-signature=dAySo%2FF%2F9LH3hB2N0RyNi8VqvuI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2dbeda8ff6a14b069ad3136f7d073067.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273493&x-signature=Qvic859gUoS8IqCR2zXNFnWE2AI%3D",
+          "file_name": "file_20240323_15_58_13_920196",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2dbeda8ff6a14b069ad3136f7d073067.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273493&x-signature=Qvic859gUoS8IqCR2zXNFnWE2AI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2dbeda8ff6a14b069ad3136f7d073067.png",
           "file_type": "jpeg",
           "biz_type": 2

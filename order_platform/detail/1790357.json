@@ -41,6 +41,37 @@
       ],
       "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711015105,
+      "auto_close_hit": 0,
+      "id": 7348753280282984000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><strong>[Status Update]</strong> Client call took place on Jan 11th where we implemented additional events, added MAM on all events and corrected the server-side setup. Server-side events have stopped being measured. Asked CSM to follow up with the client.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -68,7 +99,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1704474745,
+  "update_time": 1711015104,
   "owner_name": "Adam Bjergvang",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -170,7 +201,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 6294464,
+  "pending_time": 193056,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1704833481,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Here are the recommendations :</p><ol><li> parameters missing in AddToCart.  Kindly add Value and content_id (usually SKU id)</li></ol><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5f038efc919f41bbb8b15b2109cc5e46.png\" height=\"585\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f038efc919f41bbb8b15b2109cc5e46.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832775&amp;x-signature=LXEe3MQSqCWnLoozyX94Si3RWNE%3D\" width=\"375\"><p><br>2. Please add missing parameters for InitiateCheckout and completePayment</br></p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/fe926a47e3274ceab3f54c41f0a5ca54.png\" height=\"600.711\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fe926a47e3274ceab3f54c41f0a5ca54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832775&amp;x-signature=H6Fpdj8eSd50rhtUvQ2LPvtk6Yo%3D\" width=\"375\"><p><br /></p><p>__________________</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5170f7f095e143f697cae867c229c187.png\" height=\"558.494\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5170f7f095e143f697cae867c229c187.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832775&amp;x-signature=523L7KmeIFbUSSYt9M28IARLtP4%3D\" width=\"375\"><p><br /></p><p><br /></p><p><br /></p><p>3.Add PIIs (emai/phone) in all the events for adv matching (where ever possible) doc: https://business-api.tiktok.com/portal/docs?id=1739585700402178</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2d1feedcc3974b9293e645fdb9d29a0c.png\" height=\"470.663\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d1feedcc3974b9293e645fdb9d29a0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832775&amp;x-signature=hD9er0aihRSZLRHGz8Bd2qpBqTs%3D\" width=\"375\"><p>4.Add ViewContent on the Product Description Page with all the parameters (value, currency, content_id  , content_type)</p></img></img></img></img>",
+          "content": "<p>Here are the recommendations :</p><ol><li> parameters missing in AddToCart.  Kindly add Value and content_id (usually SKU id)</li></ol><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5f038efc919f41bbb8b15b2109cc5e46.png\" height=\"585\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f038efc919f41bbb8b15b2109cc5e46.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272825&amp;x-signature=6agLyMF0pZtHp34MZS90Y8dSD8g%3D\" width=\"375\"><p><br>2. Please add missing parameters for InitiateCheckout and completePayment</br></p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/fe926a47e3274ceab3f54c41f0a5ca54.png\" height=\"600.711\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fe926a47e3274ceab3f54c41f0a5ca54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272825&amp;x-signature=IG6bSx%2BB3Nk4rtH6PZeRVD%2F7AmQ%3D\" width=\"375\"><p><br /></p><p>__________________</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5170f7f095e143f697cae867c229c187.png\" height=\"558.494\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5170f7f095e143f697cae867c229c187.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272825&amp;x-signature=tjgn0g85OOgxVhvkowwAllOxb4o%3D\" width=\"375\"><p><br /></p><p><br /></p><p><br /></p><p>3.Add PIIs (emai/phone) in all the events for adv matching (where ever possible) doc: https://business-api.tiktok.com/portal/docs?id=1739585700402178</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2d1feedcc3974b9293e645fdb9d29a0c.png\" height=\"470.663\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d1feedcc3974b9293e645fdb9d29a0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272825&amp;x-signature=UaazzIXDHBCshboudCrhxJxz7Ug%3D\" width=\"375\"><p>4.Add ViewContent on the Product Description Page with all the parameters (value, currency, content_id  , content_type)</p></img></img></img></img>",
           "type": 6
         }
       ],
@@ -328,7 +328,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2047689,
+  "pending_time": 2487738,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -502,34 +502,34 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fe926a47e3274ceab3f54c41f0a5ca54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832775&x-signature=H6Fpdj8eSd50rhtUvQ2LPvtk6Yo%3D",
-          "file_name": "file_20240318_13_32_55_897858",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fe926a47e3274ceab3f54c41f0a5ca54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832775&x-signature=H6Fpdj8eSd50rhtUvQ2LPvtk6Yo%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/fe926a47e3274ceab3f54c41f0a5ca54.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d1feedcc3974b9293e645fdb9d29a0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272825&x-signature=UaazzIXDHBCshboudCrhxJxz7Ug%3D",
+          "file_name": "file_20240323_15_47_05_236365",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d1feedcc3974b9293e645fdb9d29a0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272825&x-signature=UaazzIXDHBCshboudCrhxJxz7Ug%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2d1feedcc3974b9293e645fdb9d29a0c.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5170f7f095e143f697cae867c229c187.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832775&x-signature=523L7KmeIFbUSSYt9M28IARLtP4%3D",
-          "file_name": "file_20240318_13_32_55_897990",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5170f7f095e143f697cae867c229c187.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832775&x-signature=523L7KmeIFbUSSYt9M28IARLtP4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5170f7f095e143f697cae867c229c187.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272825&x-signature=tjgn0g85OOgxVhvkowwAllOxb4o%3D",
+          "file_name": "file_20240323_15_47_05_236440",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5170f7f095e143f697cae867c229c187.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272825&x-signature=tjgn0g85OOgxVhvkowwAllOxb4o%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5170f7f095e143f697cae867c229c187.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f038efc919f41bbb8b15b2109cc5e46.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832775&x-signature=LXEe3MQSqCWnLoozyX94Si3RWNE%3D",
-          "file_name": "file_20240318_13_32_55_898030",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f038efc919f41bbb8b15b2109cc5e46.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832775&x-signature=LXEe3MQSqCWnLoozyX94Si3RWNE%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/5f038efc919f41bbb8b15b2109cc5e46.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fe926a47e3274ceab3f54c41f0a5ca54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272825&x-signature=IG6bSx%2BB3Nk4rtH6PZeRVD%2F7AmQ%3D",
+          "file_name": "file_20240323_15_47_05_236458",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fe926a47e3274ceab3f54c41f0a5ca54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272825&x-signature=IG6bSx%2BB3Nk4rtH6PZeRVD%2F7AmQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/fe926a47e3274ceab3f54c41f0a5ca54.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d1feedcc3974b9293e645fdb9d29a0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832775&x-signature=hD9er0aihRSZLRHGz8Bd2qpBqTs%3D",
-          "file_name": "file_20240318_13_32_55_898067",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d1feedcc3974b9293e645fdb9d29a0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832775&x-signature=hD9er0aihRSZLRHGz8Bd2qpBqTs%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/2d1feedcc3974b9293e645fdb9d29a0c.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f038efc919f41bbb8b15b2109cc5e46.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272825&x-signature=6agLyMF0pZtHp34MZS90Y8dSD8g%3D",
+          "file_name": "file_20240323_15_47_05_236471",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5f038efc919f41bbb8b15b2109cc5e46.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272825&x-signature=6agLyMF0pZtHp34MZS90Y8dSD8g%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5f038efc919f41bbb8b15b2109cc5e46.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1706213627,
   "deadline": 0,
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zahra,</p><p><br /></p><p>Checking their site <span style=\"color: #333333;\"><a href=\"https://www.lee.com/\" target=\"_blank\">https://www.lee.com/</a> and <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CK4Q18RC77UACAV1AIFG?start_time=2024-01-23&amp;end_time=2024-01-29&amp;from=ALL&amp;aadvid=7017882088242184193\" target=\"_blank\">Events Manager</a> for pixel id CK4Q18RC77UACAV1AIFG, and I see what you mean. Most notably, they are missing a CompletePayment event for their integration:</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5c63435385b345ffa2966b344e808a23.png\" height=\"201.539\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5c63435385b345ffa2966b344e808a23.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833017&amp;x-signature=ZyKkqzGAECwOn7O%2BhFe3ICCHnOk%3D\" width=\"375\"><p>As you know, CompletePayment is required in order to qualify for VSA, and generally used to determine ROAS an other key metrics! So I would say they need to add this immediately, and be sure to include parameters listed <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en#:~:text=%27ClickButton%27-,Complete,-Payment\" target=\"_blank\">here</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/38304b7efa584514abc96982017bd59d.png\" height=\"156.461\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/38304b7efa584514abc96982017bd59d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833017&amp;x-signature=TNpXR9KTpcKmlg50ZSBVF%2FH4hx4%3D\" width=\"375\"><p>Event for the PlaceAnOrder event I see they are using (instead of CompletePayment), there is no PII being reported:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8dbbeac3a5b54fafbb337415d78686ff.png\" height=\"52.585\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8dbbeac3a5b54fafbb337415d78686ff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833017&amp;x-signature=fTVbX%2BP1e%2FTg%2F%2BKb7%2Fe328p55mQ%3D\" width=\"375\"><p>so most likely TikTok is missing out on those attributions.</p><p><br /></p><p>I would say they should urgently put CompletePayment with Automatic and Manual <a href=\"https://ads.tiktok.com/help/article/advanced-matching-web?lang=en\" target=\"_blank\">Advanced Matching</a> in place. I am available to get on a call if it looks like they need a more detailed consultation. Feel free to use my scheduler link here (and do add a Zoom link for those clients who can't access Lark, if you use the link): <a href=\"https://bytedance.larksuite.com/scheduler/74c8aaeecf93ed02\" target=\"_blank\">https://bytedance.larksuite.com/scheduler/74c8aaeecf93ed02</a></p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
+          "content": "<p>Hi Zahra,</p><p><br /></p><p>Checking their site <span style=\"color: #333333;\"><a href=\"https://www.lee.com/\" target=\"_blank\">https://www.lee.com/</a> and <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CK4Q18RC77UACAV1AIFG?start_time=2024-01-23&amp;end_time=2024-01-29&amp;from=ALL&amp;aadvid=7017882088242184193\" target=\"_blank\">Events Manager</a> for pixel id CK4Q18RC77UACAV1AIFG, and I see what you mean. Most notably, they are missing a CompletePayment event for their integration:</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5c63435385b345ffa2966b344e808a23.png\" height=\"201.539\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5c63435385b345ffa2966b344e808a23.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273114&amp;x-signature=PF3PinTJKvAPbQnz8FI1cP79PGM%3D\" width=\"375\"><p>As you know, CompletePayment is required in order to qualify for VSA, and generally used to determine ROAS an other key metrics! So I would say they need to add this immediately, and be sure to include parameters listed <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en#:~:text=%27ClickButton%27-,Complete,-Payment\" target=\"_blank\">here</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/38304b7efa584514abc96982017bd59d.png\" height=\"156.461\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/38304b7efa584514abc96982017bd59d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273114&amp;x-signature=1Kngvl2lWJG8ci0HdCGFJvMuNBw%3D\" width=\"375\"><p>Event for the PlaceAnOrder event I see they are using (instead of CompletePayment), there is no PII being reported:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8dbbeac3a5b54fafbb337415d78686ff.png\" height=\"52.585\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8dbbeac3a5b54fafbb337415d78686ff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273114&amp;x-signature=iEj0tnthxqVUZjTDmFuv%2Bhk2S0w%3D\" width=\"375\"><p>so most likely TikTok is missing out on those attributions.</p><p><br /></p><p>I would say they should urgently put CompletePayment with Automatic and Manual <a href=\"https://ads.tiktok.com/help/article/advanced-matching-web?lang=en\" target=\"_blank\">Advanced Matching</a> in place. I am available to get on a call if it looks like they need a more detailed consultation. Feel free to use my scheduler link here (and do add a Zoom link for those clients who can't access Lark, if you use the link): <a href=\"https://bytedance.larksuite.com/scheduler/74c8aaeecf93ed02\" target=\"_blank\">https://bytedance.larksuite.com/scheduler/74c8aaeecf93ed02</a></p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
           "type": 6
         }
       ],
@@ -175,7 +175,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 5,
   "current_role": null,
@@ -357,7 +357,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2066667,
+  "pending_time": 2506764,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -533,32 +533,32 @@
         {
           "file_type": "pdf",
           "file_name": "Lee Signals .pdf",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4AjUAyE1QffyDC3wgAsNAAsEEcl0rD8pzPBFC.pdf?lk3s=cbe26b3a&x-expires=4832833017&x-signature=Q1wtnmH%2BrEjcwmxSYjYA5JEAf0o%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4AjUAyE1QffyDC3wgAsNAAsEEcl0rD8pzPBFC.pdf?lk3s=cbe26b3a&x-expires=4833273114&x-signature=3spi21DnZR7Vlz95HNEDbI6baU8%3D",
           "file_key": "tos-alisg-v-90231e-sg/o4AjUAyE1QffyDC3wgAsNAAsEEcl0rD8pzPBFC.pdf",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4AjUAyE1QffyDC3wgAsNAAsEEcl0rD8pzPBFC.pdf?lk3s=cbe26b3a&x-expires=4832833017&x-signature=Q1wtnmH%2BrEjcwmxSYjYA5JEAf0o%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4AjUAyE1QffyDC3wgAsNAAsEEcl0rD8pzPBFC.pdf?lk3s=cbe26b3a&x-expires=4833273114&x-signature=3spi21DnZR7Vlz95HNEDbI6baU8%3D",
           "size": 175820
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8dbbeac3a5b54fafbb337415d78686ff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833017&x-signature=fTVbX%2BP1e%2FTg%2F%2BKb7%2Fe328p55mQ%3D",
-          "file_name": "file_20240318_13_36_58_011691",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8dbbeac3a5b54fafbb337415d78686ff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833017&x-signature=fTVbX%2BP1e%2FTg%2F%2BKb7%2Fe328p55mQ%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/8dbbeac3a5b54fafbb337415d78686ff.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/38304b7efa584514abc96982017bd59d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273114&x-signature=1Kngvl2lWJG8ci0HdCGFJvMuNBw%3D",
+          "file_name": "file_20240323_15_51_54_923447",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/38304b7efa584514abc96982017bd59d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273114&x-signature=1Kngvl2lWJG8ci0HdCGFJvMuNBw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/38304b7efa584514abc96982017bd59d.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5c63435385b345ffa2966b344e808a23.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833017&x-signature=ZyKkqzGAECwOn7O%2BhFe3ICCHnOk%3D",
-          "file_name": "file_20240318_13_36_58_011767",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5c63435385b345ffa2966b344e808a23.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833017&x-signature=ZyKkqzGAECwOn7O%2BhFe3ICCHnOk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5c63435385b345ffa2966b344e808a23.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273114&x-signature=PF3PinTJKvAPbQnz8FI1cP79PGM%3D",
+          "file_name": "file_20240323_15_51_54_923525",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5c63435385b345ffa2966b344e808a23.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273114&x-signature=PF3PinTJKvAPbQnz8FI1cP79PGM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5c63435385b345ffa2966b344e808a23.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/38304b7efa584514abc96982017bd59d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833017&x-signature=TNpXR9KTpcKmlg50ZSBVF%2FH4hx4%3D",
-          "file_name": "file_20240318_13_36_58_011787",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/38304b7efa584514abc96982017bd59d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833017&x-signature=TNpXR9KTpcKmlg50ZSBVF%2FH4hx4%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/38304b7efa584514abc96982017bd59d.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8dbbeac3a5b54fafbb337415d78686ff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273114&x-signature=iEj0tnthxqVUZjTDmFuv%2Bhk2S0w%3D",
+          "file_name": "file_20240323_15_51_54_923541",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8dbbeac3a5b54fafbb337415d78686ff.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273114&x-signature=iEj0tnthxqVUZjTDmFuv%2Bhk2S0w%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8dbbeac3a5b54fafbb337415d78686ff.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

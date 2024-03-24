@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1709237587,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi events api triggering can only be tested with client over a call.</p><p>Also, there is a an error that I've found in their signal:</p><p> Their <strong>dedup rate is 0%</strong></p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6f5eaad610624979aeccba5cfcccf6f1.png\" height=\"242.647\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f5eaad610624979aeccba5cfcccf6f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838366&amp;x-signature=wWdhF1VFxGKZNWT2p%2F7I3ggW45Q%3D\" width=\"375\"><p><strong>This happens when the event_id from web signal do not match with the server signals</strong></p><p>Please ask them to review it and once they are done we can have a QA call</p><p><br><br /></br></p><p>Use this link to put a block on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img>",
+          "content": "<p>Hi events api triggering can only be tested with client over a call.</p><p>Also, there is a an error that I've found in their signal:</p><p> Their <strong>dedup rate is 0%</strong></p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6f5eaad610624979aeccba5cfcccf6f1.png\" height=\"242.647\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f5eaad610624979aeccba5cfcccf6f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273883&amp;x-signature=zL4W6mj3mMbTPpPQ8FhZleyauRM%3D\" width=\"375\"><p><strong>This happens when the event_id from web signal do not match with the server signals</strong></p><p>Please ask them to review it and once they are done we can have a QA call</p><p><br><br /></br></p><p>Use this link to put a block on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img>",
           "type": 6
         }
       ],
@@ -226,7 +226,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1179459,
+  "pending_time": 1614977,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -406,9 +406,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f5eaad610624979aeccba5cfcccf6f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838366&x-signature=wWdhF1VFxGKZNWT2p%2F7I3ggW45Q%3D",
-          "file_name": "file_20240318_15_06_06_147124",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f5eaad610624979aeccba5cfcccf6f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838366&x-signature=wWdhF1VFxGKZNWT2p%2F7I3ggW45Q%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f5eaad610624979aeccba5cfcccf6f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273883&x-signature=zL4W6mj3mMbTPpPQ8FhZleyauRM%3D",
+          "file_name": "file_20240323_16_04_43_994352",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f5eaad610624979aeccba5cfcccf6f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273883&x-signature=zL4W6mj3mMbTPpPQ8FhZleyauRM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/6f5eaad610624979aeccba5cfcccf6f1.png",
           "file_type": "jpeg",
           "biz_type": 2

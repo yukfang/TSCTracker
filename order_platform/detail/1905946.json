@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Samhar,</p><p>Happy to assist here. It looks like event setup in general is incomplete which is why they aren't seeing any additional events aside from the built-in Pageview event. </p><p>Here is the Steam Click custom event they are have attempted to configure using Event Builder:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a8d8a8891e4c46afab70a685b86a3b2b.png\" height=\"219.239\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a8d8a8891e4c46afab70a685b86a3b2b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838333&amp;x-signature=0x40Mbm2VSJbqnqf0BFHag75jHc%3D\" width=\"375\"><p>Here is the TikTok Pixel on the page:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d38fafea2ab74de3a0971ae7a0372f4c.png\" height=\"109.439\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d38fafea2ab74de3a0971ae7a0372f4c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838333&amp;x-signature=PMdjIk%2BwCsGaFuUDd0NkF%2F5rAOw%3D\" width=\"375\"><p>Are they able to proceed with a Custom Code implementation, by using either a 3rd party tagging manager (like Google Tag Manager, Tealium, Segment) or by placing the event code directly on their site's HTML?</p><p>Otherwise we'd be happy to assist them with Event Builder configuration if they are able to provide us with the desired event and event triggers they would like to setup.</p><p>Thanks!</p><p>Robbie</p></img></img>",
+          "content": "<p>Hi Samhar,</p><p>Happy to assist here. It looks like event setup in general is incomplete which is why they aren't seeing any additional events aside from the built-in Pageview event. </p><p>Here is the Steam Click custom event they are have attempted to configure using Event Builder:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a8d8a8891e4c46afab70a685b86a3b2b.png\" height=\"219.239\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a8d8a8891e4c46afab70a685b86a3b2b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273849&amp;x-signature=PxnPXV8FNyyV66IUeFKYb52aPLQ%3D\" width=\"375\"><p>Here is the TikTok Pixel on the page:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d38fafea2ab74de3a0971ae7a0372f4c.png\" height=\"109.439\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d38fafea2ab74de3a0971ae7a0372f4c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273849&amp;x-signature=rW5P1S82zBbLyfnA5nK1DIWcmyk%3D\" width=\"375\"><p>Are they able to proceed with a Custom Code implementation, by using either a 3rd party tagging manager (like Google Tag Manager, Tealium, Segment) or by placing the event code directly on their site's HTML?</p><p>Otherwise we'd be happy to assist them with Event Builder configuration if they are able to provide us with the desired event and event triggers they would like to setup.</p><p>Thanks!</p><p>Robbie</p></img></img>",
           "type": 6
         }
       ],
@@ -151,7 +151,7 @@
       ],
       "items": [
         {
-          "content": "<p>What was happening was they were using this condition \"Page URL\" to try to trigger the button click. This did not work and there did not appear to be any other choices we could try initially:</p><img alt=\"img_v3_028o_e8d6f98d-98bc-4bfd-9fb7-eae2f68c7a1h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/fcfd1472af8a40a2afb413055b7b5cfb.jpg\" height=\"161.458\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcfd1472af8a40a2afb413055b7b5cfb.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838333&amp;x-signature=353rELSprxNbqR%2B7KfvI7AkpvEQ%3D\" width=\"375\"><p>In order to get the data we need from the button click, we will need to add the ability to gather the URL from the link in the button click. In GTM, we will go to \"Variables\" and then click on \"Configure\":</p><img alt=\"img_v3_028o_c841205c-eb29-4818-8fe4-48c34ebd7dfh.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/13a5b71a59c04af2938deb85664447fc.jpg\" height=\"166.667\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13a5b71a59c04af2938deb85664447fc.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838333&amp;x-signature=kXSEqH4tZRrRN7G%2B9gjyM2NsOZg%3D\" width=\"375\"><p>Then we scroll down and select all options under \"Clicks\"</p><img alt=\"img_v3_028o_7d7588fa-c877-41d5-a855-a1a86015197h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0b49788b39ba47d4b7c1152db765cba7.jpg\" height=\"165.247\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0b49788b39ba47d4b7c1152db765cba7.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838333&amp;x-signature=97zSTP57Jyo5D1FZ%2FRAvVkXzhvk%3D\" width=\"375\"><p>Then when we go back to triggers, we can then now select \"Click URL\". This will grab the URL data from the button and fulfill the trigger condition</p><img alt=\"img_v3_028o_c7d65823-934d-4a9f-bf8b-94c9fa4dd8fh.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/520ea86de7ec4766a4a692a7f96354a0.jpg\" height=\"148.747\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/520ea86de7ec4766a4a692a7f96354a0.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838333&amp;x-signature=nE%2ByFdper%2BTl%2F7xPf4GuCbVUhyA%3D\" width=\"375\" /></img></img></img>",
+          "content": "<p>What was happening was they were using this condition \"Page URL\" to try to trigger the button click. This did not work and there did not appear to be any other choices we could try initially:</p><img alt=\"img_v3_028o_e8d6f98d-98bc-4bfd-9fb7-eae2f68c7a1h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/fcfd1472af8a40a2afb413055b7b5cfb.jpg\" height=\"161.458\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcfd1472af8a40a2afb413055b7b5cfb.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273849&amp;x-signature=PnGFv59fAXbD72esas83aIul6ms%3D\" width=\"375\"><p>In order to get the data we need from the button click, we will need to add the ability to gather the URL from the link in the button click. In GTM, we will go to \"Variables\" and then click on \"Configure\":</p><img alt=\"img_v3_028o_c841205c-eb29-4818-8fe4-48c34ebd7dfh.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/13a5b71a59c04af2938deb85664447fc.jpg\" height=\"166.667\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13a5b71a59c04af2938deb85664447fc.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273849&amp;x-signature=%2B705nZd4oqRU1bvYCW1SuBPGPEw%3D\" width=\"375\"><p>Then we scroll down and select all options under \"Clicks\"</p><img alt=\"img_v3_028o_7d7588fa-c877-41d5-a855-a1a86015197h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0b49788b39ba47d4b7c1152db765cba7.jpg\" height=\"165.247\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0b49788b39ba47d4b7c1152db765cba7.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273849&amp;x-signature=d9E1p6OWFurGQ%2BKLSCCKwQacuw8%3D\" width=\"375\"><p>Then when we go back to triggers, we can then now select \"Click URL\". This will grab the URL data from the button and fulfill the trigger condition</p><img alt=\"img_v3_028o_c7d65823-934d-4a9f-bf8b-94c9fa4dd8fh.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/520ea86de7ec4766a4a692a7f96354a0.jpg\" height=\"148.747\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/520ea86de7ec4766a4a692a7f96354a0.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273849&amp;x-signature=PFwBwqJV8dts8Kr%2BgmCSQakAufk%3D\" width=\"375\" /></img></img></img>",
           "type": 6
         }
       ],
@@ -286,7 +286,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 950684,
+  "pending_time": 1386201,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -460,49 +460,49 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a8d8a8891e4c46afab70a685b86a3b2b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838333&x-signature=0x40Mbm2VSJbqnqf0BFHag75jHc%3D",
-          "file_name": "file_20240318_15_05_33_271491",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a8d8a8891e4c46afab70a685b86a3b2b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838333&x-signature=0x40Mbm2VSJbqnqf0BFHag75jHc%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/a8d8a8891e4c46afab70a685b86a3b2b.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d38fafea2ab74de3a0971ae7a0372f4c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838333&x-signature=PMdjIk%2BwCsGaFuUDd0NkF%2F5rAOw%3D",
-          "file_name": "file_20240318_15_05_33_271564",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d38fafea2ab74de3a0971ae7a0372f4c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838333&x-signature=PMdjIk%2BwCsGaFuUDd0NkF%2F5rAOw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d38fafea2ab74de3a0971ae7a0372f4c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273849&x-signature=rW5P1S82zBbLyfnA5nK1DIWcmyk%3D",
+          "file_name": "file_20240323_16_04_09_877222",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d38fafea2ab74de3a0971ae7a0372f4c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273849&x-signature=rW5P1S82zBbLyfnA5nK1DIWcmyk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d38fafea2ab74de3a0971ae7a0372f4c.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/520ea86de7ec4766a4a692a7f96354a0.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838333&x-signature=nE%2ByFdper%2BTl%2F7xPf4GuCbVUhyA%3D",
-          "file_name": "file_20240318_15_05_33_394327",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/520ea86de7ec4766a4a692a7f96354a0.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838333&x-signature=nE%2ByFdper%2BTl%2F7xPf4GuCbVUhyA%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/520ea86de7ec4766a4a692a7f96354a0.jpg",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a8d8a8891e4c46afab70a685b86a3b2b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273849&x-signature=PxnPXV8FNyyV66IUeFKYb52aPLQ%3D",
+          "file_name": "file_20240323_16_04_09_877278",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a8d8a8891e4c46afab70a685b86a3b2b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273849&x-signature=PxnPXV8FNyyV66IUeFKYb52aPLQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a8d8a8891e4c46afab70a685b86a3b2b.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcfd1472af8a40a2afb413055b7b5cfb.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838333&x-signature=353rELSprxNbqR%2B7KfvI7AkpvEQ%3D",
-          "file_name": "file_20240318_15_05_33_394376",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcfd1472af8a40a2afb413055b7b5cfb.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838333&x-signature=353rELSprxNbqR%2B7KfvI7AkpvEQ%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/fcfd1472af8a40a2afb413055b7b5cfb.jpg",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0b49788b39ba47d4b7c1152db765cba7.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838333&x-signature=97zSTP57Jyo5D1FZ%2FRAvVkXzhvk%3D",
-          "file_name": "file_20240318_15_05_33_394393",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0b49788b39ba47d4b7c1152db765cba7.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838333&x-signature=97zSTP57Jyo5D1FZ%2FRAvVkXzhvk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0b49788b39ba47d4b7c1152db765cba7.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273849&x-signature=d9E1p6OWFurGQ%2BKLSCCKwQacuw8%3D",
+          "file_name": "file_20240323_16_04_10_004160",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0b49788b39ba47d4b7c1152db765cba7.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273849&x-signature=d9E1p6OWFurGQ%2BKLSCCKwQacuw8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0b49788b39ba47d4b7c1152db765cba7.jpg",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13a5b71a59c04af2938deb85664447fc.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838333&x-signature=kXSEqH4tZRrRN7G%2B9gjyM2NsOZg%3D",
-          "file_name": "file_20240318_15_05_33_394406",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13a5b71a59c04af2938deb85664447fc.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838333&x-signature=kXSEqH4tZRrRN7G%2B9gjyM2NsOZg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/520ea86de7ec4766a4a692a7f96354a0.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273849&x-signature=PFwBwqJV8dts8Kr%2BgmCSQakAufk%3D",
+          "file_name": "file_20240323_16_04_10_004219",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/520ea86de7ec4766a4a692a7f96354a0.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273849&x-signature=PFwBwqJV8dts8Kr%2BgmCSQakAufk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/520ea86de7ec4766a4a692a7f96354a0.jpg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcfd1472af8a40a2afb413055b7b5cfb.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273849&x-signature=PnGFv59fAXbD72esas83aIul6ms%3D",
+          "file_name": "file_20240323_16_04_10_004239",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fcfd1472af8a40a2afb413055b7b5cfb.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273849&x-signature=PnGFv59fAXbD72esas83aIul6ms%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/fcfd1472af8a40a2afb413055b7b5cfb.jpg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13a5b71a59c04af2938deb85664447fc.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273849&x-signature=%2B705nZd4oqRU1bvYCW1SuBPGPEw%3D",
+          "file_name": "file_20240323_16_04_10_004253",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13a5b71a59c04af2938deb85664447fc.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273849&x-signature=%2B705nZd4oqRU1bvYCW1SuBPGPEw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/13a5b71a59c04af2938deb85664447fc.jpg",
           "file_type": "jpeg",
           "biz_type": 2

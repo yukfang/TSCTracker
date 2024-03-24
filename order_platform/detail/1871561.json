@@ -35,7 +35,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hola Mateo,</p><p>Confirmando recibo de tu ticket.</p><p>Para habilitar advanced matching, el anunciante debe incluir el correo electrónico con el evento de CompleteRegistration. </p><p>Para esto, ellos pueden incluir la funcion de ttq.identify en la misma etiqueta de CompleteRegistration que ya tienen. </p><img alt=\"Screenshot 2024-02-12 at 10.52.02 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a6589ef3ac1d4495b5bedb02b895e34a.png\" height=\"148.782\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a6589ef3ac1d4495b5bedb02b895e34a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837924&amp;x-signature=96d38y1CXZCgN5ME29R%2FmNxov3M%3D\" width=\"375\"><p>Puedes <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\" target=\"_blank\">enviarles este documento</a> para guiarlos.</p><p>Si necesitan mas ayuda, puedes sumarme a un email para estar en contacto con ellos.</p><p>Saludos,<br>Armando</br></p></img>",
+          "content": "<p>Hola Mateo,</p><p>Confirmando recibo de tu ticket.</p><p>Para habilitar advanced matching, el anunciante debe incluir el correo electrónico con el evento de CompleteRegistration. </p><p>Para esto, ellos pueden incluir la funcion de ttq.identify en la misma etiqueta de CompleteRegistration que ya tienen. </p><img alt=\"Screenshot 2024-02-12 at 10.52.02 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a6589ef3ac1d4495b5bedb02b895e34a.png\" height=\"148.782\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a6589ef3ac1d4495b5bedb02b895e34a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273473&amp;x-signature=6zc1o%2BLeKs2UUKjT9HWyTQLZ6Pg%3D\" width=\"375\"><p>Puedes <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\" target=\"_blank\">enviarles este documento</a> para guiarlos.</p><p>Si necesitan mas ayuda, puedes sumarme a un email para estar en contacto con ellos.</p><p>Saludos,<br>Armando</br></p></img>",
           "type": 6
         }
       ],
@@ -274,7 +274,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3009738,
+  "pending_time": 3445287,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -448,9 +448,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a6589ef3ac1d4495b5bedb02b895e34a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837924&x-signature=96d38y1CXZCgN5ME29R%2FmNxov3M%3D",
-          "file_name": "file_20240318_14_58_44_047250",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a6589ef3ac1d4495b5bedb02b895e34a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837924&x-signature=96d38y1CXZCgN5ME29R%2FmNxov3M%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a6589ef3ac1d4495b5bedb02b895e34a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273473&x-signature=6zc1o%2BLeKs2UUKjT9HWyTQLZ6Pg%3D",
+          "file_name": "file_20240323_15_57_53_676630",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a6589ef3ac1d4495b5bedb02b895e34a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273473&x-signature=6zc1o%2BLeKs2UUKjT9HWyTQLZ6Pg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/a6589ef3ac1d4495b5bedb02b895e34a.png",
           "file_type": "jpeg",
           "biz_type": 2

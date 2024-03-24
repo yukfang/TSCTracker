@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Lindsey,</p><p>Thanks for reaching out! </p><ol><li>Hover under the Pixel event name in the \"Event type\" column in Events Manager. Select the \"Edit\" link.</li></ol><img alt=\"img_v3_0282_b43409d6-58b7-46db-b64e-480a18c8dd6h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b8d774767bdd45c1bfcad89e97a03f3b.jpg\" height=\"150.164\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8d774767bdd45c1bfcad89e97a03f3b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838597&amp;x-signature=ndAk6rOTKet4NcRAt3MhveTG1SY%3D\" width=\"375\"><ol><li>Select the \"Go to Event Builder\" link in the resulting pop-up window.</li></ol><img alt=\"img_v3_0282_893e4bba-186c-42b8-ab18-abe588507e8h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg\" height=\"172.804\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838597&amp;x-signature=30JXFn1pLXyWcTTpOI3jW5H5DII%3D\" width=\"375\"><ol><li>Select the trash can icon in the top right to delete the Event Builder rule/event.</li></ol><img alt=\"img_v3_0282_c9c4483b-6c1c-436d-80ec-e44f9b8fe51h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg\" height=\"308.219\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838597&amp;x-signature=IOf605sb%2BilaVK8OU5Gc1icyJD8%3D\" width=\"375\"><ol><li>If you do not have the TikTok Pixel Helper installed, you will likely see a different screen. You will not be able to see the specific rules of the Event but you should still be able to delete the Event Builder rule.</li></ol><img alt=\"img_v3_0282_035464a9-ee7b-4e21-9243-dcae512e021h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg\" height=\"378.793\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838597&amp;x-signature=P88QLVPpJ4iDL3WfzTOmmotcw%2Bw%3D\" width=\"375\"><p><br /></p><p>To address the content_id parameter warning, the client must setup their custom code to be able to accept and pass back a content_id value. Documentation to do so can be found here: https://business-api.tiktok.com/portal/docs?id=1739585702922241</p><p>Following is a screenshot of what their ViewContent event code with parameters:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/70ba7366feb745a7afcda1cd326a80ce.png\" height=\"349.256\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/70ba7366feb745a7afcda1cd326a80ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838597&amp;x-signature=BGCRA0dspjKhoWcakqZ16GJtbaM%3D\" width=\"375\"><p>Always happy to hop on a call with the client to help expedite things! If they'd like to do so let me know and I can send over my avails.</p><p>Thanks!</p><p>Robbie</p></img></img></img></img></img>",
+          "content": "<p>Hi Lindsey,</p><p>Thanks for reaching out! </p><ol><li>Hover under the Pixel event name in the \"Event type\" column in Events Manager. Select the \"Edit\" link.</li></ol><img alt=\"img_v3_0282_b43409d6-58b7-46db-b64e-480a18c8dd6h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b8d774767bdd45c1bfcad89e97a03f3b.jpg\" height=\"150.164\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8d774767bdd45c1bfcad89e97a03f3b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274126&amp;x-signature=MTF%2BCc5xaosIR%2F9si26UiEhb6Xg%3D\" width=\"375\"><ol><li>Select the \"Go to Event Builder\" link in the resulting pop-up window.</li></ol><img alt=\"img_v3_0282_893e4bba-186c-42b8-ab18-abe588507e8h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg\" height=\"172.804\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274126&amp;x-signature=X%2FzMn3B0i3HteMIhvkmJTIf39MU%3D\" width=\"375\"><ol><li>Select the trash can icon in the top right to delete the Event Builder rule/event.</li></ol><img alt=\"img_v3_0282_c9c4483b-6c1c-436d-80ec-e44f9b8fe51h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg\" height=\"308.219\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274126&amp;x-signature=AKw0D%2Frkz9mSCP5bVv1CDZaAPQY%3D\" width=\"375\"><ol><li>If you do not have the TikTok Pixel Helper installed, you will likely see a different screen. You will not be able to see the specific rules of the Event but you should still be able to delete the Event Builder rule.</li></ol><img alt=\"img_v3_0282_035464a9-ee7b-4e21-9243-dcae512e021h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg\" height=\"378.793\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274126&amp;x-signature=ESBtyPF%2F%2BNpkiiHQvgqW5J5B%2Fkc%3D\" width=\"375\"><p><br /></p><p>To address the content_id parameter warning, the client must setup their custom code to be able to accept and pass back a content_id value. Documentation to do so can be found here: https://business-api.tiktok.com/portal/docs?id=1739585702922241</p><p>Following is a screenshot of what their ViewContent event code with parameters:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/70ba7366feb745a7afcda1cd326a80ce.png\" height=\"349.256\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/70ba7366feb745a7afcda1cd326a80ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274126&amp;x-signature=UrpnufytkvuTMo3dhToHcxEGGzA%3D\" width=\"375\"><p>Always happy to hop on a call with the client to help expedite things! If they'd like to do so let me know and I can send over my avails.</p><p>Thanks!</p><p>Robbie</p></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Lindsey,</p><p>Thanks for mentioning DCM floodlights! Unfortunately we do not officially support a floodlight Implementation. Let's have them keep the Event Builder configuration for now since we're actually only seeing one ViewContent event fire on a PDP page view along with the built in Pageview event so they don't experience a drop off in VC events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7f3749578da84c57a28f4cebbcc7fd40.png\" height=\"150.537\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f3749578da84c57a28f4cebbcc7fd40.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838597&amp;x-signature=JQx68LQSYZd4lUH4goCYyG%2BK1qE%3D\" width=\"375\"><p>Oof and apologies for not pointing this out initially, but it doesn't look like we're receiving any Custom Code ViewContent events either - we'd see a \"Custom Code\" entry for the ViewContent event if we've been receiving them correctly.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png\" height=\"196.685\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838597&amp;x-signature=jMGf%2BpDjQbbenhp1x%2F1ZovT1mKk%3D\" width=\"375\"><p>I'll be out this coming Friday 3/15, Monday 3/18 and Tues 3/19 but I'd be more than happy to hop on a call and explore other potential possibilities/workarounds for their Floodlight configuration for a custom code implementation with the client. Please let me know if they'd like to and I can shoot over my avails. </p><p>Thanks!</p><p>Robbie</p></img></img>",
+          "content": "<p>Hi Lindsey,</p><p>Thanks for mentioning DCM floodlights! Unfortunately we do not officially support a floodlight Implementation. Let's have them keep the Event Builder configuration for now since we're actually only seeing one ViewContent event fire on a PDP page view along with the built in Pageview event so they don't experience a drop off in VC events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7f3749578da84c57a28f4cebbcc7fd40.png\" height=\"150.537\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f3749578da84c57a28f4cebbcc7fd40.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274126&amp;x-signature=9%2Fw5MnSDiZ6Wbq0CCDpS3Glf7ug%3D\" width=\"375\"><p>Oof and apologies for not pointing this out initially, but it doesn't look like we're receiving any Custom Code ViewContent events either - we'd see a \"Custom Code\" entry for the ViewContent event if we've been receiving them correctly.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png\" height=\"196.685\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274126&amp;x-signature=xIc%2BvTUWwPjq9jV2%2Fz0lWkdvaww%3D\" width=\"375\"><p>I'll be out this coming Friday 3/15, Monday 3/18 and Tues 3/19 but I'd be more than happy to hop on a call and explore other potential possibilities/workarounds for their Floodlight configuration for a custom code implementation with the client. Please let me know if they'd like to and I can shoot over my avails. </p><p>Thanks!</p><p>Robbie</p></img></img>",
           "type": 6
         }
       ],
@@ -155,6 +155,64 @@
       ],
       "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710950701,
+      "auto_close_hit": 0,
+      "id": 7348476468223132000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "lindsey.greenberg@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Lindsey Greenberg",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7104550986144433154",
+      "name": "Lindsey Greenberg",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Robbie! Hope you enjoyed your time off. Thank you for sending over your avails-I am connecting with the client this afternoon and will keep you posted on timing so we can get a meeting scheduled.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_a566b0e8-b3da-4969-affa-a4291902918h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710962232,
+      "auto_close_hit": 0,
+      "id": 7348526144020300000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thanks Lindsey!</p><p>Here are more avails as well for next week&nbsp;</p><p><span style=\"color: #333333;\">Monday 3/25: 9:30 AM - 2 PM PST</span></p><p><span style=\"color: #333333;\">Tues 3/26: 7 AM - 9 AM / 10 AM - 1 PM PST</span></p><p>Wed 3/27: 7 AM - 9 AM/ 10 AM - 11:30 AM PST</p><p>Thurs 3/28: 7 AM - 2 PM PST</p><p>Friday 3/29: 7 AM - 2 PM PST</p><p>Thanks!</p><p>Robbie</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -182,7 +240,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1710514762,
+  "update_time": 1710962232,
   "owner_name": "Lindsey Greenberg",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -357,7 +415,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 259834,
+  "pending_time": 247895,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -531,58 +589,58 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=30JXFn1pLXyWcTTpOI3jW5H5DII%3D",
-          "file_name": "file_20240318_15_09_57_168678",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=30JXFn1pLXyWcTTpOI3jW5H5DII%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8d774767bdd45c1bfcad89e97a03f3b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=ndAk6rOTKet4NcRAt3MhveTG1SY%3D",
-          "file_name": "file_20240318_15_09_57_168760",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8d774767bdd45c1bfcad89e97a03f3b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=ndAk6rOTKet4NcRAt3MhveTG1SY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8d774767bdd45c1bfcad89e97a03f3b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274126&x-signature=MTF%2BCc5xaosIR%2F9si26UiEhb6Xg%3D",
+          "file_name": "file_20240323_16_08_46_892031",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b8d774767bdd45c1bfcad89e97a03f3b.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274126&x-signature=MTF%2BCc5xaosIR%2F9si26UiEhb6Xg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b8d774767bdd45c1bfcad89e97a03f3b.jpg",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=IOf605sb%2BilaVK8OU5Gc1icyJD8%3D",
-          "file_name": "file_20240318_15_09_57_168779",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=IOf605sb%2BilaVK8OU5Gc1icyJD8%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=P88QLVPpJ4iDL3WfzTOmmotcw%2Bw%3D",
-          "file_name": "file_20240318_15_09_57_168793",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=P88QLVPpJ4iDL3WfzTOmmotcw%2Bw%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/70ba7366feb745a7afcda1cd326a80ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=BGCRA0dspjKhoWcakqZ16GJtbaM%3D",
-          "file_name": "file_20240318_15_09_57_168806",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/70ba7366feb745a7afcda1cd326a80ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=BGCRA0dspjKhoWcakqZ16GJtbaM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/70ba7366feb745a7afcda1cd326a80ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274126&x-signature=UrpnufytkvuTMo3dhToHcxEGGzA%3D",
+          "file_name": "file_20240323_16_08_46_892257",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/70ba7366feb745a7afcda1cd326a80ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274126&x-signature=UrpnufytkvuTMo3dhToHcxEGGzA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/70ba7366feb745a7afcda1cd326a80ce.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=jMGf%2BpDjQbbenhp1x%2F1ZovT1mKk%3D",
-          "file_name": "file_20240318_15_09_57_352462",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=jMGf%2BpDjQbbenhp1x%2F1ZovT1mKk%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274126&x-signature=X%2FzMn3B0i3HteMIhvkmJTIf39MU%3D",
+          "file_name": "file_20240323_16_08_46_892287",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274126&x-signature=X%2FzMn3B0i3HteMIhvkmJTIf39MU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b150ea9ecd9b40c3baa04d0afa9e9d88.jpg",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f3749578da84c57a28f4cebbcc7fd40.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=JQx68LQSYZd4lUH4goCYyG%2BK1qE%3D",
-          "file_name": "file_20240318_15_09_57_352516",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f3749578da84c57a28f4cebbcc7fd40.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838597&x-signature=JQx68LQSYZd4lUH4goCYyG%2BK1qE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274126&x-signature=AKw0D%2Frkz9mSCP5bVv1CDZaAPQY%3D",
+          "file_name": "file_20240323_16_08_46_892301",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274126&x-signature=AKw0D%2Frkz9mSCP5bVv1CDZaAPQY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/af0b4cce6ac54d6d8dae1c2f6b44174e.jpg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274126&x-signature=ESBtyPF%2F%2BNpkiiHQvgqW5J5B%2Fkc%3D",
+          "file_name": "file_20240323_16_08_46_892314",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274126&x-signature=ESBtyPF%2F%2BNpkiiHQvgqW5J5B%2Fkc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8538c168bd0d4376bb422889d887a632.jpg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f3749578da84c57a28f4cebbcc7fd40.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274126&x-signature=9%2Fw5MnSDiZ6Wbq0CCDpS3Glf7ug%3D",
+          "file_name": "file_20240323_16_08_47_039457",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f3749578da84c57a28f4cebbcc7fd40.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274126&x-signature=9%2Fw5MnSDiZ6Wbq0CCDpS3Glf7ug%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7f3749578da84c57a28f4cebbcc7fd40.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274126&x-signature=xIc%2BvTUWwPjq9jV2%2Fz0lWkdvaww%3D",
+          "file_name": "file_20240323_16_08_47_039527",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274126&x-signature=xIc%2BvTUWwPjq9jV2%2Fz0lWkdvaww%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ff89117c338b475ab4706c172e18af05.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

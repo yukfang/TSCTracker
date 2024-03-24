@@ -1,0 +1,24 @@
+[
+  {
+    "id": "38200000084",
+    "name": "Closed  - No Adoption Improvement",
+    "sub_tags": [
+      {
+        "id": "38300000174",
+        "name": "No response from CSM (>60D)"
+      }
+    ],
+    "color": "#f5a623"
+  },
+  {
+    "id": "38200000082",
+    "name": "Open Status",
+    "sub_tags": [
+      {
+        "id": "38300000169",
+        "name": "On-Hold / Delayed"
+      }
+    ],
+    "color": "#f5a623"
+  }
+]

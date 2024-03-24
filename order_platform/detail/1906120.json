@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Shadi,<br><br>You can only see the pageview and viewcontent events because the rest are being sent using events API.<br><br /></br></br></br></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/920d783a2a0d4b488b9f9d567e21291c.png\" height=\"113.447\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/920d783a2a0d4b488b9f9d567e21291c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838337&amp;x-signature=bXXTPG%2FdGl9LoCAyHDk4Ptj5t9E%3D\" width=\"375\"><p><br>The implementation seems to be fine since there are events attributed to the campaign, I recommend you to create a TPS ticket to review with the performance team: <a href=\"https://ads.tiktok.com/athena/requester/boards?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456\" target=\"_blank\">https://ads.tiktok.com/athena/requester/boards?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456</a><br><br /></br></br></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1ac6f81501d045a7bfabe461e10051ad.png\" height=\"41.382\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1ac6f81501d045a7bfabe461e10051ad.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838337&amp;x-signature=Tq4Q2jkIfigxaZTPU%2Bb3FuQSHy0%3D\" width=\"375\"><p><br><br /></br></p><p><br><br /></br></p></img></img>",
+          "content": "<p>Hi Shadi,<br><br>You can only see the pageview and viewcontent events because the rest are being sent using events API.<br><br /></br></br></br></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/920d783a2a0d4b488b9f9d567e21291c.png\" height=\"113.447\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/920d783a2a0d4b488b9f9d567e21291c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273854&amp;x-signature=uSfBN7nXiyT1qDAS4K4v%2BlbVpWw%3D\" width=\"375\"><p><br>The implementation seems to be fine since there are events attributed to the campaign, I recommend you to create a TPS ticket to review with the performance team: <a href=\"https://ads.tiktok.com/athena/requester/boards?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456\" target=\"_blank\">https://ads.tiktok.com/athena/requester/boards?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456</a><br><br /></br></br></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1ac6f81501d045a7bfabe461e10051ad.png\" height=\"41.382\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1ac6f81501d045a7bfabe461e10051ad.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273854&amp;x-signature=WOR6C8Z6poW%2FdLHBagIt7owYLaw%3D\" width=\"375\"><p><br><br /></br></p><p><br><br /></br></p></img></img>",
           "type": 6
         }
       ],
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Miguel.</p><p><br /></p><p>i tried to use the landing page from this ad <span style=\"color: #8A8A8A;\">1789061548637217 , from this campaign 1767948450113554.</span></p><p>https://boolean.careers/fundamentals-camp/full-stack-web-development?utm_source=tiktok&amp;utm_medium=shorts&amp;utm_campaign=it_prospecting_webdev_sf&amp;utm_content=__CID_NAME__</p><p><br /></p><img alt=\"Screenshot 2024-03-05 at 10.41.25.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8ec1e50700bb4603bd30b8ee8abffa81.png\" height=\"85.629\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ec1e50700bb4603bd30b8ee8abffa81.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838337&amp;x-signature=%2F4MBqs5KHzrki9velGPGOOI%2BY40%3D\" width=\"375\"><p>i tried to send a lead but the event submit form didn't work. I believe there is some issue</p><p><br /></p><p>can we double check?</p></img>",
+          "content": "<p>Hi Miguel.</p><p><br /></p><p>i tried to use the landing page from this ad <span style=\"color: #8A8A8A;\">1789061548637217 , from this campaign 1767948450113554.</span></p><p>https://boolean.careers/fundamentals-camp/full-stack-web-development?utm_source=tiktok&amp;utm_medium=shorts&amp;utm_campaign=it_prospecting_webdev_sf&amp;utm_content=__CID_NAME__</p><p><br /></p><img alt=\"Screenshot 2024-03-05 at 10.41.25.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8ec1e50700bb4603bd30b8ee8abffa81.png\" height=\"85.629\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ec1e50700bb4603bd30b8ee8abffa81.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273854&amp;x-signature=U3jmsu7CIgmWF34eJCwlqtouNpk%3D\" width=\"375\"><p>i tried to send a lead but the event submit form didn't work. I believe there is some issue</p><p><br /></p><p>can we double check?</p></img>",
           "type": 6
         }
       ],
@@ -301,7 +301,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 969812,
+  "pending_time": 1405329,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -475,25 +475,25 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/920d783a2a0d4b488b9f9d567e21291c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838337&x-signature=bXXTPG%2FdGl9LoCAyHDk4Ptj5t9E%3D",
-          "file_name": "file_20240318_15_05_37_256982",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/920d783a2a0d4b488b9f9d567e21291c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838337&x-signature=bXXTPG%2FdGl9LoCAyHDk4Ptj5t9E%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/920d783a2a0d4b488b9f9d567e21291c.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1ac6f81501d045a7bfabe461e10051ad.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838337&x-signature=Tq4Q2jkIfigxaZTPU%2Bb3FuQSHy0%3D",
-          "file_name": "file_20240318_15_05_37_257055",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1ac6f81501d045a7bfabe461e10051ad.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838337&x-signature=Tq4Q2jkIfigxaZTPU%2Bb3FuQSHy0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1ac6f81501d045a7bfabe461e10051ad.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273854&x-signature=WOR6C8Z6poW%2FdLHBagIt7owYLaw%3D",
+          "file_name": "file_20240323_16_04_14_357800",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1ac6f81501d045a7bfabe461e10051ad.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273854&x-signature=WOR6C8Z6poW%2FdLHBagIt7owYLaw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/1ac6f81501d045a7bfabe461e10051ad.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ec1e50700bb4603bd30b8ee8abffa81.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838337&x-signature=%2F4MBqs5KHzrki9velGPGOOI%2BY40%3D",
-          "file_name": "file_20240318_15_05_37_322889",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ec1e50700bb4603bd30b8ee8abffa81.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838337&x-signature=%2F4MBqs5KHzrki9velGPGOOI%2BY40%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/920d783a2a0d4b488b9f9d567e21291c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273854&x-signature=uSfBN7nXiyT1qDAS4K4v%2BlbVpWw%3D",
+          "file_name": "file_20240323_16_04_14_357870",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/920d783a2a0d4b488b9f9d567e21291c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273854&x-signature=uSfBN7nXiyT1qDAS4K4v%2BlbVpWw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/920d783a2a0d4b488b9f9d567e21291c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ec1e50700bb4603bd30b8ee8abffa81.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273854&x-signature=U3jmsu7CIgmWF34eJCwlqtouNpk%3D",
+          "file_name": "file_20240323_16_04_14_420013",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ec1e50700bb4603bd30b8ee8abffa81.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273854&x-signature=U3jmsu7CIgmWF34eJCwlqtouNpk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8ec1e50700bb4603bd30b8ee8abffa81.png",
           "file_type": "jpeg",
           "biz_type": 2

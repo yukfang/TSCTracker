@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1708555276,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi, the triggering of events api can only be tested with clients on a call.</p><p>That said,</p><p>I'm seeing the data from events api in the backend.</p><ul><li>They are not sending any PIIs (email/phone)</li><li>they are not sending any <a href=\"https://business-api.tiktok.com/portal/docs?id=1771100879787009\" target=\"_blank\">click id</a></li></ul><p><br /></p><p>I recommend them to send above mentioned parameters for better signal strength </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3228380646a54ad6a4e39c15cf836221.png\" height=\"434.631\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3228380646a54ad6a4e39c15cf836221.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838192&amp;x-signature=Cn5IDVR09p1yYN97EnkSFYM9MAs%3D\" width=\"375\"><p>Use this link to schedule meeting on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img>",
+          "content": "<p>Hi, the triggering of events api can only be tested with clients on a call.</p><p>That said,</p><p>I'm seeing the data from events api in the backend.</p><ul><li>They are not sending any PIIs (email/phone)</li><li>they are not sending any <a href=\"https://business-api.tiktok.com/portal/docs?id=1771100879787009\" target=\"_blank\">click id</a></li></ul><p><br /></p><p>I recommend them to send above mentioned parameters for better signal strength </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3228380646a54ad6a4e39c15cf836221.png\" height=\"434.631\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3228380646a54ad6a4e39c15cf836221.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273704&amp;x-signature=Om0IIodl9C%2FhbUwG9vR0mLUmwHc%3D\" width=\"375\"><p>Use this link to schedule meeting on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img>",
           "type": 6
         }
       ],
@@ -126,6 +126,64 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9723b91f-3eb9-4436-9006-f0e4a089948h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710968944,
+      "auto_close_hit": 0,
+      "id": 7348553933775815000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "zoe.waldron@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zoe Waldron",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7147682599380370433",
+      "name": "Zoe Waldron",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi&nbsp;<span style=\"color: #333333;\">Saurabh,</span></p><p><br></p><p><span style=\"color: #333333;\">I just had a call with GoDaddy, and they&#39;re working on getting legal approval for Manual Advanced Matching.&nbsp;</span></p><p><br></p><p><span style=\"color: #333333;\">Their legal and dev team is asking: &#34;</span><span style=\"color: #222222;\">For Advanced Matching, how does hashing work? And how long the data will be retained/stored (if it is at all)?&#34;</span></p><p><br></p><p><span style=\"color: #222222;\">And if we have any shareable resources that have this in writing. Thank you!</span></p><p><br></p><p><span style=\"color: #222222;\">Best,</span></p><p><br></p><p><span style=\"color: #222222;\">Zoe</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9723b91f-3eb9-4436-9006-f0e4a089948h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711140177,
+      "auto_close_hit": 0,
+      "id": 7349288445338010000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "zoe.waldron@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zoe Waldron",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7147682599380370433",
+      "name": "Zoe Waldron",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi! Just checking in here again. I can also submit a new ticket if it&#39;s best. Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9723b91f-3eb9-4436-9006-f0e4a089948h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -153,7 +211,7 @@
   "fd_permission": 1,
   "status": 2,
   "business_data": [],
-  "update_time": 1708710457,
+  "update_time": 1711140177,
   "owner_name": "Zoe Waldron",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -255,7 +313,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2066250,
+  "pending_time": 2501762,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -430,9 +488,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3228380646a54ad6a4e39c15cf836221.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838192&x-signature=Cn5IDVR09p1yYN97EnkSFYM9MAs%3D",
-          "file_name": "file_20240318_15_03_12_355311",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3228380646a54ad6a4e39c15cf836221.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838192&x-signature=Cn5IDVR09p1yYN97EnkSFYM9MAs%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3228380646a54ad6a4e39c15cf836221.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273704&x-signature=Om0IIodl9C%2FhbUwG9vR0mLUmwHc%3D",
+          "file_name": "file_20240323_16_01_44_101621",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3228380646a54ad6a4e39c15cf836221.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273704&x-signature=Om0IIodl9C%2FhbUwG9vR0mLUmwHc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/3228380646a54ad6a4e39c15cf836221.png",
           "file_type": "jpeg",
           "biz_type": 2

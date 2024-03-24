@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Tinnie,</p><p><br /></p><p>It seems like the user on the client end likely lacks permissions to transfer or share the Pixel. </p><p><br /></p><p>You can have them verify that they have \"Admin\" status for the associated Pixel here: https://business.tiktok.com/manage/member?is_new_connect=0&amp;is_new_user=0&amp;log_employee_id=8808557&amp;log_type=staff_unified_auth__3m&amp;org_id=7333162285735100417</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/21befca9832c4634adc903f801264aa8.png\" height=\"140.484\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21befca9832c4634adc903f801264aa8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837926&amp;x-signature=Bn%2BqyHdw5itZ1gp82CvvOnvhmjY%3D\" width=\"375\"><p>I would also note that these types of issues should probably be routed to TPS team instead of TSC. We are here to provide support for Signals (Pixel, EAPI, Catalog) in terms of implementation and troubleshooting.</p><p><br /></p><p>This issue is related to Business Center and permissions and would likely be supported by TPS. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
+          "content": "<p>Hi Tinnie,</p><p><br /></p><p>It seems like the user on the client end likely lacks permissions to transfer or share the Pixel. </p><p><br /></p><p>You can have them verify that they have \"Admin\" status for the associated Pixel here: https://business.tiktok.com/manage/member?is_new_connect=0&amp;is_new_user=0&amp;log_employee_id=8808557&amp;log_type=staff_unified_auth__3m&amp;org_id=7333162285735100417</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/21befca9832c4634adc903f801264aa8.png\" height=\"140.484\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21befca9832c4634adc903f801264aa8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273476&amp;x-signature=7OAo18%2FEEaj5ukUdtfYP9Zv8dPI%3D\" width=\"375\"><p>I would also note that these types of issues should probably be routed to TPS team instead of TSC. We are here to provide support for Signals (Pixel, EAPI, Catalog) in terms of implementation and troubleshooting.</p><p><br /></p><p>This issue is related to Business Center and permissions and would likely be supported by TPS. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -241,7 +241,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2910634,
+  "pending_time": 3346184,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -417,15 +417,15 @@
         {
           "file_type": "jpeg",
           "file_name": "20240212-143750.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aeced564903c459f89032f844165b458.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837926&x-signature=7imJRRYVgwpyoABICpA0gp%2FVBrs%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aeced564903c459f89032f844165b458.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273475&x-signature=uAauBRqnOTjmbTMDANi1OwUt4ic%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/aeced564903c459f89032f844165b458.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aeced564903c459f89032f844165b458.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837926&x-signature=7imJRRYVgwpyoABICpA0gp%2FVBrs%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/aeced564903c459f89032f844165b458.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273475&x-signature=uAauBRqnOTjmbTMDANi1OwUt4ic%3D",
           "size": 85516
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21befca9832c4634adc903f801264aa8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837926&x-signature=Bn%2BqyHdw5itZ1gp82CvvOnvhmjY%3D",
-          "file_name": "file_20240318_14_58_46_588184",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21befca9832c4634adc903f801264aa8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837926&x-signature=Bn%2BqyHdw5itZ1gp82CvvOnvhmjY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21befca9832c4634adc903f801264aa8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273476&x-signature=7OAo18%2FEEaj5ukUdtfYP9Zv8dPI%3D",
+          "file_name": "file_20240323_15_57_56_073767",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21befca9832c4634adc903f801264aa8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273476&x-signature=7OAo18%2FEEaj5ukUdtfYP9Zv8dPI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/21befca9832c4634adc903f801264aa8.png",
           "file_type": "jpeg",
           "biz_type": 2

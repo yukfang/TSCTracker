@@ -64,7 +64,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Katie,</p><p>After inspecting the event data we receive from this advertiser, I was able to confirm we are not currently receiving hashed email. Given their current <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C81BB1D6KGKTT9CMJ8FG?start_time=2024-01-17&amp;end_time=2024-01-23&amp;from=ALL&amp;aadvid=7062404878278197250&amp;type=overview\" target=\"_blank\">event funnel</a>, we expect hashed email to be included with the following events:</p><ul><li>SubmitForm</li><li>Subscribe</li><li>CompletePayment</li></ul><p>Please refer to the instructions below for addressing this.</p><p><strong><u>Browser</u></strong></p><p>Both the SubmitForm and Subscribe events are sent via browser and server. To enable <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\" target=\"_blank\">Manual Advance Matching</a> for the web events, the advertiser will need to update their web tag for those 2 events and implement the <em>ttq.identify </em>function prior to firing the event. Below are samples of how the tag will look after the change is made.</p><img alt=\"Screenshot 2024-01-23 at 4.24.06 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/06de178032cc440db8d0d7e854b1042f.png\" height=\"102.831\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06de178032cc440db8d0d7e854b1042f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833453&amp;x-signature=NBb4rxVTGzvTS1DLDNrhE0yJjJ8%3D\" width=\"375\"><img alt=\"Screenshot 2024-01-23 at 4.24.39 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/db286c75876842218a04a402011ccf59.png\" height=\"102.831\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db286c75876842218a04a402011ccf59.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833453&amp;x-signature=pAKTmg8E2Ncz3Ojm1R0x9JsX0Cc%3D\" width=\"375\"><p>As stated in the developer documentation, the advertiser has the option to explicitly encrypt user PII using SHA256 format, or pass the email raw in the event tag and allow the TikTok pixel to encrypt it.</p><p>If using phone number it should first be formatted using E164 format (+14152346789) prior to encrypting it or passing it in the event tag. For more information on this, please refer to the linked documentation on <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\" target=\"_blank\">Manual Advance Matching</a>.</p><p><strong><u>Server</u></strong></p><p>To include the email in their API event payload, the advertiser will need to include the <a href=\"https://business-api.tiktok.com/portal/docs?id=1771100865818625#item-link-Sample%20payload\" target=\"_blank\">encrypted email within the user object</a>.</p><img alt=\"Screenshot 2024-01-23 at 4.42.47 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/639a30508b6947c18042c31fdc0cbbd4.png\" height=\"239.709\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/639a30508b6947c18042c31fdc0cbbd4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833453&amp;x-signature=dBoV1jopUf0bkFD8n1EtVXlwaVE%3D\" width=\"375\"><p>Please forward the advertiser the information above. If they have any technical follow ups and require a call regarding their implementation, please feel free to <a href=\"https://bytedance.larkoffice.com/scheduler/73e856441d0bf383\" target=\"_blank\">use my link to schedule a call with them</a> (link not to be shared with advertiser).</p><p>Best,<br>Armando</br></p></img></img></img>",
+          "content": "<p>Hi Katie,</p><p>After inspecting the event data we receive from this advertiser, I was able to confirm we are not currently receiving hashed email. Given their current <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C81BB1D6KGKTT9CMJ8FG?start_time=2024-01-17&amp;end_time=2024-01-23&amp;from=ALL&amp;aadvid=7062404878278197250&amp;type=overview\" target=\"_blank\">event funnel</a>, we expect hashed email to be included with the following events:</p><ul><li>SubmitForm</li><li>Subscribe</li><li>CompletePayment</li></ul><p>Please refer to the instructions below for addressing this.</p><p><strong><u>Browser</u></strong></p><p>Both the SubmitForm and Subscribe events are sent via browser and server. To enable <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\" target=\"_blank\">Manual Advance Matching</a> for the web events, the advertiser will need to update their web tag for those 2 events and implement the <em>ttq.identify </em>function prior to firing the event. Below are samples of how the tag will look after the change is made.</p><img alt=\"Screenshot 2024-01-23 at 4.24.06 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/06de178032cc440db8d0d7e854b1042f.png\" height=\"102.831\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06de178032cc440db8d0d7e854b1042f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273061&amp;x-signature=GtvsoO%2Brgijs5WuncuEdKHANv0A%3D\" width=\"375\"><img alt=\"Screenshot 2024-01-23 at 4.24.39 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/db286c75876842218a04a402011ccf59.png\" height=\"102.831\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db286c75876842218a04a402011ccf59.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273061&amp;x-signature=3GI2pmsoS8%2FleRO4AKs8EPGgWV0%3D\" width=\"375\"><p>As stated in the developer documentation, the advertiser has the option to explicitly encrypt user PII using SHA256 format, or pass the email raw in the event tag and allow the TikTok pixel to encrypt it.</p><p>If using phone number it should first be formatted using E164 format (+14152346789) prior to encrypting it or passing it in the event tag. For more information on this, please refer to the linked documentation on <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\" target=\"_blank\">Manual Advance Matching</a>.</p><p><strong><u>Server</u></strong></p><p>To include the email in their API event payload, the advertiser will need to include the <a href=\"https://business-api.tiktok.com/portal/docs?id=1771100865818625#item-link-Sample%20payload\" target=\"_blank\">encrypted email within the user object</a>.</p><img alt=\"Screenshot 2024-01-23 at 4.42.47 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/639a30508b6947c18042c31fdc0cbbd4.png\" height=\"239.709\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/639a30508b6947c18042c31fdc0cbbd4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273061&amp;x-signature=qWKLNPZMYzDYoHOpIdxposyeBlU%3D\" width=\"375\"><p>Please forward the advertiser the information above. If they have any technical follow ups and require a call regarding their implementation, please feel free to <a href=\"https://bytedance.larkoffice.com/scheduler/73e856441d0bf383\" target=\"_blank\">use my link to schedule a call with them</a> (link not to be shared with advertiser).</p><p>Best,<br>Armando</br></p></img></img></img>",
           "type": 6
         }
       ],
@@ -305,7 +305,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 4454422,
+  "pending_time": 4894030,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -479,26 +479,26 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db286c75876842218a04a402011ccf59.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833453&x-signature=pAKTmg8E2Ncz3Ojm1R0x9JsX0Cc%3D",
-          "file_name": "file_20240318_13_44_13_362811",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db286c75876842218a04a402011ccf59.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833453&x-signature=pAKTmg8E2Ncz3Ojm1R0x9JsX0Cc%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/db286c75876842218a04a402011ccf59.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/639a30508b6947c18042c31fdc0cbbd4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833453&x-signature=dBoV1jopUf0bkFD8n1EtVXlwaVE%3D",
-          "file_name": "file_20240318_13_44_13_362912",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/639a30508b6947c18042c31fdc0cbbd4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833453&x-signature=dBoV1jopUf0bkFD8n1EtVXlwaVE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/639a30508b6947c18042c31fdc0cbbd4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273061&x-signature=qWKLNPZMYzDYoHOpIdxposyeBlU%3D",
+          "file_name": "file_20240323_15_51_01_638869",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/639a30508b6947c18042c31fdc0cbbd4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273061&x-signature=qWKLNPZMYzDYoHOpIdxposyeBlU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/639a30508b6947c18042c31fdc0cbbd4.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06de178032cc440db8d0d7e854b1042f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833453&x-signature=NBb4rxVTGzvTS1DLDNrhE0yJjJ8%3D",
-          "file_name": "file_20240318_13_44_13_362930",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06de178032cc440db8d0d7e854b1042f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833453&x-signature=NBb4rxVTGzvTS1DLDNrhE0yJjJ8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06de178032cc440db8d0d7e854b1042f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273061&x-signature=GtvsoO%2Brgijs5WuncuEdKHANv0A%3D",
+          "file_name": "file_20240323_15_51_01_638986",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06de178032cc440db8d0d7e854b1042f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273061&x-signature=GtvsoO%2Brgijs5WuncuEdKHANv0A%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/06de178032cc440db8d0d7e854b1042f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db286c75876842218a04a402011ccf59.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273061&x-signature=3GI2pmsoS8%2FleRO4AKs8EPGgWV0%3D",
+          "file_name": "file_20240323_15_51_01_639015",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/db286c75876842218a04a402011ccf59.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273061&x-signature=3GI2pmsoS8%2FleRO4AKs8EPGgWV0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/db286c75876842218a04a402011ccf59.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

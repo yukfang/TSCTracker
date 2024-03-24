@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Kristen,</p><p>Apologies for the delay here. I signed up for Beauty Squad and I did not see the event fire when a user finishes Beauty Squad signup:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f0b739df9d7b401ea8c3857c0ed327c1.png\" height=\"254.041\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f0b739df9d7b401ea8c3857c0ed327c1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838601&amp;x-signature=d863SprnESZPEBy5ON5VX4Lbh1Y%3D\" width=\"375\"><p>A second test:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/053354c55af34cabba65e6b3a2cc7584.png\" height=\"195.471\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/053354c55af34cabba65e6b3a2cc7584.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838601&amp;x-signature=8y8Wlb6%2FLXSMW7%2BAP8kVecjWFaE%3D\" width=\"375\"><p>In their Events Manager it looks like the event is still tracking:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c899014bb8cd4ad3a975ca4f6fb168c6.png\" height=\"181.354\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c899014bb8cd4ad3a975ca4f6fb168c6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838601&amp;x-signature=g6dQJtQEgrGIDFkJK2YYkk8xlJo%3D\" width=\"375\"><p>However, the Lead event does appear to be tracking on the following clicks:</p><ul><li>on a \"Submit\" button:</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8b10a5b3d2ad4ddd8c37c00f6885a541.png\" height=\"217.83\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8b10a5b3d2ad4ddd8c37c00f6885a541.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838601&amp;x-signature=BWJst6SfAZdEaAuMB7byOYKuAgw%3D\" width=\"375\"><ul><li>On a \"Subscribe\" button</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2144a3fa8b384e72bee664b2e34228b1.png\" height=\"154.647\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2144a3fa8b384e72bee664b2e34228b1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838601&amp;x-signature=YdoZXceHVBnXBMiRvCGWsRzBpOI%3D\" width=\"375\"><p>If this is not intended and they want to track the Beauty Squad signups to roll up into the existing \"Lead\" events, they will have to add a trigger to fire the \"Lead\" event on a successful Beauty Squad signup OR (not recommended because a user might input invalid information) on a \"Create Account\" button click:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2d255d294d3442d69896e5e1c9b8940e.png\" height=\"441.926\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d255d294d3442d69896e5e1c9b8940e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838601&amp;x-signature=cWNyNHak%2F%2BWFPJIatT5zmdhNiXs%3D\" width=\"375\"><p>Apologies for the delay!</p><p>Best,</p><p>Robbie</p></img></img></img></img></img></img>",
+          "content": "<p>Hi Kristen,</p><p>Apologies for the delay here. I signed up for Beauty Squad and I did not see the event fire when a user finishes Beauty Squad signup:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f0b739df9d7b401ea8c3857c0ed327c1.png\" height=\"254.041\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f0b739df9d7b401ea8c3857c0ed327c1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274130&amp;x-signature=Vqs5cJ6X3MXMUxX5igISifkZ8Rk%3D\" width=\"375\"><p>A second test:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/053354c55af34cabba65e6b3a2cc7584.png\" height=\"195.471\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/053354c55af34cabba65e6b3a2cc7584.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274130&amp;x-signature=MDwJjyBGxbKNs9dkVXKIvrNFVkE%3D\" width=\"375\"><p>In their Events Manager it looks like the event is still tracking:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c899014bb8cd4ad3a975ca4f6fb168c6.png\" height=\"181.354\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c899014bb8cd4ad3a975ca4f6fb168c6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274130&amp;x-signature=bOPnazTF4wwfp5Ki7Wsg82S6%2Bqs%3D\" width=\"375\"><p>However, the Lead event does appear to be tracking on the following clicks:</p><ul><li>on a \"Submit\" button:</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8b10a5b3d2ad4ddd8c37c00f6885a541.png\" height=\"217.83\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8b10a5b3d2ad4ddd8c37c00f6885a541.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274130&amp;x-signature=9s3k2Z%2Fv%2FT2VkbdU%2FcBG%2Fudz1cc%3D\" width=\"375\"><ul><li>On a \"Subscribe\" button</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2144a3fa8b384e72bee664b2e34228b1.png\" height=\"154.647\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2144a3fa8b384e72bee664b2e34228b1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274130&amp;x-signature=P8gxdbc76fCeNg%2B%2FnHO8XMo9Pfw%3D\" width=\"375\"><p>If this is not intended and they want to track the Beauty Squad signups to roll up into the existing \"Lead\" events, they will have to add a trigger to fire the \"Lead\" event on a successful Beauty Squad signup OR (not recommended because a user might input invalid information) on a \"Create Account\" button click:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2d255d294d3442d69896e5e1c9b8940e.png\" height=\"441.926\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d255d294d3442d69896e5e1c9b8940e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274130&amp;x-signature=GDUsL6DCPM0216F6WCoYrDf%2BUN4%3D\" width=\"375\"><p>Apologies for the delay!</p><p>Best,</p><p>Robbie</p></img></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -299,7 +299,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 344826,
+  "pending_time": 780356,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -473,49 +473,49 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2144a3fa8b384e72bee664b2e34228b1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838601&x-signature=YdoZXceHVBnXBMiRvCGWsRzBpOI%3D",
-          "file_name": "file_20240318_15_10_01_422913",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2144a3fa8b384e72bee664b2e34228b1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838601&x-signature=YdoZXceHVBnXBMiRvCGWsRzBpOI%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/2144a3fa8b384e72bee664b2e34228b1.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/053354c55af34cabba65e6b3a2cc7584.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838601&x-signature=8y8Wlb6%2FLXSMW7%2BAP8kVecjWFaE%3D",
-          "file_name": "file_20240318_15_10_01_423001",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/053354c55af34cabba65e6b3a2cc7584.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838601&x-signature=8y8Wlb6%2FLXSMW7%2BAP8kVecjWFaE%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/053354c55af34cabba65e6b3a2cc7584.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8b10a5b3d2ad4ddd8c37c00f6885a541.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838601&x-signature=BWJst6SfAZdEaAuMB7byOYKuAgw%3D",
-          "file_name": "file_20240318_15_10_01_423025",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8b10a5b3d2ad4ddd8c37c00f6885a541.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838601&x-signature=BWJst6SfAZdEaAuMB7byOYKuAgw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8b10a5b3d2ad4ddd8c37c00f6885a541.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274130&x-signature=9s3k2Z%2Fv%2FT2VkbdU%2FcBG%2Fudz1cc%3D",
+          "file_name": "file_20240323_16_08_50_933716",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8b10a5b3d2ad4ddd8c37c00f6885a541.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274130&x-signature=9s3k2Z%2Fv%2FT2VkbdU%2FcBG%2Fudz1cc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8b10a5b3d2ad4ddd8c37c00f6885a541.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c899014bb8cd4ad3a975ca4f6fb168c6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838601&x-signature=g6dQJtQEgrGIDFkJK2YYkk8xlJo%3D",
-          "file_name": "file_20240318_15_10_01_423045",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c899014bb8cd4ad3a975ca4f6fb168c6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838601&x-signature=g6dQJtQEgrGIDFkJK2YYkk8xlJo%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/c899014bb8cd4ad3a975ca4f6fb168c6.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/053354c55af34cabba65e6b3a2cc7584.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274130&x-signature=MDwJjyBGxbKNs9dkVXKIvrNFVkE%3D",
+          "file_name": "file_20240323_16_08_50_933820",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/053354c55af34cabba65e6b3a2cc7584.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274130&x-signature=MDwJjyBGxbKNs9dkVXKIvrNFVkE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/053354c55af34cabba65e6b3a2cc7584.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d255d294d3442d69896e5e1c9b8940e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838601&x-signature=cWNyNHak%2F%2BWFPJIatT5zmdhNiXs%3D",
-          "file_name": "file_20240318_15_10_01_423064",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d255d294d3442d69896e5e1c9b8940e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838601&x-signature=cWNyNHak%2F%2BWFPJIatT5zmdhNiXs%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d255d294d3442d69896e5e1c9b8940e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274130&x-signature=GDUsL6DCPM0216F6WCoYrDf%2BUN4%3D",
+          "file_name": "file_20240323_16_08_50_933844",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d255d294d3442d69896e5e1c9b8940e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274130&x-signature=GDUsL6DCPM0216F6WCoYrDf%2BUN4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2d255d294d3442d69896e5e1c9b8940e.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f0b739df9d7b401ea8c3857c0ed327c1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838601&x-signature=d863SprnESZPEBy5ON5VX4Lbh1Y%3D",
-          "file_name": "file_20240318_15_10_01_423084",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f0b739df9d7b401ea8c3857c0ed327c1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838601&x-signature=d863SprnESZPEBy5ON5VX4Lbh1Y%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2144a3fa8b384e72bee664b2e34228b1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274130&x-signature=P8gxdbc76fCeNg%2B%2FnHO8XMo9Pfw%3D",
+          "file_name": "file_20240323_16_08_50_933858",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2144a3fa8b384e72bee664b2e34228b1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274130&x-signature=P8gxdbc76fCeNg%2B%2FnHO8XMo9Pfw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2144a3fa8b384e72bee664b2e34228b1.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c899014bb8cd4ad3a975ca4f6fb168c6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274130&x-signature=bOPnazTF4wwfp5Ki7Wsg82S6%2Bqs%3D",
+          "file_name": "file_20240323_16_08_50_933871",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c899014bb8cd4ad3a975ca4f6fb168c6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274130&x-signature=bOPnazTF4wwfp5Ki7Wsg82S6%2Bqs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c899014bb8cd4ad3a975ca4f6fb168c6.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f0b739df9d7b401ea8c3857c0ed327c1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274130&x-signature=Vqs5cJ6X3MXMUxX5igISifkZ8Rk%3D",
+          "file_name": "file_20240323_16_08_50_933884",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f0b739df9d7b401ea8c3857c0ed327c1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274130&x-signature=Vqs5cJ6X3MXMUxX5igISifkZ8Rk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/f0b739df9d7b401ea8c3857c0ed327c1.png",
           "file_type": "jpeg",
           "biz_type": 2

@@ -120,7 +120,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Thanks, that was super helpful! After getting my results, I do see that event getting pushed to GTM via the datalayer: </p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e7aaadfc38804206a2430edd300a7fac.png\" height=\"70.313\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e7aaadfc38804206a2430edd300a7fac.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838509&amp;x-signature=pBUWPJgyXMWM8kPQV6UFg0C1Z0k%3D\" width=\"375\"><p>The value for the user_category property is <strong>\"An adult\" </strong> in my case, and from what I saw in the screenshot of the GTM setup for the Submit Form event, it <em>should</em> have fired the event server-side. Can they double click into the triggers themselves and send a screenshot of both of these triggers' configurations in GTM? And to preface, I am no GTM expert, but will try my best to help diagnose the issue.</p></img>",
+          "content": "<p>Thanks, that was super helpful! After getting my results, I do see that event getting pushed to GTM via the datalayer: </p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e7aaadfc38804206a2430edd300a7fac.png\" height=\"70.313\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e7aaadfc38804206a2430edd300a7fac.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274036&amp;x-signature=C4txLCR8yWO42iGTdbk%2BOkQmti0%3D\" width=\"375\"><p>The value for the user_category property is <strong>\"An adult\" </strong> in my case, and from what I saw in the screenshot of the GTM setup for the Submit Form event, it <em>should</em> have fired the event server-side. Can they double click into the triggers themselves and send a screenshot of both of these triggers' configurations in GTM? And to preface, I am no GTM expert, but will try my best to help diagnose the issue.</p></img>",
           "type": 6
         }
       ],
@@ -257,7 +257,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 576327,
+  "pending_time": 1011853,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -433,15 +433,15 @@
         {
           "file_type": "png",
           "file_name": "image001 (6).png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0860a1480ae14fdcabeae64b4eb061a1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838509&x-signature=D5KmxSoNrqUwX4QZdrpduFHaEGs%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0860a1480ae14fdcabeae64b4eb061a1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274036&x-signature=sehTgYw25XHUCI7izxrtrQtFrhM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0860a1480ae14fdcabeae64b4eb061a1.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0860a1480ae14fdcabeae64b4eb061a1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838509&x-signature=D5KmxSoNrqUwX4QZdrpduFHaEGs%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0860a1480ae14fdcabeae64b4eb061a1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274036&x-signature=sehTgYw25XHUCI7izxrtrQtFrhM%3D",
           "size": 55782
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e7aaadfc38804206a2430edd300a7fac.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838509&x-signature=pBUWPJgyXMWM8kPQV6UFg0C1Z0k%3D",
-          "file_name": "file_20240318_15_08_29_847358",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e7aaadfc38804206a2430edd300a7fac.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838509&x-signature=pBUWPJgyXMWM8kPQV6UFg0C1Z0k%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e7aaadfc38804206a2430edd300a7fac.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274036&x-signature=C4txLCR8yWO42iGTdbk%2BOkQmti0%3D",
+          "file_name": "file_20240323_16_07_16_502240",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e7aaadfc38804206a2430edd300a7fac.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274036&x-signature=C4txLCR8yWO42iGTdbk%2BOkQmti0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e7aaadfc38804206a2430edd300a7fac.png",
           "file_type": "jpeg",
           "biz_type": 2

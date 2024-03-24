@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Malhaar,</p><p><br /></p><p>Thank you for reaching out.</p><p><br /></p><p>Yes, the client has used the correct macros for their Custom Destination URL, which will dynamically pull through the Ad Group and Campaign Name of each Ad.</p><p>The 'ttclid' UTM Parameter is automatically appended at the end of the URL, therefore the client has correctly not added it.</p><p><br /></p><p>However, when looking at the Product Links within both FR and DE Catalog, we can see:</p><ol><li>there are two question marks '??' before the start of the UTMs (only in FR catalog). Please update the catalog Rule accordingly</li><li>the utm_campaign parameter is not mapped to a dynamic macro, but a static campaign name (both FR and DE). Please update the catalog Rule accordingly</li></ol><p><br /></p><p>Finally, the Match Rate for the Complete Payment event is 0% for both FR and DE catalogs. This is due to the Pixel Complete Payment event sending an additional component with the content_id which does not appear under the catalog SKU ID or Item Group ID: </p><ul><li><span style=\"color: #222222;\">CompletePayment 'content_id': <strong>16214324_jdsportsde</strong></span></li><li><span style=\"color: #222222;\">Catalog SKU ID: <strong>16214324</strong></span></li></ul><p><br /></p><p><span style=\"color: #222222;\">Could you please ask the client to add another rule under their catalog so that the Item Group ID field ends with '<strong>_jdsportsde</strong>' for the DE catalog and '<strong>_jdsportsfr</strong>' for the FR catalog?</span></p><img alt=\"Screenshot 2024-01-29 at 09.03.33.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/79c0f175f68b4f2fad9081827c4cc376.png\" height=\"193.261\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/79c0f175f68b4f2fad9081827c4cc376.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832759&amp;x-signature=ShzMARo5u51y%2BinKqBKYSQk8DwQ%3D\" width=\"375\"><p><br /></p><p>Best,</p><p>Katerina</p></img>",
+          "content": "<p>Hi Malhaar,</p><p><br /></p><p>Thank you for reaching out.</p><p><br /></p><p>Yes, the client has used the correct macros for their Custom Destination URL, which will dynamically pull through the Ad Group and Campaign Name of each Ad.</p><p>The 'ttclid' UTM Parameter is automatically appended at the end of the URL, therefore the client has correctly not added it.</p><p><br /></p><p>However, when looking at the Product Links within both FR and DE Catalog, we can see:</p><ol><li>there are two question marks '??' before the start of the UTMs (only in FR catalog). Please update the catalog Rule accordingly</li><li>the utm_campaign parameter is not mapped to a dynamic macro, but a static campaign name (both FR and DE). Please update the catalog Rule accordingly</li></ol><p><br /></p><p>Finally, the Match Rate for the Complete Payment event is 0% for both FR and DE catalogs. This is due to the Pixel Complete Payment event sending an additional component with the content_id which does not appear under the catalog SKU ID or Item Group ID: </p><ul><li><span style=\"color: #222222;\">CompletePayment 'content_id': <strong>16214324_jdsportsde</strong></span></li><li><span style=\"color: #222222;\">Catalog SKU ID: <strong>16214324</strong></span></li></ul><p><br /></p><p><span style=\"color: #222222;\">Could you please ask the client to add another rule under their catalog so that the Item Group ID field ends with '<strong>_jdsportsde</strong>' for the DE catalog and '<strong>_jdsportsfr</strong>' for the FR catalog?</span></p><img alt=\"Screenshot 2024-01-29 at 09.03.33.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/79c0f175f68b4f2fad9081827c4cc376.png\" height=\"193.261\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/79c0f175f68b4f2fad9081827c4cc376.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273122&amp;x-signature=YTxJKg5N%2F8P219UrO4TZAKa%2FcAM%3D\" width=\"375\"><p><br /></p><p>Best,</p><p>Katerina</p></img>",
           "type": 6
         },
         {
@@ -41,27 +41,27 @@
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-01-29 at 08.06.01.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/681a61760b5741bdb10dc52bf7b08834.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832759&x-signature=V6jUhGbHwMHIUU6RjCMRSXhZan0%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/681a61760b5741bdb10dc52bf7b08834.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273122&x-signature=EHHit1sdqn%2BRBaGzfZ6PQH7cwPI%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/681a61760b5741bdb10dc52bf7b08834.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/681a61760b5741bdb10dc52bf7b08834.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832759&x-signature=V6jUhGbHwMHIUU6RjCMRSXhZan0%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/681a61760b5741bdb10dc52bf7b08834.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273122&x-signature=EHHit1sdqn%2BRBaGzfZ6PQH7cwPI%3D",
               "biz_type": 2,
               "size": 0
             },
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-01-29 at 08.09.37.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fce890fc9f414a32a160361cc3924ab5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832759&x-signature=gwTAYGPsREymkgGnBdSKMrn6w0c%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fce890fc9f414a32a160361cc3924ab5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273122&x-signature=neUBSyZXlkEYMZKQikQaMM7Vud8%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/fce890fc9f414a32a160361cc3924ab5.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fce890fc9f414a32a160361cc3924ab5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832759&x-signature=gwTAYGPsREymkgGnBdSKMrn6w0c%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fce890fc9f414a32a160361cc3924ab5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273122&x-signature=neUBSyZXlkEYMZKQikQaMM7Vud8%3D",
               "biz_type": 2,
               "size": 0
             },
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-01-29 at 08.15.42.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/339ff7044b5c4539a034983d5a618f35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832759&x-signature=ddV9kVgByuC7XSqjFZGFHXR6uJo%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/339ff7044b5c4539a034983d5a618f35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273122&x-signature=tFumIKj%2Bceavt4LeB5NFHqVpVeM%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/339ff7044b5c4539a034983d5a618f35.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/339ff7044b5c4539a034983d5a618f35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832759&x-signature=ddV9kVgByuC7XSqjFZGFHXR6uJo%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/339ff7044b5c4539a034983d5a618f35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273122&x-signature=tFumIKj%2Bceavt4LeB5NFHqVpVeM%3D",
               "biz_type": 2,
               "size": 0
             }
@@ -333,7 +333,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1648879,
+  "pending_time": 2089243,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -509,9 +509,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/79c0f175f68b4f2fad9081827c4cc376.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832759&x-signature=ShzMARo5u51y%2BinKqBKYSQk8DwQ%3D",
-          "file_name": "file_20240318_13_32_39_155111",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/79c0f175f68b4f2fad9081827c4cc376.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832759&x-signature=ShzMARo5u51y%2BinKqBKYSQk8DwQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/79c0f175f68b4f2fad9081827c4cc376.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273122&x-signature=YTxJKg5N%2F8P219UrO4TZAKa%2FcAM%3D",
+          "file_name": "file_20240323_15_52_03_010094",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/79c0f175f68b4f2fad9081827c4cc376.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273122&x-signature=YTxJKg5N%2F8P219UrO4TZAKa%2FcAM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/79c0f175f68b4f2fad9081827c4cc376.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -519,27 +519,27 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-29 at 08.06.01.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/681a61760b5741bdb10dc52bf7b08834.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832759&x-signature=V6jUhGbHwMHIUU6RjCMRSXhZan0%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/681a61760b5741bdb10dc52bf7b08834.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273122&x-signature=EHHit1sdqn%2BRBaGzfZ6PQH7cwPI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/681a61760b5741bdb10dc52bf7b08834.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/681a61760b5741bdb10dc52bf7b08834.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832759&x-signature=V6jUhGbHwMHIUU6RjCMRSXhZan0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/681a61760b5741bdb10dc52bf7b08834.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273122&x-signature=EHHit1sdqn%2BRBaGzfZ6PQH7cwPI%3D",
           "biz_type": 2,
           "size": 0
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-29 at 08.09.37.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fce890fc9f414a32a160361cc3924ab5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832759&x-signature=gwTAYGPsREymkgGnBdSKMrn6w0c%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fce890fc9f414a32a160361cc3924ab5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273122&x-signature=neUBSyZXlkEYMZKQikQaMM7Vud8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/fce890fc9f414a32a160361cc3924ab5.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fce890fc9f414a32a160361cc3924ab5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832759&x-signature=gwTAYGPsREymkgGnBdSKMrn6w0c%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fce890fc9f414a32a160361cc3924ab5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273122&x-signature=neUBSyZXlkEYMZKQikQaMM7Vud8%3D",
           "biz_type": 2,
           "size": 0
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-29 at 08.15.42.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/339ff7044b5c4539a034983d5a618f35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832759&x-signature=ddV9kVgByuC7XSqjFZGFHXR6uJo%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/339ff7044b5c4539a034983d5a618f35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273122&x-signature=tFumIKj%2Bceavt4LeB5NFHqVpVeM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/339ff7044b5c4539a034983d5a618f35.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/339ff7044b5c4539a034983d5a618f35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832759&x-signature=ddV9kVgByuC7XSqjFZGFHXR6uJo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/339ff7044b5c4539a034983d5a618f35.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273122&x-signature=tFumIKj%2Bceavt4LeB5NFHqVpVeM%3D",
           "biz_type": 2,
           "size": 0
         }

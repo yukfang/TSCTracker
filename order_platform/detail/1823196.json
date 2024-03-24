@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Qian,</p><p><br /></p><p>Thank you for your patience on this!</p><p><br /></p><p>The client has not implemented parameters to their event code, therefore it is expected not to see any values coming through in TTAM. We can confirm this via their GTM code that is available on their website, where they only implemented the function <em>ttq.instance('</em><em>C3DHGPITO1NMNN16MDBG').track('PlaceAnOrder');</em></p><p><br /></p><p>If parameters had been added to their code it would look like: ttq.instance('C3DHGPITO1NMNN16MDBG').track('PlaceAnOrder', {content_id: '1234', content_type: 'product', quantity: 1, value: 25.00, currency: 'GBP' });</p><p><br /></p><img alt=\"Screenshot 2024-01-22 at 08.37.28.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b2e2c32de7144e3aa4e498601d6da96c.png\" height=\"189.626\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2e2c32de7144e3aa4e498601d6da96c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832980&amp;x-signature=9UtWBPTIxf1%2BBCZVTVpldTJiwoE%3D\" width=\"375\"><p><br /></p><p>Additionally, the client has not implemented <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\" target=\"_blank\">manual Advanced Matching</a>. Could you please confirm with them if they will move forward with this recommendation?</p><p>If manual Advanced Matching was implemented, their event code would also include one more line as shown below:</p><p>ttq.identify({ email: 'example@gmail.com', phone_number: '+447518181818'); </p><p>ttq.instance('C3DHGPITO1NMNN16MDBG').track('PlaceAnOrder', {content_id: '1234', content_type: 'product', quantity: 1, value: 25.00, currency: 'GBP' });</p><p><br /></p><p>//They can either send the raw email/phone values, which will be hashed and encrypted locally on the browser before being transmitted to our servers, or send the hashed email/phones using SHA256.</p><p><br /></p><p>Please let me know if they would like to get in an implementation call.</p><p><br /></p><p>Best,</p><p>Katerina</p></img>",
+          "content": "<p>Hi Qian,</p><p><br /></p><p>Thank you for your patience on this!</p><p><br /></p><p>The client has not implemented parameters to their event code, therefore it is expected not to see any values coming through in TTAM. We can confirm this via their GTM code that is available on their website, where they only implemented the function <em>ttq.instance('</em><em>C3DHGPITO1NMNN16MDBG').track('PlaceAnOrder');</em></p><p><br /></p><p>If parameters had been added to their code it would look like: ttq.instance('C3DHGPITO1NMNN16MDBG').track('PlaceAnOrder', {content_id: '1234', content_type: 'product', quantity: 1, value: 25.00, currency: 'GBP' });</p><p><br /></p><img alt=\"Screenshot 2024-01-22 at 08.37.28.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b2e2c32de7144e3aa4e498601d6da96c.png\" height=\"189.626\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2e2c32de7144e3aa4e498601d6da96c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272977&amp;x-signature=OobKRair%2BTNAmGsaVfDtg9F6kV4%3D\" width=\"375\"><p><br /></p><p>Additionally, the client has not implemented <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\" target=\"_blank\">manual Advanced Matching</a>. Could you please confirm with them if they will move forward with this recommendation?</p><p>If manual Advanced Matching was implemented, their event code would also include one more line as shown below:</p><p>ttq.identify({ email: 'example@gmail.com', phone_number: '+447518181818'); </p><p>ttq.instance('C3DHGPITO1NMNN16MDBG').track('PlaceAnOrder', {content_id: '1234', content_type: 'product', quantity: 1, value: 25.00, currency: 'GBP' });</p><p><br /></p><p>//They can either send the raw email/phone values, which will be hashed and encrypted locally on the browser before being transmitted to our servers, or send the hashed email/phones using SHA256.</p><p><br /></p><p>Please let me know if they would like to get in an implementation call.</p><p><br /></p><p>Best,</p><p>Katerina</p></img>",
           "type": 6
         }
       ],
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>hi Katerina, thanks for the feedback.</p><p><br /></p><p>/ based on your guidance, Above issues are solved!</p><p><br /></p><p>/ furthermore, client has a new question, the content ID of' place an order' is not received. can we help to check？ </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4d7966ccd22b4a4e8cdc90896b9ed0a5.png\" height=\"171.44\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d7966ccd22b4a4e8cdc90896b9ed0a5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832980&amp;x-signature=TPNm%2FcafrSJhiuin5gagQ%2Fj%2BN98%3D\" width=\"375\" />",
+          "content": "<p>hi Katerina, thanks for the feedback.</p><p><br /></p><p>/ based on your guidance, Above issues are solved!</p><p><br /></p><p>/ furthermore, client has a new question, the content ID of' place an order' is not received. can we help to check？ </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4d7966ccd22b4a4e8cdc90896b9ed0a5.png\" height=\"171.44\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d7966ccd22b4a4e8cdc90896b9ed0a5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272977&amp;x-signature=Yyef5IomHwuBZvSrEzPHLbX0yoU%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>here is the screenshot of code in GTM, shared by client</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png\" height=\"186.301\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832980&amp;x-signature=9xzz7ctfInRAmyBrG1g6h838f50%3D\" width=\"375\"><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6f20ca7015134839b4e133731aaaa568.png\" height=\"65.142\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f20ca7015134839b4e133731aaaa568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832980&amp;x-signature=zbyh2S5qm3HJDbVnJLfpvXhMTPk%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5a162de843ec47238606292473353370.png\" height=\"56.338\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a162de843ec47238606292473353370.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832980&amp;x-signature=Kc8%2FvNZCiTG4hXBNxCqRPw05r%2Fk%3D\" width=\"375\" /></img></img>",
+          "content": "<p>here is the screenshot of code in GTM, shared by client</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png\" height=\"186.301\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272977&amp;x-signature=0GdOee3q099Um7qTGoo2XaKJvqo%3D\" width=\"375\"><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6f20ca7015134839b4e133731aaaa568.png\" height=\"65.142\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f20ca7015134839b4e133731aaaa568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272977&amp;x-signature=Kk%2Bdg3ODayGCqhtMCCW8usQA5XA%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5a162de843ec47238606292473353370.png\" height=\"56.338\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a162de843ec47238606292473353370.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272977&amp;x-signature=toalBYW5nGN%2F4OLLglGTaLknOpE%3D\" width=\"375\" /></img></img>",
           "type": 6
         }
       ],
@@ -388,7 +388,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3383769,
+  "pending_time": 3823766,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -564,48 +564,48 @@
         {
           "file_type": "png",
           "file_name": "eventbrite.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f84eb87fdcc740ab88579c0f90d71d6b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=dfowcJUsnMPap2UWa5sx6nnjGPg%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f84eb87fdcc740ab88579c0f90d71d6b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272977&x-signature=WB6MVCMS%2FaS%2BhFB2RLQMHwtB5cc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/f84eb87fdcc740ab88579c0f90d71d6b.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f84eb87fdcc740ab88579c0f90d71d6b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=dfowcJUsnMPap2UWa5sx6nnjGPg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f84eb87fdcc740ab88579c0f90d71d6b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272977&x-signature=WB6MVCMS%2FaS%2BhFB2RLQMHwtB5cc%3D",
           "size": 255655
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2e2c32de7144e3aa4e498601d6da96c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=9UtWBPTIxf1%2BBCZVTVpldTJiwoE%3D",
-          "file_name": "file_20240318_13_36_20_497928",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2e2c32de7144e3aa4e498601d6da96c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=9UtWBPTIxf1%2BBCZVTVpldTJiwoE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2e2c32de7144e3aa4e498601d6da96c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272977&x-signature=OobKRair%2BTNAmGsaVfDtg9F6kV4%3D",
+          "file_name": "file_20240323_15_49_37_549430",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b2e2c32de7144e3aa4e498601d6da96c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272977&x-signature=OobKRair%2BTNAmGsaVfDtg9F6kV4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b2e2c32de7144e3aa4e498601d6da96c.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d7966ccd22b4a4e8cdc90896b9ed0a5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=TPNm%2FcafrSJhiuin5gagQ%2Fj%2BN98%3D",
-          "file_name": "file_20240318_13_36_20_540564",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d7966ccd22b4a4e8cdc90896b9ed0a5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=TPNm%2FcafrSJhiuin5gagQ%2Fj%2BN98%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d7966ccd22b4a4e8cdc90896b9ed0a5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272977&x-signature=Yyef5IomHwuBZvSrEzPHLbX0yoU%3D",
+          "file_name": "file_20240323_15_49_37_593482",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d7966ccd22b4a4e8cdc90896b9ed0a5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272977&x-signature=Yyef5IomHwuBZvSrEzPHLbX0yoU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4d7966ccd22b4a4e8cdc90896b9ed0a5.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=9xzz7ctfInRAmyBrG1g6h838f50%3D",
-          "file_name": "file_20240318_13_36_20_575389",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=9xzz7ctfInRAmyBrG1g6h838f50%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a162de843ec47238606292473353370.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=Kc8%2FvNZCiTG4hXBNxCqRPw05r%2Fk%3D",
-          "file_name": "file_20240318_13_36_20_575451",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a162de843ec47238606292473353370.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=Kc8%2FvNZCiTG4hXBNxCqRPw05r%2Fk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a162de843ec47238606292473353370.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272977&x-signature=toalBYW5nGN%2F4OLLglGTaLknOpE%3D",
+          "file_name": "file_20240323_15_49_37_637202",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a162de843ec47238606292473353370.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272977&x-signature=toalBYW5nGN%2F4OLLglGTaLknOpE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5a162de843ec47238606292473353370.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f20ca7015134839b4e133731aaaa568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=zbyh2S5qm3HJDbVnJLfpvXhMTPk%3D",
-          "file_name": "file_20240318_13_36_20_575468",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f20ca7015134839b4e133731aaaa568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832980&x-signature=zbyh2S5qm3HJDbVnJLfpvXhMTPk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f20ca7015134839b4e133731aaaa568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272977&x-signature=Kk%2Bdg3ODayGCqhtMCCW8usQA5XA%3D",
+          "file_name": "file_20240323_15_49_37_637269",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f20ca7015134839b4e133731aaaa568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272977&x-signature=Kk%2Bdg3ODayGCqhtMCCW8usQA5XA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/6f20ca7015134839b4e133731aaaa568.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272977&x-signature=0GdOee3q099Um7qTGoo2XaKJvqo%3D",
+          "file_name": "file_20240323_15_49_37_637294",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272977&x-signature=0GdOee3q099Um7qTGoo2XaKJvqo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/3859734a9e5a4049914c080264292088.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

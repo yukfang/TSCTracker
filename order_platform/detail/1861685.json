@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354674",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1707233413,
   "deadline": 0,
@@ -120,7 +120,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Maria,</p><p><br /></p><p>I am only seeing one pixel fire on their site: <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CN0KK1JC77UDUQCFJV50?start_time=2024-02-02&amp;end_time=2024-02-08&amp;from=ALL&amp;aadvid=7060553027085746177\" target=\"_blank\">CN0KK1JC77UDUQCFJV50</a>. </p><p><br /></p><p>This is not the one I see in their Events Manager, which is <span style=\"color: #666666;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C7U1VHEL6EKFLIVR1LN0?start_time=2024-02-02&amp;end_time=2024-02-08&amp;from=ALL&amp;aadvid=7155568394752753666\" target=\"_blank\">C7U1VHEL6EKFLIVR1LN0</a>. </span></p><p><br /></p><p><span style=\"color: #222222;\">Pixel</span> <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CN0KK1JC77UDUQCFJV50?start_time=2024-02-02&amp;end_time=2024-02-08&amp;from=ALL&amp;aadvid=7060553027085746177\" target=\"_blank\">CN0KK1JC77UDUQCFJV50</a> (the one in use) looks pretty new, only live since Feb 4th:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3798ea7cdb1640d799de6809b4b0dfde.png\" height=\"197.509\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3798ea7cdb1640d799de6809b4b0dfde.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837760&amp;x-signature=ZzaZ%2BJ1bBWCXsHi1r6eYpaSd%2FY0%3D\" width=\"375\"><p>As for PII, it looks very good. With only a couple of exceptions, Email is reporting for CompletePayment events and Phone is sometimes reporting (this is expected):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f7815339a9a8482fa858d104d19116a0.png\" height=\"94.46\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f7815339a9a8482fa858d104d19116a0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837760&amp;x-signature=xsmoeFM%2BsA0pZU6lvkvfCv%2FuxIk%3D\" width=\"375\"><p><br /></p><p>Parameters for events are looking to report well, for example:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/01be9a9199bf4be3a23e1ea32fca9ffd.png\" height=\"196.486\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/01be9a9199bf4be3a23e1ea32fca9ffd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837760&amp;x-signature=h6vd6AHDFUsdc7M8HK6Y7%2BCyIOU%3D\" width=\"375\"><p>Looking good!</p><p><br /></p><p>Now that they have switched pixels, and this one looks properly set up, the best thing for them to do is just to stick with it and don't change it again. </p><p><br /></p><p>Since they now have two separate ad accounts with multiple pixels, you may want to advise them they don't need different accounts to separate metrics, unless there is some business reason that makes sense. Aside from that, I don't see anything they need to fix.</p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
+          "content": "<p>Hi Maria,</p><p><br /></p><p>I am only seeing one pixel fire on their site: <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CN0KK1JC77UDUQCFJV50?start_time=2024-02-02&amp;end_time=2024-02-08&amp;from=ALL&amp;aadvid=7060553027085746177\" target=\"_blank\">CN0KK1JC77UDUQCFJV50</a>. </p><p><br /></p><p>This is not the one I see in their Events Manager, which is <span style=\"color: #666666;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C7U1VHEL6EKFLIVR1LN0?start_time=2024-02-02&amp;end_time=2024-02-08&amp;from=ALL&amp;aadvid=7155568394752753666\" target=\"_blank\">C7U1VHEL6EKFLIVR1LN0</a>. </span></p><p><br /></p><p><span style=\"color: #222222;\">Pixel</span> <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CN0KK1JC77UDUQCFJV50?start_time=2024-02-02&amp;end_time=2024-02-08&amp;from=ALL&amp;aadvid=7060553027085746177\" target=\"_blank\">CN0KK1JC77UDUQCFJV50</a> (the one in use) looks pretty new, only live since Feb 4th:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3798ea7cdb1640d799de6809b4b0dfde.png\" height=\"197.509\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3798ea7cdb1640d799de6809b4b0dfde.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273343&amp;x-signature=0fDBBFFojRxGfn5qXoNvTCE9LhA%3D\" width=\"375\"><p>As for PII, it looks very good. With only a couple of exceptions, Email is reporting for CompletePayment events and Phone is sometimes reporting (this is expected):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f7815339a9a8482fa858d104d19116a0.png\" height=\"94.46\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f7815339a9a8482fa858d104d19116a0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273343&amp;x-signature=ThKw7R1jpizU5vt7a69OX0dn7%2BY%3D\" width=\"375\"><p><br /></p><p>Parameters for events are looking to report well, for example:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/01be9a9199bf4be3a23e1ea32fca9ffd.png\" height=\"196.486\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/01be9a9199bf4be3a23e1ea32fca9ffd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273343&amp;x-signature=%2Fi8swnvlbA3m02iowpolOSPSF6c%3D\" width=\"375\"><p>Looking good!</p><p><br /></p><p>Now that they have switched pixels, and this one looks properly set up, the best thing for them to do is just to stick with it and don't change it again. </p><p><br /></p><p>Since they now have two separate ad accounts with multiple pixels, you may want to advise them they don't need different accounts to separate metrics, unless there is some business reason that makes sense. Aside from that, I don't see anything they need to fix.</p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
           "type": 6
         }
       ],
@@ -357,7 +357,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2926909,
+  "pending_time": 3362491,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -531,26 +531,26 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3798ea7cdb1640d799de6809b4b0dfde.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837760&x-signature=ZzaZ%2BJ1bBWCXsHi1r6eYpaSd%2FY0%3D",
-          "file_name": "file_20240318_14_56_00_977160",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3798ea7cdb1640d799de6809b4b0dfde.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837760&x-signature=ZzaZ%2BJ1bBWCXsHi1r6eYpaSd%2FY0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3798ea7cdb1640d799de6809b4b0dfde.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273343&x-signature=0fDBBFFojRxGfn5qXoNvTCE9LhA%3D",
+          "file_name": "file_20240323_15_55_43_290570",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3798ea7cdb1640d799de6809b4b0dfde.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273343&x-signature=0fDBBFFojRxGfn5qXoNvTCE9LhA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/3798ea7cdb1640d799de6809b4b0dfde.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/01be9a9199bf4be3a23e1ea32fca9ffd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837760&x-signature=h6vd6AHDFUsdc7M8HK6Y7%2BCyIOU%3D",
-          "file_name": "file_20240318_14_56_00_977232",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/01be9a9199bf4be3a23e1ea32fca9ffd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837760&x-signature=h6vd6AHDFUsdc7M8HK6Y7%2BCyIOU%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/01be9a9199bf4be3a23e1ea32fca9ffd.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f7815339a9a8482fa858d104d19116a0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273343&x-signature=ThKw7R1jpizU5vt7a69OX0dn7%2BY%3D",
+          "file_name": "file_20240323_15_55_43_290644",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f7815339a9a8482fa858d104d19116a0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273343&x-signature=ThKw7R1jpizU5vt7a69OX0dn7%2BY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f7815339a9a8482fa858d104d19116a0.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f7815339a9a8482fa858d104d19116a0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837760&x-signature=xsmoeFM%2BsA0pZU6lvkvfCv%2FuxIk%3D",
-          "file_name": "file_20240318_14_56_00_977257",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f7815339a9a8482fa858d104d19116a0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837760&x-signature=xsmoeFM%2BsA0pZU6lvkvfCv%2FuxIk%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/f7815339a9a8482fa858d104d19116a0.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/01be9a9199bf4be3a23e1ea32fca9ffd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273343&x-signature=%2Fi8swnvlbA3m02iowpolOSPSF6c%3D",
+          "file_name": "file_20240323_15_55_43_290661",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/01be9a9199bf4be3a23e1ea32fca9ffd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273343&x-signature=%2Fi8swnvlbA3m02iowpolOSPSF6c%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/01be9a9199bf4be3a23e1ea32fca9ffd.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

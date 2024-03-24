@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1706836708,
   "deadline": 0,
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Anthony,</p><p><br /></p><p> </p><p>Checking their pixel data, I am actually seeing great PII coverage for CompletePayment (both Email and Phone). For example:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/95227675640f417283a57de0e409b934.png\" height=\"90.671\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95227675640f417283a57de0e409b934.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837680&amp;x-signature=6gZCft%2B3CGdS%2FLqZpn5%2F%2FFrosbw%3D\" width=\"375\"><p>I am not seeing as much coverage for lower funnel events, for example, AddToCart:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/459c5d12400643ed9611b1ad9bb1d924.png\" height=\"96.841\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/459c5d12400643ed9611b1ad9bb1d924.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837680&amp;x-signature=67xaSEdjiwqc0YuDRE4dAe8Wzq4%3D\" width=\"375\"><p>But this is not unusual as many users are not logged in until the payment steps. Could this be where the PII issue is coming from? If so, the only solution would be for users to log in earlier in the experience, which may or may not be possible.</p><p><br /></p><p>I'm attaching the data here with a tab for all events, then one for CompletePayment event ids, and one for AddToCart event ids. You can see that good number of the events are not deduplicating. They should troubleshooting their event_id implementation and find out why they are not matching up between server and broswer. </p><p><br /></p><p>I have seen this issue come up a lot with Shopify headless. If you think it makes sense, you may want to mention Shopify One-Click as a solution that solves a lot of these PII and event_id issues. The can find out more here: <a href=\"https://apps.shopify.com/tiktok\" target=\"_blank\">https://apps.shopify.com/tiktok</a></p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "content": "<p>Hi Anthony,</p><p><br /></p><p> </p><p>Checking their pixel data, I am actually seeing great PII coverage for CompletePayment (both Email and Phone). For example:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/95227675640f417283a57de0e409b934.png\" height=\"90.671\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95227675640f417283a57de0e409b934.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273270&amp;x-signature=4%2FLdsjchtDefGkZp7je1aL2qk1M%3D\" width=\"375\"><p>I am not seeing as much coverage for lower funnel events, for example, AddToCart:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/459c5d12400643ed9611b1ad9bb1d924.png\" height=\"96.841\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/459c5d12400643ed9611b1ad9bb1d924.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273270&amp;x-signature=vEETPTW2SZ%2Be6u7Hzw0tmtPSVEw%3D\" width=\"375\"><p>But this is not unusual as many users are not logged in until the payment steps. Could this be where the PII issue is coming from? If so, the only solution would be for users to log in earlier in the experience, which may or may not be possible.</p><p><br /></p><p>I'm attaching the data here with a tab for all events, then one for CompletePayment event ids, and one for AddToCart event ids. You can see that good number of the events are not deduplicating. They should troubleshooting their event_id implementation and find out why they are not matching up between server and broswer. </p><p><br /></p><p>I have seen this issue come up a lot with Shopify headless. If you think it makes sense, you may want to mention Shopify One-Click as a solution that solves a lot of these PII and event_id issues. The can find out more here: <a href=\"https://apps.shopify.com/tiktok\" target=\"_blank\">https://apps.shopify.com/tiktok</a></p><p><br /></p><p>Thanks, Heidi</p></img></img>",
           "type": 6
         }
       ],
@@ -197,7 +197,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3426247,
+  "pending_time": 3861837,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -371,17 +371,17 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/459c5d12400643ed9611b1ad9bb1d924.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837680&x-signature=67xaSEdjiwqc0YuDRE4dAe8Wzq4%3D",
-          "file_name": "file_20240318_14_54_40_591913",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/459c5d12400643ed9611b1ad9bb1d924.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837680&x-signature=67xaSEdjiwqc0YuDRE4dAe8Wzq4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/459c5d12400643ed9611b1ad9bb1d924.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273270&x-signature=vEETPTW2SZ%2Be6u7Hzw0tmtPSVEw%3D",
+          "file_name": "file_20240323_15_54_30_379510",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/459c5d12400643ed9611b1ad9bb1d924.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273270&x-signature=vEETPTW2SZ%2Be6u7Hzw0tmtPSVEw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/459c5d12400643ed9611b1ad9bb1d924.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95227675640f417283a57de0e409b934.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837680&x-signature=6gZCft%2B3CGdS%2FLqZpn5%2F%2FFrosbw%3D",
-          "file_name": "file_20240318_14_54_40_592001",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95227675640f417283a57de0e409b934.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837680&x-signature=6gZCft%2B3CGdS%2FLqZpn5%2F%2FFrosbw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95227675640f417283a57de0e409b934.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273270&x-signature=4%2FLdsjchtDefGkZp7je1aL2qk1M%3D",
+          "file_name": "file_20240323_15_54_30_379587",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95227675640f417283a57de0e409b934.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273270&x-signature=4%2FLdsjchtDefGkZp7je1aL2qk1M%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/95227675640f417283a57de0e409b934.png",
           "file_type": "jpeg",
           "biz_type": 2

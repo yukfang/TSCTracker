@@ -35,7 +35,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hola Juan Pablo,</p><p>Confirmando recibo de tu ticket. Favor de ver los comentarios a continuación.</p><p>El problema que mencionas, en si, no es un problema. Esto es mas un tema legal que técnico. Si entiendo bien lo que describes en el ticket, estamos notando que los eventos no siempre se activan a la hora de ir a la pagina del anunciante. Como podemos ver en la imagen de abajo, el cliente tiene una politíca de cookies, la cual no permite que nuestro pixel se active sin que el usuario de su consentimiento. </p><img alt=\"Screenshot 2024-01-24 at 10.48.24 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2940c4bc8cd843c2a9fb2897b8b1e687.png\" height=\"188.579\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2940c4bc8cd843c2a9fb2897b8b1e687.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833463&amp;x-signature=5rnmLCYMsAfNl1y1bPawf4VCmTU%3D\" width=\"375\"><p>En la siguiente imagen podemos ver como una vez que el usuario hace clic al botón de<strong> Aceptar</strong>, este activa el pixel de TikTok y dispara los eventos adecuados.</p><img alt=\"Screenshot 2024-01-24 at 10.52.44 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/881a7a19a5ed4fc88b2210a7dd97d18c.png\" height=\"188.579\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/881a7a19a5ed4fc88b2210a7dd97d18c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833463&amp;x-signature=BhnvxBNMC9vJQPF8SjvmBh%2FV1rQ%3D\" width=\"375\"><p>El comportamiento de la página que se muestra arriba es normal ya que nuestro pixel contiene cookies de 1eros y 3eros, lo cual requiere que si el anunciante maneja una política de cookies en us página, este debe primero obtener el consentimiento del visitante antes de poder emplear nuestro pixel. <a href=\"https://ads.tiktok.com/help/article/using-cookies-with-tiktok-pixel?lang=en\" target=\"_blank\">Ver mas información al respecto aquí</a>.</p><p>En resumen, la implementación esta 100% correcta. El cliente esta usando nuestra integración para Shopify. <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CJP1I2JC77UBOJ5EEFQG?aadvid=7141478538359603202\" target=\"_blank\">Su funnel esta 100% correcto</a> y los eventos contienen todos los datos que TikTok recomienda. </p><p>No hay nada mas que hacer por el lado de implementación, pero si tienes alguna pregunta no dudes en contactarme.</p><p>Saludos,<br>Armando</br></p></img></img>",
+          "content": "<p>Hola Juan Pablo,</p><p>Confirmando recibo de tu ticket. Favor de ver los comentarios a continuación.</p><p>El problema que mencionas, en si, no es un problema. Esto es mas un tema legal que técnico. Si entiendo bien lo que describes en el ticket, estamos notando que los eventos no siempre se activan a la hora de ir a la pagina del anunciante. Como podemos ver en la imagen de abajo, el cliente tiene una politíca de cookies, la cual no permite que nuestro pixel se active sin que el usuario de su consentimiento. </p><img alt=\"Screenshot 2024-01-24 at 10.48.24 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2940c4bc8cd843c2a9fb2897b8b1e687.png\" height=\"188.579\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2940c4bc8cd843c2a9fb2897b8b1e687.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273087&amp;x-signature=ms4OPBVzQI7DzJWTz8DmRexF0hY%3D\" width=\"375\"><p>En la siguiente imagen podemos ver como una vez que el usuario hace clic al botón de<strong> Aceptar</strong>, este activa el pixel de TikTok y dispara los eventos adecuados.</p><img alt=\"Screenshot 2024-01-24 at 10.52.44 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/881a7a19a5ed4fc88b2210a7dd97d18c.png\" height=\"188.579\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/881a7a19a5ed4fc88b2210a7dd97d18c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273087&amp;x-signature=TE5IOhTJnoQtio2DxuJ0t8O%2BJFs%3D\" width=\"375\"><p>El comportamiento de la página que se muestra arriba es normal ya que nuestro pixel contiene cookies de 1eros y 3eros, lo cual requiere que si el anunciante maneja una política de cookies en us página, este debe primero obtener el consentimiento del visitante antes de poder emplear nuestro pixel. <a href=\"https://ads.tiktok.com/help/article/using-cookies-with-tiktok-pixel?lang=en\" target=\"_blank\">Ver mas información al respecto aquí</a>.</p><p>En resumen, la implementación esta 100% correcta. El cliente esta usando nuestra integración para Shopify. <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CJP1I2JC77UBOJ5EEFQG?aadvid=7141478538359603202\" target=\"_blank\">Su funnel esta 100% correcto</a> y los eventos contienen todos los datos que TikTok recomienda. </p><p>No hay nada mas que hacer por el lado de implementación, pero si tienes alguna pregunta no dudes en contactarme.</p><p>Saludos,<br>Armando</br></p></img></img>",
           "type": 6
         }
       ],
@@ -332,7 +332,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 4639339,
+  "pending_time": 5078962,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -506,17 +506,17 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/881a7a19a5ed4fc88b2210a7dd97d18c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833463&x-signature=BhnvxBNMC9vJQPF8SjvmBh%2FV1rQ%3D",
-          "file_name": "file_20240318_13_44_23_904428",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/881a7a19a5ed4fc88b2210a7dd97d18c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833463&x-signature=BhnvxBNMC9vJQPF8SjvmBh%2FV1rQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/881a7a19a5ed4fc88b2210a7dd97d18c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273087&x-signature=TE5IOhTJnoQtio2DxuJ0t8O%2BJFs%3D",
+          "file_name": "file_20240323_15_51_27_611062",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/881a7a19a5ed4fc88b2210a7dd97d18c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273087&x-signature=TE5IOhTJnoQtio2DxuJ0t8O%2BJFs%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/881a7a19a5ed4fc88b2210a7dd97d18c.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2940c4bc8cd843c2a9fb2897b8b1e687.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833463&x-signature=5rnmLCYMsAfNl1y1bPawf4VCmTU%3D",
-          "file_name": "file_20240318_13_44_23_904509",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2940c4bc8cd843c2a9fb2897b8b1e687.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833463&x-signature=5rnmLCYMsAfNl1y1bPawf4VCmTU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2940c4bc8cd843c2a9fb2897b8b1e687.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273087&x-signature=ms4OPBVzQI7DzJWTz8DmRexF0hY%3D",
+          "file_name": "file_20240323_15_51_27_611124",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2940c4bc8cd843c2a9fb2897b8b1e687.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273087&x-signature=ms4OPBVzQI7DzJWTz8DmRexF0hY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2940c4bc8cd843c2a9fb2897b8b1e687.png",
           "file_type": "jpeg",
           "biz_type": 2

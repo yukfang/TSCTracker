@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p><br /></p><p>Hi Diana,</p><p><br /></p><p>Hope you are well.</p><p><br /></p><p>Please make sure that you refer to the Catalog Diagnostics section, which  includes  key outstanding items and recommendations (which are mentioned below as well):</p><img alt=\"Screenshot 2024-02-08 at 17.08.03.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0d3f5ddea17a4e4a93bfb6a3d699dedc.png\" height=\"154.264\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d3f5ddea17a4e4a93bfb6a3d699dedc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837751&amp;x-signature=Buszq9%2FAlcubgNOpSbV7NNrHSxw%3D\" width=\"375\"><p><br /></p><p>Please find below the outcome of basic checks done on the Catalog side:<br><br /></br></p><ol><li>The Pixel has not been associated under the Event Sources page. Please ask the client to link the Pixel ID: C7K3RPL20CB8M3VAQ4D0 to their catalog. <br>https://ads.tiktok.com/catalogs/event-sources?id=7260803661851412226&amp;bc_id=7249314033361371137</br></li></ol><p><br /></p><ol><li>The Catalog is in a 'Frozen' state due to no active campaigns having used this catalog for more than 28days. In other words, the catalog has not been updated with the newest products since August 2023. Either ask the client to trigger a manual data refresh, or to enable Product Sale campaigns using this catalog:</li></ol><img alt=\"Screenshot 2024-02-08 at 17.03.14.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6adc2796df3a422b81b312d9d592063e.png\" height=\"151.959\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6adc2796df3a422b81b312d9d592063e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837751&amp;x-signature=EiI2orscysZfUxnfSWdws%2BDD0Is%3D\" width=\"375\"><ol><li>Pixel/Events API: we can confirm that the the main events View Content, Add To Cart and Complete Payment have been setup. We can also confirm that the 'content_id' parameter is being sent with all three events, and this ID matches with the 'Item Group ID' found in the catalog.<br><br /></br></li><li>Some images in the feed appear to be smaller than the minimum size of 500x500. Please inform the client of this requirement in order to update image sizes.</li></ol><p><br /></p><p>Thanks,</p><p>Katerina</p></img></img>",
+          "content": "<p><br /></p><p>Hi Diana,</p><p><br /></p><p>Hope you are well.</p><p><br /></p><p>Please make sure that you refer to the Catalog Diagnostics section, which  includes  key outstanding items and recommendations (which are mentioned below as well):</p><img alt=\"Screenshot 2024-02-08 at 17.08.03.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0d3f5ddea17a4e4a93bfb6a3d699dedc.png\" height=\"154.264\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d3f5ddea17a4e4a93bfb6a3d699dedc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273336&amp;x-signature=e8GHrBhWorKfV8jDqEP0b6y2hCY%3D\" width=\"375\"><p><br /></p><p>Please find below the outcome of basic checks done on the Catalog side:<br><br /></br></p><ol><li>The Pixel has not been associated under the Event Sources page. Please ask the client to link the Pixel ID: C7K3RPL20CB8M3VAQ4D0 to their catalog. <br>https://ads.tiktok.com/catalogs/event-sources?id=7260803661851412226&amp;bc_id=7249314033361371137</br></li></ol><p><br /></p><ol><li>The Catalog is in a 'Frozen' state due to no active campaigns having used this catalog for more than 28days. In other words, the catalog has not been updated with the newest products since August 2023. Either ask the client to trigger a manual data refresh, or to enable Product Sale campaigns using this catalog:</li></ol><img alt=\"Screenshot 2024-02-08 at 17.03.14.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6adc2796df3a422b81b312d9d592063e.png\" height=\"151.959\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6adc2796df3a422b81b312d9d592063e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273336&amp;x-signature=CsqWN3Qe1Wt8BjN6RN7VTPDLK4A%3D\" width=\"375\"><ol><li>Pixel/Events API: we can confirm that the the main events View Content, Add To Cart and Complete Payment have been setup. We can also confirm that the 'content_id' parameter is being sent with all three events, and this ID matches with the 'Item Group ID' found in the catalog.<br><br /></br></li><li>Some images in the feed appear to be smaller than the minimum size of 500x500. Please inform the client of this requirement in order to update image sizes.</li></ol><p><br /></p><p>Thanks,</p><p>Katerina</p></img></img>",
           "type": 6
         }
       ],
@@ -102,7 +102,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3361510,
+  "pending_time": 3797095,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -239,17 +239,17 @@
       "label": "Screenshot(s)",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6adc2796df3a422b81b312d9d592063e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837751&x-signature=EiI2orscysZfUxnfSWdws%2BDD0Is%3D",
-          "file_name": "file_20240318_14_55_51_596220",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6adc2796df3a422b81b312d9d592063e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837751&x-signature=EiI2orscysZfUxnfSWdws%2BDD0Is%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6adc2796df3a422b81b312d9d592063e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273336&x-signature=CsqWN3Qe1Wt8BjN6RN7VTPDLK4A%3D",
+          "file_name": "file_20240323_15_55_36_472845",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6adc2796df3a422b81b312d9d592063e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273336&x-signature=CsqWN3Qe1Wt8BjN6RN7VTPDLK4A%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/6adc2796df3a422b81b312d9d592063e.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d3f5ddea17a4e4a93bfb6a3d699dedc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837751&x-signature=Buszq9%2FAlcubgNOpSbV7NNrHSxw%3D",
-          "file_name": "file_20240318_14_55_51_596348",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d3f5ddea17a4e4a93bfb6a3d699dedc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837751&x-signature=Buszq9%2FAlcubgNOpSbV7NNrHSxw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d3f5ddea17a4e4a93bfb6a3d699dedc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273336&x-signature=e8GHrBhWorKfV8jDqEP0b6y2hCY%3D",
+          "file_name": "file_20240323_15_55_36_472903",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d3f5ddea17a4e4a93bfb6a3d699dedc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273336&x-signature=e8GHrBhWorKfV8jDqEP0b6y2hCY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0d3f5ddea17a4e4a93bfb6a3d699dedc.png",
           "file_type": "jpeg",
           "biz_type": 2

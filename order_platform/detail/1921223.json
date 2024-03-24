@@ -149,7 +149,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p><span style=\"color: #333333;\">●標準イベントの引継ぎ有無について</span></p><p><span style=\"color: #1A74FF;\">管理画面では確認できません。</span></p><p><span style=\"color: #1A74FF;\">Google Chromeエクステンション　TikTok Pixel Helperをインストールしていただくと、イベントビルダーによる発火なのかカスタムコードによる発火なのかが表示されます。</span></p><img alt=\"Screenshot 2024-03-11 at 10.02.27.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ac7737b1c86940d385821a03bb487244.png\" height=\"154.87\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac7737b1c86940d385821a03bb487244.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875799&amp;x-signature=KTKZz0YV25qMzs6xHX110usdLoM%3D\" width=\"375\"><p><br /></p><p><span style=\"color: #333333;\">●手動アドバンスドマッチング実装後の動作確認について</span></p><p><span style=\"color: #1A74FF;\">９０％以上が推奨です。</span></p></img>",
+          "content": "<p><span style=\"color: #333333;\">●標準イベントの引継ぎ有無について</span></p><p><span style=\"color: #1A74FF;\">管理画面では確認できません。</span></p><p><span style=\"color: #1A74FF;\">Google Chromeエクステンション　TikTok Pixel Helperをインストールしていただくと、イベントビルダーによる発火なのかカスタムコードによる発火なのかが表示されます。</span></p><img alt=\"Screenshot 2024-03-11 at 10.02.27.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ac7737b1c86940d385821a03bb487244.png\" height=\"154.87\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac7737b1c86940d385821a03bb487244.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273991&amp;x-signature=nWupl3mfdwGbJQ51McrKxGJ%2FD8w%3D\" width=\"375\"><p><br /></p><p><span style=\"color: #333333;\">●手動アドバンスドマッチング実装後の動作確認について</span></p><p><span style=\"color: #1A74FF;\">９０％以上が推奨です。</span></p></img>",
           "type": 6
         }
       ],
@@ -271,12 +271,254 @@
       ],
       "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710823633,
+      "auto_close_hit": 0,
+      "id": 7347929648757948000,
+      "reply_role": null,
+      "staff_id": 5716298,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "asaho.hirata@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "平田朝穂",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7020916232509916161",
+      "name": "平田朝穂",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>ごめんなさい、お送りする部分を間違えました。。。</p><p>こちらになります！</p><p><br></p><p>本日GTMのプレビュー環境でCVテストを実施したところ、ユーザーデータが取得出来ておらず原因調査のためご相談いただけますでしょうか。調査用の発火証跡を添付するのでご確認いただけますと幸いです。7～10行目が対象のCompletePaymentのイベントです<br>●1回目：<br>パラメータ取得無、TikTok用のユーザーデータ取得形式に沿ったscriptの状態でCVテスト</p><p>&lt;script&gt; ttq.identify( {{TikTokユーザーデータ取得_email}} ) ttq.instance(&#39;CKFU7CBC77UFTHK79BFG&#39;).track(&#39;CompletePayment&#39;,{},{{TikTokイベントID取得}}); &lt;/script&gt;</p><p>CompletePaymentは正しく発火、CompletePaymentに対するパラがついていない警告文が発生、ユーザーデータは取得できていない<br>この状態では、パラがないことに関する警告文が出ていますが、元々パラ付でないため無視で問題ない認識です<br>ユーザーデータの取得形式：{email: &#34;2f941aae64ea120e4be7649283ca4898c1d6d49f735aa06081c0b2ef05c3b84e&#34;}<br>●2回目：<br>パラメータを取得（Currency、Value）、TikTok用のユーザーデータ取得形式に沿ったscriptの状態でCVテスト</p><p>&lt;script&gt; ttq.identify( {{TikTokユーザーデータ取得_email}} ) ttq.instance(&#39;CKFU7CBC77UFTHK79BFG&#39;).track(&#39;CompletePayment&#39;,{value: {{NK_アフィリエイト_金額取得}},currency: &#39;JPY&#39;},{{TikTokイベントID取得}}); &lt;/script&gt;</p><p>CompletePaymentは正しく発火、Cuurency、Valueは正しく取得できており、ユーザーデータは取得できていない　警告文は解消<br>ユーザーデータの取得形式：{email: &#34;2f941aae64ea120e4be7649283ca4898c1d6d49f735aa06081c0b2ef05c3b84e&#34;}<br>●3回目：<br>パラメータを取得（Currency、Value）、TikTok用のユーザーデータ取得形式をべた書きして、ハッシュ化したメールを取得するscriptに改修した状態でCVテスト</p><p>&lt;script&gt; ttq.identify({ email: {{TikTokユーザーデータ取得_email}} }) ttq.instance(&#39;CKFU7CBC77UFTHK79BFG&#39;).track(&#39;CompletePayment&#39;,{value: {{NK_アフィリエイト_金額取得}},currency: &#39;JPY&#39;},{{TikTokイベントID取得}}); &lt;/script&gt;</p><p>2回目と同じ結果となりました<br>ユーザーデータの取得形式：&#39;2f941aae64ea120e4be7649283ca4898c1d6d49f735aa06081c0b2ef05c3b84e&#39;以上3回の結果から下記の要因が考えられないか想定しております。<br>・同じイベントが存在しているため、取得したい情報が落ちてしまっている可能性（イベントビルダー側のイベントが何らか干渉している）<br>　※ただしInstance処理はGTM側のイベントは実施している<br>・ユーザーデータの取得形式が間違っている可能性<br>　媒体参考資料、ヘルプページ上ではemail:の形式、且つ貴社問い合わせ時点でも推奨はemailとなっているが<br>　他代理店、弊社他事例（カスタムテンプレートでの導入）ではsha256_emailの形式だったのでこちらで動くかもしれない以上となります。<br>ご確認よろしくお願いいたします。</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_fb69e32d-fd5a-4f5d-92e5-2d16b3487fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710846348,
+      "auto_close_hit": 0,
+      "id": 7348027997842194000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>お疲れ様です。これ長くなるなら、僕直接話しましょうか？メールとかであれば！</p><p><br></p><p><span style=\"color: #1A74FF;\">まず、お聞きしたいのは「ユーザーデータは取得できていない」はどちらから確認されたのでしょか？</span></p><p><span style=\"color: #1A74FF;\">判断された画面のスクリーンショットなどがあればいただけると幸いです。</span></p><p><span style=\"color: #1A74FF;\">そしてもしこちらでテストできるのであれば、テスト可能なサイトのURLをお送りいただけないでしょうか。</span></p><p><br></p><p><span style=\"color: #333333;\">・同じイベントが存在しているため、取得したい情報が落ちてしまっている可能性（イベントビルダー側のイベントが何らか干渉している）<br>　※ただしInstance処理はGTM側のイベントは実施している</span></p><p><span style=\"color: #1A74FF;\">こちらは考えにくいです。</span></p><p><span style=\"color: #333333;\"><br>・ユーザーデータの取得形式が間違っている可能性<br>　媒体参考資料、ヘルプページ上ではemail:の形式、且つ貴社問い合わせ時点でも推奨はemailとなっているが<br>　他代理店、弊社他事例（カスタムテンプレートでの導入）ではsha256_emailの形式だったのでこちらで動くかもしれない以上となります。</span></p><p><br></p><p><span style=\"color: #1A74FF;\">こちらも考えにくいですが、もし懸念されるのであればsha256_emailでテストするのもありかと思います。</span></p><p><span style=\"color: #1A74FF;\">個人的には、パラメータ名(email: )のところまで、ユーザデータの中に入っているのが少し気になりました。</span></p><p><br></p><p><span style=\"color: #1A74FF;\">原因を切り分けるために、</span></p><p><span style=\"color: #1A74FF;\">変数を使わずに</span></p><p><br></p><p><span style=\"color: #1A74FF;\">以下のスクリプトのままでテスト①<br>ttq.identify({</span></p><p><span style=\"color: #1A74FF;\">email: &#39;email@example.com&#39;,</span></p><p><span style=\"color: #1A74FF;\">})</span></p><p><br></p><p><span style=\"color: #1A74FF;\">テスト②</span></p><p><span style=\"color: #1A74FF;\">ttq.identify({</span></p><p><span style=\"color: #1A74FF;\">email: {{純粋なメールアドレス部分の変数}},</span></p><p><span style=\"color: #1A74FF;\">})</span></p><p><br></p><p><span style=\"color: #1A74FF;\">で少しずつ変数の部分を増やしながらご確認いただければと思います。</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710984215,
+      "auto_close_hit": 0,
+      "id": 7348616333522764000,
+      "reply_role": null,
+      "staff_id": 5716298,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "asaho.hirata@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "平田朝穂",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7020916232509916161",
+      "name": "平田朝穂",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Chanさん</p><p><br></p><p>ありがとうございます！</p><p>今Slackでやりとりしているのですが、メールのやりとりに移行させてお繋ぎさせていただくかもしれないです、、！</p><p>その場合はcc入れてご紹介させていただきます。</p><p><br></p><p>いったん頂いた回答でお戻ししてます。</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_fb69e32d-fd5a-4f5d-92e5-2d16b3487fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710987836,
+      "auto_close_hit": 0,
+      "id": 7348634295667360000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>承知しました、Slackでも大丈夫ですので必要でしたらお知らせください！</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711000823,
+      "auto_close_hit": 0,
+      "id": 7348689383156990000,
+      "reply_role": null,
+      "staff_id": 5716298,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "asaho.hirata@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "平田朝穂",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7020916232509916161",
+      "name": "平田朝穂",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Chanさん</p><p><br></p><p>追加で下記いただいてるのですが、メール立てましたので（件名：「【TikTok】カバーマーク様｜手動アドバンスドマッチング導入フローについて」）<br>メールでChanさんよりお戻しいただけますでしょうか、、？＞＜</p><p>お手数ですがよろしくお願いします！<br><br><br>＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝<br><br>まず、お聞きしたいのは「ユーザーデータは取得できていない」はどちらから確認されましたでしょうか？<br>判断された画面のスクリーンショットなどがあればいただけると幸いです。<br>そしてもしこちらでテストできるのであれば、テスト可能なサイトのURLをお送りいただけないでしょうか。</p><p>→<br>貴社のTikTok pixel helperツールとGTMのプレビューテストでタグアシスタント側で確認しております。<br>前回送付した資料の7～9行目のE列（黄色セル）に証跡、G列にコメントを記載しております。<br>ヘルパーツール上では本来であればparameter detailにCurrency、Valueに加えてcustomer information parameter :Emailがつくと認識しておりますが、<br>今回それを確認できなかったためご質問させていただいている経緯となります。<br>また、プレビューURLの提供が可能か先方に確認が必要となりますのでフロントの担当と連携して確認させていただきます。Instance処理、emailかsha256の違いが原因の可能性として低い旨も承知です。</p><p>個人的には、パラメータ名(email: )のところまで、ユーザデータの中に入っているのが少し気になりました。</p><p>上記にも記載しておりますが、<br>・2回目の検証時は変数で取得形式ごとまとめて取得する形式</p><p>ttq.identify( {{純粋なメールアドレス部分の変数}} )</p><p>変数で取得する中身：<strong>{email: &#34;2f941aae64ea120e4be7649283ca4898c1d6d49f735aa06081c0b2ef05c3b84e&#34;}</strong><br>・3回目の検証時はemailの取得形式は対象から外して、純粋にハッシュ化メールのみ取得する形式</p><p>ttq.identify({ email: {{純粋なメールアドレス部分の変数}}, })</p><p>変数で取得する中身：<strong>2f941aae64ea120e4be7649283ca4898c1d6d49f735aa06081c0b2ef05c3b84e</strong><br>としているためご指摘の違和感の通りであれば3回目の状態で上手くいくはずなので、取得できなかった理由について心当たりはございますでしょうか。原因調査のためテスト①、テスト②の順で進めていくフローで私も問題ないかと思いますので検証を進めてみます。</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_fb69e32d-fd5a-4f5d-92e5-2d16b3487fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711003107,
+      "auto_close_hit": 0,
+      "id": 7348700675808707000,
+      "reply_role": "admin",
+      "staff_id": 3050890,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "chan.lim@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Chan Lim",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119495696798254081",
+      "name": "Chan Lim",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>お疲れ様です！</p><p>前回先方から何かエクセルファイル渡されてますか？？</p><p>今回の質問の中に、以下の内容がありましたので、もしファイル等ありましたらファイルごとで添付いただけると助かります！</p><p><br></p><p><span style=\"color: #333333;\"><em>前回送付した資料の7～9行目のE列（黄色セル）</em></span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_d6b98c4a-7ef2-4747-9f41-04df2a84d05g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711003206,
+      "auto_close_hit": 0,
+      "id": 7348700893631578000,
+      "reply_role": null,
+      "staff_id": 5716298,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "asaho.hirata@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "平田朝穂",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7020916232509916161",
+      "name": "平田朝穂",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>すみませんーー！！こちらです；；</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_fb69e32d-fd5a-4f5d-92e5-2d16b3487fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711003192,
+      "auto_close_hit": 0,
+      "id": 7348701639928201000,
+      "reply_role": null,
+      "staff_id": 5716298,
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "asaho.hirata@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "平田朝穂",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7020916232509916161",
+      "name": "平田朝穂",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": [
+            {
+              "file_type": "xlsx",
+              "file_name": "bytedance________________________________tiktok______________________.xlsx",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAE7Y6AefIEGbsDdABrLHjEv1iDgipA1beAAKy.xlsx?lk3s=cbe26b3a&x-expires=4833273991&x-signature=b0vjia5L7y8amvcS3q3aumFdHy8%3D",
+              "file_key": "tos-alisg-v-90231e-sg/oAE7Y6AefIEGbsDdABrLHjEv1iDgipA1beAAKy.xlsx",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAE7Y6AefIEGbsDdABrLHjEv1iDgipA1beAAKy.xlsx?lk3s=cbe26b3a&x-expires=4833273991&x-signature=b0vjia5L7y8amvcS3q3aumFdHy8%3D",
+              "biz_type": 2,
+              "size": 3812048
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_fb69e32d-fd5a-4f5d-92e5-2d16b3487fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
-  "pending_from_follower": false,
+  "pending_from_follower": true,
   "id": 1921223,
   "workflow_nodes": [],
   "board_id": 1705151646989662,
@@ -296,13 +538,13 @@
   "type": 0,
   "current_role": null,
   "fd_permission": 1,
-  "status": 1,
+  "status": 2,
   "business_data": [],
-  "update_time": 1710810336,
+  "update_time": 1711003205,
   "owner_name": "平田朝穂",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
-  "swim_lane_status": 3,
+  "swim_lane_status": 2,
   "enable_forced_order_tag": 1,
   "satisfied": 0,
   "category_2_name": "",
@@ -473,7 +715,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1462,
+  "pending_time": 206884,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -647,12 +889,21 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac7737b1c86940d385821a03bb487244.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875799&x-signature=KTKZz0YV25qMzs6xHX110usdLoM%3D",
-          "file_name": "file_20240319_01_29_59_037767",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac7737b1c86940d385821a03bb487244.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875799&x-signature=KTKZz0YV25qMzs6xHX110usdLoM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac7737b1c86940d385821a03bb487244.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273991&x-signature=nWupl3mfdwGbJQ51McrKxGJ%2FD8w%3D",
+          "file_name": "file_20240323_16_06_31_175729",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac7737b1c86940d385821a03bb487244.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273991&x-signature=nWupl3mfdwGbJQ51McrKxGJ%2FD8w%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ac7737b1c86940d385821a03bb487244.png",
           "file_type": "jpeg",
           "biz_type": 2
+        },
+        {
+          "file_type": "xlsx",
+          "file_name": "bytedance________________________________tiktok______________________.xlsx",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAE7Y6AefIEGbsDdABrLHjEv1iDgipA1beAAKy.xlsx?lk3s=cbe26b3a&x-expires=4833273991&x-signature=b0vjia5L7y8amvcS3q3aumFdHy8%3D",
+          "file_key": "tos-alisg-v-90231e-sg/oAE7Y6AefIEGbsDdABrLHjEv1iDgipA1beAAKy.xlsx",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAE7Y6AefIEGbsDdABrLHjEv1iDgipA1beAAKy.xlsx?lk3s=cbe26b3a&x-expires=4833273991&x-signature=b0vjia5L7y8amvcS3q3aumFdHy8%3D",
+          "biz_type": 2,
+          "size": 3812048
         }
       ],
       "valid": true,

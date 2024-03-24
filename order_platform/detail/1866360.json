@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354674",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Ganesh Radhakrishnan",
   "create_time": 1707444656,
   "deadline": 0,
@@ -39,6 +39,35 @@
       ],
       "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710905881,
+      "auto_close_hit": 0,
+      "id": 7348283534290764000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ganesh Radhakrishnan",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7122646193918428161",
+      "name": "Ganesh Radhakrishnan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>[Status Update] MPO &amp; CSM tried our best to onboard this client to the App SDK closed beta program but due to the commitment on the spend involved, client pulled out. MPO has proposed them to consider implementing a pixel with a decent events funnel for their website.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -66,7 +95,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1707791700,
+  "update_time": 1710905880,
   "owner_name": "Ravneel Chandra",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -241,7 +270,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2982153,
+  "pending_time": 303546,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [

@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Val,</p><p><br /></p><p>From checking our data tables for Complete Payment events, it seems that there are some purchases from US users that are being recorded by their CA Pixel. E.g. on Feb 27th there were 19 Complete Payment events and 6 of them were missing hashed email. 5 of those events came from US users. </p><p><br /></p><p>This is the CA Pixel: https://ads.tiktok.com/i18n/events_manager/pixel/detail/C5FN5146J7TSRVQCR4UG?start_time=2024-02-22&amp;end_time=2024-02-28&amp;from=ALL&amp;aadvid=7015991584978157570</p><p><br /></p><p>These Complete Payment events from US users are firing through the Events API and all seem to be missing user data (email/phone). </p><p><br /></p><p>They can do a few things here to potentially resolve this issue:</p><ul><li>Ensure that only CA buyers trigger a Pixel event for their CA Pixel</li><li>Look into why the Complete Payment events for US users do not include user data and resolve that </li></ul><p><br /></p><p>It seems to me that these Complete Payment events for US customers may be unintentional/not part of their setup. I say that because they fire through the Events API only while the other purchases made by CA users fire through both channels: </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9c621e4927524e99aca4d651f9c5de5e.png\" height=\"282.622\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c621e4927524e99aca4d651f9c5de5e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838341&amp;x-signature=9%2BeBhSyBivOl6LlgSMapFusIFwo%3D\" width=\"375\"><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
+          "content": "<p>Hi Val,</p><p><br /></p><p>From checking our data tables for Complete Payment events, it seems that there are some purchases from US users that are being recorded by their CA Pixel. E.g. on Feb 27th there were 19 Complete Payment events and 6 of them were missing hashed email. 5 of those events came from US users. </p><p><br /></p><p>This is the CA Pixel: https://ads.tiktok.com/i18n/events_manager/pixel/detail/C5FN5146J7TSRVQCR4UG?start_time=2024-02-22&amp;end_time=2024-02-28&amp;from=ALL&amp;aadvid=7015991584978157570</p><p><br /></p><p>These Complete Payment events from US users are firing through the Events API and all seem to be missing user data (email/phone). </p><p><br /></p><p>They can do a few things here to potentially resolve this issue:</p><ul><li>Ensure that only CA buyers trigger a Pixel event for their CA Pixel</li><li>Look into why the Complete Payment events for US users do not include user data and resolve that </li></ul><p><br /></p><p>It seems to me that these Complete Payment events for US customers may be unintentional/not part of their setup. I say that because they fire through the Events API only while the other purchases made by CA users fire through both channels: </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9c621e4927524e99aca4d651f9c5de5e.png\" height=\"282.622\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c621e4927524e99aca4d651f9c5de5e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273859&amp;x-signature=NO0oe9YiYviXLOrB2M3MEe6v1AE%3D\" width=\"375\"><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -197,7 +197,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1614255,
+  "pending_time": 2049773,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -371,9 +371,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c621e4927524e99aca4d651f9c5de5e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838341&x-signature=9%2BeBhSyBivOl6LlgSMapFusIFwo%3D",
-          "file_name": "file_20240318_15_05_41_986523",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c621e4927524e99aca4d651f9c5de5e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838341&x-signature=9%2BeBhSyBivOl6LlgSMapFusIFwo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c621e4927524e99aca4d651f9c5de5e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273859&x-signature=NO0oe9YiYviXLOrB2M3MEe6v1AE%3D",
+          "file_name": "file_20240323_16_04_19_803516",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c621e4927524e99aca4d651f9c5de5e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273859&x-signature=NO0oe9YiYviXLOrB2M3MEe6v1AE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/9c621e4927524e99aca4d651f9c5de5e.png",
           "file_type": "jpeg",
           "biz_type": 2

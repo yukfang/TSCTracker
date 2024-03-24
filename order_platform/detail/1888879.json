@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1708457052,
   "deadline": 0,
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zahra,</p><p><br /></p><p>First, I am not seeing any PII being collected for lower-funnel events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a4395a2adef54c5ba381fae38a3b7d95.png\" height=\"77.878\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4395a2adef54c5ba381fae38a3b7d95.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838150&amp;x-signature=mwCBZhNal%2FiKHdwALrZch9ydXGA%3D\" width=\"375\"><p>They will want to put <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\" target=\"_blank\">Advanced Matching</a> in place as their first task.</p><p><br /></p><p>ViewContent - fires as expected and looks good:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8e0d36ed501b4c148129d74e6181ed53.png\" height=\"198.795\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e0d36ed501b4c148129d74e6181ed53.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838150&amp;x-signature=jV5Xe363Y8wO08ai5ENHOPeWjbM%3D\" width=\"375\"><p><br /></p><p>AddToCart - Fires twice:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/41b5d73271654cdbafa9a54342fe08c7.png\" height=\"177.172\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/41b5d73271654cdbafa9a54342fe08c7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838150&amp;x-signature=3oVuQTn8SskJNMPc%2BYQn%2BwLL4lY%3D\" width=\"375\"><p>The client should double-check their setup, as it looks like the trigger for this event is firing twice when you only click the button once.</p><p><br /></p><p>If the client has a coupon code or test login I can use, I can test the CompletePayment event from the site. As it stands, the issue I see with that event is that they should add Advanced Matching as soon as they can.</p><p><br /></p><p>After these fixes are made, I can either create an implementation guide for them, or I'm happy to get on call (or both) to discuss <a href=\"https://ads.tiktok.com/help/article/events-api?redirected=1\" target=\"_blank\">Event API</a>.</p><p><br /></p><p>Please let me know if there are further questions!</p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
+          "content": "<p>Hi Zahra,</p><p><br /></p><p>First, I am not seeing any PII being collected for lower-funnel events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a4395a2adef54c5ba381fae38a3b7d95.png\" height=\"77.878\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4395a2adef54c5ba381fae38a3b7d95.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273660&amp;x-signature=jI1nXaFSUy3QrOlfiIMH%2B%2FGXLuk%3D\" width=\"375\"><p>They will want to put <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\" target=\"_blank\">Advanced Matching</a> in place as their first task.</p><p><br /></p><p>ViewContent - fires as expected and looks good:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8e0d36ed501b4c148129d74e6181ed53.png\" height=\"198.795\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e0d36ed501b4c148129d74e6181ed53.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273660&amp;x-signature=U1b0unQ0u1No9zEkiRV9fYMJjMA%3D\" width=\"375\"><p><br /></p><p>AddToCart - Fires twice:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/41b5d73271654cdbafa9a54342fe08c7.png\" height=\"177.172\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/41b5d73271654cdbafa9a54342fe08c7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273660&amp;x-signature=R1mWMwPB52rvRoDF1m3iCtjg81o%3D\" width=\"375\"><p>The client should double-check their setup, as it looks like the trigger for this event is firing twice when you only click the button once.</p><p><br /></p><p>If the client has a coupon code or test login I can use, I can test the CompletePayment event from the site. As it stands, the issue I see with that event is that they should add Advanced Matching as soon as they can.</p><p><br /></p><p>After these fixes are made, I can either create an implementation guide for them, or I'm happy to get on call (or both) to discuss <a href=\"https://ads.tiktok.com/help/article/events-api?redirected=1\" target=\"_blank\">Event API</a>.</p><p><br /></p><p>Please let me know if there are further questions!</p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
           "type": 6
         }
       ],
@@ -146,7 +146,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 6,
   "current_role": null,
@@ -328,7 +328,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2157691,
+  "pending_time": 2593200,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -502,26 +502,26 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4395a2adef54c5ba381fae38a3b7d95.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838150&x-signature=mwCBZhNal%2FiKHdwALrZch9ydXGA%3D",
-          "file_name": "file_20240318_15_02_30_826747",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4395a2adef54c5ba381fae38a3b7d95.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838150&x-signature=mwCBZhNal%2FiKHdwALrZch9ydXGA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e0d36ed501b4c148129d74e6181ed53.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273660&x-signature=U1b0unQ0u1No9zEkiRV9fYMJjMA%3D",
+          "file_name": "file_20240323_16_01_00_296635",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e0d36ed501b4c148129d74e6181ed53.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273660&x-signature=U1b0unQ0u1No9zEkiRV9fYMJjMA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8e0d36ed501b4c148129d74e6181ed53.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4395a2adef54c5ba381fae38a3b7d95.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273660&x-signature=jI1nXaFSUy3QrOlfiIMH%2B%2FGXLuk%3D",
+          "file_name": "file_20240323_16_01_00_296698",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a4395a2adef54c5ba381fae38a3b7d95.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273660&x-signature=jI1nXaFSUy3QrOlfiIMH%2B%2FGXLuk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/a4395a2adef54c5ba381fae38a3b7d95.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/41b5d73271654cdbafa9a54342fe08c7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838150&x-signature=3oVuQTn8SskJNMPc%2BYQn%2BwLL4lY%3D",
-          "file_name": "file_20240318_15_02_30_826821",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/41b5d73271654cdbafa9a54342fe08c7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838150&x-signature=3oVuQTn8SskJNMPc%2BYQn%2BwLL4lY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/41b5d73271654cdbafa9a54342fe08c7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273660&x-signature=R1mWMwPB52rvRoDF1m3iCtjg81o%3D",
+          "file_name": "file_20240323_16_01_00_296719",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/41b5d73271654cdbafa9a54342fe08c7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273660&x-signature=R1mWMwPB52rvRoDF1m3iCtjg81o%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/41b5d73271654cdbafa9a54342fe08c7.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e0d36ed501b4c148129d74e6181ed53.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838150&x-signature=jV5Xe363Y8wO08ai5ENHOPeWjbM%3D",
-          "file_name": "file_20240318_15_02_30_826844",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e0d36ed501b4c148129d74e6181ed53.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838150&x-signature=jV5Xe363Y8wO08ai5ENHOPeWjbM%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/8e0d36ed501b4c148129d74e6181ed53.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

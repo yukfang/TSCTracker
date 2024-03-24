@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1754600307444754",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1710344469,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zahra,</p><p><br /></p><p>Checking their catalog I am seeing that:</p><p>1) There is an error message displaying that the images are too small and need to be 500x500 minimum size. This would explain why almost none of the products are available:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f4295f74da514f9b8b295fc3889393f1.png\" height=\"196.771\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4295f74da514f9b8b295fc3889393f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875807&amp;x-signature=vI4%2B3it7ia%2FSbJ9MR2x8n5tR7oE%3D\" width=\"375\"><p>1) Some items on the web site are not available in the catalog. Example here:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/42167b0659ad46c1a2984bcea4aa370b.png\" height=\"212.712\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/42167b0659ad46c1a2984bcea4aa370b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875807&amp;x-signature=wfO8agPbqF3Tn738wKus4EuJmt4%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8bed8d767f36411488a55c1350bb765f.png\" height=\"175.189\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8bed8d767f36411488a55c1350bb765f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875807&amp;x-signature=OX%2FBxfawIJXmR4YdHLJCuz0lrzw%3D\" width=\"375\"><p>this may clear up when the images are fixed and the urls can be updated. Please ask the client to update the image sizes, and refresh the feed.</p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
+          "content": "<p>Hi Zahra,</p><p><br /></p><p>Checking their catalog I am seeing that:</p><p>1) There is an error message displaying that the images are too small and need to be 500x500 minimum size. This would explain why almost none of the products are available:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f4295f74da514f9b8b295fc3889393f1.png\" height=\"196.771\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4295f74da514f9b8b295fc3889393f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274148&amp;x-signature=ONWLLP%2FOcEC%2FVMK%2FxjIxBGn7N5o%3D\" width=\"375\"><p>1) Some items on the web site are not available in the catalog. Example here:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/42167b0659ad46c1a2984bcea4aa370b.png\" height=\"212.712\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/42167b0659ad46c1a2984bcea4aa370b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274148&amp;x-signature=9Bni2hvSa%2FeHLSkBbB4Itmm7KjA%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8bed8d767f36411488a55c1350bb765f.png\" height=\"175.189\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8bed8d767f36411488a55c1350bb765f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274148&amp;x-signature=t790135SXIZ%2BNbWLcopSWuSPnJA%3D\" width=\"375\"><p>this may clear up when the images are fixed and the urls can be updated. Please ask the client to update the image sizes, and refresh the feed.</p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
           "type": 6
         }
       ],
@@ -155,12 +155,317 @@
       ],
       "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710876999,
+      "auto_close_hit": 0,
+      "id": 7348158360627233000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra,</p><p><br /></p><p>I see two issues that should be immediately addressed to get the catalog match rates where they should be:</p><p><br /></p><p>First, I see a number of items on the web site, are not in the catalog. For example:</p><p><a href=\"https://www.nuuly.com/thrift/products/abercrombie-and-fitch-shacket-ufsojq67r?tileId=ff65b37d-40b5-3b9d-8d81-d795e9c0c0ac\" target=\"_blank\">Abercrombie and fitch shacket</a> from the site</p><p>cannot be found in the catalog:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ea70a2055e6e46b28278cdc147eb5c60.png\" height=\"211.83\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea70a2055e6e46b28278cdc147eb5c60.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274148&amp;x-signature=i2wZNz%2Fo0MeI5a6iakkms4QJt1Q%3D\" width=\"375\"><p>Same for these:</p><p><a href=\"https://www.nuuly.com/thrift/products/rafaella-leopard-print-coat-ouximpf0e?tileId=fc3f4c1e-da9b-3ee7-9f8b-8bebfaa40768\" target=\"_blank\">Rafaella leopard print coat</a></p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4ba98370e68d43e59ad92e330da56b03.png\" height=\"190.943\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4ba98370e68d43e59ad92e330da56b03.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274148&amp;x-signature=NhhoQ6FRJhiyA0S7kdlKjFWc7o8%3D\" width=\"375\"><p><a href=\"https://www.nuuly.com/thrift/products/pilcro-crossback-apron-dress-44fywo3om?tileId=fff8f26c-6c1f-3546-8175-3e40afe914fe\" target=\"_blank\">Pilcro Crossback Apron Dress</a></p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a47c8f38a8564f37a986a3d10fa0135f.png\" height=\"194.553\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a47c8f38a8564f37a986a3d10fa0135f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274148&amp;x-signature=VZyrf2cpURvHc9jsCqfiwh7ICIY%3D\" width=\"375\"><p><br /></p><p>If a customer of Nuuly purchases a product and it is not present in our catalog, you will see the match rate drop. So it is important the client keep their web site and TikTok catalog synced. They should refresh their feed to fix the issue.</p><p><br /></p><p>The other issue I see is <a href=\"https://ads.tiktok.com/catalogs/diagnostics?id=7342980733515974401&amp;bc_id=6992931887270395906&amp;app_id=7088305431164010497\" target=\"_blank\">'GTIN' missing for most products</a> (over 7k products). This won't impact their events but it may be something needed on their side, and will continue to show an error in the catalog until it is fixed (data attached):</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a85f74808f484d558ff31af5f6398cfb.png\" height=\"194.648\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a85f74808f484d558ff31af5f6398cfb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274148&amp;x-signature=i6Aih26H0%2FtecU80yWFG0cG7toA%3D\" width=\"375\"><p><br /></p><p>The image issue looks to have cleared up, which is great:</p><p><a href=\"https://ads.tiktok.com/catalogs/product?id=7342980733515974401&amp;bc_id=6992931887270395906&amp;app_id=7088305431164010497\" target=\"_blank\">https://ads.tiktok.com/catalogs/product?id=7342980733515974401&amp;bc_id=6992931887270395906&amp;app_id=7088305431164010497</a></p><p><br /></p><p>Please let me know if there are further questions!</p><p><br /></p><p>Heidi</p></img></img></img></img>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "csv",
+              "file_name": "diagnosis_export_7342980733515974401_1710874673_en.csv",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAcIJvBcEiCpAnBfxAiIA6KAA9nCvai5ysXDwZ.csv?lk3s=cbe26b3a&x-expires=4833274148&x-signature=QH25Z5aE6R0JGc5aqu1Q%2Bru5%2ByY%3D",
+              "file_key": "tos-alisg-v-90231e-sg/oAcIJvBcEiCpAnBfxAiIA6KAA9nCvai5ysXDwZ.csv",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAcIJvBcEiCpAnBfxAiIA6KAA9nCvai5ysXDwZ.csv?lk3s=cbe26b3a&x-expires=4833274148&x-signature=QH25Z5aE6R0JGc5aqu1Q%2Bru5%2ByY%3D",
+              "biz_type": 2,
+              "file_size": 699041,
+              "size": 699041
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710877805,
+      "auto_close_hit": 0,
+      "id": 7348162533578129000,
+      "reply_role": null,
+      "staff_id": 8837927,
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "zahra.hemani@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user9525553713275",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026442112669434882",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi, the client just let me know that they&#39;re deprecating Nuuly Thrift -- are you able to check what match rates look like for Nuuly Rent / if there are missing products there?&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710878103,
+      "auto_close_hit": 0,
+      "id": 7348162960004612000,
+      "reply_role": null,
+      "staff_id": 8837927,
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "zahra.hemani@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user9525553713275",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026442112669434882",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Is there a way for the client to pull a report of what&#39;s missing content_ids?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710878502,
+      "auto_close_hit": 0,
+      "id": 7348165173724594000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra, Do you know how I could tell the rental from the thrift items apart?</p><p><br /></p><p>Regardless of the reason, the match rates will be low while the web site and catalog are out of sync. So if they choose to leave those items in there (i.e. not refresh because they are winding down that business), we will have to wait until they remove them to see match rates go up.</p><p><br /></p><p>I see sever-to-server events with no pixel page url attached to them:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/47d26750e6bd48ccb421b5a33873281e.png\" height=\"115.233\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/47d26750e6bd48ccb421b5a33873281e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274148&amp;x-signature=McJv8%2FIcvcUFq1kSFV%2FYyFc%2BRSE%3D\" width=\"375\"><p>could these events be from the rental part of the site?</p><p><br /></p><p>They may also want to consider creating a new pixel and catalog for just the rental business.</p><p><br /></p><p>Heidi</p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710878844,
+      "auto_close_hit": 0,
+      "id": 7348167674696139000,
+      "reply_role": null,
+      "staff_id": 8837927,
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "zahra.hemani@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user9525553713275",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026442112669434882",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Just relayed this to the client! Thank you!!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710946588,
+      "auto_close_hit": 0,
+      "id": 7348458789688902000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Heidi, here&#39;s what the client responded with:</p><p><br></p><p><span style=\"color: #222222;\">The Thrift site will become completely inaccessible on&nbsp;4/10. No new listings or orders are allowed as of noon today.&nbsp;In the meantime, we&#39;re only looking at products with a URL that starts with </span><span style=\"color: #1155CC;\"><a href=\"http://nuuly.com/rent\" target=\"_blank noopener noreferrer\">nuuly.com/rent</a></span><span style=\"color: #222222;\">. The examples you sent are </span><span style=\"color: #1155CC;\"><a href=\"http://nuuly.com/thrift\" target=\"_blank noopener noreferrer\">nuuly.com/thrift</a></span><span style=\"color: #222222;\">.&nbsp;</span></p><p><span style=\"color: #222222;\">I&#39;m not sure how to check the screenshot you&nbsp;sent. Do you have any more context or are you able to send the actual sheet so we can look into it?</span></p><p><br></p><p><span style=\"color: #222222;\"><u>Are you allowed to share that doc? Also should match rates improve after 4/10? I&#39;m not sure that it makes sense for them to create a new catalog. Thanks!!</u></span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711046109,
+      "auto_close_hit": 0,
+      "id": 7348885082729529000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra,&nbsp;</p><p><br></p><p>Yes I can send the data. There is no un-hashed PII there or anything else you could not see publicly in web traffic (if you knew where to look, keep this note internal just to not alarm anyone).&nbsp;</p><p><br></p><p>Let me run a new query and will attach here in a few.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711047726,
+      "auto_close_hit": 0,
+      "id": 7348893430304555000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zahra Hemani",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7026323662681506818",
+      "name": "Zahra Hemani",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711047772,
+      "auto_close_hit": 0,
+      "id": 7348893710664483000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Aeolus being very slow today! Thanks for your patience.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711128981,
+      "auto_close_hit": 0,
+      "id": 7349240643056648000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Zahra, attaching the data requested yesterday. Aeolus was not working for me for most of the day, so apologies for the delay.</p><p><br></p><p>I would like to go over the data with them on a call! Please reach out to them about this, and let me know what they say.</p><p><br></p><p>For some reason attachment button isn&#39;t working, will send to you in Lark.</p><p><br></p><p>Thanks, Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
-  "pending_from_follower": true,
+  "pending_from_follower": false,
   "id": 1939766,
   "workflow_nodes": [],
   "board_id": 1705151646989733,
@@ -177,14 +482,14 @@
     0
   ],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 5,
   "current_role": null,
   "fd_permission": 1,
-  "status": 2,
+  "status": 1,
   "business_data": [],
-  "update_time": 1710784748,
+  "update_time": 1711128980,
   "owner_name": "Zahra Hemani",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -220,7 +525,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 455978,
+  "pending_time": 81168,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -359,32 +664,82 @@
         {
           "file_type": "png",
           "file_name": "Screen Shot 2024-03-13 at 10.40.29 AM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/10940d26c88a4af89617d14ff8d7aac9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875807&x-signature=zArlL8GNLEl5%2F3HVvlHZ62Hz5r4%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/10940d26c88a4af89617d14ff8d7aac9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=cR161AUxLzkztYQKgGbogJd5m%2FY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/10940d26c88a4af89617d14ff8d7aac9.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/10940d26c88a4af89617d14ff8d7aac9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875807&x-signature=zArlL8GNLEl5%2F3HVvlHZ62Hz5r4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/10940d26c88a4af89617d14ff8d7aac9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=cR161AUxLzkztYQKgGbogJd5m%2FY%3D",
           "size": 131816
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4295f74da514f9b8b295fc3889393f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875807&x-signature=vI4%2B3it7ia%2FSbJ9MR2x8n5tR7oE%3D",
-          "file_name": "file_20240319_01_30_07_838432",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4295f74da514f9b8b295fc3889393f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875807&x-signature=vI4%2B3it7ia%2FSbJ9MR2x8n5tR7oE%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/f4295f74da514f9b8b295fc3889393f1.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8bed8d767f36411488a55c1350bb765f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=t790135SXIZ%2BNbWLcopSWuSPnJA%3D",
+          "file_name": "file_20240323_16_09_08_352640",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8bed8d767f36411488a55c1350bb765f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=t790135SXIZ%2BNbWLcopSWuSPnJA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8bed8d767f36411488a55c1350bb765f.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/42167b0659ad46c1a2984bcea4aa370b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875807&x-signature=wfO8agPbqF3Tn738wKus4EuJmt4%3D",
-          "file_name": "file_20240319_01_30_07_838521",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/42167b0659ad46c1a2984bcea4aa370b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875807&x-signature=wfO8agPbqF3Tn738wKus4EuJmt4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/42167b0659ad46c1a2984bcea4aa370b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=9Bni2hvSa%2FeHLSkBbB4Itmm7KjA%3D",
+          "file_name": "file_20240323_16_09_08_352713",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/42167b0659ad46c1a2984bcea4aa370b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=9Bni2hvSa%2FeHLSkBbB4Itmm7KjA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/42167b0659ad46c1a2984bcea4aa370b.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8bed8d767f36411488a55c1350bb765f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875807&x-signature=OX%2FBxfawIJXmR4YdHLJCuz0lrzw%3D",
-          "file_name": "file_20240319_01_30_07_838542",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8bed8d767f36411488a55c1350bb765f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875807&x-signature=OX%2FBxfawIJXmR4YdHLJCuz0lrzw%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/8bed8d767f36411488a55c1350bb765f.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4295f74da514f9b8b295fc3889393f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=ONWLLP%2FOcEC%2FVMK%2FxjIxBGn7N5o%3D",
+          "file_name": "file_20240323_16_09_08_352731",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4295f74da514f9b8b295fc3889393f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=ONWLLP%2FOcEC%2FVMK%2FxjIxBGn7N5o%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f4295f74da514f9b8b295fc3889393f1.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea70a2055e6e46b28278cdc147eb5c60.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=i2wZNz%2Fo0MeI5a6iakkms4QJt1Q%3D",
+          "file_name": "file_20240323_16_09_08_557441",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea70a2055e6e46b28278cdc147eb5c60.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=i2wZNz%2Fo0MeI5a6iakkms4QJt1Q%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ea70a2055e6e46b28278cdc147eb5c60.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a47c8f38a8564f37a986a3d10fa0135f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=VZyrf2cpURvHc9jsCqfiwh7ICIY%3D",
+          "file_name": "file_20240323_16_09_08_557514",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a47c8f38a8564f37a986a3d10fa0135f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=VZyrf2cpURvHc9jsCqfiwh7ICIY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a47c8f38a8564f37a986a3d10fa0135f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a85f74808f484d558ff31af5f6398cfb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=i6Aih26H0%2FtecU80yWFG0cG7toA%3D",
+          "file_name": "file_20240323_16_09_08_557532",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a85f74808f484d558ff31af5f6398cfb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=i6Aih26H0%2FtecU80yWFG0cG7toA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a85f74808f484d558ff31af5f6398cfb.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4ba98370e68d43e59ad92e330da56b03.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=NhhoQ6FRJhiyA0S7kdlKjFWc7o8%3D",
+          "file_name": "file_20240323_16_09_08_557547",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4ba98370e68d43e59ad92e330da56b03.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=NhhoQ6FRJhiyA0S7kdlKjFWc7o8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4ba98370e68d43e59ad92e330da56b03.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "file_type": "csv",
+          "file_name": "diagnosis_export_7342980733515974401_1710874673_en.csv",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAcIJvBcEiCpAnBfxAiIA6KAA9nCvai5ysXDwZ.csv?lk3s=cbe26b3a&x-expires=4833274148&x-signature=QH25Z5aE6R0JGc5aqu1Q%2Bru5%2ByY%3D",
+          "file_key": "tos-alisg-v-90231e-sg/oAcIJvBcEiCpAnBfxAiIA6KAA9nCvai5ysXDwZ.csv",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAcIJvBcEiCpAnBfxAiIA6KAA9nCvai5ysXDwZ.csv?lk3s=cbe26b3a&x-expires=4833274148&x-signature=QH25Z5aE6R0JGc5aqu1Q%2Bru5%2ByY%3D",
+          "biz_type": 2,
+          "file_size": 699041,
+          "size": 699041
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/47d26750e6bd48ccb421b5a33873281e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=McJv8%2FIcvcUFq1kSFV%2FYyFc%2BRSE%3D",
+          "file_name": "file_20240323_16_09_08_647406",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/47d26750e6bd48ccb421b5a33873281e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274148&x-signature=McJv8%2FIcvcUFq1kSFV%2FYyFc%2BRSE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/47d26750e6bd48ccb421b5a33873281e.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

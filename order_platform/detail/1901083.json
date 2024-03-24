@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497211543601",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1708965188,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e0100274689141249bf01b93ad826473.png\" height=\"75.393\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0100274689141249bf01b93ad826473.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838262&amp;x-signature=0aGdKoKbBVemOZ1Ou0hr1fl568Q%3D\" width=\"375\"><p>The android app is not migrated because one or more key event is missing.</p><p>This means, one or more in-app events currently used for campaign optimization in existing campaigns are not properly set up in MMP SAN module yet.</p><p><br /></p><p>On further investigation:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/80f026dd0f2c49c2a746b7d6967d3683.png\" height=\"87.513\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80f026dd0f2c49c2a746b7d6967d3683.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838262&amp;x-signature=K7UFAIkRHNTGfon3SN41k6X%2ByFs%3D\" width=\"375\"><p>As you can see <strong>in_app_cart (add to cart) </strong>event is not correctly set up in their MMP.<br>Please ask user to recheck that</br></p></img></img>",
+          "content": "<img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e0100274689141249bf01b93ad826473.png\" height=\"75.393\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0100274689141249bf01b93ad826473.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273778&amp;x-signature=3sq6EAJJ8Rwl9Z6%2B%2BlnOVVGMW2k%3D\" width=\"375\"><p>The android app is not migrated because one or more key event is missing.</p><p>This means, one or more in-app events currently used for campaign optimization in existing campaigns are not properly set up in MMP SAN module yet.</p><p><br /></p><p>On further investigation:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/80f026dd0f2c49c2a746b7d6967d3683.png\" height=\"87.513\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80f026dd0f2c49c2a746b7d6967d3683.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273778&amp;x-signature=qaiXVuwPlomo%2FoOuGmBSL34bRV0%3D\" width=\"375\"><p>As you can see <strong>in_app_cart (add to cart) </strong>event is not correctly set up in their MMP.<br>Please ask user to recheck that</br></p></img></img>",
           "type": 6
         }
       ],
@@ -102,7 +102,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1706131,
+  "pending_time": 2141647,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -278,32 +278,32 @@
         {
           "file_type": "png",
           "file_name": "image (40).png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a1dae9482e454772bcf1887ab9655f57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=ZRS4sG8yYNwleabk8HeyVvNcWI0%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a1dae9482e454772bcf1887ab9655f57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273777&x-signature=0Fm%2BtKTe7wFy%2Bjte95NvUDYwEPM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/a1dae9482e454772bcf1887ab9655f57.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a1dae9482e454772bcf1887ab9655f57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=ZRS4sG8yYNwleabk8HeyVvNcWI0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a1dae9482e454772bcf1887ab9655f57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273777&x-signature=0Fm%2BtKTe7wFy%2Bjte95NvUDYwEPM%3D",
           "size": 107279
         },
         {
           "file_type": "png",
           "file_name": "image (41).png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9ea715cc0aa644c7bf36deb1d8a04a79.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=8taa6qzs%2F8eoQKKO8YVnf%2FSbdis%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9ea715cc0aa644c7bf36deb1d8a04a79.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273777&x-signature=fNWYV09mvCXTvLO7EnO2Ue5FnWk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/9ea715cc0aa644c7bf36deb1d8a04a79.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9ea715cc0aa644c7bf36deb1d8a04a79.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838261&x-signature=8taa6qzs%2F8eoQKKO8YVnf%2FSbdis%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9ea715cc0aa644c7bf36deb1d8a04a79.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273777&x-signature=fNWYV09mvCXTvLO7EnO2Ue5FnWk%3D",
           "size": 326806
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80f026dd0f2c49c2a746b7d6967d3683.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838262&x-signature=K7UFAIkRHNTGfon3SN41k6X%2ByFs%3D",
-          "file_name": "file_20240318_15_04_22_210292",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80f026dd0f2c49c2a746b7d6967d3683.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838262&x-signature=K7UFAIkRHNTGfon3SN41k6X%2ByFs%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/80f026dd0f2c49c2a746b7d6967d3683.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0100274689141249bf01b93ad826473.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273778&x-signature=3sq6EAJJ8Rwl9Z6%2B%2BlnOVVGMW2k%3D",
+          "file_name": "file_20240323_16_02_58_019685",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0100274689141249bf01b93ad826473.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273778&x-signature=3sq6EAJJ8Rwl9Z6%2B%2BlnOVVGMW2k%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e0100274689141249bf01b93ad826473.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0100274689141249bf01b93ad826473.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838262&x-signature=0aGdKoKbBVemOZ1Ou0hr1fl568Q%3D",
-          "file_name": "file_20240318_15_04_22_210361",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e0100274689141249bf01b93ad826473.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838262&x-signature=0aGdKoKbBVemOZ1Ou0hr1fl568Q%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/e0100274689141249bf01b93ad826473.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80f026dd0f2c49c2a746b7d6967d3683.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273778&x-signature=qaiXVuwPlomo%2FoOuGmBSL34bRV0%3D",
+          "file_name": "file_20240323_16_02_58_019745",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80f026dd0f2c49c2a746b7d6967d3683.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273778&x-signature=qaiXVuwPlomo%2FoOuGmBSL34bRV0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/80f026dd0f2c49c2a746b7d6967d3683.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

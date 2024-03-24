@@ -68,6 +68,35 @@
       ],
       "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_dfda1da1-c837-44fa-9e38-e378dc37c3hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710857064,
+      "auto_close_hit": 0,
+      "id": 7348073977060934000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "humbeline.de@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Humbeline De Bisschop",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7231222459897545730",
+      "name": "Humbeline De Bisschop",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Selma, voici la réponse du client. MERCI pour ton aide!</p><p><br></p><p><span style=\"color: #222222;\"><em>Nous envoyons les données (uniquement quand le paramètre ttclid est présent dans l’url) à </em></span><span style=\"color: #1155CC;\"><em><a href=\"https://business-api.tiktok.com/open_api/v1.3/pixel/track/\" target=\"_blank noopener noreferrer\">https://business-api.tiktok.com/open_api/v1.3/pixel/track/</a></em></span><br></p><p><br></p><p><span style=\"color: #222222;\">Voici un exemple de payload&nbsp;:</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">{</span></p><p><span style=\"color: #222222;\">&nbsp; &#34;pixel_code&#34;: &#34;CAO4I7BC77U56BB69GAG&#34;,</span></p><p><span style=\"color: #222222;\">&nbsp; &#34;event&#34;: &#34;CompleteRegistration&#34;, // (ou SubmitForm)</span></p><p><span style=\"color: #222222;\">&nbsp; &#34;event_id&#34;: &#34;$idLead_$ttclid&#34;, // (ex: 2259283_123465789)</span></p><p><span style=\"color: #222222;\">&nbsp; &#34;timestamp&#34;: &#34;$timestamp&#34;, // (ex: 2024-03-19T14:44:03+01:00)</span></p><p><span style=\"color: #222222;\">&nbsp; &#34;context&#34;: {</span></p><p><span style=\"color: #222222;\">&nbsp;&nbsp;&nbsp; &#34;ad&#34;: {</span></p><p><span style=\"color: #222222;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#34;callback&#34;: &#34;$ttclid&#34; // (GET ttclid)</span></p><p><span style=\"color: #222222;\">&nbsp;&nbsp;&nbsp; },</span></p><p><span style=\"color: #222222;\">&nbsp;&nbsp;&nbsp; &#34;user&#34;: {</span></p><p><span style=\"color: #222222;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#34;external_id&#34;: &#34;$idLead&#34;, // (id interne - ex: 2259283)</span></p><p><span style=\"color: #222222;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#34;phone_number&#34;: &#34;$phoneNumberHash&#34; (ex: 4dbe09fecf315227cedab4ff79550d9220c0a03636e4bee0fd1496e65ac36f14)</span></p><p><span style=\"color: #222222;\">&nbsp;&nbsp;&nbsp; }</span></p><p><span style=\"color: #222222;\">&nbsp; }</span></p><p><span style=\"color: #222222;\">}</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_dfda1da1-c837-44fa-9e38-e378dc37c3hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -95,7 +124,7 @@
   "fd_permission": 1,
   "status": 2,
   "business_data": [],
-  "update_time": 1710513428,
+  "update_time": 1710857064,
   "owner_name": "Humbeline De Bisschop",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -197,7 +226,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 275376,
+  "pending_time": 710907,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -373,9 +402,9 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-14 at 11.32.32.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/826b20e8943e40c28931284fa02899ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838646&x-signature=A2rZNAmp0qmfPBbTZ8tnQfS3jjQ%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/826b20e8943e40c28931284fa02899ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274176&x-signature=4uhYaXS6lF%2FFb6lZ6qV60lzx1uA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/826b20e8943e40c28931284fa02899ea.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/826b20e8943e40c28931284fa02899ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838646&x-signature=A2rZNAmp0qmfPBbTZ8tnQfS3jjQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/826b20e8943e40c28931284fa02899ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274176&x-signature=4uhYaXS6lF%2FFb6lZ6qV60lzx1uA%3D",
           "size": 460807
         }
       ],

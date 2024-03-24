@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Kathy,</p><p>Great hearing from you again! It looks like the One-Click Pixel has been disconnected. Would they be able to verify the following?</p><p>In their Shopify x TikTok Sales Channel settings pages, would they be able to show us what Pixel is currently assigned to the One-Click Integration?</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/145fd1dc4bcf4f858756c40e0a7407a4.png\" height=\"389.764\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/145fd1dc4bcf4f858756c40e0a7407a4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832804&amp;x-signature=j3OWZ60zjDEFE1JOzsE5dnFveaA%3D\" width=\"375\"><p>Have they also used TikTok Shop?</p><p>Thanks!</p><p>Robbie</p></img>",
+          "content": "<p>Hi Kathy,</p><p>Great hearing from you again! It looks like the One-Click Pixel has been disconnected. Would they be able to verify the following?</p><p>In their Shopify x TikTok Sales Channel settings pages, would they be able to show us what Pixel is currently assigned to the One-Click Integration?</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/145fd1dc4bcf4f858756c40e0a7407a4.png\" height=\"389.764\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/145fd1dc4bcf4f858756c40e0a7407a4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272193&amp;x-signature=NT1zPAbmMGML%2BTdcv%2F3Y55GQr3M%3D\" width=\"375\"><p>Have they also used TikTok Shop?</p><p>Thanks!</p><p>Robbie</p></img>",
           "type": 6
         }
       ],
@@ -120,7 +120,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Kathy,</p><p>Great news! If they have it reconnected, it is likely still setup correctly prior to the Pixel becoming disconnected.</p><p>Quickly running through the funnel up until InitiateCheckout, things are looking good!</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c9caa530f04348e1b9b204dff1b1689c.png\" height=\"145.182\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9caa530f04348e1b9b204dff1b1689c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832804&amp;x-signature=j5jVljUoGYCENoOhKT%2FnXWLLu0o%3D\" width=\"375\"><p> To make sure that the data looks good, let's have it run for the remainder of the day and I can QA it first thing in the morning. We'll be able to give a confident go-ahead then and they can launch right away.</p><p>Thanks!</p><p>Robbie</p></img>",
+          "content": "<p>Hi Kathy,</p><p>Great news! If they have it reconnected, it is likely still setup correctly prior to the Pixel becoming disconnected.</p><p>Quickly running through the funnel up until InitiateCheckout, things are looking good!</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c9caa530f04348e1b9b204dff1b1689c.png\" height=\"145.182\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9caa530f04348e1b9b204dff1b1689c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272193&amp;x-signature=WghSxU6YjGu24YvRriAlDPr5f%2BI%3D\" width=\"375\"><p> To make sure that the data looks good, let's have it run for the remainder of the day and I can QA it first thing in the morning. We'll be able to give a confident go-ahead then and they can launch right away.</p><p>Thanks!</p><p>Robbie</p></img>",
           "type": 6
         }
       ],
@@ -342,7 +342,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2666601,
+  "pending_time": 3105990,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -516,17 +516,17 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/145fd1dc4bcf4f858756c40e0a7407a4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832804&x-signature=j3OWZ60zjDEFE1JOzsE5dnFveaA%3D",
-          "file_name": "file_20240318_13_33_24_109892",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/145fd1dc4bcf4f858756c40e0a7407a4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832804&x-signature=j3OWZ60zjDEFE1JOzsE5dnFveaA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/145fd1dc4bcf4f858756c40e0a7407a4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272193&x-signature=NT1zPAbmMGML%2BTdcv%2F3Y55GQr3M%3D",
+          "file_name": "file_20240323_15_36_33_477820",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/145fd1dc4bcf4f858756c40e0a7407a4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272193&x-signature=NT1zPAbmMGML%2BTdcv%2F3Y55GQr3M%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/145fd1dc4bcf4f858756c40e0a7407a4.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9caa530f04348e1b9b204dff1b1689c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832804&x-signature=j5jVljUoGYCENoOhKT%2FnXWLLu0o%3D",
-          "file_name": "file_20240318_13_33_24_205021",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9caa530f04348e1b9b204dff1b1689c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832804&x-signature=j5jVljUoGYCENoOhKT%2FnXWLLu0o%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9caa530f04348e1b9b204dff1b1689c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272193&x-signature=WghSxU6YjGu24YvRriAlDPr5f%2BI%3D",
+          "file_name": "file_20240323_15_36_33_604022",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9caa530f04348e1b9b204dff1b1689c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272193&x-signature=WghSxU6YjGu24YvRriAlDPr5f%2BI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c9caa530f04348e1b9b204dff1b1689c.png",
           "file_type": "jpeg",
           "biz_type": 2

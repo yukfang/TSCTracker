@@ -149,7 +149,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Thanks Sophie! There are two approaches they can take to pass us back the desired VSA parameters:</p><ul><li>Use our TikTok Google Tag Manager Client side template. They will have to re-create their funnel events using the TikTok template but they can utilize their existing GA4 data layer variables to automatically pull in the parameter data</li><ul><li>GitHub Page, Readme, and Implementation guide for the TikTok Client Side template: https://github.com/tiktok/gtm-template-pixel/blob/main/README.md#create-tag</li><li>If they do not have it already present in their workspace, they can find the official TikTok template through the Community Template Gallery</li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/18113d25fba045b592d8108e0781c942.png\" height=\"190.411\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18113d25fba045b592d8108e0781c942.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838341&amp;x-signature=V04G%2F6EGjOdSNhAM2ONys6oRDFg%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/976317cfd8e74e809fa3f8be5b9bbc28.png\" height=\"217.408\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/976317cfd8e74e809fa3f8be5b9bbc28.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838341&amp;x-signature=kThZqh8VCOeCKSHCP12cNwCELQA%3D\" width=\"375\"><ul><ul><li>Section in the provided link regarding parameter data:</li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/64ccd25e7af24625ad12f8ae660f6e6c.png\" height=\"258.536\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64ccd25e7af24625ad12f8ae660f6e6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838341&amp;x-signature=V1lUO%2BRol6sFDlXxLveVPGLR7FQ%3D\" width=\"375\"><ul><li>Or they can also setup their events to dynamically accept their Data Layer variables for the desired parameters. Please see the attached text file for custom code examples the client could potentially use for event parameter setup</li></ul><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img>",
+          "content": "<p>Thanks Sophie! There are two approaches they can take to pass us back the desired VSA parameters:</p><ul><li>Use our TikTok Google Tag Manager Client side template. They will have to re-create their funnel events using the TikTok template but they can utilize their existing GA4 data layer variables to automatically pull in the parameter data</li><ul><li>GitHub Page, Readme, and Implementation guide for the TikTok Client Side template: https://github.com/tiktok/gtm-template-pixel/blob/main/README.md#create-tag</li><li>If they do not have it already present in their workspace, they can find the official TikTok template through the Community Template Gallery</li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/18113d25fba045b592d8108e0781c942.png\" height=\"190.411\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18113d25fba045b592d8108e0781c942.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273858&amp;x-signature=y8nPnKKx6korbpY%2Bz1VOS3WkwvE%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/976317cfd8e74e809fa3f8be5b9bbc28.png\" height=\"217.408\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/976317cfd8e74e809fa3f8be5b9bbc28.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273858&amp;x-signature=k7O3c3HEStJxYUZEXHgKBjR4U3M%3D\" width=\"375\"><ul><ul><li>Section in the provided link regarding parameter data:</li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/64ccd25e7af24625ad12f8ae660f6e6c.png\" height=\"258.536\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64ccd25e7af24625ad12f8ae660f6e6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273858&amp;x-signature=PiADxGR3rQO%2Bib1zBmNOeiWJyCc%3D\" width=\"375\"><ul><li>Or they can also setup their events to dynamically accept their Data Layer variables for the desired parameters. Please see the attached text file for custom code examples the client could potentially use for event parameter setup</li></ul><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img>",
           "type": 6
         },
         {
@@ -157,9 +157,9 @@
             {
               "file_type": "txt",
               "file_name": "custom_html_code_tiktok_web_pixels.txt",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oo4TRjTiMASgAfAx0iYSAvA8RIAepbsebuemHe.txt?lk3s=cbe26b3a&x-expires=4832838341&x-signature=pTZ7aZ2FSnF%2BWAYyhUmS3dXnKNE%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oo4TRjTiMASgAfAx0iYSAvA8RIAepbsebuemHe.txt?lk3s=cbe26b3a&x-expires=4833273858&x-signature=42jIg%2FQwTGOfbd2NlXb6PsFBlXQ%3D",
               "file_key": "tos-alisg-v-90231e-sg/oo4TRjTiMASgAfAx0iYSAvA8RIAepbsebuemHe.txt",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oo4TRjTiMASgAfAx0iYSAvA8RIAepbsebuemHe.txt?lk3s=cbe26b3a&x-expires=4832838341&x-signature=pTZ7aZ2FSnF%2BWAYyhUmS3dXnKNE%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oo4TRjTiMASgAfAx0iYSAvA8RIAepbsebuemHe.txt?lk3s=cbe26b3a&x-expires=4833273858&x-signature=42jIg%2FQwTGOfbd2NlXb6PsFBlXQ%3D",
               "biz_type": 2,
               "size": 3573
             }
@@ -400,7 +400,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1024066,
+  "pending_time": 1459583,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -574,25 +574,25 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/976317cfd8e74e809fa3f8be5b9bbc28.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838341&x-signature=kThZqh8VCOeCKSHCP12cNwCELQA%3D",
-          "file_name": "file_20240318_15_05_41_146475",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/976317cfd8e74e809fa3f8be5b9bbc28.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838341&x-signature=kThZqh8VCOeCKSHCP12cNwCELQA%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/976317cfd8e74e809fa3f8be5b9bbc28.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64ccd25e7af24625ad12f8ae660f6e6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838341&x-signature=V1lUO%2BRol6sFDlXxLveVPGLR7FQ%3D",
-          "file_name": "file_20240318_15_05_41_146542",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64ccd25e7af24625ad12f8ae660f6e6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838341&x-signature=V1lUO%2BRol6sFDlXxLveVPGLR7FQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64ccd25e7af24625ad12f8ae660f6e6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273858&x-signature=PiADxGR3rQO%2Bib1zBmNOeiWJyCc%3D",
+          "file_name": "file_20240323_16_04_18_714443",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64ccd25e7af24625ad12f8ae660f6e6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273858&x-signature=PiADxGR3rQO%2Bib1zBmNOeiWJyCc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/64ccd25e7af24625ad12f8ae660f6e6c.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18113d25fba045b592d8108e0781c942.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838341&x-signature=V04G%2F6EGjOdSNhAM2ONys6oRDFg%3D",
-          "file_name": "file_20240318_15_05_41_146562",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18113d25fba045b592d8108e0781c942.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838341&x-signature=V04G%2F6EGjOdSNhAM2ONys6oRDFg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/976317cfd8e74e809fa3f8be5b9bbc28.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273858&x-signature=k7O3c3HEStJxYUZEXHgKBjR4U3M%3D",
+          "file_name": "file_20240323_16_04_18_714523",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/976317cfd8e74e809fa3f8be5b9bbc28.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273858&x-signature=k7O3c3HEStJxYUZEXHgKBjR4U3M%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/976317cfd8e74e809fa3f8be5b9bbc28.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18113d25fba045b592d8108e0781c942.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273858&x-signature=y8nPnKKx6korbpY%2Bz1VOS3WkwvE%3D",
+          "file_name": "file_20240323_16_04_18_714540",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18113d25fba045b592d8108e0781c942.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273858&x-signature=y8nPnKKx6korbpY%2Bz1VOS3WkwvE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/18113d25fba045b592d8108e0781c942.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -600,9 +600,9 @@
         {
           "file_type": "txt",
           "file_name": "custom_html_code_tiktok_web_pixels.txt",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oo4TRjTiMASgAfAx0iYSAvA8RIAepbsebuemHe.txt?lk3s=cbe26b3a&x-expires=4832838341&x-signature=pTZ7aZ2FSnF%2BWAYyhUmS3dXnKNE%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oo4TRjTiMASgAfAx0iYSAvA8RIAepbsebuemHe.txt?lk3s=cbe26b3a&x-expires=4833273858&x-signature=42jIg%2FQwTGOfbd2NlXb6PsFBlXQ%3D",
           "file_key": "tos-alisg-v-90231e-sg/oo4TRjTiMASgAfAx0iYSAvA8RIAepbsebuemHe.txt",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oo4TRjTiMASgAfAx0iYSAvA8RIAepbsebuemHe.txt?lk3s=cbe26b3a&x-expires=4832838341&x-signature=pTZ7aZ2FSnF%2BWAYyhUmS3dXnKNE%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oo4TRjTiMASgAfAx0iYSAvA8RIAepbsebuemHe.txt?lk3s=cbe26b3a&x-expires=4833273858&x-signature=42jIg%2FQwTGOfbd2NlXb6PsFBlXQ%3D",
           "biz_type": 2,
           "size": 3573
         }

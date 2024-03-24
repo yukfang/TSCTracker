@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0087_432d00eb-4bcb-4e78-b561-b90c17e9c9hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0093_de7550e1-3677-4322-8b35-c32e08f828hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Keshav Priyadarshi",
   "create_time": 1710778363,
   "deadline": 0,
@@ -39,6 +39,66 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_28a5e462-ab3d-43a1-8abc-0a5bd6532b6h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710840594,
+      "auto_close_hit": 0,
+      "id": 7348002884442784000,
+      "reply_role": "TSC",
+      "staff_id": 7890770,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "keshav.priyadarshi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user7242983724654",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7337626630103827457",
+      "name": "Keshav Priyadarshi",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p>[INTERNAL NOTE]<br>Guidance shared with CSM and client. Awaiting confirmation on the call with the client to address the issues.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0093_de7550e1-3677-4322-8b35-c32e08f828hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710929830,
+      "auto_close_hit": 0,
+      "id": 7348386621538009000,
+      "reply_role": "TSC",
+      "staff_id": 7890770,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "keshav.priyadarshi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user7242983724654",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7337626630103827457",
+      "name": "Keshav Priyadarshi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Sharing a summary of the 3 issues flagged in the ticket:</p><ol><li>&#34;<em>Client says they haven&#39;t implemented eAPI and PII coverage because of the laws restricting data being sent out of the country (Jersey Islands) where their server is housed.</em>&#34;</li><ol><li>If they need any help related to compliance information. We can connect them with our legal team. If they have implemented Meta pixel or any other third party partner for integration, then they can connect us through the 3rd party and don&#39;t have to worry about compliance.</li></ol><li>&#34;<em>They screen-shared their Shopify account on a call and showed us that the TikTok app is not able to be chosen, the option is grayed out to integrate.</em>&#34;</li><ol><li>Can you please share the screenshot or we can discuss this on the call with client to understand the issue better.</li></ol><li>&#34;Issues within TTEM, including missing content IDs, etc&#34;.</li><ol><li>We can discuss this on the call with the client and verify the changes they have made to address this issue.<br><br><br></li></ol></ol><p>Client has agreed to get on a call. Awaiting the confirmation on client call.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0093_de7550e1-3677-4322-8b35-c32e08f828hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -66,13 +126,13 @@
   "type": 6,
   "current_role": null,
   "fd_permission": 1,
-  "status": 0,
+  "status": 1,
   "business_data": [],
-  "update_time": 1710781987,
+  "update_time": 1710929830,
   "owner_name": "Anthony La Santa",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
-  "swim_lane_status": 1,
+  "swim_lane_status": 4,
   "enable_forced_order_tag": 1,
   "satisfied": 0,
   "category_2_name": "",
@@ -170,7 +230,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 30635,
+  "pending_time": 280440,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -346,9 +406,9 @@
         {
           "file_type": "png",
           "file_name": "Tri - Active Issues - 03.15.24.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4f8a25e738224e3fa418bf6f77c4c103.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875828&x-signature=wV7VjiSk3rbDjbxKyv%2B5EC4X6FY%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4f8a25e738224e3fa418bf6f77c4c103.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274270&x-signature=GLughSOBgVIt%2BSDfo8iS9B5jHfs%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4f8a25e738224e3fa418bf6f77c4c103.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4f8a25e738224e3fa418bf6f77c4c103.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875828&x-signature=wV7VjiSk3rbDjbxKyv%2B5EC4X6FY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4f8a25e738224e3fa418bf6f77c4c103.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274270&x-signature=GLughSOBgVIt%2BSDfo8iS9B5jHfs%3D",
           "size": 262508
         }
       ],

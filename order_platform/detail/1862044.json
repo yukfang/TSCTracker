@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Akeem,</p><p>Thanks for reaching out! I'd be happy to help you out here. </p><p>Confirming that I'm seeing the same thing as you are, that we're not receiving any Events API events for the Delltech Global Pixel: https://ads.tiktok.com/i18n/events_manager/pixel/detail/C9PUBU3C77U007IT7KUG?start_time=2024-01-31&amp;end_time=2024-02-06&amp;from=ALL&amp;aadvid=7094265272751718401'</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/92fc28ab18b14c4ea38b0934fb43f257.png\" height=\"182.322\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92fc28ab18b14c4ea38b0934fb43f257.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837769&amp;x-signature=pOX1hORVbrqkSIb0bgqsm2SRepo%3D\" width=\"375\"><p><br /></p><p>A quick thing to have them check is if the \"test_event_code\" parameter is present anywhere in their live payloads. If they are still passing the \"test_event_code\" parameter in their live Events API payloads, it will prevent these events from being received properly</p><p>https://business-api.tiktok.com/portal/docs?id=1739584863252481</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ed41fb1e2b5043cd874184a2abca878f.png\" height=\"43.803\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ed41fb1e2b5043cd874184a2abca878f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837769&amp;x-signature=xTar8Op1eSwIRlAyUPeHcZX9vD4%3D\" width=\"375\"><p><br /></p><p>A question for you and the advertiser Akeem, would you happen to know if they're using a 3rd Party tagging manager like Tealium, Segment, or Google Tag Manager?</p><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img>",
+          "content": "<p>Hi Akeem,</p><p>Thanks for reaching out! I'd be happy to help you out here. </p><p>Confirming that I'm seeing the same thing as you are, that we're not receiving any Events API events for the Delltech Global Pixel: https://ads.tiktok.com/i18n/events_manager/pixel/detail/C9PUBU3C77U007IT7KUG?start_time=2024-01-31&amp;end_time=2024-02-06&amp;from=ALL&amp;aadvid=7094265272751718401'</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/92fc28ab18b14c4ea38b0934fb43f257.png\" height=\"182.322\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92fc28ab18b14c4ea38b0934fb43f257.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273351&amp;x-signature=Rcc%2BUsRzOJDc7M%2B14t3jMYlvmhU%3D\" width=\"375\"><p><br /></p><p>A quick thing to have them check is if the \"test_event_code\" parameter is present anywhere in their live payloads. If they are still passing the \"test_event_code\" parameter in their live Events API payloads, it will prevent these events from being received properly</p><p>https://business-api.tiktok.com/portal/docs?id=1739584863252481</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ed41fb1e2b5043cd874184a2abca878f.png\" height=\"43.803\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ed41fb1e2b5043cd874184a2abca878f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273351&amp;x-signature=Bf3YSVFrVIQnGHytWOWbUbPbkmY%3D\" width=\"375\"><p><br /></p><p>A question for you and the advertiser Akeem, would you happen to know if they're using a 3rd Party tagging manager like Tealium, Segment, or Google Tag Manager?</p><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img>",
           "type": 6
         }
       ],
@@ -342,7 +342,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3523277,
+  "pending_time": 3958858,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -516,17 +516,17 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92fc28ab18b14c4ea38b0934fb43f257.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837769&x-signature=pOX1hORVbrqkSIb0bgqsm2SRepo%3D",
-          "file_name": "file_20240318_14_56_09_932412",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92fc28ab18b14c4ea38b0934fb43f257.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837769&x-signature=pOX1hORVbrqkSIb0bgqsm2SRepo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92fc28ab18b14c4ea38b0934fb43f257.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273351&x-signature=Rcc%2BUsRzOJDc7M%2B14t3jMYlvmhU%3D",
+          "file_name": "file_20240323_15_55_51_623063",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92fc28ab18b14c4ea38b0934fb43f257.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273351&x-signature=Rcc%2BUsRzOJDc7M%2B14t3jMYlvmhU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/92fc28ab18b14c4ea38b0934fb43f257.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ed41fb1e2b5043cd874184a2abca878f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837769&x-signature=xTar8Op1eSwIRlAyUPeHcZX9vD4%3D",
-          "file_name": "file_20240318_14_56_09_932475",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ed41fb1e2b5043cd874184a2abca878f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837769&x-signature=xTar8Op1eSwIRlAyUPeHcZX9vD4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ed41fb1e2b5043cd874184a2abca878f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273351&x-signature=Bf3YSVFrVIQnGHytWOWbUbPbkmY%3D",
+          "file_name": "file_20240323_15_55_51_623149",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ed41fb1e2b5043cd874184a2abca878f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273351&x-signature=Bf3YSVFrVIQnGHytWOWbUbPbkmY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ed41fb1e2b5043cd874184a2abca878f.png",
           "file_type": "jpeg",
           "biz_type": 2

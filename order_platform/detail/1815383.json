@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Wanderson,</p><ul><li>There are multiple Submit form events triggered with the event builder. </li><li><span style=\"color: #374151;\">It's recommended to avoid TikTok Pixel Events Builder and opt for custom code on the web along with Events API. This approach provides better control and flexibility for our tracking needs.</span></li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4b25f4cf44834f6dbc7fa2692241f19f.png\" height=\"188.854\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b25f4cf44834f6dbc7fa2692241f19f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833297&amp;x-signature=keT1rt%2FRkgy1G2wUjPpcrG0RLCw%3D\" width=\"375\"><p><br /></p><ul><li>It's important to put page view events on all pages.</li></ul><ul><li>Another page only with SubmitForm event.<br><br /></br></li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/552e173948ad4641b643e60c6e0e6bfa.png\" height=\"157.322\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/552e173948ad4641b643e60c6e0e6bfa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833297&amp;x-signature=YDKh%2BfzM33CCHYdN9H4b8vVe%2FsI%3D\" width=\"375\"><ul><li>It's recommended to only implement the pixel's \"View Content\" event on product view pages.</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d4061533c28c408d91194e88cb1b5fcf.png\" height=\"188.218\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d4061533c28c408d91194e88cb1b5fcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833297&amp;x-signature=RShSu9fPWHUDc9cd6oc1ivIqSaM%3D\" width=\"375\"><ul><li>Other pages with View Content event.</li></ul><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5537cbac763d4ea2be18909e8bdfce15.png\" height=\"143.072\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5537cbac763d4ea2be18909e8bdfce15.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833297&amp;x-signature=g0SfwsdQA3JvdGlJhAmw3ZWb3%2FE%3D\" width=\"375\"><p><br><br /></br></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/50aefc30829541c2a8a798f9c6d36262.png\" height=\"210.18\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50aefc30829541c2a8a798f9c6d36262.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833297&amp;x-signature=enCFBen1spUDshvO932v2okG7cs%3D\" width=\"375\"><ul><li>The right page with view content event</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1c4550f96201444a82c37891a010580f.png\" height=\"178.348\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1c4550f96201444a82c37891a010580f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833297&amp;x-signature=sF2ln3FCEskz76WBljK%2FkGAcmN4%3D\" width=\"375\"><p><br /></p><p>Thanks!</p><p>Renato Pessoa Franco<br><br /></br></p></img></img></img></img></img></img>",
+          "content": "<p>Hi Wanderson,</p><ul><li>There are multiple Submit form events triggered with the event builder. </li><li><span style=\"color: #374151;\">It's recommended to avoid TikTok Pixel Events Builder and opt for custom code on the web along with Events API. This approach provides better control and flexibility for our tracking needs.</span></li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4b25f4cf44834f6dbc7fa2692241f19f.png\" height=\"188.854\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b25f4cf44834f6dbc7fa2692241f19f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272906&amp;x-signature=5o1TOLR8J5Xtg7SKIHehrrEQwT0%3D\" width=\"375\"><p><br /></p><ul><li>It's important to put page view events on all pages.</li></ul><ul><li>Another page only with SubmitForm event.<br><br /></br></li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/552e173948ad4641b643e60c6e0e6bfa.png\" height=\"157.322\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/552e173948ad4641b643e60c6e0e6bfa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272906&amp;x-signature=%2BiQswsArvFmLOr%2FIGJAFycE5ypI%3D\" width=\"375\"><ul><li>It's recommended to only implement the pixel's \"View Content\" event on product view pages.</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d4061533c28c408d91194e88cb1b5fcf.png\" height=\"188.218\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d4061533c28c408d91194e88cb1b5fcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272906&amp;x-signature=%2BH7jRClgl2MYcyCnwoisKG1yrrU%3D\" width=\"375\"><ul><li>Other pages with View Content event.</li></ul><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5537cbac763d4ea2be18909e8bdfce15.png\" height=\"143.072\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5537cbac763d4ea2be18909e8bdfce15.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272906&amp;x-signature=DWOfY2YQV22Nvxp6z7DV%2BUgNsHY%3D\" width=\"375\"><p><br><br /></br></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/50aefc30829541c2a8a798f9c6d36262.png\" height=\"210.18\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50aefc30829541c2a8a798f9c6d36262.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272906&amp;x-signature=OUa47eQwzEA4NBJGfW2b1b5XBlY%3D\" width=\"375\"><ul><li>The right page with view content event</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1c4550f96201444a82c37891a010580f.png\" height=\"178.348\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1c4550f96201444a82c37891a010580f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272906&amp;x-signature=vAdoswjrvGPpYvopR0MI7tRl%2Bcs%3D\" width=\"375\"><p><br /></p><p>Thanks!</p><p>Renato Pessoa Franco<br><br /></br></p></img></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -299,7 +299,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 5090334,
+  "pending_time": 5529943,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -473,50 +473,50 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1c4550f96201444a82c37891a010580f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833297&x-signature=sF2ln3FCEskz76WBljK%2FkGAcmN4%3D",
-          "file_name": "file_20240318_13_41_37_665286",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1c4550f96201444a82c37891a010580f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833297&x-signature=sF2ln3FCEskz76WBljK%2FkGAcmN4%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/1c4550f96201444a82c37891a010580f.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50aefc30829541c2a8a798f9c6d36262.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833297&x-signature=enCFBen1spUDshvO932v2okG7cs%3D",
-          "file_name": "file_20240318_13_41_37_665372",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50aefc30829541c2a8a798f9c6d36262.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833297&x-signature=enCFBen1spUDshvO932v2okG7cs%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/50aefc30829541c2a8a798f9c6d36262.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/552e173948ad4641b643e60c6e0e6bfa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833297&x-signature=YDKh%2BfzM33CCHYdN9H4b8vVe%2FsI%3D",
-          "file_name": "file_20240318_13_41_37_665392",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/552e173948ad4641b643e60c6e0e6bfa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833297&x-signature=YDKh%2BfzM33CCHYdN9H4b8vVe%2FsI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/552e173948ad4641b643e60c6e0e6bfa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272906&x-signature=%2BiQswsArvFmLOr%2FIGJAFycE5ypI%3D",
+          "file_name": "file_20240323_15_48_26_648352",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/552e173948ad4641b643e60c6e0e6bfa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272906&x-signature=%2BiQswsArvFmLOr%2FIGJAFycE5ypI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/552e173948ad4641b643e60c6e0e6bfa.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d4061533c28c408d91194e88cb1b5fcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833297&x-signature=RShSu9fPWHUDc9cd6oc1ivIqSaM%3D",
-          "file_name": "file_20240318_13_41_37_665414",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d4061533c28c408d91194e88cb1b5fcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833297&x-signature=RShSu9fPWHUDc9cd6oc1ivIqSaM%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/d4061533c28c408d91194e88cb1b5fcf.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5537cbac763d4ea2be18909e8bdfce15.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833297&x-signature=g0SfwsdQA3JvdGlJhAmw3ZWb3%2FE%3D",
-          "file_name": "file_20240318_13_41_37_665429",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5537cbac763d4ea2be18909e8bdfce15.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833297&x-signature=g0SfwsdQA3JvdGlJhAmw3ZWb3%2FE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5537cbac763d4ea2be18909e8bdfce15.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272906&x-signature=DWOfY2YQV22Nvxp6z7DV%2BUgNsHY%3D",
+          "file_name": "file_20240323_15_48_26_648414",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5537cbac763d4ea2be18909e8bdfce15.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272906&x-signature=DWOfY2YQV22Nvxp6z7DV%2BUgNsHY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5537cbac763d4ea2be18909e8bdfce15.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b25f4cf44834f6dbc7fa2692241f19f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833297&x-signature=keT1rt%2FRkgy1G2wUjPpcrG0RLCw%3D",
-          "file_name": "file_20240318_13_41_37_665443",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b25f4cf44834f6dbc7fa2692241f19f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833297&x-signature=keT1rt%2FRkgy1G2wUjPpcrG0RLCw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50aefc30829541c2a8a798f9c6d36262.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272906&x-signature=OUa47eQwzEA4NBJGfW2b1b5XBlY%3D",
+          "file_name": "file_20240323_15_48_26_648430",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50aefc30829541c2a8a798f9c6d36262.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272906&x-signature=OUa47eQwzEA4NBJGfW2b1b5XBlY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/50aefc30829541c2a8a798f9c6d36262.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b25f4cf44834f6dbc7fa2692241f19f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272906&x-signature=5o1TOLR8J5Xtg7SKIHehrrEQwT0%3D",
+          "file_name": "file_20240323_15_48_26_648445",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b25f4cf44834f6dbc7fa2692241f19f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272906&x-signature=5o1TOLR8J5Xtg7SKIHehrrEQwT0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4b25f4cf44834f6dbc7fa2692241f19f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1c4550f96201444a82c37891a010580f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272906&x-signature=vAdoswjrvGPpYvopR0MI7tRl%2Bcs%3D",
+          "file_name": "file_20240323_15_48_26_648458",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1c4550f96201444a82c37891a010580f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272906&x-signature=vAdoswjrvGPpYvopR0MI7tRl%2Bcs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1c4550f96201444a82c37891a010580f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d4061533c28c408d91194e88cb1b5fcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272906&x-signature=%2BH7jRClgl2MYcyCnwoisKG1yrrU%3D",
+          "file_name": "file_20240323_15_48_26_648471",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d4061533c28c408d91194e88cb1b5fcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272906&x-signature=%2BH7jRClgl2MYcyCnwoisKG1yrrU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d4061533c28c408d91194e88cb1b5fcf.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

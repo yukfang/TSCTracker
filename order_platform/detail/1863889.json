@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p><span style=\"color: #222222;\">Hey Jessica, once the developer completes the pre-requisites of</span><span style=\"color: #338AFF;\"> <a href=\"https://ads.tiktok.com/marketing_api/docs?id=1738855099573250\" target=\"_blank\">creating a TikTok For Business account</a>, <a href=\"https://ads.tiktok.com/marketing_api/docs?id=1738855176671234\" target=\"_blank\">registering as developer</a></span><span style=\"color: #222222;\">, and</span><span style=\"color: #338AFF;\"> <a href=\"https://ads.tiktok.com/marketing_api/docs?id=1738855242728450\" target=\"_blank\">creating a developer app</a></span><span style=\"color: #222222;\">, the developer will then follow the <a href=\"https://business-api.tiktok.com/portal/docs?rid=oyn7lhbo6ar&amp;id=1738373141733378\" target=\"_blank\">steps here</a> to request authorization from the advertiser by sending an authorization URL to them. </span></p><p><span style=\"color: #222222;\">Then, the advertiser will navigate to the authorization URL sent by the developer and there, they'll have the ability to select the permissions for the developer:</span></p><img alt=\"eb795e8a9ffa2561c1e4e81fd6762606.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0a4ee32df7454ccd90e237558f667019.jpeg\" height=\"293.872\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a4ee32df7454ccd90e237558f667019.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837794&amp;x-signature=urMXeveotPzdvjwEvTvEVqs2%2F%2B8%3D\" width=\"375\" />",
+          "content": "<p><span style=\"color: #222222;\">Hey Jessica, once the developer completes the pre-requisites of</span><span style=\"color: #338AFF;\"> <a href=\"https://ads.tiktok.com/marketing_api/docs?id=1738855099573250\" target=\"_blank\">creating a TikTok For Business account</a>, <a href=\"https://ads.tiktok.com/marketing_api/docs?id=1738855176671234\" target=\"_blank\">registering as developer</a></span><span style=\"color: #222222;\">, and</span><span style=\"color: #338AFF;\"> <a href=\"https://ads.tiktok.com/marketing_api/docs?id=1738855242728450\" target=\"_blank\">creating a developer app</a></span><span style=\"color: #222222;\">, the developer will then follow the <a href=\"https://business-api.tiktok.com/portal/docs?rid=oyn7lhbo6ar&amp;id=1738373141733378\" target=\"_blank\">steps here</a> to request authorization from the advertiser by sending an authorization URL to them. </span></p><p><span style=\"color: #222222;\">Then, the advertiser will navigate to the authorization URL sent by the developer and there, they'll have the ability to select the permissions for the developer:</span></p><img alt=\"eb795e8a9ffa2561c1e4e81fd6762606.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0a4ee32df7454ccd90e237558f667019.jpeg\" height=\"293.872\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a4ee32df7454ccd90e237558f667019.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273375&amp;x-signature=ad4vq4eYFdrxA%2Bz1DKnHMtcmZ0c%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -460,7 +460,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 485726,
+  "pending_time": 921308,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -634,9 +634,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a4ee32df7454ccd90e237558f667019.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837794&x-signature=urMXeveotPzdvjwEvTvEVqs2%2F%2B8%3D",
-          "file_name": "file_20240318_14_56_34_041740",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a4ee32df7454ccd90e237558f667019.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837794&x-signature=urMXeveotPzdvjwEvTvEVqs2%2F%2B8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a4ee32df7454ccd90e237558f667019.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273375&x-signature=ad4vq4eYFdrxA%2Bz1DKnHMtcmZ0c%3D",
+          "file_name": "file_20240323_15_56_15_580909",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0a4ee32df7454ccd90e237558f667019.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273375&x-signature=ad4vq4eYFdrxA%2Bz1DKnHMtcmZ0c%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0a4ee32df7454ccd90e237558f667019.jpeg",
           "file_type": "jpeg",
           "biz_type": 2

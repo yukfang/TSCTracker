@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1710431467,
   "deadline": 0,
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Keeley, they do not have a pixel installed on their web site <a href=\"https://www.rag-bone.com/\" target=\"_blank\">https://www.rag-bone.com/</a>, although <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C6NP8AC48LJ6QNNJ890G?start_time=2024-03-07&amp;end_time=2024-03-14&amp;aadvid=7019281947360755714\" target=\"_blank\">their TTEM</a> shows they had at least the pixel base code installed for a couple of days recently:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4cb9729abd4443a2ad941a7d59a56926.png\" height=\"166.888\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4cb9729abd4443a2ad941a7d59a56926.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838662&amp;x-signature=24x3RhhbiAjAezTjfDiL81Nf4K4%3D\" width=\"375\"><p>Did someone from their team remove or pause the event tags? Please have them check on their end.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Keeley, they do not have a pixel installed on their web site <a href=\"https://www.rag-bone.com/\" target=\"_blank\">https://www.rag-bone.com/</a>, although <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C6NP8AC48LJ6QNNJ890G?start_time=2024-03-07&amp;end_time=2024-03-14&amp;aadvid=7019281947360755714\" target=\"_blank\">their TTEM</a> shows they had at least the pixel base code installed for a couple of days recently:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4cb9729abd4443a2ad941a7d59a56926.png\" height=\"166.888\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4cb9729abd4443a2ad941a7d59a56926.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274194&amp;x-signature=lFtU6OmphYpcrwzKKpjfOSVFtWA%3D\" width=\"375\"><p>Did someone from their team remove or pause the event tags? Please have them check on their end.</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -270,7 +270,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 241180,
+  "pending_time": 676712,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -444,9 +444,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4cb9729abd4443a2ad941a7d59a56926.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838662&x-signature=24x3RhhbiAjAezTjfDiL81Nf4K4%3D",
-          "file_name": "file_20240318_15_11_02_284390",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4cb9729abd4443a2ad941a7d59a56926.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838662&x-signature=24x3RhhbiAjAezTjfDiL81Nf4K4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4cb9729abd4443a2ad941a7d59a56926.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274194&x-signature=lFtU6OmphYpcrwzKKpjfOSVFtWA%3D",
+          "file_name": "file_20240323_16_09_54_710958",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4cb9729abd4443a2ad941a7d59a56926.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274194&x-signature=lFtU6OmphYpcrwzKKpjfOSVFtWA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4cb9729abd4443a2ad941a7d59a56926.png",
           "file_type": "jpeg",
           "biz_type": 2

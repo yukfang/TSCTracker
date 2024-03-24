@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1706114964,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Calvin and Otho,</p><p><br /></p><p>Adding my <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CB2QP8JC77U9EAGVBNBG?start_time=2024-01-18&amp;end_time=2024-01-24&amp;from=ALL&amp;aadvid=7107596175875883009&amp;type=overview\" target=\"_blank\">pixel id CB2QP8JC77U9EAGVBNBG</a> QA notes from Lark here:</p><p>1) They are already using event_id through Tealium, so they understand what that is which is great because we will need that for deduplication when eAPI is also set up.</p><p>2) They have 100% email coverage for CompletePayment events so no issues with PII</p><p>3) In their 'properties', I see strong data for the important CompletePayment parameters. Another sign setting up eAPI will be an easy lift for them. Please see my screenshot here which illustrates these three points (I've highlighted partner, email, and event_id column):</p><p> </p><img alt=\"20240124-145853.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8da1f4886fa0464e9ec72d947f4156ca.jpeg\" height=\"152.368\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8da1f4886fa0464e9ec72d947f4156ca.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832612&amp;x-signature=OkS1QOH3XCVlMMKWB6gU15EEjzs%3D\" width=\"375\"><p>Access token for eAPI can be found <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CB2QP8JC77U9EAGVBNBG?start_time=2024-01-18&amp;end_time=2024-01-24&amp;from=ALL&amp;aadvid=7107596175875883009&amp;type=S2SSetting\" target=\"_blank\">here</a></p><p>Tealium eAPI instructions can be found <a href=\"https://docs.tealium.com/server-side-connectors/tiktok-events-connector/\" target=\"_blank\">here</a></p><p><br /></p><p>I will add the two above links to the Implementation Guide I am creating for Tommy Hilfiger. Will attach document here when it is complete.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Calvin and Otho,</p><p><br /></p><p>Adding my <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CB2QP8JC77U9EAGVBNBG?start_time=2024-01-18&amp;end_time=2024-01-24&amp;from=ALL&amp;aadvid=7107596175875883009&amp;type=overview\" target=\"_blank\">pixel id CB2QP8JC77U9EAGVBNBG</a> QA notes from Lark here:</p><p>1) They are already using event_id through Tealium, so they understand what that is which is great because we will need that for deduplication when eAPI is also set up.</p><p>2) They have 100% email coverage for CompletePayment events so no issues with PII</p><p>3) In their 'properties', I see strong data for the important CompletePayment parameters. Another sign setting up eAPI will be an easy lift for them. Please see my screenshot here which illustrates these three points (I've highlighted partner, email, and event_id column):</p><p> </p><img alt=\"20240124-145853.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8da1f4886fa0464e9ec72d947f4156ca.jpeg\" height=\"152.368\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8da1f4886fa0464e9ec72d947f4156ca.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273086&amp;x-signature=l3j8%2F1EFFpmxL%2BLlU%2Fd37JwII%2FY%3D\" width=\"375\"><p>Access token for eAPI can be found <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CB2QP8JC77U9EAGVBNBG?start_time=2024-01-18&amp;end_time=2024-01-24&amp;from=ALL&amp;aadvid=7107596175875883009&amp;type=S2SSetting\" target=\"_blank\">here</a></p><p>Tealium eAPI instructions can be found <a href=\"https://docs.tealium.com/server-side-connectors/tiktok-events-connector/\" target=\"_blank\">here</a></p><p><br /></p><p>I will add the two above links to the Implementation Guide I am creating for Tommy Hilfiger. Will attach document here when it is complete.</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -70,9 +70,9 @@
             {
               "file_type": "pdf",
               "file_name": "Tommy Hilfiger Events API Implementation Guide.pdf",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0DUKCFs7EDUFeAEDnAgfCEPlyAV1FyBQAMv8C.pdf?lk3s=cbe26b3a&x-expires=4832832612&x-signature=rJ9D9UteAC5jhbPXFus3o92Dfk0%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0DUKCFs7EDUFeAEDnAgfCEPlyAV1FyBQAMv8C.pdf?lk3s=cbe26b3a&x-expires=4833273086&x-signature=9dAgSprdKxJev16PeYHaMvYwujo%3D",
               "file_key": "tos-alisg-v-90231e-sg/o0DUKCFs7EDUFeAEDnAgfCEPlyAV1FyBQAMv8C.pdf",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0DUKCFs7EDUFeAEDnAgfCEPlyAV1FyBQAMv8C.pdf?lk3s=cbe26b3a&x-expires=4832832612&x-signature=rJ9D9UteAC5jhbPXFus3o92Dfk0%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0DUKCFs7EDUFeAEDnAgfCEPlyAV1FyBQAMv8C.pdf?lk3s=cbe26b3a&x-expires=4833273086&x-signature=9dAgSprdKxJev16PeYHaMvYwujo%3D",
               "biz_type": 2,
               "size": 460431
             }
@@ -113,9 +113,9 @@
             {
               "file_type": "pdf",
               "file_name": "Tommy_013024.pdf",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8QAAAM8eeeQwsNZfekbCAWe8AXMtLBYFtD8kk.pdf?lk3s=cbe26b3a&x-expires=4832832612&x-signature=GHBAwlYh5xkfkxTRPe4p2WYnndU%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8QAAAM8eeeQwsNZfekbCAWe8AXMtLBYFtD8kk.pdf?lk3s=cbe26b3a&x-expires=4833273086&x-signature=arjFcq3tLfB4hi%2BSEs02ah0BCZk%3D",
               "file_key": "tos-alisg-v-90231e-sg/o8QAAAM8eeeQwsNZfekbCAWe8AXMtLBYFtD8kk.pdf",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8QAAAM8eeeQwsNZfekbCAWe8AXMtLBYFtD8kk.pdf?lk3s=cbe26b3a&x-expires=4832832612&x-signature=GHBAwlYh5xkfkxTRPe4p2WYnndU%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8QAAAM8eeeQwsNZfekbCAWe8AXMtLBYFtD8kk.pdf?lk3s=cbe26b3a&x-expires=4833273086&x-signature=arjFcq3tLfB4hi%2BSEs02ah0BCZk%3D",
               "biz_type": 2,
               "size": 172142
             }
@@ -177,7 +177,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Calvin, </p><p><br /></p><p>So far, I am only seeing the eAPI active here:</p><p><a href=\"https://dev.usa.tommy.com/en/tommy-adaptive/mens-adaptive/tops/classic-stretch-polo/78J9898-XLG.html\" target=\"_blank\">https://dev.usa.tommy.com/en/tommy-adaptive/mens-adaptive/tops/classic-stretch-polo/78J9898-XLG.html</a>:</p><p>data filtered for 'server to server' events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6f81510f7e3842399dfdfdaf917c8d7b.png\" height=\"17.836\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f81510f7e3842399dfdfdaf917c8d7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832612&amp;x-signature=4pGD1fREogETZC9%2BFx%2BcmPBKzVE%3D\" width=\"375\"><p>which makes sense since it is a bit of work to get this implemented (i.e. I wouldn't expect this to get done in one day). Also, my data pull of 3000 events from today only shows ViewContent (screenshot above). Deduplication should also kick in the more events start firing, as I see event_id reporting for each event:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7859119a8e05414ebfc76c2468013a77.png\" height=\"118.76\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7859119a8e05414ebfc76c2468013a77.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832612&amp;x-signature=%2BSYZYPmXUR8yphXutH4MArP0%2BnU%3D\" width=\"375\"><p>Is it possible they have not launched on production yet but are making progress?</p><p><br /></p><p>Attaching my full data report here.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "content": "<p>Hi Calvin, </p><p><br /></p><p>So far, I am only seeing the eAPI active here:</p><p><a href=\"https://dev.usa.tommy.com/en/tommy-adaptive/mens-adaptive/tops/classic-stretch-polo/78J9898-XLG.html\" target=\"_blank\">https://dev.usa.tommy.com/en/tommy-adaptive/mens-adaptive/tops/classic-stretch-polo/78J9898-XLG.html</a>:</p><p>data filtered for 'server to server' events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6f81510f7e3842399dfdfdaf917c8d7b.png\" height=\"17.836\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f81510f7e3842399dfdfdaf917c8d7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273086&amp;x-signature=iQMkBSxAKzJc1v418B72kTiv%2FK0%3D\" width=\"375\"><p>which makes sense since it is a bit of work to get this implemented (i.e. I wouldn't expect this to get done in one day). Also, my data pull of 3000 events from today only shows ViewContent (screenshot above). Deduplication should also kick in the more events start firing, as I see event_id reporting for each event:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7859119a8e05414ebfc76c2468013a77.png\" height=\"118.76\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7859119a8e05414ebfc76c2468013a77.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273086&amp;x-signature=IX%2FAXKtJMjWVmJnrbaEWxWcsv80%3D\" width=\"375\"><p>Is it possible they have not launched on production yet but are making progress?</p><p><br /></p><p>Attaching my full data report here.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
           "type": 6
         },
         {
@@ -185,9 +185,9 @@
             {
               "file_type": "xlsx",
               "file_name": "281474987180428-temp_page-Query 08-17 12_25-Query 254.xlsx",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogAA0SEAIBgl69ufYhFQyYFWw3OKfUEZDCU1A5.xlsx?lk3s=cbe26b3a&x-expires=4832832612&x-signature=ySHDmbrMhIZWISU7jZPW2H%2BV5kY%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogAA0SEAIBgl69ufYhFQyYFWw3OKfUEZDCU1A5.xlsx?lk3s=cbe26b3a&x-expires=4833273086&x-signature=BXOItLWr2N%2BE4%2F0pf6qOp8hk4ws%3D",
               "file_key": "tos-alisg-v-90231e-sg/ogAA0SEAIBgl69ufYhFQyYFWw3OKfUEZDCU1A5.xlsx",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogAA0SEAIBgl69ufYhFQyYFWw3OKfUEZDCU1A5.xlsx?lk3s=cbe26b3a&x-expires=4832832612&x-signature=ySHDmbrMhIZWISU7jZPW2H%2BV5kY%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogAA0SEAIBgl69ufYhFQyYFWw3OKfUEZDCU1A5.xlsx?lk3s=cbe26b3a&x-expires=4833273086&x-signature=BXOItLWr2N%2BE4%2F0pf6qOp8hk4ws%3D",
               "biz_type": 2,
               "size": 1151027
             }
@@ -278,7 +278,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>I am seeing some server-side events coming through their staging site:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c651736313cb4030bba86f6d8b056659.png\" height=\"60.783007999999995\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c651736313cb4030bba86f6d8b056659.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832613&amp;x-signature=3Wv5Pe1vvBfZaDlwVwPdet7Q5w0%3D\" width=\"481\"><p>no harm though in reaching out to see if we can help.</p><p><br /></p><p>Heidi</p></img>",
+          "content": "<p>I am seeing some server-side events coming through their staging site:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c651736313cb4030bba86f6d8b056659.png\" height=\"60.783007999999995\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c651736313cb4030bba86f6d8b056659.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273086&amp;x-signature=lZIGR0aNZfD%2BSGt9Bk3yd%2FPNwvI%3D\" width=\"481\"><p>no harm though in reaching out to see if we can help.</p><p><br /></p><p>Heidi</p></img>",
           "type": 6
         }
       ],
@@ -315,9 +315,9 @@
             {
               "file_type": "pdf",
               "file_name": "Tommy 02022024.pdf",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/okCHEMtvJFFAZURAIlEDn5fwAABfgnLEBQ6Ig1.pdf?lk3s=cbe26b3a&x-expires=4832832613&x-signature=xH%2Fmt0jLiit7ZdO77xat74UlZ%2B0%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/okCHEMtvJFFAZURAIlEDn5fwAABfgnLEBQ6Ig1.pdf?lk3s=cbe26b3a&x-expires=4833273086&x-signature=fJPI0sCo3WvWCpTkJBZuAvctJzA%3D",
               "file_key": "tos-alisg-v-90231e-sg/okCHEMtvJFFAZURAIlEDn5fwAABfgnLEBQ6Ig1.pdf",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/okCHEMtvJFFAZURAIlEDn5fwAABfgnLEBQ6Ig1.pdf?lk3s=cbe26b3a&x-expires=4832832613&x-signature=xH%2Fmt0jLiit7ZdO77xat74UlZ%2B0%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/okCHEMtvJFFAZURAIlEDn5fwAABfgnLEBQ6Ig1.pdf?lk3s=cbe26b3a&x-expires=4833273086&x-signature=fJPI0sCo3WvWCpTkJBZuAvctJzA%3D",
               "biz_type": 2,
               "size": 165769
             }
@@ -379,7 +379,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Calvin,</p><p><br /></p><p>I see that the event_ids are not matching up, for example:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/40fe5bc414cc4b7e847e9ffae5d5ee5f.png\" height=\"354.779\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40fe5bc414cc4b7e847e9ffae5d5ee5f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832613&amp;x-signature=m9HxsLGdWOWMzwS8mXGzvYKUKYw%3D\" width=\"375\"><p>If event ids are matching up as expected for client- and server-side events, I would see a total of 2 events for each id, but as you can see there is only 1 reported here.</p><p><br /></p><p>Could you please ask the Tommy Hilfiger team to double-check they have completed the event matching step in Tealium? It is not an intuitive step and understandable they may have missed it. First, they should make sure they have enabled the setting to generate ids here:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/eed9b6d5834746c5b63802188d123310.png\" height=\"192.643\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eed9b6d5834746c5b63802188d123310.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832613&amp;x-signature=%2Fb6C8pfv92Dml%2BGFc%2F8J3jqLw9Q%3D\" width=\"375\"><p>Then, they will go into each event and map the Tealium and TikTok event names, for example for TikTok trigger 'AddToCart':</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/eef1474d457e4995aeb40c4f1bd2fc57.png\" height=\"195.905\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eef1474d457e4995aeb40c4f1bd2fc57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832613&amp;x-signature=49EXZfhqooA1tyVKFegUMEU38eA%3D\" width=\"375\"><p>should map to Tealium 'add_cart':</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/60553c7bf1cb410b9751a6686a57f7f1.png\" height=\"195.905\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/60553c7bf1cb410b9751a6686a57f7f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832613&amp;x-signature=3Qwlc3KnJ7Cly1sSpvcGl15dAzM%3D\" width=\"375\"><p>Ultimately the Data Settings modal with display the completed mappings:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ff331a8331f24ea3b629a7fb77544d90.png\" height=\"195.13\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff331a8331f24ea3b629a7fb77544d90.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832613&amp;x-signature=rTYlxYy788awMXpwCrYyhx%2F3190%3D\" width=\"375\"><p>If they have done this already, let me know and I will send further troubleshooting suggestions.</p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img></img>",
+          "content": "<p>Hi Calvin,</p><p><br /></p><p>I see that the event_ids are not matching up, for example:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/40fe5bc414cc4b7e847e9ffae5d5ee5f.png\" height=\"354.779\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40fe5bc414cc4b7e847e9ffae5d5ee5f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273086&amp;x-signature=%2BxNTfbe7GWcPGOauvESSiUxqveo%3D\" width=\"375\"><p>If event ids are matching up as expected for client- and server-side events, I would see a total of 2 events for each id, but as you can see there is only 1 reported here.</p><p><br /></p><p>Could you please ask the Tommy Hilfiger team to double-check they have completed the event matching step in Tealium? It is not an intuitive step and understandable they may have missed it. First, they should make sure they have enabled the setting to generate ids here:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/eed9b6d5834746c5b63802188d123310.png\" height=\"192.643\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eed9b6d5834746c5b63802188d123310.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273086&amp;x-signature=v7IdPr6Fs8%2FsbWzUZjzvFDdrOlc%3D\" width=\"375\"><p>Then, they will go into each event and map the Tealium and TikTok event names, for example for TikTok trigger 'AddToCart':</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/eef1474d457e4995aeb40c4f1bd2fc57.png\" height=\"195.905\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eef1474d457e4995aeb40c4f1bd2fc57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273086&amp;x-signature=%2F6dWjzxeqnFHa2xu7yQzjT3oCp8%3D\" width=\"375\"><p>should map to Tealium 'add_cart':</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/60553c7bf1cb410b9751a6686a57f7f1.png\" height=\"195.905\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/60553c7bf1cb410b9751a6686a57f7f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273086&amp;x-signature=XizHbge1L3N6zwU3FW0ggL31cTk%3D\" width=\"375\"><p>Ultimately the Data Settings modal with display the completed mappings:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ff331a8331f24ea3b629a7fb77544d90.png\" height=\"195.13\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff331a8331f24ea3b629a7fb77544d90.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273086&amp;x-signature=lp51121mTZ1LIEYxHKYUT0EfbSU%3D\" width=\"375\"><p>If they have done this already, let me know and I will send further troubleshooting suggestions.</p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -543,7 +543,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 327946,
+  "pending_time": 768419,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -717,9 +717,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8da1f4886fa0464e9ec72d947f4156ca.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832612&x-signature=OkS1QOH3XCVlMMKWB6gU15EEjzs%3D",
-          "file_name": "file_20240318_13_30_12_838679",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8da1f4886fa0464e9ec72d947f4156ca.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832612&x-signature=OkS1QOH3XCVlMMKWB6gU15EEjzs%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8da1f4886fa0464e9ec72d947f4156ca.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=l3j8%2F1EFFpmxL%2BLlU%2Fd37JwII%2FY%3D",
+          "file_name": "file_20240323_15_51_26_211348",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8da1f4886fa0464e9ec72d947f4156ca.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=l3j8%2F1EFFpmxL%2BLlU%2Fd37JwII%2FY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8da1f4886fa0464e9ec72d947f4156ca.jpeg",
           "file_type": "jpeg",
           "biz_type": 2
@@ -727,50 +727,50 @@
         {
           "file_type": "pdf",
           "file_name": "Tommy Hilfiger Events API Implementation Guide.pdf",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0DUKCFs7EDUFeAEDnAgfCEPlyAV1FyBQAMv8C.pdf?lk3s=cbe26b3a&x-expires=4832832612&x-signature=rJ9D9UteAC5jhbPXFus3o92Dfk0%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0DUKCFs7EDUFeAEDnAgfCEPlyAV1FyBQAMv8C.pdf?lk3s=cbe26b3a&x-expires=4833273086&x-signature=9dAgSprdKxJev16PeYHaMvYwujo%3D",
           "file_key": "tos-alisg-v-90231e-sg/o0DUKCFs7EDUFeAEDnAgfCEPlyAV1FyBQAMv8C.pdf",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0DUKCFs7EDUFeAEDnAgfCEPlyAV1FyBQAMv8C.pdf?lk3s=cbe26b3a&x-expires=4832832612&x-signature=rJ9D9UteAC5jhbPXFus3o92Dfk0%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0DUKCFs7EDUFeAEDnAgfCEPlyAV1FyBQAMv8C.pdf?lk3s=cbe26b3a&x-expires=4833273086&x-signature=9dAgSprdKxJev16PeYHaMvYwujo%3D",
           "biz_type": 2,
           "size": 460431
         },
         {
           "file_type": "pdf",
           "file_name": "Tommy_013024.pdf",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8QAAAM8eeeQwsNZfekbCAWe8AXMtLBYFtD8kk.pdf?lk3s=cbe26b3a&x-expires=4832832612&x-signature=GHBAwlYh5xkfkxTRPe4p2WYnndU%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8QAAAM8eeeQwsNZfekbCAWe8AXMtLBYFtD8kk.pdf?lk3s=cbe26b3a&x-expires=4833273086&x-signature=arjFcq3tLfB4hi%2BSEs02ah0BCZk%3D",
           "file_key": "tos-alisg-v-90231e-sg/o8QAAAM8eeeQwsNZfekbCAWe8AXMtLBYFtD8kk.pdf",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8QAAAM8eeeQwsNZfekbCAWe8AXMtLBYFtD8kk.pdf?lk3s=cbe26b3a&x-expires=4832832612&x-signature=GHBAwlYh5xkfkxTRPe4p2WYnndU%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8QAAAM8eeeQwsNZfekbCAWe8AXMtLBYFtD8kk.pdf?lk3s=cbe26b3a&x-expires=4833273086&x-signature=arjFcq3tLfB4hi%2BSEs02ah0BCZk%3D",
           "biz_type": 2,
           "size": 172142
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f81510f7e3842399dfdfdaf917c8d7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832612&x-signature=4pGD1fREogETZC9%2BFx%2BcmPBKzVE%3D",
-          "file_name": "file_20240318_13_30_13_010319",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f81510f7e3842399dfdfdaf917c8d7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832612&x-signature=4pGD1fREogETZC9%2BFx%2BcmPBKzVE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f81510f7e3842399dfdfdaf917c8d7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=iQMkBSxAKzJc1v418B72kTiv%2FK0%3D",
+          "file_name": "file_20240323_15_51_26_396821",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6f81510f7e3842399dfdfdaf917c8d7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=iQMkBSxAKzJc1v418B72kTiv%2FK0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/6f81510f7e3842399dfdfdaf917c8d7b.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7859119a8e05414ebfc76c2468013a77.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832612&x-signature=%2BSYZYPmXUR8yphXutH4MArP0%2BnU%3D",
-          "file_name": "file_20240318_13_30_13_010385",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7859119a8e05414ebfc76c2468013a77.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832612&x-signature=%2BSYZYPmXUR8yphXutH4MArP0%2BnU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7859119a8e05414ebfc76c2468013a77.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=IX%2FAXKtJMjWVmJnrbaEWxWcsv80%3D",
+          "file_name": "file_20240323_15_51_26_396911",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7859119a8e05414ebfc76c2468013a77.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=IX%2FAXKtJMjWVmJnrbaEWxWcsv80%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7859119a8e05414ebfc76c2468013a77.png",
-          "file_type": "jpeg",
+          "file_type": "csv",
           "biz_type": 2
         },
         {
           "file_type": "xlsx",
           "file_name": "281474987180428-temp_page-Query 08-17 12_25-Query 254.xlsx",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogAA0SEAIBgl69ufYhFQyYFWw3OKfUEZDCU1A5.xlsx?lk3s=cbe26b3a&x-expires=4832832612&x-signature=ySHDmbrMhIZWISU7jZPW2H%2BV5kY%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogAA0SEAIBgl69ufYhFQyYFWw3OKfUEZDCU1A5.xlsx?lk3s=cbe26b3a&x-expires=4833273086&x-signature=BXOItLWr2N%2BE4%2F0pf6qOp8hk4ws%3D",
           "file_key": "tos-alisg-v-90231e-sg/ogAA0SEAIBgl69ufYhFQyYFWw3OKfUEZDCU1A5.xlsx",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogAA0SEAIBgl69ufYhFQyYFWw3OKfUEZDCU1A5.xlsx?lk3s=cbe26b3a&x-expires=4832832612&x-signature=ySHDmbrMhIZWISU7jZPW2H%2BV5kY%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogAA0SEAIBgl69ufYhFQyYFWw3OKfUEZDCU1A5.xlsx?lk3s=cbe26b3a&x-expires=4833273086&x-signature=BXOItLWr2N%2BE4%2F0pf6qOp8hk4ws%3D",
           "biz_type": 2,
           "size": 1151027
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c651736313cb4030bba86f6d8b056659.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=3Wv5Pe1vvBfZaDlwVwPdet7Q5w0%3D",
-          "file_name": "file_20240318_13_30_13_096936",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c651736313cb4030bba86f6d8b056659.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=3Wv5Pe1vvBfZaDlwVwPdet7Q5w0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c651736313cb4030bba86f6d8b056659.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=lZIGR0aNZfD%2BSGt9Bk3yd%2FPNwvI%3D",
+          "file_name": "file_20240323_15_51_26_494698",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c651736313cb4030bba86f6d8b056659.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=lZIGR0aNZfD%2BSGt9Bk3yd%2FPNwvI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c651736313cb4030bba86f6d8b056659.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -778,49 +778,49 @@
         {
           "file_type": "pdf",
           "file_name": "Tommy 02022024.pdf",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/okCHEMtvJFFAZURAIlEDn5fwAABfgnLEBQ6Ig1.pdf?lk3s=cbe26b3a&x-expires=4832832613&x-signature=xH%2Fmt0jLiit7ZdO77xat74UlZ%2B0%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/okCHEMtvJFFAZURAIlEDn5fwAABfgnLEBQ6Ig1.pdf?lk3s=cbe26b3a&x-expires=4833273086&x-signature=fJPI0sCo3WvWCpTkJBZuAvctJzA%3D",
           "file_key": "tos-alisg-v-90231e-sg/okCHEMtvJFFAZURAIlEDn5fwAABfgnLEBQ6Ig1.pdf",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/okCHEMtvJFFAZURAIlEDn5fwAABfgnLEBQ6Ig1.pdf?lk3s=cbe26b3a&x-expires=4832832613&x-signature=xH%2Fmt0jLiit7ZdO77xat74UlZ%2B0%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/okCHEMtvJFFAZURAIlEDn5fwAABfgnLEBQ6Ig1.pdf?lk3s=cbe26b3a&x-expires=4833273086&x-signature=fJPI0sCo3WvWCpTkJBZuAvctJzA%3D",
           "biz_type": 2,
           "size": 165769
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eed9b6d5834746c5b63802188d123310.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=%2Fb6C8pfv92Dml%2BGFc%2F8J3jqLw9Q%3D",
-          "file_name": "file_20240318_13_30_13_200215",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eed9b6d5834746c5b63802188d123310.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=%2Fb6C8pfv92Dml%2BGFc%2F8J3jqLw9Q%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/eed9b6d5834746c5b63802188d123310.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/60553c7bf1cb410b9751a6686a57f7f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=XizHbge1L3N6zwU3FW0ggL31cTk%3D",
+          "file_name": "file_20240323_15_51_26_577029",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/60553c7bf1cb410b9751a6686a57f7f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=XizHbge1L3N6zwU3FW0ggL31cTk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/60553c7bf1cb410b9751a6686a57f7f1.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40fe5bc414cc4b7e847e9ffae5d5ee5f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=m9HxsLGdWOWMzwS8mXGzvYKUKYw%3D",
-          "file_name": "file_20240318_13_30_13_200283",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40fe5bc414cc4b7e847e9ffae5d5ee5f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=m9HxsLGdWOWMzwS8mXGzvYKUKYw%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/40fe5bc414cc4b7e847e9ffae5d5ee5f.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eef1474d457e4995aeb40c4f1bd2fc57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=49EXZfhqooA1tyVKFegUMEU38eA%3D",
-          "file_name": "file_20240318_13_30_13_200300",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eef1474d457e4995aeb40c4f1bd2fc57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=49EXZfhqooA1tyVKFegUMEU38eA%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/eef1474d457e4995aeb40c4f1bd2fc57.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff331a8331f24ea3b629a7fb77544d90.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=rTYlxYy788awMXpwCrYyhx%2F3190%3D",
-          "file_name": "file_20240318_13_30_13_200318",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff331a8331f24ea3b629a7fb77544d90.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=rTYlxYy788awMXpwCrYyhx%2F3190%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff331a8331f24ea3b629a7fb77544d90.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=lp51121mTZ1LIEYxHKYUT0EfbSU%3D",
+          "file_name": "file_20240323_15_51_26_577093",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff331a8331f24ea3b629a7fb77544d90.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=lp51121mTZ1LIEYxHKYUT0EfbSU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ff331a8331f24ea3b629a7fb77544d90.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/60553c7bf1cb410b9751a6686a57f7f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=3Qwlc3KnJ7Cly1sSpvcGl15dAzM%3D",
-          "file_name": "file_20240318_13_30_13_200348",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/60553c7bf1cb410b9751a6686a57f7f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832613&x-signature=3Qwlc3KnJ7Cly1sSpvcGl15dAzM%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/60553c7bf1cb410b9751a6686a57f7f1.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eed9b6d5834746c5b63802188d123310.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=v7IdPr6Fs8%2FsbWzUZjzvFDdrOlc%3D",
+          "file_name": "file_20240323_15_51_26_577118",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eed9b6d5834746c5b63802188d123310.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=v7IdPr6Fs8%2FsbWzUZjzvFDdrOlc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/eed9b6d5834746c5b63802188d123310.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eef1474d457e4995aeb40c4f1bd2fc57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=%2F6dWjzxeqnFHa2xu7yQzjT3oCp8%3D",
+          "file_name": "file_20240323_15_51_26_577137",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/eef1474d457e4995aeb40c4f1bd2fc57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=%2F6dWjzxeqnFHa2xu7yQzjT3oCp8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/eef1474d457e4995aeb40c4f1bd2fc57.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40fe5bc414cc4b7e847e9ffae5d5ee5f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=%2BxNTfbe7GWcPGOauvESSiUxqveo%3D",
+          "file_name": "file_20240323_15_51_26_577156",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/40fe5bc414cc4b7e847e9ffae5d5ee5f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273086&x-signature=%2BxNTfbe7GWcPGOauvESSiUxqveo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/40fe5bc414cc4b7e847e9ffae5d5ee5f.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

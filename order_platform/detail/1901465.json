@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1708982454,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi,</p><ul><li>the <strong>dedup rate</strong> for all the events are very low:</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/80124a4d2d1c432e908b51fa4984df27.png\" height=\"271.493\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80124a4d2d1c432e908b51fa4984df27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838271&amp;x-signature=QwZ%2FBDMmyq93zLT2Up5A%2F3uwX8s%3D\" width=\"375\"><p>We recommend at least 80% for each event.</p><p><br /></p><ul><li><strong>Parameter: </strong> They should send content_id, content_type, value and currency for ViewContent, AddToCart, initiateCheckout and CompletePayment events<br> </br></li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/50b9d8c7208f4159bcbc5eeab9062425.png\" height=\"250\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b9d8c7208f4159bcbc5eeab9062425.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838271&amp;x-signature=PABRvRzAWwkXCAAiCjuLdKnNYW8%3D\" width=\"375\"><p>This happens when the event_id from derver signals do not match with the web signals.</p><p><br /></p><ul><li>They are also sending PIIs for only 84% of CompletePayment events. They should send for 100% of the events.</li></ul><p><br /></p><p>Please schedule a call if more technical assistance is needed</p><p><br /></p><p>Use this link to schedule meeting on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img></img>",
+          "content": "<p>Hi,</p><ul><li>the <strong>dedup rate</strong> for all the events are very low:</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/80124a4d2d1c432e908b51fa4984df27.png\" height=\"271.493\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80124a4d2d1c432e908b51fa4984df27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273787&amp;x-signature=RXs0vfacxnXg9LUseanBCbltlyA%3D\" width=\"375\"><p>We recommend at least 80% for each event.</p><p><br /></p><ul><li><strong>Parameter: </strong> They should send content_id, content_type, value and currency for ViewContent, AddToCart, initiateCheckout and CompletePayment events<br> </br></li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/50b9d8c7208f4159bcbc5eeab9062425.png\" height=\"250\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b9d8c7208f4159bcbc5eeab9062425.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273787&amp;x-signature=9RWvscRQ9DayMT65K4LNn1phdiY%3D\" width=\"375\"><p>This happens when the event_id from derver signals do not match with the web signals.</p><p><br /></p><ul><li>They are also sending PIIs for only 84% of CompletePayment events. They should send for 100% of the events.</li></ul><p><br /></p><p>Please schedule a call if more technical assistance is needed</p><p><br /></p><p>Use this link to schedule meeting on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img></img>",
           "type": 6
         }
       ],
@@ -157,18 +157,18 @@
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-03-01 at 2.12.01 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=rWXZGjto9dVWEZDOc10s0Ptn%2FLc%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273787&x-signature=P4omxCJ3dO0yyCgVAgqq%2FIxSKB4%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=rWXZGjto9dVWEZDOc10s0Ptn%2FLc%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273787&x-signature=P4omxCJ3dO0yyCgVAgqq%2FIxSKB4%3D",
               "biz_type": 2,
               "size": 154763
             },
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-03-01 at 2.12.10 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=PQem9hmE14SQtGqS6CVYUeRVDdE%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273787&x-signature=QoZnaut1onXZeAYYCG4%2FE51TKWQ%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=PQem9hmE14SQtGqS6CVYUeRVDdE%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273787&x-signature=QoZnaut1onXZeAYYCG4%2FE51TKWQ%3D",
               "biz_type": 2,
               "size": 146383
             }
@@ -338,7 +338,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1194197,
+  "pending_time": 1629712,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -512,17 +512,17 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b9d8c7208f4159bcbc5eeab9062425.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=PABRvRzAWwkXCAAiCjuLdKnNYW8%3D",
-          "file_name": "file_20240318_15_04_31_743257",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b9d8c7208f4159bcbc5eeab9062425.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=PABRvRzAWwkXCAAiCjuLdKnNYW8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b9d8c7208f4159bcbc5eeab9062425.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273787&x-signature=9RWvscRQ9DayMT65K4LNn1phdiY%3D",
+          "file_name": "file_20240323_16_03_07_081972",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/50b9d8c7208f4159bcbc5eeab9062425.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273787&x-signature=9RWvscRQ9DayMT65K4LNn1phdiY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/50b9d8c7208f4159bcbc5eeab9062425.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80124a4d2d1c432e908b51fa4984df27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=QwZ%2FBDMmyq93zLT2Up5A%2F3uwX8s%3D",
-          "file_name": "file_20240318_15_04_31_743320",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80124a4d2d1c432e908b51fa4984df27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=QwZ%2FBDMmyq93zLT2Up5A%2F3uwX8s%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80124a4d2d1c432e908b51fa4984df27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273787&x-signature=RXs0vfacxnXg9LUseanBCbltlyA%3D",
+          "file_name": "file_20240323_16_03_07_082056",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/80124a4d2d1c432e908b51fa4984df27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273787&x-signature=RXs0vfacxnXg9LUseanBCbltlyA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/80124a4d2d1c432e908b51fa4984df27.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -530,18 +530,18 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-01 at 2.12.01 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=rWXZGjto9dVWEZDOc10s0Ptn%2FLc%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273787&x-signature=P4omxCJ3dO0yyCgVAgqq%2FIxSKB4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=rWXZGjto9dVWEZDOc10s0Ptn%2FLc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0397409e1cd545aebc5bd8e37e92b7ba.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273787&x-signature=P4omxCJ3dO0yyCgVAgqq%2FIxSKB4%3D",
           "biz_type": 2,
           "size": 154763
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-01 at 2.12.10 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=PQem9hmE14SQtGqS6CVYUeRVDdE%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273787&x-signature=QoZnaut1onXZeAYYCG4%2FE51TKWQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838271&x-signature=PQem9hmE14SQtGqS6CVYUeRVDdE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/778be03a32ff49d6a76388a456362848.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273787&x-signature=QoZnaut1onXZeAYYCG4%2FE51TKWQ%3D",
           "biz_type": 2,
           "size": 146383
         }

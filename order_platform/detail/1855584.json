@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Sheryl,</p><p><br /></p><p>I took a look at your client's website/landing page and I couldn't get to the form they were showing in the screenshot. Nothing seems to happen once I get to this part of the process and hit \"Get Searching\":</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3dd69ecb0bb24c1fb1b16a0fbf15d1cc.png\" height=\"319.615\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3dd69ecb0bb24c1fb1b16a0fbf15d1cc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837695&amp;x-signature=fOfwLmTmDBYKZvpON%2BYfX2zRw%2BU%3D\" width=\"375\"><p><br /></p><p>From a distance I would say that capturing the data from the registration form (iform) would be possible but probably would require some dev work. </p><p><br /></p><p>I also don't currently see a Pixel on their site so unsure if they were planning to implement one, or use a tag manager, or perhaps Events API etc. </p><p><br /></p><p>The way to setup the email capture would differ depending on their implementation method. </p><p><br /></p><p>Happy to answer any other questions you or your client may have. </p><p><br /></p><p>Thomas</p></img>",
+          "content": "<p>Hi Sheryl,</p><p><br /></p><p>I took a look at your client's website/landing page and I couldn't get to the form they were showing in the screenshot. Nothing seems to happen once I get to this part of the process and hit \"Get Searching\":</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3dd69ecb0bb24c1fb1b16a0fbf15d1cc.png\" height=\"319.615\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3dd69ecb0bb24c1fb1b16a0fbf15d1cc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273286&amp;x-signature=gQKsluNU%2Bruq0YiSEmLQmw3Cggc%3D\" width=\"375\"><p><br /></p><p>From a distance I would say that capturing the data from the registration form (iform) would be possible but probably would require some dev work. </p><p><br /></p><p>I also don't currently see a Pixel on their site so unsure if they were planning to implement one, or use a tag manager, or perhaps Events API etc. </p><p><br /></p><p>The way to setup the email capture would differ depending on their implementation method. </p><p><br /></p><p>Happy to answer any other questions you or your client may have. </p><p><br /></p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -328,7 +328,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2930830,
+  "pending_time": 3366420,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -504,15 +504,15 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-02 at 3.12.38 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d9b837aa5bf148d2a39cd9eba01f1171.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837695&x-signature=FQkp578Mi9s6FSoErQ1fGcfs1j8%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d9b837aa5bf148d2a39cd9eba01f1171.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273286&x-signature=DtIvnz78TukbDQCjmH9aAPVyVt8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d9b837aa5bf148d2a39cd9eba01f1171.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d9b837aa5bf148d2a39cd9eba01f1171.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837695&x-signature=FQkp578Mi9s6FSoErQ1fGcfs1j8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d9b837aa5bf148d2a39cd9eba01f1171.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273286&x-signature=DtIvnz78TukbDQCjmH9aAPVyVt8%3D",
           "size": 2033466
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3dd69ecb0bb24c1fb1b16a0fbf15d1cc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837695&x-signature=fOfwLmTmDBYKZvpON%2BYfX2zRw%2BU%3D",
-          "file_name": "file_20240318_14_54_55_888302",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3dd69ecb0bb24c1fb1b16a0fbf15d1cc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837695&x-signature=fOfwLmTmDBYKZvpON%2BYfX2zRw%2BU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3dd69ecb0bb24c1fb1b16a0fbf15d1cc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273286&x-signature=gQKsluNU%2Bruq0YiSEmLQmw3Cggc%3D",
+          "file_name": "file_20240323_15_54_46_450378",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3dd69ecb0bb24c1fb1b16a0fbf15d1cc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273286&x-signature=gQKsluNU%2Bruq0YiSEmLQmw3Cggc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/3dd69ecb0bb24c1fb1b16a0fbf15d1cc.png",
           "file_type": "jpeg",
           "biz_type": 2

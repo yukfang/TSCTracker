@@ -1,0 +1,13 @@
+[
+  {
+    "id": "38200000082",
+    "name": "Open Status",
+    "sub_tags": [
+      {
+        "id": "38300000170",
+        "name": "In-Progress"
+      }
+    ],
+    "color": "#f5a623"
+  }
+]

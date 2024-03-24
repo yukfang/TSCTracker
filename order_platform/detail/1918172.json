@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hello GG!</p><p>Yes - can confirm that I am seeing the same thing as you are. The AddPaymentInfo event is firing but is missing a number of parameters:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f2eece7408384410bca90b423d6f5eda.png\" height=\"194.089\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f2eece7408384410bca90b423d6f5eda.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838431&amp;x-signature=%2Fe0VR1FSBJXZuprS%2F8IACsjMPWw%3D\" width=\"375\"><p>Also confirming that it is OK that the AddPaymentInfo event is not passing back complete product/item metadata. Not having this data will not cause anything to break and the user journey/flow will not be interrupted. The most critical thing here is that the TikTok Pixel Base code loads throughout the user journey and loads on every page a user accesses. It will also be critical that the three main events of ViewContent, AddToCart, and CompletePayment are firing properly, which they are!</p><p>If we know for a fact that they won't be running VSA, then it will actually be OK if they don't have complete parameter data. The main thing they will only be missing out in this scenario is ROAS reporting across the funnel events if they aren't passing back a value parameter. </p><p>For example: their ViewContent event is firing on the PDP page but is not setup to pass back any product information parameters:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b9077c1932cd4b81b14a61e9ffdb6750.png\" height=\"198.435\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9077c1932cd4b81b14a61e9ffdb6750.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838431&amp;x-signature=se1Hvi37txgo9rvXy9cwdbJcKAI%3D\" width=\"375\"><p>However, their AddToCart event is setup correctly and is passing back the requested product information parameters:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a2ba09c1ec334e06ab3422d5e28c49c6.png\" height=\"159.787\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a2ba09c1ec334e06ab3422d5e28c49c6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838431&amp;x-signature=mFcQ3hwyhYsVsE4tjKb4DwQgWTs%3D\" width=\"375\"><p>AddPaymentInfo is passing back incomplete parameter data:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8ecaff7d36824eb89280af53e4079797.png\" height=\"198.65\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ecaff7d36824eb89280af53e4079797.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838431&amp;x-signature=aS8xsRbOg90hEQRGi%2FCmTMwBQuc%3D\" width=\"375\"><p>Again, not a critical concern to have incomplete parameter data as funnel events are firing where anticipated, but it should actually be a relatively easy fix if they want to have their event metadata to be uniform.</p><p>Thanks!</p><p>Robbie</p></img></img></img></img>",
+          "content": "<p>Hello GG!</p><p>Yes - can confirm that I am seeing the same thing as you are. The AddPaymentInfo event is firing but is missing a number of parameters:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f2eece7408384410bca90b423d6f5eda.png\" height=\"194.089\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f2eece7408384410bca90b423d6f5eda.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273954&amp;x-signature=HA5lzjip8Q%2FVRy0L8xmirNmooQc%3D\" width=\"375\"><p>Also confirming that it is OK that the AddPaymentInfo event is not passing back complete product/item metadata. Not having this data will not cause anything to break and the user journey/flow will not be interrupted. The most critical thing here is that the TikTok Pixel Base code loads throughout the user journey and loads on every page a user accesses. It will also be critical that the three main events of ViewContent, AddToCart, and CompletePayment are firing properly, which they are!</p><p>If we know for a fact that they won't be running VSA, then it will actually be OK if they don't have complete parameter data. The main thing they will only be missing out in this scenario is ROAS reporting across the funnel events if they aren't passing back a value parameter. </p><p>For example: their ViewContent event is firing on the PDP page but is not setup to pass back any product information parameters:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b9077c1932cd4b81b14a61e9ffdb6750.png\" height=\"198.435\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9077c1932cd4b81b14a61e9ffdb6750.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273954&amp;x-signature=j6HTCdcpXwlnuc0ikvyU5tgeBG0%3D\" width=\"375\"><p>However, their AddToCart event is setup correctly and is passing back the requested product information parameters:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a2ba09c1ec334e06ab3422d5e28c49c6.png\" height=\"159.787\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a2ba09c1ec334e06ab3422d5e28c49c6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273954&amp;x-signature=liQpkLlNF9jinbu9XaaA%2FoF%2Bc7U%3D\" width=\"375\"><p>AddPaymentInfo is passing back incomplete parameter data:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8ecaff7d36824eb89280af53e4079797.png\" height=\"198.65\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ecaff7d36824eb89280af53e4079797.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273954&amp;x-signature=IE%2FEy1Ms3YjgEDHdn5ZPZ2Zf%2FtY%3D\" width=\"375\"><p>Again, not a critical concern to have incomplete parameter data as funnel events are firing where anticipated, but it should actually be a relatively easy fix if they want to have their event metadata to be uniform.</p><p>Thanks!</p><p>Robbie</p></img></img></img></img>",
           "type": 6
         }
       ],
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi GG,</p><p>Apologies, it wasn't clear in the ticket body that you would like to have PII investigated. Event coverage can mean parameter coverage or PII.</p><p>It looks like they are at 100% PII coverage for the following events:</p><ul><li>InitiateCheckout</li><li>AddPaymentInfo</li><li>CompletePayment</li><li>Subscribe</li><li>PlaceAnOrder</li></ul><p>It is only the ViewContent event that does not appear to be passing back any hashed PII and is reporting a 0% event coverage rate</p><p>The only diagnostics flag regarding hashed PII is for phone number in the CompletePayment event:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3dae17bc87df440cb869fa5ac4003a81.png\" height=\"102.589\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3dae17bc87df440cb869fa5ac4003a81.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838431&amp;x-signature=45irvbZDF%2Fm0FGcZ54Ay23Mlu7g%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
+          "content": "<p>Hi GG,</p><p>Apologies, it wasn't clear in the ticket body that you would like to have PII investigated. Event coverage can mean parameter coverage or PII.</p><p>It looks like they are at 100% PII coverage for the following events:</p><ul><li>InitiateCheckout</li><li>AddPaymentInfo</li><li>CompletePayment</li><li>Subscribe</li><li>PlaceAnOrder</li></ul><p>It is only the ViewContent event that does not appear to be passing back any hashed PII and is reporting a 0% event coverage rate</p><p>The only diagnostics flag regarding hashed PII is for phone number in the CompletePayment event:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3dae17bc87df440cb869fa5ac4003a81.png\" height=\"102.589\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3dae17bc87df440cb869fa5ac4003a81.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273954&amp;x-signature=rwh7Vpd4ouvQNGROux3aguxXb5E%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
           "type": 6
         }
       ],
@@ -99,9 +99,9 @@
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-03-05 at 4.58.49 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b3bfb7894fe47498234bec21df011ee.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=SYVOM4FAtuoi3kvSH3%2F9fFiVAbo%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b3bfb7894fe47498234bec21df011ee.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=2hf5lOMApnlafpNVFZj39%2Fz0e7A%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/5b3bfb7894fe47498234bec21df011ee.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b3bfb7894fe47498234bec21df011ee.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=SYVOM4FAtuoi3kvSH3%2F9fFiVAbo%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b3bfb7894fe47498234bec21df011ee.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=2hf5lOMApnlafpNVFZj39%2Fz0e7A%3D",
               "biz_type": 2,
               "size": 343416
             }
@@ -134,7 +134,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi GG,</p><p>Yes, we would be OK without the ViewContent passing the hashed PII but I would still really push for them to get it setup. It's an upper funnel event so the impact won't be as big if they weren't providing it for their lower funnel events which they are! There is just a very high likelihood that a user will be logged in and have credentials for Blizzard to send us and we wouldn't want to leave any possible signals and any potential performance gains on the table.</p><p>The critical thing here is that we have the hashed email addresses and we wouldn't be able to expect a hashed phone number to be present with each event and logged in user. Blizzard and Battle.net leverages the Email address and External ID throughout the site. The only occassion a user would have a phone number tied to their account is if they are using the Battle.net mobile app for 2-factor authentication</p><p>Regarding the PlaceAnOrder event - was it supposed to be tracking all WoW related purchases or just WoW subscriptions? Regardless it looks like the PlaceAnOrder event may be double firing. Here is an example of a PlaceAnOrder event firing milliseconds within each other and this purchase was for Overwatch League Tokens (VC) - 200 VC (not World of Warcraft related!)</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e967f3964286462bba55c317be333d68.png\" height=\"12.325\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e967f3964286462bba55c317be333d68.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838431&amp;x-signature=mzd%2B2zuihbGYqcOr8RE4T7MoWyY%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
+          "content": "<p>Hi GG,</p><p>Yes, we would be OK without the ViewContent passing the hashed PII but I would still really push for them to get it setup. It's an upper funnel event so the impact won't be as big if they weren't providing it for their lower funnel events which they are! There is just a very high likelihood that a user will be logged in and have credentials for Blizzard to send us and we wouldn't want to leave any possible signals and any potential performance gains on the table.</p><p>The critical thing here is that we have the hashed email addresses and we wouldn't be able to expect a hashed phone number to be present with each event and logged in user. Blizzard and Battle.net leverages the Email address and External ID throughout the site. The only occassion a user would have a phone number tied to their account is if they are using the Battle.net mobile app for 2-factor authentication</p><p>Regarding the PlaceAnOrder event - was it supposed to be tracking all WoW related purchases or just WoW subscriptions? Regardless it looks like the PlaceAnOrder event may be double firing. Here is an example of a PlaceAnOrder event firing milliseconds within each other and this purchase was for Overwatch League Tokens (VC) - 200 VC (not World of Warcraft related!)</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e967f3964286462bba55c317be333d68.png\" height=\"12.325\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e967f3964286462bba55c317be333d68.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273954&amp;x-signature=wWgcZw%2FkfM6Jm1NboyBGN3hZa8k%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
           "type": 6
         }
       ],
@@ -160,7 +160,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_9f04c438-16e0-4f32-b939-2b28718b0f4g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_9f04c438-16e0-4f32-b939-2b28718b0f4g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 6,
   "current_role": null,
@@ -342,7 +342,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1016621,
+  "pending_time": 1452145,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -519,63 +519,63 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-04 at 6.45.47 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d1f500bdb554d08a94f732e9cbee33a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=cysQCuCeSxFXAzvtx5RYAR3fePA%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d1f500bdb554d08a94f732e9cbee33a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=rQLAtQry8C3vUbCsyCqgOd6F0Yg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4d1f500bdb554d08a94f732e9cbee33a.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d1f500bdb554d08a94f732e9cbee33a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=cysQCuCeSxFXAzvtx5RYAR3fePA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d1f500bdb554d08a94f732e9cbee33a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=rQLAtQry8C3vUbCsyCqgOd6F0Yg%3D",
           "size": 1137258
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-04 at 6.48.18 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a22f400bfa93490b9e796f4e37890a33.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=KFCYg%2BH6Sj24wEQjMhsllcoMwtM%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a22f400bfa93490b9e796f4e37890a33.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=H5o5ZBfkV4WyxFLlUNDUPlwlCBA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/a22f400bfa93490b9e796f4e37890a33.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a22f400bfa93490b9e796f4e37890a33.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=KFCYg%2BH6Sj24wEQjMhsllcoMwtM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a22f400bfa93490b9e796f4e37890a33.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=H5o5ZBfkV4WyxFLlUNDUPlwlCBA%3D",
           "size": 1115176
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-04 at 6.47.52 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7312f46c834c4144a3b43d29a57f46ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=edFKBIdaeJyXU2%2B4sc0%2FQBekxPE%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7312f46c834c4144a3b43d29a57f46ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=xrlQ0hPguNqoBAYykdKm03M08rw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7312f46c834c4144a3b43d29a57f46ce.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7312f46c834c4144a3b43d29a57f46ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=edFKBIdaeJyXU2%2B4sc0%2FQBekxPE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7312f46c834c4144a3b43d29a57f46ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=xrlQ0hPguNqoBAYykdKm03M08rw%3D",
           "size": 148951
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f2eece7408384410bca90b423d6f5eda.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=%2Fe0VR1FSBJXZuprS%2F8IACsjMPWw%3D",
-          "file_name": "file_20240318_15_07_11_495813",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f2eece7408384410bca90b423d6f5eda.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=%2Fe0VR1FSBJXZuprS%2F8IACsjMPWw%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/f2eece7408384410bca90b423d6f5eda.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a2ba09c1ec334e06ab3422d5e28c49c6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=mFcQ3hwyhYsVsE4tjKb4DwQgWTs%3D",
-          "file_name": "file_20240318_15_07_11_495920",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a2ba09c1ec334e06ab3422d5e28c49c6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=mFcQ3hwyhYsVsE4tjKb4DwQgWTs%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/a2ba09c1ec334e06ab3422d5e28c49c6.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ecaff7d36824eb89280af53e4079797.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=aS8xsRbOg90hEQRGi%2FCmTMwBQuc%3D",
-          "file_name": "file_20240318_15_07_11_495942",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ecaff7d36824eb89280af53e4079797.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=aS8xsRbOg90hEQRGi%2FCmTMwBQuc%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/8ecaff7d36824eb89280af53e4079797.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9077c1932cd4b81b14a61e9ffdb6750.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=se1Hvi37txgo9rvXy9cwdbJcKAI%3D",
-          "file_name": "file_20240318_15_07_11_495957",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9077c1932cd4b81b14a61e9ffdb6750.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=se1Hvi37txgo9rvXy9cwdbJcKAI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9077c1932cd4b81b14a61e9ffdb6750.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=j6HTCdcpXwlnuc0ikvyU5tgeBG0%3D",
+          "file_name": "file_20240323_16_05_54_884448",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b9077c1932cd4b81b14a61e9ffdb6750.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=j6HTCdcpXwlnuc0ikvyU5tgeBG0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b9077c1932cd4b81b14a61e9ffdb6750.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3dae17bc87df440cb869fa5ac4003a81.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=45irvbZDF%2Fm0FGcZ54Ay23Mlu7g%3D",
-          "file_name": "file_20240318_15_07_11_535737",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3dae17bc87df440cb869fa5ac4003a81.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=45irvbZDF%2Fm0FGcZ54Ay23Mlu7g%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f2eece7408384410bca90b423d6f5eda.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=HA5lzjip8Q%2FVRy0L8xmirNmooQc%3D",
+          "file_name": "file_20240323_16_05_54_884518",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f2eece7408384410bca90b423d6f5eda.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=HA5lzjip8Q%2FVRy0L8xmirNmooQc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f2eece7408384410bca90b423d6f5eda.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a2ba09c1ec334e06ab3422d5e28c49c6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=liQpkLlNF9jinbu9XaaA%2FoF%2Bc7U%3D",
+          "file_name": "file_20240323_16_05_54_884535",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a2ba09c1ec334e06ab3422d5e28c49c6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=liQpkLlNF9jinbu9XaaA%2FoF%2Bc7U%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a2ba09c1ec334e06ab3422d5e28c49c6.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ecaff7d36824eb89280af53e4079797.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=IE%2FEy1Ms3YjgEDHdn5ZPZ2Zf%2FtY%3D",
+          "file_name": "file_20240323_16_05_54_884550",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8ecaff7d36824eb89280af53e4079797.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=IE%2FEy1Ms3YjgEDHdn5ZPZ2Zf%2FtY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8ecaff7d36824eb89280af53e4079797.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3dae17bc87df440cb869fa5ac4003a81.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=rwh7Vpd4ouvQNGROux3aguxXb5E%3D",
+          "file_name": "file_20240323_16_05_54_916491",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3dae17bc87df440cb869fa5ac4003a81.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=rwh7Vpd4ouvQNGROux3aguxXb5E%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/3dae17bc87df440cb869fa5ac4003a81.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -583,16 +583,16 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-05 at 4.58.49 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b3bfb7894fe47498234bec21df011ee.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=SYVOM4FAtuoi3kvSH3%2F9fFiVAbo%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b3bfb7894fe47498234bec21df011ee.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=2hf5lOMApnlafpNVFZj39%2Fz0e7A%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5b3bfb7894fe47498234bec21df011ee.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b3bfb7894fe47498234bec21df011ee.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=SYVOM4FAtuoi3kvSH3%2F9fFiVAbo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b3bfb7894fe47498234bec21df011ee.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=2hf5lOMApnlafpNVFZj39%2Fz0e7A%3D",
           "biz_type": 2,
           "size": 343416
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e967f3964286462bba55c317be333d68.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=mzd%2B2zuihbGYqcOr8RE4T7MoWyY%3D",
-          "file_name": "file_20240318_15_07_11_684381",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e967f3964286462bba55c317be333d68.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838431&x-signature=mzd%2B2zuihbGYqcOr8RE4T7MoWyY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e967f3964286462bba55c317be333d68.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=wWgcZw%2FkfM6Jm1NboyBGN3hZa8k%3D",
+          "file_name": "file_20240323_16_05_55_030907",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e967f3964286462bba55c317be333d68.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273954&x-signature=wWgcZw%2FkfM6Jm1NboyBGN3hZa8k%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e967f3964286462bba55c317be333d68.png",
           "file_type": "jpeg",
           "biz_type": 2

@@ -39,6 +39,37 @@
       ],
       "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_0162c1d8-09aa-4ff3-8f25-99db332d7bhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710930626,
+      "auto_close_hit": 0,
+      "id": 7348389257980969000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "فانيسا شربل نجم",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7163931413875328002",
+      "name": "فانيسا شربل نجم",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><strong>[Status Update]</strong><br><br><strong>Client call March 20</strong></p><p><br>We added events: View Content (on Villas and Residences pages), Submit Form, Contact (on whatsapp and mobile buttons)</p><li>Submit Form is working and is sending Manual AM</li><li>View Content was a bit challenging as the website does not refresh on each page</li><li>We needed to test the Contact event, but will do for next time</li><li>We explained the GTM server events + we created the server container</li><p>Next steps:</p><ul><li>I will check the View Content event not firing when first landing on the specific pages</li><li>The client will have to configure the tagging server from their side and then we can implement the server events</li></ul>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_0162c1d8-09aa-4ff3-8f25-99db332d7bhu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -66,7 +97,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1710193544,
+  "update_time": 1710930626,
   "owner_name": "Gaby Bekhaazi",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -241,7 +272,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 580995,
+  "pending_time": 279442,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [

@@ -97,6 +97,35 @@
       ],
       "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_1c2e82fc-29c6-49c2-bfed-eaabe7eec2hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710954789,
+      "auto_close_hit": 0,
+      "id": 7348494522675937000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Teresa Gualla",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6955405050551321602",
+      "name": "Teresa Gualla",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Miguel - I&#39;ve checked and the match rate for the MAM seems increased - could you please check if everything now it&#39;s right? If not, we need to ask the agency to fix everything, otherwise we can&#39;t grant them the API AdCredit. Many thanks</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_1c2e82fc-29c6-49c2-bfed-eaabe7eec2hu~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -126,7 +155,7 @@
   "fd_permission": 1,
   "status": 2,
   "business_data": [],
-  "update_time": 1710770180,
+  "update_time": 1710954789,
   "owner_name": "Teresa Gualla",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -228,7 +257,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 403404,
+  "pending_time": 838934,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [

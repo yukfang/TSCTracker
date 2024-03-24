@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354674",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Ganesh Radhakrishnan",
   "create_time": 1709082400,
   "deadline": 0,
@@ -68,6 +68,35 @@
       ],
       "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711067231,
+      "auto_close_hit": 0,
+      "id": 7348966152921891000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Ganesh Radhakrishnan",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7122646193918428161",
+      "name": "Ganesh Radhakrishnan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>[Status Update] MPO + AM had a call with client. MPO suggested the below,</p><p>1) Modified the configuration (included tag sequencing) for CompletePayment as it wasn&#39;t getting recorded. If this doesn&#39;t work, have asked agency to find a means to create dummy txn so we can test it out.</p><p>2) Recommended client to pass AM parameters email &amp; phone number. But client claims they don&#39;t have it in GTM. Have asked to check wider team and suggested the benefits of AM.</p><p>3) Proposed S2S tracking via GTM. Client admits they are a bit behind on S2S tracking for other platforms as well. MPO has passed the documentation for it.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -95,7 +124,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1709083943,
+  "update_time": 1711067230,
   "owner_name": "Bill Barker",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -270,7 +299,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1690369,
+  "pending_time": 142597,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354674",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1706632947,
   "deadline": 0,
@@ -41,9 +41,9 @@
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-01-30 at 9.38.28 AM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4119f7262f824e26864798b14089b42e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833011&x-signature=zL8yFGwTitYyEdqS%2FguNnbxnvuE%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4119f7262f824e26864798b14089b42e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273201&x-signature=w0vrGVbXNUUebiCcZzhvfUPI0ZI%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/4119f7262f824e26864798b14089b42e.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4119f7262f824e26864798b14089b42e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833011&x-signature=zL8yFGwTitYyEdqS%2FguNnbxnvuE%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4119f7262f824e26864798b14089b42e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273201&x-signature=w0vrGVbXNUUebiCcZzhvfUPI0ZI%3D",
               "biz_type": 2,
               "size": 339705
             }
@@ -134,7 +134,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi, I checked only lower funnel events (InitiateCheckout, CompletePayment ) are coming in for this pixel.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/85375f7a61e14806bef7848d09f4952a.png\" height=\"184.069\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85375f7a61e14806bef7848d09f4952a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833011&amp;x-signature=SbOTM7hkYuSmlUnOlR9pW8Se50Y%3D\" width=\"375\"><p>and those seem to be working if you initiate a checkout </p><p>https://checkout.satechi.net/15204366/checkouts/9db382a8739c549ea7144ac2987a0810?discount=POINTSUBA010B0</p><p>Sometimes, shopify pixel does not work with custom themes, they can try disconnect and reconnecting but if that does not work, they would need to implement pixel using custom code</p></img>",
+          "content": "<p>Hi, I checked only lower funnel events (InitiateCheckout, CompletePayment ) are coming in for this pixel.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/85375f7a61e14806bef7848d09f4952a.png\" height=\"184.069\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85375f7a61e14806bef7848d09f4952a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273201&amp;x-signature=YYm5I0BTMbM70O3FRuWFt4a8XQ8%3D\" width=\"375\"><p>and those seem to be working if you initiate a checkout </p><p>https://checkout.satechi.net/15204366/checkouts/9db382a8739c549ea7144ac2987a0810?discount=POINTSUBA010B0</p><p>Sometimes, shopify pixel does not work with custom themes, they can try disconnect and reconnecting but if that does not work, they would need to implement pixel using custom code</p></img>",
           "type": 6
         }
       ],
@@ -547,7 +547,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1706438,
+  "pending_time": 2146629,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -723,16 +723,16 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-30 at 9.38.28 AM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4119f7262f824e26864798b14089b42e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833011&x-signature=zL8yFGwTitYyEdqS%2FguNnbxnvuE%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4119f7262f824e26864798b14089b42e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273201&x-signature=w0vrGVbXNUUebiCcZzhvfUPI0ZI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4119f7262f824e26864798b14089b42e.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4119f7262f824e26864798b14089b42e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833011&x-signature=zL8yFGwTitYyEdqS%2FguNnbxnvuE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4119f7262f824e26864798b14089b42e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273201&x-signature=w0vrGVbXNUUebiCcZzhvfUPI0ZI%3D",
           "biz_type": 2,
           "size": 339705
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85375f7a61e14806bef7848d09f4952a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833011&x-signature=SbOTM7hkYuSmlUnOlR9pW8Se50Y%3D",
-          "file_name": "file_20240318_13_36_51_178828",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85375f7a61e14806bef7848d09f4952a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833011&x-signature=SbOTM7hkYuSmlUnOlR9pW8Se50Y%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85375f7a61e14806bef7848d09f4952a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273201&x-signature=YYm5I0BTMbM70O3FRuWFt4a8XQ8%3D",
+          "file_name": "file_20240323_15_53_21_815198",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/85375f7a61e14806bef7848d09f4952a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273201&x-signature=YYm5I0BTMbM70O3FRuWFt4a8XQ8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/85375f7a61e14806bef7848d09f4952a.png",
           "file_type": "jpeg",
           "biz_type": 2

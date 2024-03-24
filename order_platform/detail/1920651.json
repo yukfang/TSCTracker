@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Yep that's right!</p><p>If the client uses Event Builder, they will have to rebuild all of the events</p><p>If they used a 3rd party tagging manager like GTM, Tealium, or Segment, they just have to replace all references of the old pixel with the new one</p><p>For example:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/178f71b3f848466d811d71b697140565.png\" height=\"263.083\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/178f71b3f848466d811d71b697140565.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838460&amp;x-signature=Cfd4TPD%2FgOq8YK8prxgDi8tavkE%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/372fa0820c6f45b9bb9353e6fa5e029e.png\" height=\"248.488\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/372fa0820c6f45b9bb9353e6fa5e029e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838460&amp;x-signature=ChNuwHYTEwNGgGGVEEdekAYNh3w%3D\" width=\"375\" /></img>",
+          "content": "<p>Yep that's right!</p><p>If the client uses Event Builder, they will have to rebuild all of the events</p><p>If they used a 3rd party tagging manager like GTM, Tealium, or Segment, they just have to replace all references of the old pixel with the new one</p><p>For example:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/178f71b3f848466d811d71b697140565.png\" height=\"263.083\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/178f71b3f848466d811d71b697140565.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273985&amp;x-signature=raKPyjavMgqmu8Ewv%2BfCOc7hyFk%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/372fa0820c6f45b9bb9353e6fa5e029e.png\" height=\"248.488\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/372fa0820c6f45b9bb9353e6fa5e029e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273985&amp;x-signature=B7ZlzxZo001cboh4efvh9nO7sVs%3D\" width=\"375\" /></img>",
           "type": 6
         }
       ],
@@ -330,7 +330,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1098909,
+  "pending_time": 1534434,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -504,18 +504,18 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/372fa0820c6f45b9bb9353e6fa5e029e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838460&x-signature=ChNuwHYTEwNGgGGVEEdekAYNh3w%3D",
-          "file_name": "file_20240318_15_07_40_115905",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/372fa0820c6f45b9bb9353e6fa5e029e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838460&x-signature=ChNuwHYTEwNGgGGVEEdekAYNh3w%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/372fa0820c6f45b9bb9353e6fa5e029e.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/178f71b3f848466d811d71b697140565.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273985&x-signature=raKPyjavMgqmu8Ewv%2BfCOc7hyFk%3D",
+          "file_name": "file_20240323_16_06_25_622561",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/178f71b3f848466d811d71b697140565.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273985&x-signature=raKPyjavMgqmu8Ewv%2BfCOc7hyFk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/178f71b3f848466d811d71b697140565.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/178f71b3f848466d811d71b697140565.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838460&x-signature=Cfd4TPD%2FgOq8YK8prxgDi8tavkE%3D",
-          "file_name": "file_20240318_15_07_40_115977",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/178f71b3f848466d811d71b697140565.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838460&x-signature=Cfd4TPD%2FgOq8YK8prxgDi8tavkE%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/178f71b3f848466d811d71b697140565.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/372fa0820c6f45b9bb9353e6fa5e029e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273985&x-signature=B7ZlzxZo001cboh4efvh9nO7sVs%3D",
+          "file_name": "file_20240323_16_06_25_622655",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/372fa0820c6f45b9bb9353e6fa5e029e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273985&x-signature=B7ZlzxZo001cboh4efvh9nO7sVs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/372fa0820c6f45b9bb9353e6fa5e029e.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Tyler,</p><p><br /></p><p>From what I'm able to find, it looks like the CompletePayment, PlaceAnOrder, and InitiateCheckout event haven't fired in the last 20 days which suggests an issue with event code and event trigger configuration. There may have been a change/revamp to the site 20 days ago that has not been accounted for.</p><p>It would be best to get on a call with the advertiser to address this and the items below. Here are my avails for the rest of the week and next:</p><p><br /></p><p><span style=\"color: #1F2329;\">Tomorrow, Thurs 2/1: 9 AM - 10 AM PST / 1 PM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Friday, 2/2: 7 AM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Monday 2/5: 8 AM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Tues 2/6: 7 AM - 2 PM PST</span></p><p><br /></p><p><br /></p><p>Additional changes/recommendations</p><ul><li>ViewContent event</li><ul><li><span style=\"color: #333333;\">Proper ViewContent setup is critical - it is a mandatory event for Catalog/VSA campaigns</span></li><li>A ViewContent event should only fire on a PDP page</li><ul><li>ViewContent event firing on a CDP page view:</li></ul></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/331d1276dfd944bcb23b8d4b26c49a38.png\" height=\"261.468\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/331d1276dfd944bcb23b8d4b26c49a38.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832927&amp;x-signature=iYW5yfVtvXGidXXSr2vyGf7MOQQ%3D\" width=\"375\"><ul><li>ViewContent event firing correctly on a PDP Page view:</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4beb63abc4a4486dbbff99234023d041.png\" height=\"211.957\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4beb63abc4a4486dbbff99234023d041.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832927&amp;x-signature=MpDlfz7DgInIfzlekQw06jGfJAU%3D\" width=\"375\"><ul><li>content_id is provided but we will also need</li><ul><li>content_type (will always equal 'product')</li><li>quantity</li><li>price</li><li>value</li></ul><li>Your ViewContent payload should look like the following:</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/25625870cdad4ff48a609da6304f9788.png\" height=\"115.976\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/25625870cdad4ff48a609da6304f9788.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832927&amp;x-signature=FYfzswQsLsqjDVSk0tPjrHITveU%3D\" width=\"375\"><p><br /></p><ul><li>AddToCart event</li><ul><li><span style=\"color: #333333;\">Proper AddToCart setup is critical - it is a mandatory event for Catalog/VSA campaigns</span></li><li><span style=\"color: #333333;\">The AddToCart event is triggering correctly, but is also firing a ViewContent event along with it. Only the AddToCart event should fire on an AddToCart click</span></li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/23c69747bfc54bea85fe02c9643a349c.png\" height=\"207.212\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/23c69747bfc54bea85fe02c9643a349c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832927&amp;x-signature=Q2qwq%2B4dzFo3PvNYt2bheRaOXSo%3D\" width=\"375\"><ul><ul><li>The AddToCart event requires the value and price parameters. Please see the example payload below:</li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9cf8774ff04b4ceba41e842ba51040df.png\" height=\"115.272\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9cf8774ff04b4ceba41e842ba51040df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832927&amp;x-signature=ZLCbjfHKCxPUGSpaLnol18X0Zuk%3D\" width=\"375\"><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img></img></img>",
+          "content": "<p>Hi Tyler,</p><p><br /></p><p>From what I'm able to find, it looks like the CompletePayment, PlaceAnOrder, and InitiateCheckout event haven't fired in the last 20 days which suggests an issue with event code and event trigger configuration. There may have been a change/revamp to the site 20 days ago that has not been accounted for.</p><p>It would be best to get on a call with the advertiser to address this and the items below. Here are my avails for the rest of the week and next:</p><p><br /></p><p><span style=\"color: #1F2329;\">Tomorrow, Thurs 2/1: 9 AM - 10 AM PST / 1 PM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Friday, 2/2: 7 AM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Monday 2/5: 8 AM - 2 PM PST</span></p><p><span style=\"color: #1F2329;\">Tues 2/6: 7 AM - 2 PM PST</span></p><p><br /></p><p><br /></p><p>Additional changes/recommendations</p><ul><li>ViewContent event</li><ul><li><span style=\"color: #333333;\">Proper ViewContent setup is critical - it is a mandatory event for Catalog/VSA campaigns</span></li><li>A ViewContent event should only fire on a PDP page</li><ul><li>ViewContent event firing on a CDP page view:</li></ul></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/331d1276dfd944bcb23b8d4b26c49a38.png\" height=\"261.468\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/331d1276dfd944bcb23b8d4b26c49a38.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273211&amp;x-signature=uDRdf9pXZKwlvPJVmZ4e0QvV7UY%3D\" width=\"375\"><ul><li>ViewContent event firing correctly on a PDP Page view:</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4beb63abc4a4486dbbff99234023d041.png\" height=\"211.957\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4beb63abc4a4486dbbff99234023d041.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273211&amp;x-signature=QJCLlUDK1PQ1y5EliLzjCxlXiUs%3D\" width=\"375\"><ul><li>content_id is provided but we will also need</li><ul><li>content_type (will always equal 'product')</li><li>quantity</li><li>price</li><li>value</li></ul><li>Your ViewContent payload should look like the following:</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/25625870cdad4ff48a609da6304f9788.png\" height=\"115.976\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/25625870cdad4ff48a609da6304f9788.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273211&amp;x-signature=n794xY6%2FYw0vHcv5JqqkiJHuCU8%3D\" width=\"375\"><p><br /></p><ul><li>AddToCart event</li><ul><li><span style=\"color: #333333;\">Proper AddToCart setup is critical - it is a mandatory event for Catalog/VSA campaigns</span></li><li><span style=\"color: #333333;\">The AddToCart event is triggering correctly, but is also firing a ViewContent event along with it. Only the AddToCart event should fire on an AddToCart click</span></li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/23c69747bfc54bea85fe02c9643a349c.png\" height=\"207.212\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/23c69747bfc54bea85fe02c9643a349c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273211&amp;x-signature=R3ABf8OaeA3YdZmNoTjrVZsizy4%3D\" width=\"375\"><ul><ul><li>The AddToCart event requires the value and price parameters. Please see the example payload below:</li></ul></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9cf8774ff04b4ceba41e842ba51040df.png\" height=\"115.272\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9cf8774ff04b4ceba41e842ba51040df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273211&amp;x-signature=rFYRX6SLs%2FTGH6Sxwfqkv0QcXiY%3D\" width=\"375\"><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -272,7 +272,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 4024710,
+  "pending_time": 4464994,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -446,42 +446,42 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/23c69747bfc54bea85fe02c9643a349c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832927&x-signature=Q2qwq%2B4dzFo3PvNYt2bheRaOXSo%3D",
-          "file_name": "file_20240318_13_35_27_155415",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/23c69747bfc54bea85fe02c9643a349c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832927&x-signature=Q2qwq%2B4dzFo3PvNYt2bheRaOXSo%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/23c69747bfc54bea85fe02c9643a349c.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/331d1276dfd944bcb23b8d4b26c49a38.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832927&x-signature=iYW5yfVtvXGidXXSr2vyGf7MOQQ%3D",
-          "file_name": "file_20240318_13_35_27_155512",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/331d1276dfd944bcb23b8d4b26c49a38.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832927&x-signature=iYW5yfVtvXGidXXSr2vyGf7MOQQ%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/331d1276dfd944bcb23b8d4b26c49a38.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/25625870cdad4ff48a609da6304f9788.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832927&x-signature=FYfzswQsLsqjDVSk0tPjrHITveU%3D",
-          "file_name": "file_20240318_13_35_27_155541",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/25625870cdad4ff48a609da6304f9788.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832927&x-signature=FYfzswQsLsqjDVSk0tPjrHITveU%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/25625870cdad4ff48a609da6304f9788.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4beb63abc4a4486dbbff99234023d041.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832927&x-signature=MpDlfz7DgInIfzlekQw06jGfJAU%3D",
-          "file_name": "file_20240318_13_35_27_155565",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4beb63abc4a4486dbbff99234023d041.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832927&x-signature=MpDlfz7DgInIfzlekQw06jGfJAU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4beb63abc4a4486dbbff99234023d041.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273211&x-signature=QJCLlUDK1PQ1y5EliLzjCxlXiUs%3D",
+          "file_name": "file_20240323_15_53_31_519574",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4beb63abc4a4486dbbff99234023d041.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273211&x-signature=QJCLlUDK1PQ1y5EliLzjCxlXiUs%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4beb63abc4a4486dbbff99234023d041.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9cf8774ff04b4ceba41e842ba51040df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832927&x-signature=ZLCbjfHKCxPUGSpaLnol18X0Zuk%3D",
-          "file_name": "file_20240318_13_35_27_155588",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9cf8774ff04b4ceba41e842ba51040df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832927&x-signature=ZLCbjfHKCxPUGSpaLnol18X0Zuk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/331d1276dfd944bcb23b8d4b26c49a38.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273211&x-signature=uDRdf9pXZKwlvPJVmZ4e0QvV7UY%3D",
+          "file_name": "file_20240323_15_53_31_519662",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/331d1276dfd944bcb23b8d4b26c49a38.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273211&x-signature=uDRdf9pXZKwlvPJVmZ4e0QvV7UY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/331d1276dfd944bcb23b8d4b26c49a38.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/23c69747bfc54bea85fe02c9643a349c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273211&x-signature=R3ABf8OaeA3YdZmNoTjrVZsizy4%3D",
+          "file_name": "file_20240323_15_53_31_519678",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/23c69747bfc54bea85fe02c9643a349c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273211&x-signature=R3ABf8OaeA3YdZmNoTjrVZsizy4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/23c69747bfc54bea85fe02c9643a349c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9cf8774ff04b4ceba41e842ba51040df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273211&x-signature=rFYRX6SLs%2FTGH6Sxwfqkv0QcXiY%3D",
+          "file_name": "file_20240323_15_53_31_519693",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9cf8774ff04b4ceba41e842ba51040df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273211&x-signature=rFYRX6SLs%2FTGH6Sxwfqkv0QcXiY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/9cf8774ff04b4ceba41e842ba51040df.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/25625870cdad4ff48a609da6304f9788.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273211&x-signature=n794xY6%2FYw0vHcv5JqqkiJHuCU8%3D",
+          "file_name": "file_20240323_15_53_31_519706",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/25625870cdad4ff48a609da6304f9788.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273211&x-signature=n794xY6%2FYw0vHcv5JqqkiJHuCU8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/25625870cdad4ff48a609da6304f9788.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

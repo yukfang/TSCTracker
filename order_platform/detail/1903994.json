@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1709075258,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Emma, </p><p><br /></p><p>The Adobe plugin should work, but I did find a couple of issues they will need to address:</p><p><br /></p><p>Multiple ViewContent events and AddToCart events fire when I click 'Add to Bag'</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/732b06b9c921448db686b9ec2a425bf6.png\" height=\"186.069\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/732b06b9c921448db686b9ec2a425bf6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838303&amp;x-signature=yp60Qe5GmwQnvS5glntWp7GnwOA%3D\" width=\"375\"><p>I would only expect to see one 'AddToCart' event fire here. This could be impacting their content id</p><p><br /></p><p>Since I cannot make a purchase without a test login or coupon code, I pulled a report for All Events, where I can see there is no CompletePayment event in the funnel at all:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bd4945c3921b44ee8869a736701353d1.png\" height=\"477.91281066666664\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd4945c3921b44ee8869a736701353d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838303&amp;x-signature=dY2SwHgcJCDGXCM54wEJn%2FtJgwk%3D\" width=\"281\"><p>the CompletePayment event here would be called 'shopping'. They will want to add that event in order to use VSA or Value Based Optimization toward purchases. TikTok also uses the value reported by CompletePayment to calculate ROAS (we do not use PlaceAnOrder for this). </p><p><br /></p><p>The content ids are missing from the events that reach TikTok:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/abe810b3feb34d1cadbdb71246d82d29.png\" height=\"38.58\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abe810b3feb34d1cadbdb71246d82d29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838303&amp;x-signature=Hocekxlx3XyZIEMa9aYhdQyFfNM%3D\" width=\"375\"><p>because the standard parameter names have not been used, example:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e2688e0c3d2947a8b7e632a65b6e85fb.png\" height=\"185.547\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2688e0c3d2947a8b7e632a65b6e85fb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838303&amp;x-signature=kYjr35QdIoR7CTex%2FOJ%2FeP7btvE%3D\" width=\"375\"><p>'SKU' should be 'content_id' and 'priceTotal' should be 'value' per the documentation <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en\" target=\"_blank\">here</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/361ba0170f5844f18401633a5fafbc69.png\" height=\"24.449\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/361ba0170f5844f18401633a5fafbc69.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838303&amp;x-signature=l1DJ09ERZ299droFAq13LI%2BUfXc%3D\" width=\"375\"><p>Please flag these issues to the client, and I will keep this ticket open for now.</p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img></img>",
+          "content": "<p>Hi Emma, </p><p><br /></p><p>The Adobe plugin should work, but I did find a couple of issues they will need to address:</p><p><br /></p><p>Multiple ViewContent events and AddToCart events fire when I click 'Add to Bag'</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/732b06b9c921448db686b9ec2a425bf6.png\" height=\"186.069\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/732b06b9c921448db686b9ec2a425bf6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273819&amp;x-signature=uAazrxgMaXhCK3ywJl5rNdZo6GE%3D\" width=\"375\"><p>I would only expect to see one 'AddToCart' event fire here. This could be impacting their content id</p><p><br /></p><p>Since I cannot make a purchase without a test login or coupon code, I pulled a report for All Events, where I can see there is no CompletePayment event in the funnel at all:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bd4945c3921b44ee8869a736701353d1.png\" height=\"477.91281066666664\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd4945c3921b44ee8869a736701353d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273819&amp;x-signature=fV7NEBBg1dcr%2BFzkgpuGxeue%2Fqw%3D\" width=\"281\"><p>the CompletePayment event here would be called 'shopping'. They will want to add that event in order to use VSA or Value Based Optimization toward purchases. TikTok also uses the value reported by CompletePayment to calculate ROAS (we do not use PlaceAnOrder for this). </p><p><br /></p><p>The content ids are missing from the events that reach TikTok:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/abe810b3feb34d1cadbdb71246d82d29.png\" height=\"38.58\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abe810b3feb34d1cadbdb71246d82d29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273819&amp;x-signature=yLgv9O82f6HDfvqVE%2F3QzIPcBSA%3D\" width=\"375\"><p>because the standard parameter names have not been used, example:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e2688e0c3d2947a8b7e632a65b6e85fb.png\" height=\"185.547\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2688e0c3d2947a8b7e632a65b6e85fb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273819&amp;x-signature=ymbGWA2EspwFcoCAmzSjhQcamoc%3D\" width=\"375\"><p>'SKU' should be 'content_id' and 'priceTotal' should be 'value' per the documentation <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en\" target=\"_blank\">here</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/361ba0170f5844f18401633a5fafbc69.png\" height=\"24.449\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/361ba0170f5844f18401633a5fafbc69.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273819&amp;x-signature=QaIKJaYzJZ51n7M1bec6Ed%2FWmdc%3D\" width=\"375\"><p>Please flag these issues to the client, and I will keep this ticket open for now.</p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -270,7 +270,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1519637,
+  "pending_time": 1955154,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -444,42 +444,42 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abe810b3feb34d1cadbdb71246d82d29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838303&x-signature=Hocekxlx3XyZIEMa9aYhdQyFfNM%3D",
-          "file_name": "file_20240318_15_05_03_513093",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abe810b3feb34d1cadbdb71246d82d29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838303&x-signature=Hocekxlx3XyZIEMa9aYhdQyFfNM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abe810b3feb34d1cadbdb71246d82d29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273819&x-signature=yLgv9O82f6HDfvqVE%2F3QzIPcBSA%3D",
+          "file_name": "file_20240323_16_03_39_907304",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abe810b3feb34d1cadbdb71246d82d29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273819&x-signature=yLgv9O82f6HDfvqVE%2F3QzIPcBSA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/abe810b3feb34d1cadbdb71246d82d29.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2688e0c3d2947a8b7e632a65b6e85fb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838303&x-signature=kYjr35QdIoR7CTex%2FOJ%2FeP7btvE%3D",
-          "file_name": "file_20240318_15_05_03_513200",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2688e0c3d2947a8b7e632a65b6e85fb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838303&x-signature=kYjr35QdIoR7CTex%2FOJ%2FeP7btvE%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/e2688e0c3d2947a8b7e632a65b6e85fb.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd4945c3921b44ee8869a736701353d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273819&x-signature=fV7NEBBg1dcr%2BFzkgpuGxeue%2Fqw%3D",
+          "file_name": "file_20240323_16_03_39_907364",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd4945c3921b44ee8869a736701353d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273819&x-signature=fV7NEBBg1dcr%2BFzkgpuGxeue%2Fqw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/bd4945c3921b44ee8869a736701353d1.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/732b06b9c921448db686b9ec2a425bf6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838303&x-signature=yp60Qe5GmwQnvS5glntWp7GnwOA%3D",
-          "file_name": "file_20240318_15_05_03_513221",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/732b06b9c921448db686b9ec2a425bf6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838303&x-signature=yp60Qe5GmwQnvS5glntWp7GnwOA%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/732b06b9c921448db686b9ec2a425bf6.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/361ba0170f5844f18401633a5fafbc69.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838303&x-signature=l1DJ09ERZ299droFAq13LI%2BUfXc%3D",
-          "file_name": "file_20240318_15_05_03_513238",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/361ba0170f5844f18401633a5fafbc69.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838303&x-signature=l1DJ09ERZ299droFAq13LI%2BUfXc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/361ba0170f5844f18401633a5fafbc69.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273819&x-signature=QaIKJaYzJZ51n7M1bec6Ed%2FWmdc%3D",
+          "file_name": "file_20240323_16_03_39_907382",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/361ba0170f5844f18401633a5fafbc69.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273819&x-signature=QaIKJaYzJZ51n7M1bec6Ed%2FWmdc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/361ba0170f5844f18401633a5fafbc69.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd4945c3921b44ee8869a736701353d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838303&x-signature=dY2SwHgcJCDGXCM54wEJn%2FtJgwk%3D",
-          "file_name": "file_20240318_15_05_03_513254",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bd4945c3921b44ee8869a736701353d1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838303&x-signature=dY2SwHgcJCDGXCM54wEJn%2FtJgwk%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/bd4945c3921b44ee8869a736701353d1.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/732b06b9c921448db686b9ec2a425bf6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273819&x-signature=uAazrxgMaXhCK3ywJl5rNdZo6GE%3D",
+          "file_name": "file_20240323_16_03_39_907396",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/732b06b9c921448db686b9ec2a425bf6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273819&x-signature=uAazrxgMaXhCK3ywJl5rNdZo6GE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/732b06b9c921448db686b9ec2a425bf6.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2688e0c3d2947a8b7e632a65b6e85fb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273819&x-signature=ymbGWA2EspwFcoCAmzSjhQcamoc%3D",
+          "file_name": "file_20240323_16_03_39_907409",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2688e0c3d2947a8b7e632a65b6e85fb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273819&x-signature=ymbGWA2EspwFcoCAmzSjhQcamoc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e2688e0c3d2947a8b7e632a65b6e85fb.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

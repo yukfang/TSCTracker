@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Humbeline, <br><br>We do see a gradual drop in server events starting 4th March and dropped to 0 on 8th March. Sharing the screenshot below. Can you please check with the advertiser to confirm:<br><br>- No changes were made on their end that would have resulted in this gradual drop of server side events. <br>- They were sending server events for \"Place an Order\"  and \"Subscribe\" event, both dropped to 0 on 8th March. <br><br><strong>Other recommendations related to account:</strong><br>- Implement  parameters (value, currency, content_id &amp; content_type) for InitiateCheckout, Place an Order &amp; Complete Payment event.<br>- Ensure all Complete Payment events are captured and sent. We have recorded 1 browser event for complete payment on 10th March. <br>- Implement Manual Advanced Matching. <br>- Implement upper funnel events such as ViewContent, AddToCart.</br></br></br></br></br></br></br></br></br></br></br></p><p><br><br /></br></p><img alt=\"Screenshot 2024-03-13 at 5.28.31 pm.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/62a2ee1dd56545d6b1d49fcba0c92943.png\" height=\"175.365\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62a2ee1dd56545d6b1d49fcba0c92943.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838598&amp;x-signature=9KilQy7GWrphBffBDih19mlTbrA%3D\" width=\"375\" />",
+          "content": "<p>Hi Humbeline, <br><br>We do see a gradual drop in server events starting 4th March and dropped to 0 on 8th March. Sharing the screenshot below. Can you please check with the advertiser to confirm:<br><br>- No changes were made on their end that would have resulted in this gradual drop of server side events. <br>- They were sending server events for \"Place an Order\"  and \"Subscribe\" event, both dropped to 0 on 8th March. <br><br><strong>Other recommendations related to account:</strong><br>- Implement  parameters (value, currency, content_id &amp; content_type) for InitiateCheckout, Place an Order &amp; Complete Payment event.<br>- Ensure all Complete Payment events are captured and sent. We have recorded 1 browser event for complete payment on 10th March. <br>- Implement Manual Advanced Matching. <br>- Implement upper funnel events such as ViewContent, AddToCart.</br></br></br></br></br></br></br></br></br></br></br></p><p><br><br /></br></p><img alt=\"Screenshot 2024-03-13 at 5.28.31 pm.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/62a2ee1dd56545d6b1d49fcba0c92943.png\" height=\"175.365\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62a2ee1dd56545d6b1d49fcba0c92943.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274128&amp;x-signature=R6yh0zDEh%2FyZRomlqNzWHTw5DFo%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -257,7 +257,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 338910,
+  "pending_time": 774440,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -433,15 +433,15 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-12 at 19.03.59.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/361175ed97af44db9a0bf490227c65fb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838598&x-signature=Q4XnW8MbwTcl1nWnAEyVQczPMBk%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/361175ed97af44db9a0bf490227c65fb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274127&x-signature=8HD3tgRqgMDR%2F6TdWm9iAFiUut4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/361175ed97af44db9a0bf490227c65fb.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/361175ed97af44db9a0bf490227c65fb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838598&x-signature=Q4XnW8MbwTcl1nWnAEyVQczPMBk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/361175ed97af44db9a0bf490227c65fb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274127&x-signature=8HD3tgRqgMDR%2F6TdWm9iAFiUut4%3D",
           "size": 244297
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62a2ee1dd56545d6b1d49fcba0c92943.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838598&x-signature=9KilQy7GWrphBffBDih19mlTbrA%3D",
-          "file_name": "file_20240318_15_09_58_586922",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62a2ee1dd56545d6b1d49fcba0c92943.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838598&x-signature=9KilQy7GWrphBffBDih19mlTbrA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62a2ee1dd56545d6b1d49fcba0c92943.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274128&x-signature=R6yh0zDEh%2FyZRomlqNzWHTw5DFo%3D",
+          "file_name": "file_20240323_16_08_48_036170",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/62a2ee1dd56545d6b1d49fcba0c92943.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274128&x-signature=R6yh0zDEh%2FyZRomlqNzWHTw5DFo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/62a2ee1dd56545d6b1d49fcba0c92943.png",
           "file_type": "jpeg",
           "biz_type": 2

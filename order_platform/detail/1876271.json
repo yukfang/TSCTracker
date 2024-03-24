@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1707937008,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi the event is triggering correctly when i checked it on test event tab</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7ae403c4d791429fa4dd75c5bf7bbb57.png\" height=\"79.993\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7ae403c4d791429fa4dd75c5bf7bbb57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837984&amp;x-signature=ItelcVQEJaSD5pIJ1HgCojCJEbI%3D\" width=\"375\"><p>and in network tab</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/896a7b61fc304c218ea42dbfaa32bd22.png\" height=\"226.027\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/896a7b61fc304c218ea42dbfaa32bd22.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837984&amp;x-signature=cMd8iNyNrrMOubQy620dvilLV9M%3D\" width=\"375\"><p><br /></p><p>However, I see the email is undefined, which means they might not be passing hashed email correctly in this signal.</p><p>I would also recommend raising a performance ticket with global TPS team to explain the unexpected hike in CPA.</p><p><br /></p><p>I also, wanted to use this opportunity to flag they are not passing <strong>value in CompletePayment</strong> events.</p><p>Also,. let me know if they plan to install Eapi in near future</p><p>Use this link to schedule meeting on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img></img>",
+          "content": "<p>Hi the event is triggering correctly when i checked it on test event tab</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7ae403c4d791429fa4dd75c5bf7bbb57.png\" height=\"79.993\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7ae403c4d791429fa4dd75c5bf7bbb57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273516&amp;x-signature=vFLlgA%2B7gRziCW3FUK1OQ%2FU4OCI%3D\" width=\"375\"><p>and in network tab</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/896a7b61fc304c218ea42dbfaa32bd22.png\" height=\"226.027\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/896a7b61fc304c218ea42dbfaa32bd22.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273516&amp;x-signature=hx1oOLPN2DxKf6kmThQXL1dRn8E%3D\" width=\"375\"><p><br /></p><p>However, I see the email is undefined, which means they might not be passing hashed email correctly in this signal.</p><p>I would also recommend raising a performance ticket with global TPS team to explain the unexpected hike in CPA.</p><p><br /></p><p>I also, wanted to use this opportunity to flag they are not passing <strong>value in CompletePayment</strong> events.</p><p>Also,. let me know if they plan to install Eapi in near future</p><p>Use this link to schedule meeting on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img></img>",
           "type": 6
         }
       ],
@@ -330,7 +330,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1712455,
+  "pending_time": 2147986,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -504,18 +504,18 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7ae403c4d791429fa4dd75c5bf7bbb57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837984&x-signature=ItelcVQEJaSD5pIJ1HgCojCJEbI%3D",
-          "file_name": "file_20240318_14_59_44_816647",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7ae403c4d791429fa4dd75c5bf7bbb57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837984&x-signature=ItelcVQEJaSD5pIJ1HgCojCJEbI%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/7ae403c4d791429fa4dd75c5bf7bbb57.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/896a7b61fc304c218ea42dbfaa32bd22.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273516&x-signature=hx1oOLPN2DxKf6kmThQXL1dRn8E%3D",
+          "file_name": "file_20240323_15_58_36_701174",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/896a7b61fc304c218ea42dbfaa32bd22.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273516&x-signature=hx1oOLPN2DxKf6kmThQXL1dRn8E%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/896a7b61fc304c218ea42dbfaa32bd22.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/896a7b61fc304c218ea42dbfaa32bd22.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837984&x-signature=cMd8iNyNrrMOubQy620dvilLV9M%3D",
-          "file_name": "file_20240318_14_59_44_816793",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/896a7b61fc304c218ea42dbfaa32bd22.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837984&x-signature=cMd8iNyNrrMOubQy620dvilLV9M%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/896a7b61fc304c218ea42dbfaa32bd22.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7ae403c4d791429fa4dd75c5bf7bbb57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273516&x-signature=vFLlgA%2B7gRziCW3FUK1OQ%2FU4OCI%3D",
+          "file_name": "file_20240323_15_58_36_701232",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7ae403c4d791429fa4dd75c5bf7bbb57.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273516&x-signature=vFLlgA%2B7gRziCW3FUK1OQ%2FU4OCI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7ae403c4d791429fa4dd75c5bf7bbb57.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

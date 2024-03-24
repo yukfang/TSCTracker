@@ -41,6 +41,35 @@
       ],
       "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710945494,
+      "auto_close_hit": 0,
+      "id": 7348454149341643000,
+      "reply_role": "TSC",
+      "staff_id": 9295306,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "katerina.sakkoula@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Κατερίνα Σάκκουλα",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7043718772188251137",
+      "name": "Κατερίνα Σάκκουλα",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><strong>[Status Update] </strong>Second tech call took place today. Went through Data Layer events + TikTok event and AM code (they will do direct code integration and not GTM). Provided implementation timeline: this week. We&#39;ll be in touch by the end of the week or early next week</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_6b5da10a-8b0f-475a-93d4-7e7bcf621c5g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -68,7 +97,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1705322603,
+  "update_time": 1710945494,
   "owner_name": "Malhaar Sahore",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -243,7 +272,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 5446687,
+  "pending_time": 263406,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [

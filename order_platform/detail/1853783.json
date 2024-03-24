@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_30b679a0-acc5-4618-9fb0-102c3ba4601g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0091_89326080-ece9-4780-aaa1-5fb6b697eahu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "方宇",
   "create_time": 1706838313,
   "deadline": 0,
@@ -283,7 +283,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 22587,
+  "pending_time": 458177,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -459,9 +459,9 @@
         {
           "file_type": "pdf",
           "file_name": "Re [External] Re Criteo x TikTok Discussion On Attribution & Scaling Up.pdf",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ok5jbvJ5S3BBi8CA6EAAZFRNkHAAYEJBiSCXx.pdf?lk3s=cbe26b3a&x-expires=4832837683&x-signature=fFg%2FbjWxZNDYExVen5KLKIt0xTo%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ok5jbvJ5S3BBi8CA6EAAZFRNkHAAYEJBiSCXx.pdf?lk3s=cbe26b3a&x-expires=4833273273&x-signature=taLJYBtCMZRNjAHt3e%2By%2Fkxi5hw%3D",
           "file_key": "tos-alisg-v-90231e-sg/ok5jbvJ5S3BBi8CA6EAAZFRNkHAAYEJBiSCXx.pdf",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ok5jbvJ5S3BBi8CA6EAAZFRNkHAAYEJBiSCXx.pdf?lk3s=cbe26b3a&x-expires=4832837683&x-signature=fFg%2FbjWxZNDYExVen5KLKIt0xTo%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ok5jbvJ5S3BBi8CA6EAAZFRNkHAAYEJBiSCXx.pdf?lk3s=cbe26b3a&x-expires=4833273273&x-signature=taLJYBtCMZRNjAHt3e%2By%2Fkxi5hw%3D",
           "size": 2016489
         }
       ],

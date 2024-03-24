@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1706823666,
   "deadline": 0,
@@ -149,7 +149,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Kyle,</p><p><br /></p><p>Checking the GTM debug link they sent, I am only seeing the Pixel Base Code installed:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png\" height=\"162.748\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837677&amp;x-signature=Q0l5RbVGslO%2FslHAqzkJTtB4zTc%3D\" width=\"375\"><p>So, as I click through the site, I am only seeing PageView. For example, when landing on a product detail page, I would expect to see a ViewContent event, but that event does not fire:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/94bc069a1a114fe3a8ae6cefa5a8fb3c.png\" height=\"195.069\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94bc069a1a114fe3a8ae6cefa5a8fb3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837677&amp;x-signature=1OqWOAMeG3j1Ln3Kbth1ZDGp9rA%3D\" width=\"375\"><p>As a next step, they should go in and set up the event triggers. The instructions from our <a href=\"https://github.com/tiktok/gtm-template-pixel?tab=readme-ov-file#-3-creating-tiktok-event-tags:~:text=3.-,Creating%20TikTok%20Event%20Tags,-After%20installing%20the\" target=\"_blank\">TikTok GTM Template</a> will help. </p><p><br /></p><p>I also see that they have events from Events Builder embedded in the site:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ae6db3dbb61747e082fb712c033a78f2.png\" height=\"180.988\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae6db3dbb61747e082fb712c033a78f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837677&amp;x-signature=cKaiYtELjG9z%2Fo4OXrie63ir6%2FM%3D\" width=\"375\"><p>You cannot use events from both Event Builder and GTM. The client should go in and delete those Event Builder events, instructions to do so are attached.</p><p><br /></p><p>Please let me know if there are further questions!</p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
+          "content": "<p>Hi Kyle,</p><p><br /></p><p>Checking the GTM debug link they sent, I am only seeing the Pixel Base Code installed:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png\" height=\"162.748\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273267&amp;x-signature=MydumwPj8ZevyOyrBmCvWcSbhD8%3D\" width=\"375\"><p>So, as I click through the site, I am only seeing PageView. For example, when landing on a product detail page, I would expect to see a ViewContent event, but that event does not fire:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/94bc069a1a114fe3a8ae6cefa5a8fb3c.png\" height=\"195.069\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94bc069a1a114fe3a8ae6cefa5a8fb3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273267&amp;x-signature=18OWAiO7xUPHxi4d35t4SH8Dw8Y%3D\" width=\"375\"><p>As a next step, they should go in and set up the event triggers. The instructions from our <a href=\"https://github.com/tiktok/gtm-template-pixel?tab=readme-ov-file#-3-creating-tiktok-event-tags:~:text=3.-,Creating%20TikTok%20Event%20Tags,-After%20installing%20the\" target=\"_blank\">TikTok GTM Template</a> will help. </p><p><br /></p><p>I also see that they have events from Events Builder embedded in the site:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ae6db3dbb61747e082fb712c033a78f2.png\" height=\"180.988\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae6db3dbb61747e082fb712c033a78f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273267&amp;x-signature=K%2FfgyjCFF3IKCwF9%2FBXBSmE%2FmFU%3D\" width=\"375\"><p>You cannot use events from both Event Builder and GTM. The client should go in and delete those Event Builder events, instructions to do so are attached.</p><p><br /></p><p>Please let me know if there are further questions!</p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
           "type": 6
         },
         {
@@ -157,9 +157,9 @@
             {
               "file_type": "pdf",
               "file_name": "TikTok Pixel Event Builder Deletion Guide.pdf",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf?lk3s=cbe26b3a&x-expires=4832837677&x-signature=KQvPPRfr%2F4yo9PNt1oPBKshD%2Bho%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf?lk3s=cbe26b3a&x-expires=4833273267&x-signature=Qrp1HJ%2F0anMNP%2FNdeLuzdb47WJY%3D",
               "file_key": "tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf?lk3s=cbe26b3a&x-expires=4832837677&x-signature=KQvPPRfr%2F4yo9PNt1oPBKshD%2Bho%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf?lk3s=cbe26b3a&x-expires=4833273267&x-signature=Qrp1HJ%2F0anMNP%2FNdeLuzdb47WJY%3D",
               "biz_type": 2,
               "size": 269323
             }
@@ -192,7 +192,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Heidi, </p><p><br /></p><p>They are having a few issues deleting events in TTAM. </p><p><br /></p><img alt=\"Screenshot 2024-02-05 at 9.45.39 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b0d7fac8f6c143bcb9683abd62e52e3f.png\" height=\"196.606\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0d7fac8f6c143bcb9683abd62e52e3f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=a%2F7f5OXAkxII8XjKYzjknOfdz%2Bo%3D\" width=\"375\" />",
+          "content": "<p>Hi Heidi, </p><p><br /></p><p>They are having a few issues deleting events in TTAM. </p><p><br /></p><img alt=\"Screenshot 2024-02-05 at 9.45.39 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b0d7fac8f6c143bcb9683abd62e52e3f.png\" height=\"196.606\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0d7fac8f6c143bcb9683abd62e52e3f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273267&amp;x-signature=YscH05iUvsNIB28dGkUHAH%2FE3oU%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -250,7 +250,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<img alt=\"Screenshot 2024-02-05 at 11.45.50 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/98f0976aa81845ac92db3773881cc675.png\" height=\"154.161\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/98f0976aa81845ac92db3773881cc675.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=NWnTVNsHXuerP4Nh0U44f4NB34U%3D\" width=\"375\" />",
+          "content": "<img alt=\"Screenshot 2024-02-05 at 11.45.50 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/98f0976aa81845ac92db3773881cc675.png\" height=\"154.161\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/98f0976aa81845ac92db3773881cc675.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273267&amp;x-signature=io7lEM9mpNuieuyacjI6I8PZk5I%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -484,7 +484,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Kyle,</p><p><br /></p><p>Thank you for your patience, I missed the reply here! I checked the Google Tag Assistant link, except for CompletePayment, which I would need a test credit card or coupon code to check. So far I see:</p><p><br /></p><p>PageView fires when the landing page loads:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/748160a921fe484f91697376d9e88462.png\" height=\"139.781\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/748160a921fe484f91697376d9e88462.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=oKgmwKki6tQOQC1jPsQQfBM6t2c%3D\" width=\"375\"><p>ViewContent also fires and parameters look good:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/162b4a6cad6a4dfdb561283c73310d26.png\" height=\"151.763\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/162b4a6cad6a4dfdb561283c73310d26.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=DRX7LhHQosAweja1e80Khb4rr%2B8%3D\" width=\"375\"><p>AddToCart fires as expected and most parameters are reporting:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png\" height=\"178.712\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=bBt9f4X%2FERXwQbeiFxFZcAWS8F0%3D\" width=\"375\"><p>Except for the 'value' parameters where there looks to be a formatting error:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png\" height=\"270.536\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=C03egzB29Z7Rw%2BqaXqM2tXv0Tac%3D\" width=\"375\"><p>the client should check the way they have added the price or other value, and make sure they are not passing any currency symbols, special characters, or commas. Specifically, I'm seeing for 'quantity' the value:</p><p><span style=\"color: #041E49;\">quantity: \"1|1\":</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b03e73e9046646f3a9c8522f69939e31.png\" height=\"169.456\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b03e73e9046646f3a9c8522f69939e31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=5KnfQfYmoAWgSQfn2wCWo9jXigI%3D\" width=\"375\"><p>which could definitely be the cause.</p><p><br /></p><p>If they are able to provide a test login, I can check CompletePayment. </p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img></img>",
+          "content": "<p>Hi Kyle,</p><p><br /></p><p>Thank you for your patience, I missed the reply here! I checked the Google Tag Assistant link, except for CompletePayment, which I would need a test credit card or coupon code to check. So far I see:</p><p><br /></p><p>PageView fires when the landing page loads:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/748160a921fe484f91697376d9e88462.png\" height=\"139.781\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/748160a921fe484f91697376d9e88462.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273267&amp;x-signature=H1EnugFguWDhe29jEzIfS%2F9Ureo%3D\" width=\"375\"><p>ViewContent also fires and parameters look good:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/162b4a6cad6a4dfdb561283c73310d26.png\" height=\"151.763\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/162b4a6cad6a4dfdb561283c73310d26.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273267&amp;x-signature=kNxJcjlQ1l98yMqK0mOei9sYJds%3D\" width=\"375\"><p>AddToCart fires as expected and most parameters are reporting:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png\" height=\"178.712\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273267&amp;x-signature=OWHRDzClueJ4pCGyPRJusg%2Fi0do%3D\" width=\"375\"><p>Except for the 'value' parameters where there looks to be a formatting error:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png\" height=\"270.536\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273267&amp;x-signature=sx3qstvpWUYAeZrs57G693tjmLk%3D\" width=\"375\"><p>the client should check the way they have added the price or other value, and make sure they are not passing any currency symbols, special characters, or commas. Specifically, I'm seeing for 'quantity' the value:</p><p><span style=\"color: #041E49;\">quantity: \"1|1\":</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b03e73e9046646f3a9c8522f69939e31.png\" height=\"169.456\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b03e73e9046646f3a9c8522f69939e31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273267&amp;x-signature=3mkDrvp57b%2FnkgM%2FhthvvVHAzBU%3D\" width=\"375\"><p>which could definitely be the cause.</p><p><br /></p><p>If they are able to provide a test login, I can check CompletePayment. </p><p><br /></p><p>Thanks, Heidi</p></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -542,7 +542,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Good morning! I sent exactly what you sent me and this was a question that came up. What would you say to this? </p><img alt=\"Screenshot 2024-02-27 at 9.27.49 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bc33d19b5c4b4e7ba3d425e44886c300.png\" height=\"81.491\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc33d19b5c4b4e7ba3d425e44886c300.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=TGgsZsJRQ0Kr3muoooiSHN910yY%3D\" width=\"375\" />",
+          "content": "<p>Good morning! I sent exactly what you sent me and this was a question that came up. What would you say to this? </p><img alt=\"Screenshot 2024-02-27 at 9.27.49 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bc33d19b5c4b4e7ba3d425e44886c300.png\" height=\"81.491\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc33d19b5c4b4e7ba3d425e44886c300.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273268&amp;x-signature=HwD%2FGgwQHFRCi%2BQplWgRVLEVg6A%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -629,7 +629,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Kyle, no, you cannot have a pipe or any other character in the 'quantity' value as the data type must be a number. Per the documentation:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/95a6e7a05c6d4955ac4c031182c5e8e7.png\" height=\"30.303\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95a6e7a05c6d4955ac4c031182c5e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837678&amp;x-signature=RvXJHeMnXj5zP1rgShNELzeBzdQ%3D\" width=\"375\"><p>This would definitely cause the 'value' to report as 'undefined' as you see in the above screenshot.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Kyle, no, you cannot have a pipe or any other character in the 'quantity' value as the data type must be a number. Per the documentation:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/95a6e7a05c6d4955ac4c031182c5e8e7.png\" height=\"30.303\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95a6e7a05c6d4955ac4c031182c5e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273268&amp;x-signature=jje8CqEDSVgcLtPQO2Yt3UTo53s%3D\" width=\"375\"><p>This would definitely cause the 'value' to report as 'undefined' as you see in the above screenshot.</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -837,7 +837,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1635563,
+  "pending_time": 2071153,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -1013,112 +1013,112 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-01 at 3.39.55 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0f5f954b3d9b4f698503fa2096c83e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=xtxger3rGANtMYZHYu6R9qMWUAU%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0f5f954b3d9b4f698503fa2096c83e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=8uLvMsj%2FwkVQYlqwRJrz1kmPSZw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0f5f954b3d9b4f698503fa2096c83e75.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0f5f954b3d9b4f698503fa2096c83e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=xtxger3rGANtMYZHYu6R9qMWUAU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0f5f954b3d9b4f698503fa2096c83e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=8uLvMsj%2FwkVQYlqwRJrz1kmPSZw%3D",
           "size": 169360
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=Q0l5RbVGslO%2FslHAqzkJTtB4zTc%3D",
-          "file_name": "file_20240318_14_54_38_021626",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=Q0l5RbVGslO%2FslHAqzkJTtB4zTc%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae6db3dbb61747e082fb712c033a78f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=cKaiYtELjG9z%2Fo4OXrie63ir6%2FM%3D",
-          "file_name": "file_20240318_14_54_38_021691",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae6db3dbb61747e082fb712c033a78f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=cKaiYtELjG9z%2Fo4OXrie63ir6%2FM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae6db3dbb61747e082fb712c033a78f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=K%2FfgyjCFF3IKCwF9%2FBXBSmE%2FmFU%3D",
+          "file_name": "file_20240323_15_54_27_660247",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae6db3dbb61747e082fb712c033a78f2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=K%2FfgyjCFF3IKCwF9%2FBXBSmE%2FmFU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ae6db3dbb61747e082fb712c033a78f2.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94bc069a1a114fe3a8ae6cefa5a8fb3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=1OqWOAMeG3j1Ln3Kbth1ZDGp9rA%3D",
-          "file_name": "file_20240318_14_54_38_021709",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94bc069a1a114fe3a8ae6cefa5a8fb3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837677&x-signature=1OqWOAMeG3j1Ln3Kbth1ZDGp9rA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94bc069a1a114fe3a8ae6cefa5a8fb3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=18OWAiO7xUPHxi4d35t4SH8Dw8Y%3D",
+          "file_name": "file_20240323_15_54_27_660312",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94bc069a1a114fe3a8ae6cefa5a8fb3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=18OWAiO7xUPHxi4d35t4SH8Dw8Y%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/94bc069a1a114fe3a8ae6cefa5a8fb3c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=MydumwPj8ZevyOyrBmCvWcSbhD8%3D",
+          "file_name": "file_20240323_15_54_27_660331",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=MydumwPj8ZevyOyrBmCvWcSbhD8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c7be49840cf649568fa4b5a348850f9d.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
           "file_type": "pdf",
           "file_name": "TikTok Pixel Event Builder Deletion Guide.pdf",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf?lk3s=cbe26b3a&x-expires=4832837677&x-signature=KQvPPRfr%2F4yo9PNt1oPBKshD%2Bho%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf?lk3s=cbe26b3a&x-expires=4833273267&x-signature=Qrp1HJ%2F0anMNP%2FNdeLuzdb47WJY%3D",
           "file_key": "tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf?lk3s=cbe26b3a&x-expires=4832837677&x-signature=KQvPPRfr%2F4yo9PNt1oPBKshD%2Bho%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oIlCE9iUEDELQgAAWL2CfFm05BQmiAeB1SvwAA.pdf?lk3s=cbe26b3a&x-expires=4833273267&x-signature=Qrp1HJ%2F0anMNP%2FNdeLuzdb47WJY%3D",
           "biz_type": 2,
           "size": 269323
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0d7fac8f6c143bcb9683abd62e52e3f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=a%2F7f5OXAkxII8XjKYzjknOfdz%2Bo%3D",
-          "file_name": "file_20240318_14_54_38_062354",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0d7fac8f6c143bcb9683abd62e52e3f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=a%2F7f5OXAkxII8XjKYzjknOfdz%2Bo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0d7fac8f6c143bcb9683abd62e52e3f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=YscH05iUvsNIB28dGkUHAH%2FE3oU%3D",
+          "file_name": "file_20240323_15_54_27_700234",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0d7fac8f6c143bcb9683abd62e52e3f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=YscH05iUvsNIB28dGkUHAH%2FE3oU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b0d7fac8f6c143bcb9683abd62e52e3f.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/98f0976aa81845ac92db3773881cc675.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=NWnTVNsHXuerP4Nh0U44f4NB34U%3D",
-          "file_name": "file_20240318_14_54_38_114025",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/98f0976aa81845ac92db3773881cc675.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=NWnTVNsHXuerP4Nh0U44f4NB34U%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/98f0976aa81845ac92db3773881cc675.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=io7lEM9mpNuieuyacjI6I8PZk5I%3D",
+          "file_name": "file_20240323_15_54_27_764552",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/98f0976aa81845ac92db3773881cc675.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=io7lEM9mpNuieuyacjI6I8PZk5I%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/98f0976aa81845ac92db3773881cc675.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/162b4a6cad6a4dfdb561283c73310d26.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=DRX7LhHQosAweja1e80Khb4rr%2B8%3D",
-          "file_name": "file_20240318_14_54_38_419010",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/162b4a6cad6a4dfdb561283c73310d26.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=DRX7LhHQosAweja1e80Khb4rr%2B8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/162b4a6cad6a4dfdb561283c73310d26.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=kNxJcjlQ1l98yMqK0mOei9sYJds%3D",
+          "file_name": "file_20240323_15_54_28_095989",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/162b4a6cad6a4dfdb561283c73310d26.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=kNxJcjlQ1l98yMqK0mOei9sYJds%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/162b4a6cad6a4dfdb561283c73310d26.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=C03egzB29Z7Rw%2BqaXqM2tXv0Tac%3D",
-          "file_name": "file_20240318_14_54_38_419115",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=C03egzB29Z7Rw%2BqaXqM2tXv0Tac%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=bBt9f4X%2FERXwQbeiFxFZcAWS8F0%3D",
-          "file_name": "file_20240318_14_54_38_419164",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=bBt9f4X%2FERXwQbeiFxFZcAWS8F0%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/748160a921fe484f91697376d9e88462.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=oKgmwKki6tQOQC1jPsQQfBM6t2c%3D",
-          "file_name": "file_20240318_14_54_38_419203",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/748160a921fe484f91697376d9e88462.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=oKgmwKki6tQOQC1jPsQQfBM6t2c%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/748160a921fe484f91697376d9e88462.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=H1EnugFguWDhe29jEzIfS%2F9Ureo%3D",
+          "file_name": "file_20240323_15_54_28_096055",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/748160a921fe484f91697376d9e88462.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=H1EnugFguWDhe29jEzIfS%2F9Ureo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/748160a921fe484f91697376d9e88462.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b03e73e9046646f3a9c8522f69939e31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=5KnfQfYmoAWgSQfn2wCWo9jXigI%3D",
-          "file_name": "file_20240318_14_54_38_419235",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b03e73e9046646f3a9c8522f69939e31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=5KnfQfYmoAWgSQfn2wCWo9jXigI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=OWHRDzClueJ4pCGyPRJusg%2Fi0do%3D",
+          "file_name": "file_20240323_15_54_28_096072",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=OWHRDzClueJ4pCGyPRJusg%2Fi0do%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f40f83ad0193411b97e963f01e7653cb.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b03e73e9046646f3a9c8522f69939e31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=3mkDrvp57b%2FnkgM%2FhthvvVHAzBU%3D",
+          "file_name": "file_20240323_15_54_28_096086",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b03e73e9046646f3a9c8522f69939e31.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=3mkDrvp57b%2FnkgM%2FhthvvVHAzBU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b03e73e9046646f3a9c8522f69939e31.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc33d19b5c4b4e7ba3d425e44886c300.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=TGgsZsJRQ0Kr3muoooiSHN910yY%3D",
-          "file_name": "file_20240318_14_54_38_478562",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc33d19b5c4b4e7ba3d425e44886c300.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=TGgsZsJRQ0Kr3muoooiSHN910yY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=sx3qstvpWUYAeZrs57G693tjmLk%3D",
+          "file_name": "file_20240323_15_54_28_096098",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273267&x-signature=sx3qstvpWUYAeZrs57G693tjmLk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e591519d24044f85b60ecc686ee647dd.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc33d19b5c4b4e7ba3d425e44886c300.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273268&x-signature=HwD%2FGgwQHFRCi%2BQplWgRVLEVg6A%3D",
+          "file_name": "file_20240323_15_54_28_162278",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc33d19b5c4b4e7ba3d425e44886c300.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273268&x-signature=HwD%2FGgwQHFRCi%2BQplWgRVLEVg6A%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/bc33d19b5c4b4e7ba3d425e44886c300.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95a6e7a05c6d4955ac4c031182c5e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=RvXJHeMnXj5zP1rgShNELzeBzdQ%3D",
-          "file_name": "file_20240318_14_54_38_573886",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95a6e7a05c6d4955ac4c031182c5e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837678&x-signature=RvXJHeMnXj5zP1rgShNELzeBzdQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95a6e7a05c6d4955ac4c031182c5e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273268&x-signature=jje8CqEDSVgcLtPQO2Yt3UTo53s%3D",
+          "file_name": "file_20240323_15_54_28_246341",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/95a6e7a05c6d4955ac4c031182c5e8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273268&x-signature=jje8CqEDSVgcLtPQO2Yt3UTo53s%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/95a6e7a05c6d4955ac4c031182c5e8e7.png",
           "file_type": "jpeg",
           "biz_type": 2

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_3d7c9b08-d76e-49da-973d-5f29b823fdhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0092_684609c4-b7ea-4d61-b486-a138a10f87hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Mohit Jain",
   "create_time": 1704700455,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>[Status Update] Closing the ticket as client is not interested <br><br><br /></br></br></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cabe3b25164045579b1685bb31cf02f9.png\" height=\"614.416\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cabe3b25164045579b1685bb31cf02f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832851&amp;x-signature=3E20fZiJDM0czAoGWYTogzY6kIU%3D\" width=\"375\" />",
+          "content": "<p>[Status Update] Closing the ticket as client is not interested <br><br><br /></br></br></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cabe3b25164045579b1685bb31cf02f9.png\" height=\"614.416\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cabe3b25164045579b1685bb31cf02f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272186&amp;x-signature=2xfeYWfHwfxNx%2BhhaiKjaOY6yPk%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -168,7 +168,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3372676,
+  "pending_time": 3812011,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -355,9 +355,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cabe3b25164045579b1685bb31cf02f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832851&x-signature=3E20fZiJDM0czAoGWYTogzY6kIU%3D",
-          "file_name": "file_20240318_13_34_11_788177",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cabe3b25164045579b1685bb31cf02f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832851&x-signature=3E20fZiJDM0czAoGWYTogzY6kIU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cabe3b25164045579b1685bb31cf02f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272186&x-signature=2xfeYWfHwfxNx%2BhhaiKjaOY6yPk%3D",
+          "file_name": "file_20240323_15_36_26_279777",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cabe3b25164045579b1685bb31cf02f9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272186&x-signature=2xfeYWfHwfxNx%2BhhaiKjaOY6yPk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/cabe3b25164045579b1685bb31cf02f9.png",
           "file_type": "jpeg",
           "biz_type": 2

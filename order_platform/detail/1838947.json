@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Liza,</p><p>Thanks for reaching out! I know you had reached out to Katerina regarding this but I can assist you in the meantime as she is a TSC for EUI and the client information for this ticket is for a US based client.</p><p>Regarding VSA App campaigns,  it currently looks like App VSA is currently in open beta and the client may require to be put on an allowlist  - commdoc for reference: <a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh\" target=\"_blank\">https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh</a></p><p>For clarification, what is the client attempting to do? Is it one of the scenarios below? </p><ol><li>Continue running the App Promotion campaigns in combination with VSA App within the same campaign. The Ad will display Apps like products and will still drive to download the app and deposit (this is likely not possible)</li><li>Continue running the App Promotion campaigns alongside separate VSA App campaigns. Both will be separate campaigns but will use the existing setup. The VSA App campaign will drive towards what can represent a purchase event (likely the deposit action)</li></ol><p>In the meantime, the client will still need to configure an AddToCart event for proper VSA App operation. It appears that they only have the ViewContent and Purchase (CompletePayment) events configured. Screenshot from the Hard Rock Bet Android app:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/556bef59b654479a85e9d067f483fda4.png\" height=\"175.116\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/556bef59b654479a85e9d067f483fda4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833481&amp;x-signature=NM8PRuzObQYBUp5T2g4fHTMKtc4%3D\" width=\"375\"><p><br /></p><p>Thanks!</p><p>Robbie</p></img>",
+          "content": "<p>Hi Liza,</p><p>Thanks for reaching out! I know you had reached out to Katerina regarding this but I can assist you in the meantime as she is a TSC for EUI and the client information for this ticket is for a US based client.</p><p>Regarding VSA App campaigns,  it currently looks like App VSA is currently in open beta and the client may require to be put on an allowlist  - commdoc for reference: <a href=\"https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh\" target=\"_blank\">https://bytedance.sg.larkoffice.com/docx/doxlga1GVRbIOhHsQF2skhnMtPh</a></p><p>For clarification, what is the client attempting to do? Is it one of the scenarios below? </p><ol><li>Continue running the App Promotion campaigns in combination with VSA App within the same campaign. The Ad will display Apps like products and will still drive to download the app and deposit (this is likely not possible)</li><li>Continue running the App Promotion campaigns alongside separate VSA App campaigns. Both will be separate campaigns but will use the existing setup. The VSA App campaign will drive towards what can represent a purchase event (likely the deposit action)</li></ol><p>In the meantime, the client will still need to configure an AddToCart event for proper VSA App operation. It appears that they only have the ViewContent and Purchase (CompletePayment) events configured. Screenshot from the Hard Rock Bet Android app:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/556bef59b654479a85e9d067f483fda4.png\" height=\"175.116\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/556bef59b654479a85e9d067f483fda4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273112&amp;x-signature=15EFpkWUuNgjVRIUAdKFdXWJrSc%3D\" width=\"375\"><p><br /></p><p>Thanks!</p><p>Robbie</p></img>",
           "type": 6
         }
       ],
@@ -128,27 +128,27 @@
             {
               "file_type": "png",
               "file_name": "Screenshot 2024-01-30 at 15.34.22.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=xXtBoh1PZaiZItJUe0bUxfRRvCA%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273112&x-signature=7nc5l2hh6eIkMR2ZIqJWni8drjI%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=xXtBoh1PZaiZItJUe0bUxfRRvCA%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273112&x-signature=7nc5l2hh6eIkMR2ZIqJWni8drjI%3D",
               "biz_type": 2,
               "size": 257662
             },
             {
               "file_type": "csv",
               "file_name": "Hard_Rock_Bet_SKAN4.csv",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv?lk3s=cbe26b3a&x-expires=4832833482&x-signature=C1n2unnlDOYeHHMSqB%2Bd1yBwYnQ%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv?lk3s=cbe26b3a&x-expires=4833273112&x-signature=w0xFpoY1JzxZb0OoWGaKDmlcvuQ%3D",
               "file_key": "tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv?lk3s=cbe26b3a&x-expires=4832833482&x-signature=C1n2unnlDOYeHHMSqB%2Bd1yBwYnQ%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv?lk3s=cbe26b3a&x-expires=4833273112&x-signature=w0xFpoY1JzxZb0OoWGaKDmlcvuQ%3D",
               "biz_type": 2,
               "size": 5964
             },
             {
               "file_type": "jpeg",
               "file_name": "appsflyer mapping ad account 7159219170175991810.jpeg",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=9bM%2BbH2gTi8rtHP0aRtcDjjYpvc%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273112&x-signature=mVbHjMU95g1SohAk9rcci8KmN8E%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=9bM%2BbH2gTi8rtHP0aRtcDjjYpvc%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273112&x-signature=mVbHjMU95g1SohAk9rcci8KmN8E%3D",
               "biz_type": 2,
               "size": 318700
             }
@@ -337,7 +337,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 4134353,
+  "pending_time": 4573984,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -474,9 +474,9 @@
       "label": "Screenshot(s)",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/556bef59b654479a85e9d067f483fda4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833481&x-signature=NM8PRuzObQYBUp5T2g4fHTMKtc4%3D",
-          "file_name": "file_20240318_13_44_41_840330",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/556bef59b654479a85e9d067f483fda4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833481&x-signature=NM8PRuzObQYBUp5T2g4fHTMKtc4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/556bef59b654479a85e9d067f483fda4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273112&x-signature=15EFpkWUuNgjVRIUAdKFdXWJrSc%3D",
+          "file_name": "file_20240323_15_51_52_717584",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/556bef59b654479a85e9d067f483fda4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273112&x-signature=15EFpkWUuNgjVRIUAdKFdXWJrSc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/556bef59b654479a85e9d067f483fda4.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -484,27 +484,27 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-30 at 15.34.22.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=xXtBoh1PZaiZItJUe0bUxfRRvCA%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273112&x-signature=7nc5l2hh6eIkMR2ZIqJWni8drjI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=xXtBoh1PZaiZItJUe0bUxfRRvCA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/82b43874e4aa413fa3826ec9a9ad523f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273112&x-signature=7nc5l2hh6eIkMR2ZIqJWni8drjI%3D",
           "biz_type": 2,
           "size": 257662
         },
         {
           "file_type": "csv",
           "file_name": "Hard_Rock_Bet_SKAN4.csv",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv?lk3s=cbe26b3a&x-expires=4832833482&x-signature=C1n2unnlDOYeHHMSqB%2Bd1yBwYnQ%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv?lk3s=cbe26b3a&x-expires=4833273112&x-signature=w0xFpoY1JzxZb0OoWGaKDmlcvuQ%3D",
           "file_key": "tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv?lk3s=cbe26b3a&x-expires=4832833482&x-signature=C1n2unnlDOYeHHMSqB%2Bd1yBwYnQ%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYBARtAAAiAuCq956ZB8YkvCrN3bAkJlFidEN.csv?lk3s=cbe26b3a&x-expires=4833273112&x-signature=w0xFpoY1JzxZb0OoWGaKDmlcvuQ%3D",
           "biz_type": 2,
           "size": 5964
         },
         {
           "file_type": "jpeg",
           "file_name": "appsflyer mapping ad account 7159219170175991810.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=9bM%2BbH2gTi8rtHP0aRtcDjjYpvc%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273112&x-signature=mVbHjMU95g1SohAk9rcci8KmN8E%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833482&x-signature=9bM%2BbH2gTi8rtHP0aRtcDjjYpvc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c10ba2afa5441e7aeabba9be7830c57.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273112&x-signature=mVbHjMU95g1SohAk9rcci8KmN8E%3D",
           "biz_type": 2,
           "size": 318700
         }

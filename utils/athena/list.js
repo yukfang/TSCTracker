@@ -140,12 +140,15 @@ async function athena_api_v2_swimlane(metrics = METRICS){
          const data = raw_data
          // console.log(data.data[0])
          const orders = data.data.map(a => {a.create_time2 = (new Date(parseInt(a.create_time * 1000))); return a})
-         console.table(orders.sort((a,b) => parseInt(a.order_id) - parseInt(b.order_id)), [
-            "order_id",
-            "employee_name",
-            "create_time",
-            "create_time2"
-         ])
+         if(false) {
+            console.table(orders.sort((a,b) => parseInt(a.order_id) - parseInt(b.order_id)), [
+               "order_id",
+               "employee_name",
+               "create_time",
+               "create_time2"
+            ])
+         }
+
          // console.log(data.data.length)
       //   console.table(data.data.map(r => {
       //    const rr = r;
@@ -166,7 +169,7 @@ async function athena_api_v2_swimlane(metrics = METRICS){
       }
    }
 
-   console.log(`Total Records: ${records.length}`)
+   // console.log(`Total Records: ${records.length}`)
    const uniqueRecords = [...new Set(records)]
    console.log(`Total Unique Records:  ${uniqueRecords.length}`)
    return uniqueRecords

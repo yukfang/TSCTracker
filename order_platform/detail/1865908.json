@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1707420264,
   "deadline": 0,
@@ -64,7 +64,7 @@
       ],
       "items": [
         {
-          "content": "<p>Thanks Saurabh - here is a screenshot from the MMM signals score dashboard:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8a12ec79c4f548c284c35fefe6fe2e0b.png\" height=\"67.555\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8a12ec79c4f548c284c35fefe6fe2e0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837844&amp;x-signature=6XmoqzkxevR0lHVQmpMl%2FsfVan8%3D\" width=\"375\"><p><br /></p><p>They'll just need to clean up their event names like you mentioned in the current ticket you're working on with him. Additionally, the rest of the funnel needs to be setup with both S2S &amp; Web and I think that should be it. But you're right though, despite the weird setup it looks like it should be at 100</p><p><br /></p><p>Thanks again man! </p></img>",
+          "content": "<p>Thanks Saurabh - here is a screenshot from the MMM signals score dashboard:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8a12ec79c4f548c284c35fefe6fe2e0b.png\" height=\"67.555\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8a12ec79c4f548c284c35fefe6fe2e0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273417&amp;x-signature=%2FkRkihardfMO%2BfHCAPsh0AbRISU%3D\" width=\"375\"><p><br /></p><p>They'll just need to clean up their event names like you mentioned in the current ticket you're working on with him. Additionally, the rest of the funnel needs to be setup with both S2S &amp; Web and I think that should be it. But you're right though, despite the weird setup it looks like it should be at 100</p><p><br /></p><p>Thanks again man! </p></img>",
           "type": 6
         }
       ],
@@ -95,7 +95,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>hi Matt,</p><p><strong>[Conclusion]</strong> There current score is 80, to get them to 100, they need to send at least 3 events from browser. Currently they send only1</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/83b69f6beee543dea07b9e867291bb6a.png\" height=\"164.773\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83b69f6beee543dea07b9e867291bb6a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837844&amp;x-signature=3pEJWvv4pTfgtbxL4DKYrYLo99I%3D\" width=\"375\"><p>I'l be closing this ticket and we can continue to work on ticket #<span style=\"color: #333333;\"><strong>1865725</strong></span></p></img>",
+          "content": "<p>hi Matt,</p><p><strong>[Conclusion]</strong> There current score is 80, to get them to 100, they need to send at least 3 events from browser. Currently they send only1</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/83b69f6beee543dea07b9e867291bb6a.png\" height=\"164.773\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83b69f6beee543dea07b9e867291bb6a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273417&amp;x-signature=pm49upjPX1k7SeRiL8WpCtjR9m0%3D\" width=\"375\"><p>I'l be closing this ticket and we can continue to work on ticket #<span style=\"color: #333333;\"><strong>1865725</strong></span></p></img>",
           "type": 6
         }
       ],
@@ -303,7 +303,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3252777,
+  "pending_time": 3688351,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -477,17 +477,17 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8a12ec79c4f548c284c35fefe6fe2e0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837844&x-signature=6XmoqzkxevR0lHVQmpMl%2FsfVan8%3D",
-          "file_name": "file_20240318_14_57_24_327755",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8a12ec79c4f548c284c35fefe6fe2e0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837844&x-signature=6XmoqzkxevR0lHVQmpMl%2FsfVan8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8a12ec79c4f548c284c35fefe6fe2e0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273417&x-signature=%2FkRkihardfMO%2BfHCAPsh0AbRISU%3D",
+          "file_name": "file_20240323_15_56_57_917256",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8a12ec79c4f548c284c35fefe6fe2e0b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273417&x-signature=%2FkRkihardfMO%2BfHCAPsh0AbRISU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8a12ec79c4f548c284c35fefe6fe2e0b.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83b69f6beee543dea07b9e867291bb6a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837844&x-signature=3pEJWvv4pTfgtbxL4DKYrYLo99I%3D",
-          "file_name": "file_20240318_14_57_24_374085",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83b69f6beee543dea07b9e867291bb6a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837844&x-signature=3pEJWvv4pTfgtbxL4DKYrYLo99I%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83b69f6beee543dea07b9e867291bb6a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273417&x-signature=pm49upjPX1k7SeRiL8WpCtjR9m0%3D",
+          "file_name": "file_20240323_15_56_57_969507",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/83b69f6beee543dea07b9e867291bb6a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273417&x-signature=pm49upjPX1k7SeRiL8WpCtjR9m0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/83b69f6beee543dea07b9e867291bb6a.png",
           "file_type": "jpeg",
           "biz_type": 2

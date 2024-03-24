@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1704915087,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d5301bc58e4642f2aa9833c3d77a43e7.png\" height=\"126.269\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5301bc58e4642f2aa9833c3d77a43e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832813&amp;x-signature=RMN1Vi8Sl5Ty4n6V%2FA0zsigPMXQ%3D\" width=\"375\"><p>Hi Sara, please note that shopify only allows user to link the pixel that is owned by that Ad account linked to shopify. It will NOT allow \"Shared with you\" pixel to be linked and therefore its not shown. They can choose to either create a new pixel or link a pixel which is owned/created by that account. They should be fine if they want to create a new pixel, just make sure no active ads are linked to old pixel pixel. They can still leverage old pixel to create custom audiences from it's historical data if they wish to.</p></img>",
+          "content": "<img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d5301bc58e4642f2aa9833c3d77a43e7.png\" height=\"126.269\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5301bc58e4642f2aa9833c3d77a43e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272849&amp;x-signature=l6eG6ZKSKUONRQX%2B%2F4L%2FgC5ei0Q%3D\" width=\"375\"><p>Hi Sara, please note that shopify only allows user to link the pixel that is owned by that Ad account linked to shopify. It will NOT allow \"Shared with you\" pixel to be linked and therefore its not shown. They can choose to either create a new pixel or link a pixel which is owned/created by that account. They should be fine if they want to create a new pixel, just make sure no active ads are linked to old pixel pixel. They can still leverage old pixel to create custom audiences from it's historical data if they wish to.</p></img>",
           "type": 6
         }
       ],
@@ -330,7 +330,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2747898,
+  "pending_time": 3187933,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -506,15 +506,15 @@
         {
           "file_type": "jpeg",
           "file_name": "20240110-133101.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f89c2f74f72341ed8003a236013aef64.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832813&x-signature=E5uMP6M3LuGH%2B71C06DUkmWfq%2FI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f89c2f74f72341ed8003a236013aef64.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272849&x-signature=aRiU5SR7R5QeYKdyyf9MFpbFuJw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/f89c2f74f72341ed8003a236013aef64.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f89c2f74f72341ed8003a236013aef64.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832813&x-signature=E5uMP6M3LuGH%2B71C06DUkmWfq%2FI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f89c2f74f72341ed8003a236013aef64.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272849&x-signature=aRiU5SR7R5QeYKdyyf9MFpbFuJw%3D",
           "size": 131667
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5301bc58e4642f2aa9833c3d77a43e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832813&x-signature=RMN1Vi8Sl5Ty4n6V%2FA0zsigPMXQ%3D",
-          "file_name": "file_20240318_13_33_33_959011",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5301bc58e4642f2aa9833c3d77a43e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832813&x-signature=RMN1Vi8Sl5Ty4n6V%2FA0zsigPMXQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5301bc58e4642f2aa9833c3d77a43e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272849&x-signature=l6eG6ZKSKUONRQX%2B%2F4L%2FgC5ei0Q%3D",
+          "file_name": "file_20240323_15_47_29_397318",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d5301bc58e4642f2aa9833c3d77a43e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272849&x-signature=l6eG6ZKSKUONRQX%2B%2F4L%2FgC5ei0Q%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d5301bc58e4642f2aa9833c3d77a43e7.png",
           "file_type": "jpeg",
           "biz_type": 2

@@ -59,7 +59,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_dd220f29-255a-4ea4-bbf8-38352c8f251g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_dd220f29-255a-4ea4-bbf8-38352c8f251g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 6,
   "current_role": null,
@@ -241,7 +241,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 5713787,
+  "pending_time": 6153387,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -417,9 +417,9 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-12 at 10.36.49.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e128c5404c5341e3b4c62cd4ea32cf10.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833279&x-signature=HLzLjUtRRCq6aKbePNjpHQ9kqpc%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e128c5404c5341e3b4c62cd4ea32cf10.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272880&x-signature=qHereMoRMWyFzfEMOKbO4BgWFw0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e128c5404c5341e3b4c62cd4ea32cf10.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e128c5404c5341e3b4c62cd4ea32cf10.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833279&x-signature=HLzLjUtRRCq6aKbePNjpHQ9kqpc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e128c5404c5341e3b4c62cd4ea32cf10.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272880&x-signature=qHereMoRMWyFzfEMOKbO4BgWFw0%3D",
           "size": 361118
         }
       ],

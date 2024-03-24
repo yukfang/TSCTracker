@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Alia,</p><p><br /></p><p>Are they referring to \"Offline Events\"? From checking their Events Manager it does not seem that we have received any Offline Events. </p><p><br /></p><p>https://ads.tiktok.com/i18n/events_manager/offline?aadvid=6952971813194350594</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0f46bac447764f398f0f3256a70f326e.png\" height=\"236.883\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0f46bac447764f398f0f3256a70f326e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838186&amp;x-signature=5Ky39fJZoEqBTmKY%2FDXOpkBzN1M%3D\" width=\"375\"><p><br /></p><p>If they are using Events API to upload their offline events, it is likely that we are rejecting them. Are they able to provide any of the API logs? Those logs may have response codes and/or other data I can use to track and diagnose their upload attempts internally. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
+          "content": "<p>Hi Alia,</p><p><br /></p><p>Are they referring to \"Offline Events\"? From checking their Events Manager it does not seem that we have received any Offline Events. </p><p><br /></p><p>https://ads.tiktok.com/i18n/events_manager/offline?aadvid=6952971813194350594</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0f46bac447764f398f0f3256a70f326e.png\" height=\"236.883\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0f46bac447764f398f0f3256a70f326e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273696&amp;x-signature=kDhv2zRczUESOMftaLn%2Fv5PtgSk%3D\" width=\"375\"><p><br /></p><p>If they are using Events API to upload their offline events, it is likely that we are rejecting them. Are they able to provide any of the API logs? Those logs may have response codes and/or other data I can use to track and diagnose their upload attempts internally. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -70,9 +70,9 @@
             {
               "file_type": "xlsx",
               "file_name": "TiktokLogResponse.xlsx",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAzi6KBSEmaIDmAnFfzTmAxSy0AMiB8W8AiwCA.xlsx?lk3s=cbe26b3a&x-expires=4832838186&x-signature=%2F2MGfongR4vMzZ%2B2bqMYwrCjSL8%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAzi6KBSEmaIDmAnFfzTmAxSy0AMiB8W8AiwCA.xlsx?lk3s=cbe26b3a&x-expires=4833273696&x-signature=x1zX76wC7T65%2BDZe5xhC1cw8XVs%3D",
               "file_key": "tos-alisg-v-90231e-sg/oAzi6KBSEmaIDmAnFfzTmAxSy0AMiB8W8AiwCA.xlsx",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAzi6KBSEmaIDmAnFfzTmAxSy0AMiB8W8AiwCA.xlsx?lk3s=cbe26b3a&x-expires=4832838186&x-signature=%2F2MGfongR4vMzZ%2B2bqMYwrCjSL8%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAzi6KBSEmaIDmAnFfzTmAxSy0AMiB8W8AiwCA.xlsx?lk3s=cbe26b3a&x-expires=4833273696&x-signature=x1zX76wC7T65%2BDZe5xhC1cw8XVs%3D",
               "biz_type": 2,
               "size": 26013
             }
@@ -105,7 +105,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Alia,</p><p><br /></p><p>I've reviewed their logs and i think there's a few issues with the payload they are sending over. </p><ul><li>They are not passing back the appropriate values for \"event\" parameter e.g. \"ashley CA Offline Sales\". The accepted values for \"event\" are outlined in the section \"Supported Offline Events\" here: https://business-api.tiktok.com/portal/docs?id=1758053486938113 e.g. \"CompletePayment\"</li><li>The error we are returning is regarding \"missing PII\" which is likely due to the improper formatting in their payload. We expect the email or phone number to be delivered through a user object, which seems to be missing from their payload. They are delivering the email through the context object. </li></ul><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/97f3ff5dcaed417cb4867fd917ab463d.png\" height=\"29.878\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97f3ff5dcaed417cb4867fd917ab463d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838186&amp;x-signature=v10FTaA%2F8mPSvf6%2BWBY9H0s3pEw%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/754c42565fd14783889d9d298b8ee3e0.png\" height=\"155.011\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/754c42565fd14783889d9d298b8ee3e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838186&amp;x-signature=MkFTNGg6LH%2BOOsGXE2FFRS0k%2BxA%3D\" width=\"375\"><p>Overall I would recommend they review/use the payload we have in the Example section of this page: https://business-api.tiktok.com/portal/docs?id=1758053486938113</p><p><br /></p><p>If they resolve the above two issues, we should start seeing their Offline Events uploads being accepted and surfaced through Events Manager. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img></img>",
+          "content": "<p>Hi Alia,</p><p><br /></p><p>I've reviewed their logs and i think there's a few issues with the payload they are sending over. </p><ul><li>They are not passing back the appropriate values for \"event\" parameter e.g. \"ashley CA Offline Sales\". The accepted values for \"event\" are outlined in the section \"Supported Offline Events\" here: https://business-api.tiktok.com/portal/docs?id=1758053486938113 e.g. \"CompletePayment\"</li><li>The error we are returning is regarding \"missing PII\" which is likely due to the improper formatting in their payload. We expect the email or phone number to be delivered through a user object, which seems to be missing from their payload. They are delivering the email through the context object. </li></ul><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/97f3ff5dcaed417cb4867fd917ab463d.png\" height=\"29.878\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97f3ff5dcaed417cb4867fd917ab463d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273696&amp;x-signature=6YovluF25pyBitf8xXcmj%2B8i8%2Bk%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/754c42565fd14783889d9d298b8ee3e0.png\" height=\"155.011\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/754c42565fd14783889d9d298b8ee3e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273696&amp;x-signature=9CnnEvC%2FB3S%2BVpsnuD3rq3OuB2Q%3D\" width=\"375\"><p>Overall I would recommend they review/use the payload we have in the Example section of this page: https://business-api.tiktok.com/portal/docs?id=1758053486938113</p><p><br /></p><p>If they resolve the above two issues, we should start seeing their Offline Events uploads being accepted and surfaced through Events Manager. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img></img>",
           "type": 6
         }
       ],
@@ -269,7 +269,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1017463,
+  "pending_time": 1452974,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -443,9 +443,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0f46bac447764f398f0f3256a70f326e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838186&x-signature=5Ky39fJZoEqBTmKY%2FDXOpkBzN1M%3D",
-          "file_name": "file_20240318_15_03_06_217812",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0f46bac447764f398f0f3256a70f326e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838186&x-signature=5Ky39fJZoEqBTmKY%2FDXOpkBzN1M%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0f46bac447764f398f0f3256a70f326e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273696&x-signature=kDhv2zRczUESOMftaLn%2Fv5PtgSk%3D",
+          "file_name": "file_20240323_16_01_36_670573",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0f46bac447764f398f0f3256a70f326e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273696&x-signature=kDhv2zRczUESOMftaLn%2Fv5PtgSk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0f46bac447764f398f0f3256a70f326e.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -453,25 +453,25 @@
         {
           "file_type": "xlsx",
           "file_name": "TiktokLogResponse.xlsx",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAzi6KBSEmaIDmAnFfzTmAxSy0AMiB8W8AiwCA.xlsx?lk3s=cbe26b3a&x-expires=4832838186&x-signature=%2F2MGfongR4vMzZ%2B2bqMYwrCjSL8%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAzi6KBSEmaIDmAnFfzTmAxSy0AMiB8W8AiwCA.xlsx?lk3s=cbe26b3a&x-expires=4833273696&x-signature=x1zX76wC7T65%2BDZe5xhC1cw8XVs%3D",
           "file_key": "tos-alisg-v-90231e-sg/oAzi6KBSEmaIDmAnFfzTmAxSy0AMiB8W8AiwCA.xlsx",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAzi6KBSEmaIDmAnFfzTmAxSy0AMiB8W8AiwCA.xlsx?lk3s=cbe26b3a&x-expires=4832838186&x-signature=%2F2MGfongR4vMzZ%2B2bqMYwrCjSL8%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oAzi6KBSEmaIDmAnFfzTmAxSy0AMiB8W8AiwCA.xlsx?lk3s=cbe26b3a&x-expires=4833273696&x-signature=x1zX76wC7T65%2BDZe5xhC1cw8XVs%3D",
           "biz_type": 2,
           "size": 26013
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/754c42565fd14783889d9d298b8ee3e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838186&x-signature=MkFTNGg6LH%2BOOsGXE2FFRS0k%2BxA%3D",
-          "file_name": "file_20240318_15_03_06_322129",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/754c42565fd14783889d9d298b8ee3e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838186&x-signature=MkFTNGg6LH%2BOOsGXE2FFRS0k%2BxA%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/754c42565fd14783889d9d298b8ee3e0.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97f3ff5dcaed417cb4867fd917ab463d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273696&x-signature=6YovluF25pyBitf8xXcmj%2B8i8%2Bk%3D",
+          "file_name": "file_20240323_16_01_36_772967",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97f3ff5dcaed417cb4867fd917ab463d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273696&x-signature=6YovluF25pyBitf8xXcmj%2B8i8%2Bk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/97f3ff5dcaed417cb4867fd917ab463d.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97f3ff5dcaed417cb4867fd917ab463d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838186&x-signature=v10FTaA%2F8mPSvf6%2BWBY9H0s3pEw%3D",
-          "file_name": "file_20240318_15_03_06_322192",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/97f3ff5dcaed417cb4867fd917ab463d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838186&x-signature=v10FTaA%2F8mPSvf6%2BWBY9H0s3pEw%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/97f3ff5dcaed417cb4867fd917ab463d.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/754c42565fd14783889d9d298b8ee3e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273696&x-signature=9CnnEvC%2FB3S%2BVpsnuD3rq3OuB2Q%3D",
+          "file_name": "file_20240323_16_01_36_773059",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/754c42565fd14783889d9d298b8ee3e0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273696&x-signature=9CnnEvC%2FB3S%2BVpsnuD3rq3OuB2Q%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/754c42565fd14783889d9d298b8ee3e0.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

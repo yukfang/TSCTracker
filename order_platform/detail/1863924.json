@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Bonnie,</p><p><br /></p><p>So your client's sites are using OneTrust and users will be prompted with an option to Accept all Cookies or go into the Cookie settings to manually enable/disable specific cookies. </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e774f2203a194a4c8e1788dfc7b0d5f7.png\" height=\"190.737\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e774f2203a194a4c8e1788dfc7b0d5f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875786&amp;x-signature=ZhqEZqQAsSJOSmA1LCO0mV4jYfg%3D\" width=\"375\"><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/574a136e53e9478fbe5f6f2edd91fd12.png\" height=\"175.532\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/574a136e53e9478fbe5f6f2edd91fd12.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875786&amp;x-signature=SSfBK2XrLuBCNiPsJc93POBw774%3D\" width=\"375\"><p>If a user does not accept all cookies, or specifically the \"Targeting Cookies\", then the sites will not load any Pixels. </p><p><br /></p><p>This is by design for how One Trust works. They provide the option to block browser Pixel tracking for each individual visitor to a site. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img></img>",
+          "content": "<p>Hi Bonnie,</p><p><br /></p><p>So your client's sites are using OneTrust and users will be prompted with an option to Accept all Cookies or go into the Cookie settings to manually enable/disable specific cookies. </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e774f2203a194a4c8e1788dfc7b0d5f7.png\" height=\"190.737\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e774f2203a194a4c8e1788dfc7b0d5f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273377&amp;x-signature=PhhKni0scqkgzApJIJUAw%2BmS5wo%3D\" width=\"375\"><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/574a136e53e9478fbe5f6f2edd91fd12.png\" height=\"175.532\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/574a136e53e9478fbe5f6f2edd91fd12.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273377&amp;x-signature=9hYa926NdBnHdb43GXqMA3i7Q5U%3D\" width=\"375\"><p>If a user does not accept all cookies, or specifically the \"Targeting Cookies\", then the sites will not load any Pixels. </p><p><br /></p><p>This is by design for how One Trust works. They provide the option to block browser Pixel tracking for each individual visitor to a site. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img></img>",
           "type": 6
         }
       ],
@@ -178,7 +178,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Bonnie,</p><p><br /></p><p>1) <span style=\"color: #333333;\">Do you have any resources on the implications on conversation campaign when advertisers block pixel tracking until users click \"Accept all cookies\" and the % of users who actually click \"Accept all cookies\"? I do not have this info. This may be a case study that Signals Ops might have some data on, but overall this is a question that likely only OneTrust would know. Estimates vary but this blog post estimates roughly 64% blockage of cookies/Pixels overall for all traffic/sites: https://www.invoca.com/blog/tracking-cookies-are-dead-what-marketers-can-do-about-it</span></p><p><br /></p><p><span style=\"color: #333333;\">\"On top of that, a majority of tracking cookies are already rejected by browsers anyway. An ad-serving firm analyzed 20 advertisers and more than 5 billion impressions in fourth-quarter 2017, and found 64% of their tracking cookies were either blocked or deleted by web browsers.\"</span></p><p><br /></p><p><span style=\"color: #333333;\">2) \"If the client has eAPI implemented, would OneTrust still override the event triggers?\" I don't have the answer to this but I am checking with my team and others to see if they know the answer. Based on the language that the product uses, it seems to focus on blocking \"cookies\" or front end (browser/client/Pixel). </span></p><p><br /></p><img alt=\"img_v3_027t_77de140b-8d43-4402-a0d7-6729a41c446h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b881d373355b4131a12233302bc8bf75.jpg\" height=\"311.804\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b881d373355b4131a12233302bc8bf75.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875786&amp;x-signature=6kenkmvwPAvuCmqyY9%2Fi2SiZJFY%3D\" width=\"375\"><p><br /></p><p><span style=\"color: #333333;\">Thomas</span></p></img>",
+          "content": "<p>Hi Bonnie,</p><p><br /></p><p>1) <span style=\"color: #333333;\">Do you have any resources on the implications on conversation campaign when advertisers block pixel tracking until users click \"Accept all cookies\" and the % of users who actually click \"Accept all cookies\"? I do not have this info. This may be a case study that Signals Ops might have some data on, but overall this is a question that likely only OneTrust would know. Estimates vary but this blog post estimates roughly 64% blockage of cookies/Pixels overall for all traffic/sites: https://www.invoca.com/blog/tracking-cookies-are-dead-what-marketers-can-do-about-it</span></p><p><br /></p><p><span style=\"color: #333333;\">\"On top of that, a majority of tracking cookies are already rejected by browsers anyway. An ad-serving firm analyzed 20 advertisers and more than 5 billion impressions in fourth-quarter 2017, and found 64% of their tracking cookies were either blocked or deleted by web browsers.\"</span></p><p><br /></p><p><span style=\"color: #333333;\">2) \"If the client has eAPI implemented, would OneTrust still override the event triggers?\" I don't have the answer to this but I am checking with my team and others to see if they know the answer. Based on the language that the product uses, it seems to focus on blocking \"cookies\" or front end (browser/client/Pixel). </span></p><p><br /></p><img alt=\"img_v3_027t_77de140b-8d43-4402-a0d7-6729a41c446h.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b881d373355b4131a12233302bc8bf75.jpg\" height=\"311.804\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b881d373355b4131a12233302bc8bf75.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273378&amp;x-signature=SMed0tlbAEcfPZY6bpKvgU1nJi8%3D\" width=\"375\"><p><br /></p><p><span style=\"color: #333333;\">Thomas</span></p></img>",
           "type": 6
         }
       ],
@@ -265,7 +265,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Bonnie,</p><p><br /></p><p>I've tested both sites sharkclean.ca and ninjakitchen.ca and they do not appear to load either the TikTok or FB Pixels if I choose to disable targeting cookies.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/020cc55797884a7c8ea686b0e9544e0e.png\" height=\"204.014\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/020cc55797884a7c8ea686b0e9544e0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875786&amp;x-signature=e0pBEWsxkN8L%2FM2OxZUVfAWXg9M%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6b79753f7d2e4b2f9cca925a6dcaa9d3.png\" height=\"215.273\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b79753f7d2e4b2f9cca925a6dcaa9d3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875786&amp;x-signature=6XhXx5c0ZonibcoQ7HEXJl%2Fc4Sg%3D\" width=\"375\"><p>Overall this is probably something they should reach out to OneTrust to verify as we do not have sufficient understanding of how their product works, we do not know what is their stated functionality and it is not our responsibility to ensure that their product functions in specific ways. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img></img>",
+          "content": "<p>Hi Bonnie,</p><p><br /></p><p>I've tested both sites sharkclean.ca and ninjakitchen.ca and they do not appear to load either the TikTok or FB Pixels if I choose to disable targeting cookies.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/020cc55797884a7c8ea686b0e9544e0e.png\" height=\"204.014\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/020cc55797884a7c8ea686b0e9544e0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273378&amp;x-signature=jaEq4bT1Pz143IqwIxwsnuUTYMQ%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6b79753f7d2e4b2f9cca925a6dcaa9d3.png\" height=\"215.273\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b79753f7d2e4b2f9cca925a6dcaa9d3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273378&amp;x-signature=FaFqo001R%2Bqy8BKNZmgXT5w8BXE%3D\" width=\"375\"><p>Overall this is probably something they should reach out to OneTrust to verify as we do not have sufficient understanding of how their product works, we do not know what is their stated functionality and it is not our responsibility to ensure that their product functions in specific ways. </p><p><br /></p><p>Regards,</p><p>Thomas</p></img></img>",
           "type": 6
         }
       ],
@@ -323,7 +323,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>From testing the websites again it does seem that enabling Targeting Cookies will enable the TikTok Pixel:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2be32aa33e45463098a8a3000f8b1d11.png\" height=\"200.99\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2be32aa33e45463098a8a3000f8b1d11.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875786&amp;x-signature=i64JHZDnISBn2XQL%2FBXw6SG23Ek%3D\" width=\"375\"><p>Once I enable Targeting Cookies and refresh the page, the TikTok Pixel will load and fire.</p><p><br /></p><p>Thomas</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b0dadaefa71243199baac375ec0a6897.png\" height=\"197.33\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0dadaefa71243199baac375ec0a6897.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832875786&amp;x-signature=2DsqfEW5UJeCPLTiun%2FG20hKF4s%3D\" width=\"375\" /></img>",
+          "content": "<p>From testing the websites again it does seem that enabling Targeting Cookies will enable the TikTok Pixel:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2be32aa33e45463098a8a3000f8b1d11.png\" height=\"200.99\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2be32aa33e45463098a8a3000f8b1d11.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273378&amp;x-signature=Esd3kmsyrroU5jeE1k%2FNj%2FZojrw%3D\" width=\"375\"><p>Once I enable Targeting Cookies and refresh the page, the TikTok Pixel will load and fire.</p><p><br /></p><p>Thomas</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b0dadaefa71243199baac375ec0a6897.png\" height=\"197.33\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0dadaefa71243199baac375ec0a6897.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273378&amp;x-signature=Yl2EC9qPhTlAeIoQhkU0SX6tnS4%3D\" width=\"375\" /></img>",
           "type": 6
         }
       ],
@@ -531,7 +531,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 22918,
+  "pending_time": 420510,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -715,87 +715,87 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-07 at 12.23.56 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fa825b988c5e4c0f9ce9a2e395a3fa88.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=aAILKXD%2BdrWzlilJaPMi8PdiOf4%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fa825b988c5e4c0f9ce9a2e395a3fa88.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273377&x-signature=2RwPjzO%2FhQGsSKJDwS1Td5DtBsw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/fa825b988c5e4c0f9ce9a2e395a3fa88.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fa825b988c5e4c0f9ce9a2e395a3fa88.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=aAILKXD%2BdrWzlilJaPMi8PdiOf4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fa825b988c5e4c0f9ce9a2e395a3fa88.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273377&x-signature=2RwPjzO%2FhQGsSKJDwS1Td5DtBsw%3D",
           "size": 59996
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-07 at 12.24.10 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7898d91ef5ec4cbdbede511790cf637c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=MOyL69ua1%2Fwn7I4Uoz05f%2FfL7HM%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7898d91ef5ec4cbdbede511790cf637c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273377&x-signature=518H0zwLWO70t4jvSzw4%2BAxe6So%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7898d91ef5ec4cbdbede511790cf637c.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7898d91ef5ec4cbdbede511790cf637c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=MOyL69ua1%2Fwn7I4Uoz05f%2FfL7HM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7898d91ef5ec4cbdbede511790cf637c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273377&x-signature=518H0zwLWO70t4jvSzw4%2BAxe6So%3D",
           "size": 100990
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-07 at 12.24.17 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/28b1577cf4e84324ab5d994a7cb0889f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=CKfepq063RBiQcWh4e%2BDDCtWkeI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/28b1577cf4e84324ab5d994a7cb0889f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273377&x-signature=AKgVk7aPOSFVJ5JbxLLHChOuZ5E%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/28b1577cf4e84324ab5d994a7cb0889f.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/28b1577cf4e84324ab5d994a7cb0889f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=CKfepq063RBiQcWh4e%2BDDCtWkeI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/28b1577cf4e84324ab5d994a7cb0889f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273377&x-signature=AKgVk7aPOSFVJ5JbxLLHChOuZ5E%3D",
           "size": 59175
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-07 at 12.26.34 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94f3174ff930431ab740c78891035638.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=pd%2Bne6IPlBKfikKe8VqKSRt%2BURY%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94f3174ff930431ab740c78891035638.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273377&x-signature=r0xw0h9kWtK%2FPsLid2%2B%2B3UaEpAY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/94f3174ff930431ab740c78891035638.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94f3174ff930431ab740c78891035638.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=pd%2Bne6IPlBKfikKe8VqKSRt%2BURY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/94f3174ff930431ab740c78891035638.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273377&x-signature=r0xw0h9kWtK%2FPsLid2%2B%2B3UaEpAY%3D",
           "size": 92491
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/574a136e53e9478fbe5f6f2edd91fd12.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=SSfBK2XrLuBCNiPsJc93POBw774%3D",
-          "file_name": "file_20240319_01_29_46_372245",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/574a136e53e9478fbe5f6f2edd91fd12.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=SSfBK2XrLuBCNiPsJc93POBw774%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/574a136e53e9478fbe5f6f2edd91fd12.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273377&x-signature=9hYa926NdBnHdb43GXqMA3i7Q5U%3D",
+          "file_name": "file_20240323_15_56_18_033528",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/574a136e53e9478fbe5f6f2edd91fd12.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273377&x-signature=9hYa926NdBnHdb43GXqMA3i7Q5U%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/574a136e53e9478fbe5f6f2edd91fd12.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e774f2203a194a4c8e1788dfc7b0d5f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=ZhqEZqQAsSJOSmA1LCO0mV4jYfg%3D",
-          "file_name": "file_20240319_01_29_46_372317",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e774f2203a194a4c8e1788dfc7b0d5f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=ZhqEZqQAsSJOSmA1LCO0mV4jYfg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e774f2203a194a4c8e1788dfc7b0d5f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273377&x-signature=PhhKni0scqkgzApJIJUAw%2BmS5wo%3D",
+          "file_name": "file_20240323_15_56_18_033595",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e774f2203a194a4c8e1788dfc7b0d5f7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273377&x-signature=PhhKni0scqkgzApJIJUAw%2BmS5wo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e774f2203a194a4c8e1788dfc7b0d5f7.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b881d373355b4131a12233302bc8bf75.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=6kenkmvwPAvuCmqyY9%2Fi2SiZJFY%3D",
-          "file_name": "file_20240319_01_29_46_556036",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b881d373355b4131a12233302bc8bf75.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=6kenkmvwPAvuCmqyY9%2Fi2SiZJFY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b881d373355b4131a12233302bc8bf75.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273378&x-signature=SMed0tlbAEcfPZY6bpKvgU1nJi8%3D",
+          "file_name": "file_20240323_15_56_18_210451",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b881d373355b4131a12233302bc8bf75.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273378&x-signature=SMed0tlbAEcfPZY6bpKvgU1nJi8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b881d373355b4131a12233302bc8bf75.jpg",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/020cc55797884a7c8ea686b0e9544e0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=e0pBEWsxkN8L%2FM2OxZUVfAWXg9M%3D",
-          "file_name": "file_20240319_01_29_46_705961",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/020cc55797884a7c8ea686b0e9544e0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=e0pBEWsxkN8L%2FM2OxZUVfAWXg9M%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/020cc55797884a7c8ea686b0e9544e0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273378&x-signature=jaEq4bT1Pz143IqwIxwsnuUTYMQ%3D",
+          "file_name": "file_20240323_15_56_18_352474",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/020cc55797884a7c8ea686b0e9544e0e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273378&x-signature=jaEq4bT1Pz143IqwIxwsnuUTYMQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/020cc55797884a7c8ea686b0e9544e0e.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b79753f7d2e4b2f9cca925a6dcaa9d3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=6XhXx5c0ZonibcoQ7HEXJl%2Fc4Sg%3D",
-          "file_name": "file_20240319_01_29_46_706048",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b79753f7d2e4b2f9cca925a6dcaa9d3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=6XhXx5c0ZonibcoQ7HEXJl%2Fc4Sg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b79753f7d2e4b2f9cca925a6dcaa9d3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273378&x-signature=FaFqo001R%2Bqy8BKNZmgXT5w8BXE%3D",
+          "file_name": "file_20240323_15_56_18_352546",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b79753f7d2e4b2f9cca925a6dcaa9d3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273378&x-signature=FaFqo001R%2Bqy8BKNZmgXT5w8BXE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/6b79753f7d2e4b2f9cca925a6dcaa9d3.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2be32aa33e45463098a8a3000f8b1d11.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=i64JHZDnISBn2XQL%2FBXw6SG23Ek%3D",
-          "file_name": "file_20240319_01_29_46_763192",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2be32aa33e45463098a8a3000f8b1d11.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=i64JHZDnISBn2XQL%2FBXw6SG23Ek%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2be32aa33e45463098a8a3000f8b1d11.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273378&x-signature=Esd3kmsyrroU5jeE1k%2FNj%2FZojrw%3D",
+          "file_name": "file_20240323_15_56_18_404288",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2be32aa33e45463098a8a3000f8b1d11.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273378&x-signature=Esd3kmsyrroU5jeE1k%2FNj%2FZojrw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2be32aa33e45463098a8a3000f8b1d11.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0dadaefa71243199baac375ec0a6897.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=2DsqfEW5UJeCPLTiun%2FG20hKF4s%3D",
-          "file_name": "file_20240319_01_29_46_763280",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0dadaefa71243199baac375ec0a6897.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832875786&x-signature=2DsqfEW5UJeCPLTiun%2FG20hKF4s%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0dadaefa71243199baac375ec0a6897.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273378&x-signature=Yl2EC9qPhTlAeIoQhkU0SX6tnS4%3D",
+          "file_name": "file_20240323_15_56_18_404335",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b0dadaefa71243199baac375ec0a6897.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273378&x-signature=Yl2EC9qPhTlAeIoQhkU0SX6tnS4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b0dadaefa71243199baac375ec0a6897.png",
           "file_type": "jpeg",
           "biz_type": 2

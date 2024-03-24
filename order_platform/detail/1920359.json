@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354674",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1709661663,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Maria,</p><p><br /></p><p>The url that contains <span style=\"color: #333333;\">analytics.tiktok.com is from the pixel base code:</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2653e50c22fa426c8243c352558593bc.png\" height=\"247.512\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2653e50c22fa426c8243c352558593bc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838451&amp;x-signature=O9rtaPyzEjYLNA0JkKXpCwnRbOg%3D\" width=\"375\"><p>You would only ever need to embed the pixel base code once and via one method. So if for some reason the client has found multiple places the pixel base code has been embedded, they should feel free to delete and keep the base code implementation from GTM.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Maria,</p><p><br /></p><p>The url that contains <span style=\"color: #333333;\">analytics.tiktok.com is from the pixel base code:</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2653e50c22fa426c8243c352558593bc.png\" height=\"247.512\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2653e50c22fa426c8243c352558593bc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273975&amp;x-signature=4qOizEAYSSuUJmm6EU13YTm5U5A%3D\" width=\"375\"><p>You would only ever need to embed the pixel base code once and via one method. So if for some reason the client has found multiple places the pixel base code has been embedded, they should feel free to delete and keep the base code implementation from GTM.</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -184,6 +184,95 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a41edaf1-b616-455b-8612-644d0c047b1h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711124126,
+      "auto_close_hit": 0,
+      "id": 7349219963990278000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Maria, could you find out more from the client as to why this is a low priority? This is greatly impacting the performance of their ads on TikTok.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711131704,
+      "auto_close_hit": 0,
+      "id": 7349253017645892000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br></p><p><strong>[Status Update] </strong><span style=\"color: #333333;\">Client added server-side ViewContent event on 3/21. Will keep this ticket open in case they have further questions, as they actively working on the implementation.</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711131630,
+      "auto_close_hit": 0,
+      "id": 7349253091264315000,
+      "reply_role": "TSC",
+      "staff_id": 5710207,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "heidi.williams@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Heidi Williams",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7268322549460435969",
+      "name": "Heidi Williams",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Update here, client recently added server-side ViewContent event. Will keep this ticket open in case they have further questions, as they actively working on the implementation.</p><p><br></p><p>Heidi</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -211,9 +300,9 @@
   "type": 6,
   "current_role": null,
   "fd_permission": 1,
-  "status": 2,
+  "status": 1,
   "business_data": [],
-  "update_time": 1710360254,
+  "update_time": 1711131768,
   "owner_name": "Maria Velazquez Lugo",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -388,7 +477,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 416701,
+  "pending_time": 78271,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -562,9 +651,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2653e50c22fa426c8243c352558593bc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838451&x-signature=O9rtaPyzEjYLNA0JkKXpCwnRbOg%3D",
-          "file_name": "file_20240318_15_07_31_127233",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2653e50c22fa426c8243c352558593bc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838451&x-signature=O9rtaPyzEjYLNA0JkKXpCwnRbOg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2653e50c22fa426c8243c352558593bc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273975&x-signature=4qOizEAYSSuUJmm6EU13YTm5U5A%3D",
+          "file_name": "file_20240323_16_06_15_347476",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2653e50c22fa426c8243c352558593bc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273975&x-signature=4qOizEAYSSuUJmm6EU13YTm5U5A%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2653e50c22fa426c8243c352558593bc.png",
           "file_type": "jpeg",
           "biz_type": 2

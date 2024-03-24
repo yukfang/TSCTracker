@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Raquel,</p><p>I found some AddToCart signal in backend database being trigger on <a href=\"https://us.bic.com/en_us/checkout/cart/\" target=\"_blank\">https://us.bic.com/en_us/checkout/cart/</a></p><p>These signals are  missing content_id. Please ask user to double check their implementation to stop sending these AddTocart on checkout page.</p><p>Apart from this:</p><ul><li>They are <strong>not sending content_type, value and currency </strong>in AddToCart. Please ask them to fix it.</li></ul><p><br /></p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f17f65cd3951455da376217239378301.png\" height=\"249.734\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f17f65cd3951455da376217239378301.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838233&amp;x-signature=ye9Tf88SPnT0Ui0K7ymEuaciauw%3D\" width=\"375\"><p><br /></p><ul><li>They are also not sending <strong>content_type</strong> in CompletePayment </li><li>Ask them to send ViewContent on every product page with  <strong>content_id</strong>, <strong>content_type, value and currency parameter.</strong></li><li>They are <strong>not sending PIIs (email/phone) </strong>which is critical for ad performance<strong>.</strong></li><li>Pixel dev doc (refer Parameter section): <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585702922241\" target=\"_blank\">https://business-api.tiktok.com/portal/docs?id=1739585702922241</a></li><li>Ask them if they are willing to implement<strong> Events API, </strong>which can greatly improve signal coverage and ad performance</li></ul><p><br /></p><p>If possible, <strong>schedule a call</strong> with me and I can walk them through everything in that call.</p><p><br /></p><p>Use this link to schedule meeting on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img>",
+          "content": "<p>Hi Raquel,</p><p>I found some AddToCart signal in backend database being trigger on <a href=\"https://us.bic.com/en_us/checkout/cart/\" target=\"_blank\">https://us.bic.com/en_us/checkout/cart/</a></p><p>These signals are  missing content_id. Please ask user to double check their implementation to stop sending these AddTocart on checkout page.</p><p>Apart from this:</p><ul><li>They are <strong>not sending content_type, value and currency </strong>in AddToCart. Please ask them to fix it.</li></ul><p><br /></p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f17f65cd3951455da376217239378301.png\" height=\"249.734\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f17f65cd3951455da376217239378301.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273748&amp;x-signature=eG%2Bpidrrdn8y6t4%2FEgpIfD3t6gk%3D\" width=\"375\"><p><br /></p><ul><li>They are also not sending <strong>content_type</strong> in CompletePayment </li><li>Ask them to send ViewContent on every product page with  <strong>content_id</strong>, <strong>content_type, value and currency parameter.</strong></li><li>They are <strong>not sending PIIs (email/phone) </strong>which is critical for ad performance<strong>.</strong></li><li>Pixel dev doc (refer Parameter section): <a href=\"https://business-api.tiktok.com/portal/docs?id=1739585702922241\" target=\"_blank\">https://business-api.tiktok.com/portal/docs?id=1739585702922241</a></li><li>Ask them if they are willing to implement<strong> Events API, </strong>which can greatly improve signal coverage and ad performance</li></ul><p><br /></p><p>If possible, <strong>schedule a call</strong> with me and I can walk them through everything in that call.</p><p><br /></p><p>Use this link to schedule meeting on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img>",
           "type": 6
         }
       ],
@@ -149,7 +149,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>No, I'm talking about manually sending PIIs with signal.  Auto adv matching alone is not good enough.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0cb23b3b07274ba7a6ed49a93e650dcf.png\" height=\"185.011\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cb23b3b07274ba7a6ed49a93e650dcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838234&amp;x-signature=S9i2nDF2MHWenr%2B1%2B9Rk7g%2BYoio%3D\" width=\"375\"><p>PIIs can be sent manually by following this doc: </p><p>https://business-api.tiktok.com/portal/docs?id=1739585700402178</p><p><br /></p><p>We can have a call with them if they need help</p></img>",
+          "content": "<p>No, I'm talking about manually sending PIIs with signal.  Auto adv matching alone is not good enough.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0cb23b3b07274ba7a6ed49a93e650dcf.png\" height=\"185.011\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cb23b3b07274ba7a6ed49a93e650dcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273748&amp;x-signature=w60O7nEFKXl7nffjlRNujc9wbiQ%3D\" width=\"375\"><p>PIIs can be sent manually by following this doc: </p><p>https://business-api.tiktok.com/portal/docs?id=1739585700402178</p><p><br /></p><p>We can have a call with them if they need help</p></img>",
           "type": 6
         }
       ],
@@ -416,12 +416,70 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_71aff97e-3eb1-4f31-99b1-e9cc0508f67h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710881062,
+      "auto_close_hit": 0,
+      "id": 7348175456610419000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Client call on March 19th with their agency and dev team:</p><ul><li>They noted that some of their Pixel events are lacking in contents parameter coverage. Agreed to add those parameters</li><li>They did ask about the difference in value vs price parameter which I explained on call (value is for all items in a basket)</li><li>I asked them to dismiss the old diagnostic warning regarding missing content_id(s) although it may return for Add to Cart as we are only seeing roughly 80% coverage</li><li>They indicated they are open to passing us email/phone but need to set up the data layer variable in their Google Tag Manager container first</li><li>I informed them we do have templates for both browser and eAPI they can consider</li><li>They seemed to be open to EAPI implementation down the line to combat front-end headwinds</li><li>Followed up via email with some notes on the ATC event and recommendations for how to improve their Pixel setup</li></ul><p><br></p><p>---</p><p><br></p><p><span style=\"color: #222222;\">Hello Bic team,</span></p><p><span style=\"color: #222222;\">Thank you for joining the call this morning. Had a few follow up items based on our discussion earlier today regarding Pixel parameters.</span></p><ul><li><span style=\"color: #222222;\"><strong>Add to Cart events without content_id </strong>- from digging in our data tables I can see that there are roughly 20% of Add to Cart events that fire on a url of&nbsp;</span><span style=\"color: #1155CC;\"><a target=\"_blank\" href=\"https://us.bic.com/en_us/checkout/cart/\">https://us.bic.com/en_us/checkout/cart/</a></span>. The other events all fire on a product page and have content_id(s). From testing the website it appears an ATC event fires on the cart page when I change the quantity of an item already in the cart (see screenshot). However this type of ATC event doesn&#39;t have any contents parameters (content_id for now). Can you check the tag/trigger for the ATC event on the /cart page?&nbsp;</li><li><span style=\"color: #222222;\"><strong>As best practice we recommend the following parameters for all events where possible/available: value, currency, content_id and content_type</strong></span></li><ul><li><span style=\"color: #222222;\">value - this should be the numerical value of an individual item or if multiple items exist in an event (add to cart of multiple items, initiate checkout or complete payment) then this should be the collective sum of all products i.e. basket value</span></li><li><span style=\"color: #222222;\">currency - the accepted values here are currency codes (ISO 4217) i.e. USD, CAD, etc. We have them outlined here in the &#34;Parameters&#34; section for reference:&nbsp;</span><span style=\"color: #1155CC;\"><a target=\"_blank\" href=\"https://business-api.tiktok.com/portal/docs?rid=5ipocbxyw8v&amp;id=1739585702922241\">https://business-api.tiktok.com/portal/docs?rid=5ipocbxyw8v&amp;id=1739585702922241</a></span><br></li><li><span style=\"color: #222222;\">content_id - typically this is a product id or SKU and should match to the same value in the &#34;SKU ID&#34; of the TikTok catalog if you want to utilize Video Shopping Ads</span></li><li><span style=\"color: #222222;\">content_type - this will always be a string value of either &#34;product&#34; or &#34;product_group&#34;</span></li></ul><li><span style=\"color: #222222;\"><strong>Email/Phone on Complete Payment event </strong>- I believe this requires a configuration of a data layer variable in your GTM container.&nbsp;</span></li><li><span style=\"color: #222222;\"><strong>Google Tag Manager Templates</strong> - we do have templates for both browser and events api you are free to use/consider and I will link both below. Please let me know if you have any questions on how to setup/use either template. The EAPI template would require the creation of a GTM Server container and have some additional setup needed.&nbsp;</span></li><ul><li><span style=\"color: #222222;\">Browser template -&nbsp;</span><span style=\"color: #1155CC;\"><a target=\"_blank\" href=\"https://ads.tiktok.com/help/article/get-started-google-tag-manager?lang=en\">https://ads.tiktok.com/help/article/get-started-google-tag-manager?lang=en</a></span><br></li><li><span style=\"color: #222222;\">EAPI template -&nbsp;</span><span style=\"color: #1155CC;\"><a target=\"_blank\" href=\"https://business-api.tiktok.com/portal/docs?id=1772372080226305\">https://business-api.tiktok.com/portal/docs?id=1772372080226305</a></span><br></li></ul></ul><p><span style=\"color: #222222;\">Please let me know if you have any additional questions. Happy to assist you in any way we can.&nbsp;</span></p><p><span style=\"color: #222222;\">Regards,</span></p><p><span style=\"color: #222222;\">Thomas</span></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710883599,
+      "auto_close_hit": 0,
+      "id": 7348188162440610000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Client responded by email on March 19th:</p><p><br></p><p><span style=\"color: #1F2329;\">Hi Team,&nbsp;</span></p><p><span style=\"color: #1F2329;\">Thank you for your time earlier! A lot of good learning was taken from this call! And thank you&nbsp;Thomas for the below. With that please see below additional action items:&nbsp;</span></p><ul><li><span style=\"color: #38761D;\"><strong>Unified team</strong></span> to updated <span style=\"color: #1456F0;\"><a target=\"_blank\" href=\"https://docs.google.com/spreadsheets/d/1ODVv7lNAMJ3A6OBZpNhJlcBxvt7J3oPON9sYPEnDuRw/edit?usp=sharing\">Pixel Map</a></span>, to include missing parameters for Dev Team (DONE - added all parameters&nbsp;Thomas mentioned below)</li><li><span style=\"color: #FF9900;\"><strong>BIC Web</strong></span> team to update pixel code to include parameters.&nbsp;</li><li><span style=\"color: #FF9900;\"><strong>BIC Web</strong></span>&nbsp;team to check internally if we can collect email/contact number customer&nbsp;data on <span style=\"color: #1456F0;\"><a target=\"_blank\" href=\"http://us.bic.com/\">us.bic.com</a></span>. If permitted, the website will be updated by the server side team.</li><ul><li><span style=\"color: #1F2329;\"><em>Email and contact number data is to help with match rates within the TikTok platform.</em></span></li></ul></ul><p><span style=\"color: #1F2329;\">Let me know if I missed anything or if anyone has additional questions.</span></p><p><br></p><p><span style=\"color: #073763;\">Kind regards,</span></p><p><br></p><p><span style=\"color: #073763;\"><strong>Andrew Roedann C. Ragaza</strong></span></p><p><span style=\"color: #073763;\">Senior Campaign Manager - Enterprise</span></p><p><span style=\"color: #1456F0;\"><a target=\"_blank\" href>aragaza@unified.com</a></span><br></p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
-  "pending_from_follower": true,
+  "pending_from_follower": false,
   "id": 1896287,
   "workflow_nodes": [],
   "board_id": 1705151646989662,
@@ -441,9 +499,9 @@
   "type": 5,
   "current_role": null,
   "fd_permission": 1,
-  "status": 2,
+  "status": 1,
   "business_data": [],
-  "update_time": 1710363358,
+  "update_time": 1710883598,
   "owner_name": "Raquel Alexandria",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -618,7 +676,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 417320,
+  "pending_time": 326149,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -798,17 +856,17 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f17f65cd3951455da376217239378301.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838233&x-signature=ye9Tf88SPnT0Ui0K7ymEuaciauw%3D",
-          "file_name": "file_20240318_15_03_54_040368",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f17f65cd3951455da376217239378301.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838233&x-signature=ye9Tf88SPnT0Ui0K7ymEuaciauw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f17f65cd3951455da376217239378301.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273748&x-signature=eG%2Bpidrrdn8y6t4%2FEgpIfD3t6gk%3D",
+          "file_name": "file_20240323_16_02_28_280655",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f17f65cd3951455da376217239378301.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273748&x-signature=eG%2Bpidrrdn8y6t4%2FEgpIfD3t6gk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/f17f65cd3951455da376217239378301.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cb23b3b07274ba7a6ed49a93e650dcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838234&x-signature=S9i2nDF2MHWenr%2B1%2B9Rk7g%2BYoio%3D",
-          "file_name": "file_20240318_15_03_54_109497",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cb23b3b07274ba7a6ed49a93e650dcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838234&x-signature=S9i2nDF2MHWenr%2B1%2B9Rk7g%2BYoio%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cb23b3b07274ba7a6ed49a93e650dcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273748&x-signature=w60O7nEFKXl7nffjlRNujc9wbiQ%3D",
+          "file_name": "file_20240323_16_02_28_368540",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cb23b3b07274ba7a6ed49a93e650dcf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273748&x-signature=w60O7nEFKXl7nffjlRNujc9wbiQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0cb23b3b07274ba7a6ed49a93e650dcf.png",
           "file_type": "jpeg",
           "biz_type": 2

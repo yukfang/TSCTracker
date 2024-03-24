@@ -33,18 +33,47 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Mallory, I don't think the ID within Shopify is intended to align with the ID for the advertiser's business center ID or advertiser ID. That I believe is a Shopify-owned ID within their system that has no ties to TikTok.</p><p>For example, the ID: 7341419686912983041 that's listed under <strong>Shopify Bodybuilding.com bc 20240301233804</strong> in the screenshot does not exist within 3M:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b402012fd12b4f199745544453c5c570.png\" height=\"180.283\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b402012fd12b4f199745544453c5c570.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838507&amp;x-signature=XrbuAzBfggT67B6mEG9kNEDnqF4%3D\" width=\"375\" />",
+          "content": "<p>Hey Mallory, I don't think the ID within Shopify is intended to align with the ID for the advertiser's business center ID or advertiser ID. That I believe is a Shopify-owned ID within their system that has no ties to TikTok.</p><p>For example, the ID: 7341419686912983041 that's listed under <strong>Shopify Bodybuilding.com bc 20240301233804</strong> in the screenshot does not exist within 3M:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b402012fd12b4f199745544453c5c570.png\" height=\"180.283\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b402012fd12b4f199745544453c5c570.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274034&amp;x-signature=mxsZZ4MhRV20%2FR%2FY3HGSeAhowsk%3D\" width=\"375\" />",
           "type": 6
         }
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711044181,
+      "auto_close_hit": 0,
+      "id": 7348877908682768000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "mallory.gardner@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Mallory Gardner",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7059682868151010306",
+      "name": "Mallory Gardner",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi There! thank you so much, is there a chance we can get that a team member on a call with the <a href=\"http://Bodybuilding.com\" target=\"_blank noopener noreferrer\">Bodybuilding.com</a> team this coming Monday 03/25 at 11:30cst?&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_fcc29d28-020d-41fe-8e44-3ddd9c75c20g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
     }
   ],
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
-  "pending_from_follower": false,
+  "pending_from_follower": true,
   "id": 1925524,
   "workflow_nodes": [],
   "board_id": 1705151646989662,
@@ -59,14 +88,14 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_fcc29d28-020d-41fe-8e44-3ddd9c75c20g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_fcc29d28-020d-41fe-8e44-3ddd9c75c20g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": -1,
   "current_role": null,
   "fd_permission": 1,
-  "status": 1,
+  "status": 2,
   "business_data": [],
-  "update_time": 1710179284,
+  "update_time": 1711044181,
   "owner_name": "Mallory Gardner",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -241,7 +270,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 595253,
+  "pending_time": 1030780,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -417,15 +446,15 @@
         {
           "file_type": "png",
           "file_name": "Screen Shot 2024-03-07 at 10.43.43 AM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/27a410c3b3cc48b6ae48358f88825aac.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838507&x-signature=GxuQofE8ULdfgkR%2FuMhZkcuqTyI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/27a410c3b3cc48b6ae48358f88825aac.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274033&x-signature=xGTy0KlzMH4hg7mKYHD%2FRRz3Vls%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/27a410c3b3cc48b6ae48358f88825aac.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/27a410c3b3cc48b6ae48358f88825aac.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838507&x-signature=GxuQofE8ULdfgkR%2FuMhZkcuqTyI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/27a410c3b3cc48b6ae48358f88825aac.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274033&x-signature=xGTy0KlzMH4hg7mKYHD%2FRRz3Vls%3D",
           "size": 349196
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b402012fd12b4f199745544453c5c570.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838507&x-signature=XrbuAzBfggT67B6mEG9kNEDnqF4%3D",
-          "file_name": "file_20240318_15_08_27_694273",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b402012fd12b4f199745544453c5c570.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838507&x-signature=XrbuAzBfggT67B6mEG9kNEDnqF4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b402012fd12b4f199745544453c5c570.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274034&x-signature=mxsZZ4MhRV20%2FR%2FY3HGSeAhowsk%3D",
+          "file_name": "file_20240323_16_07_14_091202",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b402012fd12b4f199745544453c5c570.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274034&x-signature=mxsZZ4MhRV20%2FR%2FY3HGSeAhowsk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b402012fd12b4f199745544453c5c570.png",
           "file_type": "jpeg",
           "biz_type": 2

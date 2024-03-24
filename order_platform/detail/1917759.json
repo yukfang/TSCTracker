@@ -39,6 +39,64 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710879207,
+      "auto_close_hit": 0,
+      "id": 7348169187665134000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "danielle.hotzwik@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Danielle Hotzwik",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7255008144065250306",
+      "name": "Danielle Hotzwik",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><strong>Hi Thomas,</strong></p><p><br></p><p><strong>New ask from this team below - since they don&#39;t have unique URLs across the various stages of the application, can they optimize towards app completes? Or only app starts and then the different floodlights will only be used for tracking purposes?</strong></p><p><br></p><p><span style=\"color: #222222;\">&#34;I have created </span><span style=\"color: #1155CC;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7319530448407822338\" target=\"_blank noopener noreferrer\">the pixel</a></span> around 3 weeks ago and shared it with our ad ops team so the append it to the floodlights. Unfortunately ,we won’t be placing it on the website for this campaign.</p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">While creating the campaign, I can’t seem to add the pixel on the ad set level. Is it because the ad ops team did not append it to the floodlight yet?</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">The client also said that they have this URL for every MBNA True Line No fee applications: </span><span style=\"color: #1155CC;\"><a href=\"https://apply.mbna.ca/applicationform/generateApplicationForm.htm?src=DADM35&amp;locale=en_CA\" target=\"_blank noopener noreferrer\">https://apply.mbna.ca/applicationform/generateApplicationForm.htm?src=DADM35&amp;locale=en_CA</a></span><br></p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">They don’t have a unique URL for start, submit, approved, etc. and said that The Floodlight fires at different actions.</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">They &nbsp;have different Floodlights for every action to piggyback the Pixel.</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">App Complete = App approved+ App declined + App pending</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">Having said that, what would be the best way to move forward with tracking / events creation / optimizing for app complete since I do not have the URLs?</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">Do I need to create events, or is just sharing the pixel code with the ad ops team so they append it to the different floodlights be enough? If yes, how can we track and optimize for app complete in this case?</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p><p><span style=\"color: #222222;\">This is the list of floodlights:</span></p><p><span style=\"color: #222222;\">&nbsp;</span></p><div class=\"tableWrapper\"><table style=\"min-width: 24px;\"><colgroup><col></colgroup><tbody><tr><td><p><span style=\"color: #1155CC;\">&#34;<a href=\"https://campaignmanager.google.com/trafficking/#/accounts/307601/advertisers/6102339/floodlight/6102339/activities/9268170?q=MBNA%20True%20line&amp;status=1&amp;hidden=false\" target=\"_blank noopener noreferrer\">MBNA - MBNA True Line - No Fee - Application Quality Start - EN</a></span>&nbsp;9268170</p></td></tr><tr><td><p><span style=\"color: #1155CC;\"><a href=\"https://campaignmanager.google.com/trafficking/#/accounts/307601/advertisers/6102339/floodlight/6102339/activities/9271254?q=MBNA%20True%20line&amp;status=1&amp;hidden=false\" target=\"_blank noopener noreferrer\">MBNA - MBNA True Line - No Fee - Application Quality Start - FR</a></span>&nbsp;9271254</p></td></tr><tr><td><p><span style=\"color: #1155CC;\"><a href=\"https://campaignmanager.google.com/trafficking/#/accounts/307601/advertisers/6102339/floodlight/6102339/activities/7532139?q=MBNA%20True%20line&amp;status=1&amp;hidden=false\" target=\"_blank noopener noreferrer\">MBNA - MBNA True Line - No Fee - Application Approved - EN</a></span>&nbsp;7532139</p></td></tr><tr><td><p><span style=\"color: #1155CC;\"><a href=\"https://campaignmanager.google.com/trafficking/#/accounts/307601/advertisers/6102339/floodlight/6102339/activities/7577104?q=MBNA%20True%20line&amp;status=1&amp;hidden=false\" target=\"_blank noopener noreferrer\">MBNA - MBNA True Line - No Fee - Application Approved - FR</a></span>&nbsp;7577104</p></td></tr><tr><td><p><span style=\"color: #1155CC;\"><a href=\"https://campaignmanager.google.com/trafficking/#/accounts/307601/advertisers/6102339/floodlight/6102339/activities/7577095?q=MBNA%20True%20line&amp;status=1&amp;hidden=false\" target=\"_blank noopener noreferrer\">MBNA - MBNA True Line - No Fee - Application Declined - EN</a></span>&nbsp;7577095</p></td></tr><tr><td><p><span style=\"color: #1155CC;\"><a href=\"https://campaignmanager.google.com/trafficking/#/accounts/307601/advertisers/6102339/floodlight/6102339/activities/7532148?q=MBNA%20True%20line&amp;status=1&amp;hidden=false\" target=\"_blank noopener noreferrer\">MBNA - MBNA True Line - No Fee - Application Declined - FR</a></span>&nbsp;7532148</p></td></tr><tr><td><p><span style=\"color: #1155CC;\"><a href=\"https://campaignmanager.google.com/trafficking/#/accounts/307601/advertisers/6102339/floodlight/6102339/activities/7577098?q=MBNA%20True%20line&amp;status=1&amp;hidden=false\" target=\"_blank noopener noreferrer\">MBNA - MBNA True Line - No Fee - Application Pending - EN</a></span>&nbsp;7577098</p></td></tr><tr><td><p><span style=\"color: #1155CC;\"><a href=\"https://campaignmanager.google.com/trafficking/#/accounts/307601/advertisers/6102339/floodlight/6102339/activities/7577107?q=MBNA%20True%20line&amp;status=1&amp;hidden=false\" target=\"_blank noopener noreferrer\">MBNA - MBNA True Line - No Fee - Application Pending - FR</a></span>&nbsp;7577107</p></td></tr><tr><td><p><span style=\"color: #1155CC;\"><a href=\"https://campaignmanager.google.com/trafficking/#/accounts/307601/advertisers/6102339/floodlight/6102339/activities/7532142?q=MBNA%20True%20line&amp;status=1&amp;hidden=false\" target=\"_blank noopener noreferrer\">MBNA - MBNA True Line - No Fee - Application Start - EN</a></span>&nbsp;7532142</p></td></tr><tr><td><p><span style=\"color: #1155CC;\"><a href=\"https://campaignmanager.google.com/trafficking/#/accounts/307601/advertisers/6102339/floodlight/6102339/activities/7534212?q=MBNA%20True%20line&amp;status=1&amp;hidden=false\" target=\"_blank noopener noreferrer\">MBNA - MBNA True Line - No Fee - Application Start - FR</a></span>&nbsp;7534212</p></td></tr></tbody></table></div>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_01270517-a407-4fbe-b3b9-fc4e74a02fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710968025,
+      "auto_close_hit": 0,
+      "id": 7348549039018852000,
+      "reply_role": "TSC",
+      "staff_id": 2819808,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "thomas.mei@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Thomas Mei",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7243872271105934337",
+      "name": "Thomas Mei",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Danielle,</p><p><br></p><p>The TikTok Pixel is not designed to work with Floodlights. We can&#39;t guarantee that they will work when implemented as part of a Floodlight and we do not recommend doing so.</p><p><br></p><p>We recommend implementing the browser Pixel via a tag manager or on-site (hard coded). If they are interested in one of those implementation paths, happy to support them in getting it set up.&nbsp;</p><p><br></p><p>Regards,</p><p>Thomas</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -66,7 +124,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1709671391,
+  "update_time": 1710968025,
   "owner_name": "Danielle Hotzwik",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -241,7 +299,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1103033,
+  "pending_time": 241921,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -427,9 +485,9 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-04 at 3.33.06 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab43ef20527345bbac658a0c309e001e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838424&x-signature=A0sZSm8JkUQffhLhDy0guET7Gys%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab43ef20527345bbac658a0c309e001e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273946&x-signature=hiY7PO0yGHcE0FxgPZNs2GMo3jk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ab43ef20527345bbac658a0c309e001e.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab43ef20527345bbac658a0c309e001e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838424&x-signature=A0sZSm8JkUQffhLhDy0guET7Gys%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab43ef20527345bbac658a0c309e001e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273946&x-signature=hiY7PO0yGHcE0FxgPZNs2GMo3jk%3D",
           "size": 384309
         }
       ],

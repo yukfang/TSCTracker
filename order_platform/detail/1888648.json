@@ -59,7 +59,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_f6950c2e-703e-4cf1-b399-5c901a9e897h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0094_894f02cb-fb8f-4c54-ace0-1d54eb40df0h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": -1,
   "current_role": null,
@@ -168,7 +168,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2227155,
+  "pending_time": 2662665,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -344,9 +344,9 @@
         {
           "file_type": "jpg",
           "file_name": "image001.jpg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1cf068a5054f439982fc76762bddb4ef.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838141&x-signature=N4XTMfUVM7LMINU18w%2FwyzYwYVI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1cf068a5054f439982fc76762bddb4ef.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273652&x-signature=1Fxvc9O8godygfsHnSuP2rRTb84%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/1cf068a5054f439982fc76762bddb4ef.jpg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1cf068a5054f439982fc76762bddb4ef.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838141&x-signature=N4XTMfUVM7LMINU18w%2FwyzYwYVI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1cf068a5054f439982fc76762bddb4ef.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273652&x-signature=1Fxvc9O8godygfsHnSuP2rRTb84%3D",
           "size": 41163
         }
       ],

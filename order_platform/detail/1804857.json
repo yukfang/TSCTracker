@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1754600307444754",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1704909282,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zahra,</p><p><br /></p><p>I checked <a href=\"https://ads.tiktok.com/catalogs/product?id=7291385998133495554&amp;bc_id=6907306738542706690\" target=\"_blank\">catalog id 7291385998133495554</a> for <a href=\"https://www.anthropologie.com/shop/spiritual-gangster-peace-relaxed-crewneck-sweatshirt?category=all-new-arrivals&amp;color=082&amp;type=STANDARD&amp;quantity=1\" target=\"_blank\">Anthropologie.com</a>, and was able to identify the issue. When content_id from the pixel event parameter is matching up with Item Group ID from the catalog, the content_type parameter should be included as product_group. As you can see below, the client currently has the content_type parameter included as 'product':</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/93f7a5e5dab6489da45153fed480362b.png\" height=\"293.80170666666663\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93f7a5e5dab6489da45153fed480362b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832997&amp;x-signature=%2ByY9O5y12tYjvhY313RnNLF441w%3D\" width=\"580\"><p>the documentation here provides further instructions and explanation on parameter set-up:</p><p><a href=\"https://ads.tiktok.com/help/article/about-parameters?lang=en#:~:text=Release%20Notes-,About,-Parameters\" target=\"_blank\">https://ads.tiktok.com/help/article/about-parameters?lang=en#:~:text=Release%20Notes-,About,-Parameters</a></p><p>of note, specifically:</p><p style=\"text-align: left;\"><em>The content_type object property's value must be set to either \"product\", or \"product_group.\" If you use sku_id as content_id, use \"product\", if you use item_group_id as content_id, use \"product_group\".</em></p><p style=\"text-align: left;\"><em>This field is required for VSA.</em></p><p style=\"text-align: left;\"><br /></p><p>The client should change the parameter to <strong>content_type: product_group</strong>, and from there the match rate will improve. Please let me know if you have further questions!</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Zahra,</p><p><br /></p><p>I checked <a href=\"https://ads.tiktok.com/catalogs/product?id=7291385998133495554&amp;bc_id=6907306738542706690\" target=\"_blank\">catalog id 7291385998133495554</a> for <a href=\"https://www.anthropologie.com/shop/spiritual-gangster-peace-relaxed-crewneck-sweatshirt?category=all-new-arrivals&amp;color=082&amp;type=STANDARD&amp;quantity=1\" target=\"_blank\">Anthropologie.com</a>, and was able to identify the issue. When content_id from the pixel event parameter is matching up with Item Group ID from the catalog, the content_type parameter should be included as product_group. As you can see below, the client currently has the content_type parameter included as 'product':</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/93f7a5e5dab6489da45153fed480362b.png\" height=\"293.80170666666663\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93f7a5e5dab6489da45153fed480362b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272842&amp;x-signature=ixTfuHPE2rxW3OFAKTF%2FSfxtel4%3D\" width=\"580\"><p>the documentation here provides further instructions and explanation on parameter set-up:</p><p><a href=\"https://ads.tiktok.com/help/article/about-parameters?lang=en#:~:text=Release%20Notes-,About,-Parameters\" target=\"_blank\">https://ads.tiktok.com/help/article/about-parameters?lang=en#:~:text=Release%20Notes-,About,-Parameters</a></p><p>of note, specifically:</p><p style=\"text-align: left;\"><em>The content_type object property's value must be set to either \"product\", or \"product_group.\" If you use sku_id as content_id, use \"product\", if you use item_group_id as content_id, use \"product_group\".</em></p><p style=\"text-align: left;\"><em>This field is required for VSA.</em></p><p style=\"text-align: left;\"><br /></p><p>The client should change the parameter to <strong>content_type: product_group</strong>, and from there the match rate will improve. Please let me know if you have further questions!</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -207,7 +207,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zahra,</p><p><br /></p><p>As you point out, the match rate here is still quite low. Due to data privacy issues, I am not able to go through the diagnostics tab in the Catalog Manager and export the data that will specify the issue. Please ask the client to go here:</p><p><a href=\"https://ads.tiktok.com/catalogs/event-sources?id=7291385998133495554&amp;bc_id=6907306738542706690&amp;issue_type=overview_tab&amp;path=event-sources-detail&amp;app_id=7128467971202170882\" target=\"_blank\">Catalog Manager diagnostics - CompletePayment</a></p><p>and choose 'Export data' (here it says 'Export Sample Data' again due to data privacy issues':</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c0fa22b01e2247a095fc93d915c0cca1.png\" height=\"207.598\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c0fa22b01e2247a095fc93d915c0cca1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=jYXrnWYm6hV7cAO%2FX5Ec7vTH5JM%3D\" width=\"375\"><p>the data exported from here will pinpoint the exact products where the content ids are not matching up. From there they should be able to fix and refresh the feed. If further questions come up, do let me know.</p><p><br /></p><p>Thanks! Heidi</p></img>",
+          "content": "<p>Hi Zahra,</p><p><br /></p><p>As you point out, the match rate here is still quite low. Due to data privacy issues, I am not able to go through the diagnostics tab in the Catalog Manager and export the data that will specify the issue. Please ask the client to go here:</p><p><a href=\"https://ads.tiktok.com/catalogs/event-sources?id=7291385998133495554&amp;bc_id=6907306738542706690&amp;issue_type=overview_tab&amp;path=event-sources-detail&amp;app_id=7128467971202170882\" target=\"_blank\">Catalog Manager diagnostics - CompletePayment</a></p><p>and choose 'Export data' (here it says 'Export Sample Data' again due to data privacy issues':</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c0fa22b01e2247a095fc93d915c0cca1.png\" height=\"207.598\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c0fa22b01e2247a095fc93d915c0cca1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272842&amp;x-signature=RhPBSwjid2rT2ptuyzmB2TuIBdg%3D\" width=\"375\"><p>the data exported from here will pinpoint the exact products where the content ids are not matching up. From there they should be able to fix and refresh the feed. If further questions come up, do let me know.</p><p><br /></p><p>Thanks! Heidi</p></img>",
           "type": 6
         }
       ],
@@ -244,9 +244,9 @@
             {
               "file_type": "png",
               "file_name": "Screen Shot 2024-01-22 at 10.35.21 AM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=HYNWEsqUhZJrVyHSYv%2FGfm4aimc%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272842&x-signature=WTA8jrOR0nGza8L2S8kQ%2Biy2xLA%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=HYNWEsqUhZJrVyHSYv%2FGfm4aimc%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272842&x-signature=WTA8jrOR0nGza8L2S8kQ%2Biy2xLA%3D",
               "biz_type": 2,
               "size": 325554
             }
@@ -279,7 +279,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zahra,</p><p><br /></p><p>Besides the above instruction regarding <strong>product_group</strong> (which I can see they have fixed):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/10a0ac4d129647ed901eb1aaffbd07e5.png\" height=\"341.6709333333333\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/10a0ac4d129647ed901eb1aaffbd07e5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=2c9a3JQgr24yvebvDSfpMV7tXhk%3D\" width=\"280\"><p>However, when I search for the above item in the catalog, content_id: <span style=\"color: #121212;\">4141652010040, I can't find it when searching either by SKU, SPU, or Product id:</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8cfd86fbf9924346bd9b980fab2e1d58.png\" height=\"210.338\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8cfd86fbf9924346bd9b980fab2e1d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=6DZ3zVKEGH1ADTW1916rGG4sss4%3D\" width=\"375\"><p>so that means the catalog on their site and their TikTok catalog are out of sync. I will check wether the catalog is frozen for some reason, and get back to you.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "content": "<p>Hi Zahra,</p><p><br /></p><p>Besides the above instruction regarding <strong>product_group</strong> (which I can see they have fixed):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/10a0ac4d129647ed901eb1aaffbd07e5.png\" height=\"341.6709333333333\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/10a0ac4d129647ed901eb1aaffbd07e5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272842&amp;x-signature=39Q4%2FNSsepxam7nUoasaBmNyQYg%3D\" width=\"280\"><p>However, when I search for the above item in the catalog, content_id: <span style=\"color: #121212;\">4141652010040, I can't find it when searching either by SKU, SPU, or Product id:</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/8cfd86fbf9924346bd9b980fab2e1d58.png\" height=\"210.338\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8cfd86fbf9924346bd9b980fab2e1d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272842&amp;x-signature=ecfu1HHkLFRSM6c%2Fhtw74JmZjSA%3D\" width=\"375\"><p>so that means the catalog on their site and their TikTok catalog are out of sync. I will check wether the catalog is frozen for some reason, and get back to you.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
           "type": 6
         }
       ],
@@ -316,9 +316,9 @@
             {
               "file_type": "png",
               "file_name": "image001 (9).png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=9CL12DgeYEkg3bt38OXXe3kBWhk%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=L62UpqCjJPpDKxQK9jdPzVMfxYg%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=9CL12DgeYEkg3bt38OXXe3kBWhk%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=L62UpqCjJPpDKxQK9jdPzVMfxYg%3D",
               "biz_type": 2,
               "size": 122758
             }
@@ -359,9 +359,9 @@
             {
               "file_type": "csv",
               "file_name": "sample_events.csv",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=23z0rTG1Ce5zBp5Qr29%2B%2Fs8u32Y%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv?lk3s=cbe26b3a&x-expires=4833272843&x-signature=uM4xjWrMkXgZo%2FBcEHlfXLh42aE%3D",
               "file_key": "tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=23z0rTG1Ce5zBp5Qr29%2B%2Fs8u32Y%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv?lk3s=cbe26b3a&x-expires=4833272843&x-signature=uM4xjWrMkXgZo%2FBcEHlfXLh42aE%3D",
               "biz_type": 2,
               "size": 497
             }
@@ -423,7 +423,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Calvin, yes, according to my backend tool, the catalog is frozen:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cca5f83ab8c34bceb166a2ba64cca52b.png\" height=\"127.243\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca5f83ab8c34bceb166a2ba64cca52b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=9TzW4uKvBhXQULqUW22eWq5tVTM%3D\" width=\"375\"><p>I have suggested to Zahra to submit a ticket to TPS to have the catalog unfrozen. That will allow the data to refresh, then we can see where we stand with items matching up.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Calvin, yes, according to my backend tool, the catalog is frozen:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/cca5f83ab8c34bceb166a2ba64cca52b.png\" height=\"127.243\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca5f83ab8c34bceb166a2ba64cca52b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272843&amp;x-signature=LwXGKADw%2B2cJD6%2BHzp%2FQ9qUHaAk%3D\" width=\"375\"><p>I have suggested to Zahra to submit a ticket to TPS to have the catalog unfrozen. That will allow the data to refresh, then we can see where we stand with items matching up.</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -460,9 +460,9 @@
             {
               "file_type": "csv",
               "file_name": "Anthropologie Data Pull.csv",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=0ESdJV193aF4bzab6YejVQTZVN4%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv?lk3s=cbe26b3a&x-expires=4833272843&x-signature=QiBMXyFUON071CSM%2BjBAzEHkRqU%3D",
               "file_key": "tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=0ESdJV193aF4bzab6YejVQTZVN4%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv?lk3s=cbe26b3a&x-expires=4833272843&x-signature=QiBMXyFUON071CSM%2BjBAzEHkRqU%3D",
               "biz_type": 2,
               "size": 1772570
             }
@@ -642,7 +642,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zahra, I am still seeing that the catalog is frozen. Could you please <a href=\"https://ads.tiktok.com/athena/requester/boards/1692583767221250?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456\" target=\"_blank\">submit a ticket with TPS</a> and ask them to un-freeze the catalog? You can provide this screenshot:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ffdd1e9a51654de595d5c73d19da7854.png\" height=\"127.336\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ffdd1e9a51654de595d5c73d19da7854.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=ER80EsRxBubjsNxzzgYdITNvqPg%3D\" width=\"375\"><p>The correct ticket path for this is <strong>Athena &gt; Platforms &gt; TikTok Internal Tickets &gt; Commerce &gt;</strong> then scroll down and you will see an option to submit a Catalog-specific issue:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/070261c2fe424461878c94b61641359e.png\" height=\"158.736\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/070261c2fe424461878c94b61641359e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=jJO9lLIwklFouenG0PfCrCnsezU%3D\" width=\"375\"><p>Unfortunately, my team does not have permissions to un-freeze catalogs. After the catalog is unfrozen, we will need to observe the match rate over the course of a few days to really see progress. I'll keep this ticket open until we know the rates are actually improving.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "content": "<p>Hi Zahra, I am still seeing that the catalog is frozen. Could you please <a href=\"https://ads.tiktok.com/athena/requester/boards/1692583767221250?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456\" target=\"_blank\">submit a ticket with TPS</a> and ask them to un-freeze the catalog? You can provide this screenshot:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ffdd1e9a51654de595d5c73d19da7854.png\" height=\"127.336\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ffdd1e9a51654de595d5c73d19da7854.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272843&amp;x-signature=wnFJmhAHjFCuVzLwdHDaGJsqUH4%3D\" width=\"375\"><p>The correct ticket path for this is <strong>Athena &gt; Platforms &gt; TikTok Internal Tickets &gt; Commerce &gt;</strong> then scroll down and you will see an option to submit a Catalog-specific issue:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/070261c2fe424461878c94b61641359e.png\" height=\"158.736\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/070261c2fe424461878c94b61641359e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272843&amp;x-signature=md4xriFh1FuZuBoDQXEI144Ybfw%3D\" width=\"375\"><p>Unfortunately, my team does not have permissions to un-freeze catalogs. After the catalog is unfrozen, we will need to observe the match rate over the course of a few days to really see progress. I'll keep this ticket open until we know the rates are actually improving.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
           "type": 6
         }
       ],
@@ -679,9 +679,9 @@
             {
               "file_type": "png",
               "file_name": "Screen Shot 2024-02-19 at 2.03.45 PM.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=PphLsB4HjeYcbybVDOq7iOCRAjk%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=ZzjEfLVWznFvy0XBMErMcrQbUDc%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=PphLsB4HjeYcbybVDOq7iOCRAjk%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=ZzjEfLVWznFvy0XBMErMcrQbUDc%3D",
               "biz_type": 2,
               "size": 85669
             }
@@ -772,7 +772,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Zahra, one more note. I am seeing that some items on the web site are not in the catalog. Example:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png\" height=\"238.401\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=j2u27TaL0B2crAfsyiCvHytjHMA%3D\" width=\"375\"><p><a href=\"https://www.anthropologie.com/shop/simon-miller-axon-sleeveless-knit-dress?category=new-clothes&amp;color=060&amp;type=STANDARD&amp;quantity=1\" target=\"_blank\">SPU ID 4139954760007</a></p><p>but when I search for it in catalog, nothing comes up:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png\" height=\"232.851\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832998&amp;x-signature=BBDYqFU4QgIwsjPxMvRbSyD17TU%3D\" width=\"375\"><p>searching by either SPU ID or title 'Simon Miller Axon Sleeveless Knit Dress'.</p><p><br /></p><p>So there remains an issue where the site and the TikTok catalog are not synced. They should update the feed, and I can check again. </p><p><br /></p><p>But the issue also remains that they will need to create a campaign with budget against it to un-freeze the catalog. The reason for this is TikTok has over a billion items in catalogs and it is necessary to conserve data resources for catalogs linked to active campaigns. I hope this is clear for them! </p><p><br /></p><p>Heidi</p></img></img>",
+          "content": "<p>Zahra, one more note. I am seeing that some items on the web site are not in the catalog. Example:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png\" height=\"238.401\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272843&amp;x-signature=nfYnF5s27WBiJqgjY7UfNCfdMcc%3D\" width=\"375\"><p><a href=\"https://www.anthropologie.com/shop/simon-miller-axon-sleeveless-knit-dress?category=new-clothes&amp;color=060&amp;type=STANDARD&amp;quantity=1\" target=\"_blank\">SPU ID 4139954760007</a></p><p>but when I search for it in catalog, nothing comes up:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png\" height=\"232.851\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272843&amp;x-signature=z8L%2FvcDG16G%2BhhDpEyp1O2PfQ30%3D\" width=\"375\"><p>searching by either SPU ID or title 'Simon Miller Axon Sleeveless Knit Dress'.</p><p><br /></p><p>So there remains an issue where the site and the TikTok catalog are not synced. They should update the feed, and I can check again. </p><p><br /></p><p>But the issue also remains that they will need to create a campaign with budget against it to un-freeze the catalog. The reason for this is TikTok has over a billion items in catalogs and it is necessary to conserve data resources for catalogs linked to active campaigns. I hope this is clear for them! </p><p><br /></p><p>Heidi</p></img></img>",
           "type": 6
         }
       ],
@@ -858,7 +858,7 @@
     0
   ],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 5,
   "current_role": null,
@@ -901,7 +901,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 589270,
+  "pending_time": 1029115,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -1040,23 +1040,23 @@
         {
           "file_type": "jpeg",
           "file_name": "anthro catalog.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/58f4d09933494a629e07f29770e6ff93.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832997&x-signature=oaCEjnwMbzcxBpZUiJnrceDg%2FmA%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/58f4d09933494a629e07f29770e6ff93.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272842&x-signature=XePVMe7sl1lbnvYmBcF%2BJ49fKkI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/58f4d09933494a629e07f29770e6ff93.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/58f4d09933494a629e07f29770e6ff93.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832997&x-signature=oaCEjnwMbzcxBpZUiJnrceDg%2FmA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/58f4d09933494a629e07f29770e6ff93.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272842&x-signature=XePVMe7sl1lbnvYmBcF%2BJ49fKkI%3D",
           "size": 147275
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93f7a5e5dab6489da45153fed480362b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832997&x-signature=%2ByY9O5y12tYjvhY313RnNLF441w%3D",
-          "file_name": "file_20240318_13_36_37_863195",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93f7a5e5dab6489da45153fed480362b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832997&x-signature=%2ByY9O5y12tYjvhY313RnNLF441w%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93f7a5e5dab6489da45153fed480362b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272842&x-signature=ixTfuHPE2rxW3OFAKTF%2FSfxtel4%3D",
+          "file_name": "file_20240323_15_47_22_732684",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93f7a5e5dab6489da45153fed480362b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272842&x-signature=ixTfuHPE2rxW3OFAKTF%2FSfxtel4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/93f7a5e5dab6489da45153fed480362b.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c0fa22b01e2247a095fc93d915c0cca1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=jYXrnWYm6hV7cAO%2FX5Ec7vTH5JM%3D",
-          "file_name": "file_20240318_13_36_38_055174",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c0fa22b01e2247a095fc93d915c0cca1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=jYXrnWYm6hV7cAO%2FX5Ec7vTH5JM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c0fa22b01e2247a095fc93d915c0cca1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272842&x-signature=RhPBSwjid2rT2ptuyzmB2TuIBdg%3D",
+          "file_name": "file_20240323_15_47_22_917888",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c0fa22b01e2247a095fc93d915c0cca1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272842&x-signature=RhPBSwjid2rT2ptuyzmB2TuIBdg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c0fa22b01e2247a095fc93d915c0cca1.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -1064,24 +1064,24 @@
         {
           "file_type": "png",
           "file_name": "Screen Shot 2024-01-22 at 10.35.21 AM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=HYNWEsqUhZJrVyHSYv%2FGfm4aimc%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272842&x-signature=WTA8jrOR0nGza8L2S8kQ%2Biy2xLA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=HYNWEsqUhZJrVyHSYv%2FGfm4aimc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/983579dfd8f74eaa8f958568cecff424.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272842&x-signature=WTA8jrOR0nGza8L2S8kQ%2Biy2xLA%3D",
           "biz_type": 2,
           "size": 325554
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8cfd86fbf9924346bd9b980fab2e1d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=6DZ3zVKEGH1ADTW1916rGG4sss4%3D",
-          "file_name": "file_20240318_13_36_38_159103",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8cfd86fbf9924346bd9b980fab2e1d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=6DZ3zVKEGH1ADTW1916rGG4sss4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8cfd86fbf9924346bd9b980fab2e1d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272842&x-signature=ecfu1HHkLFRSM6c%2Fhtw74JmZjSA%3D",
+          "file_name": "file_20240323_15_47_23_008146",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8cfd86fbf9924346bd9b980fab2e1d58.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272842&x-signature=ecfu1HHkLFRSM6c%2Fhtw74JmZjSA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8cfd86fbf9924346bd9b980fab2e1d58.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/10a0ac4d129647ed901eb1aaffbd07e5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=2c9a3JQgr24yvebvDSfpMV7tXhk%3D",
-          "file_name": "file_20240318_13_36_38_159178",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/10a0ac4d129647ed901eb1aaffbd07e5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=2c9a3JQgr24yvebvDSfpMV7tXhk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/10a0ac4d129647ed901eb1aaffbd07e5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272842&x-signature=39Q4%2FNSsepxam7nUoasaBmNyQYg%3D",
+          "file_name": "file_20240323_15_47_23_008212",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/10a0ac4d129647ed901eb1aaffbd07e5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272842&x-signature=39Q4%2FNSsepxam7nUoasaBmNyQYg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/10a0ac4d129647ed901eb1aaffbd07e5.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -1089,25 +1089,25 @@
         {
           "file_type": "png",
           "file_name": "image001 (9).png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=9CL12DgeYEkg3bt38OXXe3kBWhk%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=L62UpqCjJPpDKxQK9jdPzVMfxYg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=9CL12DgeYEkg3bt38OXXe3kBWhk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7907c26e6c4c4c908001724270aef69f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=L62UpqCjJPpDKxQK9jdPzVMfxYg%3D",
           "biz_type": 2,
           "size": 122758
         },
         {
           "file_type": "csv",
           "file_name": "sample_events.csv",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=23z0rTG1Ce5zBp5Qr29%2B%2Fs8u32Y%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv?lk3s=cbe26b3a&x-expires=4833272843&x-signature=uM4xjWrMkXgZo%2FBcEHlfXLh42aE%3D",
           "file_key": "tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=23z0rTG1Ce5zBp5Qr29%2B%2Fs8u32Y%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEGBqTDBFArYwdHyA1eSECKUCy7IAQAfgl7PnE.csv?lk3s=cbe26b3a&x-expires=4833272843&x-signature=uM4xjWrMkXgZo%2FBcEHlfXLh42aE%3D",
           "biz_type": 2,
           "size": 497
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca5f83ab8c34bceb166a2ba64cca52b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=9TzW4uKvBhXQULqUW22eWq5tVTM%3D",
-          "file_name": "file_20240318_13_36_38_289650",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca5f83ab8c34bceb166a2ba64cca52b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=9TzW4uKvBhXQULqUW22eWq5tVTM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca5f83ab8c34bceb166a2ba64cca52b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=LwXGKADw%2B2cJD6%2BHzp%2FQ9qUHaAk%3D",
+          "file_name": "file_20240323_15_47_23_192806",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cca5f83ab8c34bceb166a2ba64cca52b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=LwXGKADw%2B2cJD6%2BHzp%2FQ9qUHaAk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/cca5f83ab8c34bceb166a2ba64cca52b.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -1115,24 +1115,24 @@
         {
           "file_type": "csv",
           "file_name": "Anthropologie Data Pull.csv",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=0ESdJV193aF4bzab6YejVQTZVN4%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv?lk3s=cbe26b3a&x-expires=4833272843&x-signature=QiBMXyFUON071CSM%2BjBAzEHkRqU%3D",
           "file_key": "tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv?lk3s=cbe26b3a&x-expires=4832832998&x-signature=0ESdJV193aF4bzab6YejVQTZVN4%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o4V0zyADfCBLAHBlKsTMd3Aw2iatm5GAjIiEAq.csv?lk3s=cbe26b3a&x-expires=4833272843&x-signature=QiBMXyFUON071CSM%2BjBAzEHkRqU%3D",
           "biz_type": 2,
           "size": 1772570
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ffdd1e9a51654de595d5c73d19da7854.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=ER80EsRxBubjsNxzzgYdITNvqPg%3D",
-          "file_name": "file_20240318_13_36_38_482880",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ffdd1e9a51654de595d5c73d19da7854.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=ER80EsRxBubjsNxzzgYdITNvqPg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ffdd1e9a51654de595d5c73d19da7854.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=wnFJmhAHjFCuVzLwdHDaGJsqUH4%3D",
+          "file_name": "file_20240323_15_47_23_388514",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ffdd1e9a51654de595d5c73d19da7854.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=wnFJmhAHjFCuVzLwdHDaGJsqUH4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ffdd1e9a51654de595d5c73d19da7854.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/070261c2fe424461878c94b61641359e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=jJO9lLIwklFouenG0PfCrCnsezU%3D",
-          "file_name": "file_20240318_13_36_38_482950",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/070261c2fe424461878c94b61641359e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=jJO9lLIwklFouenG0PfCrCnsezU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/070261c2fe424461878c94b61641359e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=md4xriFh1FuZuBoDQXEI144Ybfw%3D",
+          "file_name": "file_20240323_15_47_23_388577",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/070261c2fe424461878c94b61641359e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=md4xriFh1FuZuBoDQXEI144Ybfw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/070261c2fe424461878c94b61641359e.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -1140,25 +1140,25 @@
         {
           "file_type": "png",
           "file_name": "Screen Shot 2024-02-19 at 2.03.45 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=PphLsB4HjeYcbybVDOq7iOCRAjk%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=ZzjEfLVWznFvy0XBMErMcrQbUDc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=PphLsB4HjeYcbybVDOq7iOCRAjk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/36b49b418fc44cef8cdb1b8657e9ea27.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=ZzjEfLVWznFvy0XBMErMcrQbUDc%3D",
           "biz_type": 2,
           "size": 85669
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=BBDYqFU4QgIwsjPxMvRbSyD17TU%3D",
-          "file_name": "file_20240318_13_36_38_666494",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=BBDYqFU4QgIwsjPxMvRbSyD17TU%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=nfYnF5s27WBiJqgjY7UfNCfdMcc%3D",
+          "file_name": "file_20240323_15_47_23_545785",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=nfYnF5s27WBiJqgjY7UfNCfdMcc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=j2u27TaL0B2crAfsyiCvHytjHMA%3D",
-          "file_name": "file_20240318_13_36_38_666576",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832998&x-signature=j2u27TaL0B2crAfsyiCvHytjHMA%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/0e6658fac78041d5a67cb0cfae6a7331.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=z8L%2FvcDG16G%2BhhDpEyp1O2PfQ30%3D",
+          "file_name": "file_20240323_15_47_23_545854",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272843&x-signature=z8L%2FvcDG16G%2BhhDpEyp1O2PfQ30%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7790604785714840952b3435b1b95732.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

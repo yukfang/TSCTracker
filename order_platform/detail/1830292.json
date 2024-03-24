@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Kim,</p><p><br /></p><p>Thank you for reaching out.</p><p><br /></p><ol><li>Frozen catalog: All three catalogs have been set to a frozen state - i.e. automatic feed uploads have been paused - since the client has not used them in an active campaign for more than 28 days. As a result, there are products missing from the catalog, which is  affecting the match rate. Please find below the 'last updated' dates for each catalog:</li></ol><ul><ul><li>UK Catalog: 2023-12-26</li><li>DE Catalog: 2023-10-27</li><li>FR Catalog: 2023-10-30</li></ul></ul><p>Please ask the client to manually trigger a feed upload for each through following the steps below:</p><img alt=\"Screenshot 2024-01-24 at 10.29.03.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png\" height=\"142.657\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833428&amp;x-signature=grSi1rMJLsMBEOmz39ZJrjRYL1c%3D\" width=\"375\"><p>The client may want to update their Upload Method to 'Replace Feed' in order to avoid keeping old products that may no longer exist on their website. They may find the below section under Product Sources &gt; click on the Source &gt; Settings &gt; Edit:</p><img alt=\"Screenshot 2024-01-24 at 10.48.02.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png\" height=\"289.376\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833428&amp;x-signature=TkKl9oA83KG78uBgTGeyyNZ3CEw%3D\" width=\"375\"><p><br /></p><ol><li>Multi-Country catalog, Global Pixel: The client is using the same Pixel ID: C1O3SDUHLSU5AAHCG8QG across all markets, but the catalogs are split on a country-level. We can see that the same SKU ID and SPU IDs are used across all regions, and therefore there are no issues with the Pixel or Catalog setup, however; there may be cases where one market is missing items that exist on another market, therefore not allowing the match rates to reach to 100% match rates.</li></ol><p><br /></p><p>Best,</p><p>Katerina</p></img></img>",
+          "content": "<p>Hi Kim,</p><p><br /></p><p>Thank you for reaching out.</p><p><br /></p><ol><li>Frozen catalog: All three catalogs have been set to a frozen state - i.e. automatic feed uploads have been paused - since the client has not used them in an active campaign for more than 28 days. As a result, there are products missing from the catalog, which is  affecting the match rate. Please find below the 'last updated' dates for each catalog:</li></ol><ul><ul><li>UK Catalog: 2023-12-26</li><li>DE Catalog: 2023-10-27</li><li>FR Catalog: 2023-10-30</li></ul></ul><p>Please ask the client to manually trigger a feed upload for each through following the steps below:</p><img alt=\"Screenshot 2024-01-24 at 10.29.03.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png\" height=\"142.657\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273029&amp;x-signature=DCT89w%2BSjJOn7ydWnuZVk2HfI9I%3D\" width=\"375\"><p>The client may want to update their Upload Method to 'Replace Feed' in order to avoid keeping old products that may no longer exist on their website. They may find the below section under Product Sources &gt; click on the Source &gt; Settings &gt; Edit:</p><img alt=\"Screenshot 2024-01-24 at 10.48.02.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png\" height=\"289.376\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273029&amp;x-signature=E%2BwncaYiTfMBKrODEHwg1etKFtE%3D\" width=\"375\"><p><br /></p><ol><li>Multi-Country catalog, Global Pixel: The client is using the same Pixel ID: C1O3SDUHLSU5AAHCG8QG across all markets, but the catalogs are split on a country-level. We can see that the same SKU ID and SPU IDs are used across all regions, and therefore there are no issues with the Pixel or Catalog setup, however; there may be cases where one market is missing items that exist on another market, therefore not allowing the match rates to reach to 100% match rates.</li></ol><p><br /></p><p>Best,</p><p>Katerina</p></img></img>",
           "type": 6
         }
       ],
@@ -164,7 +164,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 4575438,
+  "pending_time": 5015039,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -301,18 +301,18 @@
       "label": "Screenshot(s)",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833428&x-signature=grSi1rMJLsMBEOmz39ZJrjRYL1c%3D",
-          "file_name": "file_20240318_13_43_48_270724",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833428&x-signature=grSi1rMJLsMBEOmz39ZJrjRYL1c%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273029&x-signature=E%2BwncaYiTfMBKrODEHwg1etKFtE%3D",
+          "file_name": "file_20240323_15_50_29_656919",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273029&x-signature=E%2BwncaYiTfMBKrODEHwg1etKFtE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833428&x-signature=TkKl9oA83KG78uBgTGeyyNZ3CEw%3D",
-          "file_name": "file_20240318_13_43_48_270789",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833428&x-signature=TkKl9oA83KG78uBgTGeyyNZ3CEw%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/0417a6f3c4fb4455b5d835a89fce2077.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273029&x-signature=DCT89w%2BSjJOn7ydWnuZVk2HfI9I%3D",
+          "file_name": "file_20240323_15_50_29_656983",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273029&x-signature=DCT89w%2BSjJOn7ydWnuZVk2HfI9I%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/92f9d674e9224f4a80bbf95255737e7d.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

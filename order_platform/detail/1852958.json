@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Riley,</p><p><br /></p><p>I've reviewed both Ad Accounts linked in this ticket and it seems the one for Kayak EMEA does not have an associated Pixel: </p><p>https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7223473499094958082</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/93534209d9f740f98b2a094305fd19bc.png\" height=\"90.729\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93534209d9f740f98b2a094305fd19bc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837670&amp;x-signature=RFPWTuaOB%2FRdOjClL6qDTn%2F7XOk%3D\" width=\"375\"><p><br /></p><p>Can you check and ensure that is the right ad account for Kayak EMEA?</p><p><br /></p><p>Thomas</p></img>",
+          "content": "<p>Hi Riley,</p><p><br /></p><p>I've reviewed both Ad Accounts linked in this ticket and it seems the one for Kayak EMEA does not have an associated Pixel: </p><p>https://ads.tiktok.com/i18n/events_manager/pixel?aadvid=7223473499094958082</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/93534209d9f740f98b2a094305fd19bc.png\" height=\"90.729\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93534209d9f740f98b2a094305fd19bc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273260&amp;x-signature=IpBknwCebXFyDOHMPpqO1UtcqWg%3D\" width=\"375\"><p><br /></p><p>Can you check and ensure that is the right ad account for Kayak EMEA?</p><p><br /></p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Thomas! </p><p><br /></p><p>We got a weird situation going on -- they're seeing ssomething different on their end (attaching a screenshot that they sent over).</p><p><br /></p><p><span style=\"color: #222222;\">Advertiser ID: 7223473499094958082<br>Business Center ID: 6906510617188761601<br>Pixel ID: C9P4TJBC77U4F2PRRBV0</br></br></span></p><img alt=\"image (1).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f5119f227de34f318130859bf40fe0fc.png\" height=\"217.014\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f5119f227de34f318130859bf40fe0fc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837670&amp;x-signature=m4UOWeHcxW0Km6fK8WdXxThfR18%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4378e6a0a7cb403498bf40542b6e46ea.png\" height=\"171.012\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4378e6a0a7cb403498bf40542b6e46ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837670&amp;x-signature=Zy3FT5fTK4MhzTF06AqupRIXWLE%3D\" width=\"375\" /></img>",
+          "content": "<p>Hey Thomas! </p><p><br /></p><p>We got a weird situation going on -- they're seeing ssomething different on their end (attaching a screenshot that they sent over).</p><p><br /></p><p><span style=\"color: #222222;\">Advertiser ID: 7223473499094958082<br>Business Center ID: 6906510617188761601<br>Pixel ID: C9P4TJBC77U4F2PRRBV0</br></br></span></p><img alt=\"image (1).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f5119f227de34f318130859bf40fe0fc.png\" height=\"217.014\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f5119f227de34f318130859bf40fe0fc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273260&amp;x-signature=%2Fsdpc1wGxLG%2FSpVFSV%2B%2B2EM1ja4%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4378e6a0a7cb403498bf40542b6e46ea.png\" height=\"171.012\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4378e6a0a7cb403498bf40542b6e46ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273260&amp;x-signature=DP2GvUC6IUTrEzxizL1CZXOtASw%3D\" width=\"375\" /></img>",
           "type": 6
         }
       ],
@@ -328,7 +328,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3348696,
+  "pending_time": 3784285,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -503,26 +503,26 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93534209d9f740f98b2a094305fd19bc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837670&x-signature=RFPWTuaOB%2FRdOjClL6qDTn%2F7XOk%3D",
-          "file_name": "file_20240318_14_54_30_790153",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93534209d9f740f98b2a094305fd19bc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837670&x-signature=RFPWTuaOB%2FRdOjClL6qDTn%2F7XOk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93534209d9f740f98b2a094305fd19bc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273260&x-signature=IpBknwCebXFyDOHMPpqO1UtcqWg%3D",
+          "file_name": "file_20240323_15_54_20_558510",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/93534209d9f740f98b2a094305fd19bc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273260&x-signature=IpBknwCebXFyDOHMPpqO1UtcqWg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/93534209d9f740f98b2a094305fd19bc.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f5119f227de34f318130859bf40fe0fc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837670&x-signature=m4UOWeHcxW0Km6fK8WdXxThfR18%3D",
-          "file_name": "file_20240318_14_54_30_863245",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f5119f227de34f318130859bf40fe0fc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837670&x-signature=m4UOWeHcxW0Km6fK8WdXxThfR18%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/f5119f227de34f318130859bf40fe0fc.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4378e6a0a7cb403498bf40542b6e46ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273260&x-signature=DP2GvUC6IUTrEzxizL1CZXOtASw%3D",
+          "file_name": "file_20240323_15_54_20_635164",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4378e6a0a7cb403498bf40542b6e46ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273260&x-signature=DP2GvUC6IUTrEzxizL1CZXOtASw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4378e6a0a7cb403498bf40542b6e46ea.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4378e6a0a7cb403498bf40542b6e46ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837670&x-signature=Zy3FT5fTK4MhzTF06AqupRIXWLE%3D",
-          "file_name": "file_20240318_14_54_30_863324",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4378e6a0a7cb403498bf40542b6e46ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837670&x-signature=Zy3FT5fTK4MhzTF06AqupRIXWLE%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/4378e6a0a7cb403498bf40542b6e46ea.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f5119f227de34f318130859bf40fe0fc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273260&x-signature=%2Fsdpc1wGxLG%2FSpVFSV%2B%2B2EM1ja4%3D",
+          "file_name": "file_20240323_15_54_20_635269",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f5119f227de34f318130859bf40fe0fc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273260&x-signature=%2Fsdpc1wGxLG%2FSpVFSV%2B%2B2EM1ja4%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f5119f227de34f318130859bf40fe0fc.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

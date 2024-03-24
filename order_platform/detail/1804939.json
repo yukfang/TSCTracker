@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1704912842,
   "deadline": 0,
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p><strong>[status update]</strong></p><p><strong>Performed a pixel QA:</strong><br>- Events are triggering as expected</br></p><p>-Signal Score= 100</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/181b682268694f2280ec72480ddbf56b.png\" height=\"49.465\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/181b682268694f2280ec72480ddbf56b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832741&amp;x-signature=%2FYJDSyoMpe1jIXe0VQIP6CRKLJU%3D\" width=\"375\"><p><br><strong>synced up with Austen :</strong><br>-  Client is fine for now and does not need technical assistance<br>-CSM to revisit this in his next sync with client.<br>Keeping ticket open.</br></br></br></br></p></img>",
+          "content": "<p><strong>[status update]</strong></p><p><strong>Performed a pixel QA:</strong><br>- Events are triggering as expected</br></p><p>-Signal Score= 100</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/181b682268694f2280ec72480ddbf56b.png\" height=\"49.465\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/181b682268694f2280ec72480ddbf56b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272847&amp;x-signature=JCANzI%2BdQsiqZj7fKhWfHGIhLiE%3D\" width=\"375\"><p><br><strong>synced up with Austen :</strong><br>-  Client is fine for now and does not need technical assistance<br>-CSM to revisit this in his next sync with client.<br>Keeping ticket open.</br></br></br></br></p></img>",
           "type": 6
         }
       ],
@@ -206,7 +206,7 @@
     0
   ],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_f4d8d6a1-b006-4c61-b1be-d93be5c0d5ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0090_1cd7b199-adcb-4d16-97e3-68c2d700f6fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": -1,
   "current_role": null,
@@ -388,7 +388,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 895228,
+  "pending_time": 1335334,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -564,39 +564,39 @@
         {
           "file_type": "jpeg",
           "file_name": "gds.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac5ef27fe86546ee9b34507c74f60cd4.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=%2BSZkr8ETI2YZSqauHGg%2FX7tFN14%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac5ef27fe86546ee9b34507c74f60cd4.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272846&x-signature=ioGDbGFH5jueoeCmO%2FlUPPsUBvw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ac5ef27fe86546ee9b34507c74f60cd4.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac5ef27fe86546ee9b34507c74f60cd4.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=%2BSZkr8ETI2YZSqauHGg%2FX7tFN14%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac5ef27fe86546ee9b34507c74f60cd4.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272846&x-signature=ioGDbGFH5jueoeCmO%2FlUPPsUBvw%3D",
           "size": 123406
         },
         {
           "file_type": "jpeg",
           "file_name": "gds1.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d980d6d6c764e2cbb06b1970bb667d8.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=eO4WdGY3eRCSlTDZgtiJwgj4eRI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d980d6d6c764e2cbb06b1970bb667d8.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272846&x-signature=kvbr8Fd2FlrcP2hKpYgV1fZwOro%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4d980d6d6c764e2cbb06b1970bb667d8.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d980d6d6c764e2cbb06b1970bb667d8.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=eO4WdGY3eRCSlTDZgtiJwgj4eRI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d980d6d6c764e2cbb06b1970bb667d8.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272846&x-signature=kvbr8Fd2FlrcP2hKpYgV1fZwOro%3D",
           "size": 556322
         },
         {
           "file_type": "jpeg",
           "file_name": "gds2.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5c7019fd2cfd42b1964eba331c814785.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=2iWW%2Fu29WBxFCcHZoXwlJuxGWRo%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5c7019fd2cfd42b1964eba331c814785.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272846&x-signature=Z%2F3P0nK5ulPjxYEfjygllKOWdtA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5c7019fd2cfd42b1964eba331c814785.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5c7019fd2cfd42b1964eba331c814785.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=2iWW%2Fu29WBxFCcHZoXwlJuxGWRo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5c7019fd2cfd42b1964eba331c814785.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272846&x-signature=Z%2F3P0nK5ulPjxYEfjygllKOWdtA%3D",
           "size": 560107
         },
         {
           "file_type": "jpeg",
           "file_name": "gds3.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6d25565b395b4858ad4a101f41b0fa1b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=KnGEptk%2FHAYjnFx%2FHZN0CL9FWZg%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6d25565b395b4858ad4a101f41b0fa1b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272846&x-signature=n%2BtMYtYT%2B2PciT9guVXcxODXPBI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/6d25565b395b4858ad4a101f41b0fa1b.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6d25565b395b4858ad4a101f41b0fa1b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832740&x-signature=KnGEptk%2FHAYjnFx%2FHZN0CL9FWZg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6d25565b395b4858ad4a101f41b0fa1b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272846&x-signature=n%2BtMYtYT%2B2PciT9guVXcxODXPBI%3D",
           "size": 569341
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/181b682268694f2280ec72480ddbf56b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832741&x-signature=%2FYJDSyoMpe1jIXe0VQIP6CRKLJU%3D",
-          "file_name": "file_20240318_13_32_21_167891",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/181b682268694f2280ec72480ddbf56b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832741&x-signature=%2FYJDSyoMpe1jIXe0VQIP6CRKLJU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/181b682268694f2280ec72480ddbf56b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272847&x-signature=JCANzI%2BdQsiqZj7fKhWfHGIhLiE%3D",
+          "file_name": "file_20240323_15_47_27_242311",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/181b682268694f2280ec72480ddbf56b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272847&x-signature=JCANzI%2BdQsiqZj7fKhWfHGIhLiE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/181b682268694f2280ec72480ddbf56b.png",
           "file_type": "jpeg",
           "biz_type": 2

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1768849764192257",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1708011608,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Lizzie,</p><p>For basic<strong> VSA setup</strong>, <br>ViewContent + AddToCart + CompletePayment with</br></p><p><strong>content_id, content_type, value and currency </strong>is needed.</p><p>Could you elaborate the blocker client is having?</p><p><br /></p><p>I do see they are only passing value is half of the signals for AddToCart and Viewcontent.</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ef3c483d4dc84e99b072981ee2706e75.png\" height=\"171.064\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef3c483d4dc84e99b072981ee2706e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838009&amp;x-signature=q1hKTniJeSC%2FCyUpcZ3wWnOMOmg%3D\" width=\"375\"><p><br /></p><p><strong>Client signal score is already 100, which is great. They just need to fix some parameters.</strong><br>Lets have an internal sync to discuss more regarding this ticket after 3 pm today.</br></p><p>Use this link to schedule <strong>meeting on my calendar</strong></p><p><a href=\"http://tinyurl.com/Saurabh-scheduler\" target=\"_blank\">http://tinyurl.com/Saurabh-scheduler </a></p></img>",
+          "content": "<p>Hi Lizzie,</p><p>For basic<strong> VSA setup</strong>, <br>ViewContent + AddToCart + CompletePayment with</br></p><p><strong>content_id, content_type, value and currency </strong>is needed.</p><p>Could you elaborate the blocker client is having?</p><p><br /></p><p>I do see they are only passing value is half of the signals for AddToCart and Viewcontent.</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ef3c483d4dc84e99b072981ee2706e75.png\" height=\"171.064\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef3c483d4dc84e99b072981ee2706e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273541&amp;x-signature=nfZkzklsgzAr0gtXzKZW4OmpWP0%3D\" width=\"375\"><p><br /></p><p><strong>Client signal score is already 100, which is great. They just need to fix some parameters.</strong><br>Lets have an internal sync to discuss more regarding this ticket after 3 pm today.</br></p><p>Use this link to schedule <strong>meeting on my calendar</strong></p><p><a href=\"http://tinyurl.com/Saurabh-scheduler\" target=\"_blank\">http://tinyurl.com/Saurabh-scheduler </a></p></img>",
           "type": 6
         }
       ],
@@ -214,7 +214,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1460799,
+  "pending_time": 1896331,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -327,9 +327,9 @@
     {
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef3c483d4dc84e99b072981ee2706e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838009&x-signature=q1hKTniJeSC%2FCyUpcZ3wWnOMOmg%3D",
-          "file_name": "file_20240318_15_00_09_107705",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef3c483d4dc84e99b072981ee2706e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838009&x-signature=q1hKTniJeSC%2FCyUpcZ3wWnOMOmg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef3c483d4dc84e99b072981ee2706e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273541&x-signature=nfZkzklsgzAr0gtXzKZW4OmpWP0%3D",
+          "file_name": "file_20240323_15_59_01_450855",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef3c483d4dc84e99b072981ee2706e75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273541&x-signature=nfZkzklsgzAr0gtXzKZW4OmpWP0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ef3c483d4dc84e99b072981ee2706e75.png",
           "file_type": "jpeg",
           "biz_type": 2

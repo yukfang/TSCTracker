@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Ricky,</p><p>Happy New Year and thanks for reaching out to us! I was able to take a look and it seems like this might be indicative of a potential bug. </p><p><br /></p><p>Confirming that I'm seeing the same thing as you are for Pixel <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C2449FNMU8Q03RAHVSQ0?start_time=2024-01-03&amp;end_time=2024-01-03&amp;from=ALL&amp;aadvid=6888684254100717570\" target=\"_blank\">C2449FNMU8Q03RAHVSQ0</a>, seeing an overall drop in events beginning the new year 1/1/24</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3046d137779b4dabaa3baac162c09160.png\" height=\"103.28\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3046d137779b4dabaa3baac162c09160.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832805&amp;x-signature=9MO4JrBCvBArzXIijPBtCBuEBWA%3D\" width=\"375\"><p>Confirming that the ViewContent event is triggering correctly:</p><p>https://www.katespade.com/products/lounge-hearts-loafers/KF026.html?frp=KF026%20BLK%20%205%20%20%20B</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/080943862d16450ab55e11c767784e08.png\" height=\"207.555\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/080943862d16450ab55e11c767784e08.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832805&amp;x-signature=2v2NiXb6Wh%2BPnpS0UvIRWALDQ00%3D\" width=\"375\"><p><br /></p><p>https://www.katespade.com/products/anna-medium-envelope-clutch/K9949.html?frp=K9949%20BLK</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/dead2d1bc10f4ab5a1657be2967a6c20.png\" height=\"207.732\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dead2d1bc10f4ab5a1657be2967a6c20.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832805&amp;x-signature=xPKPSLCVMXPIQk9qVcdMDytvbpA%3D\" width=\"375\"><p><br /></p><p>We're seeing the following counts:</p><ul><li>12/20/23</li><ul><li>EM count: 356596</li><li>Backend count: 333,843</li><li>Difference: 22,753</li></ul><li>12/27/23</li><ul><li>EM count: 482817</li><li>Backend count: 503,748</li><li>Difference: 20,931</li></ul><li>1/1/24</li><ul><li>EW count: <span style=\"color: #121212;\">317814</span></li><li><span style=\"color: #121212;\">Backend count: 296,479</span></li><li><span style=\"color: #121212;\">Difference: 21,335</span></li></ul><li>1/2/24</li><ul><li>EM count: <span style=\"color: #121212;\">349108</span></li><li><span style=\"color: #121212;\">Backend count: 349,652</span></li><li><span style=\"color: #121212;\">Difference: 544</span></li></ul><li>1/3/24</li><ul><li>EM count: <span style=\"color: #121212;\">167023</span></li><li><span style=\"color: #121212;\">Backend count: 222,029</span></li><li><span style=\"color: #121212;\">Difference: <strong>55,006</strong></span></li></ul><li>1/4/24</li><ul><li>EM count: <span style=\"color: #121212;\">117515</span></li><li><span style=\"color: #121212;\">Backend count: 146,375</span></li><li><span style=\"color: #121212;\">Difference: 28,860</span></li></ul></ul><p><br /></p><p>It looks like starting 1/3 and 1/4, the ViewContent event counts are almost cut in half. The difference between EM and our Backend data is the highest on 1/3 with <span style=\"color: #121212;\">55,006, almost double of the average from what we've been seeing before 1/1/24</span></p><p><br /></p><p><span style=\"color: #121212;\">Let me reach out internally and I'll let you know as soon as I get word back! No action items for the advertiser for the time being as it looks like there are no issues with ViewContent event tracking for the Web Pixel </span><span style=\"color: #666666;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C2449FNMU8Q03RAHVSQ0?start_time=2024-01-03&amp;end_time=2024-01-03&amp;from=ALL&amp;aadvid=6888684254100717570\" target=\"_blank\">C2449FNMU8Q03RAHVSQ0</a></span><br /></p><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img>",
+          "content": "<p>Hi Ricky,</p><p>Happy New Year and thanks for reaching out to us! I was able to take a look and it seems like this might be indicative of a potential bug. </p><p><br /></p><p>Confirming that I'm seeing the same thing as you are for Pixel <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C2449FNMU8Q03RAHVSQ0?start_time=2024-01-03&amp;end_time=2024-01-03&amp;from=ALL&amp;aadvid=6888684254100717570\" target=\"_blank\">C2449FNMU8Q03RAHVSQ0</a>, seeing an overall drop in events beginning the new year 1/1/24</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3046d137779b4dabaa3baac162c09160.png\" height=\"103.28\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3046d137779b4dabaa3baac162c09160.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272166&amp;x-signature=808f4Z%2BI0ZLNHTT2Lkj2uj1V6es%3D\" width=\"375\"><p>Confirming that the ViewContent event is triggering correctly:</p><p>https://www.katespade.com/products/lounge-hearts-loafers/KF026.html?frp=KF026%20BLK%20%205%20%20%20B</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/080943862d16450ab55e11c767784e08.png\" height=\"207.555\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/080943862d16450ab55e11c767784e08.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272166&amp;x-signature=DOKuyJL%2BbO7iE6ryGAeNoctApkc%3D\" width=\"375\"><p><br /></p><p>https://www.katespade.com/products/anna-medium-envelope-clutch/K9949.html?frp=K9949%20BLK</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/dead2d1bc10f4ab5a1657be2967a6c20.png\" height=\"207.732\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dead2d1bc10f4ab5a1657be2967a6c20.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272166&amp;x-signature=z30qG5Fap0j69ll4cmeZDlJDe9U%3D\" width=\"375\"><p><br /></p><p>We're seeing the following counts:</p><ul><li>12/20/23</li><ul><li>EM count: 356596</li><li>Backend count: 333,843</li><li>Difference: 22,753</li></ul><li>12/27/23</li><ul><li>EM count: 482817</li><li>Backend count: 503,748</li><li>Difference: 20,931</li></ul><li>1/1/24</li><ul><li>EW count: <span style=\"color: #121212;\">317814</span></li><li><span style=\"color: #121212;\">Backend count: 296,479</span></li><li><span style=\"color: #121212;\">Difference: 21,335</span></li></ul><li>1/2/24</li><ul><li>EM count: <span style=\"color: #121212;\">349108</span></li><li><span style=\"color: #121212;\">Backend count: 349,652</span></li><li><span style=\"color: #121212;\">Difference: 544</span></li></ul><li>1/3/24</li><ul><li>EM count: <span style=\"color: #121212;\">167023</span></li><li><span style=\"color: #121212;\">Backend count: 222,029</span></li><li><span style=\"color: #121212;\">Difference: <strong>55,006</strong></span></li></ul><li>1/4/24</li><ul><li>EM count: <span style=\"color: #121212;\">117515</span></li><li><span style=\"color: #121212;\">Backend count: 146,375</span></li><li><span style=\"color: #121212;\">Difference: 28,860</span></li></ul></ul><p><br /></p><p>It looks like starting 1/3 and 1/4, the ViewContent event counts are almost cut in half. The difference between EM and our Backend data is the highest on 1/3 with <span style=\"color: #121212;\">55,006, almost double of the average from what we've been seeing before 1/1/24</span></p><p><br /></p><p><span style=\"color: #121212;\">Let me reach out internally and I'll let you know as soon as I get word back! No action items for the advertiser for the time being as it looks like there are no issues with ViewContent event tracking for the Web Pixel </span><span style=\"color: #666666;\"><a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C2449FNMU8Q03RAHVSQ0?start_time=2024-01-03&amp;end_time=2024-01-03&amp;from=ALL&amp;aadvid=6888684254100717570\" target=\"_blank\">C2449FNMU8Q03RAHVSQ0</a></span><br /></p><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img>",
           "type": 6
         }
       ],
@@ -120,7 +120,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Ricky,</p><p>A quick favor - would you be able to take a look at the ViewContent event data again in the UI? It actually looks like content_id is making it over to us:</p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/C2449FNMU8Q03RAHVSQ0?start_time=2024-01-05&amp;end_time=2024-01-07&amp;from=ALL&amp;aadvid=6888684254100717570</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/06868c6709c945e5809f46a5639e506b.png\" height=\"347.907\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06868c6709c945e5809f46a5639e506b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832805&amp;x-signature=ONqmGepZzh517MlRWPtipNsuu68%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
+          "content": "<p>Hi Ricky,</p><p>A quick favor - would you be able to take a look at the ViewContent event data again in the UI? It actually looks like content_id is making it over to us:</p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/C2449FNMU8Q03RAHVSQ0?start_time=2024-01-05&amp;end_time=2024-01-07&amp;from=ALL&amp;aadvid=6888684254100717570</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/06868c6709c945e5809f46a5639e506b.png\" height=\"347.907\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06868c6709c945e5809f46a5639e506b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272166&amp;x-signature=qHs5XBB5L5UewJ7GbxMOAJyKvi4%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img>",
           "type": 6
         }
       ],
@@ -149,7 +149,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Robbie, </p><p><br /></p><p>Yes! It looks like we're matching again! <br><br /></br></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a13789ebb9e4410d8e179fbac49f0c65.png\" height=\"67.197\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a13789ebb9e4410d8e179fbac49f0c65.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832805&amp;x-signature=LAPXMOiRrHxowuY6SRRCDnJMPto%3D\" width=\"375\"><p>I do see there was a drop still on 12/31, but if we're back now, then I think it's fine. </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f4b338b3592c4dfe950c4c445829bdb5.png\" height=\"157.803\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4b338b3592c4dfe950c4c445829bdb5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832805&amp;x-signature=0tJcEbonYMaCpGjfjw0WBH2SjN0%3D\" width=\"375\" /></img>",
+          "content": "<p>Hey Robbie, </p><p><br /></p><p>Yes! It looks like we're matching again! <br><br /></br></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a13789ebb9e4410d8e179fbac49f0c65.png\" height=\"67.197\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a13789ebb9e4410d8e179fbac49f0c65.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272166&amp;x-signature=nMaBkS0XNMj9LZ37eZGddjScz9Y%3D\" width=\"375\"><p>I do see there was a drop still on 12/31, but if we're back now, then I think it's fine. </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f4b338b3592c4dfe950c4c445829bdb5.png\" height=\"157.803\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4b338b3592c4dfe950c4c445829bdb5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272166&amp;x-signature=NNEWuQzq9f0t%2Fp6MT4lk%2BZWner0%3D\" width=\"375\" /></img>",
           "type": 6
         }
       ],
@@ -247,7 +247,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2666713,
+  "pending_time": 3106074,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -386,64 +386,64 @@
         {
           "file_type": "png",
           "file_name": "Catalog Event Source Match Rate 1.4.24.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4079b0937b294f0882ccfc6fa6ee4d56.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=lNMe97%2BNd8Kkw573IGtl0uvbuVQ%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4079b0937b294f0882ccfc6fa6ee4d56.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272165&x-signature=eWYCZForXDqWX%2BOSZ2j9HeeA35k%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4079b0937b294f0882ccfc6fa6ee4d56.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4079b0937b294f0882ccfc6fa6ee4d56.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=lNMe97%2BNd8Kkw573IGtl0uvbuVQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4079b0937b294f0882ccfc6fa6ee4d56.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272165&x-signature=eWYCZForXDqWX%2BOSZ2j9HeeA35k%3D",
           "size": 684096
         },
         {
           "file_type": "jpeg",
           "file_name": "Catalog Event Source Match Rates 1.4.24.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9a925600d6d945b5bfc69d67f50d8595.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=KGZfBze8FzZj6pGiyq01OmS%2FRcc%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9a925600d6d945b5bfc69d67f50d8595.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272165&x-signature=5qhA211g5QOWBC%2FkESgsna9z%2BHo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/9a925600d6d945b5bfc69d67f50d8595.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9a925600d6d945b5bfc69d67f50d8595.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=KGZfBze8FzZj6pGiyq01OmS%2FRcc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9a925600d6d945b5bfc69d67f50d8595.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272165&x-signature=5qhA211g5QOWBC%2FkESgsna9z%2BHo%3D",
           "size": 82511
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3046d137779b4dabaa3baac162c09160.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=9MO4JrBCvBArzXIijPBtCBuEBWA%3D",
-          "file_name": "file_20240318_13_33_25_599482",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3046d137779b4dabaa3baac162c09160.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=9MO4JrBCvBArzXIijPBtCBuEBWA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3046d137779b4dabaa3baac162c09160.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272166&x-signature=808f4Z%2BI0ZLNHTT2Lkj2uj1V6es%3D",
+          "file_name": "file_20240323_15_36_06_290416",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3046d137779b4dabaa3baac162c09160.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272166&x-signature=808f4Z%2BI0ZLNHTT2Lkj2uj1V6es%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/3046d137779b4dabaa3baac162c09160.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dead2d1bc10f4ab5a1657be2967a6c20.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=xPKPSLCVMXPIQk9qVcdMDytvbpA%3D",
-          "file_name": "file_20240318_13_33_25_599646",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dead2d1bc10f4ab5a1657be2967a6c20.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=xPKPSLCVMXPIQk9qVcdMDytvbpA%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/dead2d1bc10f4ab5a1657be2967a6c20.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/080943862d16450ab55e11c767784e08.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=2v2NiXb6Wh%2BPnpS0UvIRWALDQ00%3D",
-          "file_name": "file_20240318_13_33_25_599677",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/080943862d16450ab55e11c767784e08.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=2v2NiXb6Wh%2BPnpS0UvIRWALDQ00%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/080943862d16450ab55e11c767784e08.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272166&x-signature=DOKuyJL%2BbO7iE6ryGAeNoctApkc%3D",
+          "file_name": "file_20240323_15_36_06_290482",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/080943862d16450ab55e11c767784e08.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272166&x-signature=DOKuyJL%2BbO7iE6ryGAeNoctApkc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/080943862d16450ab55e11c767784e08.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06868c6709c945e5809f46a5639e506b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=ONqmGepZzh517MlRWPtipNsuu68%3D",
-          "file_name": "file_20240318_13_33_25_751467",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06868c6709c945e5809f46a5639e506b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=ONqmGepZzh517MlRWPtipNsuu68%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dead2d1bc10f4ab5a1657be2967a6c20.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272166&x-signature=z30qG5Fap0j69ll4cmeZDlJDe9U%3D",
+          "file_name": "file_20240323_15_36_06_290499",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dead2d1bc10f4ab5a1657be2967a6c20.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272166&x-signature=z30qG5Fap0j69ll4cmeZDlJDe9U%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/dead2d1bc10f4ab5a1657be2967a6c20.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06868c6709c945e5809f46a5639e506b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272166&x-signature=qHs5XBB5L5UewJ7GbxMOAJyKvi4%3D",
+          "file_name": "file_20240323_15_36_06_455573",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/06868c6709c945e5809f46a5639e506b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272166&x-signature=qHs5XBB5L5UewJ7GbxMOAJyKvi4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/06868c6709c945e5809f46a5639e506b.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a13789ebb9e4410d8e179fbac49f0c65.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=LAPXMOiRrHxowuY6SRRCDnJMPto%3D",
-          "file_name": "file_20240318_13_33_25_800337",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a13789ebb9e4410d8e179fbac49f0c65.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=LAPXMOiRrHxowuY6SRRCDnJMPto%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/a13789ebb9e4410d8e179fbac49f0c65.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4b338b3592c4dfe950c4c445829bdb5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272166&x-signature=NNEWuQzq9f0t%2Fp6MT4lk%2BZWner0%3D",
+          "file_name": "file_20240323_15_36_06_508506",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4b338b3592c4dfe950c4c445829bdb5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272166&x-signature=NNEWuQzq9f0t%2Fp6MT4lk%2BZWner0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f4b338b3592c4dfe950c4c445829bdb5.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4b338b3592c4dfe950c4c445829bdb5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=0tJcEbonYMaCpGjfjw0WBH2SjN0%3D",
-          "file_name": "file_20240318_13_33_25_800410",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f4b338b3592c4dfe950c4c445829bdb5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832805&x-signature=0tJcEbonYMaCpGjfjw0WBH2SjN0%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/f4b338b3592c4dfe950c4c445829bdb5.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a13789ebb9e4410d8e179fbac49f0c65.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272166&x-signature=nMaBkS0XNMj9LZ37eZGddjScz9Y%3D",
+          "file_name": "file_20240323_15_36_06_508569",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a13789ebb9e4410d8e179fbac49f0c65.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272166&x-signature=nMaBkS0XNMj9LZ37eZGddjScz9Y%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a13789ebb9e4410d8e179fbac49f0c65.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

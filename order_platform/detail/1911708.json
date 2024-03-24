@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Griffin, their Complete Payment has great coverage from a PII/identifier perspective:</p><img alt=\"Screenshot 2024-03-05 at 11.57.08 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1c5f666c8aef4748bcc7e7b4dc785155.png\" height=\"449.176\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1c5f666c8aef4748bcc7e7b4dc785155.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838383&amp;x-signature=Xt9F1oowcG8ibd4DVd4y2lLGDrI%3D\" width=\"375\"><p>On that note, I pulled a query result of their recent CP events and they show hashed values for nearly all email/phone values. There are a handful of events that show up as \"NULL\" for email and/or phone, which is expected if no value for email or phone is passed back. TikTok receives all phone/email values <strong>after</strong> they get auto-hashed or pre-hashed on the advertiser's end. So that being said, I'm not able to identify which values were pre hashed by the advertiser or auto hashed for values not sent using SHA-256 encryption. And to address their other question, regardless of whether or not email/phone is pre-hashed, the property name will always remain <em>email</em> or <em>phone</em>.</p><p>I attached the results for the recent CP events for their reference. If they have any follow-ups, let me know. Thanks!</p></img>",
+          "content": "<p>Hey Griffin, their Complete Payment has great coverage from a PII/identifier perspective:</p><img alt=\"Screenshot 2024-03-05 at 11.57.08 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1c5f666c8aef4748bcc7e7b4dc785155.png\" height=\"449.176\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1c5f666c8aef4748bcc7e7b4dc785155.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273901&amp;x-signature=qMTvb4hLqRZW976tt%2B9t%2BOxDsII%3D\" width=\"375\"><p>On that note, I pulled a query result of their recent CP events and they show hashed values for nearly all email/phone values. There are a handful of events that show up as \"NULL\" for email and/or phone, which is expected if no value for email or phone is passed back. TikTok receives all phone/email values <strong>after</strong> they get auto-hashed or pre-hashed on the advertiser's end. So that being said, I'm not able to identify which values were pre hashed by the advertiser or auto hashed for values not sent using SHA-256 encryption. And to address their other question, regardless of whether or not email/phone is pre-hashed, the property name will always remain <em>email</em> or <em>phone</em>.</p><p>I attached the results for the recent CP events for their reference. If they have any follow-ups, let me know. Thanks!</p></img>",
           "type": 6
         },
         {
@@ -41,9 +41,9 @@
             {
               "file_type": "csv",
               "file_name": "281474987637929-Useful Queries-Event Audit-Rex MD Alpha.csv",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUzjq5AIIElhO9AB3elUODqC5AYvQTAfgECFH1.csv?lk3s=cbe26b3a&x-expires=4832838383&x-signature=haQUzTdCJoiY957mr09We9nGI08%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUzjq5AIIElhO9AB3elUODqC5AYvQTAfgECFH1.csv?lk3s=cbe26b3a&x-expires=4833273901&x-signature=KYQpbHjaYI3e1PDKcDV7mZ%2BIkD0%3D",
               "file_key": "tos-alisg-v-90231e-sg/oUzjq5AIIElhO9AB3elUODqC5AYvQTAfgECFH1.csv",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUzjq5AIIElhO9AB3elUODqC5AYvQTAfgECFH1.csv?lk3s=cbe26b3a&x-expires=4832838383&x-signature=haQUzTdCJoiY957mr09We9nGI08%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUzjq5AIIElhO9AB3elUODqC5AYvQTAfgECFH1.csv?lk3s=cbe26b3a&x-expires=4833273901&x-signature=KYQpbHjaYI3e1PDKcDV7mZ%2BIkD0%3D",
               "biz_type": 2,
               "size": 6182365
             }
@@ -184,7 +184,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 943898,
+  "pending_time": 1379416,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -360,23 +360,23 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-01 at 11.45.44 AM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/932b5f7310dd46dfbef3c706f1813cbe.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838383&x-signature=Y0HxZpvzm3X1D25R3ph88USZ3QI%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/932b5f7310dd46dfbef3c706f1813cbe.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273901&x-signature=COhVW4HaQX9GQ27wU1d8EH6oJE8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/932b5f7310dd46dfbef3c706f1813cbe.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/932b5f7310dd46dfbef3c706f1813cbe.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838383&x-signature=Y0HxZpvzm3X1D25R3ph88USZ3QI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/932b5f7310dd46dfbef3c706f1813cbe.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273901&x-signature=COhVW4HaQX9GQ27wU1d8EH6oJE8%3D",
           "size": 27912
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-03-01 at 11.45.37 AM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d66acf8b5b914301b91662fc45c1a9d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838383&x-signature=MrMpFq8SYn95gpcJ%2FR0sqTKSeQA%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d66acf8b5b914301b91662fc45c1a9d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273901&x-signature=BgUZm7c8P%2BMe3Xb%2Fx%2BhEhioVdZo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d66acf8b5b914301b91662fc45c1a9d2.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d66acf8b5b914301b91662fc45c1a9d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838383&x-signature=MrMpFq8SYn95gpcJ%2FR0sqTKSeQA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d66acf8b5b914301b91662fc45c1a9d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273901&x-signature=BgUZm7c8P%2BMe3Xb%2Fx%2BhEhioVdZo%3D",
           "size": 42678
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1c5f666c8aef4748bcc7e7b4dc785155.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838383&x-signature=Xt9F1oowcG8ibd4DVd4y2lLGDrI%3D",
-          "file_name": "file_20240318_15_06_23_736119",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1c5f666c8aef4748bcc7e7b4dc785155.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838383&x-signature=Xt9F1oowcG8ibd4DVd4y2lLGDrI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1c5f666c8aef4748bcc7e7b4dc785155.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273901&x-signature=qMTvb4hLqRZW976tt%2B9t%2BOxDsII%3D",
+          "file_name": "file_20240323_16_05_01_623167",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1c5f666c8aef4748bcc7e7b4dc785155.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273901&x-signature=qMTvb4hLqRZW976tt%2B9t%2BOxDsII%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/1c5f666c8aef4748bcc7e7b4dc785155.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -384,9 +384,9 @@
         {
           "file_type": "csv",
           "file_name": "281474987637929-Useful Queries-Event Audit-Rex MD Alpha.csv",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUzjq5AIIElhO9AB3elUODqC5AYvQTAfgECFH1.csv?lk3s=cbe26b3a&x-expires=4832838383&x-signature=haQUzTdCJoiY957mr09We9nGI08%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUzjq5AIIElhO9AB3elUODqC5AYvQTAfgECFH1.csv?lk3s=cbe26b3a&x-expires=4833273901&x-signature=KYQpbHjaYI3e1PDKcDV7mZ%2BIkD0%3D",
           "file_key": "tos-alisg-v-90231e-sg/oUzjq5AIIElhO9AB3elUODqC5AYvQTAfgECFH1.csv",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUzjq5AIIElhO9AB3elUODqC5AYvQTAfgECFH1.csv?lk3s=cbe26b3a&x-expires=4832838383&x-signature=haQUzTdCJoiY957mr09We9nGI08%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUzjq5AIIElhO9AB3elUODqC5AYvQTAfgECFH1.csv?lk3s=cbe26b3a&x-expires=4833273901&x-signature=KYQpbHjaYI3e1PDKcDV7mZ%2BIkD0%3D",
           "biz_type": 2,
           "size": 6182365
         }

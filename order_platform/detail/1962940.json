@@ -1,0 +1,295 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1791202334548993",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0091_89326080-ece9-4780-aaa1-5fb6b697eahu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "方宇",
+  "create_time": 1711127688,
+  "deadline": 0,
+  "archive_board_id": 1705151646989842,
+  "replies": [],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1962940,
+  "workflow_nodes": [],
+  "board_id": 1705151646989842,
+  "employee_email": "fangyu.k@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Zumba iOS campaign",
+  "category_1_name": "iOS SKAN Audit",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_85abe5ab-dbee-42d6-9b86-7279c28e6efh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 0,
+  "business_data": [],
+  "update_time": 1711129012,
+  "owner_name": "Jessica Puro",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 1,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "iOS SKAN Audit",
+  "archive_category_1": "1791202334548993",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1791202334548993",
+      "cate_1_form_id": 1791205071838209,
+      "sub_cates": [],
+      "value": "iOS SKAN Audit"
+    }
+  ],
+  "core_user_id": "7128352992928384002",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "admin",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Jessica Puro",
+  "follow_employee_id": 5276013,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 147403,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "",
+      "content": "Zumba iOS campaign",
+      "valid": true,
+      "item_id": 1791205071838225,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Zumba Fitness",
+      "valid": true,
+      "item_id": 1791205071838241,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1791205071838257,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1791205260785714,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1791205328494657,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "BPM / Sales",
+      "valid": true,
+      "key": "BPM / Sales",
+      "item_id": 1791205337175074,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": "7325532308138934273",
+      "valid": true,
+      "item_id": 1791205337177090,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1791205337177106,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "iOS Mobile App ID",
+      "content": "6447769025",
+      "valid": true,
+      "item_id": 1791205752022065,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Android Mobile App ID (if available)",
+      "content": "",
+      "valid": true,
+      "item_id": 1791205752023041,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "SKAN Version",
+      "content": "Currently on 3.0",
+      "valid": true,
+      "key": "Currently on 3.0",
+      "item_id": 1791205752023057,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Client MMP",
+      "content": "Appsflyer",
+      "valid": true,
+      "key": "Appsflyer",
+      "item_id": 1791205757763634,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason of request",
+      "content": "Campaign started, but inaccurate data postback",
+      "valid": true,
+      "key": "Campaign started, but inaccurate data postback",
+      "item_id": 1791205889917953,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue model",
+      "content": "Subscription",
+      "valid": true,
+      "key": "Subscription",
+      "item_id": 1791205889918977,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Describe the current problem in details (excluding sanity check requests)",
+      "content": "I am not sure what SKAN version they have or how to check!\n\nThe client is about to run our App install ios flywheel activation and asked that we double check that it is properly set up. He said that the numbers he's seeing in AppsFlyer for TikTok is very low.\n\nThis is for the SKAN Events of the iOS campaign and the event is free trial ",
+      "valid": true,
+      "item_id": 1791205970506753,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Enter the campaign or ad group ID  (excluding sanity check requests)",
+      "content": "",
+      "valid": true,
+      "item_id": 1791205970506769,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Describe the desired future state in details (excluding sanity check requests)",
+      "content": "",
+      "valid": true,
+      "item_id": 1791205970506785,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Can client see the same behaviour on MMP dashboard?  (excluding sanity check requests)",
+      "content": "",
+      "valid": true,
+      "item_id": 1791205970506801,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshots of partner integration",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "image (1).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fc239554197d4d8798524a294e040189.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339093&x-signature=yorU6p0m6tVRYqlOJro%2Fs%2BpO13w%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/fc239554197d4d8798524a294e040189.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fc239554197d4d8798524a294e040189.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339093&x-signature=yorU6p0m6tVRYqlOJro%2Fs%2BpO13w%3D",
+          "size": 128033
+        },
+        {
+          "file_type": "png",
+          "file_name": "image (2).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9a0608c99f34618b77d06c77a506844.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339093&x-signature=yojttkzm0d59r5oMQfa7uatpfoE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c9a0608c99f34618b77d06c77a506844.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c9a0608c99f34618b77d06c77a506844.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339093&x-signature=yojttkzm0d59r5oMQfa7uatpfoE%3D",
+          "size": 192677
+        }
+      ],
+      "valid": true,
+      "item_id": 1791205970507809,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshots of SKAN Conversion Value mapping",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "image (3).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac83282a1b704e5a82fd4a78b9d7b69f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339093&x-signature=6%2BZ3uptD8rHAC4D4DyiUm3f5yWA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ac83282a1b704e5a82fd4a78b9d7b69f.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ac83282a1b704e5a82fd4a78b9d7b69f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339093&x-signature=6%2BZ3uptD8rHAC4D4DyiUm3f5yWA%3D",
+          "size": 103621
+        }
+      ],
+      "valid": true,
+      "item_id": 1791205970507825,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "Any comments",
+      "content": "",
+      "valid": true,
+      "item_id": 1791205970508801,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Apps-iOS SKAN Audit"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354674",
-  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_22ca50ed-6326-411c-841f-fa3ca409b5hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0091_b18b114f-85bf-4ec2-abea-d57b30980dhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Murugan Chellappan",
   "create_time": 1704963063,
   "deadline": 0,
@@ -241,7 +241,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3319250,
+  "pending_time": 3759261,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -417,9 +417,9 @@
         {
           "file_type": "png",
           "file_name": "rws - pixel tag configuration.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e16bd7d00cf64015975347b1db3916ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832845&x-signature=cptrxovEdYufU2bLb0N9ZCr0ZjY%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e16bd7d00cf64015975347b1db3916ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272856&x-signature=jZtdfzQPRsPqHAT%2BdMdM2xA%2Bz0k%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e16bd7d00cf64015975347b1db3916ca.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e16bd7d00cf64015975347b1db3916ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832845&x-signature=cptrxovEdYufU2bLb0N9ZCr0ZjY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e16bd7d00cf64015975347b1db3916ca.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272856&x-signature=jZtdfzQPRsPqHAT%2BdMdM2xA%2Bz0k%3D",
           "size": 97608
         }
       ],

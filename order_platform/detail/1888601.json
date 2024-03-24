@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Olivia, from the query I ran, nearly 100% of the ATC and Initiate Checkout events contain content_id, so I believe their fix did the trick. In TTAM, if you filter by just the date post-fix, it should show up as 100%:</p><img alt=\"Screenshot 2024-02-21 at 4.37.21 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ee1d23914c3348cf90c821eba9f9cc75.png\" height=\"263.826\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ee1d23914c3348cf90c821eba9f9cc75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838138&amp;x-signature=h%2FgRmNvackoNW6RV5gtHk6K2xu4%3D\" width=\"375\"><p>If you extend the date range, it'll decrease since it's looking at all events, both pre- and post-fix. </p><p><br /></p><p>On a seperate note, I see these 2 catalog issues that would be good to raise to the client if they plan on using VSA:</p><img alt=\"Screenshot 2024-02-21 at 3.36.40 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ae1a56d785f442b8b56aad68b8769d0c.png\" height=\"98.774\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae1a56d785f442b8b56aad68b8769d0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838138&amp;x-signature=JOHzCgceUm%2FNqUWpH1a%2Fygb8d84%3D\" width=\"375\" /></img>",
+          "content": "<p>Hey Olivia, from the query I ran, nearly 100% of the ATC and Initiate Checkout events contain content_id, so I believe their fix did the trick. In TTAM, if you filter by just the date post-fix, it should show up as 100%:</p><img alt=\"Screenshot 2024-02-21 at 4.37.21 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ee1d23914c3348cf90c821eba9f9cc75.png\" height=\"263.826\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ee1d23914c3348cf90c821eba9f9cc75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273649&amp;x-signature=oOOLfy%2B7fCIs%2BUnCxIRZuXBjW9k%3D\" width=\"375\"><p>If you extend the date range, it'll decrease since it's looking at all events, both pre- and post-fix. </p><p><br /></p><p>On a seperate note, I see these 2 catalog issues that would be good to raise to the client if they plan on using VSA:</p><img alt=\"Screenshot 2024-02-21 at 3.36.40 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ae1a56d785f442b8b56aad68b8769d0c.png\" height=\"98.774\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae1a56d785f442b8b56aad68b8769d0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273649&amp;x-signature=X8aZsAYLz706sofQLrKJAyr7sSQ%3D\" width=\"375\" /></img>",
           "type": 6
         }
       ],
@@ -301,7 +301,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2143958,
+  "pending_time": 2579468,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -477,47 +477,47 @@
         {
           "file_type": "png",
           "file_name": "image003.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5bb623f5c344b37a4191588c1d53642.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=OwvewHHjaa0ZTFE34cXth%2F%2FoVs8%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5bb623f5c344b37a4191588c1d53642.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273648&x-signature=jMDtbfrXZVxPxW6EOH%2B%2FhnmVXyI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b5bb623f5c344b37a4191588c1d53642.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5bb623f5c344b37a4191588c1d53642.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=OwvewHHjaa0ZTFE34cXth%2F%2FoVs8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5bb623f5c344b37a4191588c1d53642.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273648&x-signature=jMDtbfrXZVxPxW6EOH%2B%2FhnmVXyI%3D",
           "size": 1069375
         },
         {
           "file_type": "jpeg",
           "file_name": "Image 1-24-24 at 2.39 PM.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5b293f6c38d425d81edd6b3c2766f3b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=uowAFu9JgYbPVLTBYh1LMW72WK0%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5b293f6c38d425d81edd6b3c2766f3b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273648&x-signature=YOkyg8km54egzDvRcPHYb89L98g%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b5b293f6c38d425d81edd6b3c2766f3b.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5b293f6c38d425d81edd6b3c2766f3b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=uowAFu9JgYbPVLTBYh1LMW72WK0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5b293f6c38d425d81edd6b3c2766f3b.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273648&x-signature=YOkyg8km54egzDvRcPHYb89L98g%3D",
           "size": 75872
         },
         {
           "file_type": "jpeg",
           "file_name": "Image 1-25-24 at 11.27 AM (1).jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/896e5856f6b44fa19018dcfc1a942be8.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=AFdRpe3TDScbcpkOYTDx3rSxTN4%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/896e5856f6b44fa19018dcfc1a942be8.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273648&x-signature=UVSWymZsyQgBSWuklfIN6xgMdGI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/896e5856f6b44fa19018dcfc1a942be8.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/896e5856f6b44fa19018dcfc1a942be8.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=AFdRpe3TDScbcpkOYTDx3rSxTN4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/896e5856f6b44fa19018dcfc1a942be8.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273648&x-signature=UVSWymZsyQgBSWuklfIN6xgMdGI%3D",
           "size": 110100
         },
         {
           "file_type": "pdf",
           "file_name": "VL Investigation 1.29 (2).pdf",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/owPAAiQAFABUi0OWdXNDDZY0J8AdEjAkZB6Tb.pdf?lk3s=cbe26b3a&x-expires=4832838138&x-signature=ZN9PNOxpfNcp0BudiSnA0YxBMKU%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/owPAAiQAFABUi0OWdXNDDZY0J8AdEjAkZB6Tb.pdf?lk3s=cbe26b3a&x-expires=4833273648&x-signature=IGfAxvssFlELiuslCZNiGrKaNnQ%3D",
           "file_key": "tos-alisg-v-90231e-sg/owPAAiQAFABUi0OWdXNDDZY0J8AdEjAkZB6Tb.pdf",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/owPAAiQAFABUi0OWdXNDDZY0J8AdEjAkZB6Tb.pdf?lk3s=cbe26b3a&x-expires=4832838138&x-signature=ZN9PNOxpfNcp0BudiSnA0YxBMKU%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/owPAAiQAFABUi0OWdXNDDZY0J8AdEjAkZB6Tb.pdf?lk3s=cbe26b3a&x-expires=4833273648&x-signature=IGfAxvssFlELiuslCZNiGrKaNnQ%3D",
           "size": 364050
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ee1d23914c3348cf90c821eba9f9cc75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=h%2FgRmNvackoNW6RV5gtHk6K2xu4%3D",
-          "file_name": "file_20240318_15_02_18_816793",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ee1d23914c3348cf90c821eba9f9cc75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=h%2FgRmNvackoNW6RV5gtHk6K2xu4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ee1d23914c3348cf90c821eba9f9cc75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273649&x-signature=oOOLfy%2B7fCIs%2BUnCxIRZuXBjW9k%3D",
+          "file_name": "file_20240323_16_00_49_173871",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ee1d23914c3348cf90c821eba9f9cc75.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273649&x-signature=oOOLfy%2B7fCIs%2BUnCxIRZuXBjW9k%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ee1d23914c3348cf90c821eba9f9cc75.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae1a56d785f442b8b56aad68b8769d0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=JOHzCgceUm%2FNqUWpH1a%2Fygb8d84%3D",
-          "file_name": "file_20240318_15_02_18_816850",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae1a56d785f442b8b56aad68b8769d0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838138&x-signature=JOHzCgceUm%2FNqUWpH1a%2Fygb8d84%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae1a56d785f442b8b56aad68b8769d0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273649&x-signature=X8aZsAYLz706sofQLrKJAyr7sSQ%3D",
+          "file_name": "file_20240323_16_00_49_173933",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ae1a56d785f442b8b56aad68b8769d0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273649&x-signature=X8aZsAYLz706sofQLrKJAyr7sSQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ae1a56d785f442b8b56aad68b8769d0c.png",
           "file_type": "jpeg",
           "biz_type": 2

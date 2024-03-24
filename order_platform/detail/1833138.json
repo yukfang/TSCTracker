@@ -29,7 +29,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_a05ad864-bff1-449e-a4bf-80280e690ahu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0091_9712e435-fb38-4e78-9d31-ce0af86aa2hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 4,
   "current_role": null,
@@ -211,7 +211,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 4727977,
+  "pending_time": 5167586,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [

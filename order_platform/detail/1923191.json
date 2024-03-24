@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1709756177,
   "deadline": 0,
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Hailey,</p><p><br /></p><p>Checking the funnel <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CJNOSN3C77U5EBTKUUI0?start_time=2024-03-07&amp;end_time=2024-03-13&amp;aadvid=6998169522557468674\" target=\"_blank\">in TTEM</a>, I can tell there is an issue with the setup:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5212e3fb79f44bd4947049d3cea317e1.png\" height=\"195.104\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5212e3fb79f44bd4947049d3cea317e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838487&amp;x-signature=7o3aoGOTO0n2nmmMRVgvA0AXzqc%3D\" width=\"375\"><p>the counts for the events are the same between ViewContent, AddToCart, and CompletePayment are very similar, and that should not be the case. Since this is a server-side implementation, I pulled the data from the back end to try to find the issue. I am seeing that the urls the different events are firing on are similar. Here is a sample of what I am seeing (data attached):</p><p>on_web_detail - ViewContent - fires on <a href=\"https://www.ariat.com/search?q=Fr&amp;lang=en_US&amp;sz=216\" target=\"_blank\">https://www.ariat.com/search?q=Fr&amp;lang=en_US&amp;sz=216</a></p><p>would be better suited to a 'Search' event</p><p>on_web_cart - AddToCart - fired on </p><p><a href=\"https://www.ariat.com/mens-cowboy-boots?sz=24\" target=\"_blank\">https://www.ariat.com/mens-cowboy-boots?sz=24</a></p><p><a href=\"https://www.ariat.com/womens-straight-jeans?sz=12\" target=\"_blank\">https://www.ariat.com/womens-straight-jeans?sz=12</a></p><p>should fire a ViewContent event (i.e. no AddToCart action took place here)</p><p>shopping - CompletePayment - fired on <a href=\"https://www.ariat.com/P15707_M_FOO.html?dwvar_P15707__M__FOO_width=D_Medium\" target=\"_blank\">https://www.ariat.com/P15707_M_FOO.html?dwvar_P15707__M__FOO_width=D_Medium</a></p><p>should be firing a ViewContent event</p><p><br /></p><p>I notice as I click through the site experience, no urls load that indicate AddToCart, so if they are trying to trigger events based on url, it looks like that is not working. </p><p><br /></p><p>Even with a server-to-server implementation, we still recommend installing the pixel base code in the header of the site to capture PageView events. Of course, this is not required, but the PageView events give a benchmark of your overall traffic and how it compares to purchase events. It is possible to set up PageView as a server-only event, if that is preferable! I am attaching a guide that walks through those steps.</p><p><br /></p><p>The current setup is also missing PII, which will negatively impact their campaigns, and which we need to calculate ROAS, and enable value-based optimizations, among other things. Please see the documentation for <a href=\"https://ads.tiktok.com/gateway/docs/index?identify_key=2b9b4278e47b275f36e7c39a4af4ba067d088e031d5f5fe45d381559ac89ba48&amp;language=ENGLISH&amp;doc_id=1701890972946433\" target=\"_blank\">Automatic and Manual Advanced Matching</a>.</p><p><br /></p><p>For many AddToCart and CompletePayment events, I see the diagnostic message:</p><p>\"diagnostics\":[\"MISSING_CONTENT_ID\",\"MISSING_VALUE_PARAMETER\"]</p><p><span style=\"color: #222222;\">Complete product information allows TikTok to do Shopping Ads, ROAS, and Value-based Optimization for them. They can check the required parameters for standard events <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en\" target=\"_blank\">here</a>.</span></p><p><br /></p><p>I hope all this helps! But let me know should further questions come up.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Hailey,</p><p><br /></p><p>Checking the funnel <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CJNOSN3C77U5EBTKUUI0?start_time=2024-03-07&amp;end_time=2024-03-13&amp;aadvid=6998169522557468674\" target=\"_blank\">in TTEM</a>, I can tell there is an issue with the setup:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5212e3fb79f44bd4947049d3cea317e1.png\" height=\"195.104\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5212e3fb79f44bd4947049d3cea317e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274012&amp;x-signature=AmwD52WmJ0GhT3Y5My3NOvR6IE4%3D\" width=\"375\"><p>the counts for the events are the same between ViewContent, AddToCart, and CompletePayment are very similar, and that should not be the case. Since this is a server-side implementation, I pulled the data from the back end to try to find the issue. I am seeing that the urls the different events are firing on are similar. Here is a sample of what I am seeing (data attached):</p><p>on_web_detail - ViewContent - fires on <a href=\"https://www.ariat.com/search?q=Fr&amp;lang=en_US&amp;sz=216\" target=\"_blank\">https://www.ariat.com/search?q=Fr&amp;lang=en_US&amp;sz=216</a></p><p>would be better suited to a 'Search' event</p><p>on_web_cart - AddToCart - fired on </p><p><a href=\"https://www.ariat.com/mens-cowboy-boots?sz=24\" target=\"_blank\">https://www.ariat.com/mens-cowboy-boots?sz=24</a></p><p><a href=\"https://www.ariat.com/womens-straight-jeans?sz=12\" target=\"_blank\">https://www.ariat.com/womens-straight-jeans?sz=12</a></p><p>should fire a ViewContent event (i.e. no AddToCart action took place here)</p><p>shopping - CompletePayment - fired on <a href=\"https://www.ariat.com/P15707_M_FOO.html?dwvar_P15707__M__FOO_width=D_Medium\" target=\"_blank\">https://www.ariat.com/P15707_M_FOO.html?dwvar_P15707__M__FOO_width=D_Medium</a></p><p>should be firing a ViewContent event</p><p><br /></p><p>I notice as I click through the site experience, no urls load that indicate AddToCart, so if they are trying to trigger events based on url, it looks like that is not working. </p><p><br /></p><p>Even with a server-to-server implementation, we still recommend installing the pixel base code in the header of the site to capture PageView events. Of course, this is not required, but the PageView events give a benchmark of your overall traffic and how it compares to purchase events. It is possible to set up PageView as a server-only event, if that is preferable! I am attaching a guide that walks through those steps.</p><p><br /></p><p>The current setup is also missing PII, which will negatively impact their campaigns, and which we need to calculate ROAS, and enable value-based optimizations, among other things. Please see the documentation for <a href=\"https://ads.tiktok.com/gateway/docs/index?identify_key=2b9b4278e47b275f36e7c39a4af4ba067d088e031d5f5fe45d381559ac89ba48&amp;language=ENGLISH&amp;doc_id=1701890972946433\" target=\"_blank\">Automatic and Manual Advanced Matching</a>.</p><p><br /></p><p>For many AddToCart and CompletePayment events, I see the diagnostic message:</p><p>\"diagnostics\":[\"MISSING_CONTENT_ID\",\"MISSING_VALUE_PARAMETER\"]</p><p><span style=\"color: #222222;\">Complete product information allows TikTok to do Shopping Ads, ROAS, and Value-based Optimization for them. They can check the required parameters for standard events <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en\" target=\"_blank\">here</a>.</span></p><p><br /></p><p>I hope all this helps! But let me know should further questions come up.</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -128,18 +128,18 @@
             {
               "file_type": "pdf",
               "file_name": "Google Tag Manager TikTok eAPI_Server Template - Pageview event setup guide.pdf",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8EBA5dyldlAfCUAxDBQtEMWQeG1i3igA0BUkb.pdf?lk3s=cbe26b3a&x-expires=4832838487&x-signature=Kg23BwCZxyems%2FIclDlgNGSTIUA%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8EBA5dyldlAfCUAxDBQtEMWQeG1i3igA0BUkb.pdf?lk3s=cbe26b3a&x-expires=4833274012&x-signature=CIjTEG8rJvdpXziBS6LVt4WEsho%3D",
               "file_key": "tos-alisg-v-90231e-sg/o8EBA5dyldlAfCUAxDBQtEMWQeG1i3igA0BUkb.pdf",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8EBA5dyldlAfCUAxDBQtEMWQeG1i3igA0BUkb.pdf?lk3s=cbe26b3a&x-expires=4832838487&x-signature=Kg23BwCZxyems%2FIclDlgNGSTIUA%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8EBA5dyldlAfCUAxDBQtEMWQeG1i3igA0BUkb.pdf?lk3s=cbe26b3a&x-expires=4833274012&x-signature=CIjTEG8rJvdpXziBS6LVt4WEsho%3D",
               "biz_type": 2,
               "size": 650932
             },
             {
               "file_type": "xlsx",
               "file_name": "Ariat Server Events TikTok 3-13-24.xlsx",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/os9G8AAclDBCXGwyCjFEgvDOU8E1G6AAE4ffQh.xlsx?lk3s=cbe26b3a&x-expires=4832838487&x-signature=F3syUh0xmf2ATK%2FM3kLLSiHN%2Fvw%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/os9G8AAclDBCXGwyCjFEgvDOU8E1G6AAE4ffQh.xlsx?lk3s=cbe26b3a&x-expires=4833274012&x-signature=P4IjSrB4gr1055aMIdfhNKFATEM%3D",
               "file_key": "tos-alisg-v-90231e-sg/os9G8AAclDBCXGwyCjFEgvDOU8E1G6AAE4ffQh.xlsx",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/os9G8AAclDBCXGwyCjFEgvDOU8E1G6AAE4ffQh.xlsx?lk3s=cbe26b3a&x-expires=4832838487&x-signature=F3syUh0xmf2ATK%2FM3kLLSiHN%2Fvw%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/os9G8AAclDBCXGwyCjFEgvDOU8E1G6AAE4ffQh.xlsx?lk3s=cbe26b3a&x-expires=4833274012&x-signature=P4IjSrB4gr1055aMIdfhNKFATEM%3D",
               "biz_type": 2,
               "size": 1222617
             }
@@ -280,7 +280,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 408831,
+  "pending_time": 844356,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -454,9 +454,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5212e3fb79f44bd4947049d3cea317e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838487&x-signature=7o3aoGOTO0n2nmmMRVgvA0AXzqc%3D",
-          "file_name": "file_20240318_15_08_07_205026",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5212e3fb79f44bd4947049d3cea317e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838487&x-signature=7o3aoGOTO0n2nmmMRVgvA0AXzqc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5212e3fb79f44bd4947049d3cea317e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274012&x-signature=AmwD52WmJ0GhT3Y5My3NOvR6IE4%3D",
+          "file_name": "file_20240323_16_06_52_148422",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5212e3fb79f44bd4947049d3cea317e1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274012&x-signature=AmwD52WmJ0GhT3Y5My3NOvR6IE4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5212e3fb79f44bd4947049d3cea317e1.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -464,18 +464,18 @@
         {
           "file_type": "pdf",
           "file_name": "Google Tag Manager TikTok eAPI_Server Template - Pageview event setup guide.pdf",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8EBA5dyldlAfCUAxDBQtEMWQeG1i3igA0BUkb.pdf?lk3s=cbe26b3a&x-expires=4832838487&x-signature=Kg23BwCZxyems%2FIclDlgNGSTIUA%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8EBA5dyldlAfCUAxDBQtEMWQeG1i3igA0BUkb.pdf?lk3s=cbe26b3a&x-expires=4833274012&x-signature=CIjTEG8rJvdpXziBS6LVt4WEsho%3D",
           "file_key": "tos-alisg-v-90231e-sg/o8EBA5dyldlAfCUAxDBQtEMWQeG1i3igA0BUkb.pdf",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8EBA5dyldlAfCUAxDBQtEMWQeG1i3igA0BUkb.pdf?lk3s=cbe26b3a&x-expires=4832838487&x-signature=Kg23BwCZxyems%2FIclDlgNGSTIUA%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o8EBA5dyldlAfCUAxDBQtEMWQeG1i3igA0BUkb.pdf?lk3s=cbe26b3a&x-expires=4833274012&x-signature=CIjTEG8rJvdpXziBS6LVt4WEsho%3D",
           "biz_type": 2,
           "size": 650932
         },
         {
           "file_type": "xlsx",
           "file_name": "Ariat Server Events TikTok 3-13-24.xlsx",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/os9G8AAclDBCXGwyCjFEgvDOU8E1G6AAE4ffQh.xlsx?lk3s=cbe26b3a&x-expires=4832838487&x-signature=F3syUh0xmf2ATK%2FM3kLLSiHN%2Fvw%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/os9G8AAclDBCXGwyCjFEgvDOU8E1G6AAE4ffQh.xlsx?lk3s=cbe26b3a&x-expires=4833274012&x-signature=P4IjSrB4gr1055aMIdfhNKFATEM%3D",
           "file_key": "tos-alisg-v-90231e-sg/os9G8AAclDBCXGwyCjFEgvDOU8E1G6AAE4ffQh.xlsx",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/os9G8AAclDBCXGwyCjFEgvDOU8E1G6AAE4ffQh.xlsx?lk3s=cbe26b3a&x-expires=4832838487&x-signature=F3syUh0xmf2ATK%2FM3kLLSiHN%2Fvw%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/os9G8AAclDBCXGwyCjFEgvDOU8E1G6AAE4ffQh.xlsx?lk3s=cbe26b3a&x-expires=4833274012&x-signature=P4IjSrB4gr1055aMIdfhNKFATEM%3D",
           "biz_type": 2,
           "size": 1222617
         }

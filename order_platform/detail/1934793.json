@@ -41,9 +41,9 @@
             {
               "file_type": "csv",
               "file_name": "281474987762176-Useful Queries-Event Audit-Query 223.csv",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogxXfbA7nIACFAkLIsAfA6QCeXpPaEDgWGlr4L.csv?lk3s=cbe26b3a&x-expires=4832838570&x-signature=%2FHlsMdDmI%2FkAVXX1OISAW5tsgsw%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogxXfbA7nIACFAkLIsAfA6QCeXpPaEDgWGlr4L.csv?lk3s=cbe26b3a&x-expires=4833274101&x-signature=hKH3AbR4ktQjmSvCWK6p18hvyLo%3D",
               "file_key": "tos-alisg-v-90231e-sg/ogxXfbA7nIACFAkLIsAfA6QCeXpPaEDgWGlr4L.csv",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogxXfbA7nIACFAkLIsAfA6QCeXpPaEDgWGlr4L.csv?lk3s=cbe26b3a&x-expires=4832838570&x-signature=%2FHlsMdDmI%2FkAVXX1OISAW5tsgsw%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogxXfbA7nIACFAkLIsAfA6QCeXpPaEDgWGlr4L.csv?lk3s=cbe26b3a&x-expires=4833274101&x-signature=hKH3AbR4ktQjmSvCWK6p18hvyLo%3D",
               "biz_type": 2,
               "size": 10243543
             }
@@ -140,6 +140,64 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710942136,
+      "auto_close_hit": 0,
+      "id": 7348439686802719000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "austen.jones@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Austen Jones",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6982347769357665281",
+      "name": "Austen Jones",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Joey, I just checked in and now see they have an average matchrate of over 50% for complete payment!!!! Huge step</p><p><br></p><p>That said, could you please let me know how we can further improve this to get closer to 80%+?</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0090_1cd7b199-adcb-4d16-97e3-68c2d700f6fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710958175,
+      "auto_close_hit": 0,
+      "id": 7348507416666964000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Good to see! I&#39;m going to wait another day to see if match rates will rise, since some instances require an additional day for match rates to reflect the recent changes made to the catalog. If they don&#39;t see an increase, I&#39;ll run another audit.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -162,14 +220,14 @@
     0
   ],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_f4d8d6a1-b006-4c61-b1be-d93be5c0d5ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0090_1cd7b199-adcb-4d16-97e3-68c2d700f6fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": -1,
   "current_role": null,
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1710450538,
+  "update_time": 1710958175,
   "owner_name": "Austen Jones",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -205,7 +263,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 324032,
+  "pending_time": 251927,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -344,9 +402,9 @@
         {
           "file_type": "csv",
           "file_name": "281474987762176-Useful Queries-Event Audit-Query 223.csv",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogxXfbA7nIACFAkLIsAfA6QCeXpPaEDgWGlr4L.csv?lk3s=cbe26b3a&x-expires=4832838570&x-signature=%2FHlsMdDmI%2FkAVXX1OISAW5tsgsw%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogxXfbA7nIACFAkLIsAfA6QCeXpPaEDgWGlr4L.csv?lk3s=cbe26b3a&x-expires=4833274101&x-signature=hKH3AbR4ktQjmSvCWK6p18hvyLo%3D",
           "file_key": "tos-alisg-v-90231e-sg/ogxXfbA7nIACFAkLIsAfA6QCeXpPaEDgWGlr4L.csv",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogxXfbA7nIACFAkLIsAfA6QCeXpPaEDgWGlr4L.csv?lk3s=cbe26b3a&x-expires=4832838570&x-signature=%2FHlsMdDmI%2FkAVXX1OISAW5tsgsw%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogxXfbA7nIACFAkLIsAfA6QCeXpPaEDgWGlr4L.csv?lk3s=cbe26b3a&x-expires=4833274101&x-signature=hKH3AbR4ktQjmSvCWK6p18hvyLo%3D",
           "biz_type": 2,
           "size": 10243543
         }

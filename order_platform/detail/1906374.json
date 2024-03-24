@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1709148277,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Sara,</p><p>Their pixel score is 100 although their <strong>dedup rate is at 0%</strong></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/56d606600f73454dbbce021f63799136.png\" height=\"174.682\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/56d606600f73454dbbce021f63799136.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838342&amp;x-signature=qo1j5%2BFXYqzCL9ePZ%2B26tOvulIE%3D\" width=\"375\"><p>This happens when the event_id from web signals do not match with server signals.</p><p><br /></p><p>I know this client only uses app campign, but please reach out and see if they willing to fix their dedup rate for future use.</p><p>Use this link to put a block on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img>",
+          "content": "<p>Hi Sara,</p><p>Their pixel score is 100 although their <strong>dedup rate is at 0%</strong></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/56d606600f73454dbbce021f63799136.png\" height=\"174.682\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/56d606600f73454dbbce021f63799136.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273860&amp;x-signature=IhKKbHO6g9kF0kwATaybtvLEXYo%3D\" width=\"375\"><p>This happens when the event_id from web signals do not match with server signals.</p><p><br /></p><p>I know this client only uses app campign, but please reach out and see if they willing to fix their dedup rate for future use.</p><p>Use this link to put a block on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img>",
           "type": 6
         }
       ],
@@ -97,12 +97,41 @@
       ],
       "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711064627,
+      "auto_close_hit": 0,
+      "id": 7348961947141833000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Sara Sharif",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7119472934242485250",
+      "name": "Sara Sharif",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi team the GoPuff client said they have fixed this issue can you please confirm the dedup issue is now fixed?&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_384ca165-bea0-44f7-b9a3-6da3c43ad5cg~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
-  "pending_from_follower": false,
+  "pending_from_follower": true,
   "id": 1906374,
   "workflow_nodes": [],
   "board_id": 1705151646989662,
@@ -122,9 +151,9 @@
   "type": 6,
   "current_role": null,
   "fd_permission": 1,
-  "status": 1,
+  "status": 2,
   "business_data": [],
-  "update_time": 1709668446,
+  "update_time": 1711064627,
   "owner_name": "Sara Sharif",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -299,7 +328,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1105896,
+  "pending_time": 1541414,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -473,9 +502,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/56d606600f73454dbbce021f63799136.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838342&x-signature=qo1j5%2BFXYqzCL9ePZ%2B26tOvulIE%3D",
-          "file_name": "file_20240318_15_05_42_894788",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/56d606600f73454dbbce021f63799136.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838342&x-signature=qo1j5%2BFXYqzCL9ePZ%2B26tOvulIE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/56d606600f73454dbbce021f63799136.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273860&x-signature=IhKKbHO6g9kF0kwATaybtvLEXYo%3D",
+          "file_name": "file_20240323_16_04_20_800307",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/56d606600f73454dbbce021f63799136.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273860&x-signature=IhKKbHO6g9kF0kwATaybtvLEXYo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/56d606600f73454dbbce021f63799136.png",
           "file_type": "jpeg",
           "biz_type": 2

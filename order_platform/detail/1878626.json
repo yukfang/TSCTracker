@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Darby,</p><p><br /></p><p>I've reviewed your client's website and Pixel events and noticed that their setup looks very odd. </p><p><br /></p><p>Our system recognizes their events as coming from \"Shopify\" but they appear to be firing through Google Tag Manager. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c5d39363bce74d79814d9e0ef604378e.png\" height=\"148.171\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5d39363bce74d79814d9e0ef604378e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838018&amp;x-signature=E%2FJOpKDKJjt1ytiCPI%2FvIeSiTY0%3D\" width=\"375\"><p><br /></p><p>That just doesn't seem right and is likely causing issues for their Pixel beyond PII coverage (including overfiring). </p><p><br /></p><p>Can you check with the client on how they have their Pixel/EAPI implemented currently?</p><p><br /></p><p>Thomas</p></img>",
+          "content": "<p>Hi Darby,</p><p><br /></p><p>I've reviewed your client's website and Pixel events and noticed that their setup looks very odd. </p><p><br /></p><p>Our system recognizes their events as coming from \"Shopify\" but they appear to be firing through Google Tag Manager. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c5d39363bce74d79814d9e0ef604378e.png\" height=\"148.171\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5d39363bce74d79814d9e0ef604378e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273548&amp;x-signature=uEnLPAf1%2BrndVzNahf%2Fg0XZ6mbw%3D\" width=\"375\"><p><br /></p><p>That just doesn't seem right and is likely causing issues for their Pixel beyond PII coverage (including overfiring). </p><p><br /></p><p>Can you check with the client on how they have their Pixel/EAPI implemented currently?</p><p><br /></p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Darby:</p><p><br /></p><p>An update as I dig a little deeper into Velour Beauty's setup:</p><ul><li>It seems that parts of their Pixel fire through Google Tag Manager (view content) while the Complete Payment event fires through Shopify. Can you check with them on what kind of setup they are running? I have not seen that type of setup before and honestly I'm not sure how it's possible. </li><li>Our Events Manager is indicating that their user data (email/phone) coverage is less than 100% but when I check our data tables for Complete Payment, I am seeing 100% coverage for email. I think this may be a visual quirk/bug with the new Event Match Quality beta feature. I will flag this with the team. </li></ul><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a9c36d1604f242d2867282f795421aaa.png\" height=\"331.415\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a9c36d1604f242d2867282f795421aaa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838018&amp;x-signature=L%2F%2FFfrDVOFY5xRZ3JnQSyQBahk8%3D\" width=\"375\" />",
+          "content": "<p>Hi Darby:</p><p><br /></p><p>An update as I dig a little deeper into Velour Beauty's setup:</p><ul><li>It seems that parts of their Pixel fire through Google Tag Manager (view content) while the Complete Payment event fires through Shopify. Can you check with them on what kind of setup they are running? I have not seen that type of setup before and honestly I'm not sure how it's possible. </li><li>Our Events Manager is indicating that their user data (email/phone) coverage is less than 100% but when I check our data tables for Complete Payment, I am seeing 100% coverage for email. I think this may be a visual quirk/bug with the new Event Match Quality beta feature. I will flag this with the team. </li></ul><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a9c36d1604f242d2867282f795421aaa.png\" height=\"331.415\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a9c36d1604f242d2867282f795421aaa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273548&amp;x-signature=UB1DCyUxCJGT%2F1Xineb5%2FgYVOpA%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -149,7 +149,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Is there complete payment event strictly t hrough Shopify? It just doesn't fire with very high user data coverage on the Browser side. </p><p><br /></p><p>Currently we are getting user data on roughly half of the Browser Complete Payment events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7467c639607c4514a99d83e32c87011b.png\" height=\"313.652\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7467c639607c4514a99d83e32c87011b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838018&amp;x-signature=ANNVM1beaL7PwUUClrF69EeVoOc%3D\" width=\"375\"><p><br /></p><p>Thomas</p></img>",
+          "content": "<p>Is there complete payment event strictly t hrough Shopify? It just doesn't fire with very high user data coverage on the Browser side. </p><p><br /></p><p>Currently we are getting user data on roughly half of the Browser Complete Payment events:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7467c639607c4514a99d83e32c87011b.png\" height=\"313.652\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7467c639607c4514a99d83e32c87011b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273548&amp;x-signature=pQoGHy8d8p9exQw6h7v9WDJ4A3o%3D\" width=\"375\"><p><br /></p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -233,7 +233,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/288ae658-7dca-45ea-aad8-d72686ab180g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_b747e87a-46b5-4d66-9e99-d91c6c2295ch~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": -1,
   "current_role": null,
@@ -415,7 +415,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1015113,
+  "pending_time": 1450644,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -589,25 +589,25 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5d39363bce74d79814d9e0ef604378e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838018&x-signature=E%2FJOpKDKJjt1ytiCPI%2FvIeSiTY0%3D",
-          "file_name": "file_20240318_15_00_18_192447",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5d39363bce74d79814d9e0ef604378e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838018&x-signature=E%2FJOpKDKJjt1ytiCPI%2FvIeSiTY0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5d39363bce74d79814d9e0ef604378e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273548&x-signature=uEnLPAf1%2BrndVzNahf%2Fg0XZ6mbw%3D",
+          "file_name": "file_20240323_15_59_08_804626",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c5d39363bce74d79814d9e0ef604378e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273548&x-signature=uEnLPAf1%2BrndVzNahf%2Fg0XZ6mbw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c5d39363bce74d79814d9e0ef604378e.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a9c36d1604f242d2867282f795421aaa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838018&x-signature=L%2F%2FFfrDVOFY5xRZ3JnQSyQBahk8%3D",
-          "file_name": "file_20240318_15_00_18_264732",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a9c36d1604f242d2867282f795421aaa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838018&x-signature=L%2F%2FFfrDVOFY5xRZ3JnQSyQBahk8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a9c36d1604f242d2867282f795421aaa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273548&x-signature=UB1DCyUxCJGT%2F1Xineb5%2FgYVOpA%3D",
+          "file_name": "file_20240323_15_59_08_907783",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a9c36d1604f242d2867282f795421aaa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273548&x-signature=UB1DCyUxCJGT%2F1Xineb5%2FgYVOpA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/a9c36d1604f242d2867282f795421aaa.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7467c639607c4514a99d83e32c87011b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838018&x-signature=ANNVM1beaL7PwUUClrF69EeVoOc%3D",
-          "file_name": "file_20240318_15_00_18_347733",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7467c639607c4514a99d83e32c87011b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838018&x-signature=ANNVM1beaL7PwUUClrF69EeVoOc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7467c639607c4514a99d83e32c87011b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273548&x-signature=pQoGHy8d8p9exQw6h7v9WDJ4A3o%3D",
+          "file_name": "file_20240323_15_59_09_016320",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7467c639607c4514a99d83e32c87011b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273548&x-signature=pQoGHy8d8p9exQw6h7v9WDJ4A3o%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7467c639607c4514a99d83e32c87011b.png",
           "file_type": "jpeg",
           "biz_type": 2

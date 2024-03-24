@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1706731898,
   "deadline": 0,
@@ -70,9 +70,9 @@
             {
               "file_type": "docx",
               "file_name": "LZB - TikTok Pixel Data.docx",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUgADir1lBA3sjexEBCuDQ7yiAAEQAf1DUBuKs.docx?lk3s=cbe26b3a&x-expires=4832832742&x-signature=pSI77bbddsnpPmAVIPtatKcKtkI%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUgADir1lBA3sjexEBCuDQ7yiAAEQAf1DUBuKs.docx?lk3s=cbe26b3a&x-expires=4833273238&x-signature=mlgHBsQKSfakBvFh0VbzLGR%2B6Ow%3D",
               "file_key": "tos-alisg-v-90231e-sg/oUgADir1lBA3sjexEBCuDQ7yiAAEQAf1DUBuKs.docx",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUgADir1lBA3sjexEBCuDQ7yiAAEQAf1DUBuKs.docx?lk3s=cbe26b3a&x-expires=4832832742&x-signature=pSI77bbddsnpPmAVIPtatKcKtkI%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUgADir1lBA3sjexEBCuDQ7yiAAEQAf1DUBuKs.docx?lk3s=cbe26b3a&x-expires=4833273238&x-signature=mlgHBsQKSfakBvFh0VbzLGR%2B6Ow%3D",
               "biz_type": 2,
               "size": 20812
             }
@@ -191,7 +191,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_ac28729a-40f9-4762-989f-5a26b9bb8e1h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_ac28729a-40f9-4762-989f-5a26b9bb8e1h~?image_size=noop&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 6,
   "current_role": null,
@@ -373,7 +373,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 920645,
+  "pending_time": 1361141,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -549,9 +549,9 @@
         {
           "file_type": "docx",
           "file_name": "LZB - TikTok Pixel Data.docx",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUgADir1lBA3sjexEBCuDQ7yiAAEQAf1DUBuKs.docx?lk3s=cbe26b3a&x-expires=4832832742&x-signature=pSI77bbddsnpPmAVIPtatKcKtkI%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUgADir1lBA3sjexEBCuDQ7yiAAEQAf1DUBuKs.docx?lk3s=cbe26b3a&x-expires=4833273238&x-signature=mlgHBsQKSfakBvFh0VbzLGR%2B6Ow%3D",
           "file_key": "tos-alisg-v-90231e-sg/oUgADir1lBA3sjexEBCuDQ7yiAAEQAf1DUBuKs.docx",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUgADir1lBA3sjexEBCuDQ7yiAAEQAf1DUBuKs.docx?lk3s=cbe26b3a&x-expires=4832832742&x-signature=pSI77bbddsnpPmAVIPtatKcKtkI%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUgADir1lBA3sjexEBCuDQ7yiAAEQAf1DUBuKs.docx?lk3s=cbe26b3a&x-expires=4833273238&x-signature=mlgHBsQKSfakBvFh0VbzLGR%2B6Ow%3D",
           "biz_type": 2,
           "size": 20812
         }

@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Diana,</p><p><br /></p><p>The benchmark for PII Coverage for the Complete Payment event is above 90%, and the client is currently at ~65%. This is due to  email addresses from guest users + Clearpay checkouts not being captured, but only the emails from logged in users. It is highly recommended that they send all available emails in order to improve matching and attribution. In order to capture this data, they would first have to store it to their data layer.</p><p><br /></p><p>Their deduplication is poor, but this may be related to a bug we have identified in our reporting pipeline for the Events Manager UI, and should not affect data shown in the Campaign dashboard (i.e. attributed events). Please allow me some time to investigate this, and do not inform the client until this is confirmed.</p><p><br /></p><p>The Pixel Initiate Checkout event is firing twice, however this is likely the case with the corresponding Events API event, as we see more eAPI Initiate Checkout events than Pixel:</p><img alt=\"Screenshot 2024-01-21 at 19.33.16.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ff5682f5246b41b08d62fa72edf7a568.png\" height=\"160.666\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff5682f5246b41b08d62fa72edf7a568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833344&amp;x-signature=vuPj%2BEc8MfnuFuOjwr7mEo%2F7zjw%3D\" width=\"375\"><p><br /></p><p>Best,</p><p>Katerina</p></img>",
+          "content": "<p>Hi Diana,</p><p><br /></p><p>The benchmark for PII Coverage for the Complete Payment event is above 90%, and the client is currently at ~65%. This is due to  email addresses from guest users + Clearpay checkouts not being captured, but only the emails from logged in users. It is highly recommended that they send all available emails in order to improve matching and attribution. In order to capture this data, they would first have to store it to their data layer.</p><p><br /></p><p>Their deduplication is poor, but this may be related to a bug we have identified in our reporting pipeline for the Events Manager UI, and should not affect data shown in the Campaign dashboard (i.e. attributed events). Please allow me some time to investigate this, and do not inform the client until this is confirmed.</p><p><br /></p><p>The Pixel Initiate Checkout event is firing twice, however this is likely the case with the corresponding Events API event, as we see more eAPI Initiate Checkout events than Pixel:</p><img alt=\"Screenshot 2024-01-21 at 19.33.16.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ff5682f5246b41b08d62fa72edf7a568.png\" height=\"160.666\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff5682f5246b41b08d62fa72edf7a568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272980&amp;x-signature=w1nzSHdpq5RKrmarjT1ymTftn8o%3D\" width=\"375\"><p><br /></p><p>Best,</p><p>Katerina</p></img>",
           "type": 6
         }
       ],
@@ -128,27 +128,27 @@
             {
               "file_type": "jpeg",
               "file_name": "CL - CP (Duplication).jpeg",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b36f54081211482ea3af1de09764aa80.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833344&x-signature=9jy8%2BU0XQyUvhyrGBbrJp37eofA%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b36f54081211482ea3af1de09764aa80.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272981&x-signature=wB18Dt1rOam%2B%2B0vkITT0OM%2B3C5A%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/b36f54081211482ea3af1de09764aa80.jpeg",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b36f54081211482ea3af1de09764aa80.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833344&x-signature=9jy8%2BU0XQyUvhyrGBbrJp37eofA%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b36f54081211482ea3af1de09764aa80.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272981&x-signature=wB18Dt1rOam%2B%2B0vkITT0OM%2B3C5A%3D",
               "biz_type": 2,
               "size": 212493
             },
             {
               "file_type": "jpeg",
               "file_name": "CL - CP.jpeg",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2920852c321343579fc7f3880bd56ed2.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833344&x-signature=Jd3TbKyw5t1Dj5yeYfkBl%2FbS6FM%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2920852c321343579fc7f3880bd56ed2.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272981&x-signature=eVrRIGEsE0OQ4s2QBw8%2FyU%2FFqSo%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/2920852c321343579fc7f3880bd56ed2.jpeg",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2920852c321343579fc7f3880bd56ed2.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833344&x-signature=Jd3TbKyw5t1Dj5yeYfkBl%2FbS6FM%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2920852c321343579fc7f3880bd56ed2.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272981&x-signature=eVrRIGEsE0OQ4s2QBw8%2FyU%2FFqSo%3D",
               "biz_type": 2,
               "size": 267265
             },
             {
               "file_type": "jpeg",
               "file_name": "DJ - CP (Duplication).jpeg",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e57cf40174447d09d10fa319fd3c400.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833344&x-signature=7dFucGo4WKlawrPK7WnO87NcxvY%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e57cf40174447d09d10fa319fd3c400.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272981&x-signature=h9iYueoWLfr04mPQarAnop1U9k4%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/8e57cf40174447d09d10fa319fd3c400.jpeg",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e57cf40174447d09d10fa319fd3c400.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833344&x-signature=7dFucGo4WKlawrPK7WnO87NcxvY%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e57cf40174447d09d10fa319fd3c400.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272981&x-signature=h9iYueoWLfr04mPQarAnop1U9k4%3D",
               "biz_type": 2,
               "size": 209767
             }
@@ -287,7 +287,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 4479533,
+  "pending_time": 4919170,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -464,9 +464,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff5682f5246b41b08d62fa72edf7a568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833344&x-signature=vuPj%2BEc8MfnuFuOjwr7mEo%2F7zjw%3D",
-          "file_name": "file_20240318_13_42_24_569040",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff5682f5246b41b08d62fa72edf7a568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833344&x-signature=vuPj%2BEc8MfnuFuOjwr7mEo%2F7zjw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff5682f5246b41b08d62fa72edf7a568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272980&x-signature=w1nzSHdpq5RKrmarjT1ymTftn8o%3D",
+          "file_name": "file_20240323_15_49_40_975017",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ff5682f5246b41b08d62fa72edf7a568.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272980&x-signature=w1nzSHdpq5RKrmarjT1ymTftn8o%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ff5682f5246b41b08d62fa72edf7a568.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -474,27 +474,27 @@
         {
           "file_type": "jpeg",
           "file_name": "CL - CP (Duplication).jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b36f54081211482ea3af1de09764aa80.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833344&x-signature=9jy8%2BU0XQyUvhyrGBbrJp37eofA%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b36f54081211482ea3af1de09764aa80.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272981&x-signature=wB18Dt1rOam%2B%2B0vkITT0OM%2B3C5A%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b36f54081211482ea3af1de09764aa80.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b36f54081211482ea3af1de09764aa80.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833344&x-signature=9jy8%2BU0XQyUvhyrGBbrJp37eofA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b36f54081211482ea3af1de09764aa80.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272981&x-signature=wB18Dt1rOam%2B%2B0vkITT0OM%2B3C5A%3D",
           "biz_type": 2,
           "size": 212493
         },
         {
           "file_type": "jpeg",
           "file_name": "CL - CP.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2920852c321343579fc7f3880bd56ed2.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833344&x-signature=Jd3TbKyw5t1Dj5yeYfkBl%2FbS6FM%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2920852c321343579fc7f3880bd56ed2.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272981&x-signature=eVrRIGEsE0OQ4s2QBw8%2FyU%2FFqSo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2920852c321343579fc7f3880bd56ed2.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2920852c321343579fc7f3880bd56ed2.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833344&x-signature=Jd3TbKyw5t1Dj5yeYfkBl%2FbS6FM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2920852c321343579fc7f3880bd56ed2.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272981&x-signature=eVrRIGEsE0OQ4s2QBw8%2FyU%2FFqSo%3D",
           "biz_type": 2,
           "size": 267265
         },
         {
           "file_type": "jpeg",
           "file_name": "DJ - CP (Duplication).jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e57cf40174447d09d10fa319fd3c400.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833344&x-signature=7dFucGo4WKlawrPK7WnO87NcxvY%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e57cf40174447d09d10fa319fd3c400.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272981&x-signature=h9iYueoWLfr04mPQarAnop1U9k4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8e57cf40174447d09d10fa319fd3c400.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e57cf40174447d09d10fa319fd3c400.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833344&x-signature=7dFucGo4WKlawrPK7WnO87NcxvY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8e57cf40174447d09d10fa319fd3c400.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272981&x-signature=h9iYueoWLfr04mPQarAnop1U9k4%3D",
           "biz_type": 2,
           "size": 209767
         }

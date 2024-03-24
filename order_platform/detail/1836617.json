@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1706133920,
   "deadline": 0,
@@ -148,7 +148,7 @@
     0
   ],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_f4d8d6a1-b006-4c61-b1be-d93be5c0d5ah~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0090_1cd7b199-adcb-4d16-97e3-68c2d700f6fh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 6,
   "current_role": null,
@@ -330,7 +330,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 4116931,
+  "pending_time": 4556559,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -506,9 +506,9 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-24 at 4.00.33 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/45716c48ca27424487509b13fd677d05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833469&x-signature=ioXjK%2FgA2HMMd8ShstppU6l%2F0f0%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/45716c48ca27424487509b13fd677d05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273096&x-signature=08giJv%2Ftjtl1aVctYk4o1ili%2BwM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/45716c48ca27424487509b13fd677d05.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/45716c48ca27424487509b13fd677d05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833469&x-signature=ioXjK%2FgA2HMMd8ShstppU6l%2F0f0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/45716c48ca27424487509b13fd677d05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273096&x-signature=08giJv%2Ftjtl1aVctYk4o1ili%2BwM%3D",
           "size": 273370
         }
       ],

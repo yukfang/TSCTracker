@@ -213,7 +213,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Armando, </p><p>They set up their pixel and added some custom events. \"SF AUTO\", \"SF BUSINESS\" etc.</p><p>However when they go to create a campaign and select their pixel none of the events show up. Wondering if you can help us troubleshoot this?</p><img alt=\"image (14).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0d80509da5ab408e925c09283205ea8c.png\" height=\"285.714\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d80509da5ab408e925c09283205ea8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833346&amp;x-signature=UGzVF3XhcDtw9DOAXaT73fxIH8k%3D\" width=\"375\"><img alt=\"image (13).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6b63e5b450d749e389f768ea08a5d0f1.png\" height=\"170.682\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b63e5b450d749e389f768ea08a5d0f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833346&amp;x-signature=RRbvCSkvj6OBGaPJZ5kzJSvkkpI%3D\" width=\"375\" /></img>",
+          "content": "<p>Hi Armando, </p><p>They set up their pixel and added some custom events. \"SF AUTO\", \"SF BUSINESS\" etc.</p><p>However when they go to create a campaign and select their pixel none of the events show up. Wondering if you can help us troubleshoot this?</p><img alt=\"image (14).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0d80509da5ab408e925c09283205ea8c.png\" height=\"285.714\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d80509da5ab408e925c09283205ea8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272984&amp;x-signature=kIfcCQzZHp7%2Bbo%2BR4c7H%2B2LYMOk%3D\" width=\"375\"><img alt=\"image (13).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6b63e5b450d749e389f768ea08a5d0f1.png\" height=\"170.682\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b63e5b450d749e389f768ea08a5d0f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272984&amp;x-signature=EC45giSD2NUXTekH8N5Ao5tQ%2FbM%3D\" width=\"375\" /></img>",
           "type": 6
         }
       ],
@@ -242,7 +242,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Emily,</p><p>The reason why \"SF AUTO\" and \"SF BUSINESS\" do not appear in the dropdown is because those are considered custom events (<a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-1\" target=\"_blank\">any event not listed here is custom</a>) and those are not available for optimization at this time. This is not a bug, so there is nothing to troubleshoot. Please refer to the <strong><a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en\" target=\"_blank\">Standard and Custom Events </a></strong>section of this article.</p><img alt=\"Screenshot 2024-01-29 at 2.35.04 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/abd9914bb3334d42868ff612f803cd0c.png\" height=\"89.134\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abd9914bb3334d42868ff612f803cd0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833346&amp;x-signature=uDkMtLkVEfq6lEXAQCt0%2FrDUDt4%3D\" width=\"375\"><p>My recommendation to the team during the call, as a workaround to this platform limitation, was to implement 2 events, their custom event, i.e. SfAuto, SfBusiness along with the SubmitForm event as the overarching event. With this approach, they will be able to measure each individual custom event, create audiences based off those custom events, but use the SubmitForm event as the optimization event.</p><p>Let me know if there are any other questions on the above.</p><p>Best,<br>Armando</br></p></img>",
+          "content": "<p>Hi Emily,</p><p>The reason why \"SF AUTO\" and \"SF BUSINESS\" do not appear in the dropdown is because those are considered custom events (<a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-1\" target=\"_blank\">any event not listed here is custom</a>) and those are not available for optimization at this time. This is not a bug, so there is nothing to troubleshoot. Please refer to the <strong><a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en\" target=\"_blank\">Standard and Custom Events </a></strong>section of this article.</p><img alt=\"Screenshot 2024-01-29 at 2.35.04 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/abd9914bb3334d42868ff612f803cd0c.png\" height=\"89.134\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abd9914bb3334d42868ff612f803cd0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833272985&amp;x-signature=O8Oofq%2FiDadgvLi0v8VLCIVE5uw%3D\" width=\"375\"><p>My recommendation to the team during the call, as a workaround to this platform limitation, was to implement 2 events, their custom event, i.e. SfAuto, SfBusiness along with the SubmitForm event as the overarching event. With this approach, they will be able to measure each individual custom event, create audiences based off those custom events, but use the SubmitForm event as the optimization event.</p><p>Let me know if there are any other questions on the above.</p><p>Best,<br>Armando</br></p></img>",
           "type": 6
         }
       ],
@@ -328,7 +328,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_67e8eea7-2229-4e85-9df2-77a4088b035h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0094_9ce03531-9ccd-43ec-882d-7eef4c9918eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 0,
   "current_role": null,
@@ -437,7 +437,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 4103491,
+  "pending_time": 4543129,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -611,25 +611,25 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b63e5b450d749e389f768ea08a5d0f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833346&x-signature=RRbvCSkvj6OBGaPJZ5kzJSvkkpI%3D",
-          "file_name": "file_20240318_13_42_26_911616",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b63e5b450d749e389f768ea08a5d0f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833346&x-signature=RRbvCSkvj6OBGaPJZ5kzJSvkkpI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b63e5b450d749e389f768ea08a5d0f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272984&x-signature=EC45giSD2NUXTekH8N5Ao5tQ%2FbM%3D",
+          "file_name": "file_20240323_15_49_45_013860",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b63e5b450d749e389f768ea08a5d0f1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272984&x-signature=EC45giSD2NUXTekH8N5Ao5tQ%2FbM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/6b63e5b450d749e389f768ea08a5d0f1.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d80509da5ab408e925c09283205ea8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833346&x-signature=UGzVF3XhcDtw9DOAXaT73fxIH8k%3D",
-          "file_name": "file_20240318_13_42_26_911699",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d80509da5ab408e925c09283205ea8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833346&x-signature=UGzVF3XhcDtw9DOAXaT73fxIH8k%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d80509da5ab408e925c09283205ea8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272984&x-signature=kIfcCQzZHp7%2Bbo%2BR4c7H%2B2LYMOk%3D",
+          "file_name": "file_20240323_15_49_45_013923",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0d80509da5ab408e925c09283205ea8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272984&x-signature=kIfcCQzZHp7%2Bbo%2BR4c7H%2B2LYMOk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0d80509da5ab408e925c09283205ea8c.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abd9914bb3334d42868ff612f803cd0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833346&x-signature=uDkMtLkVEfq6lEXAQCt0%2FrDUDt4%3D",
-          "file_name": "file_20240318_13_42_26_953982",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abd9914bb3334d42868ff612f803cd0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833346&x-signature=uDkMtLkVEfq6lEXAQCt0%2FrDUDt4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abd9914bb3334d42868ff612f803cd0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272985&x-signature=O8Oofq%2FiDadgvLi0v8VLCIVE5uw%3D",
+          "file_name": "file_20240323_15_49_45_057989",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/abd9914bb3334d42868ff612f803cd0c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272985&x-signature=O8Oofq%2FiDadgvLi0v8VLCIVE5uw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/abd9914bb3334d42868ff612f803cd0c.png",
           "file_type": "jpeg",
           "biz_type": 2

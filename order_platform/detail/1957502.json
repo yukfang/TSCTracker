@@ -1,0 +1,372 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497211543601",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Armando Carmona Blanco",
+  "create_time": 1710955480,
+  "deadline": 0,
+  "archive_board_id": 1705151646989665,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710955502,
+      "auto_close_hit": 0,
+      "id": 7348497696933560000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "debora.melo@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Débora Melo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7096679181569246210",
+      "name": "Débora Melo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Captura de Tela 2024-03-20 às 14.24.10.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/822c62489ad34e4fa7fb829b4a283e9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274341&x-signature=pNVF4XXvdDiUzovUGjAbkvDd1uk%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/822c62489ad34e4fa7fb829b4a283e9d.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/822c62489ad34e4fa7fb829b4a283e9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274341&x-signature=pNVF4XXvdDiUzovUGjAbkvDd1uk%3D",
+              "biz_type": 2,
+              "size": 129024
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_f33fb498-556d-4405-9edf-1adbc9e17d6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710958659,
+      "auto_close_hit": 0,
+      "id": 7348509694501126000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "debora.melo@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Débora Melo",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7096679181569246210",
+      "name": "Débora Melo",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "Captura de Tela 2024-03-20 às 15.15.49.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b31b4bf375143b9b694148d3b866578.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274341&x-signature=vnB74CAjjENYI795KSUnxS7iaoI%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/5b31b4bf375143b9b694148d3b866578.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b31b4bf375143b9b694148d3b866578.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274341&x-signature=vnB74CAjjENYI795KSUnxS7iaoI%3D",
+              "biz_type": 2,
+              "size": 210602
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_f33fb498-556d-4405-9edf-1adbc9e17d6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1957502,
+  "workflow_nodes": [],
+  "board_id": 1705151646989665,
+  "employee_email": "armando.carmona@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "C&A - SAN Integration",
+  "category_1_name": "Mobile Marketing Partner (MMP)",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_f33fb498-556d-4405-9edf-1adbc9e17d6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 0,
+  "business_data": [],
+  "update_time": 1710958659,
+  "owner_name": "Débora Melo",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 1,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Mobile Marketing Partner (MMP)",
+  "archive_category_1": "1736497211543601",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497211543601",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [],
+      "value": "Mobile Marketing Partner (MMP)"
+    }
+  ],
+  "core_user_id": "7096679181569246210",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Débora Melo",
+  "follow_employee_id": 1807296,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 252415,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "C&A - SAN Integration",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "C&A",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Ecommerce",
+      "valid": true,
+      "key": "Ecommerce",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "LATAM-BR",
+      "valid": true,
+      "key": "LATAM",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "6915461228399689729"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Débora Melo CSM",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "6917347825038655490",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "6976303935271321601",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "br.com.cea.appb2c"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Mobile Measurement Partner (MMP)",
+      "valid": true,
+      "key": "Mobile Measurement Partner (MMP)",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-15",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "My client configured C&A and also did all the events in appsflyer, however, today we cannot see the transition completed in our dash. Another point is that the customer is unable to continue configuring TikTok For Business (Advanced SRN) in TTAM. APP: br.com.cea.appb2c I would also like to know if we can configure the trackers on the page available today. If this is not possible, how should we proceed with the setup? What instructions should we give to the customer?",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "docx",
+          "file_name": "TitkTok - Parametros e Eventos.docx",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUBy71vTAlvsyiAKEq3BCUIbifAAEE0wagDAKV.docx?lk3s=cbe26b3a&x-expires=4833274341&x-signature=nTI39CHT6ToycGgOUncuJMRF6bU%3D",
+          "file_key": "tos-alisg-v-90231e-sg/oUBy71vTAlvsyiAKEq3BCUIbifAAEE0wagDAKV.docx",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oUBy71vTAlvsyiAKEq3BCUIbifAAEE0wagDAKV.docx?lk3s=cbe26b3a&x-expires=4833274341&x-signature=nTI39CHT6ToycGgOUncuJMRF6bU%3D",
+          "size": 269094
+        },
+        {
+          "file_type": "png",
+          "file_name": "Captura de Tela 2024-03-20 às 14.24.10.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/822c62489ad34e4fa7fb829b4a283e9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274341&x-signature=pNVF4XXvdDiUzovUGjAbkvDd1uk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/822c62489ad34e4fa7fb829b4a283e9d.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/822c62489ad34e4fa7fb829b4a283e9d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274341&x-signature=pNVF4XXvdDiUzovUGjAbkvDd1uk%3D",
+          "biz_type": 2,
+          "size": 129024
+        },
+        {
+          "file_type": "png",
+          "file_name": "Captura de Tela 2024-03-20 às 15.15.49.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b31b4bf375143b9b694148d3b866578.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274341&x-signature=vnB74CAjjENYI795KSUnxS7iaoI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5b31b4bf375143b9b694148d3b866578.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b31b4bf375143b9b694148d3b866578.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274341&x-signature=vnB74CAjjENYI795KSUnxS7iaoI%3D",
+          "biz_type": 2,
+          "size": 210602
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Mobile Measurement Partner (MMP)-Mobile Marketing Partner (MMP)"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

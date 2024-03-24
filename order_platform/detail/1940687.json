@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354674",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Ganesh Radhakrishnan",
   "create_time": 1710380421,
   "deadline": 0,
@@ -119,7 +119,7 @@
     0
   ],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_99f1372d-69c1-41b2-8090-0c59d802c2hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_99f1372d-69c1-41b2-8090-0c59d802c2hu~?image_size=noop&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 5,
   "current_role": null,
@@ -301,7 +301,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 52400,
+  "pending_time": 487930,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -483,9 +483,9 @@
         {
           "file_type": "png",
           "file_name": "Screen Shot 2024-03-13 at 3.05.38 pm.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c565c11f74884c8b99dcb7b27eff922c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838630&x-signature=3k6H0GCkB06TAB9tqkMiQaBKkl4%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c565c11f74884c8b99dcb7b27eff922c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274161&x-signature=KwfH%2Fa8mWP0d8rHuurk8IrY2%2FDY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c565c11f74884c8b99dcb7b27eff922c.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c565c11f74884c8b99dcb7b27eff922c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838630&x-signature=3k6H0GCkB06TAB9tqkMiQaBKkl4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c565c11f74884c8b99dcb7b27eff922c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274161&x-signature=KwfH%2Fa8mWP0d8rHuurk8IrY2%2FDY%3D",
           "size": 651187
         }
       ],

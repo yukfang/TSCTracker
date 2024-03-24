@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Stacey,</p><p><br /></p><p>Thought I'd put together this diagram and talk through my line of thinking here. Based on what you are telling me both FB and TikTok events are accurate in one of the search partners, but not in Tonic. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/88af83845bf84c159e78b4b500e88e13.png\" height=\"281.25\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88af83845bf84c159e78b4b500e88e13.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837771&amp;x-signature=bvXixZ2Hp9eml8IEht%2Bcan9p55k%3D\" width=\"375\"><p><br /></p><p>In box 1 (top left) - all Pixels and all partners are accurate. Both Pixels are firing within 10% of both search partners. This indicates accuracy verified by two sources (FB/TTK Pixel) and two endpoints (Sys 1 and Tonic)</p><p><br /></p><p>In box 2 (top right) - There is an issue with a search partner in this case Tonic. Both Pixels are within 10% in System 1, but they are widely off within Tonic. </p><p><br /></p><p>In box 3 (bottom left) - There is an issue with one of the Pixels, in this case FB. The TTK Pixel is firing within 10% in both search partners platforms. However the FB Pixel is not firing within 10% in either platform. </p><p><br /></p><p>What they are describing sounds like box 2. If they are seeing both FB and TTK Pixel conversions come within 10% of what System 1 is showing but not in Tonic, then it is likely that Tonic is the issue. </p><p><br /></p><p>To confirm: does Tonic show the same discrepancy for FB conversions as well? If it does, then the culprit is likely Tonic. </p><p><br /></p><p>Hope this helps, thought I'd put together a diagram and hopefully save a Friday morning call. I am happy to still hop on a call and discuss tomorrow morning.</p><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
+          "content": "<p>Hey Stacey,</p><p><br /></p><p>Thought I'd put together this diagram and talk through my line of thinking here. Based on what you are telling me both FB and TikTok events are accurate in one of the search partners, but not in Tonic. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/88af83845bf84c159e78b4b500e88e13.png\" height=\"281.25\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88af83845bf84c159e78b4b500e88e13.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273352&amp;x-signature=frkMSPY%2F5dBfC6i29WiWJehcG5k%3D\" width=\"375\"><p><br /></p><p>In box 1 (top left) - all Pixels and all partners are accurate. Both Pixels are firing within 10% of both search partners. This indicates accuracy verified by two sources (FB/TTK Pixel) and two endpoints (Sys 1 and Tonic)</p><p><br /></p><p>In box 2 (top right) - There is an issue with a search partner in this case Tonic. Both Pixels are within 10% in System 1, but they are widely off within Tonic. </p><p><br /></p><p>In box 3 (bottom left) - There is an issue with one of the Pixels, in this case FB. The TTK Pixel is firing within 10% in both search partners platforms. However the FB Pixel is not firing within 10% in either platform. </p><p><br /></p><p>What they are describing sounds like box 2. If they are seeing both FB and TTK Pixel conversions come within 10% of what System 1 is showing but not in Tonic, then it is likely that Tonic is the issue. </p><p><br /></p><p>To confirm: does Tonic show the same discrepancy for FB conversions as well? If it does, then the culprit is likely Tonic. </p><p><br /></p><p>Hope this helps, thought I'd put together a diagram and hopefully save a Friday morning call. I am happy to still hop on a call and discuss tomorrow morning.</p><p><br /></p><p>Regards,</p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -444,7 +444,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2308391,
+  "pending_time": 2743973,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -690,9 +690,9 @@
           "size": 253997
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88af83845bf84c159e78b4b500e88e13.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837771&x-signature=bvXixZ2Hp9eml8IEht%2Bcan9p55k%3D",
-          "file_name": "file_20240318_14_56_11_139252",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88af83845bf84c159e78b4b500e88e13.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837771&x-signature=bvXixZ2Hp9eml8IEht%2Bcan9p55k%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88af83845bf84c159e78b4b500e88e13.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273352&x-signature=frkMSPY%2F5dBfC6i29WiWJehcG5k%3D",
+          "file_name": "file_20240323_15_55_52_843146",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88af83845bf84c159e78b4b500e88e13.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273352&x-signature=frkMSPY%2F5dBfC6i29WiWJehcG5k%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/88af83845bf84c159e78b4b500e88e13.png",
           "file_type": "jpeg",
           "biz_type": 2

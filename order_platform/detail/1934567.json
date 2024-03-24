@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Jaime, we're receiving Subscribe and CP events, but not Initiate Checkout:</p><img alt=\"Screenshot 2024-03-12 at 1.38.07 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/260e23e5ca88432ea3020c8b76380a54.png\" height=\"153.776\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260e23e5ca88432ea3020c8b76380a54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838566&amp;x-signature=ybth1K2gon%2B7HQyyRG4cwEvEa2w%3D\" width=\"375\"><p>Did they set up these events using the <a href=\"https://github.com/tiktok/gtm-template-pixel\" target=\"_blank\">GTM x TikTok template</a>, or without the template? I would recommend that they utilize the template which significantly lowers the lift required to set up events in GTM as opposed to doing it manually. If they're intending to set up Initiate Checkout, it's likely that there's an issue with the GTM trigger since TT has not yet received a single one of those events to date. </p></img>",
+          "content": "<p>Hey Jaime, we're receiving Subscribe and CP events, but not Initiate Checkout:</p><img alt=\"Screenshot 2024-03-12 at 1.38.07 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/260e23e5ca88432ea3020c8b76380a54.png\" height=\"153.776\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260e23e5ca88432ea3020c8b76380a54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274097&amp;x-signature=wSe%2BiJzjgM1tbNTbi%2B7eV8ZcnXM%3D\" width=\"375\"><p>Did they set up these events using the <a href=\"https://github.com/tiktok/gtm-template-pixel\" target=\"_blank\">GTM x TikTok template</a>, or without the template? I would recommend that they utilize the template which significantly lowers the lift required to set up events in GTM as opposed to doing it manually. If they're intending to set up Initiate Checkout, it's likely that there's an issue with the GTM trigger since TT has not yet received a single one of those events to date. </p></img>",
           "type": 6
         }
       ],
@@ -126,12 +126,99 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711119505,
+      "auto_close_hit": 0,
+      "id": 7349200681896526000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kelcie.vanert@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kelcie Van Ert",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7231571814417597441",
+      "name": "Kelcie Van Ert",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Joey,</p><p><br /></p><p>Do you have a moment today to review the set up across the clients user flow again? The client launched and paused within a week because they are seeing zero conversions. After trouble shooting on my end and gaining additional insights from the client I'm hoping you can confirm the following: </p><p><br /></p><ol><li><span style=\"color: #222222;\">Are they using Subscribe or Complete Payment as the event to confirm a subscription (looks like both fired in the screenshot they provided below)! Could this be impacting data passback with the pixel in GTM &amp; TTAM?</span></li><li><span style=\"color: #222222;\">Typically we recommend Complete Payment if the conversion event includes payment. However, we require </span><span style=\"color: #1155CC;\"><a href=\"https://business-api.tiktok.com/portal/docs?rid=5ipocbxyw8v&amp;id=1701890972233730\" target=\"_blank noopener noreferrer\">parameters</a></span> in order to effectively use the Complete Payment event. This includes value, currency, content ID and content type. Without these would this impact event reporting in GTM and/or TTAM?</li><li><span style=\"color: #222222;\">Based on the user flow I believe we should be using: Page View (required), View Content (LP), Click Button (adds email &amp; clicks checkout button), Register (provides email/contact info and clicks Create account), Add Payment Info and Complete Payment (confirmed payment and subscription start). Can you confirm this is aligned with the events for the user flow and the GTM set up? </span></li><li><span style=\"color: #222222;\">I asked them to implement </span><span style=\"color: #1155CC;\"><a href=\"https://theathletic.com/tag/pfm-vid-uk/?source=tiktokads&amp;ad_id=1734926\" target=\"_blank noopener noreferrer\">Advanced Matching</a> noting it</span> is very important for signal quality. Any additional context I should provide? </li><li><span style=\"color: #222222;\">Lastly, I'm not sure it based the </span><span style=\"color: #1155CC;\"><a href=\"https://ads.tiktok.com/help/article/learning-phase?lang=en\" target=\"_blank noopener noreferrer\">learning phase</a></span> as they are seeing zero conversions internally and were not live for more than a week.</li></ol><p><br /></p><p>I asked for a screen recording of the user journey too! We may need a call Monday morning though. </p><p><br /></p><p>Thanks for your help! </p><p><br /></p><p> </p><img alt=\"image (5).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/784534efbde64d7494ce215dae96409e.png\" height=\"526.526\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/784534efbde64d7494ce215dae96409e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274098&amp;x-signature=vjWFyVSBEpUJKUQf5WO1HLasck0%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_305f4291-441d-4c01-99bf-edaf489daabh~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711119641,
+      "auto_close_hit": 0,
+      "id": 7349202179724493000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kelcie.vanert@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kelcie Van Ert",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7231571814417597441",
+      "name": "Kelcie Van Ert",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<img alt=\"Screenshot 2024-03-22 at 9.11.01 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/73dc8e84cb9f4d7083f88970518fc8e7.png\" height=\"188.353\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/73dc8e84cb9f4d7083f88970518fc8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274098&amp;x-signature=bRvD4%2FKhJmscziiaf2aQ7QZpLwE%3D\" width=\"375\"><img alt=\"image (6).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a17bf290afa34f23831602721028cd91.png\" height=\"219.216\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a17bf290afa34f23831602721028cd91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274098&amp;x-signature=iBc4bI3yjG6Gm%2FnZZ%2BoAUwtlsmo%3D\" width=\"375\"><img alt=\"image (7).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/3d1bd2451636483b91168ee0bac297a3.png\" height=\"221.97\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d1bd2451636483b91168ee0bac297a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274098&amp;x-signature=Wk38dDTMGutxHO1bfRdDbiiIwes%3D\" width=\"375\"><img alt=\"image (8).png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0895428a6e964c969fdea48a3ad38a46.png\" height=\"220.243\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0895428a6e964c969fdea48a3ad38a46.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274098&amp;x-signature=USzYgnv9JUdcIuA1wIYfTdsy4xE%3D\" width=\"375\" /></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_305f4291-441d-4c01-99bf-edaf489daabh~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711132051,
+      "auto_close_hit": 0,
+      "id": 7349254196232749000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "kelcie.vanert@tiktok.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Kelcie Van Ert",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7231571814417597441",
+      "name": "Kelcie Van Ert",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Joey,</p><p><br></p><p>The client sent a screen recording of the user flow and confirmed they did not see the TikTok pixel fire for Subscribe or Complete Payment. The person who sent the screenshot in the previous post won&#39;t be able to follow up with the flow they recorded until Monday though.&nbsp;</p><p><br></p><p>https://drive.google.com/file/d/1lrTmSXgpuy7ucdY3OVmgRg1XdKSN1a5Q/view</p><p><br></p><p>Lastly, I&#39;m noting that it appears some of the campaigns are US based and others UK. Could that impact data passback?&nbsp;</p><p><br></p><p>Thanks!</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_305f4291-441d-4c01-99bf-edaf489daabh~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
-  "pending_from_follower": false,
+  "pending_from_follower": true,
   "id": 1934567,
   "workflow_nodes": [],
   "board_id": 1705151646989662,
@@ -151,9 +238,9 @@
   "type": -1,
   "current_role": null,
   "fd_permission": 1,
-  "status": 1,
+  "status": 2,
   "business_data": [],
-  "update_time": 1710457381,
+  "update_time": 1711132051,
   "owner_name": "Jaime Villegas",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -328,7 +415,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 317186,
+  "pending_time": 752717,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -503,10 +590,50 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260e23e5ca88432ea3020c8b76380a54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838566&x-signature=ybth1K2gon%2B7HQyyRG4cwEvEa2w%3D",
-          "file_name": "file_20240318_15_09_26_858533",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260e23e5ca88432ea3020c8b76380a54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838566&x-signature=ybth1K2gon%2B7HQyyRG4cwEvEa2w%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260e23e5ca88432ea3020c8b76380a54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274097&x-signature=wSe%2BiJzjgM1tbNTbi%2B7eV8ZcnXM%3D",
+          "file_name": "file_20240323_16_08_17_973690",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260e23e5ca88432ea3020c8b76380a54.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274097&x-signature=wSe%2BiJzjgM1tbNTbi%2B7eV8ZcnXM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/260e23e5ca88432ea3020c8b76380a54.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/784534efbde64d7494ce215dae96409e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274098&x-signature=vjWFyVSBEpUJKUQf5WO1HLasck0%3D",
+          "file_name": "file_20240323_16_08_18_157903",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/784534efbde64d7494ce215dae96409e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274098&x-signature=vjWFyVSBEpUJKUQf5WO1HLasck0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/784534efbde64d7494ce215dae96409e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d1bd2451636483b91168ee0bac297a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274098&x-signature=Wk38dDTMGutxHO1bfRdDbiiIwes%3D",
+          "file_name": "file_20240323_16_08_18_191891",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d1bd2451636483b91168ee0bac297a3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274098&x-signature=Wk38dDTMGutxHO1bfRdDbiiIwes%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/3d1bd2451636483b91168ee0bac297a3.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/73dc8e84cb9f4d7083f88970518fc8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274098&x-signature=bRvD4%2FKhJmscziiaf2aQ7QZpLwE%3D",
+          "file_name": "file_20240323_16_08_18_191935",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/73dc8e84cb9f4d7083f88970518fc8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274098&x-signature=bRvD4%2FKhJmscziiaf2aQ7QZpLwE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/73dc8e84cb9f4d7083f88970518fc8e7.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a17bf290afa34f23831602721028cd91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274098&x-signature=iBc4bI3yjG6Gm%2FnZZ%2BoAUwtlsmo%3D",
+          "file_name": "file_20240323_16_08_18_191956",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a17bf290afa34f23831602721028cd91.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274098&x-signature=iBc4bI3yjG6Gm%2FnZZ%2BoAUwtlsmo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/a17bf290afa34f23831602721028cd91.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0895428a6e964c969fdea48a3ad38a46.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274098&x-signature=USzYgnv9JUdcIuA1wIYfTdsy4xE%3D",
+          "file_name": "file_20240323_16_08_18_191975",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0895428a6e964c969fdea48a3ad38a46.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274098&x-signature=USzYgnv9JUdcIuA1wIYfTdsy4xE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0895428a6e964c969fdea48a3ad38a46.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

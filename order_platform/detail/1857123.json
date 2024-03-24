@@ -35,7 +35,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hola Edgar,</p><p>Confirmando recibo de tu ticket.</p><p>Al parecer, están usando la sección de Browser para hacer pruebas. Si quieren hacer pruebas de API, deben usar la sección de abajo - esa no usa QRC.</p><img alt=\"Screenshot 2024-02-05 at 8.40.20 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1205143c241242cbb5af3f2d31adc716.png\" height=\"176.562\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1205143c241242cbb5af3f2d31adc716.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837699&amp;x-signature=4njNUDMfrYrega%2BeB13Kt3g8f7s%3D\" width=\"375\"><p><a href=\"https://business-api.tiktok.com/portal/docs?id=1739584863252481#item-link-Test%20Events\" target=\"_blank\">Aquí te comparto la documentación</a> que les explica como pueden hacer pruebas de API.</p><p>La razon por la que estan viendo <strong>empty_event_name</strong> en la seccion de pruebas es por que simplemente pusieron el URL de la pagina principal - www.coppel.com - y ahi no implementaron ningún evento. Si bien, solo se dispara el evento de PageView, que es el que aparece como <strong>empty_event_name</strong>.</p><p>Hice una prueba usando la URL de una pagina donde se por seguro que implementaron el ViewContent - <a href=\"https://www.coppel.com/cocina-de-juego-taiyo-princesas-disney-morada-pm-5975033\" target=\"_blank\">https://www.coppel.com/cocina-de-juego-taiyo-princesas-disney-morada-pm-5975033</a>. Si pones este en la sección de browser en vez de la pagina principal, podrás ver como el evento <strong>ViewContent</strong> llega sin problemas.</p><p>Avisame si siguen teniendo problemas al probar la API. Si lo necesitan, podemos programar una llamada para que les ayude a hacer sus pruebas.</p><p>Saludos,<br>Armando</br></p></img>",
+          "content": "<p>Hola Edgar,</p><p>Confirmando recibo de tu ticket.</p><p>Al parecer, están usando la sección de Browser para hacer pruebas. Si quieren hacer pruebas de API, deben usar la sección de abajo - esa no usa QRC.</p><img alt=\"Screenshot 2024-02-05 at 8.40.20 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1205143c241242cbb5af3f2d31adc716.png\" height=\"176.562\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1205143c241242cbb5af3f2d31adc716.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273289&amp;x-signature=E%2BP2JZohMlSbibhGMLtckOus9cA%3D\" width=\"375\"><p><a href=\"https://business-api.tiktok.com/portal/docs?id=1739584863252481#item-link-Test%20Events\" target=\"_blank\">Aquí te comparto la documentación</a> que les explica como pueden hacer pruebas de API.</p><p>La razon por la que estan viendo <strong>empty_event_name</strong> en la seccion de pruebas es por que simplemente pusieron el URL de la pagina principal - www.coppel.com - y ahi no implementaron ningún evento. Si bien, solo se dispara el evento de PageView, que es el que aparece como <strong>empty_event_name</strong>.</p><p>Hice una prueba usando la URL de una pagina donde se por seguro que implementaron el ViewContent - <a href=\"https://www.coppel.com/cocina-de-juego-taiyo-princesas-disney-morada-pm-5975033\" target=\"_blank\">https://www.coppel.com/cocina-de-juego-taiyo-princesas-disney-morada-pm-5975033</a>. Si pones este en la sección de browser en vez de la pagina principal, podrás ver como el evento <strong>ViewContent</strong> llega sin problemas.</p><p>Avisame si siguen teniendo problemas al probar la API. Si lo necesitan, podemos programar una llamada para que les ayude a hacer sus pruebas.</p><p>Saludos,<br>Armando</br></p></img>",
           "type": 6
         }
       ],
@@ -261,7 +261,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2996195,
+  "pending_time": 3431786,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -437,23 +437,23 @@
         {
           "file_type": "jpeg",
           "file_name": "WhatsApp Image 2024-02-02 at 18.12.43.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/66cb459844944beead0cab9f5e39e27d.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837699&x-signature=%2Bef%2Fz3arB9tqGjvaEzi5kq47Y8g%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/66cb459844944beead0cab9f5e39e27d.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273289&x-signature=Sy4FA39O6y%2Bs2LHwzS7uCm9pzXA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/66cb459844944beead0cab9f5e39e27d.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/66cb459844944beead0cab9f5e39e27d.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837699&x-signature=%2Bef%2Fz3arB9tqGjvaEzi5kq47Y8g%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/66cb459844944beead0cab9f5e39e27d.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273289&x-signature=Sy4FA39O6y%2Bs2LHwzS7uCm9pzXA%3D",
           "size": 82222
         },
         {
           "file_type": "jpeg",
           "file_name": "WhatsApp Image 2024-02-02 at 18.13.11.jpeg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f74130d4a2044d6086fce3d4c0258f3f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837699&x-signature=mNKJ%2FqiEc5xcOFgw8lvEVpTMg9M%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f74130d4a2044d6086fce3d4c0258f3f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273289&x-signature=KieFEkkfZ%2Ft5NJ76YpOFWW4KYt8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/f74130d4a2044d6086fce3d4c0258f3f.jpeg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f74130d4a2044d6086fce3d4c0258f3f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837699&x-signature=mNKJ%2FqiEc5xcOFgw8lvEVpTMg9M%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f74130d4a2044d6086fce3d4c0258f3f.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273289&x-signature=KieFEkkfZ%2Ft5NJ76YpOFWW4KYt8%3D",
           "size": 27718
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1205143c241242cbb5af3f2d31adc716.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837699&x-signature=4njNUDMfrYrega%2BeB13Kt3g8f7s%3D",
-          "file_name": "file_20240318_14_54_59_255988",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1205143c241242cbb5af3f2d31adc716.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837699&x-signature=4njNUDMfrYrega%2BeB13Kt3g8f7s%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1205143c241242cbb5af3f2d31adc716.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273289&x-signature=E%2BP2JZohMlSbibhGMLtckOus9cA%3D",
+          "file_name": "file_20240323_15_54_49_938957",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1205143c241242cbb5af3f2d31adc716.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273289&x-signature=E%2BP2JZohMlSbibhGMLtckOus9cA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/1205143c241242cbb5af3f2d31adc716.png",
           "file_type": "jpeg",
           "biz_type": 2

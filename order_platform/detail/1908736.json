@@ -186,6 +186,64 @@
       ],
       "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/a57c9956-0b45-4152-a93a-74d314bd745g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710837903,
+      "auto_close_hit": 0,
+      "id": 7347991655230161000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Nicolas Lahaye",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6944986051866117121",
+      "name": "Nicolas Lahaye",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hello Selma,</p><p>Le client est dispo mercredi entre 15h et 16h, je t&#39;envoie une invitation.</p><p>Bonne journée,</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/a57c9956-0b45-4152-a93a-74d314bd745g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710838971,
+      "auto_close_hit": 0,
+      "id": 7347996495616279000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Nicolas Lahaye",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6944986051866117121",
+      "name": "Nicolas Lahaye",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Selma,</p><p><br></p><p>J&#39;avais fait un audit de leur implémentation, le voici si ça peut te faire gagner du temps :</p><p><br></p><p><br></p><p><strong>/// PIXEL ///</strong></p><p><br></p><ul><li>Ajouter un event supplémentaire, il n&#39;y a que &#34;View Content, Add to cart et Complete Payment&#34;</li><li>Mise en place de Manual AM</li></ul><p><br></p><p><strong>Parameters </strong></p><p>View Content : tout est ok</p><p>Add to cart : Nous ne recevons pas de content type</p><p>Complete Payment : tout est ok</p><p>+les infos sur le nouvel event qui sera taggué</p><p><br></p><p> </p><p>=&gt; Pour Automatic Advanced Matching &amp; 1P Cookie : c&#39;est déjà fait&nbsp;</p><p><br></p><p><br></p><p><strong>/// eAPI ///</strong></p><p><br></p><p>Mise en place de la connection S2S</p><p><br></p><p>Merci d&#39;avance</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/a57c9956-0b45-4152-a93a-74d314bd745g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -213,7 +271,7 @@
   "fd_permission": 1,
   "status": 2,
   "business_data": [],
-  "update_time": 1710753549,
+  "update_time": 1710838970,
   "owner_name": "Nicolas Lahaye",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -315,7 +373,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 252107,
+  "pending_time": 687626,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -491,9 +549,9 @@
         {
           "file_type": "png",
           "file_name": "NM 3.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5153716415144622a73676159980c553.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838353&x-signature=StrYSGyz2cFBKonETyXUccJPDLA%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5153716415144622a73676159980c553.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273872&x-signature=l5%2BPsnummaG76f2R6U3SD25fp%2FE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5153716415144622a73676159980c553.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5153716415144622a73676159980c553.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838353&x-signature=StrYSGyz2cFBKonETyXUccJPDLA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5153716415144622a73676159980c553.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273872&x-signature=l5%2BPsnummaG76f2R6U3SD25fp%2FE%3D",
           "size": 57208
         }
       ],

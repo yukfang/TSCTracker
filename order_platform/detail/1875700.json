@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_a05ad864-bff1-449e-a4bf-80280e690ahu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0091_9712e435-fb38-4e78-9d31-ce0af86aa2hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Serdar Cokbulan",
   "create_time": 1707916115,
   "deadline": 0,
@@ -97,6 +97,35 @@
       ],
       "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_a05ad864-bff1-449e-a4bf-80280e690ahu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710937476,
+      "auto_close_hit": 0,
+      "id": 7348419320554242000,
+      "reply_role": "admin",
+      "staff_id": 3590617,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "serdar.cokbulan@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Serdar Cokbulan",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7280554823819215873",
+      "name": "Serdar Cokbulan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>[Status Update] Requested the latest on this from the CSM and how we should move forward.&nbsp;</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0091_9712e435-fb38-4e78-9d31-ce0af86aa2hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -124,7 +153,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1708367808,
+  "update_time": 1710937476,
   "owner_name": "Ian McCarroll",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -226,7 +255,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2406168,
+  "pending_time": 272034,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [

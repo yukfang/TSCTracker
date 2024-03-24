@@ -1,0 +1,24 @@
+[
+  {
+    "id": "38200000082",
+    "name": "Open Status",
+    "sub_tags": [
+      {
+        "id": "38300000166",
+        "name": "MPO Scoping Phase"
+      }
+    ],
+    "color": "#f5a623"
+  },
+  {
+    "id": "38200000084",
+    "name": "Closed  - No Adoption Improvement",
+    "sub_tags": [
+      {
+        "id": "38300000178",
+        "name": "Fixed Technical Issues"
+      }
+    ],
+    "color": "#f5a623"
+  }
+]

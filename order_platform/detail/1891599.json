@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Reid, I'm seeing that they installed the Pixel base code directly on their site's HTML using Custom Code, as well as the Complete Payment event:</p><img alt=\"Screenshot 2024-02-21 at 3.02.49 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f88842c80bf54090b27c0106f7ab6107.png\" height=\"187.5\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f88842c80bf54090b27c0106f7ab6107.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838184&amp;x-signature=i7XKyGj4suC0XPbHpUIhh6R5ldk%3D\" width=\"375\"><p>I recommend that the advertiser first align on their full event funnel. Once they have an idea of all the events they want to track, they should then implement each event following our developer documentation <a href=\"https://business-api.tiktok.com/portal/docs?rid=oyn7lhbo6ar&amp;id=1739585702922241\" target=\"_blank\">here</a>, or  use one of TT's partner integrations, listed <a href=\"https://ads.tiktok.com/help/article/partner-integrations-for-web-tracking?redirected=2\" target=\"_blank\">here</a>. </p><p>Have you had a conversation with them on implementing the Events API as well? Let me know and I can send over more documentation and/or value props on implementing both the EAPI and Pixel. </p></img>",
+          "content": "<p>Hi Reid, I'm seeing that they installed the Pixel base code directly on their site's HTML using Custom Code, as well as the Complete Payment event:</p><img alt=\"Screenshot 2024-02-21 at 3.02.49 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f88842c80bf54090b27c0106f7ab6107.png\" height=\"187.5\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f88842c80bf54090b27c0106f7ab6107.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273695&amp;x-signature=jqH9YDxoA6bMQhZftcdZ2oC5yrE%3D\" width=\"375\"><p>I recommend that the advertiser first align on their full event funnel. Once they have an idea of all the events they want to track, they should then implement each event following our developer documentation <a href=\"https://business-api.tiktok.com/portal/docs?rid=oyn7lhbo6ar&amp;id=1739585702922241\" target=\"_blank\">here</a>, or  use one of TT's partner integrations, listed <a href=\"https://ads.tiktok.com/help/article/partner-integrations-for-web-tracking?redirected=2\" target=\"_blank\">here</a>. </p><p>Have you had a conversation with them on implementing the Events API as well? Let me know and I can send over more documentation and/or value props on implementing both the EAPI and Pixel. </p></img>",
           "type": 6
         }
       ],
@@ -120,7 +120,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi, still need to have the conversation with them on implementing Events API, the client connected with their dev team and sent me back this email - </p><p><br /></p><img alt=\"nugenix dev.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9791a1c0d12b4efd8c7cd3398c80eff6.png\" height=\"188.83\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9791a1c0d12b4efd8c7cd3398c80eff6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838185&amp;x-signature=ZIqdqckc2Kf5x7W0xCHXFrNgF4g%3D\" width=\"375\"><p><br /></p><p>It looks like they are now seeing a few attributed events come in however I want to ensure they are properly linked.<br><br /></br></p><img alt=\"Nugenix Conversions and CPA.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9c07766f658848eebf269071f7413b7d.png\" height=\"193.836\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c07766f658848eebf269071f7413b7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838185&amp;x-signature=BBkgvUNS5hjbrQjDJGAwEBQipD8%3D\" width=\"375\" /></img>",
+          "content": "<p>Hi, still need to have the conversation with them on implementing Events API, the client connected with their dev team and sent me back this email - </p><p><br /></p><img alt=\"nugenix dev.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9791a1c0d12b4efd8c7cd3398c80eff6.png\" height=\"188.83\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9791a1c0d12b4efd8c7cd3398c80eff6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273695&amp;x-signature=3xVd9UlKQnJR1SKUuEe2ghHta%2B0%3D\" width=\"375\"><p><br /></p><p>It looks like they are now seeing a few attributed events come in however I want to ensure they are properly linked.<br><br /></br></p><img alt=\"Nugenix Conversions and CPA.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9c07766f658848eebf269071f7413b7d.png\" height=\"193.836\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c07766f658848eebf269071f7413b7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273695&amp;x-signature=TrmaUnT04O5vZyAH215ENXGkU8I%3D\" width=\"375\" /></img>",
           "type": 6
         }
       ],
@@ -415,7 +415,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1090287,
+  "pending_time": 1525797,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -589,25 +589,25 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f88842c80bf54090b27c0106f7ab6107.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838184&x-signature=i7XKyGj4suC0XPbHpUIhh6R5ldk%3D",
-          "file_name": "file_20240318_15_03_05_010589",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f88842c80bf54090b27c0106f7ab6107.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838184&x-signature=i7XKyGj4suC0XPbHpUIhh6R5ldk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f88842c80bf54090b27c0106f7ab6107.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273695&x-signature=jqH9YDxoA6bMQhZftcdZ2oC5yrE%3D",
+          "file_name": "file_20240323_16_01_35_334904",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f88842c80bf54090b27c0106f7ab6107.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273695&x-signature=jqH9YDxoA6bMQhZftcdZ2oC5yrE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/f88842c80bf54090b27c0106f7ab6107.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c07766f658848eebf269071f7413b7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838185&x-signature=BBkgvUNS5hjbrQjDJGAwEBQipD8%3D",
-          "file_name": "file_20240318_15_03_05_146112",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c07766f658848eebf269071f7413b7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838185&x-signature=BBkgvUNS5hjbrQjDJGAwEBQipD8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c07766f658848eebf269071f7413b7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273695&x-signature=TrmaUnT04O5vZyAH215ENXGkU8I%3D",
+          "file_name": "file_20240323_16_01_35_461680",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c07766f658848eebf269071f7413b7d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273695&x-signature=TrmaUnT04O5vZyAH215ENXGkU8I%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/9c07766f658848eebf269071f7413b7d.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9791a1c0d12b4efd8c7cd3398c80eff6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838185&x-signature=ZIqdqckc2Kf5x7W0xCHXFrNgF4g%3D",
-          "file_name": "file_20240318_15_03_05_146296",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9791a1c0d12b4efd8c7cd3398c80eff6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838185&x-signature=ZIqdqckc2Kf5x7W0xCHXFrNgF4g%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9791a1c0d12b4efd8c7cd3398c80eff6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273695&x-signature=3xVd9UlKQnJR1SKUuEe2ghHta%2B0%3D",
+          "file_name": "file_20240323_16_01_35_461761",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9791a1c0d12b4efd8c7cd3398c80eff6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273695&x-signature=3xVd9UlKQnJR1SKUuEe2ghHta%2B0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/9791a1c0d12b4efd8c7cd3398c80eff6.png",
           "file_type": "jpeg",
           "biz_type": 2

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_22ca50ed-6326-411c-841f-fa3ca409b5hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0091_b18b114f-85bf-4ec2-abea-d57b30980dhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Murugan Chellappan",
   "create_time": 1710217911,
   "deadline": 0,
@@ -168,7 +168,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 538599,
+  "pending_time": 974131,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -344,9 +344,9 @@
         {
           "file_type": "xlsx",
           "file_name": "Honda TH Pixel Structure.xlsx",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEWTWDXveEM3fGARoYAA8eQeXvA9Wc2GAAo22J.xlsx?lk3s=cbe26b3a&x-expires=4832838574&x-signature=Mvx56ho3EgWZFxsxwz7RWXpDYUY%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEWTWDXveEM3fGARoYAA8eQeXvA9Wc2GAAo22J.xlsx?lk3s=cbe26b3a&x-expires=4833274106&x-signature=GngIcan2K3MF6a7wyOFDkYEwivw%3D",
           "file_key": "tos-alisg-v-90231e-sg/oEWTWDXveEM3fGARoYAA8eQeXvA9Wc2GAAo22J.xlsx",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEWTWDXveEM3fGARoYAA8eQeXvA9Wc2GAAo22J.xlsx?lk3s=cbe26b3a&x-expires=4832838574&x-signature=Mvx56ho3EgWZFxsxwz7RWXpDYUY%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEWTWDXveEM3fGARoYAA8eQeXvA9Wc2GAAo22J.xlsx?lk3s=cbe26b3a&x-expires=4833274106&x-signature=GngIcan2K3MF6a7wyOFDkYEwivw%3D",
           "size": 485607
         }
       ],

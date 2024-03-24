@@ -61,7 +61,7 @@
     0
   ],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/564a83eb-feb7-46d8-a217-5dc0c993cf7g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/564a83eb-feb7-46d8-a217-5dc0c993cf7g~?image_size=noop&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 0,
   "current_role": null,
@@ -170,7 +170,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 5171663,
+  "pending_time": 5611284,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -346,9 +346,9 @@
         {
           "file_type": "png",
           "file_name": "Adobe Setup.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/de91eebf73f547daa860efe735d6fa5a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833323&x-signature=NagIgd13MGSWeVlVx0yGpmhWBlM%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/de91eebf73f547daa860efe735d6fa5a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272944&x-signature=RhyDmFeSsSK7ZqBOjHxG0wiRbFI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/de91eebf73f547daa860efe735d6fa5a.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/de91eebf73f547daa860efe735d6fa5a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833323&x-signature=NagIgd13MGSWeVlVx0yGpmhWBlM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/de91eebf73f547daa860efe735d6fa5a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272944&x-signature=RhyDmFeSsSK7ZqBOjHxG0wiRbFI%3D",
           "size": 71952
         }
       ],

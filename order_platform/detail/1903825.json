@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Kayla,</p><p><br /></p><p>It seems like perhaps your client is perhaps running a VSA campaign? Have a few questions below:</p><p><br /></p><p>1) Catalog checking - could you provide me with their BC #? I can look up and check the catalog that way.</p><p>2) Ad preview - this might be expected behavior. TSC team does not cover the Ads Manager product. You could try checking with TPS or someone else in GBS should know if this is expected. </p><p>3) Which Pixel will they be using? The one that is attached to their ad account doesn't seem to be functioning/firing properly:</p><img alt=\"img_v3_028g_b661c19c-c522-4233-a88b-e5fc4eb95feh.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b94636810d064c91b2152a045840c220.jpg\" height=\"60.822\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b94636810d064c91b2152a045840c220.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838297&amp;x-signature=%2B0UyEQCjFmUE8sm%2BaNVgQNQpztI%3D\" width=\"375\"><p><br /></p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/C51OEGJMLFUS2HTAMTB0?start_time=2024-02-21&amp;end_time=2024-02-27&amp;from=ALL&amp;aadvid=6990481994773741569</p><p><br /></p><p>Is that the proper Pixel or will they be using a different one for their campaign?</p><p><br /></p><p>Thomas</p></img>",
+          "content": "<p>Hi Kayla,</p><p><br /></p><p>It seems like perhaps your client is perhaps running a VSA campaign? Have a few questions below:</p><p><br /></p><p>1) Catalog checking - could you provide me with their BC #? I can look up and check the catalog that way.</p><p>2) Ad preview - this might be expected behavior. TSC team does not cover the Ads Manager product. You could try checking with TPS or someone else in GBS should know if this is expected. </p><p>3) Which Pixel will they be using? The one that is attached to their ad account doesn't seem to be functioning/firing properly:</p><img alt=\"img_v3_028g_b661c19c-c522-4233-a88b-e5fc4eb95feh.jpg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b94636810d064c91b2152a045840c220.jpg\" height=\"60.822\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b94636810d064c91b2152a045840c220.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273813&amp;x-signature=FH%2Fy1U814glc0T0Bv4JszcsO4iU%3D\" width=\"375\"><p><br /></p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/C51OEGJMLFUS2HTAMTB0?start_time=2024-02-21&amp;end_time=2024-02-27&amp;from=ALL&amp;aadvid=6990481994773741569</p><p><br /></p><p>Is that the proper Pixel or will they be using a different one for their campaign?</p><p><br /></p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -189,7 +189,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1701522,
+  "pending_time": 2137038,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -328,31 +328,31 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-27 at 2.50.44 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c6c96fb4bfca49a3ac5b03bb35f9d982.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=a7ycT71d456XGgXVUhk6gEAwQfM%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c6c96fb4bfca49a3ac5b03bb35f9d982.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273813&x-signature=gnlS8AttIxN3G3BOeNakRe3AePQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c6c96fb4bfca49a3ac5b03bb35f9d982.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c6c96fb4bfca49a3ac5b03bb35f9d982.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=a7ycT71d456XGgXVUhk6gEAwQfM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c6c96fb4bfca49a3ac5b03bb35f9d982.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273813&x-signature=gnlS8AttIxN3G3BOeNakRe3AePQ%3D",
           "size": 151679
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-27 at 2.50.51 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d50b456770de4c069164c11c1d1a6ffd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=hGeePB%2B1KS6hMj2P91ugFykAJ4I%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d50b456770de4c069164c11c1d1a6ffd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273813&x-signature=lmrtKUaUmP4b98XQhHe1F93fmCk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d50b456770de4c069164c11c1d1a6ffd.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d50b456770de4c069164c11c1d1a6ffd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=hGeePB%2B1KS6hMj2P91ugFykAJ4I%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d50b456770de4c069164c11c1d1a6ffd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273813&x-signature=lmrtKUaUmP4b98XQhHe1F93fmCk%3D",
           "size": 843167
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-27 at 2.54.55 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d1d4852f870405c936bfc821f680ff1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=mnKC1Kxxb1ouZR%2FuqDxfglchxGM%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d1d4852f870405c936bfc821f680ff1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273813&x-signature=Fu9yp%2FTNTJosvz2EYO0q6AyGAFk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2d1d4852f870405c936bfc821f680ff1.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d1d4852f870405c936bfc821f680ff1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=mnKC1Kxxb1ouZR%2FuqDxfglchxGM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2d1d4852f870405c936bfc821f680ff1.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273813&x-signature=Fu9yp%2FTNTJosvz2EYO0q6AyGAFk%3D",
           "size": 729841
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b94636810d064c91b2152a045840c220.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=%2B0UyEQCjFmUE8sm%2BaNVgQNQpztI%3D",
-          "file_name": "file_20240318_15_04_57_309631",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b94636810d064c91b2152a045840c220.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838297&x-signature=%2B0UyEQCjFmUE8sm%2BaNVgQNQpztI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b94636810d064c91b2152a045840c220.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273813&x-signature=FH%2Fy1U814glc0T0Bv4JszcsO4iU%3D",
+          "file_name": "file_20240323_16_03_33_228559",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b94636810d064c91b2152a045840c220.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273813&x-signature=FH%2Fy1U814glc0T0Bv4JszcsO4iU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b94636810d064c91b2152a045840c220.jpg",
           "file_type": "jpeg",
           "biz_type": 2

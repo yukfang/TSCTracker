@@ -59,7 +59,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_f2ccc486-b058-4a17-9894-d0f09b7d5b1g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_f2ccc486-b058-4a17-9894-d0f09b7d5b1g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": -1,
   "current_role": null,
@@ -168,7 +168,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 322168,
+  "pending_time": 757702,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -344,9 +344,9 @@
         {
           "file_type": "png",
           "file_name": "EA Marketing API .png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/769fbeef357e46668aa18a9aedb09d68.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838672&x-signature=CU%2F6QMj1kx7fUtPJhMHgxs9zwKQ%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/769fbeef357e46668aa18a9aedb09d68.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274205&x-signature=y%2FXNcdjfPGo5SFuCkH4arD%2B1U6E%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/769fbeef357e46668aa18a9aedb09d68.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/769fbeef357e46668aa18a9aedb09d68.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838672&x-signature=CU%2F6QMj1kx7fUtPJhMHgxs9zwKQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/769fbeef357e46668aa18a9aedb09d68.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274205&x-signature=y%2FXNcdjfPGo5SFuCkH4arD%2B1U6E%3D",
           "size": 82635
         }
       ],

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497211543601",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_a1acfe06-d128-4d32-ae8b-a7e0264e37fg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a1acfe06-d128-4d32-ae8b-a7e0264e37fg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Carly Gillingham",
   "create_time": 1704237394,
   "deadline": 0,
@@ -133,7 +133,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 4641333,
+  "pending_time": 5147150,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -309,9 +309,9 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2023-11-21 at 9.49.48 AM (1).png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9b0387cf731944399ae454e1a6daf2cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833063&x-signature=N8bZ2dqjhCJt%2B%2FGPfY5jK3%2FHyag%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9b0387cf731944399ae454e1a6daf2cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833338879&x-signature=6E4i4NSeVkcKskhbievUyLM0exw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/9b0387cf731944399ae454e1a6daf2cd.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9b0387cf731944399ae454e1a6daf2cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833063&x-signature=N8bZ2dqjhCJt%2B%2FGPfY5jK3%2FHyag%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9b0387cf731944399ae454e1a6daf2cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833338879&x-signature=6E4i4NSeVkcKskhbievUyLM0exw%3D",
           "size": 137697
         }
       ],

@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Charlie,</p><p>I took a look at the site and I actually was not able to get it to double fire. There will sometimes be issues with the Pixel Helper refreshing and thus can show double firing events. What I usually do to confirm this is use Chrome Dev Tool's Network Tab:</p><p>1) Right click anywhere on the site &gt; Click \"Inspect\":</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e61ab41d7e75433bac68429e66d8cdaf.png\" height=\"426.455\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e61ab41d7e75433bac68429e66d8cdaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=Zory8VPhQWKCzJOX2ZDwix9US8w%3D\" width=\"375\"><p><br /></p><p>2)  A pane should pop up, usually on the right side of the Chrome browser by default:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png\" height=\"201.824\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=gMpFQfP%2BYfIL%2F9c8BzBaDz0UN2k%3D\" width=\"375\"><p><br /></p><p>3) In this pane, click on the \"Network\" tab at the top:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png\" height=\"185.582\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=egtJK8oNmkvkwQdpO7ig4bQUf7w%3D\" width=\"375\"><p><br /></p><p>4) Once here, please make sure that the \"Record\" button is clicked:</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png\" height=\"278.609\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=UPSC6TWmGF5qdhkQkzRDOr7qaN8%3D\" width=\"375\"><p><br /></p><p>5) Then ensure that the \"Preserve Log\" box is checked:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png\" height=\"275.474\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=lJDFYa0wWonxW7z0aIy3b8Livg0%3D\" width=\"375\"><p><br /></p><p>6) And finally in the filter box below both the \"record\" and Preserve log buttons, enter \"pixel\" without quotes:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png\" height=\"277.778\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=aAWF7Cbenb1dXNfYx34zKdV2hCc%3D\" width=\"375\"><p><br /></p><p>7) Then reload the page. We'll then see a number of network calls related to the pixel populate. Pixel events are indicated by entries named \"pixel\". The first three JavaScript files shown here are network calls for the Pixel itself to be loaded on the page:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/621af151f4fd40c39f3598ceb8c381f8.png\" height=\"280.058\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/621af151f4fd40c39f3598ceb8c381f8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=i1%2FlaFzAS5JAboVaVxR8NvkKHv4%3D\" width=\"375\"><p><br /></p><p>8) Click on the \"pixel\" entry and on the right, click on the \"Payload\" tab:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png\" height=\"250.7\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=TpA%2BmyEz5%2BDRfjs1K0MJBcl3Tso%3D\" width=\"375\"><p><br /></p><p>9) Here we can confirm that the Pageview event is only firing once. If it was firing twice or multiple times, we'd see if the x number of times. The data shown here in the payload is where the Pixel Helper will mainly pull it's data from:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png\" height=\"269.868\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=rMNDQbwBssrbup%2FeCR12q7QrZqw%3D\" width=\"375\"><p><br /></p><p>10) Note on the \"Preserve Log\" check box, I would keep it checked if you want to keep a log of all fired events for a funnel if you're testing. However, if you are wanting to only check/validate events for one page, uncheck the \"Preserve Log\" box to prevent confusion. </p><p>For example, if I refresh the same page again with the \"Preserve Log\" box checked, we'll see that the initial data is kept and the new data is appended to the log:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1d71623e4e1746b6a6916c22f9d15e29.png\" height=\"146.571\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1d71623e4e1746b6a6916c22f9d15e29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=%2BGJiqp30qSlUR71U9REHbRgG5FI%3D\" width=\"375\"><p>The page is reloaded, the pixel base code and the Pageview event is fired again, but the network log kept the previous entries from the first load. </p><p>If the \"Preserve log\" box is unchecked, we'll see that the Network log refreshes, showing the Pixel base code related JavaScripts loading and the Pageview event:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/260d1289c8f04e67abcd3193c6db5cd9.png\" height=\"147.138\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260d1289c8f04e67abcd3193c6db5cd9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=BBiYXHt595OWjP8hfIiRFYyxssU%3D\" width=\"375\"><p><br /></p><p>An overall note, is that I would highly recommend using a hard refresh instead of a regular refresh to get the most up to date version of the page each time. This can be done by either right clicking on the \"Reload\" button on your chrome browser:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png\" height=\"147.352\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=Z9QuaI%2F8%2FodpBEBB2fe5PIFSiR0%3D\" width=\"375\"><p>Windows shortcut: Ctrl + Shift + R</p><p>Mac Shortcut: Cmd + Shift + R</p><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img></img></img></img></img></img></img></img></img></img>",
+          "content": "<p>Hi Charlie,</p><p>I took a look at the site and I actually was not able to get it to double fire. There will sometimes be issues with the Pixel Helper refreshing and thus can show double firing events. What I usually do to confirm this is use Chrome Dev Tool's Network Tab:</p><p>1) Right click anywhere on the site &gt; Click \"Inspect\":</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e61ab41d7e75433bac68429e66d8cdaf.png\" height=\"426.455\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e61ab41d7e75433bac68429e66d8cdaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=ZHZTg37JTuJ1WoS3l6ZsWdyYabo%3D\" width=\"375\"><p><br /></p><p>2)  A pane should pop up, usually on the right side of the Chrome browser by default:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png\" height=\"201.824\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=KMvS7dfx0HGEBR%2Beg5rCa4ByGLI%3D\" width=\"375\"><p><br /></p><p>3) In this pane, click on the \"Network\" tab at the top:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png\" height=\"185.582\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=8aPOMDn1OlppvGfaa07BrwVQweo%3D\" width=\"375\"><p><br /></p><p>4) Once here, please make sure that the \"Record\" button is clicked:</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png\" height=\"278.609\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=Vv2rkPvDk7oBfret6vfpnNKBGMw%3D\" width=\"375\"><p><br /></p><p>5) Then ensure that the \"Preserve Log\" box is checked:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png\" height=\"275.474\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=qObR5hRHoLoUQfppEfWrvyZC1WA%3D\" width=\"375\"><p><br /></p><p>6) And finally in the filter box below both the \"record\" and Preserve log buttons, enter \"pixel\" without quotes:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png\" height=\"277.778\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=bHWOPZJKckMDMtiJOn5hVVmBZKs%3D\" width=\"375\"><p><br /></p><p>7) Then reload the page. We'll then see a number of network calls related to the pixel populate. Pixel events are indicated by entries named \"pixel\". The first three JavaScript files shown here are network calls for the Pixel itself to be loaded on the page:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/621af151f4fd40c39f3598ceb8c381f8.png\" height=\"280.058\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/621af151f4fd40c39f3598ceb8c381f8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=5OEGGAoxzIeQKMcwoFGtzME%2BUoQ%3D\" width=\"375\"><p><br /></p><p>8) Click on the \"pixel\" entry and on the right, click on the \"Payload\" tab:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png\" height=\"250.7\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=srstM45rNETrk7EZ%2BJZGsew5yvM%3D\" width=\"375\"><p><br /></p><p>9) Here we can confirm that the Pageview event is only firing once. If it was firing twice or multiple times, we'd see if the x number of times. The data shown here in the payload is where the Pixel Helper will mainly pull it's data from:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png\" height=\"269.868\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=TtmPHCafBXJ5p7bK9r0FY%2FrtO1Q%3D\" width=\"375\"><p><br /></p><p>10) Note on the \"Preserve Log\" check box, I would keep it checked if you want to keep a log of all fired events for a funnel if you're testing. However, if you are wanting to only check/validate events for one page, uncheck the \"Preserve Log\" box to prevent confusion. </p><p>For example, if I refresh the same page again with the \"Preserve Log\" box checked, we'll see that the initial data is kept and the new data is appended to the log:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1d71623e4e1746b6a6916c22f9d15e29.png\" height=\"146.571\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1d71623e4e1746b6a6916c22f9d15e29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=xXf0Z7lf8q6V4pr6YW607cqEN%2FI%3D\" width=\"375\"><p>The page is reloaded, the pixel base code and the Pageview event is fired again, but the network log kept the previous entries from the first load. </p><p>If the \"Preserve log\" box is unchecked, we'll see that the Network log refreshes, showing the Pixel base code related JavaScripts loading and the Pageview event:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/260d1289c8f04e67abcd3193c6db5cd9.png\" height=\"147.138\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260d1289c8f04e67abcd3193c6db5cd9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=7bImDRP1uitonEUWCjdo0T7MMGI%3D\" width=\"375\"><p><br /></p><p>An overall note, is that I would highly recommend using a hard refresh instead of a regular refresh to get the most up to date version of the page each time. This can be done by either right clicking on the \"Reload\" button on your chrome browser:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png\" height=\"147.352\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=diJQiRnjNvJzs%2BscRcvK9iGFvfs%3D\" width=\"375\"><p>Windows shortcut: Ctrl + Shift + R</p><p>Mac Shortcut: Cmd + Shift + R</p><p><br /></p><p>Thanks!</p><p>Robbie</p></img></img></img></img></img></img></img></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -91,7 +91,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<img alt=\"Screenshot 2024-02-06 at 10.26.35 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ea95961d755a4b5d82d5d67e36063bef.png\" height=\"198.242\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea95961d755a4b5d82d5d67e36063bef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=RLSkj7RrgYEBpatI5c%2FOmgoRTe8%3D\" width=\"375\"><p>okay so I tried adding to cart, and it looks like there are 2 things called \"pixel\" and they both say \"Add to cart\". Does this mean it's double firing? </p></img>",
+          "content": "<img alt=\"Screenshot 2024-02-06 at 10.26.35 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ea95961d755a4b5d82d5d67e36063bef.png\" height=\"198.242\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea95961d755a4b5d82d5d67e36063bef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=EDOKBOanWbrCeeg%2Fe3ms1yR%2BRNA%3D\" width=\"375\"><p>okay so I tried adding to cart, and it looks like there are 2 things called \"pixel\" and they both say \"Add to cart\". Does this mean it's double firing? </p></img>",
           "type": 6
         }
       ],
@@ -120,7 +120,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Charlie,</p><p>Yep that's correct - taking a look myself it seems like the ViewContent event fires correctly on page load when viewing a menu item:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png\" height=\"143.968\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=ZwXXF3TZM6IoecSbaQeS%2FRGMqGI%3D\" width=\"375\"><p>And yes I can see the double firing AddToCart events through the network calls and the Pixel Helper:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png\" height=\"177.527\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=pIx0503n2EBKqh6xDak7%2FxrrePI%3D\" width=\"375\"><p>ATC event 1:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0cbd83af41d14bdfbf54497bda4a0ab9.png\" height=\"225.169\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cbd83af41d14bdfbf54497bda4a0ab9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=YdMiivnRG0pL%2BRIhFxGRH1pOOcE%3D\" width=\"375\"><p>ATC Event 2:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png\" height=\"217.728\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=osL0gESAVberODI03UTZR4S51aI%3D\" width=\"375\"><p>This will more than likely be caused by the Advertiser's Event trigger settings for the AddToCart event which they will need to review</p><p>Thanks!</p><p>Robbie</p></img></img></img></img>",
+          "content": "<p>Hi Charlie,</p><p>Yep that's correct - taking a look myself it seems like the ViewContent event fires correctly on page load when viewing a menu item:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png\" height=\"143.968\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=fm3NMqSGWDC4F5bBz7Xftj66woI%3D\" width=\"375\"><p>And yes I can see the double firing AddToCart events through the network calls and the Pixel Helper:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png\" height=\"177.527\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=kh5P%2FniSg4duHpO3Uxdvgqpo%2F0k%3D\" width=\"375\"><p>ATC event 1:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0cbd83af41d14bdfbf54497bda4a0ab9.png\" height=\"225.169\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cbd83af41d14bdfbf54497bda4a0ab9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=vYM7tSnVfLlfiVQmr7CoaSh9%2B2Q%3D\" width=\"375\"><p>ATC Event 2:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png\" height=\"217.728\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273320&amp;x-signature=QsANqLAG4QMJOGmZLclpxnkW6%2Fw%3D\" width=\"375\"><p>This will more than likely be caused by the Advertiser's Event trigger settings for the AddToCart event which they will need to review</p><p>Thanks!</p><p>Robbie</p></img></img></img></img>",
           "type": 6
         }
       ],
@@ -178,7 +178,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<img alt=\"Screenshot 2024-02-06 at 10.26.25 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1fd2b171f4874920a37be681ab9f846e.png\" height=\"197.966\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1fd2b171f4874920a37be681ab9f846e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837736&amp;x-signature=36cRX12mSrKUaV5v1IvACGJOnjM%3D\" width=\"375\" />",
+          "content": "<img alt=\"Screenshot 2024-02-06 at 10.26.25 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/1fd2b171f4874920a37be681ab9f846e.png\" height=\"197.966\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1fd2b171f4874920a37be681ab9f846e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273321&amp;x-signature=HLdOrQzknQZgLzk5TAlJb6Hkfig%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -386,7 +386,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2669170,
+  "pending_time": 3104755,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -562,159 +562,159 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-05 at 2.44.41 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a358062beb564931b9667e2e7664d8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837735&x-signature=OLgwqVpvAuyrLArkDESrvszsFME%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a358062beb564931b9667e2e7664d8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=SdKk%2FHwMgSQ4l7IpjPjCW7Hxtmg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/a358062beb564931b9667e2e7664d8e7.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a358062beb564931b9667e2e7664d8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837735&x-signature=OLgwqVpvAuyrLArkDESrvszsFME%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a358062beb564931b9667e2e7664d8e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=SdKk%2FHwMgSQ4l7IpjPjCW7Hxtmg%3D",
           "size": 457821
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-05 at 2.45.11 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/22ca1a39374141b6966c580b8882b4b3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837735&x-signature=hHnuKe90obEbSuKATlsrLJjv9y0%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/22ca1a39374141b6966c580b8882b4b3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=Ylf3e%2Fih1%2BOwn6%2FpyiHbQAC6LsM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/22ca1a39374141b6966c580b8882b4b3.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/22ca1a39374141b6966c580b8882b4b3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837735&x-signature=hHnuKe90obEbSuKATlsrLJjv9y0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/22ca1a39374141b6966c580b8882b4b3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=Ylf3e%2Fih1%2BOwn6%2FpyiHbQAC6LsM%3D",
           "size": 453843
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=UPSC6TWmGF5qdhkQkzRDOr7qaN8%3D",
-          "file_name": "file_20240318_14_55_36_201040",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=UPSC6TWmGF5qdhkQkzRDOr7qaN8%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=egtJK8oNmkvkwQdpO7ig4bQUf7w%3D",
-          "file_name": "file_20240318_14_55_36_201170",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=egtJK8oNmkvkwQdpO7ig4bQUf7w%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=rMNDQbwBssrbup%2FeCR12q7QrZqw%3D",
-          "file_name": "file_20240318_14_55_36_201199",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=rMNDQbwBssrbup%2FeCR12q7QrZqw%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=lJDFYa0wWonxW7z0aIy3b8Livg0%3D",
-          "file_name": "file_20240318_14_55_36_201222",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=lJDFYa0wWonxW7z0aIy3b8Livg0%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=aAWF7Cbenb1dXNfYx34zKdV2hCc%3D",
-          "file_name": "file_20240318_14_55_36_201242",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=aAWF7Cbenb1dXNfYx34zKdV2hCc%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=gMpFQfP%2BYfIL%2F9c8BzBaDz0UN2k%3D",
-          "file_name": "file_20240318_14_55_36_201261",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=gMpFQfP%2BYfIL%2F9c8BzBaDz0UN2k%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=TpA%2BmyEz5%2BDRfjs1K0MJBcl3Tso%3D",
-          "file_name": "file_20240318_14_55_36_201280",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=TpA%2BmyEz5%2BDRfjs1K0MJBcl3Tso%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=Z9QuaI%2F8%2FodpBEBB2fe5PIFSiR0%3D",
-          "file_name": "file_20240318_14_55_36_201300",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=Z9QuaI%2F8%2FodpBEBB2fe5PIFSiR0%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/621af151f4fd40c39f3598ceb8c381f8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=i1%2FlaFzAS5JAboVaVxR8NvkKHv4%3D",
-          "file_name": "file_20240318_14_55_36_201318",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/621af151f4fd40c39f3598ceb8c381f8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=i1%2FlaFzAS5JAboVaVxR8NvkKHv4%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/621af151f4fd40c39f3598ceb8c381f8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=5OEGGAoxzIeQKMcwoFGtzME%2BUoQ%3D",
+          "file_name": "file_20240323_15_55_20_830643",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/621af151f4fd40c39f3598ceb8c381f8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=5OEGGAoxzIeQKMcwoFGtzME%2BUoQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/621af151f4fd40c39f3598ceb8c381f8.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e61ab41d7e75433bac68429e66d8cdaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=Zory8VPhQWKCzJOX2ZDwix9US8w%3D",
-          "file_name": "file_20240318_14_55_36_201337",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e61ab41d7e75433bac68429e66d8cdaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=Zory8VPhQWKCzJOX2ZDwix9US8w%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e61ab41d7e75433bac68429e66d8cdaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=ZHZTg37JTuJ1WoS3l6ZsWdyYabo%3D",
+          "file_name": "file_20240323_15_55_20_830761",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e61ab41d7e75433bac68429e66d8cdaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=ZHZTg37JTuJ1WoS3l6ZsWdyYabo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e61ab41d7e75433bac68429e66d8cdaf.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1d71623e4e1746b6a6916c22f9d15e29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=%2BGJiqp30qSlUR71U9REHbRgG5FI%3D",
-          "file_name": "file_20240318_14_55_36_201355",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1d71623e4e1746b6a6916c22f9d15e29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=%2BGJiqp30qSlUR71U9REHbRgG5FI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=Vv2rkPvDk7oBfret6vfpnNKBGMw%3D",
+          "file_name": "file_20240323_15_55_20_830814",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=Vv2rkPvDk7oBfret6vfpnNKBGMw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ba571c8fd2e748938e5efc1ebd8de515.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=TtmPHCafBXJ5p7bK9r0FY%2FrtO1Q%3D",
+          "file_name": "file_20240323_15_55_20_830835",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=TtmPHCafBXJ5p7bK9r0FY%2FrtO1Q%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ddc8b1be33aa42ef90223ac14b75f39a.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1d71623e4e1746b6a6916c22f9d15e29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=xXf0Z7lf8q6V4pr6YW607cqEN%2FI%3D",
+          "file_name": "file_20240323_15_55_20_830859",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1d71623e4e1746b6a6916c22f9d15e29.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=xXf0Z7lf8q6V4pr6YW607cqEN%2FI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/1d71623e4e1746b6a6916c22f9d15e29.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260d1289c8f04e67abcd3193c6db5cd9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=BBiYXHt595OWjP8hfIiRFYyxssU%3D",
-          "file_name": "file_20240318_14_55_36_201374",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260d1289c8f04e67abcd3193c6db5cd9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=BBiYXHt595OWjP8hfIiRFYyxssU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=srstM45rNETrk7EZ%2BJZGsew5yvM%3D",
+          "file_name": "file_20240323_15_55_20_830878",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=srstM45rNETrk7EZ%2BJZGsew5yvM%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7e0f0718cf074ea3bf045121c96dae17.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=diJQiRnjNvJzs%2BscRcvK9iGFvfs%3D",
+          "file_name": "file_20240323_15_55_20_830902",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=diJQiRnjNvJzs%2BscRcvK9iGFvfs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/1e51914661714f839baee461cf9c566b.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260d1289c8f04e67abcd3193c6db5cd9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=7bImDRP1uitonEUWCjdo0T7MMGI%3D",
+          "file_name": "file_20240323_15_55_20_830921",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/260d1289c8f04e67abcd3193c6db5cd9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=7bImDRP1uitonEUWCjdo0T7MMGI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/260d1289c8f04e67abcd3193c6db5cd9.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea95961d755a4b5d82d5d67e36063bef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=RLSkj7RrgYEBpatI5c%2FOmgoRTe8%3D",
-          "file_name": "file_20240318_14_55_36_284304",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea95961d755a4b5d82d5d67e36063bef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=RLSkj7RrgYEBpatI5c%2FOmgoRTe8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=KMvS7dfx0HGEBR%2Beg5rCa4ByGLI%3D",
+          "file_name": "file_20240323_15_55_20_830941",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=KMvS7dfx0HGEBR%2Beg5rCa4ByGLI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/64d08379955b4aa8baf2798eb7ad9aaf.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=8aPOMDn1OlppvGfaa07BrwVQweo%3D",
+          "file_name": "file_20240323_15_55_20_830961",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=8aPOMDn1OlppvGfaa07BrwVQweo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/c4ab7249c7da408e8af26720fa0f798c.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=qObR5hRHoLoUQfppEfWrvyZC1WA%3D",
+          "file_name": "file_20240323_15_55_20_831060",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=qObR5hRHoLoUQfppEfWrvyZC1WA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/0119de1177f2402aa2c3d8f3e33429d2.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=bHWOPZJKckMDMtiJOn5hVVmBZKs%3D",
+          "file_name": "file_20240323_15_55_20_831110",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=bHWOPZJKckMDMtiJOn5hVVmBZKs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/746c53c2991240cc85123b12b2a327ae.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea95961d755a4b5d82d5d67e36063bef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=EDOKBOanWbrCeeg%2Fe3ms1yR%2BRNA%3D",
+          "file_name": "file_20240323_15_55_20_919371",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ea95961d755a4b5d82d5d67e36063bef.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=EDOKBOanWbrCeeg%2Fe3ms1yR%2BRNA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ea95961d755a4b5d82d5d67e36063bef.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=ZwXXF3TZM6IoecSbaQeS%2FRGMqGI%3D",
-          "file_name": "file_20240318_14_55_36_319429",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=ZwXXF3TZM6IoecSbaQeS%2FRGMqGI%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=osL0gESAVberODI03UTZR4S51aI%3D",
-          "file_name": "file_20240318_14_55_36_319488",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=osL0gESAVberODI03UTZR4S51aI%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=pIx0503n2EBKqh6xDak7%2FxrrePI%3D",
-          "file_name": "file_20240318_14_55_36_319505",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=pIx0503n2EBKqh6xDak7%2FxrrePI%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cbd83af41d14bdfbf54497bda4a0ab9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=YdMiivnRG0pL%2BRIhFxGRH1pOOcE%3D",
-          "file_name": "file_20240318_14_55_36_319518",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cbd83af41d14bdfbf54497bda4a0ab9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=YdMiivnRG0pL%2BRIhFxGRH1pOOcE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cbd83af41d14bdfbf54497bda4a0ab9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=vYM7tSnVfLlfiVQmr7CoaSh9%2B2Q%3D",
+          "file_name": "file_20240323_15_55_20_958433",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0cbd83af41d14bdfbf54497bda4a0ab9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=vYM7tSnVfLlfiVQmr7CoaSh9%2B2Q%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0cbd83af41d14bdfbf54497bda4a0ab9.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1fd2b171f4874920a37be681ab9f846e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=36cRX12mSrKUaV5v1IvACGJOnjM%3D",
-          "file_name": "file_20240318_14_55_36_393533",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1fd2b171f4874920a37be681ab9f846e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837736&x-signature=36cRX12mSrKUaV5v1IvACGJOnjM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=QsANqLAG4QMJOGmZLclpxnkW6%2Fw%3D",
+          "file_name": "file_20240323_15_55_20_958503",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=QsANqLAG4QMJOGmZLclpxnkW6%2Fw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/7d574f908cce46ddbe5ca220967f2ee0.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=fm3NMqSGWDC4F5bBz7Xftj66woI%3D",
+          "file_name": "file_20240323_15_55_20_958528",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=fm3NMqSGWDC4F5bBz7Xftj66woI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2e271564af744a828880f25e6b786caf.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=kh5P%2FniSg4duHpO3Uxdvgqpo%2F0k%3D",
+          "file_name": "file_20240323_15_55_20_958545",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273320&x-signature=kh5P%2FniSg4duHpO3Uxdvgqpo%2F0k%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/13fa64baaacc44cd984117fa56ca7f6f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1fd2b171f4874920a37be681ab9f846e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273321&x-signature=HLdOrQzknQZgLzk5TAlJb6Hkfig%3D",
+          "file_name": "file_20240323_15_55_21_024848",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1fd2b171f4874920a37be681ab9f846e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273321&x-signature=HLdOrQzknQZgLzk5TAlJb6Hkfig%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/1fd2b171f4874920a37be681ab9f846e.png",
           "file_type": "jpeg",
           "biz_type": 2

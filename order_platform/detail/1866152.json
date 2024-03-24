@@ -35,7 +35,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hola Myrna,</p><p>Confirmando recibo de tu ticket. Favor de ver los siguientes comentarios.</p><p>Revise la cuenta del anunciante y en la sección de Bidding &amp; Optimization, la opción de <strong>Purchase</strong> <strong>value</strong> no esta disponible porque al parecer, no estamos recibiendo parámetro de value con el evento de Purchase.</p><img alt=\"Screenshot 2024-02-08 at 4.42.27 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/81db556cd73e404dab43b0a17906374d.png\" height=\"190.255\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/81db556cd73e404dab43b0a17906374d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837851&amp;x-signature=cjHQtLvJhwZs4Qte9MWdi8sG5DE%3D\" width=\"375\"><p>Si le puedes pedir un screenshot al anunciante de sus settings en AppsFlyer para confirmar esto?</p><p>Saludos,<br>Armando</br></p></img>",
+          "content": "<p>Hola Myrna,</p><p>Confirmando recibo de tu ticket. Favor de ver los siguientes comentarios.</p><p>Revise la cuenta del anunciante y en la sección de Bidding &amp; Optimization, la opción de <strong>Purchase</strong> <strong>value</strong> no esta disponible porque al parecer, no estamos recibiendo parámetro de value con el evento de Purchase.</p><img alt=\"Screenshot 2024-02-08 at 4.42.27 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/81db556cd73e404dab43b0a17906374d.png\" height=\"190.255\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/81db556cd73e404dab43b0a17906374d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273425&amp;x-signature=l%2By9i6pNq2k%2BfA4OPSiunydDuT8%3D\" width=\"375\"><p>Si le puedes pedir un screenshot al anunciante de sus settings en AppsFlyer para confirmar esto?</p><p>Saludos,<br>Armando</br></p></img>",
           "type": 6
         }
       ],
@@ -93,7 +93,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hola Myrna,</p><p>En este caso, el cliente esta tratando de correr campañas de Android usando la integración Legacy, y los eventos de Android son los que posiblemente no estén llegando con los parámetros necesarios.</p><p>La migración SAN es algo aparte. Ellos deben configurar SAN para Android y iOS y al mismo tiempo tener sus <a href=\"https://support.appsflyer.com/hc/en-us/articles/360002254918--Legacy-TikTok-For-Business-campaign-configuration\" target=\"_blank\">integraciones previas (Legacy) en pie/activas</a>.</p><img alt=\"Screenshot 2024-02-09 at 4.27.28 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d05079b443ee4f6ba8e570bfc9e90247.png\" height=\"270.931\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d05079b443ee4f6ba8e570bfc9e90247.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837851&amp;x-signature=aCfkapXWl1JhO5WG3VeKUmiUvv8%3D\" width=\"375\"><p>Realizar las integraciones SAN en su MMP es solamente el primer paso. Una vez que estas estén listas, tienes que <a href=\"https://bytedance.sg.larkoffice.com/base/MuoebuDFBaFPiusXZXOla6Mfgog?table=tbl66IVz9ZmFWkH9&amp;view=vewIZ0LpQT\" target=\"_blank\">agregar al anunciante al Allows List aquí</a> para pedirle al equipo a cargo de las migraciones que realize la migración, ya que este es un proceso manual. El equipo se encargará de que la configuración este correcta antes de migrar las aplicaciones a la SAN. Estos son los siguientes pasos para este anunciante.</p><ol><li>Asegurarnos de que su configuración a la integración Legacy esté enviando todos los eventos.</li><li>Completar la integración SAN.</li></ol><p>Saludos,<br>Armando</br></p></img>",
+          "content": "<p>Hola Myrna,</p><p>En este caso, el cliente esta tratando de correr campañas de Android usando la integración Legacy, y los eventos de Android son los que posiblemente no estén llegando con los parámetros necesarios.</p><p>La migración SAN es algo aparte. Ellos deben configurar SAN para Android y iOS y al mismo tiempo tener sus <a href=\"https://support.appsflyer.com/hc/en-us/articles/360002254918--Legacy-TikTok-For-Business-campaign-configuration\" target=\"_blank\">integraciones previas (Legacy) en pie/activas</a>.</p><img alt=\"Screenshot 2024-02-09 at 4.27.28 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d05079b443ee4f6ba8e570bfc9e90247.png\" height=\"270.931\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d05079b443ee4f6ba8e570bfc9e90247.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273425&amp;x-signature=%2Btr4MWUSGPMd58wvjX%2F6JbJ3gZY%3D\" width=\"375\"><p>Realizar las integraciones SAN en su MMP es solamente el primer paso. Una vez que estas estén listas, tienes que <a href=\"https://bytedance.sg.larkoffice.com/base/MuoebuDFBaFPiusXZXOla6Mfgog?table=tbl66IVz9ZmFWkH9&amp;view=vewIZ0LpQT\" target=\"_blank\">agregar al anunciante al Allows List aquí</a> para pedirle al equipo a cargo de las migraciones que realize la migración, ya que este es un proceso manual. El equipo se encargará de que la configuración este correcta antes de migrar las aplicaciones a la SAN. Estos son los siguientes pasos para este anunciante.</p><ol><li>Asegurarnos de que su configuración a la integración Legacy esté enviando todos los eventos.</li><li>Completar la integración SAN.</li></ol><p>Saludos,<br>Armando</br></p></img>",
           "type": 6
         }
       ],
@@ -122,7 +122,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hola Armando <br>Adjunto los SS <br><br><br><br /></br></br></br></br></p><img alt=\"Captura de pantalla 2024-02-07 a la(s) 11.36.21 a.m..png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png\" height=\"75.228\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837851&amp;x-signature=cbISkyCPaJ2nzKbuEQs6jkpMX9o%3D\" width=\"375\"><img alt=\"Captura de pantalla 2024-02-07 a la(s) 11.35.07 a.m..png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d35366c9556348388f826165ace7e1f4.png\" height=\"132.469\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d35366c9556348388f826165ace7e1f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837851&amp;x-signature=Jtn1ryBBZeB9QnSzq1PpUJHNmxE%3D\" width=\"375\"><img alt=\"Captura de pantalla 2024-02-07 a la(s) 11.36.21 a.m..png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png\" height=\"75.228\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837851&amp;x-signature=ROP4MUxHZbPZY64MvOpie2e6CXE%3D\" width=\"375\" /></img></img>",
+          "content": "<p>Hola Armando <br>Adjunto los SS <br><br><br><br /></br></br></br></br></p><img alt=\"Captura de pantalla 2024-02-07 a la(s) 11.36.21 a.m..png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png\" height=\"75.228\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273425&amp;x-signature=h7oFmSnXEJKwuzyiqC5qh9uw2C8%3D\" width=\"375\"><img alt=\"Captura de pantalla 2024-02-07 a la(s) 11.35.07 a.m..png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d35366c9556348388f826165ace7e1f4.png\" height=\"132.469\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d35366c9556348388f826165ace7e1f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273425&amp;x-signature=m4EhUKgI921oddwR74EpBYsoFuA%3D\" width=\"375\"><img alt=\"Captura de pantalla 2024-02-07 a la(s) 11.36.21 a.m..png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png\" height=\"75.228\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273425&amp;x-signature=jbKhaUK6uDDAYw88eCy1tnLCHXw%3D\" width=\"375\" /></img></img>",
           "type": 6
         }
       ],
@@ -188,27 +188,27 @@
             {
               "file_type": "png",
               "file_name": "Integración Android SRN.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=sQAR%2F7qR44Vh%2FpBK0wZeSXXw9x8%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=hqk99ehQoSBRpIPMr2Tcs4o7rT8%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=sQAR%2F7qR44Vh%2FpBK0wZeSXXw9x8%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=hqk99ehQoSBRpIPMr2Tcs4o7rT8%3D",
               "biz_type": 2,
               "size": 231714
             },
             {
               "file_type": "png",
               "file_name": "Integración iOS - SRN.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=1Pjjw5gPd2ZvC6rc79JpMPBj3Zk%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=qC1to1LOuSD347Boi2nBx35VH9Y%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=1Pjjw5gPd2ZvC6rc79JpMPBj3Zk%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=qC1to1LOuSD347Boi2nBx35VH9Y%3D",
               "biz_type": 2,
               "size": 324750
             },
             {
               "file_type": "png",
               "file_name": "Integración iOS Legacy.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=gesIbNX%2F44NT1hFPxMNFm%2FC95yY%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=InqUCr3cpNxuZrS3rBuXZWrn6aE%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=gesIbNX%2F44NT1hFPxMNFm%2FC95yY%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=InqUCr3cpNxuZrS3rBuXZWrn6aE%3D",
               "biz_type": 2,
               "size": 227864
             }
@@ -245,9 +245,9 @@
             {
               "file_type": "png",
               "file_name": "Intregración Android Legacy.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=se76ZrLVRwL618UzHWWEcfpcYrE%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=fJsoDYDoag7otru9DMghFh09Reg%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=se76ZrLVRwL618UzHWWEcfpcYrE%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=fJsoDYDoag7otru9DMghFh09Reg%3D",
               "biz_type": 2,
               "size": 208522
             }
@@ -380,7 +380,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1196012,
+  "pending_time": 1631586,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -554,78 +554,78 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/81db556cd73e404dab43b0a17906374d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=cjHQtLvJhwZs4Qte9MWdi8sG5DE%3D",
-          "file_name": "file_20240318_14_57_31_348537",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/81db556cd73e404dab43b0a17906374d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=cjHQtLvJhwZs4Qte9MWdi8sG5DE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/81db556cd73e404dab43b0a17906374d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=l%2By9i6pNq2k%2BfA4OPSiunydDuT8%3D",
+          "file_name": "file_20240323_15_57_05_421471",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/81db556cd73e404dab43b0a17906374d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=l%2By9i6pNq2k%2BfA4OPSiunydDuT8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/81db556cd73e404dab43b0a17906374d.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d05079b443ee4f6ba8e570bfc9e90247.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=aCfkapXWl1JhO5WG3VeKUmiUvv8%3D",
-          "file_name": "file_20240318_14_57_31_432207",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d05079b443ee4f6ba8e570bfc9e90247.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=aCfkapXWl1JhO5WG3VeKUmiUvv8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d05079b443ee4f6ba8e570bfc9e90247.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=%2Btr4MWUSGPMd58wvjX%2F6JbJ3gZY%3D",
+          "file_name": "file_20240323_15_57_05_509438",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d05079b443ee4f6ba8e570bfc9e90247.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=%2Btr4MWUSGPMd58wvjX%2F6JbJ3gZY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d05079b443ee4f6ba8e570bfc9e90247.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=ROP4MUxHZbPZY64MvOpie2e6CXE%3D",
-          "file_name": "file_20240318_14_57_31_476146",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=ROP4MUxHZbPZY64MvOpie2e6CXE%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=h7oFmSnXEJKwuzyiqC5qh9uw2C8%3D",
+          "file_name": "file_20240323_15_57_05_554951",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=h7oFmSnXEJKwuzyiqC5qh9uw2C8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d35366c9556348388f826165ace7e1f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=Jtn1ryBBZeB9QnSzq1PpUJHNmxE%3D",
-          "file_name": "file_20240318_14_57_31_476241",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d35366c9556348388f826165ace7e1f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=Jtn1ryBBZeB9QnSzq1PpUJHNmxE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d35366c9556348388f826165ace7e1f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=m4EhUKgI921oddwR74EpBYsoFuA%3D",
+          "file_name": "file_20240323_15_57_05_555090",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d35366c9556348388f826165ace7e1f4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=m4EhUKgI921oddwR74EpBYsoFuA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d35366c9556348388f826165ace7e1f4.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=cbISkyCPaJ2nzKbuEQs6jkpMX9o%3D",
-          "file_name": "file_20240318_14_57_31_476266",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=cbISkyCPaJ2nzKbuEQs6jkpMX9o%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/bc010c2dfacf40d39c9326c0c69cb858.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=jbKhaUK6uDDAYw88eCy1tnLCHXw%3D",
+          "file_name": "file_20240323_15_57_05_555116",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=jbKhaUK6uDDAYw88eCy1tnLCHXw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/2b1e85cb28534f3d9465e54e7b23a98c.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
           "file_type": "png",
           "file_name": "Integración Android SRN.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=sQAR%2F7qR44Vh%2FpBK0wZeSXXw9x8%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=hqk99ehQoSBRpIPMr2Tcs4o7rT8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=sQAR%2F7qR44Vh%2FpBK0wZeSXXw9x8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d221bf69c24e4c11bee29d171fbe3cbf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=hqk99ehQoSBRpIPMr2Tcs4o7rT8%3D",
           "biz_type": 2,
           "size": 231714
         },
         {
           "file_type": "png",
           "file_name": "Integración iOS - SRN.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=1Pjjw5gPd2ZvC6rc79JpMPBj3Zk%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=qC1to1LOuSD347Boi2nBx35VH9Y%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=1Pjjw5gPd2ZvC6rc79JpMPBj3Zk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8c5e19d95e694cc984eca87d0a2bc5dc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=qC1to1LOuSD347Boi2nBx35VH9Y%3D",
           "biz_type": 2,
           "size": 324750
         },
         {
           "file_type": "png",
           "file_name": "Integración iOS Legacy.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=gesIbNX%2F44NT1hFPxMNFm%2FC95yY%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=InqUCr3cpNxuZrS3rBuXZWrn6aE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=gesIbNX%2F44NT1hFPxMNFm%2FC95yY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ef464914dedc453a9e5f957fabcb6791.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=InqUCr3cpNxuZrS3rBuXZWrn6aE%3D",
           "biz_type": 2,
           "size": 227864
         },
         {
           "file_type": "png",
           "file_name": "Intregración Android Legacy.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=se76ZrLVRwL618UzHWWEcfpcYrE%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=fJsoDYDoag7otru9DMghFh09Reg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837851&x-signature=se76ZrLVRwL618UzHWWEcfpcYrE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3d54f83651ad4bde8d3af7ce9725ec83.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273425&x-signature=fJsoDYDoag7otru9DMghFh09Reg%3D",
           "biz_type": 2,
           "size": 208522
         }

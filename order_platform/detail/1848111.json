@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_a1acfe06-d128-4d32-ae8b-a7e0264e37fg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_a1acfe06-d128-4d32-ae8b-a7e0264e37fg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Carly Gillingham",
   "create_time": 1706630514,
   "deadline": 0,
@@ -170,7 +170,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3593106,
+  "pending_time": 4033417,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -346,17 +346,17 @@
         {
           "file_type": "png",
           "file_name": "directv1.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/75e70fcb46df4484b2fa61ab060f801b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832888&x-signature=Rt4si5jR0oE9BA520VhQns8gOjU%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/75e70fcb46df4484b2fa61ab060f801b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273199&x-signature=x7jneIlJKDjm9e%2FyyHs3CCkjSuU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/75e70fcb46df4484b2fa61ab060f801b.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/75e70fcb46df4484b2fa61ab060f801b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832888&x-signature=Rt4si5jR0oE9BA520VhQns8gOjU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/75e70fcb46df4484b2fa61ab060f801b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273199&x-signature=x7jneIlJKDjm9e%2FyyHs3CCkjSuU%3D",
           "size": 68195
         },
         {
           "file_type": "png",
           "file_name": "directv2.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dac807912ebe484e8ecccebe8c870ca8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832888&x-signature=1lS%2FpzBat5WC6wb%2BrwGzj5DjJlo%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dac807912ebe484e8ecccebe8c870ca8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273199&x-signature=VyZ5typ%2FBDaHZKxPGAS9yE%2BcAwM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/dac807912ebe484e8ecccebe8c870ca8.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dac807912ebe484e8ecccebe8c870ca8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832888&x-signature=1lS%2FpzBat5WC6wb%2BrwGzj5DjJlo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dac807912ebe484e8ecccebe8c870ca8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273199&x-signature=VyZ5typ%2FBDaHZKxPGAS9yE%2BcAwM%3D",
           "size": 203064
         }
       ],

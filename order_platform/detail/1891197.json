@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Audrie,</p><p><br /></p><p>Hope you are well.</p><p><br /></p><p>The client uses the Shopify integration for both Pixel and Events API, and therefore deduplication is performed automatically for all events. There is no need to make any changes to the setup, while the client wouldn't also have the option to make any changes as this is a one-click integration managed by TikTok.</p><p><br /></p><p>You are able to validate that deduplication is correctly performed through looking at their Events Manager UI, where we can see that the majority of events appear under the 'Sever &amp; Browser' category. This means that they have been received via both methods, but through deduplication we have merged them and are only showing them once.</p><img alt=\"Screenshot 2024-02-23 at 09.22.49.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a40375be8b7649cf85a71447bc6ebe8c.png\" height=\"127.511\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a40375be8b7649cf85a71447bc6ebe8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838176&amp;x-signature=mGzgMZrscwDkP236amv9hpmBCwU%3D\" width=\"375\"><p>Additionally, you can check the deduplication rate for each event through looking at the 'Event Health' tab, as shown below:</p><img alt=\"Screenshot 2024-02-23 at 09.26.25.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/87091753c24f496c98ae55ab87dfe5c9.png\" height=\"132.807\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/87091753c24f496c98ae55ab87dfe5c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838176&amp;x-signature=lfijdAt4HAo6AkVI%2FKzd%2B8nmwgU%3D\" width=\"375\"><p><br /></p><p>There are no outstanding actions for this setup, and therefore I will go ahead and close this ticket.</p><p><br /></p><p>Thanks,</p><p>Katerina</p></img></img>",
+          "content": "<p>Hi Audrie,</p><p><br /></p><p>Hope you are well.</p><p><br /></p><p>The client uses the Shopify integration for both Pixel and Events API, and therefore deduplication is performed automatically for all events. There is no need to make any changes to the setup, while the client wouldn't also have the option to make any changes as this is a one-click integration managed by TikTok.</p><p><br /></p><p>You are able to validate that deduplication is correctly performed through looking at their Events Manager UI, where we can see that the majority of events appear under the 'Sever &amp; Browser' category. This means that they have been received via both methods, but through deduplication we have merged them and are only showing them once.</p><img alt=\"Screenshot 2024-02-23 at 09.22.49.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/a40375be8b7649cf85a71447bc6ebe8c.png\" height=\"127.511\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a40375be8b7649cf85a71447bc6ebe8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273684&amp;x-signature=HkKCZ687Do84l0oXwcgDCF78vao%3D\" width=\"375\"><p>Additionally, you can check the deduplication rate for each event through looking at the 'Event Health' tab, as shown below:</p><img alt=\"Screenshot 2024-02-23 at 09.26.25.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/87091753c24f496c98ae55ab87dfe5c9.png\" height=\"132.807\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/87091753c24f496c98ae55ab87dfe5c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273684&amp;x-signature=Gvzj6KijFTEo2PR64tnlTkeYykU%3D\" width=\"375\"><p><br /></p><p>There are no outstanding actions for this setup, and therefore I will go ahead and close this ticket.</p><p><br /></p><p>Thanks,</p><p>Katerina</p></img></img>",
           "type": 6
         }
       ],
@@ -168,7 +168,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2093735,
+  "pending_time": 2529243,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -342,17 +342,17 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/87091753c24f496c98ae55ab87dfe5c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838176&x-signature=lfijdAt4HAo6AkVI%2FKzd%2B8nmwgU%3D",
-          "file_name": "file_20240318_15_02_56_381273",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/87091753c24f496c98ae55ab87dfe5c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838176&x-signature=lfijdAt4HAo6AkVI%2FKzd%2B8nmwgU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/87091753c24f496c98ae55ab87dfe5c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273684&x-signature=Gvzj6KijFTEo2PR64tnlTkeYykU%3D",
+          "file_name": "file_20240323_16_01_24_808313",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/87091753c24f496c98ae55ab87dfe5c9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273684&x-signature=Gvzj6KijFTEo2PR64tnlTkeYykU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/87091753c24f496c98ae55ab87dfe5c9.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a40375be8b7649cf85a71447bc6ebe8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838176&x-signature=mGzgMZrscwDkP236amv9hpmBCwU%3D",
-          "file_name": "file_20240318_15_02_56_381345",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a40375be8b7649cf85a71447bc6ebe8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838176&x-signature=mGzgMZrscwDkP236amv9hpmBCwU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a40375be8b7649cf85a71447bc6ebe8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273684&x-signature=HkKCZ687Do84l0oXwcgDCF78vao%3D",
+          "file_name": "file_20240323_16_01_24_808384",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a40375be8b7649cf85a71447bc6ebe8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273684&x-signature=HkKCZ687Do84l0oXwcgDCF78vao%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/a40375be8b7649cf85a71447bc6ebe8c.png",
           "file_type": "jpeg",
           "biz_type": 2

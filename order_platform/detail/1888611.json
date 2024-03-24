@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Nadine,</p><p><br /></p><p>Thank you for reaching out. Here are the steps to creating a new app:</p><ul><li>In the TTEM for app, when creating the app, you have to enter the appstore link to capture the app.</li></ul><p><br /></p><img alt=\"Screenshot 2024-02-21 at 01.02.39.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png\" height=\"268.681\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838139&amp;x-signature=930xBMqQiBY2KYJBZp%2FMJNexnLQ%3D\" width=\"375\"><p><br /></p><p><br /></p><ul><li>Choose the MMP</li></ul><p><br /></p><img alt=\"Screenshot 2024-02-21 at 01.03.06.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d2945d1265574af8866b042c87f2a1cd.png\" height=\"281.456\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2945d1265574af8866b042c87f2a1cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838139&amp;x-signature=FE7me%2FiaTpmbqdGiXMiEFHSq0j8%3D\" width=\"375\"><p><br /></p><p><br /></p><ul><li>Now the TikTok for Business (legacy) doesn't seem available. They'll have to implement TikTok For Business (SRN) which refers to the self-attribution TikTok does. In this case, no attribution tracking urls are required, because the attribution is done from TikTok side.</li></ul><p><br /></p><img alt=\"Screenshot 2024-02-21 at 01.03.25.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png\" height=\"281.456\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838139&amp;x-signature=l4%2Fzlx7QSbpQqXwWzTALb1ehQDM%3D\" width=\"375\"><p><br /></p><p><br /></p><p>In order to enable the TT for Business SRN, I think you have to allowlist them.</p><p><br /></p><p>If you have more specific questions about allowlisting for SAN or SRN, please raise a ticket for TPS team here:</p><p><a href=\"https://ads.tiktok.com/athena/requester/boards?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456\" target=\"_blank\">Athena Internal Tickets Link</a></p><p><br /></p><p>Thanks!</p></img></img></img>",
+          "content": "<p>Hey Nadine,</p><p><br /></p><p>Thank you for reaching out. Here are the steps to creating a new app:</p><ul><li>In the TTEM for app, when creating the app, you have to enter the appstore link to capture the app.</li></ul><p><br /></p><img alt=\"Screenshot 2024-02-21 at 01.02.39.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png\" height=\"268.681\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273650&amp;x-signature=%2BqNTJl%2BAdgafRchojQPpXensFww%3D\" width=\"375\"><p><br /></p><p><br /></p><ul><li>Choose the MMP</li></ul><p><br /></p><img alt=\"Screenshot 2024-02-21 at 01.03.06.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d2945d1265574af8866b042c87f2a1cd.png\" height=\"281.456\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2945d1265574af8866b042c87f2a1cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273650&amp;x-signature=x%2BYIYvI14xD9R5688z283nY%2FdMs%3D\" width=\"375\"><p><br /></p><p><br /></p><ul><li>Now the TikTok for Business (legacy) doesn't seem available. They'll have to implement TikTok For Business (SRN) which refers to the self-attribution TikTok does. In this case, no attribution tracking urls are required, because the attribution is done from TikTok side.</li></ul><p><br /></p><img alt=\"Screenshot 2024-02-21 at 01.03.25.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png\" height=\"281.456\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273650&amp;x-signature=g2XqeHEUP8JQ76aC7kczBK0S3Sw%3D\" width=\"375\"><p><br /></p><p><br /></p><p>In order to enable the TT for Business SRN, I think you have to allowlist them.</p><p><br /></p><p>If you have more specific questions about allowlisting for SAN or SRN, please raise a ticket for TPS team here:</p><p><a href=\"https://ads.tiktok.com/athena/requester/boards?identify_key=ce513cc7f78be06846c87f202dc42fd824b0323b7d53872079291faf4d4f7456\" target=\"_blank\">Athena Internal Tickets Link</a></p><p><br /></p><p>Thanks!</p></img></img></img>",
           "type": 6
         }
       ],
@@ -59,7 +59,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_008s_8cadfbf7-931c-4435-a21b-bc4a4e1fefhu~?image_size=noop&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_008s_8cadfbf7-931c-4435-a21b-bc4a4e1fefhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 0,
   "current_role": null,
@@ -102,7 +102,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2310689,
+  "pending_time": 2746200,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -276,26 +276,26 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838139&x-signature=l4%2Fzlx7QSbpQqXwWzTALb1ehQDM%3D",
-          "file_name": "file_20240318_15_02_19_782839",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838139&x-signature=l4%2Fzlx7QSbpQqXwWzTALb1ehQDM%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273650&x-signature=%2BqNTJl%2BAdgafRchojQPpXensFww%3D",
+          "file_name": "file_20240323_16_00_50_334049",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273650&x-signature=%2BqNTJl%2BAdgafRchojQPpXensFww%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2945d1265574af8866b042c87f2a1cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838139&x-signature=FE7me%2FiaTpmbqdGiXMiEFHSq0j8%3D",
-          "file_name": "file_20240318_15_02_19_782899",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2945d1265574af8866b042c87f2a1cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838139&x-signature=FE7me%2FiaTpmbqdGiXMiEFHSq0j8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2945d1265574af8866b042c87f2a1cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273650&x-signature=x%2BYIYvI14xD9R5688z283nY%2FdMs%3D",
+          "file_name": "file_20240323_16_00_50_334121",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2945d1265574af8866b042c87f2a1cd.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273650&x-signature=x%2BYIYvI14xD9R5688z283nY%2FdMs%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/d2945d1265574af8866b042c87f2a1cd.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838139&x-signature=930xBMqQiBY2KYJBZp%2FMJNexnLQ%3D",
-          "file_name": "file_20240318_15_02_19_782924",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838139&x-signature=930xBMqQiBY2KYJBZp%2FMJNexnLQ%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/19f333bfa3314aa9822aa137f10cf65e.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273650&x-signature=g2XqeHEUP8JQ76aC7kczBK0S3Sw%3D",
+          "file_name": "file_20240323_16_00_50_334139",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273650&x-signature=g2XqeHEUP8JQ76aC7kczBK0S3Sw%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5a5a48647f724b61b10781ef471a263e.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

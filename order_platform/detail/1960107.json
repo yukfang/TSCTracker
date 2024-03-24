@@ -1,0 +1,569 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Robbie Santos",
+  "create_time": 1711032631,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1711038903,
+      "auto_close_hit": 0,
+      "id": 7348854610272043000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "elizabethloschiavo@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Elizabeth Loschiavo1",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7124279584128762882",
+      "name": "Elizabeth Loschiavo1",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Attaching screenshot of final event setup.</p>",
+          "type": 6
+        },
+        {
+          "content": [
+            {
+              "file_type": "png",
+              "file_name": "image001.png",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2b453909476417ab7f023cd4d458a7e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339058&x-signature=9K6LsRsnFhwkktxwN1C7W6Jy04I%3D",
+              "file_key": "tos-alisg-i-6g3pebcbys-sg/e2b453909476417ab7f023cd4d458a7e.png",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2b453909476417ab7f023cd4d458a7e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339058&x-signature=9K6LsRsnFhwkktxwN1C7W6Jy04I%3D",
+              "biz_type": 2,
+              "size": 36189
+            }
+          ],
+          "type": 5
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_007s_6d6dcd31-eddc-4833-be46-666d20d779dh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711049508,
+      "auto_close_hit": 0,
+      "id": 7348898608080536000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Robbie Santos",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "6998070135030318082",
+      "name": "Robbie Santos",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Elizabeth,</p><p>Thanks for making the ticket and happy to look into this for you! Do you think the client would be able to provide us with a Preview Debug URL? </p><p>They can do this by clicking on the \"Preview\" button in their GTM container:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/912b81d04d6e405a8b92522b883cca21.png\" height=\"93.108\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/912b81d04d6e405a8b92522b883cca21.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833339058&amp;x-signature=Dlb5AJPSD%2BX%2BlmFjpv9DyaiwVGk%3D\" width=\"375\"><p>Entering the desired URL in the next popup box:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b5bc5942a3ac4884a95937f7ffaa249a.png\" height=\"268.537\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5bc5942a3ac4884a95937f7ffaa249a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833339058&amp;x-signature=obMFymtikHIRIrlwix6XfQRLiwU%3D\" width=\"375\"><p>Then after it has connected, clicking on the kebab menu icon at the right of the preview debug page and then clicking \"Share\":</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/18bd9b478f274aeeb4763129c258f30f.png\" height=\"111.252\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18bd9b478f274aeeb4763129c258f30f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833339058&amp;x-signature=ZqfNv7ZcGveTKZbqaCTFyZR0V%2BA%3D\" width=\"375\"><p>And then clicking on \"Copy Link\" on the popup:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5d26369bcb424164ac927d410ff57e07.png\" height=\"274.409\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5d26369bcb424164ac927d410ff57e07.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833339058&amp;x-signature=Hi3zw7VpTvB%2FiMLadJumYVq4krc%3D\" width=\"375\"><p><br /></p><p>It actually looks like the TikTok Pixel is never loaded on the page but the other partner pixels do load:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6b296d998cf04731b005bd8aa9a04e37.png\" height=\"171.744\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b296d998cf04731b005bd8aa9a04e37.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833339058&amp;x-signature=JhPa2oRMfMzwSD5dI5fMPEzeNHU%3D\" width=\"375\"><p>Thanks!</p><p>Robbie</p></img></img></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_2e8c47b2-7853-4298-8f1b-98c86502825g~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1960107,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "robbie.santos@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Client has set up events in GTM but no pixel is firing on Pixel Helper/Inspect tool",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_007s_6d6dcd31-eddc-4833-be46-666d20d779dh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1711049508,
+  "owner_name": "Elizabeth Loschiavo",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7124279584128762882",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Elizabeth Loschiavo",
+  "follow_employee_id": 6713518,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 225550,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Client has set up events in GTM but no pixel is firing on Pixel Helper/Inspect tool",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "AMC Networks",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Entertainment",
+      "valid": true,
+      "key": "Entertainment",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7158906736261283842"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "Elizabeth Loschiavo (CSM), Shiphali Saini (BPM)",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "CNO7R1BC77U5T6M9PU70",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "https://signup.acorn.tv/createaccount.jsp ",
+        "https://signup.acorn.tv/confirmation.jsp"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-21",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hello, \n\nMy client has set up 3 following events in GTM but no events are coming in in EM, nor are they firing on the page. Are we able to troubleshoot why this is happening and advise on their setup?\n\n- Page view covers all the pages (except for content pages - we don’t tag any show, movie or video page)\n\n- Initiate Checkout when someone visits the page https://signup.acorn.tv/createaccount.jsp \n\n- Complete registration fires when someone visits the page https://signup.acorn.tv/confirmation.jsp\n\nScreenshots attached.",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-21 at 10.37.43 AM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4189463d2cbf4007922891b95c4ad280.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339057&x-signature=NAr7cwdwoxeib40jQDH2qWwxeLg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4189463d2cbf4007922891b95c4ad280.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4189463d2cbf4007922891b95c4ad280.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339057&x-signature=NAr7cwdwoxeib40jQDH2qWwxeLg%3D",
+          "size": 147974
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-21 at 10.37.57 AM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/275c0b5669534737b00e08736b60e535.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339057&x-signature=llSwCjtl3EPlkxOstmf3cV4YDU8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/275c0b5669534737b00e08736b60e535.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/275c0b5669534737b00e08736b60e535.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339057&x-signature=llSwCjtl3EPlkxOstmf3cV4YDU8%3D",
+          "size": 106344
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-21 at 10.47.06 AM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61af7274c6314eb38c6d8192dac57d2b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339057&x-signature=Om23mIpjuAi0Ex7EDx69SzRIGfI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/61af7274c6314eb38c6d8192dac57d2b.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/61af7274c6314eb38c6d8192dac57d2b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339057&x-signature=Om23mIpjuAi0Ex7EDx69SzRIGfI%3D",
+          "size": 175756
+        },
+        {
+          "file_type": "png",
+          "file_name": "tikTok_GTM_1.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8fc3c0ee077c4b88a1ac1f1f6fd007ed.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339057&x-signature=QWTBK84dcB78iS5uaB2ZSM5tS2w%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/8fc3c0ee077c4b88a1ac1f1f6fd007ed.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/8fc3c0ee077c4b88a1ac1f1f6fd007ed.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339057&x-signature=QWTBK84dcB78iS5uaB2ZSM5tS2w%3D",
+          "size": 73362
+        },
+        {
+          "file_type": "png",
+          "file_name": "tikTok_GTM_2.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d975192107a04b24845fab54f03f14d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339057&x-signature=t1jzz%2Fp0bR36mOGD2V1NNHNEUjo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d975192107a04b24845fab54f03f14d2.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d975192107a04b24845fab54f03f14d2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339057&x-signature=t1jzz%2Fp0bR36mOGD2V1NNHNEUjo%3D",
+          "size": 100499
+        },
+        {
+          "file_type": "png",
+          "file_name": "image001.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2b453909476417ab7f023cd4d458a7e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339058&x-signature=9K6LsRsnFhwkktxwN1C7W6Jy04I%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e2b453909476417ab7f023cd4d458a7e.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e2b453909476417ab7f023cd4d458a7e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339058&x-signature=9K6LsRsnFhwkktxwN1C7W6Jy04I%3D",
+          "biz_type": 2,
+          "size": 36189
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5bc5942a3ac4884a95937f7ffaa249a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339058&x-signature=obMFymtikHIRIrlwix6XfQRLiwU%3D",
+          "file_name": "file_20240324_10_10_58_389037",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b5bc5942a3ac4884a95937f7ffaa249a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339058&x-signature=obMFymtikHIRIrlwix6XfQRLiwU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b5bc5942a3ac4884a95937f7ffaa249a.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b296d998cf04731b005bd8aa9a04e37.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339058&x-signature=JhPa2oRMfMzwSD5dI5fMPEzeNHU%3D",
+          "file_name": "file_20240324_10_10_58_389091",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b296d998cf04731b005bd8aa9a04e37.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339058&x-signature=JhPa2oRMfMzwSD5dI5fMPEzeNHU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6b296d998cf04731b005bd8aa9a04e37.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18bd9b478f274aeeb4763129c258f30f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339058&x-signature=ZqfNv7ZcGveTKZbqaCTFyZR0V%2BA%3D",
+          "file_name": "file_20240324_10_10_58_389107",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/18bd9b478f274aeeb4763129c258f30f.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339058&x-signature=ZqfNv7ZcGveTKZbqaCTFyZR0V%2BA%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/18bd9b478f274aeeb4763129c258f30f.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/912b81d04d6e405a8b92522b883cca21.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339058&x-signature=Dlb5AJPSD%2BX%2BlmFjpv9DyaiwVGk%3D",
+          "file_name": "file_20240324_10_10_58_389147",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/912b81d04d6e405a8b92522b883cca21.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339058&x-signature=Dlb5AJPSD%2BX%2BlmFjpv9DyaiwVGk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/912b81d04d6e405a8b92522b883cca21.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5d26369bcb424164ac927d410ff57e07.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339058&x-signature=Hi3zw7VpTvB%2FiMLadJumYVq4krc%3D",
+          "file_name": "file_20240324_10_10_58_389160",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5d26369bcb424164ac927d410ff57e07.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833339058&x-signature=Hi3zw7VpTvB%2FiMLadJumYVq4krc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5d26369bcb424164ac927d410ff57e07.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

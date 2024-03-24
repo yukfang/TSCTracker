@@ -5,12 +5,129 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354674",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_a1acfe06-d128-4d32-ae8b-a7e0264e37fg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
-  "follower": "Carly Gillingham",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Joey Choi",
   "create_time": 1710777194,
   "deadline": 0,
   "archive_board_id": 1705151646989662,
-  "replies": [],
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710874373,
+      "auto_close_hit": 0,
+      "id": 7348146055478903000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p><span style=\"color: #222222;\">Hey Armin, I see two Pixels on their website, one that links to their Shopify x TikTok Integration Pixel (CMTA9NBC77U6EDR0939G), while the other one is invalid:</span></p><img alt=\"Screenshot 2024-03-19 at 11.46.11 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/100d13af224b4f9a9ad6a9b134a6d3b3.png\" height=\"135.311\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/100d13af224b4f9a9ad6a9b134a6d3b3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274268&amp;x-signature=VoQ7XAwKoCOe%2FpAP8NM%2B%2FEJ7t40%3D\" width=\"375\"><p>I see one other Pixel in their ad account, which<span style=\"color: #222222;\"> is CN1988RC77UB0EAHERO0:</span><br><br /></br></p><img alt=\"Screenshot 2024-03-19 at 11.47.49 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/af7c9c67cd0c46d0b72a9e6ffdfdcb4e.png\" height=\"431.185\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/af7c9c67cd0c46d0b72a9e6ffdfdcb4e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274268&amp;x-signature=i19kmutHVIRzHQ3GimucWy0p7OU%3D\" width=\"375\"><p>In GTM, they should enter the correct Pixel code, which I assume is the one boxed in red above. This is likely why Test Events aren't showing. Regardless, while the Pixel Helper is usually correct, the source of truth is the network call being made to TikTok's servers. This can be viewed in Chrome by going to View &gt; Developer &gt; Developer Tools &gt; Network tab &gt; Filter by \"pixel\" &gt; click on the Network call named \"pixel\" (there may be several) &gt; Payload tab. The example below is from the active Pixel on their site for a View Content event:</p><img alt=\"Screenshot 2024-03-19 at 11.50.06 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6db377d3eb37411b86abf97c8bf0a8df.png\" height=\"114.526\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6db377d3eb37411b86abf97c8bf0a8df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274268&amp;x-signature=Gh2QPiSvjjSOv2Kv6vAdhjwGEq0%3D\" width=\"375\"><p>They can rely on the Pixel Helper extension for the most part, but you/they can look into the network calls if they're seeing discrepancies when QAing.<br><br /></br></p></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710877863,
+      "auto_close_hit": 0,
+      "id": 7348162725865964000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "armin.nasri@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armin Nasri",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109063548764308481",
+      "name": "Armin Nasri",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Joey,</p><p><br></p><p>Thanks for assisting here.</p><p><br></p><p>After relaying this to my client, they&#39;ve let me know of the following:</p><p><br></p><p>&#34;<span style=\"color: #222222;\">Please forward to the engineering team that the concerns we are raising are not with the Shopify Pixel, which is placed to track product sales however that is not our main goal.&nbsp;</span></p><p><br></p><p><span style=\"color: #222222;\">We have created and placed the GTM pixel to be able to track View Content, Click button and Submit Form events as our main advertising objective is Lead Gen. This is the pixel that I have had the issues testing. Additionally, the landing page that we need to verify as well as the full domain is&nbsp;</span><span style=\"color: #1155CC;\"><a href=\"https://www.mychapter.com/pages/chapter-tiktok\" target=\"_blank noopener noreferrer\">https://www.mychapter.com/pages/chapter-tiktok</a></span>&#34;</p><p><br></p><p><br></p><p>Best,</p><p><br></p><p>Armin Nasri</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_b20a636c-1b70-4e92-a177-6947ca320c8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710957980,
+      "auto_close_hit": 0,
+      "id": 7348506574899479000,
+      "reply_role": "TSC",
+      "staff_id": 7055631,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "joey.choi@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "user3816156987260",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7253143703853188098",
+      "name": "Joey Choi",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Armin, I see the GTM Pixel on the URL you linked above, but the guidance above on testing Pixel events remains the same.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_a5759e58-7657-44e3-9ed0-59f2eda7b47h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711035729,
+      "auto_close_hit": 0,
+      "id": 7348841562748584000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "armin.nasri@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armin Nasri",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7109063548764308481",
+      "name": "Armin Nasri",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hey Joey,</p><p><br /></p><p>Can you please further troubleshoot the Events Manager issue or escalate this ticket?</p><p><br /></p><p>The client is wanting Events Manager to fire the events correctly / as it should but we’re still running into problems here.</p><p><br /></p><p>Here is the latest correspondence from my client, and would really like to get this resolved ASAP as they are trying to go live and ensure everything runs smoothly:</p><p><br /></p><p>“Hey Armin, </p><p>I tested everything again today and have the same results as a week ago. I can see view content, click and button through event testing but can see all 3 events, including the submit form, from pixel helper. <br><br>I have attached an image of the Pixel Helper showing all events firing when I go through the LP and book an appointment on my desktop. Because I can see the events populate through the Pixel Helper I am not thinking it is a coding issue on the Chapter side, because why would it pop up if it wasn't coded correctly? This is where I think it is a platform thing. </br></br></p><p>Can you please ensure the team is looking into the EVENT TESTING on platform side. Not the Pixel Helper. This is our issue.”</p><p><br /></p><img alt=\"IMG_8243.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e9ccfcf3d1784234b00fe84f1bbfcfd6.png\" height=\"152.529\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e9ccfcf3d1784234b00fe84f1bbfcfd6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274268&amp;x-signature=tvtmto97WKWZsRokRm2mwMMa9Vo%3D\" width=\"375\" />",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_b20a636c-1b70-4e92-a177-6947ca320c8h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
@@ -18,7 +135,7 @@
   "id": 1951535,
   "workflow_nodes": [],
   "board_id": 1705151646989662,
-  "employee_email": "carly.gillingham@bytedance.com",
+  "employee_email": "joey.choi@bytedance.com",
   "is_support_suggestion": 0,
   "title": "Chapter | Client Facing Issues with Events Firing",
   "category_1_name": "Basic",
@@ -34,13 +151,13 @@
   "type": -1,
   "current_role": null,
   "fd_permission": 1,
-  "status": 0,
+  "status": 2,
   "business_data": [],
-  "update_time": 1710777196,
+  "update_time": 1711035729,
   "owner_name": "Armin Nasri",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
-  "swim_lane_status": 1,
+  "swim_lane_status": 4,
   "enable_forced_order_tag": 1,
   "satisfied": 0,
   "category_2_name": "",
@@ -205,13 +322,13 @@
   "show_auto_assign": false,
   "is_overtime": 0,
   "creater_lark_name": "Armin Nasri",
-  "follow_employee_id": 7763805,
+  "follow_employee_id": 7055631,
   "is_order_top": 0,
   "urged": 0,
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 34630,
+  "pending_time": 252288,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -389,7 +506,40 @@
     },
     {
       "label": "Screenshot",
-      "content": [],
+      "content": [
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/af7c9c67cd0c46d0b72a9e6ffdfdcb4e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274268&x-signature=i19kmutHVIRzHQ3GimucWy0p7OU%3D",
+          "file_name": "file_20240323_16_11_08_293232",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/af7c9c67cd0c46d0b72a9e6ffdfdcb4e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274268&x-signature=i19kmutHVIRzHQ3GimucWy0p7OU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/af7c9c67cd0c46d0b72a9e6ffdfdcb4e.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/100d13af224b4f9a9ad6a9b134a6d3b3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274268&x-signature=VoQ7XAwKoCOe%2FpAP8NM%2B%2FEJ7t40%3D",
+          "file_name": "file_20240323_16_11_08_293314",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/100d13af224b4f9a9ad6a9b134a6d3b3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274268&x-signature=VoQ7XAwKoCOe%2FpAP8NM%2B%2FEJ7t40%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/100d13af224b4f9a9ad6a9b134a6d3b3.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6db377d3eb37411b86abf97c8bf0a8df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274268&x-signature=Gh2QPiSvjjSOv2Kv6vAdhjwGEq0%3D",
+          "file_name": "file_20240323_16_11_08_293340",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6db377d3eb37411b86abf97c8bf0a8df.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274268&x-signature=Gh2QPiSvjjSOv2Kv6vAdhjwGEq0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6db377d3eb37411b86abf97c8bf0a8df.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e9ccfcf3d1784234b00fe84f1bbfcfd6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274268&x-signature=tvtmto97WKWZsRokRm2mwMMa9Vo%3D",
+          "file_name": "file_20240323_16_11_08_424227",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e9ccfcf3d1784234b00fe84f1bbfcfd6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274268&x-signature=tvtmto97WKWZsRokRm2mwMMa9Vo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/e9ccfcf3d1784234b00fe84f1bbfcfd6.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
       "valid": true,
       "item_id": 1740206947357746,
       "type": 5,

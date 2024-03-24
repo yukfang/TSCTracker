@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Lauren,</p><p>Confirming receipt of your ticket. Please see comments below.</p><p>I see some traces of Tealium on their site. If this is what they are using for their tag manager, they can leverage <a href=\"https://docs.tealium.com/client-side-tags/tiktok-pixel-tag/\" target=\"_blank\">this documentation </a>for their web events. Once they have implemented web events they can move onto the <a href=\"https://docs.tealium.com/server-side-connectors/tiktok-events-connector/\" target=\"_blank\">server-to-server integration</a>, which should be running sided by side with their web implementation (Signals Optimal). The latter is particularly important given Google's 3rd party cookie deprecation will be in effect at the <a href=\"https://developers.google.com/privacy-sandbox/3pcd\" target=\"_blank\">end of Q1 this year</a>, which will affect how TikTok, Meta and other platforms measure campaign performance.</p><ul><li><span style=\"color: #333333;\"><em><u>\"I'm reaching out as we are in the process of adding pixels and tags to our new landing page for NAR. We wanted to get everything placed for TikTok so we will be ready to go for any campaigns beyond our current test. The team is hoping to measure a few things such as page views and button clicks. </u></em></span></li></ul><p><strong>PageViews</strong> - regarding this event, once the advertiser places their base pixel on their site, a PageView event will be fired automatically by the base pixel itself. Do not implement this event as it is not required.</p><p>If there are specific pages that house content that is specific to a product/service they would like to promote, then use the <strong><em>ViewContent </em></strong>event. For example, when a visitor clicks the Membership tab and is taken to the</p><p>Membership page. The event should still contain the <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-1\" target=\"_blank\">recommended parameters</a> by TikTok.</p><p>Below is an example of how the ViewContent event should look when fired. If the advertiser already has these variables defined in their dataLayer, these can be passed to populate the parameters below dynamically. The content_type parameter is a hardcoded string 'product', and the value parameter is the monetary value associated with the item being viewed (NAR annual membership in this example). If no variable for the currency has been setup in their dataLayer, this can be hardcoded as the string 'USD'.</p><img alt=\"Screenshot 2024-01-24 at 3.16.05 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0c03d4adacfe4e4387ce850359efa9ea.png\" height=\"254.717\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c03d4adacfe4e4387ce850359efa9ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832753&amp;x-signature=2zHFXNyyap7lrBf85cPSIQv%2FlFQ%3D\" width=\"375\"><p>Other examples for the use of ViewContent include Trainings and Certifications.</p><ul><li><span style=\"color: #333333;\"><em><u>For the button click events, we will be grouping certain buttons on the site under different event names. For example, one bucket will be \"Buying Advice Engagement\" and we'd like it to fire when someone clicks on a few different buttons on that page</u></em>.</span></li></ul><p>Yes, this is the recommended implementation for their use case. They can create a custom event to track those unique buttons of importance to them under \"<span style=\"color: #333333;\"><em><u>Buying Advice Engagement\"</u></em></span> , or any name they would like to use. I recommend following the same naming conventions as for TikTok standard events (no spaces or special characters). <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-2\" target=\"_blank\">More info here.</a></p><p>Let me know if there are any other follow ups on this.</p><p>Best,<br>Armando</br></p></img>",
+          "content": "<p>Hi Lauren,</p><p>Confirming receipt of your ticket. Please see comments below.</p><p>I see some traces of Tealium on their site. If this is what they are using for their tag manager, they can leverage <a href=\"https://docs.tealium.com/client-side-tags/tiktok-pixel-tag/\" target=\"_blank\">this documentation </a>for their web events. Once they have implemented web events they can move onto the <a href=\"https://docs.tealium.com/server-side-connectors/tiktok-events-connector/\" target=\"_blank\">server-to-server integration</a>, which should be running sided by side with their web implementation (Signals Optimal). The latter is particularly important given Google's 3rd party cookie deprecation will be in effect at the <a href=\"https://developers.google.com/privacy-sandbox/3pcd\" target=\"_blank\">end of Q1 this year</a>, which will affect how TikTok, Meta and other platforms measure campaign performance.</p><ul><li><span style=\"color: #333333;\"><em><u>\"I'm reaching out as we are in the process of adding pixels and tags to our new landing page for NAR. We wanted to get everything placed for TikTok so we will be ready to go for any campaigns beyond our current test. The team is hoping to measure a few things such as page views and button clicks. </u></em></span></li></ul><p><strong>PageViews</strong> - regarding this event, once the advertiser places their base pixel on their site, a PageView event will be fired automatically by the base pixel itself. Do not implement this event as it is not required.</p><p>If there are specific pages that house content that is specific to a product/service they would like to promote, then use the <strong><em>ViewContent </em></strong>event. For example, when a visitor clicks the Membership tab and is taken to the</p><p>Membership page. The event should still contain the <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-1\" target=\"_blank\">recommended parameters</a> by TikTok.</p><p>Below is an example of how the ViewContent event should look when fired. If the advertiser already has these variables defined in their dataLayer, these can be passed to populate the parameters below dynamically. The content_type parameter is a hardcoded string 'product', and the value parameter is the monetary value associated with the item being viewed (NAR annual membership in this example). If no variable for the currency has been setup in their dataLayer, this can be hardcoded as the string 'USD'.</p><img alt=\"Screenshot 2024-01-24 at 3.16.05 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/0c03d4adacfe4e4387ce850359efa9ea.png\" height=\"254.717\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c03d4adacfe4e4387ce850359efa9ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273069&amp;x-signature=3Nur8ChSGw%2FWi0WooN3h15E0DEY%3D\" width=\"375\"><p>Other examples for the use of ViewContent include Trainings and Certifications.</p><ul><li><span style=\"color: #333333;\"><em><u>For the button click events, we will be grouping certain buttons on the site under different event names. For example, one bucket will be \"Buying Advice Engagement\" and we'd like it to fire when someone clicks on a few different buttons on that page</u></em>.</span></li></ul><p>Yes, this is the recommended implementation for their use case. They can create a custom event to track those unique buttons of importance to them under \"<span style=\"color: #333333;\"><em><u>Buying Advice Engagement\"</u></em></span> , or any name they would like to use. I recommend following the same naming conventions as for TikTok standard events (no spaces or special characters). <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-2\" target=\"_blank\">More info here.</a></p><p>Let me know if there are any other follow ups on this.</p><p>Best,<br>Armando</br></p></img>",
           "type": 6
         }
       ],
@@ -159,27 +159,27 @@
             {
               "file_type": "png",
               "file_name": "nar1.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=FLP1h4BNdatFfn8t%2Fgetfqel2wU%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=PfLZ5tJIlOQmE2g2xgDXCrztsto%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=FLP1h4BNdatFfn8t%2Fgetfqel2wU%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=PfLZ5tJIlOQmE2g2xgDXCrztsto%3D",
               "biz_type": 2,
               "size": 31401
             },
             {
               "file_type": "png",
               "file_name": "nar2.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=hEAsoVZVIm%2BEVGjnD%2BwPr6RG70g%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=kMaXlBdKj%2FuMPwaHRrJ8oUE7Jv0%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=hEAsoVZVIm%2BEVGjnD%2BwPr6RG70g%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=kMaXlBdKj%2FuMPwaHRrJ8oUE7Jv0%3D",
               "biz_type": 2,
               "size": 81662
             },
             {
               "file_type": "png",
               "file_name": "nar3.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=qpGxDNGQ2NMtn1lJrAP0q40%2Bjz8%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=17WA1avroBZMY37yyXsxrcjT%2FyQ%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=qpGxDNGQ2NMtn1lJrAP0q40%2Bjz8%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=17WA1avroBZMY37yyXsxrcjT%2FyQ%3D",
               "biz_type": 2,
               "size": 47443
             }
@@ -220,18 +220,18 @@
             {
               "file_type": "jpg",
               "file_name": "nar4.jpg",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=KhZyTy46b1%2BIqsQ7ReLZZHa5PCw%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=vPikxVjc%2BejiuuH0etRe3rHZDzo%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=KhZyTy46b1%2BIqsQ7ReLZZHa5PCw%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=vPikxVjc%2BejiuuH0etRe3rHZDzo%3D",
               "biz_type": 2,
               "size": 140493
             },
             {
               "file_type": "jpg",
               "file_name": "nar5.jpg",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=bE0%2FHZo4ZK6lEH5W1I1CPfBKlRA%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=71onUomqWCptzXaGQrMQPnDCbII%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=bE0%2FHZo4ZK6lEH5W1I1CPfBKlRA%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=71onUomqWCptzXaGQrMQPnDCbII%3D",
               "biz_type": 2,
               "size": 41179
             }
@@ -266,7 +266,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Lauren,</p><p>Thank you! I hope you are doing well, too.</p><p>Please see comments below.</p><p><span style=\"color: #333333;\"><em><u>\"Have a couple of follow-up questions on our pixel implementation. In Ads Manager, I'm able to see all the custom events we created as firing and tracking. However, the landing page has a message in the error log from the TikTok tag indicating the custom event names might not be compliant. The URL it links us to is no longer valid, so we're wondering if this may just be out of date or if there's something we need to fix? For reference, the base code and custom event tags we used are attached to this email...\"</u></em></span></p><p>The reason they are seeing those warning messages is because they are using spaces in the event codes at the time of firing, and these are NOT on the list of allowed characters. Please refer to the additional <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-4\" target=\"_blank\">additional considerations &amp; specifications</a> section.</p><img alt=\"Screenshot 2024-02-13 at 3.26.53 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/efdc2b4e9c6d45abbde97d5668c5753d.png\" height=\"196.809\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/efdc2b4e9c6d45abbde97d5668c5753d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832832754&amp;x-signature=92s%2BJiZcepeGkqHMM2stHRU9TwA%3D\" width=\"375\"><p>While the events are currently tracking, there is a good chance these could cause tracking to break down the line if anything changes. It is recommended to follow the same format/convention as TikTok standard event names.</p><p><span style=\"color: #333333;\"><em><u>Also, when I was testing the events, I can see my custom events fired but there was also an </u></em><strong><em><u>empty_event_name </u></em></strong><em><u>message alongside it, wondering if related?\"</u></em></span></p><p>This is unrelated. The reason they see <strong>empty_event_name</strong> is due navigating to a page where they did not explicitly implement an event but only the base pixel is being loaded. In fact, <strong>empty_event_name </strong>is actually the PageView event that is automatically fired once the base pixel is loaded. They can safely disregard this.</p><p><span style=\"color: #333333;\"><em><u>\"</u></em></span><span style=\"color: #222222;\"><em><u>Are you able to help clarify if we might need to address the browser log error the TikTok tag is generating? The tag is live on the client’s website (</u></em></span><span style=\"color: #1155CC;\"><em><u><a href=\"https://lookforther.realtor/\" target=\"_blank\">https://lookforther.realtor/</a></u></em></span><span style=\"color: #333333;\"><em><u>) and the warning in the log only appears to generate when the tag is fired with one of our custom events. </u></em></span><span style=\"color: #222222;\"><em><u>If this is an issue that could affect reporting or optimization, we would love to address it soon.\"</u></em></span></p><p>The screenshot of their webpage is too small and I am not able to see it very well, but it appears to be the same Invalid Event Name Format warning message from the addressed in the first question above. Removing the spaces will correct that. </p><p>Best,<br>Armando</br></p></img>",
+          "content": "<p>Hi Lauren,</p><p>Thank you! I hope you are doing well, too.</p><p>Please see comments below.</p><p><span style=\"color: #333333;\"><em><u>\"Have a couple of follow-up questions on our pixel implementation. In Ads Manager, I'm able to see all the custom events we created as firing and tracking. However, the landing page has a message in the error log from the TikTok tag indicating the custom event names might not be compliant. The URL it links us to is no longer valid, so we're wondering if this may just be out of date or if there's something we need to fix? For reference, the base code and custom event tags we used are attached to this email...\"</u></em></span></p><p>The reason they are seeing those warning messages is because they are using spaces in the event codes at the time of firing, and these are NOT on the list of allowed characters. Please refer to the additional <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters#anchor-4\" target=\"_blank\">additional considerations &amp; specifications</a> section.</p><img alt=\"Screenshot 2024-02-13 at 3.26.53 PM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/efdc2b4e9c6d45abbde97d5668c5753d.png\" height=\"196.809\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/efdc2b4e9c6d45abbde97d5668c5753d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273069&amp;x-signature=l2bk16Hp5XUgqJpFsobgpg0Lbhg%3D\" width=\"375\"><p>While the events are currently tracking, there is a good chance these could cause tracking to break down the line if anything changes. It is recommended to follow the same format/convention as TikTok standard event names.</p><p><span style=\"color: #333333;\"><em><u>Also, when I was testing the events, I can see my custom events fired but there was also an </u></em><strong><em><u>empty_event_name </u></em></strong><em><u>message alongside it, wondering if related?\"</u></em></span></p><p>This is unrelated. The reason they see <strong>empty_event_name</strong> is due navigating to a page where they did not explicitly implement an event but only the base pixel is being loaded. In fact, <strong>empty_event_name </strong>is actually the PageView event that is automatically fired once the base pixel is loaded. They can safely disregard this.</p><p><span style=\"color: #333333;\"><em><u>\"</u></em></span><span style=\"color: #222222;\"><em><u>Are you able to help clarify if we might need to address the browser log error the TikTok tag is generating? The tag is live on the client’s website (</u></em></span><span style=\"color: #1155CC;\"><em><u><a href=\"https://lookforther.realtor/\" target=\"_blank\">https://lookforther.realtor/</a></u></em></span><span style=\"color: #333333;\"><em><u>) and the warning in the log only appears to generate when the tag is fired with one of our custom events. </u></em></span><span style=\"color: #222222;\"><em><u>If this is an issue that could affect reporting or optimization, we would love to address it soon.\"</u></em></span></p><p>The screenshot of their webpage is too small and I am not able to see it very well, but it appears to be the same Invalid Event Name Format warning message from the addressed in the first question above. Removing the spaces will correct that. </p><p>Best,<br>Armando</br></p></img>",
           "type": 6
         }
       ],
@@ -563,7 +563,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1447404,
+  "pending_time": 1887719,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -739,15 +739,15 @@
         {
           "file_type": "png",
           "file_name": "Outlook-mcvjficz.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48320055377941b08212a568a7b49583.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832753&x-signature=fi01vUs3n%2FVSLudxuKM60%2Bjm6TE%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48320055377941b08212a568a7b49583.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=FksJD8GWUw%2FSjEYfYVmGY%2FuX0Hg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/48320055377941b08212a568a7b49583.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48320055377941b08212a568a7b49583.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832753&x-signature=fi01vUs3n%2FVSLudxuKM60%2Bjm6TE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/48320055377941b08212a568a7b49583.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=FksJD8GWUw%2FSjEYfYVmGY%2FuX0Hg%3D",
           "size": 30669
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c03d4adacfe4e4387ce850359efa9ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832753&x-signature=2zHFXNyyap7lrBf85cPSIQv%2FlFQ%3D",
-          "file_name": "file_20240318_13_32_33_893441",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c03d4adacfe4e4387ce850359efa9ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832753&x-signature=2zHFXNyyap7lrBf85cPSIQv%2FlFQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c03d4adacfe4e4387ce850359efa9ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=3Nur8ChSGw%2FWi0WooN3h15E0DEY%3D",
+          "file_name": "file_20240323_15_51_09_440223",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/0c03d4adacfe4e4387ce850359efa9ea.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=3Nur8ChSGw%2FWi0WooN3h15E0DEY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/0c03d4adacfe4e4387ce850359efa9ea.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -755,52 +755,52 @@
         {
           "file_type": "png",
           "file_name": "nar1.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=FLP1h4BNdatFfn8t%2Fgetfqel2wU%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=PfLZ5tJIlOQmE2g2xgDXCrztsto%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=FLP1h4BNdatFfn8t%2Fgetfqel2wU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4b7cb0bbc93545c789edb48ad35df076.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=PfLZ5tJIlOQmE2g2xgDXCrztsto%3D",
           "biz_type": 2,
           "size": 31401
         },
         {
           "file_type": "png",
           "file_name": "nar2.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=hEAsoVZVIm%2BEVGjnD%2BwPr6RG70g%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=kMaXlBdKj%2FuMPwaHRrJ8oUE7Jv0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=hEAsoVZVIm%2BEVGjnD%2BwPr6RG70g%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/481d1fe350f04af29952740a16a2283a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=kMaXlBdKj%2FuMPwaHRrJ8oUE7Jv0%3D",
           "biz_type": 2,
           "size": 81662
         },
         {
           "file_type": "png",
           "file_name": "nar3.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=qpGxDNGQ2NMtn1lJrAP0q40%2Bjz8%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=17WA1avroBZMY37yyXsxrcjT%2FyQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=qpGxDNGQ2NMtn1lJrAP0q40%2Bjz8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4be51c0b82794dd2bde460cb2a2a3816.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=17WA1avroBZMY37yyXsxrcjT%2FyQ%3D",
           "biz_type": 2,
           "size": 47443
         },
         {
           "file_type": "jpg",
           "file_name": "nar4.jpg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=KhZyTy46b1%2BIqsQ7ReLZZHa5PCw%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=vPikxVjc%2BejiuuH0etRe3rHZDzo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=KhZyTy46b1%2BIqsQ7ReLZZHa5PCw%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/21beefdfb5cc498998ce625c6bf01b6c.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=vPikxVjc%2BejiuuH0etRe3rHZDzo%3D",
           "biz_type": 2,
           "size": 140493
         },
         {
           "file_type": "jpg",
           "file_name": "nar5.jpg",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=bE0%2FHZo4ZK6lEH5W1I1CPfBKlRA%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=71onUomqWCptzXaGQrMQPnDCbII%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=bE0%2FHZo4ZK6lEH5W1I1CPfBKlRA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2769f9168bd9446eb781d498e27bb359.jpg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=71onUomqWCptzXaGQrMQPnDCbII%3D",
           "biz_type": 2,
           "size": 41179
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/efdc2b4e9c6d45abbde97d5668c5753d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=92s%2BJiZcepeGkqHMM2stHRU9TwA%3D",
-          "file_name": "file_20240318_13_32_34_125516",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/efdc2b4e9c6d45abbde97d5668c5753d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832832754&x-signature=92s%2BJiZcepeGkqHMM2stHRU9TwA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/efdc2b4e9c6d45abbde97d5668c5753d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=l2bk16Hp5XUgqJpFsobgpg0Lbhg%3D",
+          "file_name": "file_20240323_15_51_09_669094",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/efdc2b4e9c6d45abbde97d5668c5753d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273069&x-signature=l2bk16Hp5XUgqJpFsobgpg0Lbhg%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/efdc2b4e9c6d45abbde97d5668c5753d.png",
           "file_type": "jpeg",
           "biz_type": 2

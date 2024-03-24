@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hey Andrew, I see that they implemented Custom Code (required a developer to do this) for View Content and ATC, but used Event Builder to implement Initiate Checkout, Place an Order, and Complete Payment (CP is showing up as having been set up by both Custom Code and Event Builder).</p><p><br /></p><p>If they have dev resources, I recommend that they implement all events through Custom Code, and then delete their Event Builder setups within TTAM. If they absolutely need to use Event Builder, then I'd suggest they choose the following option to allow for value and currency to pass back for CP events:</p><img alt=\"Screenshot 2024-02-23 at 10.17.18 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5b59e4df57fe4460878f293599a93b22.png\" height=\"416.787\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b59e4df57fe4460878f293599a93b22.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838206&amp;x-signature=L68CXCXKeHbNwqu3UmEAOLhMyzU%3D\" width=\"375\" />",
+          "content": "<p>Hey Andrew, I see that they implemented Custom Code (required a developer to do this) for View Content and ATC, but used Event Builder to implement Initiate Checkout, Place an Order, and Complete Payment (CP is showing up as having been set up by both Custom Code and Event Builder).</p><p><br /></p><p>If they have dev resources, I recommend that they implement all events through Custom Code, and then delete their Event Builder setups within TTAM. If they absolutely need to use Event Builder, then I'd suggest they choose the following option to allow for value and currency to pass back for CP events:</p><img alt=\"Screenshot 2024-02-23 at 10.17.18 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5b59e4df57fe4460878f293599a93b22.png\" height=\"416.787\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b59e4df57fe4460878f293599a93b22.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273719&amp;x-signature=dEPeGeQWYwHLMlQDVcqaA63WL70%3D\" width=\"375\" />",
           "type": 6
         }
       ],
@@ -359,7 +359,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1032614,
+  "pending_time": 1468128,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -535,15 +535,15 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-02-21 at 4.19.02 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9404c5cb6532430ea8a0c022b99bc856.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838206&x-signature=V2KJdpH7ulOvl93x8Er86QH6qPs%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9404c5cb6532430ea8a0c022b99bc856.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273719&x-signature=vhAHwEehiQMWEUx20OnT%2FBdgvHk%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/9404c5cb6532430ea8a0c022b99bc856.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9404c5cb6532430ea8a0c022b99bc856.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838206&x-signature=V2KJdpH7ulOvl93x8Er86QH6qPs%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9404c5cb6532430ea8a0c022b99bc856.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273719&x-signature=vhAHwEehiQMWEUx20OnT%2FBdgvHk%3D",
           "size": 393233
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b59e4df57fe4460878f293599a93b22.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838206&x-signature=L68CXCXKeHbNwqu3UmEAOLhMyzU%3D",
-          "file_name": "file_20240318_15_03_26_312691",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b59e4df57fe4460878f293599a93b22.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838206&x-signature=L68CXCXKeHbNwqu3UmEAOLhMyzU%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b59e4df57fe4460878f293599a93b22.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273719&x-signature=dEPeGeQWYwHLMlQDVcqaA63WL70%3D",
+          "file_name": "file_20240323_16_01_59_679635",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5b59e4df57fe4460878f293599a93b22.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273719&x-signature=dEPeGeQWYwHLMlQDVcqaA63WL70%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5b59e4df57fe4460878f293599a93b22.png",
           "file_type": "jpeg",
           "biz_type": 2

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1708109810,
   "deadline": 0,
@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Ryan, I can see from checking the site, that there is an issue with the way the email value is formatted:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9c8406f1d82e4b4bbda308d3766e021b.png\" height=\"184.082\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c8406f1d82e4b4bbda308d3766e021b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838066&amp;x-signature=blrdBv2s%2BfkfQBrSPBaiZZ1L6d0%3D\" width=\"375\"><p>If the client could please double-check that they have correctly set up the Email (and phone_number, if applicable) parameter(s), following the guidance here:</p><p><a href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\" target=\"_blank\">Advanced Matching best practices</a></p><p>so you know, my data permissions have temporarily expired, and I am waiting for approval so I can run queries again (!). As soon as I have those, I can take a closer look by pulling back end data for the events. I'll let you know as soon as that is done.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Ryan, I can see from checking the site, that there is an issue with the way the email value is formatted:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/9c8406f1d82e4b4bbda308d3766e021b.png\" height=\"184.082\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c8406f1d82e4b4bbda308d3766e021b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273583&amp;x-signature=CWrF5xZ1RLwvOG38ukn%2F5GsD1%2BM%3D\" width=\"375\"><p>If the client could please double-check that they have correctly set up the Email (and phone_number, if applicable) parameter(s), following the guidance here:</p><p><a href=\"https://business-api.tiktok.com/portal/docs?id=1739585700402178\" target=\"_blank\">Advanced Matching best practices</a></p><p>so you know, my data permissions have temporarily expired, and I am waiting for approval so I can run queries again (!). As soon as I have those, I can take a closer look by pulling back end data for the events. I'll let you know as soon as that is done.</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -207,7 +207,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Ryan, I see one issue the client will want to fix right away. In the hashed email column 'Email', I see that all the values are the same. For example, filtering for 'CompletePayment', see the 'Email' column here:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b856da3d2cfa49a396fd35c2156ac32e.png\" height=\"162.629\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b856da3d2cfa49a396fd35c2156ac32e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838066&amp;x-signature=rKS4lOaMqyx0EdhbqG0WM2KeBag%3D\" width=\"375\"><p>all the rows contain the same SHA-256 value: fcbcf165908dd18a9e49f7ff27810176db8e9f63b4352213741664245224f8aa</p><p>This usually happens because there is a hard-coded value where the Email variable should be. This will cause purchases to not be attributed to the proper users, and will block this parameter from being used as a match point, again, negatively impacting attributions. They will want to change the hard-coded value to a dynamic value as soon as they can. Further instructions can be found <a href=\"https://ads.tiktok.com/help/article/advanced-matching-web?lang=en\" target=\"_blank\">here</a>.</p><p><br /></p><p>Please also note, in the above screenshot, Automatic Advanced Matching (in red) is not enabled. They should enable that in the dashboard as well.</p><p><br /></p><p>Checking the event_ids, as I see they have both browser- and server-side events, I see very few events matching up, which will impact the deduplication rate:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5473d9c7c441406a93b12e30c1fcbe6c.png\" height=\"289.418\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5473d9c7c441406a93b12e30c1fcbe6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838066&amp;x-signature=PCCP2mRbri3SzSeBc0Vp91O31BI%3D\" width=\"375\"><p>I will attach the full data report here. They should double-check the way they have event ids set up for every event. To understand better how browser and server side events work:</p><p><br /></p><ul><li>TikTok deduplicates any events shared through the Pixel, with the<strong> identical event and event_id parameters arriving within a 48-hour window</strong> from the first event.</li></ul><p><br /></p><ul><li>We deduplicate any events shared through the Events API, with the identical event and event_id parameters arriving within a <strong>48-hour window from the first event</strong>.</li></ul><p><br /></p><ul><li>We <strong>merge events</strong> shared by the Pixel and Events API events with the identical event and event_id parameters arriving<strong> within 5 minutes of each other</strong> and merge extra match keys and parameters into the first event if applicable.</li></ul><p><br /></p><ul><li>We deduplicate <strong>subsequent events shared by the Pixel and Events API</strong> events with the identical event and event_id parameters <strong>arriving after 5 minutes and within a 48-hour window</strong> from the first event.</li></ul><p><br /></p><ul><li>So if the events come within 5 minutes of each other, we will merge the attribution signals and parameters.</li></ul><p><br /></p><ul><li>But if <strong>they come after 5 minutes but under 48 hours</strong>, the event itself still dedupes but <strong>the signals + parameters are not merged</strong>.</li></ul><p><br /></p><p>Please let me know if they have further questions!</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "content": "<p>Hi Ryan, I see one issue the client will want to fix right away. In the hashed email column 'Email', I see that all the values are the same. For example, filtering for 'CompletePayment', see the 'Email' column here:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b856da3d2cfa49a396fd35c2156ac32e.png\" height=\"162.629\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b856da3d2cfa49a396fd35c2156ac32e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273584&amp;x-signature=sSXEmKz5ThapJ3Kkrb8moKYJN60%3D\" width=\"375\"><p>all the rows contain the same SHA-256 value: fcbcf165908dd18a9e49f7ff27810176db8e9f63b4352213741664245224f8aa</p><p>This usually happens because there is a hard-coded value where the Email variable should be. This will cause purchases to not be attributed to the proper users, and will block this parameter from being used as a match point, again, negatively impacting attributions. They will want to change the hard-coded value to a dynamic value as soon as they can. Further instructions can be found <a href=\"https://ads.tiktok.com/help/article/advanced-matching-web?lang=en\" target=\"_blank\">here</a>.</p><p><br /></p><p>Please also note, in the above screenshot, Automatic Advanced Matching (in red) is not enabled. They should enable that in the dashboard as well.</p><p><br /></p><p>Checking the event_ids, as I see they have both browser- and server-side events, I see very few events matching up, which will impact the deduplication rate:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5473d9c7c441406a93b12e30c1fcbe6c.png\" height=\"289.418\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5473d9c7c441406a93b12e30c1fcbe6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273584&amp;x-signature=3%2FY%2FivVWMVqVrAIQnbw1nbuD0JA%3D\" width=\"375\"><p>I will attach the full data report here. They should double-check the way they have event ids set up for every event. To understand better how browser and server side events work:</p><p><br /></p><ul><li>TikTok deduplicates any events shared through the Pixel, with the<strong> identical event and event_id parameters arriving within a 48-hour window</strong> from the first event.</li></ul><p><br /></p><ul><li>We deduplicate any events shared through the Events API, with the identical event and event_id parameters arriving within a <strong>48-hour window from the first event</strong>.</li></ul><p><br /></p><ul><li>We <strong>merge events</strong> shared by the Pixel and Events API events with the identical event and event_id parameters arriving<strong> within 5 minutes of each other</strong> and merge extra match keys and parameters into the first event if applicable.</li></ul><p><br /></p><ul><li>We deduplicate <strong>subsequent events shared by the Pixel and Events API</strong> events with the identical event and event_id parameters <strong>arriving after 5 minutes and within a 48-hour window</strong> from the first event.</li></ul><p><br /></p><ul><li>So if the events come within 5 minutes of each other, we will merge the attribution signals and parameters.</li></ul><p><br /></p><ul><li>But if <strong>they come after 5 minutes but under 48 hours</strong>, the event itself still dedupes but <strong>the signals + parameters are not merged</strong>.</li></ul><p><br /></p><p>Please let me know if they have further questions!</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
           "type": 6
         }
       ],
@@ -244,9 +244,9 @@
             {
               "file_type": "xlsx",
               "file_name": "Dr. Martens TikTok Events 2-21.xlsx",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYeWslBsETtjEFEDSAQEAgBOhkA1CuDjUAyf1o.xlsx?lk3s=cbe26b3a&x-expires=4832838066&x-signature=HL%2FeahG6%2FWFNT2GrEGbCAsevR30%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYeWslBsETtjEFEDSAQEAgBOhkA1CuDjUAyf1o.xlsx?lk3s=cbe26b3a&x-expires=4833273584&x-signature=UFpZrld9hK5nIpsNJlQrb23UTo8%3D",
               "file_key": "tos-alisg-v-90231e-sg/oYeWslBsETtjEFEDSAQEAgBOhkA1CuDjUAyf1o.xlsx",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYeWslBsETtjEFEDSAQEAgBOhkA1CuDjUAyf1o.xlsx?lk3s=cbe26b3a&x-expires=4832838066&x-signature=HL%2FeahG6%2FWFNT2GrEGbCAsevR30%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYeWslBsETtjEFEDSAQEAgBOhkA1CuDjUAyf1o.xlsx?lk3s=cbe26b3a&x-expires=4833273584&x-signature=UFpZrld9hK5nIpsNJlQrb23UTo8%3D",
               "biz_type": 2,
               "size": 4649307
             }
@@ -443,7 +443,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2066133,
+  "pending_time": 2501651,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -617,25 +617,25 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c8406f1d82e4b4bbda308d3766e021b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838066&x-signature=blrdBv2s%2BfkfQBrSPBaiZZ1L6d0%3D",
-          "file_name": "file_20240318_15_01_06_481150",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c8406f1d82e4b4bbda308d3766e021b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838066&x-signature=blrdBv2s%2BfkfQBrSPBaiZZ1L6d0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c8406f1d82e4b4bbda308d3766e021b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273583&x-signature=CWrF5xZ1RLwvOG38ukn%2F5GsD1%2BM%3D",
+          "file_name": "file_20240323_15_59_43_884033",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9c8406f1d82e4b4bbda308d3766e021b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273583&x-signature=CWrF5xZ1RLwvOG38ukn%2F5GsD1%2BM%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/9c8406f1d82e4b4bbda308d3766e021b.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5473d9c7c441406a93b12e30c1fcbe6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838066&x-signature=PCCP2mRbri3SzSeBc0Vp91O31BI%3D",
-          "file_name": "file_20240318_15_01_06_715536",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5473d9c7c441406a93b12e30c1fcbe6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838066&x-signature=PCCP2mRbri3SzSeBc0Vp91O31BI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5473d9c7c441406a93b12e30c1fcbe6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273584&x-signature=3%2FY%2FivVWMVqVrAIQnbw1nbuD0JA%3D",
+          "file_name": "file_20240323_15_59_44_085548",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5473d9c7c441406a93b12e30c1fcbe6c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273584&x-signature=3%2FY%2FivVWMVqVrAIQnbw1nbuD0JA%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5473d9c7c441406a93b12e30c1fcbe6c.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b856da3d2cfa49a396fd35c2156ac32e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838066&x-signature=rKS4lOaMqyx0EdhbqG0WM2KeBag%3D",
-          "file_name": "file_20240318_15_01_06_715651",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b856da3d2cfa49a396fd35c2156ac32e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838066&x-signature=rKS4lOaMqyx0EdhbqG0WM2KeBag%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b856da3d2cfa49a396fd35c2156ac32e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273584&x-signature=sSXEmKz5ThapJ3Kkrb8moKYJN60%3D",
+          "file_name": "file_20240323_15_59_44_085626",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b856da3d2cfa49a396fd35c2156ac32e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273584&x-signature=sSXEmKz5ThapJ3Kkrb8moKYJN60%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b856da3d2cfa49a396fd35c2156ac32e.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -643,9 +643,9 @@
         {
           "file_type": "xlsx",
           "file_name": "Dr. Martens TikTok Events 2-21.xlsx",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYeWslBsETtjEFEDSAQEAgBOhkA1CuDjUAyf1o.xlsx?lk3s=cbe26b3a&x-expires=4832838066&x-signature=HL%2FeahG6%2FWFNT2GrEGbCAsevR30%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYeWslBsETtjEFEDSAQEAgBOhkA1CuDjUAyf1o.xlsx?lk3s=cbe26b3a&x-expires=4833273584&x-signature=UFpZrld9hK5nIpsNJlQrb23UTo8%3D",
           "file_key": "tos-alisg-v-90231e-sg/oYeWslBsETtjEFEDSAQEAgBOhkA1CuDjUAyf1o.xlsx",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYeWslBsETtjEFEDSAQEAgBOhkA1CuDjUAyf1o.xlsx?lk3s=cbe26b3a&x-expires=4832838066&x-signature=HL%2FeahG6%2FWFNT2GrEGbCAsevR30%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oYeWslBsETtjEFEDSAQEAgBOhkA1CuDjUAyf1o.xlsx?lk3s=cbe26b3a&x-expires=4833273584&x-signature=UFpZrld9hK5nIpsNJlQrb23UTo8%3D",
           "biz_type": 2,
           "size": 4649307
         }

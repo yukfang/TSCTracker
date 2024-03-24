@@ -1,0 +1,19 @@
+[
+  {
+    "id": "38200000084",
+    "name": "Closed  - No Adoption Improvement",
+    "sub_tags": [
+      {
+        "id": "38300000171",
+        "name": "Privacy/Data Security Concern"
+      }
+    ],
+    "color": "#f5a623"
+  },
+  {
+    "id": "38200000015",
+    "name": "Out of Scope",
+    "sub_tags": [],
+    "color": "#f5a623"
+  }
+]

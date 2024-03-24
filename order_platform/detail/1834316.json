@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1706059740,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Maria,</p><p><br /></p><p>I pulled data for events for the last couple of days. It looks like they have an email hard-coded where a variable should be. If you check the 'Email' column here, you notice all the hashed values are the same (same user):</p><img alt=\"20240124-152322.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/12d228ffc5374f42954b6c06227519a0.jpeg\" height=\"114.399\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/12d228ffc5374f42954b6c06227519a0.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833031&amp;x-signature=rSIEBvpQWxQgzbZUIf54YGKKR1Q%3D\" width=\"375\"><p>it's easy enough to verify, if the person who maybe tested the changes on their side used their own email, they can check how it is hashed here:</p><p><a href=\"https://emn178.github.io/online-tools/sha256.html\" target=\"_blank\">https://emn178.github.io/online-tools/sha256.html</a></p><p>and see if it matches what we see in the data. I can't actually vouch for whether they had everything set up correctly before, but I can check. I.e. I don't want to tell them to revert changes if things weren't in a great place to begin with.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Maria,</p><p><br /></p><p>I pulled data for events for the last couple of days. It looks like they have an email hard-coded where a variable should be. If you check the 'Email' column here, you notice all the hashed values are the same (same user):</p><img alt=\"20240124-152322.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/12d228ffc5374f42954b6c06227519a0.jpeg\" height=\"114.399\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/12d228ffc5374f42954b6c06227519a0.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273070&amp;x-signature=S0w%2B7bizHWrFP9%2BXQ%2BFGPTY1GG0%3D\" width=\"375\"><p>it's easy enough to verify, if the person who maybe tested the changes on their side used their own email, they can check how it is hashed here:</p><p><a href=\"https://emn178.github.io/online-tools/sha256.html\" target=\"_blank\">https://emn178.github.io/online-tools/sha256.html</a></p><p>and see if it matches what we see in the data. I can't actually vouch for whether they had everything set up correctly before, but I can check. I.e. I don't want to tell them to revert changes if things weren't in a great place to begin with.</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -207,7 +207,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Maria,  PII is reporting just about perfect now! See 'shopping' event (CompletePayment) and Email, highlighted here:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/850fe373e4fa4326a415f504f870aec9.png\" height=\"79.031\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/850fe373e4fa4326a415f504f870aec9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833031&amp;x-signature=vVo4F2IZa3WJ9D7ETLAC0PiIfuo%3D\" width=\"375\"><p>Let me look at the other events and give feedback.</p><p><br /></p><p>Heidi</p></img>",
+          "content": "<p>Hi Maria,  PII is reporting just about perfect now! See 'shopping' event (CompletePayment) and Email, highlighted here:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/850fe373e4fa4326a415f504f870aec9.png\" height=\"79.031\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/850fe373e4fa4326a415f504f870aec9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273070&amp;x-signature=Bc1okcOeVGziAMvF4UrBKi9nVV8%3D\" width=\"375\"><p>Let me look at the other events and give feedback.</p><p><br /></p><p>Heidi</p></img>",
           "type": 6
         }
       ],
@@ -236,7 +236,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Maria, </p><p><br /></p><p>While you request the test login or credit card number from the client, I took a look at ViewContent, AddToCart, and InitiateCheckout. For ViewContent, the <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en#:~:text=%27AddPaymentInfo%27-,Add%20to%20Cart,-When%20a%20visitor\" target=\"_blank\">recommended parameters</a> are missing:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c1af786ca379429587f1443119472610.png\" height=\"203.614\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1af786ca379429587f1443119472610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833031&amp;x-signature=pEzHey7dUe6m%2FQ%2FYY07kdqGJPxQ%3D\" width=\"375\"><p>They will want to go into the tag setup and add:</p><p>content_type, quantity, description, content_id, currency, value</p><p><br /></p><p>InitiateCheckout is firing for multiple events in the page:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png\" height=\"198.78\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833031&amp;x-signature=v0Y9OsWqxEneNykkZxWEFERYtN8%3D\" width=\"375\"><p>They should go into the tag setup and make sure the trigger is set to fire only once for this event.</p><p><br /></p><p>AddToCart is firing as expected and all parameters look good:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png\" height=\"203.657\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832833031&amp;x-signature=yeUPm5eNF5%2FN42gXSXF2pSBHXQc%3D\" width=\"375\"><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
+          "content": "<p>Hi Maria, </p><p><br /></p><p>While you request the test login or credit card number from the client, I took a look at ViewContent, AddToCart, and InitiateCheckout. For ViewContent, the <a href=\"https://ads.tiktok.com/help/article/standard-events-parameters?lang=en#:~:text=%27AddPaymentInfo%27-,Add%20to%20Cart,-When%20a%20visitor\" target=\"_blank\">recommended parameters</a> are missing:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/c1af786ca379429587f1443119472610.png\" height=\"203.614\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1af786ca379429587f1443119472610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273070&amp;x-signature=R3Xgfh5QhnK5cvyOkc5rbzxGZpI%3D\" width=\"375\"><p>They will want to go into the tag setup and add:</p><p>content_type, quantity, description, content_id, currency, value</p><p><br /></p><p>InitiateCheckout is firing for multiple events in the page:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png\" height=\"198.78\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273070&amp;x-signature=tDxdQYz9V71Z7phy1sk46oRm39M%3D\" width=\"375\"><p>They should go into the tag setup and make sure the trigger is set to fire only once for this event.</p><p><br /></p><p>AddToCart is firing as expected and all parameters look good:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png\" height=\"203.657\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273070&amp;x-signature=ZHmDK5wkfWPbxMqMaaQVlVaam4Y%3D\" width=\"375\"><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
           "type": 6
         }
       ],
@@ -562,7 +562,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2922153,
+  "pending_time": 3362192,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -738,48 +738,48 @@
         {
           "file_type": "png",
           "file_name": "20240123-192828.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b900d2d9c8304f39b8a82621ccf67a18.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=1HwfIK1p6dIkJ9s%2BARRFXtswRfc%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b900d2d9c8304f39b8a82621ccf67a18.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273070&x-signature=kJZq0pwBd1SmBXjiDwivWofQUv8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/b900d2d9c8304f39b8a82621ccf67a18.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b900d2d9c8304f39b8a82621ccf67a18.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=1HwfIK1p6dIkJ9s%2BARRFXtswRfc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b900d2d9c8304f39b8a82621ccf67a18.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273070&x-signature=kJZq0pwBd1SmBXjiDwivWofQUv8%3D",
           "size": 268133
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/12d228ffc5374f42954b6c06227519a0.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=rSIEBvpQWxQgzbZUIf54YGKKR1Q%3D",
-          "file_name": "file_20240318_13_37_11_738274",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/12d228ffc5374f42954b6c06227519a0.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=rSIEBvpQWxQgzbZUIf54YGKKR1Q%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/12d228ffc5374f42954b6c06227519a0.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273070&x-signature=S0w%2B7bizHWrFP9%2BXQ%2BFGPTY1GG0%3D",
+          "file_name": "file_20240323_15_51_10_737203",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/12d228ffc5374f42954b6c06227519a0.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273070&x-signature=S0w%2B7bizHWrFP9%2BXQ%2BFGPTY1GG0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/12d228ffc5374f42954b6c06227519a0.jpeg",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/850fe373e4fa4326a415f504f870aec9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=vVo4F2IZa3WJ9D7ETLAC0PiIfuo%3D",
-          "file_name": "file_20240318_13_37_11_896525",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/850fe373e4fa4326a415f504f870aec9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=vVo4F2IZa3WJ9D7ETLAC0PiIfuo%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/850fe373e4fa4326a415f504f870aec9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273070&x-signature=Bc1okcOeVGziAMvF4UrBKi9nVV8%3D",
+          "file_name": "file_20240323_15_51_10_938925",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/850fe373e4fa4326a415f504f870aec9.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273070&x-signature=Bc1okcOeVGziAMvF4UrBKi9nVV8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/850fe373e4fa4326a415f504f870aec9.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=yeUPm5eNF5%2FN42gXSXF2pSBHXQc%3D",
-          "file_name": "file_20240318_13_37_11_970556",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=yeUPm5eNF5%2FN42gXSXF2pSBHXQc%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273070&x-signature=tDxdQYz9V71Z7phy1sk46oRm39M%3D",
+          "file_name": "file_20240323_15_51_11_046120",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273070&x-signature=tDxdQYz9V71Z7phy1sk46oRm39M%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1af786ca379429587f1443119472610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=pEzHey7dUe6m%2FQ%2FYY07kdqGJPxQ%3D",
-          "file_name": "file_20240318_13_37_11_970630",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1af786ca379429587f1443119472610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=pEzHey7dUe6m%2FQ%2FYY07kdqGJPxQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1af786ca379429587f1443119472610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273070&x-signature=R3Xgfh5QhnK5cvyOkc5rbzxGZpI%3D",
+          "file_name": "file_20240323_15_51_11_046195",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c1af786ca379429587f1443119472610.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273070&x-signature=R3Xgfh5QhnK5cvyOkc5rbzxGZpI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c1af786ca379429587f1443119472610.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=v0Y9OsWqxEneNykkZxWEFERYtN8%3D",
-          "file_name": "file_20240318_13_37_11_970649",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833031&x-signature=v0Y9OsWqxEneNykkZxWEFERYtN8%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/b57f12de6521425fb167c1e0bc3027c2.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273070&x-signature=ZHmDK5wkfWPbxMqMaaQVlVaam4Y%3D",
+          "file_name": "file_20240323_15_51_11_046213",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273070&x-signature=ZHmDK5wkfWPbxMqMaaQVlVaam4Y%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/4a7f0d2668f24f2696a9c1f2a45ad9d4.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

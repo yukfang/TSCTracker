@@ -1,0 +1,478 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1736497459354658",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Armando Carmona Blanco",
+  "create_time": 1710952141,
+  "deadline": 0,
+  "archive_board_id": 1705151646989662,
+  "replies": [
+    {
+      "is_hide_reply": false,
+      "create_time": 1710963149,
+      "auto_close_hit": 0,
+      "id": 7348528603237253000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "reply_to_user_role": null,
+      "is_update": false,
+      "reply_to_user_name": "Lauren Kane",
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 1,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": 7041916731376682000,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Hi Lauren,</p><p>Confirming receipt of your ticket. Please see comments below.</p><p><span style=\"color: #333333;\"><em>Is there an impact if we don't add the \"All Pages\" trigger to the base tag as mentioned in TikTok Documentation [https://ads.tiktok.com/help/article/get-started-google-tag-manager], and instead we add a tag sequence in GTM so that the base tag always fires before the individual pixel tags? If the entire purpose of the base tag is to initialize code for individual pixel tags, then by adding tag sequencing in place of \"All Pages\" trigger, ensures that we only fire the base tag code when required and not on all pages.</em></span></p><p>Yes, there will be an impact to attribution. In addition to initializing the code for the individual event tags, the pixel is responsible for managing the session. When a user taps a TikTok ad and is redirected to the landing page, the <a href=\"https://ads.tiktok.com/help/article/tiktok-click-id?lang=en\" target=\"_blank\">TikTok click ID</a> is appended. This parameter is stored throughout the duration and included with any subsequent HTTP requests. By firing the base pixel conditionally, only on the pages where event codes will be implemented, we run the risk of breaking tracking if the landing page for future campaigns change.</p><p>My recommendation is, in the same manner the Meta pixel is being fired across all pages at https://www.zillow.com/, so should the TikTok base pixel.</p><img alt=\"Screenshot 2024-03-20 at 11.32.31 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6e767dafeb7d4cbd9f92a34ecc6b0a41.png\" height=\"195.177\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6e767dafeb7d4cbd9f92a34ecc6b0a41.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274340&amp;x-signature=UFrqkwmKb%2BVOZLg5BQcrkOxlJKc%3D\" width=\"375\"><img alt=\"Screenshot 2024-03-20 at 11.32.14 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6b64fb178fa742adac09f556f4e0c627.png\" height=\"195.177\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b64fb178fa742adac09f556f4e0c627.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274340&amp;x-signature=CsiLj1VSJ7w7mTAgn3gy0O%2Bg2wI%3D\" width=\"375\"><img alt=\"Screenshot 2024-03-20 at 11.32.03 AM.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/ca27364481804030b9803cc099a762da.png\" height=\"195.177\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ca27364481804030b9803cc099a762da.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833274340&amp;x-signature=atG4CDyPsoON6hRdW%2BAtjHZTyl8%3D\" width=\"375\"><p>Let me know if there are any other questions on the above.</p><p>Best,<br>Armando</br></p></img></img></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
+    }
+  ],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": false,
+  "id": 1957374,
+  "workflow_nodes": [],
+  "board_id": 1705151646989662,
+  "employee_email": "armando.carmona@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Zillow - Pixel setup ",
+  "category_1_name": "Dev Mode",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_9da22fe2-57c3-47fe-bf99-08868a8715eg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": 6,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 1,
+  "business_data": [],
+  "update_time": 1710963191,
+  "owner_name": "Lauren Kane",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 4,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "Dev Mode",
+  "archive_category_1": "1736497459354658",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354658",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772384623276049",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384623277073",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772384754690050",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060498",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060514",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447060530",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061506",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061522",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061538",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447061554",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062530",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385447062546",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548645098513",
+          "value": "TSC"
+        }
+      ],
+      "value": "Dev Mode"
+    },
+    {
+      "to_user": 1,
+      "categories_id": "1736497459354674",
+      "cate_1_form_id": 1736491088651314,
+      "sub_cates": [
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124498",
+          "value": "Lima"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124514",
+          "value": "TagHero"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599124530",
+          "value": "Pixeron"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125506",
+          "value": "Kraken Data"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385599125522",
+          "value": "Stape"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600257",
+          "value": "AccuraCast"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600273",
+          "value": "DataHash"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600289",
+          "value": "SignalSight"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669600305",
+          "value": "Tiger Pistol"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601281",
+          "value": "Panomix"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601297",
+          "value": "NNT"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772385669601313",
+          "value": "E-Cens"
+        },
+        {
+          "to_user": 0,
+          "categories_id": "1772548697375746",
+          "value": "TSC"
+        }
+      ],
+      "value": "Basic"
+    }
+  ],
+  "core_user_id": "7041916731376681985",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Lauren Kane",
+  "follow_employee_id": 1807296,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 247191,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "Ticket Title",
+      "content": "Zillow - Pixel setup ",
+      "valid": true,
+      "item_id": 1736491088652290,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is this consultation request to help your client get to Signals Optimal? ",
+      "content": "Yes, my request is to get my client to Signals Optimal",
+      "valid": true,
+      "key": "Yes, my request is to get my client to Signals Optimal",
+      "item_id": 1774551082736689,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "As what stage is your Signals discussion with your client?",
+      "content": "Post-Pitch and client is ready to implement",
+      "valid": true,
+      "key": "Post-Pitch and client is ready to implement",
+      "item_id": 1774551082737697,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Is the partner using a third party platform for Web Pixel and/or Server side tagging?",
+      "content": "Google Tag Manager",
+      "valid": true,
+      "key": "Google Tag Manager",
+      "item_id": 1774551147185217,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Zillow",
+      "valid": true,
+      "item_id": 1736491088652306,
+      "type": 1,
+      "option_meaning": 6
+    },
+    {
+      "label": "Client Vertical ",
+      "content": "Other",
+      "valid": true,
+      "key": "Other",
+      "item_id": 1736491088652322,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Account Tier",
+      "content": "Growth",
+      "valid": true,
+      "key": "Growth",
+      "item_id": 1736492036013090,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "NORTHAMERICA-US",
+      "valid": true,
+      "key": "NORTHAMERICA",
+      "item_id": 1736491882822689,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1736491882823729,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID(s)",
+      "content": [
+        "7083487205829656578"
+      ],
+      "valid": true,
+      "item_id": 1736492509963313,
+      "type": 18,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P2",
+      "valid": true,
+      "key": "P2",
+      "item_id": 1740206947358722,
+      "type": 4,
+      "option_meaning": 2
+    },
+    {
+      "label": "Please list name & role of Account Team for this client (BPM/CSM/ADE etc.)",
+      "content": "BPM: Lauren Ponce // CSM: Lauren Kane",
+      "valid": true,
+      "item_id": 1740206947359746,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Business Center ID",
+      "content": "",
+      "valid": true,
+      "item_id": 1736492509964289,
+      "type": 1,
+      "option_meaning": 10
+    },
+    {
+      "label": "Pixel ID",
+      "content": "N/A",
+      "valid": true,
+      "item_id": 1740206947359762,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Website URL(s)",
+      "content": [
+        "N/A"
+      ],
+      "valid": true,
+      "item_id": 1771654477299713,
+      "type": 18,
+      "option_meaning": -1
+    },
+    {
+      "label": "Product for Implementation",
+      "content": "Pixel",
+      "valid": true,
+      "key": "Pixel",
+      "item_id": 1736494728349698,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Target Implementation Date",
+      "content": "2024-03-20",
+      "valid": true,
+      "item_id": 1736500801975346,
+      "type": 11,
+      "option_meaning": -1
+    },
+    {
+      "label": "Does your client have Developer Resources available to support the implementation?",
+      "content": "Yes",
+      "valid": true,
+      "key": "Yes",
+      "item_id": 1736494728350770,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason for request: Please briefly describe the help needed for this account.",
+      "content": "Hi team, \n\nMy client is in the process of setting up the pixel and would like some guidance on the question below: \n\nIs there an impact if we don't add the \"All Pages\" trigger to the base tag as mentioned in TikTok Documentation [https://ads.tiktok.com/help/article/get-started-google-tag-manager], and instead we add a tag sequence in GTM so that the base tag always fires before the individual pixel tags? If the entire purpose of the base tag is to initialize code for individual pixel tags, then by adding tag sequencing in place of \"All Pages\" trigger, ensures that we only fire the base tag code when required and not on all pages. Attached screenshots of both options.\nOption 1: Add \"All Pages\" trigger to the base tag\nOption 2: No trigger to the base tag but instead add a sequence where the base tag fire before individual pixel tags\n\nThey would like to know if they can we do option 2? \n\nThank you in advance!",
+      "valid": true,
+      "item_id": 1736494803233810,
+      "type": 2,
+      "option_meaning": 8
+    },
+    {
+      "label": "Screenshot",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-20 at 11.28.09 AM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cc9f030a2db940fd8999145990fad878.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274339&x-signature=sDT1XlkkmguBJWt0UU9GglaRU5k%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/cc9f030a2db940fd8999145990fad878.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/cc9f030a2db940fd8999145990fad878.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274339&x-signature=sDT1XlkkmguBJWt0UU9GglaRU5k%3D",
+          "size": 377879
+        },
+        {
+          "file_type": "png",
+          "file_name": "Screenshot 2024-03-20 at 11.28.17 AM.png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a05c92d1f9442dca03025298370ab53.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274339&x-signature=GlZhm9Vp76D0LSBOkCr%2FIuhK1RU%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5a05c92d1f9442dca03025298370ab53.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a05c92d1f9442dca03025298370ab53.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274339&x-signature=GlZhm9Vp76D0LSBOkCr%2FIuhK1RU%3D",
+          "size": 400425
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ca27364481804030b9803cc099a762da.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274340&x-signature=atG4CDyPsoON6hRdW%2BAtjHZTyl8%3D",
+          "file_name": "file_20240323_16_12_20_073284",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ca27364481804030b9803cc099a762da.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274340&x-signature=atG4CDyPsoON6hRdW%2BAtjHZTyl8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ca27364481804030b9803cc099a762da.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b64fb178fa742adac09f556f4e0c627.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274340&x-signature=CsiLj1VSJ7w7mTAgn3gy0O%2Bg2wI%3D",
+          "file_name": "file_20240323_16_12_20_073361",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6b64fb178fa742adac09f556f4e0c627.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274340&x-signature=CsiLj1VSJ7w7mTAgn3gy0O%2Bg2wI%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6b64fb178fa742adac09f556f4e0c627.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6e767dafeb7d4cbd9f92a34ecc6b0a41.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274340&x-signature=UFrqkwmKb%2BVOZLg5BQcrkOxlJKc%3D",
+          "file_name": "file_20240323_16_12_20_073379",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6e767dafeb7d4cbd9f92a34ecc6b0a41.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274340&x-signature=UFrqkwmKb%2BVOZLg5BQcrkOxlJKc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6e767dafeb7d4cbd9f92a34ecc6b0a41.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        }
+      ],
+      "valid": true,
+      "item_id": 1740206947357746,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Pixel -Dev Mode"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

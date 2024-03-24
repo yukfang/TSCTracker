@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1754600307444754",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1706922475,
   "deadline": 0,
@@ -149,7 +149,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zahra,</p><p><br /></p><p>I'm seeing that <a href=\"https://ads.tiktok.com/catalogs/overview?id=7321791628660705026&amp;bc_id=6989292577501511682\" target=\"_blank\">catalog id 7321791628660705026</a> is currently frozen:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d39fde4b9b65454e9ca0a4edfaa79073.png\" height=\"131.19\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d39fde4b9b65454e9ca0a4edfaa79073.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837698&amp;x-signature=SsozMyguUuo%2F%2F0t3D5RCPGSIK14%3D\" width=\"375\"><p>Per <a href=\"https://ads.tiktok.com/catalogs/overview?id=7321791628660705026&amp;bc_id=6989292577501511682&amp;app_id=6989979789046087682\" target=\"_blank\">the diagnostics</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/88516991878e4d359c62ca6042e3e75e.png\" height=\"184.874\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88516991878e4d359c62ca6042e3e75e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837698&amp;x-signature=IarJa8HJ7kVqxorU5fiyYbZxEUE%3D\" width=\"375\"><p>the client will need to:</p><p><span style=\"color: #121212;\">1) Create a campaign and run ads to resolve this -OR-</span></p><p><span style=\"color: #121212;\">2) If they want to update the products for this time, go to the \"Product sources\" page and click \"Request data now\" to initiate update</span></p><p><br /></p><p>Another issue to fix, I see AddToCart is firing twice:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e5f1103ada3a48149292fec5ac187ec2.png\" height=\"202.243\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e5f1103ada3a48149292fec5ac187ec2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837698&amp;x-signature=A%2FV9LAyJqg947%2FVgx%2FqhJktEATI%3D\" width=\"375\"><p>I did see an occasional error with AddToCart, but I could not see it happen 100% of the time. So they should just fix the double-firing event for now, and I'll update this ticket if I see the error with AddToCart/'value' come up again.</p><p><br /></p><p>Have a great weekend!</p><p><br /></p><p>Heidi</p></img></img></img>",
+          "content": "<p>Hi Zahra,</p><p><br /></p><p>I'm seeing that <a href=\"https://ads.tiktok.com/catalogs/overview?id=7321791628660705026&amp;bc_id=6989292577501511682\" target=\"_blank\">catalog id 7321791628660705026</a> is currently frozen:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d39fde4b9b65454e9ca0a4edfaa79073.png\" height=\"131.19\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d39fde4b9b65454e9ca0a4edfaa79073.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273288&amp;x-signature=uppDuy6JZn1rb%2FQ5qGeAf3rML1E%3D\" width=\"375\"><p>Per <a href=\"https://ads.tiktok.com/catalogs/overview?id=7321791628660705026&amp;bc_id=6989292577501511682&amp;app_id=6989979789046087682\" target=\"_blank\">the diagnostics</a>:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/88516991878e4d359c62ca6042e3e75e.png\" height=\"184.874\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88516991878e4d359c62ca6042e3e75e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273288&amp;x-signature=aDfLGWoCUvcKGUbvDTrYZTIpD4o%3D\" width=\"375\"><p>the client will need to:</p><p><span style=\"color: #121212;\">1) Create a campaign and run ads to resolve this -OR-</span></p><p><span style=\"color: #121212;\">2) If they want to update the products for this time, go to the \"Product sources\" page and click \"Request data now\" to initiate update</span></p><p><br /></p><p>Another issue to fix, I see AddToCart is firing twice:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/e5f1103ada3a48149292fec5ac187ec2.png\" height=\"202.243\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e5f1103ada3a48149292fec5ac187ec2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273288&amp;x-signature=b8etmI3z7MA3fkcdXlPokImkIaU%3D\" width=\"375\"><p>I did see an occasional error with AddToCart, but I could not see it happen 100% of the time. So they should just fix the double-firing event for now, and I'll update this ticket if I see the error with AddToCart/'value' come up again.</p><p><br /></p><p>Have a great weekend!</p><p><br /></p><p>Heidi</p></img></img></img>",
           "type": 6
         }
       ],
@@ -175,7 +175,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/591d83ca-53a3-4dd3-bc03-26e15e289e6g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 5,
   "current_role": null,
@@ -218,7 +218,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3254281,
+  "pending_time": 3689872,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -357,32 +357,32 @@
         {
           "file_type": "png",
           "file_name": "Screen Shot 2024-02-02 at 5.07.09 PM.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fe0299f5f40b40f5a62cc69aec89e229.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837697&x-signature=PHrv20gTyXzB4Ry2%2BPQecK7Hrq0%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fe0299f5f40b40f5a62cc69aec89e229.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273288&x-signature=AiqL7ud%2FXQqNOSVIYkr%2FeJJQnzE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/fe0299f5f40b40f5a62cc69aec89e229.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fe0299f5f40b40f5a62cc69aec89e229.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837697&x-signature=PHrv20gTyXzB4Ry2%2BPQecK7Hrq0%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fe0299f5f40b40f5a62cc69aec89e229.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273288&x-signature=AiqL7ud%2FXQqNOSVIYkr%2FeJJQnzE%3D",
           "size": 653492
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e5f1103ada3a48149292fec5ac187ec2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837698&x-signature=A%2FV9LAyJqg947%2FVgx%2FqhJktEATI%3D",
-          "file_name": "file_20240318_14_54_58_318919",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e5f1103ada3a48149292fec5ac187ec2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837698&x-signature=A%2FV9LAyJqg947%2FVgx%2FqhJktEATI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e5f1103ada3a48149292fec5ac187ec2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273288&x-signature=b8etmI3z7MA3fkcdXlPokImkIaU%3D",
+          "file_name": "file_20240323_15_54_48_824644",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e5f1103ada3a48149292fec5ac187ec2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273288&x-signature=b8etmI3z7MA3fkcdXlPokImkIaU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e5f1103ada3a48149292fec5ac187ec2.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d39fde4b9b65454e9ca0a4edfaa79073.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837698&x-signature=SsozMyguUuo%2F%2F0t3D5RCPGSIK14%3D",
-          "file_name": "file_20240318_14_54_58_319083",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d39fde4b9b65454e9ca0a4edfaa79073.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837698&x-signature=SsozMyguUuo%2F%2F0t3D5RCPGSIK14%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/d39fde4b9b65454e9ca0a4edfaa79073.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88516991878e4d359c62ca6042e3e75e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273288&x-signature=aDfLGWoCUvcKGUbvDTrYZTIpD4o%3D",
+          "file_name": "file_20240323_15_54_48_824727",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88516991878e4d359c62ca6042e3e75e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273288&x-signature=aDfLGWoCUvcKGUbvDTrYZTIpD4o%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/88516991878e4d359c62ca6042e3e75e.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88516991878e4d359c62ca6042e3e75e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837698&x-signature=IarJa8HJ7kVqxorU5fiyYbZxEUE%3D",
-          "file_name": "file_20240318_14_54_58_319111",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/88516991878e4d359c62ca6042e3e75e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837698&x-signature=IarJa8HJ7kVqxorU5fiyYbZxEUE%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/88516991878e4d359c62ca6042e3e75e.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d39fde4b9b65454e9ca0a4edfaa79073.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273288&x-signature=uppDuy6JZn1rb%2FQ5qGeAf3rML1E%3D",
+          "file_name": "file_20240323_15_54_48_824747",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d39fde4b9b65454e9ca0a4edfaa79073.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273288&x-signature=uppDuy6JZn1rb%2FQ5qGeAf3rML1E%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d39fde4b9b65454e9ca0a4edfaa79073.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

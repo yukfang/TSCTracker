@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354674",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/v2_f00b5c44-4ee3-445e-b7c1-a98d03e52ebg~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Ganesh Radhakrishnan",
   "create_time": 1707877968,
   "deadline": 0,
@@ -299,7 +299,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1516435,
+  "pending_time": 1951974,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -475,9 +475,9 @@
         {
           "file_type": "xlsx",
           "file_name": "Bravecto NZ - TikTok Pixel and Events.xlsx",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0AiBkAPwAFOmJYAAEc7QvDkvdLRwCUB6MZNi.xlsx?lk3s=cbe26b3a&x-expires=4832837961&x-signature=T%2BZCJsFE1%2FBLiS59w%2BtYSSqg%2Bug%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0AiBkAPwAFOmJYAAEc7QvDkvdLRwCUB6MZNi.xlsx?lk3s=cbe26b3a&x-expires=4833273499&x-signature=vc4MYO9eLw2iBFceDYUivdgxzhs%3D",
           "file_key": "tos-alisg-v-90231e-sg/o0AiBkAPwAFOmJYAAEc7QvDkvdLRwCUB6MZNi.xlsx",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0AiBkAPwAFOmJYAAEc7QvDkvdLRwCUB6MZNi.xlsx?lk3s=cbe26b3a&x-expires=4832837961&x-signature=T%2BZCJsFE1%2FBLiS59w%2BtYSSqg%2Bug%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0AiBkAPwAFOmJYAAEc7QvDkvdLRwCUB6MZNi.xlsx?lk3s=cbe26b3a&x-expires=4833273499&x-signature=vc4MYO9eLw2iBFceDYUivdgxzhs%3D",
           "size": 11133
         }
       ],

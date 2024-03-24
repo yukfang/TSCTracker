@@ -62,7 +62,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Lucas,</p><ul><li>The Customer's status is \"Pending verification\".</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/75eed8b03fb84025940dd29748a88ee2.png\" height=\"105.236\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/75eed8b03fb84025940dd29748a88ee2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837850&amp;x-signature=O3lATefvN7Yd3pko%2BykKs8qioHA%3D\" width=\"375\"><ol><li>Note that once you have Generated TTAID, your status will change from Unverified to <strong>Pending Verification.​</strong></li><li>Your status will remain as Pending Verification till you have entered the TTAID on your MMP dashboard, AND TikTok has received at least one event with the TikTok App ID.​</li><li>Paste the <strong>TikTok App ID</strong> into your MMP dashboard -- see your MMP dashboard screenshot below</li></ol><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/74e31c7e4b8f4cb682f2ff7bf9166457.png\" height=\"185.609\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74e31c7e4b8f4cb682f2ff7bf9166457.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837850&amp;x-signature=h9kjgo0EcCypuV6QUxS9Z1DZuMU%3D\" width=\"375\"><ul><li>4.​The client should see the <strong>Verified </strong>label appear on your app page in <strong>Events Manager</strong>. This will happen when advertisers send an event back to TikTok - whether it's attributed or unattributed - after correctly implementing the TikTok App ID.</li></ul><p><br /></p><ul><li><span style=\"color: #0D0D0D;\"><strong>Check with Customer MMP:</strong> Contact the support team of your Mobile Measurement Partner to ensure that their side of the integration is set up correctly and there are no issues on their end preventing verification.</span></li></ul><p><br /></p><p><span style=\"color: #0D0D0D;\">Regards,</span></p><p><span style=\"color: #0D0D0D;\">Renato Pessoa Franco</span></p></img></img>",
+          "content": "<p>Hi Lucas,</p><ul><li>The Customer's status is \"Pending verification\".</li></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/75eed8b03fb84025940dd29748a88ee2.png\" height=\"105.236\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/75eed8b03fb84025940dd29748a88ee2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273424&amp;x-signature=Wa3mZ5bv1eWWgiIuZFkRcnlJzqc%3D\" width=\"375\"><ol><li>Note that once you have Generated TTAID, your status will change from Unverified to <strong>Pending Verification.​</strong></li><li>Your status will remain as Pending Verification till you have entered the TTAID on your MMP dashboard, AND TikTok has received at least one event with the TikTok App ID.​</li><li>Paste the <strong>TikTok App ID</strong> into your MMP dashboard -- see your MMP dashboard screenshot below</li></ol><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/74e31c7e4b8f4cb682f2ff7bf9166457.png\" height=\"185.609\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74e31c7e4b8f4cb682f2ff7bf9166457.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273424&amp;x-signature=BQbJasK9zkjX3xJPyJOVlO0eLqg%3D\" width=\"375\"><ul><li>4.​The client should see the <strong>Verified </strong>label appear on your app page in <strong>Events Manager</strong>. This will happen when advertisers send an event back to TikTok - whether it's attributed or unattributed - after correctly implementing the TikTok App ID.</li></ul><p><br /></p><ul><li><span style=\"color: #0D0D0D;\"><strong>Check with Customer MMP:</strong> Contact the support team of your Mobile Measurement Partner to ensure that their side of the integration is set up correctly and there are no issues on their end preventing verification.</span></li></ul><p><br /></p><p><span style=\"color: #0D0D0D;\">Regards,</span></p><p><span style=\"color: #0D0D0D;\">Renato Pessoa Franco</span></p></img></img>",
           "type": 6
         }
       ],
@@ -131,7 +131,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2684260,
+  "pending_time": 3119834,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -305,18 +305,18 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/75eed8b03fb84025940dd29748a88ee2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837850&x-signature=O3lATefvN7Yd3pko%2BykKs8qioHA%3D",
-          "file_name": "file_20240318_14_57_30_453261",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/75eed8b03fb84025940dd29748a88ee2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837850&x-signature=O3lATefvN7Yd3pko%2BykKs8qioHA%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/75eed8b03fb84025940dd29748a88ee2.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74e31c7e4b8f4cb682f2ff7bf9166457.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273424&x-signature=BQbJasK9zkjX3xJPyJOVlO0eLqg%3D",
+          "file_name": "file_20240323_15_57_04_319323",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74e31c7e4b8f4cb682f2ff7bf9166457.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273424&x-signature=BQbJasK9zkjX3xJPyJOVlO0eLqg%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/74e31c7e4b8f4cb682f2ff7bf9166457.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74e31c7e4b8f4cb682f2ff7bf9166457.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837850&x-signature=h9kjgo0EcCypuV6QUxS9Z1DZuMU%3D",
-          "file_name": "file_20240318_14_57_30_453336",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/74e31c7e4b8f4cb682f2ff7bf9166457.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837850&x-signature=h9kjgo0EcCypuV6QUxS9Z1DZuMU%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/74e31c7e4b8f4cb682f2ff7bf9166457.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/75eed8b03fb84025940dd29748a88ee2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273424&x-signature=Wa3mZ5bv1eWWgiIuZFkRcnlJzqc%3D",
+          "file_name": "file_20240323_15_57_04_319422",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/75eed8b03fb84025940dd29748a88ee2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273424&x-signature=Wa3mZ5bv1eWWgiIuZFkRcnlJzqc%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/75eed8b03fb84025940dd29748a88ee2.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

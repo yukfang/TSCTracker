@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Confirming that hashed SHA256 Email addresses are being captured where available, especially at the CompletePayment event.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6845ac2f2fb543baad9fe097b3d915ce.png\" height=\"106.868\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6845ac2f2fb543baad9fe097b3d915ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838364&amp;x-signature=pZHsnKdJocjadbqp2xoN%2Bh%2BIlSU%3D\" width=\"375\"><p><br /></p><p>Action Items:</p><ul><li>ViewContent</li><ul><li><strong>Please ensure that escape slashes are not present in Events API payloads. Escape slashes will prevent proper catalog matches and negatively impact VSA performance</strong></li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d2fb420771f247b7a023821c15df8538.png\" height=\"201.493\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2fb420771f247b7a023821c15df8538.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838364&amp;x-signature=Eoj2caFOdGg5lYqxDmjax4BREts%3D\" width=\"375\"><ul><ul><li><strong>Please ensure that the value parameter is present in Events API payloads</strong></li></ul><li>AddToCart</li><ul><li><strong>Please ensure that escape slashes are not present in Events API payloads. Escape slashes will prevent proper catalog matches and negatively impact VSA performance</strong></li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f467d2288e56478eb04f158e2c91dbdf.png\" height=\"196.154\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f467d2288e56478eb04f158e2c91dbdf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838364&amp;x-signature=GqHib2ep%2BdlTRKlmI1MnjzWd%2B84%3D\" width=\"375\"><ul><ul><li><strong>Please ensure that the value parameter is present in Events API payloads</strong></li></ul><li>InitiateCheckout</li><ul><li><strong>Please ensure that escape slashes are not present in Events API payloads. Escape slashes will prevent proper catalog matches and negatively impact VSA performance</strong></li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6000c4c3810f4608a02f79281de4aed0.png\" height=\"187.5\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6000c4c3810f4608a02f79281de4aed0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838364&amp;x-signature=pY05Mt9IV7Sp%2FpMRnlufcSTdPHI%3D\" width=\"375\"><ul><ul><li><strong>Please ensure that the value parameter is present in Events API payloads</strong></li></ul><li>CompletePayment</li><ul><li><strong>Please ensure that escape slashes are not present in Events API payloads. Escape slashes will prevent proper catalog matches and negatively impact VSA performance</strong></li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/be72e087f5d34f608a1c63ee83ba1f16.png\" height=\"285.287\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/be72e087f5d34f608a1c63ee83ba1f16.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838364&amp;x-signature=goRbiwA51359WkxqPQmQMHmRrFs%3D\" width=\"375\"><ul><ul><li><strong>Priority: Please ensure that Deduplication is properly configured for the CompletePayment event. The CompletePayment event is currently experiencing a 48% deduplication rate.</strong> <span style=\"color: #333333;\"><strong>Documentation for reference: https://business-api.tiktok.com/portal/docs?id=1771100965992450</strong></span></li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/569658b434b44a42937238016938dc3a.png\" height=\"238.286\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/569658b434b44a42937238016938dc3a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838364&amp;x-signature=F%2BAxEkxqYDuDaBmX0dUYfVnUy08%3D\" width=\"375\" /></img></img></img></img></img>",
+          "content": "<p>Confirming that hashed SHA256 Email addresses are being captured where available, especially at the CompletePayment event.</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6845ac2f2fb543baad9fe097b3d915ce.png\" height=\"106.868\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6845ac2f2fb543baad9fe097b3d915ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273881&amp;x-signature=3fv0ps6RcYDWTrimkrDSGzZ95qs%3D\" width=\"375\"><p><br /></p><p>Action Items:</p><ul><li>ViewContent</li><ul><li><strong>Please ensure that escape slashes are not present in Events API payloads. Escape slashes will prevent proper catalog matches and negatively impact VSA performance</strong></li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d2fb420771f247b7a023821c15df8538.png\" height=\"201.493\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2fb420771f247b7a023821c15df8538.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273881&amp;x-signature=3XUvagVr3ztWk4YePHdU%2BO0Jj5I%3D\" width=\"375\"><ul><ul><li><strong>Please ensure that the value parameter is present in Events API payloads</strong></li></ul><li>AddToCart</li><ul><li><strong>Please ensure that escape slashes are not present in Events API payloads. Escape slashes will prevent proper catalog matches and negatively impact VSA performance</strong></li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/f467d2288e56478eb04f158e2c91dbdf.png\" height=\"196.154\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f467d2288e56478eb04f158e2c91dbdf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273881&amp;x-signature=%2FveomXtRRU8J3fFCLkL%2F%2BO7CceY%3D\" width=\"375\"><ul><ul><li><strong>Please ensure that the value parameter is present in Events API payloads</strong></li></ul><li>InitiateCheckout</li><ul><li><strong>Please ensure that escape slashes are not present in Events API payloads. Escape slashes will prevent proper catalog matches and negatively impact VSA performance</strong></li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/6000c4c3810f4608a02f79281de4aed0.png\" height=\"187.5\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6000c4c3810f4608a02f79281de4aed0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273881&amp;x-signature=Ghc852Xo6f%2BMqMXgWpDwF8mFYMQ%3D\" width=\"375\"><ul><ul><li><strong>Please ensure that the value parameter is present in Events API payloads</strong></li></ul><li>CompletePayment</li><ul><li><strong>Please ensure that escape slashes are not present in Events API payloads. Escape slashes will prevent proper catalog matches and negatively impact VSA performance</strong></li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/be72e087f5d34f608a1c63ee83ba1f16.png\" height=\"285.287\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/be72e087f5d34f608a1c63ee83ba1f16.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273881&amp;x-signature=XgN12Ffns0%2FUdEbVUlhrArQky6E%3D\" width=\"375\"><ul><ul><li><strong>Priority: Please ensure that Deduplication is properly configured for the CompletePayment event. The CompletePayment event is currently experiencing a 48% deduplication rate.</strong> <span style=\"color: #333333;\"><strong>Documentation for reference: https://business-api.tiktok.com/portal/docs?id=1771100965992450</strong></span></li></ul></ul><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/569658b434b44a42937238016938dc3a.png\" height=\"238.286\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/569658b434b44a42937238016938dc3a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273881&amp;x-signature=6bzOtOb50InvkE2lhX5SZtg3TJc%3D\" width=\"375\" /></img></img></img></img></img>",
           "type": 6
         }
       ],
@@ -168,7 +168,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1451454,
+  "pending_time": 1886972,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -342,50 +342,50 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6845ac2f2fb543baad9fe097b3d915ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838364&x-signature=pZHsnKdJocjadbqp2xoN%2Bh%2BIlSU%3D",
-          "file_name": "file_20240318_15_06_04_229331",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6845ac2f2fb543baad9fe097b3d915ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838364&x-signature=pZHsnKdJocjadbqp2xoN%2Bh%2BIlSU%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/6845ac2f2fb543baad9fe097b3d915ce.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f467d2288e56478eb04f158e2c91dbdf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838364&x-signature=GqHib2ep%2BdlTRKlmI1MnjzWd%2B84%3D",
-          "file_name": "file_20240318_15_06_04_229412",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f467d2288e56478eb04f158e2c91dbdf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838364&x-signature=GqHib2ep%2BdlTRKlmI1MnjzWd%2B84%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/f467d2288e56478eb04f158e2c91dbdf.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6000c4c3810f4608a02f79281de4aed0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838364&x-signature=pY05Mt9IV7Sp%2FpMRnlufcSTdPHI%3D",
-          "file_name": "file_20240318_15_06_04_229436",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6000c4c3810f4608a02f79281de4aed0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838364&x-signature=pY05Mt9IV7Sp%2FpMRnlufcSTdPHI%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/6000c4c3810f4608a02f79281de4aed0.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2fb420771f247b7a023821c15df8538.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838364&x-signature=Eoj2caFOdGg5lYqxDmjax4BREts%3D",
-          "file_name": "file_20240318_15_06_04_229456",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2fb420771f247b7a023821c15df8538.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838364&x-signature=Eoj2caFOdGg5lYqxDmjax4BREts%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/d2fb420771f247b7a023821c15df8538.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/569658b434b44a42937238016938dc3a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838364&x-signature=F%2BAxEkxqYDuDaBmX0dUYfVnUy08%3D",
-          "file_name": "file_20240318_15_06_04_229474",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/569658b434b44a42937238016938dc3a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838364&x-signature=F%2BAxEkxqYDuDaBmX0dUYfVnUy08%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/569658b434b44a42937238016938dc3a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273881&x-signature=6bzOtOb50InvkE2lhX5SZtg3TJc%3D",
+          "file_name": "file_20240323_16_04_41_873825",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/569658b434b44a42937238016938dc3a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273881&x-signature=6bzOtOb50InvkE2lhX5SZtg3TJc%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/569658b434b44a42937238016938dc3a.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/be72e087f5d34f608a1c63ee83ba1f16.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838364&x-signature=goRbiwA51359WkxqPQmQMHmRrFs%3D",
-          "file_name": "file_20240318_15_06_04_229492",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/be72e087f5d34f608a1c63ee83ba1f16.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838364&x-signature=goRbiwA51359WkxqPQmQMHmRrFs%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6845ac2f2fb543baad9fe097b3d915ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273881&x-signature=3fv0ps6RcYDWTrimkrDSGzZ95qs%3D",
+          "file_name": "file_20240323_16_04_41_873893",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6845ac2f2fb543baad9fe097b3d915ce.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273881&x-signature=3fv0ps6RcYDWTrimkrDSGzZ95qs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6845ac2f2fb543baad9fe097b3d915ce.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/be72e087f5d34f608a1c63ee83ba1f16.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273881&x-signature=XgN12Ffns0%2FUdEbVUlhrArQky6E%3D",
+          "file_name": "file_20240323_16_04_41_873913",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/be72e087f5d34f608a1c63ee83ba1f16.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273881&x-signature=XgN12Ffns0%2FUdEbVUlhrArQky6E%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/be72e087f5d34f608a1c63ee83ba1f16.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f467d2288e56478eb04f158e2c91dbdf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273881&x-signature=%2FveomXtRRU8J3fFCLkL%2F%2BO7CceY%3D",
+          "file_name": "file_20240323_16_04_41_873935",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/f467d2288e56478eb04f158e2c91dbdf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273881&x-signature=%2FveomXtRRU8J3fFCLkL%2F%2BO7CceY%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/f467d2288e56478eb04f158e2c91dbdf.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6000c4c3810f4608a02f79281de4aed0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273881&x-signature=Ghc852Xo6f%2BMqMXgWpDwF8mFYMQ%3D",
+          "file_name": "file_20240323_16_04_41_873948",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/6000c4c3810f4608a02f79281de4aed0.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273881&x-signature=Ghc852Xo6f%2BMqMXgWpDwF8mFYMQ%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/6000c4c3810f4608a02f79281de4aed0.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2fb420771f247b7a023821c15df8538.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273881&x-signature=3XUvagVr3ztWk4YePHdU%2BO0Jj5I%3D",
+          "file_name": "file_20240323_16_04_41_873961",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d2fb420771f247b7a023821c15df8538.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273881&x-signature=3XUvagVr3ztWk4YePHdU%2BO0Jj5I%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d2fb420771f247b7a023821c15df8538.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

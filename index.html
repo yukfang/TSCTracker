@@ -147,8 +147,10 @@
                 }
 
                 /** Create/Close Time to String */
-                orders[i].create_date = orders[i].create_time.split('T')[0] ;
-                orders[i].close_date  = ((t)=>{ return t.includes('1970')?'':t})(orders[i].close_time.split('T')[0]);
+                // orders[i].create_date = orders[i].create_time.split('T')[0];
+                orders[i].create_date = (new Date(orders[i].create_time)).toISOString().split('T')[0];
+                // orders[i].close_date  = ((t)=>{ return t.includes('1970')?'':t})(orders[i].close_time.split('T')[0]);
+                orders[i].close_date = (orders[i].close_time === 0) ? '' : (new Date(orders[i].close_time)).toISOString().split('T')[0];
             }
 
             /** Create Vue instance */

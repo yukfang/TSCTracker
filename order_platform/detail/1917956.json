@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hola JP,</p><p>Confirmando recibo de tu ticket.</p><p>Enseguida, pego los comentarios/recomendaciones de nuestra consulta ayer.</p><ul><li><em>Uno de los problemas que ellos tienen con su implementación, que no les permitirá correr ese tipo de campañas es el hecho que no estan pasando el </em><strong><em>content_id</em></strong><em> con sus eventos. El content_id es necesario para tener un catalog match de 90% o mas que les permitirá correr campañas de catalogo. La razón de esto es que el cliente no esta usando la integración oficial de TikTok/Shopify para gestionar su pixel y sus eventos. Esa seria lo primero que deben corregir mucho antes de trabajar con el catalogo.</em></li></ul><img alt=\"20240305-133956.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/adee4bbc1e6141a4b5c4bd766afcfe32.jpeg\" height=\"188.578\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/adee4bbc1e6141a4b5c4bd766afcfe32.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838428&amp;x-signature=EP6scH8MgUGDaoByEaNou49QBlM%3D\" width=\"375\"><p>Cuando los anunciantes usan la integración official de TikTok/Shopify, todo se maneja de manera automática.</p><ol><li>Crean un pixel para uso especifico de Shopify</li><li>Automaticamente implementa el funnel de ecommerce para Shopify</li><li>Los eventos se detonan con los parámetros necesarios para poder correr cualquier tipo de campaña</li><li>Al crear un catalog en Shopify, la integración automáticamente lo vincula al pixel que se esta usando en la tienda Shopify</li></ol><p>Estos son los pasos a seguir para este anunciante:</p><ol><li>Eliminar la integración actual y remplazarla con la <a href=\"https://apps.shopify.com/tiktok?search_id=685ba574-804f-4e6f-ab12-1b118c62c7e1&amp;surface_detail=tiktok&amp;surface_inter_position=1&amp;surface_intra_position=5&amp;surface_type=search\" target=\"_blank\">integracion oficial TikTok/Shopify</a>.</li><li>Crear un pixel desde la integración (igual que HighStreet) y habilitar Data Sharing al máximo.</li><li>Crear su catalogo desde Shopify. Este se sincronizará con su cuenta de TikTok/Business Center automáticamente.</li></ol></img>",
+          "content": "<p>Hola JP,</p><p>Confirmando recibo de tu ticket.</p><p>Enseguida, pego los comentarios/recomendaciones de nuestra consulta ayer.</p><ul><li><em>Uno de los problemas que ellos tienen con su implementación, que no les permitirá correr ese tipo de campañas es el hecho que no estan pasando el </em><strong><em>content_id</em></strong><em> con sus eventos. El content_id es necesario para tener un catalog match de 90% o mas que les permitirá correr campañas de catalogo. La razón de esto es que el cliente no esta usando la integración oficial de TikTok/Shopify para gestionar su pixel y sus eventos. Esa seria lo primero que deben corregir mucho antes de trabajar con el catalogo.</em></li></ul><img alt=\"20240305-133956.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/adee4bbc1e6141a4b5c4bd766afcfe32.jpeg\" height=\"188.578\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/adee4bbc1e6141a4b5c4bd766afcfe32.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273950&amp;x-signature=ZRBCqyrArOlbYiLDPHPRJZqR8dY%3D\" width=\"375\"><p>Cuando los anunciantes usan la integración official de TikTok/Shopify, todo se maneja de manera automática.</p><ol><li>Crean un pixel para uso especifico de Shopify</li><li>Automaticamente implementa el funnel de ecommerce para Shopify</li><li>Los eventos se detonan con los parámetros necesarios para poder correr cualquier tipo de campaña</li><li>Al crear un catalog en Shopify, la integración automáticamente lo vincula al pixel que se esta usando en la tienda Shopify</li></ol><p>Estos son los pasos a seguir para este anunciante:</p><ol><li>Eliminar la integración actual y remplazarla con la <a href=\"https://apps.shopify.com/tiktok?search_id=685ba574-804f-4e6f-ab12-1b118c62c7e1&amp;surface_detail=tiktok&amp;surface_inter_position=1&amp;surface_intra_position=5&amp;surface_type=search\" target=\"_blank\">integracion oficial TikTok/Shopify</a>.</li><li>Crear un pixel desde la integración (igual que HighStreet) y habilitar Data Sharing al máximo.</li><li>Crear su catalogo desde Shopify. Este se sincronizará con su cuenta de TikTok/Business Center automáticamente.</li></ol></img>",
           "type": 6
         }
       ],
@@ -70,6 +70,37 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1711151045,
+      "auto_close_hit": 0,
+      "id": 7349331100897985000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 0,
+      "is_questioner": false,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Armando Carmona Blanco",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7194519681674527746",
+      "name": "Armando Carmona Blanco",
+      "blocked_roles": [
+        "requester"
+      ],
+      "items": [
+        {
+          "content": "<p><br /></p><p><strong>[Status Update] </strong>Had call with Client and CSM regarding their Shopify implementation.</p><p>Summary of the call with CKlass and the steps we followed in troubleshooting to solve the problem.</p><ul><li>We confirmed that the problem was due to the fact that Shopify was connected to another BC that was not the one they wanted to use. We disconnected and reconnected to the correct BC and TTAM.</li><li>We uninstalled and reinstalled the TikTok sales channel. We created a new pixel to use with Shopify.</li><li>We discovered that they implemented the previous pixel through GTM and that implementation was causing interference with the new Shopify implementation. Helped advertiser identify the GTM container that fired the pixel and eliminated the implementation  in GTM. Verified this corrected the issue.</li></ul><p>Advertiser was not able to create the catalog since they did not have the Catalog link enabled in Shopify.<br> Since this is directly from the Shopify platform, advised client to reach out to them to help them troubleshoot.<br>See image below.</br></br></p><img alt=\"Catalog.jpeg\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/710e75377b444ccab7cd13a9744bdf34.jpeg\" height=\"189.067\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/710e75377b444ccab7cd13a9744bdf34.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273950&amp;x-signature=uB%2B1gOnbVqdH2Zk4jgsJGrfsMdE%3D\" width=\"375\"><p><strong>Pending Advertiser.</strong></p></img>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9d27abc7-8fc7-4c1e-b2ea-857e19298e4h~?image_size=640x640&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -97,7 +128,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1709676274,
+  "update_time": 1711151045,
   "owner_name": "Juan Pablo Rodríguez",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -133,7 +164,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1098154,
+  "pending_time": 58906,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -270,10 +301,18 @@
       "label": "Screenshot(s)",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/adee4bbc1e6141a4b5c4bd766afcfe32.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838428&x-signature=EP6scH8MgUGDaoByEaNou49QBlM%3D",
-          "file_name": "file_20240318_15_07_08_389443",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/adee4bbc1e6141a4b5c4bd766afcfe32.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838428&x-signature=EP6scH8MgUGDaoByEaNou49QBlM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/adee4bbc1e6141a4b5c4bd766afcfe32.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273950&x-signature=ZRBCqyrArOlbYiLDPHPRJZqR8dY%3D",
+          "file_name": "file_20240323_16_05_50_850807",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/adee4bbc1e6141a4b5c4bd766afcfe32.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273950&x-signature=ZRBCqyrArOlbYiLDPHPRJZqR8dY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/adee4bbc1e6141a4b5c4bd766afcfe32.jpeg",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/710e75377b444ccab7cd13a9744bdf34.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273950&x-signature=uB%2B1gOnbVqdH2Zk4jgsJGrfsMdE%3D",
+          "file_name": "file_20240323_16_05_50_927146",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/710e75377b444ccab7cd13a9744bdf34.jpeg~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273950&x-signature=uB%2B1gOnbVqdH2Zk4jgsJGrfsMdE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/710e75377b444ccab7cd13a9744bdf34.jpeg",
           "file_type": "jpeg",
           "biz_type": 2
         }

@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1708708852,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Ryan,</p><p><br /></p><p>Checking the data for <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C1D1PFC8PMMOGUUMSG50?start_time=2024-02-20&amp;end_time=2024-02-26&amp;from=ALL&amp;aadvid=6942892328910618626\" target=\"_blank\">pixel id C1D1PFC8PMMOGUUMSG50</a>, a serious issue to flag is that they have no PII implemented for any events, most importantly they have no PII for CompletePayment:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4d1914351b994663bcc6d9d8b5dbccfc.png\" height=\"121.812\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d1914351b994663bcc6d9d8b5dbccfc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838235&amp;x-signature=bzkOXhL1EUm1FhQIUnomIksHqLk%3D\" width=\"375\"><p>They will want to implement <a href=\"https://business-api.tiktok.com/portal/docs?rid=5ipocbxyw8v&amp;id=1701890972946433\" target=\"_blank\">Manual and Automatic Advanced Matching</a> as soon as possible to be sure their events are attributing as expected. Specifically:</p><p><br /></p><p>ttq.identify({</p><p>email: 'email@example.com',</p><p>phone_number: '+15551234567',</p><p>})</p><p>to each lower-funnel event, but especially CompletePayment. Until they put that in place, their signal score will continue to be low, and they will not be able to run campaigns using VSA or VBO. </p><p><br /></p><p>After this issue is addressed, I'm happy to create an implementation guide they can follow to get fully set up with <a href=\"https://ads.tiktok.com/help/article/events-api?redirected=1\" target=\"_blank\">Event API</a>.</p><p><br /></p><p>I'll keep this ticket open for now in case further questions come up!</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Ryan,</p><p><br /></p><p>Checking the data for <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/C1D1PFC8PMMOGUUMSG50?start_time=2024-02-20&amp;end_time=2024-02-26&amp;from=ALL&amp;aadvid=6942892328910618626\" target=\"_blank\">pixel id C1D1PFC8PMMOGUUMSG50</a>, a serious issue to flag is that they have no PII implemented for any events, most importantly they have no PII for CompletePayment:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4d1914351b994663bcc6d9d8b5dbccfc.png\" height=\"121.812\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d1914351b994663bcc6d9d8b5dbccfc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273749&amp;x-signature=99bdIifzEvfJ1VVQgJascQmOf2g%3D\" width=\"375\"><p>They will want to implement <a href=\"https://business-api.tiktok.com/portal/docs?rid=5ipocbxyw8v&amp;id=1701890972946433\" target=\"_blank\">Manual and Automatic Advanced Matching</a> as soon as possible to be sure their events are attributing as expected. Specifically:</p><p><br /></p><p>ttq.identify({</p><p>email: 'email@example.com',</p><p>phone_number: '+15551234567',</p><p>})</p><p>to each lower-funnel event, but especially CompletePayment. Until they put that in place, their signal score will continue to be low, and they will not be able to run campaigns using VSA or VBO. </p><p><br /></p><p>After this issue is addressed, I'm happy to create an implementation guide they can follow to get fully set up with <a href=\"https://ads.tiktok.com/help/article/events-api?redirected=1\" target=\"_blank\">Event API</a>.</p><p><br /></p><p>I'll keep this ticket open for now in case further questions come up!</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -286,7 +286,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1449140,
+  "pending_time": 1884655,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -462,15 +462,15 @@
         {
           "file_type": "pdf",
           "file_name": "Sam Edelman Pixel Email.pdf",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/owzUAKQ1AUeNVGDWBAgFw29uIfpElvECqAP3xE.pdf?lk3s=cbe26b3a&x-expires=4832838235&x-signature=eM26%2BqYNE%2BnkainwWJSxBKUJ3BU%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/owzUAKQ1AUeNVGDWBAgFw29uIfpElvECqAP3xE.pdf?lk3s=cbe26b3a&x-expires=4833273749&x-signature=jUDaH3yS35NIXBEqXSOj7eXZqHI%3D",
           "file_key": "tos-alisg-v-90231e-sg/owzUAKQ1AUeNVGDWBAgFw29uIfpElvECqAP3xE.pdf",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/owzUAKQ1AUeNVGDWBAgFw29uIfpElvECqAP3xE.pdf?lk3s=cbe26b3a&x-expires=4832838235&x-signature=eM26%2BqYNE%2BnkainwWJSxBKUJ3BU%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/owzUAKQ1AUeNVGDWBAgFw29uIfpElvECqAP3xE.pdf?lk3s=cbe26b3a&x-expires=4833273749&x-signature=jUDaH3yS35NIXBEqXSOj7eXZqHI%3D",
           "size": 215279
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d1914351b994663bcc6d9d8b5dbccfc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838235&x-signature=bzkOXhL1EUm1FhQIUnomIksHqLk%3D",
-          "file_name": "file_20240318_15_03_55_286501",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d1914351b994663bcc6d9d8b5dbccfc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838235&x-signature=bzkOXhL1EUm1FhQIUnomIksHqLk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d1914351b994663bcc6d9d8b5dbccfc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273749&x-signature=99bdIifzEvfJ1VVQgJascQmOf2g%3D",
+          "file_name": "file_20240323_16_02_29_722740",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4d1914351b994663bcc6d9d8b5dbccfc.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273749&x-signature=99bdIifzEvfJ1VVQgJascQmOf2g%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4d1914351b994663bcc6d9d8b5dbccfc.png",
           "file_type": "jpeg",
           "biz_type": 2

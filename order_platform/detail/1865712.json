@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Ayesha,</p><p>Thanks for making the ticket! On an initial view, it looks like they actually have things setup more or less correctly, but it does look like we're receiving a rather low volume of Events API events. A proper dual channel eAPI + Web implementation should have much higher Server and Server &amp; Browser counts relative to the number of Web Browser events:</p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/C8JLLECO0T91FSTH1G5G?start_time=2024-02-02&amp;end_time=2024-02-08&amp;from=ALL&amp;aadvid=7067159448942428161&amp;type=overview</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/55a46fe950ea4c8983b866c251ed5553.png\" height=\"312.992\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/55a46fe950ea4c8983b866c251ed5553.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837834&amp;x-signature=WhlLaTHXSvXVuKR4BAMfb8tsBGE%3D\" width=\"375\"><p>I also just reached out to you on Lark regarding this!</p><p>Thanks!</p><p>Robbie</p></img>",
+          "content": "<p>Hi Ayesha,</p><p>Thanks for making the ticket! On an initial view, it looks like they actually have things setup more or less correctly, but it does look like we're receiving a rather low volume of Events API events. A proper dual channel eAPI + Web implementation should have much higher Server and Server &amp; Browser counts relative to the number of Web Browser events:</p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/C8JLLECO0T91FSTH1G5G?start_time=2024-02-02&amp;end_time=2024-02-08&amp;from=ALL&amp;aadvid=7067159448942428161&amp;type=overview</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/55a46fe950ea4c8983b866c251ed5553.png\" height=\"312.992\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/55a46fe950ea4c8983b866c251ed5553.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273413&amp;x-signature=kweky6evC1mUHWPyRIUlmv0ZqpY%3D\" width=\"375\"><p>I also just reached out to you on Lark regarding this!</p><p>Thanks!</p><p>Robbie</p></img>",
           "type": 6
         }
       ],
@@ -170,7 +170,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 3358935,
+  "pending_time": 3794514,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -344,9 +344,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/55a46fe950ea4c8983b866c251ed5553.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837834&x-signature=WhlLaTHXSvXVuKR4BAMfb8tsBGE%3D",
-          "file_name": "file_20240318_14_57_14_175040",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/55a46fe950ea4c8983b866c251ed5553.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837834&x-signature=WhlLaTHXSvXVuKR4BAMfb8tsBGE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/55a46fe950ea4c8983b866c251ed5553.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273413&x-signature=kweky6evC1mUHWPyRIUlmv0ZqpY%3D",
+          "file_name": "file_20240323_15_56_53_364792",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/55a46fe950ea4c8983b866c251ed5553.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273413&x-signature=kweky6evC1mUHWPyRIUlmv0ZqpY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/55a46fe950ea4c8983b866c251ed5553.png",
           "file_type": "jpeg",
           "biz_type": 2

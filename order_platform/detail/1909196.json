@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Confirming that a hashed SHA256 email is being passed across all configured events when it is available</p><p><br /></p><p>ViewContent:</p><ul><li>Server Side ViewContent event is only passing back the value parameter. Ensure that both payloads for the Web Browser Pixel and Events API Pixels match. This payload is only being passed through Web Browser traffic - for best results, this same payload must be passed with the matching ViewContent server side event:</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d54b7c8b4350461892fce42fa6a898b2.png\" height=\"63.958\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d54b7c8b4350461892fce42fa6a898b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838367&amp;x-signature=vgpTYY7jhZ%2FgXfqO1Hv1bjLPKR4%3D\" width=\"375\"><p>AddToCart</p><ul><li>Server Side AddToCart event is only passing back the value parameter. Ensure that both payloads for the Web Browser Pixel and Events API Pixels match. This payload is only being passed through Web Browser traffic - for best results, this same payload must be passed with the matching AddToCart server side event:</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/812b6c25c8034bafb5ea184d746466e8.png\" height=\"271\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/812b6c25c8034bafb5ea184d746466e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838367&amp;x-signature=7ssa7vrbgvUtrGO%2BRP1pToMbaJc%3D\" width=\"322\"><ul><li><strong>Critical: Please make sure that Deduplication is setup properly for the AddToCart event to prevent double counting and to ensure the best possible performance. AddToCart deduplication rate is currently at 29%. Documentation for reference: https://business-api.tiktok.com/portal/docs?id=1771100965992450</strong></li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/349f1604a6a74d7fb7c3fe689a57356a.png\" height=\"234.746\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/349f1604a6a74d7fb7c3fe689a57356a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838367&amp;x-signature=2IiFmlPQyeBQTz7RY2fbm6WRR%2Bc%3D\" width=\"375\"><p>InitiateCheckout</p><ul><li>Server Side InitiateCheckout event is only passing back the value parameter. Ensure that both payloads for the Web Browser Pixel and Events API Pixels match. This payload is only being passed through Web Browser traffic - for best results, this same payload must be passed with the matching InitiateCheckout server side event:</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b24f12b2d7b5487393b056bb69143b05.png\" height=\"385.74\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b24f12b2d7b5487393b056bb69143b05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838367&amp;x-signature=s%2BQCbPI6LuRhAgDnF0HvbCK9B88%3D\" width=\"375\"><p>CompletePayment</p><ul><li><strong>Critical: CompletePayment server side event is not passing back the value parameter or any product information. Ensure that both payloads for the Web Browser Pixel and Events API Pixels match. This payload is only being passed through Web Browser traffic - for best results, this same payload must be passed with the matching CompletePayment server side event:</strong></li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/028397909f2c4302ab875ce5906b0065.png\" height=\"265.665\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/028397909f2c4302ab875ce5906b0065.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838367&amp;x-signature=kMPWf4rQICHwbg6BrKGqPQZ6DAI%3D\" width=\"375\" /></img></img></img></img>",
+          "content": "<p>Confirming that a hashed SHA256 email is being passed across all configured events when it is available</p><p><br /></p><p>ViewContent:</p><ul><li>Server Side ViewContent event is only passing back the value parameter. Ensure that both payloads for the Web Browser Pixel and Events API Pixels match. This payload is only being passed through Web Browser traffic - for best results, this same payload must be passed with the matching ViewContent server side event:</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/d54b7c8b4350461892fce42fa6a898b2.png\" height=\"63.958\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d54b7c8b4350461892fce42fa6a898b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273885&amp;x-signature=0uxq5br6k8HZ0vmVT1ktXazatxs%3D\" width=\"375\"><p>AddToCart</p><ul><li>Server Side AddToCart event is only passing back the value parameter. Ensure that both payloads for the Web Browser Pixel and Events API Pixels match. This payload is only being passed through Web Browser traffic - for best results, this same payload must be passed with the matching AddToCart server side event:</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/812b6c25c8034bafb5ea184d746466e8.png\" height=\"271\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/812b6c25c8034bafb5ea184d746466e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273885&amp;x-signature=Idgq%2FFL1JDh%2Fs6LXdWcVvpzN8Og%3D\" width=\"322\"><ul><li><strong>Critical: Please make sure that Deduplication is setup properly for the AddToCart event to prevent double counting and to ensure the best possible performance. AddToCart deduplication rate is currently at 29%. Documentation for reference: https://business-api.tiktok.com/portal/docs?id=1771100965992450</strong></li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/349f1604a6a74d7fb7c3fe689a57356a.png\" height=\"234.746\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/349f1604a6a74d7fb7c3fe689a57356a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273885&amp;x-signature=cFArDXNROQPtuTSy1DG0TlcBuTs%3D\" width=\"375\"><p>InitiateCheckout</p><ul><li>Server Side InitiateCheckout event is only passing back the value parameter. Ensure that both payloads for the Web Browser Pixel and Events API Pixels match. This payload is only being passed through Web Browser traffic - for best results, this same payload must be passed with the matching InitiateCheckout server side event:</li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/b24f12b2d7b5487393b056bb69143b05.png\" height=\"385.74\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b24f12b2d7b5487393b056bb69143b05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273885&amp;x-signature=juxFfl6VmNls1GTLnVGfvOdzSDk%3D\" width=\"375\"><p>CompletePayment</p><ul><li><strong>Critical: CompletePayment server side event is not passing back the value parameter or any product information. Ensure that both payloads for the Web Browser Pixel and Events API Pixels match. This payload is only being passed through Web Browser traffic - for best results, this same payload must be passed with the matching CompletePayment server side event:</strong></li></ul><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/028397909f2c4302ab875ce5906b0065.png\" height=\"265.665\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/028397909f2c4302ab875ce5906b0065.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273885&amp;x-signature=8P%2BXzABapoXX78I15ia9wXqgEr0%3D\" width=\"375\" /></img></img></img></img>",
           "type": 6
         }
       ],
@@ -199,7 +199,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1377241,
+  "pending_time": 1812759,
   "debug_permission": 1,
   "is_vip": 1,
   "items": [
@@ -373,42 +373,42 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/349f1604a6a74d7fb7c3fe689a57356a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838367&x-signature=2IiFmlPQyeBQTz7RY2fbm6WRR%2Bc%3D",
-          "file_name": "file_20240318_15_06_07_301712",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/349f1604a6a74d7fb7c3fe689a57356a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838367&x-signature=2IiFmlPQyeBQTz7RY2fbm6WRR%2Bc%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/349f1604a6a74d7fb7c3fe689a57356a.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b24f12b2d7b5487393b056bb69143b05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838367&x-signature=s%2BQCbPI6LuRhAgDnF0HvbCK9B88%3D",
-          "file_name": "file_20240318_15_06_07_301793",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b24f12b2d7b5487393b056bb69143b05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838367&x-signature=s%2BQCbPI6LuRhAgDnF0HvbCK9B88%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/b24f12b2d7b5487393b056bb69143b05.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d54b7c8b4350461892fce42fa6a898b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838367&x-signature=vgpTYY7jhZ%2FgXfqO1Hv1bjLPKR4%3D",
-          "file_name": "file_20240318_15_06_07_301812",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d54b7c8b4350461892fce42fa6a898b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838367&x-signature=vgpTYY7jhZ%2FgXfqO1Hv1bjLPKR4%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/d54b7c8b4350461892fce42fa6a898b2.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/028397909f2c4302ab875ce5906b0065.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838367&x-signature=kMPWf4rQICHwbg6BrKGqPQZ6DAI%3D",
-          "file_name": "file_20240318_15_06_07_301831",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/028397909f2c4302ab875ce5906b0065.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838367&x-signature=kMPWf4rQICHwbg6BrKGqPQZ6DAI%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/028397909f2c4302ab875ce5906b0065.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273885&x-signature=8P%2BXzABapoXX78I15ia9wXqgEr0%3D",
+          "file_name": "file_20240323_16_04_45_120826",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/028397909f2c4302ab875ce5906b0065.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273885&x-signature=8P%2BXzABapoXX78I15ia9wXqgEr0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/028397909f2c4302ab875ce5906b0065.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/812b6c25c8034bafb5ea184d746466e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838367&x-signature=7ssa7vrbgvUtrGO%2BRP1pToMbaJc%3D",
-          "file_name": "file_20240318_15_06_07_301847",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/812b6c25c8034bafb5ea184d746466e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838367&x-signature=7ssa7vrbgvUtrGO%2BRP1pToMbaJc%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b24f12b2d7b5487393b056bb69143b05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273885&x-signature=juxFfl6VmNls1GTLnVGfvOdzSDk%3D",
+          "file_name": "file_20240323_16_04_45_120924",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/b24f12b2d7b5487393b056bb69143b05.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273885&x-signature=juxFfl6VmNls1GTLnVGfvOdzSDk%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/b24f12b2d7b5487393b056bb69143b05.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d54b7c8b4350461892fce42fa6a898b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273885&x-signature=0uxq5br6k8HZ0vmVT1ktXazatxs%3D",
+          "file_name": "file_20240323_16_04_45_120945",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/d54b7c8b4350461892fce42fa6a898b2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273885&x-signature=0uxq5br6k8HZ0vmVT1ktXazatxs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/d54b7c8b4350461892fce42fa6a898b2.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/812b6c25c8034bafb5ea184d746466e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273885&x-signature=Idgq%2FFL1JDh%2Fs6LXdWcVvpzN8Og%3D",
+          "file_name": "file_20240323_16_04_45_120959",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/812b6c25c8034bafb5ea184d746466e8.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273885&x-signature=Idgq%2FFL1JDh%2Fs6LXdWcVvpzN8Og%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/812b6c25c8034bafb5ea184d746466e8.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/349f1604a6a74d7fb7c3fe689a57356a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273885&x-signature=cFArDXNROQPtuTSy1DG0TlcBuTs%3D",
+          "file_name": "file_20240323_16_04_45_120972",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/349f1604a6a74d7fb7c3fe689a57356a.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273885&x-signature=cFArDXNROQPtuTSy1DG0TlcBuTs%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/349f1604a6a74d7fb7c3fe689a57356a.png",
           "file_type": "jpeg",
           "biz_type": 2
         }

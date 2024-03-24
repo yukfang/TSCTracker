@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zoe,</p><p><br /></p><p>It seems your client has identified that their is a Pixel event f iring and they are unsure where it is firing/how. </p><p><br /></p><p>Which specific event are they concerned?</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/dc4a584548054204aef18457a02b10cf.png\" height=\"374\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc4a584548054204aef18457a02b10cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838236&amp;x-signature=o3fKsvHC8s18ImtpTDRtVxn60eQ%3D\" width=\"180\"><p><br /></p><p>Thomas</p></img>",
+          "content": "<p>Hi Zoe,</p><p><br /></p><p>It seems your client has identified that their is a Pixel event f iring and they are unsure where it is firing/how. </p><p><br /></p><p>Which specific event are they concerned?</p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/dc4a584548054204aef18457a02b10cf.png\" height=\"374\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc4a584548054204aef18457a02b10cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273750&amp;x-signature=hwegJHpJjP%2B9IRn3TX35YC4DCv0%3D\" width=\"180\"><p><br /></p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -207,7 +207,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Zoe,</p><p><br /></p><p>I was able to download a template for offline events uploads through Events Manager. I am trying to find any documentation we have that explains how to pass events through the template. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/07b588c3f3544763879b9b30c8ed5a7b.png\" height=\"146.497\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/07b588c3f3544763879b9b30c8ed5a7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838236&amp;x-signature=dvH9%2BMoUtuUE7ZtyPdIDp%2B18zPs%3D\" width=\"375\"><p><br /></p><p>The template itself can be accessed through events manager. Once an offline event set has been created, click the \"Upload events\" button and then a pop up will come for \"Offline Events Example\". </p><p><br /></p><p>Once I get some more context as to what is accepted through the template, I will get back to you.</p><p><br /></p><p>Thomas</p></img>",
+          "content": "<p>Hi Zoe,</p><p><br /></p><p>I was able to download a template for offline events uploads through Events Manager. I am trying to find any documentation we have that explains how to pass events through the template. </p><p><br /></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/07b588c3f3544763879b9b30c8ed5a7b.png\" height=\"146.497\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/07b588c3f3544763879b9b30c8ed5a7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273751&amp;x-signature=GnoWo6kCqPqHdGtY0I7lde%2Btb7c%3D\" width=\"375\"><p><br /></p><p>The template itself can be accessed through events manager. Once an offline event set has been created, click the \"Upload events\" button and then a pop up will come for \"Offline Events Example\". </p><p><br /></p><p>Once I get some more context as to what is accepted through the template, I will get back to you.</p><p><br /></p><p>Thomas</p></img>",
           "type": 6
         }
       ],
@@ -242,12 +242,41 @@
       ],
       "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_da416f8b-dc05-4497-988c-ae851bf56c2h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710968549,
+      "auto_close_hit": 0,
+      "id": 7348551931406696000,
+      "reply_role": null,
+      "staff_id": "",
+      "type": 1,
+      "is_questioner": true,
+      "is_update": false,
+      "editable": 0,
+      "reply_email": "zoe.waldron@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Zoe Waldron",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7147682599380370433",
+      "name": "Zoe Waldron",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>Thank you, Thomas! Will pass this along now.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_9723b91f-3eb9-4436-9006-f0e4a089948h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
   "plat_id": 1736490999244882,
   "archive_category_2_name": "",
-  "pending_from_follower": false,
+  "pending_from_follower": true,
   "id": 1896386,
   "workflow_nodes": [],
   "board_id": 1705151646989662,
@@ -267,9 +296,9 @@
   "type": -1,
   "current_role": null,
   "fd_permission": 1,
-  "status": 1,
+  "status": 2,
   "business_data": [],
-  "update_time": 1710452225,
+  "update_time": 1710968549,
   "owner_name": "Zoe Waldron",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -444,7 +473,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 322010,
+  "pending_time": 757525,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -618,17 +647,17 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc4a584548054204aef18457a02b10cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838236&x-signature=o3fKsvHC8s18ImtpTDRtVxn60eQ%3D",
-          "file_name": "file_20240318_15_03_56_359500",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc4a584548054204aef18457a02b10cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838236&x-signature=o3fKsvHC8s18ImtpTDRtVxn60eQ%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc4a584548054204aef18457a02b10cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273750&x-signature=hwegJHpJjP%2B9IRn3TX35YC4DCv0%3D",
+          "file_name": "file_20240323_16_02_30_923276",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dc4a584548054204aef18457a02b10cf.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273750&x-signature=hwegJHpJjP%2B9IRn3TX35YC4DCv0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/dc4a584548054204aef18457a02b10cf.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/07b588c3f3544763879b9b30c8ed5a7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838236&x-signature=dvH9%2BMoUtuUE7ZtyPdIDp%2B18zPs%3D",
-          "file_name": "file_20240318_15_03_56_576626",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/07b588c3f3544763879b9b30c8ed5a7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838236&x-signature=dvH9%2BMoUtuUE7ZtyPdIDp%2B18zPs%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/07b588c3f3544763879b9b30c8ed5a7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273751&x-signature=GnoWo6kCqPqHdGtY0I7lde%2Btb7c%3D",
+          "file_name": "file_20240323_16_02_31_119507",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/07b588c3f3544763879b9b30c8ed5a7b.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273751&x-signature=GnoWo6kCqPqHdGtY0I7lde%2Btb7c%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/07b588c3f3544763879b9b30c8ed5a7b.png",
           "file_type": "jpeg",
           "biz_type": 2

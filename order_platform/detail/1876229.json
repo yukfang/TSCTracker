@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1707935176,
   "deadline": 0,
@@ -149,7 +149,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Emma,</p><p><br /></p><p>To question 1: If no hashing of PII takes place before the event is sent to TikTok, we will automatically hash the values before they are sent. TikTok will never receive a plain-text value for PII (please see a sample of their hashed values here):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7798906e22094d708f54494b215cff8c.png\" height=\"399.351\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7798906e22094d708f54494b215cff8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837983&amp;x-signature=7Nmpa4p8WESrrh9Yy0UkxepUBUk%3D\" width=\"375\"><p><br /></p><p>To question 2: The Advanced Matching looks to populate well:</p><p> even with their Single Page Application (SPA). I only see values for Automatic Advanced Matching, which is fine, but we always recommend they implement Manual Advanced Matching, to make sure the attributions report the best they can. Please ask them to implement MAM (instructions <a href=\"https://business-api.tiktok.com/portal/docs?rid=5ipocbxyw8v&amp;id=1701890972946433\" target=\"_blank\">here</a>). To reiterate, a plain-text version of email or phone number is never stored by TikTok.</p><p><br /></p><p>Please let me know if you have further questions!</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Emma,</p><p><br /></p><p>To question 1: If no hashing of PII takes place before the event is sent to TikTok, we will automatically hash the values before they are sent. TikTok will never receive a plain-text value for PII (please see a sample of their hashed values here):</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7798906e22094d708f54494b215cff8c.png\" height=\"399.351\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7798906e22094d708f54494b215cff8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273515&amp;x-signature=gx4W1%2BwumHlkC4rL8UDVhiBX6HY%3D\" width=\"375\"><p><br /></p><p>To question 2: The Advanced Matching looks to populate well:</p><p> even with their Single Page Application (SPA). I only see values for Automatic Advanced Matching, which is fine, but we always recommend they implement Manual Advanced Matching, to make sure the attributions report the best they can. Please ask them to implement MAM (instructions <a href=\"https://business-api.tiktok.com/portal/docs?rid=5ipocbxyw8v&amp;id=1701890972946433\" target=\"_blank\">here</a>). To reiterate, a plain-text version of email or phone number is never stored by TikTok.</p><p><br /></p><p>Please let me know if you have further questions!</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         }
       ],
@@ -381,7 +381,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Emma, </p><p><br /></p><p>Thanks again for the ping! You can always reach me directly in Lark as well if needed.</p><p><br /></p><p>I checked the data for https://www.duluthtrading.com/ for <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CB7HM3BC77U17NU5JRLG?start_time=2024-02-28&amp;end_time=2024-03-05&amp;aadvid=6917279018458808321\" target=\"_blank\">pixel id CB7HM3BC77U17NU5JRLG</a> and honestly things look pretty good! I am seeing match points for lower funnel events reporting and very close to 100%, including Automatic Advanced Matching for Email and Phone_number, cookie, user agent, and ip. </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/dd7081d8499c4d1189d27dc9e17dc668.png\" height=\"83.097\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dd7081d8499c4d1189d27dc9e17dc668.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837983&amp;x-signature=VgSX9ikoJxiG4vFnE8xqAy6gmy8%3D\" width=\"375\"><p>I will attach the above data in Excel from, because I did see a few CompletePayment events where no content data came through. I have highlighted the 'properties' column in orange, which shows all the parameter data that comes through for purchases. If they check the rows, some of the transactions show the message:</p><p>[\"MISSING_CONTENT_ID\",\"MISSING_CURRENCY_PARAMETER\"</p><p>They can use these individual events as a reference to troubleshoot why a handful of their purchases are not passing content_id or currency, which are required for campaigns to qualify for VSA, VBO, and other products.</p><p><br /></p><p>There is also a ,\"MISSING_EMAIL_AND_PHONE\" message, but they can ignore that. As noted above, Automatic Advanced Matching is working great.</p><p><br /></p><p>Mostly ViewContent and AddToCart fired as expected but I did see a couple of instances where these events fired five or more times for one action. For example:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/59aa2cd67ec143d9ade2bef86297df84.png\" height=\"181.971\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/59aa2cd67ec143d9ade2bef86297df84.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837983&amp;x-signature=dymkCkxRhq3M%2B7BMrSptu6wzb%2Fw%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2cb38a1d1ada4ee78620d64edf9229e7.png\" height=\"168.932\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2cb38a1d1ada4ee78620d64edf9229e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837983&amp;x-signature=lQzbtOlnQYWzZMt52n%2Ba00b1lhY%3D\" width=\"375\"><p>they will want to check into this as well. I am curious as to whether they are using Adobe Launch, as recently I have received reports from other advertisers using Adobe Launch that events were firing multiple times and not as expected. I don't know the cause yet but wanted to call that out just in case.</p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
+          "content": "<p>Hi Emma, </p><p><br /></p><p>Thanks again for the ping! You can always reach me directly in Lark as well if needed.</p><p><br /></p><p>I checked the data for https://www.duluthtrading.com/ for <a href=\"https://ads.tiktok.com/i18n/events_manager/pixel/detail/CB7HM3BC77U17NU5JRLG?start_time=2024-02-28&amp;end_time=2024-03-05&amp;aadvid=6917279018458808321\" target=\"_blank\">pixel id CB7HM3BC77U17NU5JRLG</a> and honestly things look pretty good! I am seeing match points for lower funnel events reporting and very close to 100%, including Automatic Advanced Matching for Email and Phone_number, cookie, user agent, and ip. </p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/dd7081d8499c4d1189d27dc9e17dc668.png\" height=\"83.097\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dd7081d8499c4d1189d27dc9e17dc668.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273515&amp;x-signature=x6rYs3%2BKQL6Vvw0joyCs8Kl30fI%3D\" width=\"375\"><p>I will attach the above data in Excel from, because I did see a few CompletePayment events where no content data came through. I have highlighted the 'properties' column in orange, which shows all the parameter data that comes through for purchases. If they check the rows, some of the transactions show the message:</p><p>[\"MISSING_CONTENT_ID\",\"MISSING_CURRENCY_PARAMETER\"</p><p>They can use these individual events as a reference to troubleshoot why a handful of their purchases are not passing content_id or currency, which are required for campaigns to qualify for VSA, VBO, and other products.</p><p><br /></p><p>There is also a ,\"MISSING_EMAIL_AND_PHONE\" message, but they can ignore that. As noted above, Automatic Advanced Matching is working great.</p><p><br /></p><p>Mostly ViewContent and AddToCart fired as expected but I did see a couple of instances where these events fired five or more times for one action. For example:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/59aa2cd67ec143d9ade2bef86297df84.png\" height=\"181.971\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/59aa2cd67ec143d9ade2bef86297df84.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273515&amp;x-signature=M6Aen7dv0Lj%2FIMZRg2vhnsCbkx8%3D\" width=\"375\"><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/2cb38a1d1ada4ee78620d64edf9229e7.png\" height=\"168.932\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2cb38a1d1ada4ee78620d64edf9229e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273515&amp;x-signature=GSBYAefR8BNNCuIYIoDsrloMg3E%3D\" width=\"375\"><p>they will want to check into this as well. I am curious as to whether they are using Adobe Launch, as recently I have received reports from other advertisers using Adobe Launch that events were firing multiple times and not as expected. I don't know the cause yet but wanted to call that out just in case.</p><p><br /></p><p>Thanks, Heidi</p></img></img></img>",
           "type": 6
         }
       ],
@@ -418,9 +418,9 @@
             {
               "file_type": "xlsx",
               "file_name": "Duluth Trading TikTok Events 03-05.xlsx",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0OnUkg5fEEQZbDwAD1lStCsdEBQFUAmo3AA2f.xlsx?lk3s=cbe26b3a&x-expires=4832837983&x-signature=M3CGHWwAl%2FGTjAubhSjvYo9CefY%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0OnUkg5fEEQZbDwAD1lStCsdEBQFUAmo3AA2f.xlsx?lk3s=cbe26b3a&x-expires=4833273515&x-signature=keCHf2GdPvoq2SWpHKR2LwaYhUo%3D",
               "file_key": "tos-alisg-v-90231e-sg/o0OnUkg5fEEQZbDwAD1lStCsdEBQFUAmo3AA2f.xlsx",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0OnUkg5fEEQZbDwAD1lStCsdEBQFUAmo3AA2f.xlsx?lk3s=cbe26b3a&x-expires=4832837983&x-signature=M3CGHWwAl%2FGTjAubhSjvYo9CefY%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0OnUkg5fEEQZbDwAD1lStCsdEBQFUAmo3AA2f.xlsx?lk3s=cbe26b3a&x-expires=4833273515&x-signature=keCHf2GdPvoq2SWpHKR2LwaYhUo%3D",
               "biz_type": 2,
               "size": 1537230
             }
@@ -569,7 +569,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Emma, </p><p><br /></p><p>Answers to the questions below:</p><p><br /></p><ol><li><span style=\"color: #222222;\">There are some Complete Payment events where the product Content_Id and Currency parameter values are missing.  These are intermittent and constitute a small fraction of Complete Payment events?  I’d think all Complete Payment events would be missing the parameter values, so I’m unclear on how best to further investigate.  Could you filter the worksheet on only the problematic events? </span></li></ol><p><span style=\"color: #222222;\">If you are seeing the missing content_id and currency in the TTEM diagnostics, you can go ahead and dismiss those messages. Checking the data (example typical of all events I checked here):</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5a857076d4e2415393fc0f78aed15855.png\" height=\"98.955\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a857076d4e2415393fc0f78aed15855.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837983&amp;x-signature=JwSje3VXep%2Bv3ViZw3AdBFtGliA%3D\" width=\"375\"><p><span style=\"color: #222222;\">I'm not seeing missing data for CompletePayment, so that is an old message that can be ignored.</span></p><p><br /></p><ol><li><span style=\"color: #222222;\">There are cases where View Content and AddToCart events are firing multiple times.  I can confirm we <em>are</em> using Adobe Launch currently as our tag manager, so that aligns with your comment about other advertisers seeing the same issue. </span></li></ol><p>If you get a chance, would you be able to test a staging version of your site without the Adobe plugin, and let me know the result? Otherwise, I can look further double-firing from my side.</p><ol><li><span style=\"color: #222222;\">Missing Email and Phone is a known issue with our site and we can ignore, Automatic matching is working well with high match rates. </span></li></ol><p><span style=\"color: #222222;\">Agreed, the Automatic Advanced Matching is working perfectly so no worries.</span></p><p><br /></p><p><span style=\"color: #222222;\">Thanks, Heidi</span></p></img>",
+          "content": "<p>Hi Emma, </p><p><br /></p><p>Answers to the questions below:</p><p><br /></p><ol><li><span style=\"color: #222222;\">There are some Complete Payment events where the product Content_Id and Currency parameter values are missing.  These are intermittent and constitute a small fraction of Complete Payment events?  I’d think all Complete Payment events would be missing the parameter values, so I’m unclear on how best to further investigate.  Could you filter the worksheet on only the problematic events? </span></li></ol><p><span style=\"color: #222222;\">If you are seeing the missing content_id and currency in the TTEM diagnostics, you can go ahead and dismiss those messages. Checking the data (example typical of all events I checked here):</span></p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/5a857076d4e2415393fc0f78aed15855.png\" height=\"98.955\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a857076d4e2415393fc0f78aed15855.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273515&amp;x-signature=AXyUdmjbm3x%2FU117uhy%2FKWWPUj8%3D\" width=\"375\"><p><span style=\"color: #222222;\">I'm not seeing missing data for CompletePayment, so that is an old message that can be ignored.</span></p><p><br /></p><ol><li><span style=\"color: #222222;\">There are cases where View Content and AddToCart events are firing multiple times.  I can confirm we <em>are</em> using Adobe Launch currently as our tag manager, so that aligns with your comment about other advertisers seeing the same issue. </span></li></ol><p>If you get a chance, would you be able to test a staging version of your site without the Adobe plugin, and let me know the result? Otherwise, I can look further double-firing from my side.</p><ol><li><span style=\"color: #222222;\">Missing Email and Phone is a known issue with our site and we can ignore, Automatic matching is working well with high match rates. </span></li></ol><p><span style=\"color: #222222;\">Agreed, the Automatic Advanced Matching is working perfectly so no worries.</span></p><p><br /></p><p><span style=\"color: #222222;\">Thanks, Heidi</span></p></img>",
           "type": 6
         }
       ],
@@ -777,7 +777,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 324392,
+  "pending_time": 759924,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -957,50 +957,50 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7798906e22094d708f54494b215cff8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837983&x-signature=7Nmpa4p8WESrrh9Yy0UkxepUBUk%3D",
-          "file_name": "file_20240318_14_59_43_320258",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7798906e22094d708f54494b215cff8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837983&x-signature=7Nmpa4p8WESrrh9Yy0UkxepUBUk%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7798906e22094d708f54494b215cff8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273515&x-signature=gx4W1%2BwumHlkC4rL8UDVhiBX6HY%3D",
+          "file_name": "file_20240323_15_58_35_238507",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7798906e22094d708f54494b215cff8c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273515&x-signature=gx4W1%2BwumHlkC4rL8UDVhiBX6HY%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7798906e22094d708f54494b215cff8c.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/59aa2cd67ec143d9ade2bef86297df84.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837983&x-signature=dymkCkxRhq3M%2B7BMrSptu6wzb%2Fw%3D",
-          "file_name": "file_20240318_14_59_43_568147",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/59aa2cd67ec143d9ade2bef86297df84.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837983&x-signature=dymkCkxRhq3M%2B7BMrSptu6wzb%2Fw%3D",
-          "file_key": "tos-alisg-i-6g3pebcbys-sg/59aa2cd67ec143d9ade2bef86297df84.png",
-          "file_type": "jpeg",
-          "biz_type": 2
-        },
-        {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2cb38a1d1ada4ee78620d64edf9229e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837983&x-signature=lQzbtOlnQYWzZMt52n%2Ba00b1lhY%3D",
-          "file_name": "file_20240318_14_59_43_568228",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2cb38a1d1ada4ee78620d64edf9229e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837983&x-signature=lQzbtOlnQYWzZMt52n%2Ba00b1lhY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2cb38a1d1ada4ee78620d64edf9229e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273515&x-signature=GSBYAefR8BNNCuIYIoDsrloMg3E%3D",
+          "file_name": "file_20240323_15_58_35_504135",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/2cb38a1d1ada4ee78620d64edf9229e7.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273515&x-signature=GSBYAefR8BNNCuIYIoDsrloMg3E%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/2cb38a1d1ada4ee78620d64edf9229e7.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dd7081d8499c4d1189d27dc9e17dc668.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837983&x-signature=VgSX9ikoJxiG4vFnE8xqAy6gmy8%3D",
-          "file_name": "file_20240318_14_59_43_568256",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dd7081d8499c4d1189d27dc9e17dc668.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837983&x-signature=VgSX9ikoJxiG4vFnE8xqAy6gmy8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dd7081d8499c4d1189d27dc9e17dc668.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273515&x-signature=x6rYs3%2BKQL6Vvw0joyCs8Kl30fI%3D",
+          "file_name": "file_20240323_15_58_35_504228",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/dd7081d8499c4d1189d27dc9e17dc668.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273515&x-signature=x6rYs3%2BKQL6Vvw0joyCs8Kl30fI%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/dd7081d8499c4d1189d27dc9e17dc668.png",
+          "file_type": "jpeg",
+          "biz_type": 2
+        },
+        {
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/59aa2cd67ec143d9ade2bef86297df84.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273515&x-signature=M6Aen7dv0Lj%2FIMZRg2vhnsCbkx8%3D",
+          "file_name": "file_20240323_15_58_35_504247",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/59aa2cd67ec143d9ade2bef86297df84.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273515&x-signature=M6Aen7dv0Lj%2FIMZRg2vhnsCbkx8%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/59aa2cd67ec143d9ade2bef86297df84.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
           "file_type": "xlsx",
           "file_name": "Duluth Trading TikTok Events 03-05.xlsx",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0OnUkg5fEEQZbDwAD1lStCsdEBQFUAmo3AA2f.xlsx?lk3s=cbe26b3a&x-expires=4832837983&x-signature=M3CGHWwAl%2FGTjAubhSjvYo9CefY%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0OnUkg5fEEQZbDwAD1lStCsdEBQFUAmo3AA2f.xlsx?lk3s=cbe26b3a&x-expires=4833273515&x-signature=keCHf2GdPvoq2SWpHKR2LwaYhUo%3D",
           "file_key": "tos-alisg-v-90231e-sg/o0OnUkg5fEEQZbDwAD1lStCsdEBQFUAmo3AA2f.xlsx",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0OnUkg5fEEQZbDwAD1lStCsdEBQFUAmo3AA2f.xlsx?lk3s=cbe26b3a&x-expires=4832837983&x-signature=M3CGHWwAl%2FGTjAubhSjvYo9CefY%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/o0OnUkg5fEEQZbDwAD1lStCsdEBQFUAmo3AA2f.xlsx?lk3s=cbe26b3a&x-expires=4833273515&x-signature=keCHf2GdPvoq2SWpHKR2LwaYhUo%3D",
           "biz_type": 2,
           "size": 1537230
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a857076d4e2415393fc0f78aed15855.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837983&x-signature=JwSje3VXep%2Bv3ViZw3AdBFtGliA%3D",
-          "file_name": "file_20240318_14_59_43_765311",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a857076d4e2415393fc0f78aed15855.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837983&x-signature=JwSje3VXep%2Bv3ViZw3AdBFtGliA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a857076d4e2415393fc0f78aed15855.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273515&x-signature=AXyUdmjbm3x%2FU117uhy%2FKWWPUj8%3D",
+          "file_name": "file_20240323_15_58_35_722068",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5a857076d4e2415393fc0f78aed15855.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273515&x-signature=AXyUdmjbm3x%2FU117uhy%2FKWWPUj8%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/5a857076d4e2415393fc0f78aed15855.png",
           "file_type": "jpeg",
           "biz_type": 2

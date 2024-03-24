@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Andy,</p><p>Thanks for reaching out! This message can actually be safely ignored as a false positive as it looks like they have a Subscribe event setup through custom code and appears to be tracking those subscribe events:</p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/CN7RQ43C77UF9CBTRNG0?aadvid=7241977627148386306</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7f840a7cf1b643aeaea27688d2f2fd3c.png\" height=\"185.818\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f840a7cf1b643aeaea27688d2f2fd3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832838111&amp;x-signature=VlGYtt%2Fwx3QySTBp9kG8LOh3NHA%3D\" width=\"375\"><p>If they don't have this resource already, please feel free to send it over to the advertiser for reference since it looks like they are using Google Tag Manager: https://github.com/tiktok/gtm-template-pixel/blob/main/README.md</p><ul><li>They do not have to use the template if they already are using a Custom HTML tag implementation but have the flexibility to do so if they'd like.</li></ul><p>However, they can certainly setup more events to get the most out of their implementation. Please take a look at the following implementation doc for my recommendations! This can be shared directly with the client</p><p>https://bytedance.us.larkoffice.com/docx/JnT3dr2SLoVgsLxvn1DupVvIske</p><p>I'd be more than happy to hop on a call to discuss this and any other questions/items they'd like! We can also discuss a future potential Events API implementation if they are willing. If so, I can also further add the required Events API configuration items to the doc I've created for the client.</p><p>Thanks!</p><p>Robbie</p></img>",
+          "content": "<p>Hi Andy,</p><p>Thanks for reaching out! This message can actually be safely ignored as a false positive as it looks like they have a Subscribe event setup through custom code and appears to be tracking those subscribe events:</p><p>https://ads.tiktok.com/i18n/events_manager/pixel/detail/CN7RQ43C77UF9CBTRNG0?aadvid=7241977627148386306</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/7f840a7cf1b643aeaea27688d2f2fd3c.png\" height=\"185.818\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f840a7cf1b643aeaea27688d2f2fd3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273619&amp;x-signature=FS7iOMT09j4ejKvOC5fU55KPag0%3D\" width=\"375\"><p>If they don't have this resource already, please feel free to send it over to the advertiser for reference since it looks like they are using Google Tag Manager: https://github.com/tiktok/gtm-template-pixel/blob/main/README.md</p><ul><li>They do not have to use the template if they already are using a Custom HTML tag implementation but have the flexibility to do so if they'd like.</li></ul><p>However, they can certainly setup more events to get the most out of their implementation. Please take a look at the following implementation doc for my recommendations! This can be shared directly with the client</p><p>https://bytedance.us.larkoffice.com/docx/JnT3dr2SLoVgsLxvn1DupVvIske</p><p>I'd be more than happy to hop on a call to discuss this and any other questions/items they'd like! We can also discuss a future potential Events API implementation if they are willing. If so, I can also further add the required Events API configuration items to the doc I've created for the client.</p><p>Thanks!</p><p>Robbie</p></img>",
           "type": 6
         }
       ],
@@ -241,7 +241,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 2408252,
+  "pending_time": 2843760,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -417,15 +417,15 @@
         {
           "file_type": "png",
           "file_name": "QRV_PixelError.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a5447b3a77284b38a3f8fed79c2700f3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838111&x-signature=3cZoh0H44BlJ6iAeg511lS5RBdE%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a5447b3a77284b38a3f8fed79c2700f3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273619&x-signature=X4Hv9%2BdLLvXG30VMsNXQ2w%2F4TOs%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/a5447b3a77284b38a3f8fed79c2700f3.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a5447b3a77284b38a3f8fed79c2700f3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838111&x-signature=3cZoh0H44BlJ6iAeg511lS5RBdE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/a5447b3a77284b38a3f8fed79c2700f3.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273619&x-signature=X4Hv9%2BdLLvXG30VMsNXQ2w%2F4TOs%3D",
           "size": 43654
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f840a7cf1b643aeaea27688d2f2fd3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838111&x-signature=VlGYtt%2Fwx3QySTBp9kG8LOh3NHA%3D",
-          "file_name": "file_20240318_15_01_51_438768",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f840a7cf1b643aeaea27688d2f2fd3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832838111&x-signature=VlGYtt%2Fwx3QySTBp9kG8LOh3NHA%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f840a7cf1b643aeaea27688d2f2fd3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273619&x-signature=FS7iOMT09j4ejKvOC5fU55KPag0%3D",
+          "file_name": "file_20240323_16_00_19_733803",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/7f840a7cf1b643aeaea27688d2f2fd3c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273619&x-signature=FS7iOMT09j4ejKvOC5fU55KPag0%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/7f840a7cf1b643aeaea27688d2f2fd3c.png",
           "file_type": "jpeg",
           "biz_type": 2

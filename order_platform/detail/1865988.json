@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://s3-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s1-imfile.feishucdn.com/static-resource/v1/40265bd7-e37c-47b5-85dd-01c34f74ef3g~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Saurabh Choudhary",
   "create_time": 1707423879,
   "deadline": 0,
@@ -33,7 +33,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Sophia,</p><p>I dug deeper into the issue and this missing content_id is not a tiktok issue but rather its because user is not sending <strong>content_id </strong> with some initiate_checkout signals.</p><p>I was able to replicate this issue by following steps:</p><p><br /></p><ol><li>Add any item into the cart </li><li>visit https://shop.usa.yamaha.com/en/checkout/#payment</li></ol><p>this triggers initiate_checkout with <strong>content_id </strong> being absent.</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4e33561c78cb4c9bbf8e54ae258c4b84.png\" height=\"311.484\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4e33561c78cb4c9bbf8e54ae258c4b84.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837847&amp;x-signature=1ZLyfaaSa6m1J9diy2r9JgTcDDM%3D\" width=\"375\"><p><br /></p><p>You can forward this info and ask user to fix the initiate_chekout signal on there end.</p><p>Also additionally ,</p><p>I highly recommend </p><p>1.adding <strong>ViewContent</strong> on every product page</p><p>2.Implement <strong>Events Api </strong>for higher signal strength</p><p>If client needs more help, we can have a<strong> call with their dev team</strong></p><p><br /></p><p>Use this link to schedule meeting on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img>",
+          "content": "<p>Hi Sophia,</p><p>I dug deeper into the issue and this missing content_id is not a tiktok issue but rather its because user is not sending <strong>content_id </strong> with some initiate_checkout signals.</p><p>I was able to replicate this issue by following steps:</p><p><br /></p><ol><li>Add any item into the cart </li><li>visit https://shop.usa.yamaha.com/en/checkout/#payment</li></ol><p>this triggers initiate_checkout with <strong>content_id </strong> being absent.</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/4e33561c78cb4c9bbf8e54ae258c4b84.png\" height=\"311.484\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4e33561c78cb4c9bbf8e54ae258c4b84.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273421&amp;x-signature=WvCCbc6xLTUxv4s7cNj0Jo7n2WQ%3D\" width=\"375\"><p><br /></p><p>You can forward this info and ask user to fix the initiate_chekout signal on there end.</p><p>Also additionally ,</p><p>I highly recommend </p><p>1.adding <strong>ViewContent</strong> on every product page</p><p>2.Implement <strong>Events Api </strong>for higher signal strength</p><p>If client needs more help, we can have a<strong> call with their dev team</strong></p><p><br /></p><p>Use this link to schedule meeting on my calendar</p><p>http://tinyurl.com/Saurabh-scheduler</p></img>",
           "type": 6
         }
       ],
@@ -90,7 +90,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_ac28729a-40f9-4762-989f-5a26b9bb8e1h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_ac28729a-40f9-4762-989f-5a26b9bb8e1h~?image_size=noop&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 5,
   "current_role": null,
@@ -272,7 +272,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1511597,
+  "pending_time": 1947171,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -448,15 +448,15 @@
         {
           "file_type": "png",
           "file_name": "image001 (9).png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e88ac1f054aa4356afc31154854a05c5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837847&x-signature=iElbdgzYhH2JnMeYXCJkUg5w5K8%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e88ac1f054aa4356afc31154854a05c5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273421&x-signature=JtOAnBujHDmI1r1fGBGZ63TeMsw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/e88ac1f054aa4356afc31154854a05c5.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e88ac1f054aa4356afc31154854a05c5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837847&x-signature=iElbdgzYhH2JnMeYXCJkUg5w5K8%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/e88ac1f054aa4356afc31154854a05c5.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273421&x-signature=JtOAnBujHDmI1r1fGBGZ63TeMsw%3D",
           "size": 107319
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4e33561c78cb4c9bbf8e54ae258c4b84.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837847&x-signature=1ZLyfaaSa6m1J9diy2r9JgTcDDM%3D",
-          "file_name": "file_20240318_14_57_27_529551",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4e33561c78cb4c9bbf8e54ae258c4b84.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837847&x-signature=1ZLyfaaSa6m1J9diy2r9JgTcDDM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4e33561c78cb4c9bbf8e54ae258c4b84.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273421&x-signature=WvCCbc6xLTUxv4s7cNj0Jo7n2WQ%3D",
+          "file_name": "file_20240323_15_57_01_282870",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/4e33561c78cb4c9bbf8e54ae258c4b84.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273421&x-signature=WvCCbc6xLTUxv4s7cNj0Jo7n2WQ%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/4e33561c78cb4c9bbf8e54ae258c4b84.png",
           "file_type": "jpeg",
           "biz_type": 2

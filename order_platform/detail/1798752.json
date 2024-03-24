@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_a05ad864-bff1-449e-a4bf-80280e690ahu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0091_9712e435-fb38-4e78-9d31-ce0af86aa2hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Serdar Cokbulan",
   "create_time": 1704727537,
   "deadline": 0,
@@ -39,6 +39,35 @@
       ],
       "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_a05ad864-bff1-449e-a4bf-80280e690ahu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
       "context": {}
+    },
+    {
+      "is_hide_reply": false,
+      "create_time": 1710938234,
+      "auto_close_hit": 0,
+      "id": 7348422457667207000,
+      "reply_role": "admin",
+      "staff_id": 3590617,
+      "type": 0,
+      "is_questioner": false,
+      "is_update": true,
+      "editable": 0,
+      "reply_email": "serdar.cokbulan@bytedance.com",
+      "is_blocked_role": false,
+      "is_final_solution": 0,
+      "reply_name": "Serdar Cokbulan",
+      "reply_to_user_id": null,
+      "is_hide_name": false,
+      "core_user_id": "7280554823819215873",
+      "name": "Serdar Cokbulan",
+      "blocked_roles": [],
+      "items": [
+        {
+          "content": "<p>[Status Update] This was cancelled because the .dk domain was already implemented via Shopify. Score already 100 pts.</p>",
+          "type": 6
+        }
+      ],
+      "avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_0091_9712e435-fb38-4e78-9d31-ce0af86aa2hu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+      "context": {}
     }
   ],
   "enable_forced_order_type": 0,
@@ -66,7 +95,7 @@
   "fd_permission": 1,
   "status": 1,
   "business_data": [],
-  "update_time": 1704795026,
+  "update_time": 1710938331,
   "owner_name": "Adam Bjergvang",
   "enable_auto_close_v2": 0,
   "time_after_overtime": 0,
@@ -168,7 +197,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 5974207,
+  "pending_time": 269956,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -344,25 +373,25 @@
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-08 at 16.24.20.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9730efbbc1ed43fe8f31cedd8e66552c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833232&x-signature=xsYjDelWOWSECrBwmbNYtQ9tlYg%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9730efbbc1ed43fe8f31cedd8e66552c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272189&x-signature=FrHFkPb8lERlg0KS2rdO955axvE%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/9730efbbc1ed43fe8f31cedd8e66552c.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9730efbbc1ed43fe8f31cedd8e66552c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833232&x-signature=xsYjDelWOWSECrBwmbNYtQ9tlYg%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/9730efbbc1ed43fe8f31cedd8e66552c.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272189&x-signature=FrHFkPb8lERlg0KS2rdO955axvE%3D",
           "size": 265205
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-08 at 16.24.31.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c8846131742642d9a302c5a93d682491.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833232&x-signature=d3EHXpECWhgEpPNFbHehjhBvGEs%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c8846131742642d9a302c5a93d682491.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272189&x-signature=K%2Bj2o4mBsk5VZ7ZYFE8fHPymTE4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/c8846131742642d9a302c5a93d682491.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c8846131742642d9a302c5a93d682491.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833232&x-signature=d3EHXpECWhgEpPNFbHehjhBvGEs%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/c8846131742642d9a302c5a93d682491.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272189&x-signature=K%2Bj2o4mBsk5VZ7ZYFE8fHPymTE4%3D",
           "size": 419423
         },
         {
           "file_type": "png",
           "file_name": "Screenshot 2024-01-08 at 16.24.39.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec2afcae3d02464abce999b00c87fb36.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833232&x-signature=bzOL%2FjY%2BGTOIyumZApcWUhFMLFs%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec2afcae3d02464abce999b00c87fb36.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272189&x-signature=ZH%2FkBmX%2Fjo2CH7TcTzWbgliJCgU%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/ec2afcae3d02464abce999b00c87fb36.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec2afcae3d02464abce999b00c87fb36.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832833232&x-signature=bzOL%2FjY%2BGTOIyumZApcWUhFMLFs%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ec2afcae3d02464abce999b00c87fb36.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833272189&x-signature=ZH%2FkBmX%2Fjo2CH7TcTzWbgliJCgU%3D",
           "size": 322056
         }
       ],

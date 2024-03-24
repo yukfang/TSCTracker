@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497459354658",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1707762834,
   "deadline": 0,
@@ -99,9 +99,9 @@
             {
               "file_type": "png",
               "file_name": "image001.png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=gg2AYD9g4l60pdQG48Bi4LljsBE%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273474&x-signature=6NFoEnHHc34%2BQNM56GrPpr1F1n4%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=gg2AYD9g4l60pdQG48Bi4LljsBE%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273474&x-signature=6NFoEnHHc34%2BQNM56GrPpr1F1n4%3D",
               "biz_type": 2,
               "size": 200062
             }
@@ -163,7 +163,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Josh,</p><p><br /></p><p>It's hard for me to tell from the attached screen shot:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/89f7c456836d47fab5d2dacd17f2373d.png\" height=\"258.675\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/89f7c456836d47fab5d2dacd17f2373d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837925&amp;x-signature=9hFBnHm3t2EAPIWBErSJvU1mX9Y%3D\" width=\"375\"><p>what the dates are that I need to look at to find a discrepancy. Also, for the TikTok pixel, I am only seeing the 'form' event firing (in addition to PageView, which I don't include in my report):</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/216a231c902342da860282a4e1706754.png\" height=\"143.407\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/216a231c902342da860282a4e1706754.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837925&amp;x-signature=Ro776jhJTuMeDm3X%2FQrOLbyF8gM%3D\" width=\"375\"><p>if you could give me a date range, and how many 'form' events the external analytics are reporting vs. the number TikTok is reporting, I can escalate this to our data team and have them take a closer look. Also, please let me know what the external platform Unlock is using, in case that helps the team investigate.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
+          "content": "<p>Hi Josh,</p><p><br /></p><p>It's hard for me to tell from the attached screen shot:</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/89f7c456836d47fab5d2dacd17f2373d.png\" height=\"258.675\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/89f7c456836d47fab5d2dacd17f2373d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273474&amp;x-signature=p7e%2FyUbWGyLWMHoc%2BJFRtzL3euw%3D\" width=\"375\"><p>what the dates are that I need to look at to find a discrepancy. Also, for the TikTok pixel, I am only seeing the 'form' event firing (in addition to PageView, which I don't include in my report):</p><img alt data-image_key=\"tos-alisg-i-6g3pebcbys-sg/216a231c902342da860282a4e1706754.png\" height=\"143.407\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/216a231c902342da860282a4e1706754.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273474&amp;x-signature=0lNKzzHxM6rrlbtE%2B2jzA8An7%2Bw%3D\" width=\"375\"><p>if you could give me a date range, and how many 'form' events the external analytics are reporting vs. the number TikTok is reporting, I can escalate this to our data team and have them take a closer look. Also, please let me know what the external platform Unlock is using, in case that helps the team investigate.</p><p><br /></p><p>Thanks, Heidi</p></img></img>",
           "type": 6
         }
       ],
@@ -200,9 +200,9 @@
             {
               "file_type": "png",
               "file_name": "image001 (2).png",
-              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=R38LNBrt67TSTEj%2FuCFd%2F5qUJck%3D",
+              "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273474&x-signature=mo6wFWe1SMdXsmW9pKR6o4nyD3k%3D",
               "file_key": "tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png",
-              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=R38LNBrt67TSTEj%2FuCFd%2F5qUJck%3D",
+              "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273474&x-signature=mo6wFWe1SMdXsmW9pKR6o4nyD3k%3D",
               "biz_type": 2,
               "size": 125733
             }
@@ -359,9 +359,9 @@
             {
               "file_type": "pdf",
               "file_name": "Attribution Analytics_ Performance Comparison [Unlock Technologies Inc].pdf",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf?lk3s=cbe26b3a&x-expires=4832837925&x-signature=n30H3wYSSDcMcbscS7ItbFrMkw8%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf?lk3s=cbe26b3a&x-expires=4833273475&x-signature=Hdy%2FYTsU5cD4PVCk7%2BZgRGoNMG8%3D",
               "file_key": "tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf?lk3s=cbe26b3a&x-expires=4832837925&x-signature=n30H3wYSSDcMcbscS7ItbFrMkw8%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf?lk3s=cbe26b3a&x-expires=4833273475&x-signature=Hdy%2FYTsU5cD4PVCk7%2BZgRGoNMG8%3D",
               "biz_type": 2,
               "size": 1196745
             }
@@ -391,7 +391,7 @@
   "inner": 1,
   "vip_types": [],
   "is_impending_overtime": 0,
-  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v2_c964753b-8a3e-408d-bc60-6c40d9e04b0h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "creater_lark_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0094_25ebde1d-4b78-46a5-b8e1-d8a17733b37h~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "enable_compliance_mode": false,
   "type": 5,
   "current_role": null,
@@ -573,7 +573,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 594761,
+  "pending_time": 1030311,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -749,24 +749,24 @@
         {
           "file_type": "png",
           "file_name": "image001.png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=gg2AYD9g4l60pdQG48Bi4LljsBE%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273474&x-signature=6NFoEnHHc34%2BQNM56GrPpr1F1n4%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=gg2AYD9g4l60pdQG48Bi4LljsBE%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/1717a5dea9aa42759d87fec9ee4444d6.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273474&x-signature=6NFoEnHHc34%2BQNM56GrPpr1F1n4%3D",
           "biz_type": 2,
           "size": 200062
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/89f7c456836d47fab5d2dacd17f2373d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=9hFBnHm3t2EAPIWBErSJvU1mX9Y%3D",
-          "file_name": "file_20240318_14_58_45_283007",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/89f7c456836d47fab5d2dacd17f2373d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=9hFBnHm3t2EAPIWBErSJvU1mX9Y%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/89f7c456836d47fab5d2dacd17f2373d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273474&x-signature=p7e%2FyUbWGyLWMHoc%2BJFRtzL3euw%3D",
+          "file_name": "file_20240323_15_57_54_844430",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/89f7c456836d47fab5d2dacd17f2373d.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273474&x-signature=p7e%2FyUbWGyLWMHoc%2BJFRtzL3euw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/89f7c456836d47fab5d2dacd17f2373d.png",
           "file_type": "jpeg",
           "biz_type": 2
         },
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/216a231c902342da860282a4e1706754.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=Ro776jhJTuMeDm3X%2FQrOLbyF8gM%3D",
-          "file_name": "file_20240318_14_58_45_283067",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/216a231c902342da860282a4e1706754.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=Ro776jhJTuMeDm3X%2FQrOLbyF8gM%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/216a231c902342da860282a4e1706754.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273474&x-signature=0lNKzzHxM6rrlbtE%2B2jzA8An7%2Bw%3D",
+          "file_name": "file_20240323_15_57_54_844502",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/216a231c902342da860282a4e1706754.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273474&x-signature=0lNKzzHxM6rrlbtE%2B2jzA8An7%2Bw%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/216a231c902342da860282a4e1706754.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -774,18 +774,18 @@
         {
           "file_type": "png",
           "file_name": "image001 (2).png",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=R38LNBrt67TSTEj%2FuCFd%2F5qUJck%3D",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273474&x-signature=mo6wFWe1SMdXsmW9pKR6o4nyD3k%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png",
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837925&x-signature=R38LNBrt67TSTEj%2FuCFd%2F5qUJck%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/3903012f406340d69ffcd1d331773daa.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273474&x-signature=mo6wFWe1SMdXsmW9pKR6o4nyD3k%3D",
           "biz_type": 2,
           "size": 125733
         },
         {
           "file_type": "pdf",
           "file_name": "Attribution Analytics_ Performance Comparison [Unlock Technologies Inc].pdf",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf?lk3s=cbe26b3a&x-expires=4832837925&x-signature=n30H3wYSSDcMcbscS7ItbFrMkw8%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf?lk3s=cbe26b3a&x-expires=4833273475&x-signature=Hdy%2FYTsU5cD4PVCk7%2BZgRGoNMG8%3D",
           "file_key": "tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf?lk3s=cbe26b3a&x-expires=4832837925&x-signature=n30H3wYSSDcMcbscS7ItbFrMkw8%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/ogDInjenEiepgtrEqWxGeDKrz5ILAARAAWrLA2.pdf?lk3s=cbe26b3a&x-expires=4833273475&x-signature=Hdy%2FYTsU5cD4PVCk7%2BZgRGoNMG8%3D",
           "biz_type": 2,
           "size": 1196745
         }

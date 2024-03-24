@@ -1,0 +1,303 @@
+{
+  "reply_mode": 1,
+  "time_before_overtime": 0,
+  "set_priority_automatically": false,
+  "is_follow": 0,
+  "category_2": "",
+  "category_1": "1791202334548993",
+  "follower_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v2_89b456bd-831d-4c73-9de2-3e5cbaf2fdhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower": "Miguel Fernández",
+  "create_time": 1710926708,
+  "deadline": 0,
+  "archive_board_id": 1705151646989842,
+  "replies": [],
+  "enable_forced_order_type": 0,
+  "plat_id": 1736490999244882,
+  "archive_category_2_name": "",
+  "pending_from_follower": true,
+  "id": 1956368,
+  "workflow_nodes": [],
+  "board_id": 1705151646989842,
+  "employee_email": "miguel.suarez@bytedance.com",
+  "is_support_suggestion": 0,
+  "title": "Snowprint - SKAN 4.0",
+  "category_1_name": "iOS SKAN Audit",
+  "auto_close_hit": 0,
+  "relation_qual": [],
+  "accountpass": 0,
+  "priority": -1,
+  "inner": 1,
+  "vip_types": [],
+  "is_impending_overtime": 0,
+  "creater_lark_avatar": "https://s16-imfile-sg.feishucdn.com/static-resource/v1/v3_005q_a5868e97-11ab-47e8-b67c-d38137692fhu~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "enable_compliance_mode": false,
+  "type": -1,
+  "current_role": null,
+  "fd_permission": 1,
+  "status": 0,
+  "business_data": [],
+  "update_time": 1710979193,
+  "owner_name": "Oscar Engvall",
+  "enable_auto_close_v2": 0,
+  "time_after_overtime": 0,
+  "swim_lane_status": 1,
+  "enable_forced_order_tag": 1,
+  "satisfied": 0,
+  "category_2_name": "",
+  "reply_name": " MPO Technical Implementation  Team",
+  "is_guest": false,
+  "archive_category_2": "",
+  "archive_category_1_name": "iOS SKAN Audit",
+  "archive_category_1": "1791202334548993",
+  "allow_reopen": 0,
+  "categories": [
+    {
+      "to_user": 1,
+      "categories_id": "1791202334548993",
+      "cate_1_form_id": 1791205071838209,
+      "sub_cates": [],
+      "value": "iOS SKAN Audit"
+    }
+  ],
+  "core_user_id": "7033633722156401666",
+  "plat_name": "MPO Technical Implementation",
+  "follower_role": "TSC",
+  "remark": "",
+  "show_auto_assign": false,
+  "is_overtime": 0,
+  "creater_lark_name": "Oscar Engvall",
+  "follow_employee_id": 7158055,
+  "is_order_top": 0,
+  "urged": 0,
+  "im_chat_id": "",
+  "is_delay": 0,
+  "enable_forced_priority": 0,
+  "pending_time": 231132,
+  "debug_permission": 1,
+  "is_vip": 0,
+  "items": [
+    {
+      "label": "",
+      "content": "Snowprint - SKAN 4.0",
+      "valid": true,
+      "item_id": 1791205071838225,
+      "type": 14,
+      "option_meaning": -1
+    },
+    {
+      "label": "Advertiser / Client Name",
+      "content": "Snowprint",
+      "valid": true,
+      "item_id": 1791205071838241,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Customer Vertical",
+      "content": "Gaming",
+      "valid": true,
+      "key": "Gaming",
+      "item_id": 1791205071838257,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Tier",
+      "content": "Key Account",
+      "valid": true,
+      "key": "Key Account",
+      "item_id": 1791205260785714,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "GBS Country / Region",
+      "content": "EU-SE",
+      "valid": true,
+      "key": "EU",
+      "item_id": 1791205328494657,
+      "type": 4,
+      "option_meaning": 0
+    },
+    {
+      "label": "Your Department / Team",
+      "content": "CSM",
+      "valid": true,
+      "key": "CSM",
+      "item_id": 1791205337175074,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Ad Account ID",
+      "content": "7106810314527670273",
+      "valid": true,
+      "item_id": 1791205337177090,
+      "type": 1,
+      "option_meaning": 4
+    },
+    {
+      "label": "Advertiser Priority Level/Tier",
+      "content": "P1",
+      "valid": true,
+      "key": "P1",
+      "item_id": 1791205337177106,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "iOS Mobile App ID",
+      "content": "1599937506",
+      "valid": true,
+      "item_id": 1791205752022065,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Android Mobile App ID (if available)",
+      "content": "com.snowprintstudios.tacticus",
+      "valid": true,
+      "item_id": 1791205752023041,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "SKAN Version",
+      "content": "Currently on 4.0",
+      "valid": true,
+      "key": "Currently on 4.0",
+      "item_id": 1791205752023057,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Client MMP",
+      "content": "Adjust",
+      "valid": true,
+      "key": "Adjust",
+      "item_id": 1791205757763634,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Reason of request",
+      "content": "Sanity check (including SKAN 4.0 transition)",
+      "valid": true,
+      "key": "Sanity check (including SKAN 4.0 transition)",
+      "item_id": 1791205889917953,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Revenue model",
+      "content": "IAP",
+      "valid": true,
+      "key": "IAP",
+      "item_id": 1791205889918977,
+      "type": 4,
+      "option_meaning": -1
+    },
+    {
+      "label": "Describe the current problem in details (excluding sanity check requests)",
+      "content": "Hi\n\nCould you provide a quick sanity check on their current SKAN 4 setup?\n\nContext on the set up.\nPB1 - Locked at 24 hrs. Postback returns 24-48 hours\nPB2 -  Locked at 7 days. Postback returns 24-144 hours\nBased on rough iOS D7 ARPPU between US/T1/WW\nPB3 - Locked at 30 Days\nSince PB2 and PB3 are unrelated, they were originally thinking that by adding them up in an aggregate way it would reflect a ~D30 value that roughly corresponds to what ought to be different levels of quality.",
+      "valid": true,
+      "item_id": 1791205970506753,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Enter the campaign or ad group ID  (excluding sanity check requests)",
+      "content": "",
+      "valid": true,
+      "item_id": 1791205970506769,
+      "type": 1,
+      "option_meaning": -1
+    },
+    {
+      "label": "Describe the desired future state in details (excluding sanity check requests)",
+      "content": "",
+      "valid": true,
+      "item_id": 1791205970506785,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "Can client see the same behaviour on MMP dashboard?  (excluding sanity check requests)",
+      "content": "",
+      "valid": true,
+      "item_id": 1791205970506801,
+      "type": 9,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshots of partner integration",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "image (5).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab03ded40f9540ca99a3fb6c545302fe.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274326&x-signature=dtLrMNWNeQADcK2TrrkLyTo50dE%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/ab03ded40f9540ca99a3fb6c545302fe.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/ab03ded40f9540ca99a3fb6c545302fe.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274326&x-signature=dtLrMNWNeQADcK2TrrkLyTo50dE%3D",
+          "size": 19720
+        }
+      ],
+      "valid": true,
+      "item_id": 1791205970507809,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "Screenshots of SKAN Conversion Value mapping",
+      "content": [
+        {
+          "file_type": "png",
+          "file_name": "image (3).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5cb6ef9620d841699ba221e287818188.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274326&x-signature=WLnzAFhoKgcgdWgUyKR8EDUT%2F1I%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/5cb6ef9620d841699ba221e287818188.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/5cb6ef9620d841699ba221e287818188.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274326&x-signature=WLnzAFhoKgcgdWgUyKR8EDUT%2F1I%3D",
+          "size": 19356
+        },
+        {
+          "file_type": "png",
+          "file_name": "image (4).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bb1cdbac98904e98b33a9932b8286552.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274326&x-signature=S2o7GuTDRYtqLTl1hujjQiegEZo%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/bb1cdbac98904e98b33a9932b8286552.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/bb1cdbac98904e98b33a9932b8286552.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274326&x-signature=S2o7GuTDRYtqLTl1hujjQiegEZo%3D",
+          "size": 19423
+        },
+        {
+          "file_type": "png",
+          "file_name": "image (5).png",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fccdf82b40eb4d2db86ac70ad7202ff2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274326&x-signature=56sYW8YbNMefX%2BlNVtJJxAJuJv0%3D",
+          "file_key": "tos-alisg-i-6g3pebcbys-sg/fccdf82b40eb4d2db86ac70ad7202ff2.png",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/fccdf82b40eb4d2db86ac70ad7202ff2.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833274326&x-signature=56sYW8YbNMefX%2BlNVtJJxAJuJv0%3D",
+          "size": 19720
+        }
+      ],
+      "valid": true,
+      "item_id": 1791205970507825,
+      "type": 5,
+      "option_meaning": -1
+    },
+    {
+      "label": "Any comments",
+      "content": "They could be totally off here and it was there first attempt just to get something coming in so any insights and best practices would be appreciated!",
+      "valid": true,
+      "item_id": 1791205970508801,
+      "type": 2,
+      "option_meaning": -1
+    },
+    {
+      "label": "categorization",
+      "content": {
+        "category_1_name": "Apps-iOS SKAN Audit"
+      },
+      "valid": true,
+      "item_id": 0,
+      "type": 3,
+      "option_meaning": -1
+    }
+  ],
+  "fs_permission": 1,
+  "auto_close_time_left": null
+}

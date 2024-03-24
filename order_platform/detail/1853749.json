@@ -5,7 +5,7 @@
   "is_follow": 0,
   "category_2": "",
   "category_1": "1736497066245137",
-  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0058_378b53a4-5212-49e0-a821-c5061ab55deh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
+  "follower_avatar": "https://pan16.larksuitecdn.com/static-resource/v1/v3_0093_6d598d1e-f1ae-4b58-814b-30233de243eh~?image_size=72x72&cut_type=&quality=&format=png&sticker_format=.webp",
   "follower": "Heidi Williams",
   "create_time": 1706836734,
   "deadline": 0,
@@ -178,7 +178,7 @@
       "blocked_roles": [],
       "items": [
         {
-          "content": "<p>Hi Anthony,</p><p><br /></p><p>I took a quick look and I am seeing that their dedupe rate must be low, because browser- and server-side events are not matching up. For example, 'shopping' displays almost no matching event ids:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/711d1edbe11e4d769f7dd8577275832e.png\" height=\"259.575\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/711d1edbe11e4d769f7dd8577275832e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4832837681&amp;x-signature=UtoxzT8SmB7ERVYCMeKU5xn2mNY%3D\" width=\"375\"><p>They should troubleshoot their Shopify setup and make sure event_id is correctly implemented. Attaching full data report here.</p><p><br /></p><p>Thanks, Heidi</p></img>",
+          "content": "<p>Hi Anthony,</p><p><br /></p><p>I took a quick look and I am seeing that their dedupe rate must be low, because browser- and server-side events are not matching up. For example, 'shopping' displays almost no matching event ids:</p><img alt=\"image.png\" data-image_key=\"tos-alisg-i-6g3pebcbys-sg/711d1edbe11e4d769f7dd8577275832e.png\" height=\"259.575\" src=\"https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/711d1edbe11e4d769f7dd8577275832e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&amp;x-expires=4833273271&amp;x-signature=RNcL3olYUmA1kyomkTZ7rSaisKo%3D\" width=\"375\"><p>They should troubleshoot their Shopify setup and make sure event_id is correctly implemented. Attaching full data report here.</p><p><br /></p><p>Thanks, Heidi</p></img>",
           "type": 6
         },
         {
@@ -186,9 +186,9 @@
             {
               "file_type": "xlsx",
               "file_name": "Teleties TikTok Events.xlsx",
-              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEAFABEbkcLiZJlBQY0Du1p7AvANDArJ3rAPi.xlsx?lk3s=cbe26b3a&x-expires=4832837681&x-signature=Jd9dRkdJoJ9wX8wfsL5ZadGd%2Bok%3D",
+              "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEAFABEbkcLiZJlBQY0Du1p7AvANDArJ3rAPi.xlsx?lk3s=cbe26b3a&x-expires=4833273271&x-signature=C1AR8q96%2F%2BdfIHyOJAxyr%2FjfAuw%3D",
               "file_key": "tos-alisg-v-90231e-sg/oEAFABEbkcLiZJlBQY0Du1p7AvANDArJ3rAPi.xlsx",
-              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEAFABEbkcLiZJlBQY0Du1p7AvANDArJ3rAPi.xlsx?lk3s=cbe26b3a&x-expires=4832837681&x-signature=Jd9dRkdJoJ9wX8wfsL5ZadGd%2Bok%3D",
+              "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEAFABEbkcLiZJlBQY0Du1p7AvANDArJ3rAPi.xlsx?lk3s=cbe26b3a&x-expires=4833273271&x-signature=C1AR8q96%2F%2BdfIHyOJAxyr%2FjfAuw%3D",
               "biz_type": 2,
               "size": 3908866
             }
@@ -414,7 +414,7 @@
   "im_chat_id": "",
   "is_delay": 0,
   "enable_forced_priority": 0,
-  "pending_time": 1723794,
+  "pending_time": 2159384,
   "debug_permission": 1,
   "is_vip": 0,
   "items": [
@@ -588,9 +588,9 @@
       "label": "Screenshot",
       "content": [
         {
-          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/711d1edbe11e4d769f7dd8577275832e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837681&x-signature=UtoxzT8SmB7ERVYCMeKU5xn2mNY%3D",
-          "file_name": "file_20240318_14_54_41_703936",
-          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/711d1edbe11e4d769f7dd8577275832e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4832837681&x-signature=UtoxzT8SmB7ERVYCMeKU5xn2mNY%3D",
+          "url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/711d1edbe11e4d769f7dd8577275832e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273271&x-signature=RNcL3olYUmA1kyomkTZ7rSaisKo%3D",
+          "file_name": "file_20240323_15_54_31_487254",
+          "file_url": "https://p16-athena-sign-sg.ibyteimg.com/tos-alisg-i-6g3pebcbys-sg/711d1edbe11e4d769f7dd8577275832e.png~tplv-6g3pebcbys-image.jpeg?lk3s=cbe26b3a&x-expires=4833273271&x-signature=RNcL3olYUmA1kyomkTZ7rSaisKo%3D",
           "file_key": "tos-alisg-i-6g3pebcbys-sg/711d1edbe11e4d769f7dd8577275832e.png",
           "file_type": "jpeg",
           "biz_type": 2
@@ -598,9 +598,9 @@
         {
           "file_type": "xlsx",
           "file_name": "Teleties TikTok Events.xlsx",
-          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEAFABEbkcLiZJlBQY0Du1p7AvANDArJ3rAPi.xlsx?lk3s=cbe26b3a&x-expires=4832837681&x-signature=Jd9dRkdJoJ9wX8wfsL5ZadGd%2Bok%3D",
+          "file_url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEAFABEbkcLiZJlBQY0Du1p7AvANDArJ3rAPi.xlsx?lk3s=cbe26b3a&x-expires=4833273271&x-signature=C1AR8q96%2F%2BdfIHyOJAxyr%2FjfAuw%3D",
           "file_key": "tos-alisg-v-90231e-sg/oEAFABEbkcLiZJlBQY0Du1p7AvANDArJ3rAPi.xlsx",
-          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEAFABEbkcLiZJlBQY0Du1p7AvANDArJ3rAPi.xlsx?lk3s=cbe26b3a&x-expires=4832837681&x-signature=Jd9dRkdJoJ9wX8wfsL5ZadGd%2Bok%3D",
+          "url": "https://lf16-athena-ticketing-sign.ibytedtos.com/obj/tos-alisg-v-90231e-sg/oEAFABEbkcLiZJlBQY0Du1p7AvANDArJ3rAPi.xlsx?lk3s=cbe26b3a&x-expires=4833273271&x-signature=C1AR8q96%2F%2BdfIHyOJAxyr%2FjfAuw%3D",
           "biz_type": 2,
           "size": 3908866
         }
